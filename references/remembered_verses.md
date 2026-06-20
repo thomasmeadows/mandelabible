@@ -176,21 +176,46 @@ https://maxthedork.livejournal.com/126279.html
 
 ### Current Versions
 
-Deuteronomy 29:4 - Yet the LORD hath not given you an heart to perceive, and eyes to see, and ears to hear, unto this day.
+Deuteronomy 29:4 - KJV - Yet the LORD hath not given you an heart to perceive, and eyes to see, and ears to hear, unto this day.
 
-Matthew 11:15 - He that hath ears to hear, let him hear.
+Matthew 11:15 - KJV - He that hath ears to hear, let him hear.
 
-Matthew 13:9 - Who hath ears to hear, let him hear.
+Matthew 13:9 - KJV -  Who hath ears to hear, let him hear.
 
-Mark 7:16 - If any man have ears to hear, let him hear.
+Mark 7:16 - KJV - If any man have ears to hear, let him hear.
 
-Mark 4:23 - If any man have ears to hear, let him hear.
+Mark 4:23 - KJV - If any man have ears to hear, let him hear.
 
-Mark 4:9 - And he said unto them, He that hath ears to hear, let him hear.
+Mark 4:9 - KJV - And he said unto them, He that hath ears to hear, let him hear.
 
 ### Problems and what was remembered
 
 The new testament authors do not correctly refrence this verse.  It is remembered that when the new testament authors quoted the old testament they wrote it as "For those with eyes to see, and ears to hear" before begging a parabel.
 
+## Destroyed is a new word in the KJV and shouldn't exist
+
+### Current Versions
+
+Hoseah 4:6 - KJV - My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.
+
+### Problems and what was remembered
+
+The verse used to be - My people "perish" for lack of knowledge.  This verse is also unreasonably longed and probably existed over more lines.
+
+### References
+
+## Crushing the serpant's head
+
+### Current Versions
+
+Genesis 3:15 - KJV - And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
+
+### Problems and what was remembered
+
+This verse used to contain, "I will crush the head of the serpent"
+
 ## Additional References
 https://truthfarmer.com/2016/08/05/rather-exhaustive-list-of-mandela-effect-affected-scriptures/
+https://www.youtube.com/@eyacensored-biblechanges
+https://www.youtube.com/@eya-matrix-news
+https://www.youtube.com/@JFCG
