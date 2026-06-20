@@ -213,9 +213,3 @@ Genesis 3:15 - KJV - And I will put enmity between thee and the woman, and betwe
 ### Problems and what was remembered
 
 This verse used to contain, "I will crush the head of the serpent"
-
-## Additional References
-https://truthfarmer.com/2016/08/05/rather-exhaustive-list-of-mandela-effect-affected-scriptures/
-https://www.youtube.com/@eyacensored-biblechanges
-https://www.youtube.com/@eya-matrix-news
-https://www.youtube.com/@JFCG

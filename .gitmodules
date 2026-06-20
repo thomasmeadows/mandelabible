@@ -1,0 +1,6 @@
+[submodule "bible_databases"]
+	path = bible_databases
+	url = git@github.com:scrollmapper/bible_databases.git
+[submodule "bible_forge_db"]
+	path = bible_forge_db
+	url = git@github.com:bibleforge/BibleForgeDB.git
