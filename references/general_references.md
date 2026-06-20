@@ -15,3 +15,5 @@ https://get.bible/bible-data-sets/
 http://qbible.com/brenton-septuagint/
 
 https://github.com/bibleforge/BibleForgeDB
+
+https://www.gutenberg.org/ebooks/17400

@@ -9,7 +9,9 @@ These are major milestones and should be broken down and planned in more detail.
 [] Identify rare words that don't belong in the KJV and words that did not see significant use during the era the KJV was written
 [] Identify all parentheses and emojis that should not exist in the bible, place them in a database
 [] Identify grammar errors where a sentance is written in a way that would not occur during the time the KJV was written
+[] Identify and circle back to other bible translations and compare them to KJV.
 [] Start reconstructing the bible based on memories, outliers, and words that don't belong.  Document decisions and reasons made.  Every flaw should be documented such as missing letters, bad punctuation
+
 
 
 ## Create a Database
@@ -41,6 +43,10 @@ Plan here
 Plan here
 
 ## Identify grammar errors
+
+Plan here
+
+## Identify other translation modifications for comparing kjv
 
 Plan here
 
