@@ -20,9 +20,10 @@ reflects the current state of open vs. shipped work.
   writing sample, Septuagint interlinear PDF).
 - `.claude/agents/king-james-middle-english-expert.md` — the "King James"
   subagent: the project's linguistic authority for Early Modern English
-  (KJV 1611). Delegate to it for modern→1611 conversion, period-authenticity
-  audits (roadmap Phase 3), restoration phrasing in KJV voice (Phase 6), and
-  glossing archaic witness texts. Its persistent notes live in
+  (KJV 1611). Delegate to it for modern→1611 conversion, dual-era authenticity
+  audits (1611 English + biblical-era referent; roadmap Phase 3, Decision Log
+  #4), restoration phrasing in KJV voice (Phase 6), and glossing archaic
+  witness texts. Its persistent notes live in
   `.claude/agent-memory/king-james-middle-english-expert/`.
 - `bible_databases/` — **read-only sub-repo** (scrollmapper). Per-translation
   SQLite files in `formats/sqlite/` (schema: `<translation>_books`,
@@ -45,7 +46,16 @@ The full asset inventory with rationale lives in the roadmap's
   `sqlite3` CLI and Docker are NOT available in this environment — all
   database work goes through Python scripts.
 - **Authoritative base text**: `bible_databases/formats/sqlite/KJV.db`
-  (66 books, 31,102 verses). All other translations are comparison witnesses.
+  (66 books, 31,102 verses). All other translations are comparison witnesses —
+  **advisory only** under the Premise Revision (see below).
+- **Evidence hierarchy (Premise Revision 2026-07-14, Decision Log #5)**: the
+  premise holds that the timeline alteration rewrote *every* written text, so
+  no corpus in this project is ground truth. Memory testimony
+  (`references/remembered_verses.md`) leads; internal alteration artifacts
+  come second; all texts (witnesses, source languages, Middle English samples,
+  the Essayes) are advisory — they inform style, phrasing, and suspicion
+  scores, but they can never veto a memory. Full statement:
+  `references/instructions.md` → "Premise Revision — 2026-07-14".
 - **Dependencies**: Python standard library first; adding a pip dependency is
   a decision that must be documented in the roadmap's Decision Log.
 - **Decisions**: significant choices are recorded in the roadmap's Decision

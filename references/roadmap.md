@@ -63,6 +63,28 @@ Decisions confirmed with the project owner on 2026-07-14:
 
 3. **Roadmap restructure approved** — all nine original milestones preserved, regrouped into phases; the duplicated "Identify all parentheses" heading from the old file was consolidated into one section.
 
+4. **Dual-era authenticity criterion** (owner decision, 2026-07-14).
+   - A word in the base text is authentic only if it passes two independent tests: **(a) translation era** — the English word existed and was usable in 1611 (the existing `word_era` check); **(b) source era** — the thing the word names, in the sense used in that verse, existed in the world of the underlying text (OT: the ancient Near East of the Hebrew authors, roughly 0 AD and earlier; NT: the first-century AD eastern Mediterranean).
+   - Rationale: a faithful 1611 translator would not name an object the biblical authors could not have known — `instructions.md` requires vocabulary fit for both the original composition era and Early Modern English. Good 1611 English naming a post-biblical referent is a corruption signature, not a clearance.
+   - Rulings are made on the sense-in-context, never the bare headword (polysemy: "couch" the verb at Job 38:40 ≠ "couch" the furniture noun), and start from the underlying Hebrew/Greek word (`WLC.db`/`TR.db`; Strong's data after Phase 4).
+   - Owner-supplied source-era facts recorded with this decision: rigid **bottles** were rare/elite luxuries before 0 AD, while **wineskins** existed and were the heavily-used vessel of the period (relevant to Matthew 9:17 etc., where the Greek ἀσκός names a skin vessel).
+   - Implemented in the `king-james-middle-english-expert` agent (Capability 2 now returns two-axis verdicts) and in Phase 3's `word_era` schema via a `source_verdict` column. When the two axes disagree, both verdicts are recorded and the rendering choice goes to the Phase 6 owner-review workflow.
+
+5. **Premise revision: the alteration reached everything written** (owner decision, 2026-07-14; narrative recorded in `instructions.md` → "Premise Revision — 2026-07-14").
+   - **Scope**: the timeline rewrite altered ALL texts — every Bible translation and manuscript (TR, WLC, Septuagint, Wycliffe, Tyndale, Geneva, modern versions) and secular works (Chaucer, the Essayes, dictionaries). No written corpus is ground truth; all are **advisory**. Witness agreement with the KJV clears nothing, and the Middle English samples may not be good enough to determine the truth of a word's history.
+   - **Evidence hierarchy for restorations** (highest first): (1) corroborated memory — independent agreement among unrelated rememberers and/or co-located alteration artifacts; (2) internal alteration artifacts (character-count seams, style/grammar anomalies, punctuation); (3) advisory texts (witnesses, era attestation, source languages) for phrasing and internal-consistency work only — never a veto over memory.
+   - **Falsifiability anchor**: a memory with no corroboration stays `unconfirmed` — recorded, not restored. Owner review remains required for every restoration.
+   - **Effect on earlier decisions**: Decision Log #4's dual-era audit survives as an **advisory signal generator** — its verdicts feed the corruption index but no longer clear or veto anything. Phase 5's corroboration report now scores memory-vs-memory agreement and artifact co-location; witness readings are recorded as advisory context. Phase 6 candidate generation stays memory-led.
+
+6. **Capitalization ruling: doctrinal capitalization is a corruption signature** (owner decision, 2026-07-14).
+   - "Holy Spirit" and "Holy Ghost" are out of period; the target reading is **"spirit of god"**. Mid-verse doctrinal title-casing (Spirit, Ghost, and similar) and ALL-CAPS words should never occur. Trinitarian proper-name treatment of the spirit is a specific doctrinal convention, not something the < 100 AD authors wrote.
+   - Structural basis: the original languages are caseless — Hebrew has no letter case, and first-century Greek was written in a single case — so every capitalization pattern in the English text is a translator/printer artifact and prime alteration surface.
+   - Base-text facts recorded with this decision: KJV.db has "Holy Ghost" 89 / "Holy Spirit" 7; "Spirit" 159 vs "spirit" 374; ALL-CAPS survives in only 9 verses, all quoted inscriptions (LORD ×6, GOD ×2, JEHOVAH ×1) — internally inconsistent and flagged as seam candidates.
+   - Phase 3 gains a **capitalization audit** (anomaly type `capitalization`). Restoration phrasing (King James agent, Capabilities 1/3) renders divine references lowercase per this ruling — a deliberate divergence from KJV.db casing conventions.
+   - **Sub-decision resolved (owner, 2026-07-14): LORD stays — as the exception, not the rule** (provisional; could change later). The divine-name distinction is preserved: "LORD" for the name YHWH and "Lord" for the title Adonai when they stand apart, and the customary combined forms where they meet ("LORD God" for YHWH Elohim, "Lord GOD" for Adonai YHWH). This is the sole exception to the no-ALL-CAPS rule.
+   - **Recovery mechanism** (the base KJV.db collapsed the distinction to "Lord"): the WLC Hebrew re-derives which "Lord" is which — verified locally: יהוה (YHWH) in 5,790 verses, אדני (Adonai) in 753, both together in 379 (e.g., Ezekiel 2:4 "adonai yhwh") — supplemented by the BibleForge word-level KJV's `divine` marker column once Phase 4 parses it.
+   - **Backlog option (owner request)**: an alternate export with the Hebrew names themselves — "Yahweh" and "Adonai" — inserted in place of LORD/Lord, for readers who want the true Hebrew names.
+
 ---
 
 ## Data Asset Inventory
@@ -207,14 +229,16 @@ Covers *[orig #5]* rare/era-inappropriate words, *[orig #6]* parentheses & emoji
 
 ### Decisions
 - **Rare words**: start with hapax legomena (words appearing exactly once bible-wide) and words appearing ≤5 times — `remembered_verses.md` already observes that "matrix" appears only 5 times, so low frequency is a validated corruption signal.
-- **Era dating** (first attestation): a word is *cleared* if it appears in any pre-1611 witness we hold locally — Wycliffe (1382), Tyndale (1526), Geneva (1599), the Middle English texts, or King James's own essays. Words cleared by none of these become candidates for manual dating.
+- **Era dating** (first attestation): a word is *cleared* if it appears in any pre-1611 witness we hold locally — Wycliffe (1382), Tyndale (1526), Geneva (1599), the Middle English texts, or King James's own essays. Words cleared by none of these become candidates for manual dating. *(Decision Log #5: "cleared" is advisory — attestation lowers a word's corruption-index contribution but cannot overrule memory testimony, since the attestation corpora are themselves altered-timeline texts.)*
   - Open sub-decision (document before implementing): source for external first-use dates — options are a Wiktionary etymology extract, hand-checking flagged words against Merriam-Webster/OED first-known-use (the method `remembered_verses.md` already uses, e.g. "matrix" 1555, "diver" 1511), or both. Hand-checking is fine at first: the flagged list should be small.
+- **Source-era referent check (Decision Log #4)**: era dating above only clears a word for 1611 English (Axis 1). A second, independent test asks whether the word's referent — in the sense used in that verse — existed in the world of the underlying text, checked against the original-language word (`WLC.db`/`TR.db`; Strong's after Phase 4). Judgment calls are delegated to the `king-james-middle-english-expert` agent; verdicts land in `word_era.source_verdict`. A word can be perfectly period 1611 English and still be flagged (e.g. "bottles" where the Greek ἀσκός names a wineskin).
 - **Punctuation audit**: inventory ALL of `( ) ; : ! ?` plus any character outside the expected 1611 set (any non-ASCII symbol, emoji range, em-dashes, curly quotes). Parentheses get special attention per `remembered_verses.md` ("emoticon" artifacts like `;)` produced by `...God;)`).
 - **Grammar checks** (Early Modern English rules, each check documented with its rule):
   - `its` — essentially absent from the 1611 KJV (period English used "his"/"thereof"); any occurrence is suspect.
   - Second-person consistency: thou/thee/thy (singular) vs ye/you/your (plural, object) usage patterns; "your" where "thy" belongs is the exact signature remembered in the Lord's Prayer entry.
   - Verb endings: third-person `-eth` (he loveth), second-person `-est` (thou lovest); bare modern forms ("he loves") are anachronisms.
   - Modern idioms/phrasal constructions flagged by n-gram comparison against the Geneva/Tyndale corpora.
+- **Capitalization audit (Decision Log #6)**: inventory ALL-CAPS tokens (only 9 verses survive in the base text — all quoted inscriptions — an internal inconsistency), mid-verse capitalized words, and doctrinal title-casing ("Holy Ghost" 89, "Holy Spirit" 7, "Spirit" 159 vs "spirit" 374). The original languages are caseless, so all casing is translator/printer artifact and scores as alteration surface.
 
 ### Schema
 ```sql
@@ -223,12 +247,13 @@ CREATE TABLE word_era (
     cleared_by        TEXT,     -- 'Wycliffe', 'Tyndale', 'Geneva1599', 'KJ-Essayes', 'MiddleEnglish', NULL
     first_use_year    INTEGER,  -- from manual/external dating when not cleared
     first_use_source  TEXT,     -- e.g. 'merriam-webster'
-    verdict           TEXT      -- 'period', 'suspect', 'anachronism'
+    verdict           TEXT,     -- 'period', 'suspect', 'anachronism' (Axis 1: 1611 English)
+    source_verdict    TEXT      -- 'source-era', 'source-suspect', 'source-anachronism' (Axis 2: biblical-era referent; Decision Log #4)
 );
 CREATE TABLE anomalies (
     id        INTEGER PRIMARY KEY AUTOINCREMENT,
     verse_id  INTEGER REFERENCES verses(id),
-    type      TEXT,    -- 'rare_word' | 'anachronism' | 'punctuation' | 'emoticon' | 'grammar' | 'length_outlier'
+    type      TEXT,    -- 'rare_word' | 'anachronism' | 'punctuation' | 'emoticon' | 'grammar' | 'length_outlier' | 'capitalization'
     token     TEXT,    -- the offending word/character/pattern, if applicable
     detail    TEXT,    -- human-readable explanation incl. the rule that fired
     score     REAL     -- severity/confidence contribution to the corruption index
@@ -237,12 +262,12 @@ CREATE TABLE anomalies (
 
 ### Tasks
 - [ ] `scripts/05_word_era.py` — build the cleared-word list from local pre-1611 corpora; emit the uncleared list for dating
-- [ ] `scripts/06_punctuation_audit.py` — character/parenthesis/emoticon inventory into `anomalies`
+- [ ] `scripts/06_punctuation_audit.py` — character/parenthesis/emoticon inventory into `anomalies`, plus the capitalization audit (Decision Log #6)
 - [ ] `scripts/07_grammar_checks.py` — the EME rule checks into `anomalies`
 - [ ] Manually date the uncleared word list; record year + source in `word_era`
 
 ### Acceptance criteria
-- Known plants from `remembered_verses.md` are caught by the machinery **without hardcoding them**: "matrix" flagged (rare + late first use), "bottles" flagged (era/idiom mismatch vs witnesses), `(For ... ;)` emoticon patterns flagged, "your/you" in Matthew 6:9–13 flagged by the grammar check.
+- Known plants from `remembered_verses.md` are caught by the machinery **without hardcoding them**: "matrix" flagged (rare + late first use), "bottles" flagged (source-era referent mismatch — the Greek ἀσκός names a wineskin; Decision Log #4), `(For ... ;)` emoticon patterns flagged, "your/you" in Matthew 6:9–13 flagged by the grammar check, "Holy Ghost"/"Holy Spirit" title-casing and the 9 ALL-CAPS inscription verses flagged by the capitalization audit (Decision Log #6).
 - Every anomaly row carries a human-readable `detail` — no bare flags.
 
 ---
@@ -314,11 +339,11 @@ CREATE TABLE memories (
 
 ### Tasks
 - [ ] `scripts/11_import_memories.py` — parse `remembered_verses.md` into `memories`
-- [ ] Cross-check every memory against Phase 4 witnesses and Phase 3 anomalies; record which memories are independently corroborated (e.g. wineskins appears in ERV/EAS; Geneva 1599 wording checked)
+- [ ] Cross-check every memory against Phase 4 witnesses and Phase 3 anomalies; record corroboration per Decision Log #5 — corroboration means independent memory agreement and/or co-located alteration artifacts; witness readings are logged as advisory context only (agreement with the KJV neither confirms nor refutes a memory)
 
 ### Acceptance criteria
 - All entries from `remembered_verses.md` present in `memories` with correct type and scope verses.
-- A corroboration report exists: for each memory, which witnesses/anomaly signals agree.
+- A corroboration report exists: for each memory, its corroboration status (independent memories / artifact signals) plus the advisory witness readings.
 
 ---
 
@@ -327,8 +352,8 @@ CREATE TABLE memories (
 Covers *[orig #9]*: "Start reconstructing the bible based on memories, outliers, and words that don't belong.  Document decisions and reasons made.  Every flaw should be documented such as missing letters, bad punctuation."
 
 ### Decisions
-- **Corruption index** per verse = weighted sum of signals: anachronism score + rarity + punctuation/emoticon flags + grammar flags + witness divergence + memory testimony. Weights are a documented decision to make when the signals exist; memories corroborated by multiple witnesses weigh heaviest (instructions.md Phase 7).
-- **Candidate generation** priority order: (1) remembered text when corroborated, (2) the wording of period witnesses (Geneva/Tyndale) adapted to KJV conventions, (3) Strong's-guided retranslation of the underlying Hebrew/Greek word. The system proposes; a human approves — no restoration is final without review (`status` column).
+- **Corruption index** per verse = weighted sum of signals: anachronism score + rarity + punctuation/emoticon flags + grammar flags + witness divergence + memory testimony. Weights are a documented decision to make when the signals exist; memory testimony weighs heaviest, scaled by its corroboration per Decision Log #5 — independent memory agreement and co-located artifacts, not witness confirmation (instructions.md Phase 7 + Premise Revision).
+- **Candidate generation** priority order (Decision Log #5): (1) remembered text, weighted by corroboration (independent memory agreement and/or co-located alteration artifacts); (2) advisory — the wording of period witnesses (Geneva/Tyndale) adapted to KJV conventions; (3) advisory — Strong's-guided retranslation of the underlying Hebrew/Greek word. Advisory sources shape phrasing and fill gaps; they never veto a memory. The system proposes; a human approves — no restoration is final without review (`status` column).
 - Every restoration row must be reproducible: which anomalies and witnesses drove it, and why the chosen reading won.
 
 ### Schema
@@ -362,6 +387,7 @@ CREATE TABLE restorations (
 ## Backlog / Future Ideas (not scheduled)
 
 - Stylometric author fingerprinting and multi-author book separation (instructions.md Phases 3–4) — needs Phases 2–4 data first.
+- Alternate export with the Hebrew divine names inserted — "Yahweh" (יהוה) and "Adonai" (אדני) in place of LORD/Lord — as an optional reader's version (owner request 2026-07-14; Decision Log #6). Needs the same WLC/BibleForge divine-name alignment as the LORD recovery.
 - Septuagint (Brenton) as an additional OT witness — PDF interlinear exists in `references/`; a machine-readable source would be needed.
 - Cross-reference data (`formats/sqlite/extras/cross_references_*.db`) for parallel-passage consistency checks (instructions.md Phase 9).
 - Character-count-preservation artifact search (instructions.md Phase 8) — `verse_stats.char_count` already collects the raw data.

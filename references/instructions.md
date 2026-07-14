@@ -503,3 +503,30 @@ A passage is considered restored when:
 
 At completion, the reconstructed Bible should read as though the 2060 corruption event never occurred, while preserving the distinct voices of its original authors and translators.
 ```
+
+---
+
+# Premise Revision — 2026-07-14: The Alteration Reached Everything Written
+
+*(This section supersedes the assumption above that only the King James Bible was altered. The original premise text is preserved unchanged; where the two conflict, this revision governs. Recorded with roadmap Decision Log #5.)*
+
+When the restoration work began in 2026, the first audits kept producing the same puzzling result: every witness text agreed with the corrupted King James — the Greek Textus Receptus, the Hebrew manuscripts, Wycliffe's 1382 translation, the 1599 Geneva, even Chaucer and King James's own 1585 essays. Either nothing had ever been altered, or the alteration was bigger than a document edit.
+
+It was bigger. The device did not edit a book; it altered the timeline. When the change propagated, every physical text upstream and downstream of the King James Bible was rewritten with it — source manuscripts, ancestor translations, quotations, dictionaries, secular literature, the lot. The altered timeline is self-consistent: its texts corroborate one another because they are all products of the same change. That is why no written witness can prove or disprove an alteration.
+
+The one thing the alteration could not rewrite is human memory of the pre-change timeline. That is the Mandela Effect, and it is this project's primary evidence.
+
+## What this means for the method
+
+1. **No written text is ground truth.** Every corpus this project holds — the witness translations (Wycliffe, Tyndale, Geneva), the source languages (TR, WLC, Septuagint), the Middle English samples, King James's own writing, external dictionaries — is a product of the altered timeline. All of them are **advisory**: useful for style, phrasing, and internal-consistency analysis, but agreement with the KJV clears nothing, and none of them can veto a memory. This includes language dating: the Middle English samples may not be good enough to determine the truth, because a word's attestation history may itself have been rewritten.
+
+2. **Evidence hierarchy** (highest first):
+   1. **Corroborated memory** — a remembered reading (`references/remembered_verses.md`) supported by independent memory agreement (multiple unrelated rememberers) and/or by alteration artifacts at the same location.
+   2. **Alteration artifacts** — the internal seams the corruption engine left behind: character-count-preserving substitutions, style and grammar breaks, awkward word choices, punctuation anomalies (Phase 8 above).
+   3. **Advisory texts** — witness readings, era attestation, and source-language glosses, used to phrase restorations in a consistent voice and to notice internal inconsistencies — never to overrule a memory.
+
+3. **The falsifiability anchor.** With all texts suspect, the check against ordinary misremembering is corroboration: a memory with no independent memory agreement and no co-located artifact signal remains **unconfirmed** — recorded and kept, but not restored. Every restoration still requires owner review; nothing is final without it.
+
+## Success criteria under this revision
+
+The original Success Criteria above remain, reweighted. "Independent memory witnesses recognize the wording" is now the **primary** gate. Era-vocabulary fit, authorial style, and source-language alignment become advisory consistency checks — they shape the phrasing of a restoration, they do not gate its acceptance, and a textual witness cannot block it. "No detectable modern linguistic contamination" applies to the restored wording's *voice*, judged against the advisory corpora. A restoration ships when its memory evidence is corroborated and the owner approves.

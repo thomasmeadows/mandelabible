@@ -128,6 +128,8 @@ Like couches, Tables was rarely used when the KJV was written and wouldn't have 
 ### Memory
 What is "the spirit of error?"  Never has the bible contained such a non-sensacle phrase.
 
+**Update 2026-07-14 (owner):** The remembered reading conveys being *led astray* — something like "caused to be led astray" — not "error." Advisory textual context, recorded per the Premise Revision (all texts are altered-timeline evidence and cannot veto this memory): the altered timeline's Greek TR reads πλάνη (*planē*, "a wandering / leading astray") at 1 John 4:6, and its witnesses agree with the current KJV (Wycliffe 1382 "spirit of errour", Geneva 1599 "spirit of errour"). Corroboration status: pending Phase 5 (independent memories / co-located alteration artifacts).
+
 
 ## Love replaced with Charity
 
@@ -204,7 +206,28 @@ The verse used to be - My people "perish" for lack of knowledge.  This verse is 
 
 ### References
 
-## Crushing the serpant's head
+## Improper capitalization — "Holy Ghost", "Holy Spirit", and ALL CAPS words
+
+### Current Versions
+
+Matthew 1:18 - KJV - ...she was found with child of the Holy Ghost.
+
+Luke 11:13 - KJV - ...how much more shall your heavenly Father give the Holy Spirit to them that ask him?
+
+"Holy Ghost" appears in 89 verses and "Holy Spirit" in 7. Mid-verse capitalized "Spirit" appears in 159 verses against lowercase "spirit" in 374. Nine verses retain ALL-CAPS words: "LORD" in 6 (Exodus 28:36, Exodus 39:30, Deuteronomy 28:58, Jeremiah 23:6, Zechariah 14:20, Revelation 19:16), "GOD" in 2 (Deuteronomy 28:58, Acts 17:23), "JEHOVAH" in 1 (Exodus 17:15).
+
+### Memory / Owner ruling (2026-07-14)
+
+"Holy Spirit" and "Holy Ghost" are both out of period — the out-of-place capitalization gives it away. Many capitalized words and phrases should not be capitalized, and they are generally out of the historical context of < 100 AD when the words were written. ALL CAPS WORDS should never occur. "Holy Ghost" being a part of the trinity is a catholic belief and not one that stands true across religion. It should be written as "spirit of god".
+
+**Amendment (owner, 2026-07-14):** "LORD" is kept as the sole exception to the no-ALL-CAPS rule — the exception, not the rule, and this could change later. It marks the divine name YHWH as distinct from the title Adonai ("Lord"), with the customary combined forms where the two meet. A future optional version may insert the true Hebrew names, "Yahweh" and "Adonai", instead. See roadmap Decision Log #6.
+
+### Advisory textual context (per Premise Revision)
+
+- The original languages carry no capitalization contrast at all: Hebrew has no letter case, and the Greek of < 100 AD was written in a single case (the TR transcription here is single-case throughout: "το πνευμα του θεου", "το αγιον πνευμα"). Every capitalization pattern in an English Bible is therefore a translator/printer artifact, never something the original authors wrote — structurally consistent with this memory.
+- "spirit of god" has direct source-language support wherever the text reads πνευμα (του) θεου / ruach elohim (e.g. Matthew 3:16, Genesis 1:2).
+- The nine ALL-CAPS verses in the base KJV.db all mark quoted inscriptions (signet engravings, altar dedications, the name written on the vesture) — and they are internally inconsistent with the rest of the base text, which renders the divine name as "Lord" throughout. Candidate alteration seams.
+- 1 John 5:7 ("the Father, the Word, and the Holy Ghost: and these three are one") — even the altered timeline's own scholarship documents this trinitarian verse as a late insertion absent from the early Greek manuscripts, and the local record disagrees with itself here: Wycliffe reads "the Fadir, the **Sone**, and the Hooli Goost" where KJV/Geneva/TR read "the Word."
 
 ### Current Versions
 
