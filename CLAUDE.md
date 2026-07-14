@@ -1,0 +1,115 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with this repository.
+
+## Roadmap & Task Tracking
+
+**When looking for new work, read the roadmap:**
+[`references/roadmap.md`](./references/roadmap.md). It holds the prioritized
+backlog of **open** items; pick the next unchecked item from the top unless told
+otherwise.
+
+**When a task is completed, mark it done in the roadmap** so the roadmap always
+reflects the current state of open vs. shipped work.
+
+## Project Structure & Data Assets
+
+- `references/` — mission instructions (`instructions.md`), the roadmap
+  (`roadmap.md`), remembered-verse evidence (`remembered_verses.md`), and
+  period-language reference texts (Middle English works, King James's own
+  writing sample, Septuagint interlinear PDF).
+- `.claude/agents/king-james-middle-english-expert.md` — the "King James"
+  subagent: the project's linguistic authority for Early Modern English
+  (KJV 1611). Delegate to it for modern→1611 conversion, period-authenticity
+  audits (roadmap Phase 3), restoration phrasing in KJV voice (Phase 6), and
+  glossing archaic witness texts. Its persistent notes live in
+  `.claude/agent-memory/king-james-middle-english-expert/`.
+- `bible_databases/` — **read-only sub-repo** (scrollmapper). Per-translation
+  SQLite files in `formats/sqlite/` (schema: `<translation>_books`,
+  `<translation>_verses`, `translations`), including the KJV, period witnesses
+  (Geneva1599, Tyndale, Wycliffe), and original-language texts (TR, WLC).
+  Cross-references in `formats/sqlite/extras/`.
+- `bible_forge_db/` — **read-only sub-repo** (BibleForge). Gzipped MySQL dumps:
+  word-level KJV, Strong's-tagged Hebrew/Greek, and lexicons. No MySQL server
+  is installed; these get parsed into SQLite by a script (roadmap Phase 4).
+- `scripts/` — numbered, idempotent Python scripts, one per roadmap task
+  (created starting at roadmap Phase 0).
+- `db/mandela.db` — the single working SQLite database all scripts build.
+
+The full asset inventory with rationale lives in the roadmap's
+"Data Asset Inventory" section.
+
+## Technical Conventions
+
+- **Database**: SQLite via Python 3.12's built-in `sqlite3` module. The
+  `sqlite3` CLI and Docker are NOT available in this environment — all
+  database work goes through Python scripts.
+- **Authoritative base text**: `bible_databases/formats/sqlite/KJV.db`
+  (66 books, 31,102 verses). All other translations are comparison witnesses.
+- **Dependencies**: Python standard library first; adding a pip dependency is
+  a decision that must be documented in the roadmap's Decision Log.
+- **Decisions**: significant choices are recorded in the roadmap's Decision
+  Log with rationale — nothing is decided silently.
+- The two sub-repos are source material and must never be modified.
+
+## Important Work Guidelines
+
+### Content Modification Protocol
+**CRITICAL**:
+1. **NO REMOVAL**: I must NOT remove, erase, or delete any existing work (text, translations, references, data) that I did not write in the current session without the user's explicit permission.
+2. **REORGANIZING/MOVING**: If content needs to be moved to another file, restructured, or rearranged, I MUST prompt the user and obtain their explicit approval BEFORE making those changes.
+3. **PRESERVATION**: Prioritize preserving existing work unless instructed otherwise.
+
+---
+
+### Clarification Protocol
+**CRITICAL**: Before beginning any task or making assumptions about requirements, Claude MUST ask clarifying questions when:
+
+1. **Ambiguous Directives**: When a task could be interpreted in multiple ways or key details are missing
+2. **Context-Based Assumptions**: When the request seems to imply something based on context, but the specific intent is unclear
+3. **Scope Uncertainty**: When it's unclear how extensive the changes should be
+4. **Approach Choices**: When multiple approaches are possible and user preference isn't specified
+5. **File Selection**: When it's unclear which specific files or sections should be modified
+6. **Source/Reference Questions**: When it's unclear which source text, manuscript, or reference should be treated as authoritative for a given passage
+7. **Validation Requirements**: When it's unclear what level of review or verification is needed
+
+### Communication Protocols
+- "Act like a Senior or Lead Developer" → After asking questions and a response is given that is insufficient: You MUST ask for more information about the answer.
+- "Do not assume correctness" → When a directive is given, do not assume the person giving the directive is correct in their assumption. Never say you are right without verifying. Never apologize for mistakes. State, let us try to fix that now.
+- It is better to communicate about a problem than implement an incorrect solution to an assumed problem.
+
+### Feature Development Protocol
+- "Do not build in features that were not discussed in a conversation."
+- "Follow the existing pattern of similar files."
+- "Follow the Minimum Viable Product Pattern" → Get the feature working first, then improvements or additional features can be discussed. Don't start new features until the MVP is complete.
+
+### Refactoring Protocol
+- "Do not erase working content without permission." → The work was correct before the reorganization, it should be correct after. Reorganizing means moving content around to be more easily reused or to clear ambiguity — nothing should be lost in the process.
+
+### Documentation Maintenance Protocol
+**REQUIRED**: After completing any task, Claude MUST update relevant documentation:
+
+1. **Primary Documentation**: Update this main `CLAUDE.md` file if changes affect:
+   - Overall project structure or workflow
+   - New major sources, references, or systems
+   - Conventions for translation, spelling, or formatting
+
+2. **Documentation Requirements**:
+   - Add new sections for significant additions
+   - Update existing sections when practices change
+   - Update file listings when new important files are added
+   - Maintain consistency in formatting and structure across all documentation
+
+### Required Documentation Reading Protocol
+
+**🚨 CRITICAL REQUIREMENT FOR ALL WORK**:
+
+Before making ANY changes, Claude MUST read and follow:
+1. **This primary `CLAUDE.md` file** — for work protocols and project guidelines
+2. **`references/instructions.md`** — for project-specific instructions
+3. **`references/general_references.md`** — for the source and reference materials in use
+
+**Failure to read and follow the appropriate documentation files before work may result in:**
+- Inconsistent conventions
+- Missing critical requirements
+- Breaking or contradicting existing work

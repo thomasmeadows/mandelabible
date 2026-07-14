@@ -17,3 +17,7 @@ http://qbible.com/brenton-septuagint/
 https://github.com/bibleforge/BibleForgeDB
 
 https://www.gutenberg.org/ebooks/17400
+
+https://en.wikipedia.org/wiki/James_VI_and_I
+
+https://www.thekjvstore.com/articles/the-story-behind-the-king-james-bible/
