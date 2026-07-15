@@ -73,6 +73,12 @@ REVIEWS_2026_07_14 = [
      "owner approved all rescan substitution groups (sessions A-F)"),
     ("Owner ruling 2026-07-15 (rescan review, group F2)", "approved",
      "owner chose 'the market place of Appius' for Acts 28:15"),
+    # review session 7 (2026-07-15): community-reported blog-sweep memories,
+    # all eight approved with owner-chosen alternates (set-you-free ×2,
+    # two-or-more, exchangers, goods, lying-signs order, basket, Exodus 34:14
+    # name clause dropped, Luke sword).
+    ("Review session 7 2026-07-15", "approved",
+     "owner approved all eight blog-sweep restorations"),
 ]
 
 

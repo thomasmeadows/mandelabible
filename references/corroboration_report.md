@@ -155,7 +155,7 @@ Top artifact signals:
 
 - **Type**: capitalization  |  **Primary ref**: Matthew 1:18  |  **Status**: **artifact-supported**
 - Scope verses resolved: 13/13
-- Co-located artifact signals: 49
+- Co-located artifact signals: 50
 - Public memory documentation: 0 link(s)
 - Advisory witness readings attached: 8
 
@@ -178,7 +178,7 @@ Top artifact signals:
 
 - **Type**: word_substitution  |  **Primary ref**: Genesis 7:11  |  **Status**: **artifact-supported**
 - Scope verses resolved: 15/15
-- Co-located artifact signals: 11
+- Co-located artifact signals: 10
 - Public memory documentation: 0 link(s)
 - Advisory witness readings attached: 9
 
@@ -193,7 +193,7 @@ Top artifact signals:
 
 - **Type**: word_substitution  |  **Primary ref**: Nehemiah 12:27  |  **Status**: **artifact-supported**
 - Scope verses resolved: 2/2
-- Co-located artifact signals: 5
+- Co-located artifact signals: 4
 - Public memory documentation: 0 link(s)
 - Advisory witness readings attached: 4
 
@@ -202,13 +202,12 @@ Top artifact signals:
 - II Corinthians 9:12: [rare_word] 'administration' appears only 1x bible-wide (hapax legomenon)
 - II Corinthians 9:12: [rare_word] 'supplieth' appears only 2x bible-wide
 - II Corinthians 9:12: [rare_word] 'thanksgivings' appears only 2x bible-wide
-- word_era: 'thanksgivings' verdict=suspect (attested in no local pre-1611 corpus)
 
 ## Wizards are not period accurate — sorcerers used sorcery
 
 - **Type**: word_substitution  |  **Primary ref**: Leviticus 19:31  |  **Status**: **artifact-supported**
 - Scope verses resolved: 14/14
-- Co-located artifact signals: 14
+- Co-located artifact signals: 13
 - Public memory documentation: 0 link(s)
 - Advisory witness readings attached: 6
 
@@ -218,6 +217,84 @@ Top artifact signals:
 - Deuteronomy 18:11: [rare_word] 'consulter' appears only 1x bible-wide (hapax legomenon)
 - Deuteronomy 18:11: [rare_word] 'wizard' appears only 2x bible-wide
 - Deuteronomy 18:11: [rare_word] 'necromancer' appears only 1x bible-wide (hapax legomenon)
+
+## Two or three should be two or more
+
+- **Type**: unclassified  |  **Primary ref**: Matthew 18:20  |  **Status**: **unconfirmed**
+- Scope verses resolved: 1/1
+- Co-located artifact signals: 0
+- Public memory documentation: 1 link(s)
+- Advisory witness readings attached: 3
+
+## God's name is Jealous — Exodus 34:14 problem
+
+- **Type**: unclassified  |  **Primary ref**: Exodus 34:14  |  **Status**: **unconfirmed**
+- Scope verses resolved: 1/1
+- Co-located artifact signals: 0
+- Public memory documentation: 2 link(s)
+- Advisory witness readings attached: 2
+
+## Lying signs and wonders — word order swapped
+
+- **Type**: unclassified  |  **Primary ref**: II Thessalonians 2:9  |  **Status**: **unconfirmed**
+- Scope verses resolved: 1/1
+- Co-located artifact signals: 0
+- Public memory documentation: 1 link(s)
+- Advisory witness readings attached: 2
+
+## The truth shall set you free
+
+- **Type**: unclassified  |  **Primary ref**: John 8:32  |  **Status**: **unconfirmed**
+- Scope verses resolved: 1/1
+- Co-located artifact signals: 0
+- Public memory documentation: 1 link(s)
+- Advisory witness readings attached: 3
+
+## Modern words in Luke — bank, stuff
+
+- **Type**: unclassified  |  **Primary ref**: Luke 19:23  |  **Status**: **corroborated**
+- Scope verses resolved: 4/4
+- Co-located artifact signals: 5
+- Public memory documentation: 1 link(s)
+- Advisory witness readings attached: 9
+
+Top artifact signals:
+- Luke 12:24: [rare_word] 'ravens' appears only 5x bible-wide
+- Luke 12:24: [rare_word] 'storehouse' appears only 2x bible-wide
+- Luke 12:24: [rare_word] 'barn' appears only 4x bible-wide
+- Matthew 25:27: [rare_word] 'oughtest' appears only 4x bible-wide
+- Matthew 25:27: [rare_word] 'exchangers' appears only 1x bible-wide (hapax legomenon)
+
+## Moses was found in a basket, not an ark of bulrushes
+
+- **Type**: unclassified  |  **Primary ref**: Exodus 2:3  |  **Status**: **corroborated**
+- Scope verses resolved: 1/1
+- Co-located artifact signals: 5
+- Public memory documentation: 1 link(s)
+- Advisory witness readings attached: 2
+
+Top artifact signals:
+- Exodus 2:3: [punctuation] character U+2019 '’' outside expected 1611 set
+- Exodus 2:3: [rare_word] 'bulrushes' appears only 2x bible-wide
+- Exodus 2:3: [rare_word] 'slime' appears only 2x bible-wide
+- Exodus 2:3: [rare_word] 'flags' appears only 3x bible-wide
+- Exodus 2:3: [rare_word] 'river's' appears only 4x bible-wide
+
+## Sword versus division — cross-gospel inconsistency
+
+- **Type**: unclassified  |  **Primary ref**: Matthew 10:34  |  **Status**: **unconfirmed**
+- Scope verses resolved: 2/2
+- Co-located artifact signals: 0
+- Public memory documentation: 1 link(s)
+- Advisory witness readings attached: 6
+
+## Prophetic frame verses (context, not changes)
+
+- **Type**: unclassified  |  **Primary ref**: Amos 8:11  |  **Status**: **unconfirmed**
+- Scope verses resolved: 4/4
+- Co-located artifact signals: 0
+- Public memory documentation: 2 link(s)
+- Advisory witness readings attached: 6
 
 ## Money is the root of all evil
 
@@ -259,12 +336,26 @@ Top artifact signals:
 
 ## On earth as it is in heaven
 
-- **Type**: word_substitution  |  **Primary ref**: Matthew 6:10  |  **Status**: **corroborated**
+- **Type**: word_substitution  |  **Primary ref**: Matthew 6:10  |  **Status**: **artifact-supported**
 - Scope verses resolved: 2/2
 - Co-located artifact signals: 1
-- Public memory documentation: 1 link(s)
+- Public memory documentation: 0 link(s)
 - Advisory witness readings attached: 6
 
 Top artifact signals:
 - Luke 11:2: [grammar] R2: second-person mixing — thou-series ['thy'] and you-series ['ye'] in one verse (weak signal; the Lord's Prayer 'your-for-thy' signature)
+
+## On earth as it is in heaven
+
+- **Type**: word_substitution  |  **Primary ref**: Matthew 24:15  |  **Status**: **corroborated**
+- Scope verses resolved: 1/1
+- Co-located artifact signals: 4
+- Public memory documentation: 11 link(s)
+- Advisory witness readings attached: 3
+
+Top artifact signals:
+- Matthew 24:15: [punctuation] parenthesis '(' at position 117
+- Matthew 24:15: [punctuation] parenthesis ')' at position 152
+- Matthew 24:15: [emoticon] emoticon pattern ':)' in context '...m understand:)'
+- Matthew 24:15: [rare_word] 'readeth' appears only 4x bible-wide
 

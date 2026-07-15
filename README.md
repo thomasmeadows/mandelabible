@@ -14,7 +14,7 @@ first, internal alteration artifacts second, all written texts advisory.
 
 ## Download the MVP
 
-The complete 66-book restored text — 435 owner-reviewed restorations, every
+The complete 66-book restored text — 444 owner-reviewed restorations, every
 changed verse marked, every original reading preserved in the appendix:
 
 - [PDF (1,365 pages)](./exports/MandelaBible-MVP.pdf)
@@ -33,6 +33,8 @@ Per-book exports with footnoted changes live in [`exports/`](./exports/).
 | [`references/word_review_report.md`](./references/word_review_report.md) | Generated: the era audit's flagged words with advised period alternates |
 | [`references/uncleared_words.md`](./references/uncleared_words.md) | Generated: KJV words unattested in the local pre-1611 corpora |
 | [`references/word_reviews/`](./references/word_reviews/) | The raw agent review verdicts (first pass, second opinion, owner rulings) |
+| [`references/sources.md`](./references/sources.md) | **Comprehensive source list** — every data set, reference text, and public Mandela-effect-Bible source catalogued so far |
+| [`references/blog_search_references/`](./references/blog_search_references/) | Raw multi-engine blog/website search results (public memory literature) |
 | [`references/general_references.md`](./references/general_references.md) | External sources and links |
 | [`CLAUDE.md`](./CLAUDE.md) | Working conventions for the AI tooling |
 

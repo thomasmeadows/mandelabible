@@ -135,6 +135,8 @@ What already exists in this repo and what each asset is for:
 - `Rather Exhaustive List of Mandela Effect Affected Scriptures _ Truth Farmer.pdf` — candidate passage list to seed Phase 5.
 - `instructions.md` — mission framing and the ten-phase restoration methodology this roadmap implements.
 - `general_references.md` — external links.
+- `sources.md` — comprehensive source list (all data sets, reference texts, and public Mandela-effect-Bible literature; compiled 2026-07-15).
+- `blog_search_references/` — raw multi-engine search results (chatgpt ×2, claude, grok, leo) cataloguing the public bible-changes literature; fed 9 new community-reported entries into `remembered_verses.md` on 2026-07-15 (two-or-more, name-is-Jealous, lying-signs word order, set-you-free, Luke bank/stuff, Moses' basket, sword/division, prophetic-frame verses).
 
 ---
 

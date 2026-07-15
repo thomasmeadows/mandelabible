@@ -81,6 +81,53 @@ OWNER_DIRECTED = [
      "Owner ruling 2026-07-15 (rescan review, group F2): 'Appii forum' is "
      "translated as 'the market place of Appius' — a phrase replacement, so it "
      "lives here rather than in the word-level alternates."),
+    # Review session 7 (2026-07-15): community-reported memories from the
+    # blog sweep, each alternate chosen by the owner.
+    ("John 8:32", "word_substitution",
+     "And ye shall know the truth, and the truth shall set you free.",
+     "Review session 7 2026-07-15: remembered 'set you free'; owner approved "
+     "for 8:32 and 8:36 (consistency)."),
+    ("John 8:36", "word_substitution",
+     "If the Son therefore shall set you free, ye shall be free indeed.",
+     "Review session 7 2026-07-15: make->set extended to 8:36 for consistency "
+     "(owner choice)."),
+    ("Matthew 18:20", "word_substitution",
+     "For where two or more are gathered together in my name, there am I in "
+     "the midst of them.",
+     "Review session 7 2026-07-15: remembered 'two or more'; owner approved."),
+    ("Luke 19:23", "word_substitution",
+     "Wherefore then gavest not thou my money to the exchangers, that at my "
+     "coming I might have required mine own with usury?",
+     "Review session 7 2026-07-15: 'bank' is anachronistic — Greek trapeza "
+     "(money-changer's table); owner chose the KJV's own Matthew 25:27 "
+     "rendering 'to the exchangers'."),
+    ("Luke 17:31", "word_substitution",
+     "In that day, he which shall be upon the housetop, and his goods in the "
+     "house, let him not come down to take it away: and he that is in the "
+     "field, let him likewise not return back.",
+     "Review session 7 2026-07-15: 'stuff' -> 'goods' (Greek skeue); owner "
+     "approved."),
+    ("II Thessalonians 2:9", "phrase_change",
+     "Even him, whose coming is after the working of Satan with all power and "
+     "lying signs and wonders,",
+     "Review session 7 2026-07-15: remembered word order 'lying signs and "
+     "wonders'; owner approved."),
+    ("Exodus 2:3", "word_substitution",
+     "And when she could not longer hide him, she took for him a basket of "
+     "bulrushes, and daubed it with slime and with pitch, and put the child "
+     "therein; and she laid it in the flags by the river’s brink.",
+     "Review session 7 2026-07-15: remembered 'basket'; owner chose 'basket "
+     "of bulrushes' (minimal change, keeps the material)."),
+    ("Exodus 34:14", "phrase_change",
+     "For thou shalt worship no other god: for the LORD is a jealous God:",
+     "Review session 7 2026-07-15: Hebrew qanna is an adjective, not a name; "
+     "owner chose to drop the false 'whose name is Jealous' clause and "
+     "restore LORD for YHWH (Decision Log #6)."),
+    ("Luke 12:51", "word_substitution",
+     "Suppose ye that I am come to give peace on earth? I tell you, Nay; but "
+     "rather a sword:",
+     "Review session 7 2026-07-15: parallel Matthew 10:34 reads 'a sword'; "
+     "rememberers recall agreement; owner approved division -> a sword."),
 ]
 
 # phrase-level memories: row created, phrasing delegated (proposed_text NULL)

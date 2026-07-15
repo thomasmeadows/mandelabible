@@ -308,6 +308,123 @@ Wizards are not period accurate. Another word was used — magicians were **sorc
 - Source words: "wizard" renders Hebrew יִדְּעֹנִי (*yidde'oni*, H3049, "knowing one"), always paired with the "familiar spirit" (אוֹב *'ob*); "magicians" renders חַרְטֹם (*chartom*, H2748, the Egyptian/Babylonian occult scribes). Both name occult practitioners — "sorcerer" covers the referent.
 - Corroboration status: pending Phase 5.
 
+## Two or three should be two or more
+
+### Current Versions
+
+Matthew 18:20 - KJV - For where two or three are gathered together in my name, there am I in the midst of them.
+
+### Memory (community-reported, blog sweep 2026-07-15)
+
+Widely documented public memory: "For where **two or more** are gathered in my name." The arbitrary-sounding "two or three" reads as the alteration. Sources: thebibleteachesthis.com catalogue; multiple forum threads.
+
+### References
+
+https://thebibleteachesthis.com/mandela-effect-bible-verses-changed/
+
+## God's name is Jealous — Exodus 34:14 problem
+
+### Current Versions
+
+Exodus 34:14 - KJV - For thou shalt worship no other god: for the Lord, whose name is Jealous, is a jealous God:
+
+### Memory / Problem (community-reported, blog sweep 2026-07-15)
+
+Rememberers report the verse naming God as **Yahweh/Elohim**, not "Jealous." A capitalized attribute presented as the divine *name* is doctrinally and structurally odd (compare Decision Log #6: capitalization is translator/printer artifact — the Hebrew קַנָּא *qanna* is an adjective, "jealous," not a name). The current text also collapses the divine-name distinction here ("the Lord" for YHWH).
+
+### References
+
+https://thebibleteachesthis.com/mandela-effect-bible-verses-changed/ ; https://geekinsider.com/the-mandela-effect-the-bible-bad-changes-to-the-good-book/
+
+## Lying signs and wonders — word order swapped
+
+### Current Versions
+
+II Thessalonians 2:9 - KJV - Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
+
+### Memory (community-reported, blog sweep 2026-07-15)
+
+Remembered as "**lying signs and wonders**" — the adjective governing both nouns. The current "signs and lying wonders" order is the reported change; an entire site (mandelabiblechanges.com) is anchored on this verse. Greek: ψεύδους genitive follows both nouns (τέρασιν ψεύδους), advisory.
+
+### References
+
+http://mandelabiblechanges.com/index.php/2019/10/18/how-the-bible-changes-are-lying-signs-and-wonders/
+
+## The truth shall set you free
+
+### Current Versions
+
+John 8:32 - KJV - And ye shall know the truth, and the truth shall make you free.
+
+### Memory (community-reported, blog sweep 2026-07-15)
+
+The universally quoted form is "and the truth shall **set** you free." "Make you free" is the reported alteration. Cited in the Christian Forums KJV thread.
+
+### References
+
+https://www.christianforums.com/threads/the-mandela-effect-kjv-bible.8047865/
+
+## Modern words in Luke — bank, stuff
+
+### Current Versions
+
+Luke 19:23 - KJV - Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?
+
+Luke 17:31 - KJV - In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away...
+
+Luke 12:24 - KJV - Consider the ravens... which neither have storehouse nor barn...
+
+### Memory / Problem (community-reported, blog sweep 2026-07-15)
+
+Forum rememberers flag these Lukan verses as carrying modern-register words. "**Bank**" (financial institution) is the strongest: the Greek is τράπεζα (*trapeza*, "table" — the money-changer's table), and the banking sense of "bank" is a late Italian loan; a faithful period rendering would be "the exchangers' table" (compare Matthew 25:27 "exchangers"). "**Stuff**" reads as slack modern diction for σκεύη (*skeue*, "goods/vessels").
+
+### References
+
+https://www.christianforums.com/threads/the-mandela-effect-kjv-bible.8047865/
+
+## Moses was found in a basket, not an ark of bulrushes
+
+### Current Versions
+
+Exodus 2:3 - KJV - ...she took for him an ark of bulrushes, and daubed it with slime and with pitch...
+
+### Memory (community-reported, blog sweep 2026-07-15)
+
+Everyone remembers baby Moses in a **basket**. "Ark of bulrushes" (and "slime") are reported as alterations. Hebrew תֵּבָה (*tebah*) is used only here and for Noah's vessel — advisory context for why "ark" appears.
+
+### References
+
+https://blog.world-mysteries.com/guest_authors/mandela-effect-changing-the-bible-magically/
+
+## Sword versus division — cross-gospel inconsistency
+
+### Current Versions
+
+Matthew 10:34 - KJV - ...I came not to send peace, but a sword.
+
+Luke 12:51 - KJV - Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:
+
+### Memory / Problem (community-reported, blog sweep 2026-07-15)
+
+KJV-only forum discussions flag the sword/division divergence between the parallel sayings as a change signature — the parallel passages disagree where rememberers recall agreement ("a sword" in both).
+
+### References
+
+https://www.christianforums.com/threads/the-kjv-mandela-effect-conundrum-kjv-only-folks.7995609/
+
+## Prophetic frame verses (context, not changes)
+
+The community literature repeatedly reads these verses as *foretelling* the alteration phenomenon rather than being altered themselves — recorded here as interpretive context for Phase 5 weighting, not as memory testimony:
+
+- Amos 8:11 — "a famine... of hearing the words of the Lord"
+- Daniel 7:25 — "think to change times and laws"
+- II Thessalonians 2:9–11 — "lying wonders... strong delusion"
+- Revelation 22:18–19 — the warning against adding to or taking from the book
+
+### References
+
+https://thesupernaturalbiblechanges.com/blog/god-foretold-of-the-mandela-effect-in-scripture ; https://alteredbible.com
+
 ## Money is the root of all evil
 
 ### Current Versions
