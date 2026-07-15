@@ -189,7 +189,7 @@
 **16** Bind up the testimony, seal the law among my disciples.
 **17** And I will wait upon the Lord, that hideth his face from the house of Jacob, and I will look for him.
 **18** Behold, I and the children whom the Lord hath given me are for signs and for wonders in Israel from the Lord of hosts, which dwelleth in mount Zion.
-**19** And when they shall say unto you, Seek unto them that have familiar spirits, and unto sorcerers that peep, and that mutter: should not a people seek unto their God? for the living to the dead?[^r179]
+**19** And when they shall say unto you, Seek unto them that have familiar spirits, and unto sorcerers that peep, and that mutter: should not a people seek unto their God? for the living to the dead?[^r241]
 **20** To the law and to the testimony: if they speak not according to this word, it is because there is no light in them.
 **21** And they shall pass through it, hardly bestead and hungry: and it shall come to pass, that when they shall be hungry, they shall fret themselves, and curse their king and their God, and look upward.
 **22** And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and they shall be driven to darkness. 
@@ -259,7 +259,7 @@
 **3** And shall make him of quick understanding in the fear of the Lord: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears:
 **4** But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
 **5** And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.
-**6** The lion also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.[^r137]
+**6** The lion also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.[^r199]
 **7** And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
 **8** And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den.
 **9** They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
@@ -282,7 +282,7 @@
 
 **1** The burden of Babylon, which Isaiah the son of Amoz did see.
 **2** Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
-**3** I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
+**3** I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my excellency.[^r260]
 **4** The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the Lord of hosts mustereth the host of the battle.
 **5** They come from a far country, from the end of heaven, even the Lord, and the weapons of his indignation, to destroy the whole land.
 **6** Howl ye; for the day of the Lord is at hand; it shall come as a destruction from the Almighty.
@@ -392,7 +392,7 @@
 
 **1** The burden of Egypt. Behold, the Lord rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
 **2** And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, and kingdom against kingdom.
-**3** And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the sorcerers.[^r180]
+**3** And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the sorcerers.[^r242]
 **4** And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, the Lord of hosts.
 **5** And the waters shall fail from the sea, and the river shall be wasted and dried up.
 **6** And they shall turn the rivers far away; and the brooks of defence shall be emptied and dried up: the reeds and flags shall wither.
@@ -508,7 +508,7 @@
 **15** Wherefore glorify ye the Lord in the fires, even the name of the Lord God of Israel in the isles of the sea.
 **16** From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously.
 **17** Fear, and the pit, and the snare, are upon thee, O inhabitant of the earth.
-**18** And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the openings from on high are open, and the foundations of the earth do shake.[^r159]
+**18** And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the openings from on high are open, and the foundations of the earth do shake.[^r221]
 **19** The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly.
 **20** The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.
 **21** And it shall come to pass in that day, that the Lord shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.
@@ -999,7 +999,7 @@
 **28** That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid. 
 ## Chapter 45
 
-**1** Thus saith the Lord to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;
+**1** Thus saith the Lord to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two folding gates; and the gates shall not be shut;[^r299]
 **2** I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron:
 **3** And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the Lord, which call thee by thy name, am the God of Israel.
 **4** For Jacob my servant’s sake, and Israel mine elect, I have even called thee by thy name: I have surnamed thee, though thou hast not known me.
@@ -1031,7 +1031,7 @@
 **3** Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, which are borne by me from the belly, which are carried from the womb:
 **4** And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you.
 **5** To whom will ye liken me, and make me equal, and compare me, that we may be like?
-**6** They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.
+**6** They despise gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.[^r298]
 **7** They bear him upon the shoulder, they carry him, and set him in his place, and he standeth; from his place shall he not remove: yea, one shall cry unto him, yet can he not answer, nor save him out of his trouble.
 **8** Remember this, and shew yourselves men: bring it again to mind, O ye transgressors.
 **9** Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,
@@ -1281,7 +1281,7 @@
 **13** In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
 **14** And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter.
 **15** Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the Lord saw it, and it displeased him that there was no judgment.
-**16** And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him.
+**16** And he saw that there was no man, and wondered that there was no intercession: therefore his arm brought salvation unto him; and his righteousness, it sustained him.[^r282]
 **17** For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance for clothing, and was clad with zeal as a cloke.
 **18** According to their deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.
 **19** So shall they fear the name of the Lord from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the Lord shall lift up a standard against him.
@@ -1399,7 +1399,7 @@
 **22** They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands.
 **23** They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the Lord, and their offspring with them.
 **24** And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear.
-**25** The lion and the lamb shall lie down together, and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD.[^r136]
+**25** The lion and the lamb shall lie down together, and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD.[^r198]
 ## Chapter 66
 
 **1** Thus saith the Lord, The heaven is my throne, and the earth is my footstool: where is the house that ye build unto me? and where is the place of my rest?
@@ -1427,8 +1427,12 @@
 **23** And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the Lord.
 **24** And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.  
 
-[^r179]: 8:19 — word_substitution, confidence 0.65, status approved. Was: “And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?”
-[^r137]: 11:6 — phrase_change, confidence 0.765, status approved. Was: “The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.”
-[^r180]: 19:3 — word_substitution, confidence 0.65, status approved. Was: “And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.”
-[^r159]: 24:18 — word_substitution, confidence 0.65, status approved. Was: “And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake.”
-[^r136]: 65:25 — phrase_change, confidence 0.765, status approved. Was: “The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the Lord. ”
+[^r241]: 8:19 — word_substitution, confidence 0.65, status approved. Was: “And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?”
+[^r199]: 11:6 — phrase_change, confidence 0.765, status approved. Was: “The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.”
+[^r260]: 13:3 — word_substitution, confidence 0.55, status approved. Was: “I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.”
+[^r242]: 19:3 — word_substitution, confidence 0.65, status approved. Was: “And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.”
+[^r221]: 24:18 — word_substitution, confidence 0.65, status approved. Was: “And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake.”
+[^r299]: 45:1 — word_substitution, confidence 0.55, status approved. Was: “Thus saith the Lord to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;”
+[^r298]: 46:6 — word_substitution, confidence 0.55, status approved. Was: “They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.”
+[^r282]: 59:16 — word_substitution, confidence 0.55, status approved. Was: “And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him.”
+[^r198]: 65:25 — phrase_change, confidence 0.765, status approved. Was: “The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the Lord. ”

@@ -21,7 +21,7 @@
 **15** And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;
 **16** And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
 **17** So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
-**18** Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the spirit of god.[^r150]
+**18** Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the spirit of god.[^r212]
 **19** Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily.
 **20** But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
 **21** And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.
@@ -161,9 +161,9 @@
 **7** But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.
 **8** Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.
 **9** After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
-**10** Thy kingdom come. Thy will be done on earth, as it is in heaven.[^r185]
+**10** Thy kingdom come. Thy will be done on earth, as it is in heaven.[^r247]
 **11** Give us this day our daily bread.
-**12** And forgive us our trespasses, as we forgive them that trespass against us.[^r138]
+**12** And forgive us our trespasses, as we forgive them that trespass against us.[^r200]
 **13** And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.
 **14** For if ye forgive men their trespasses, your heavenly Father will also forgive you:
 **15** But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.
@@ -183,7 +183,7 @@
 **29** And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.
 **30** Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith?
 **31** Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?
-**32** For after all these things do the Gentiles seek: for your heavenly Father knoweth that ye have need of all these things.[^r148]
+**32** For after all these things do the Gentiles seek: for your heavenly Father knoweth that ye have need of all these things.[^r210]
 **33** But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
 **34** Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof. 
 ## Chapter 7
@@ -200,8 +200,8 @@
 **10** Or if he ask a fish, will he give him a serpent?
 **11** If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?
 **12** Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
-**13** Enter ye in at the straight path: for wide is the path, and broad is the way, that leadeth to destruction, and many there be which go in thereat:[^r182]
-**14** Because straight is the path, and narrow is the way, which leadeth unto life, and few there be that find it.[^r183]
+**13** Enter ye in at the straight path: for wide is the path, and broad is the way, that leadeth to destruction, and many there be which go in thereat:[^r244]
+**14** Because straight is the path, and narrow is the way, which leadeth unto life, and few there be that find it.[^r245]
 **15** Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.
 **16** Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?
 **17** Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.
@@ -271,7 +271,7 @@
 **14** Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?
 **15** And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.
 **16** No man putteth a piece of new cloth unto an old garment, for that which is put in to fill it up taketh from the garment, and the rent is made worse.
-**17** Neither do men put new wine into old wineskins: else the wineskins break, and the wine runneth out, and the wineskins perish: but they put new wine into new wineskins, and both are preserved.[^r125]
+**17** Neither do men put new wine into old wineskins: else the wineskins break, and the wine runneth out, and the wineskins perish: but they put new wine into new wineskins, and both are preserved.[^r187]
 **18** While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.
 **19** And Jesus arose, and followed him, and so did his disciples.
 **20** And, behold, a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his garment:
@@ -1130,10 +1130,10 @@
 **19** Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
 **20** Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.  
 
-[^r150]: 1:18 — capitalization, confidence 0.65, status approved. Was: “Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.”
-[^r185]: 6:10 — word_substitution, confidence 0.85, status approved. Was: “Thy kingdom come. Thy will be done in earth, as it is in heaven.”
-[^r138]: 6:12 — phrase_change, confidence 0.765, status approved. Was: “And forgive us our debts, as we forgive our debtors.”
-[^r148]: 6:32 — punctuation, confidence 0.85, status approved. Was: “(For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.”
-[^r182]: 7:13 — missing_letter, confidence 0.65, status approved. Was: “Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:”
-[^r183]: 7:14 — missing_letter, confidence 0.65, status approved. Was: “Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.”
-[^r125]: 9:17 — word_substitution, confidence 0.85, status approved. Was: “Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.”
+[^r212]: 1:18 — capitalization, confidence 0.65, status approved. Was: “Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.”
+[^r247]: 6:10 — word_substitution, confidence 0.85, status approved. Was: “Thy kingdom come. Thy will be done in earth, as it is in heaven.”
+[^r200]: 6:12 — phrase_change, confidence 0.765, status approved. Was: “And forgive us our debts, as we forgive our debtors.”
+[^r210]: 6:32 — punctuation, confidence 0.85, status approved. Was: “(For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.”
+[^r244]: 7:13 — missing_letter, confidence 0.65, status approved. Was: “Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:”
+[^r245]: 7:14 — missing_letter, confidence 0.65, status approved. Was: “Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.”
+[^r187]: 9:17 — word_substitution, confidence 0.85, status approved. Was: “Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.”

@@ -1,0 +1,98 @@
+:root {
+  --bg: #faf7f0;
+  --ink: #2b2620;
+  --muted: #6f665a;
+  --accent: #7a1f1f;
+  --accent-ink: #fff;
+  --card: #fffdf8;
+  --line: #e3dccd;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #171412;
+    --ink: #e8e2d6;
+    --muted: #a89e8e;
+    --accent: #c05050;
+    --accent-ink: #171412;
+    --card: #201c19;
+    --line: #38322b;
+  }
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', serif;
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.65;
+}
+
+.hero {
+  text-align: center;
+  padding: 4rem 1.5rem 3rem;
+  border-bottom: 1px solid var(--line);
+}
+.logo { max-width: 140px; height: auto; }
+h1 { font-size: 2.6rem; margin: 1rem 0 0.25rem; letter-spacing: 0.02em; }
+.tagline { color: var(--muted); font-style: italic; margin-top: 0; }
+
+.cta { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem; }
+.btn {
+  display: inline-block;
+  padding: 0.65rem 1.3rem;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  color: var(--accent);
+  text-decoration: none;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.95rem;
+}
+.btn.primary { background: var(--accent); color: var(--accent-ink); }
+.btn:hover { opacity: 0.85; }
+
+main { max-width: 46rem; margin: 0 auto; padding: 1rem 1.5rem 3rem; }
+section { margin: 2.5rem 0; }
+h2 {
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.3rem;
+}
+a { color: var(--accent); }
+
+.method { padding-left: 1.2rem; }
+.method li { margin: 0.6rem 0; }
+
+.tablewrap { overflow-x: auto; }
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background: var(--card);
+  font-size: 0.95rem;
+}
+th, td { border: 1px solid var(--line); padding: 0.5rem 0.7rem; text-align: left; }
+th { font-family: Helvetica, Arial, sans-serif; font-size: 0.85rem; }
+s { color: var(--muted); }
+
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); gap: 1rem; }
+.stats div {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 1rem;
+  text-align: center;
+  color: var(--muted);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.85rem;
+}
+.stats span { display: block; font-size: 1.7rem; color: var(--ink); font-family: Georgia, serif; }
+
+.note { color: var(--muted); font-size: 0.9rem; }
+
+footer {
+  border-top: 1px solid var(--line);
+  text-align: center;
+  padding: 1.5rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}

@@ -262,8 +262,8 @@
 **34** And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?
 **35** But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.
 **36** And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old.
-**37** And no man putteth new wine into old wineskins; else the new wine will burst the wineskins, and be spilled, and the wineskins shall perish.[^r127]
-**38** But new wine must be put into new wineskins; and both are preserved.[^r128]
+**37** And no man putteth new wine into old wineskins; else the new wine will burst the wineskins, and be spilled, and the wineskins shall perish.[^r189]
+**38** But new wine must be put into new wineskins; and both are preserved.[^r190]
 **39** No man also having drunk old wine straightway desireth new: for he saith, The old is better. 
 ## Chapter 6
 
@@ -537,7 +537,7 @@
 ## Chapter 11
 
 **1** And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
-**2** And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so on earth.[^r186]
+**2** And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so on earth.[^r248]
 **3** Give us day by day our daily bread.
 **4** And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 **5** And he said unto them, Which of you shall have a friend, and shall go unto him at midnight, and say unto him, Friend, lend me three loaves;
@@ -548,7 +548,7 @@
 **10** For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 **11** If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent?
 **12** Or if he shall ask an egg, will he offer him a scorpion?
-**13** If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the spirit of god to them that ask him?[^r151]
+**13** If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the spirit of god to them that ask him?[^r213]
 **14** And he was casting out a devil, and it was dumb. And it came to pass, when the devil was gone out, the dumb spake; and the people wondered.
 **15** But some of them said, He casteth out devils through Beelzebub the chief of the devils.
 **16** And others, tempting him, sought of him a sign from heaven.
@@ -676,7 +676,7 @@
 **21** It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened.
 **22** And he went through the cities and villages, teaching, and journeying toward Jerusalem.
 **23** Then said one unto him, Lord, are there few that be saved? And he said unto them,
-**24** Strive to enter in at the straight path: for many, I say unto you, will seek to enter in, and shall not be able.[^r184]
+**24** Strive to enter in at the straight path: for many, I say unto you, will seek to enter in, and shall not be able.[^r246]
 **25** When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:
 **26** Then shall ye begin to say, We have eaten and drunk in thy presence, and thou hast taught in our streets.
 **27** But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity.
@@ -992,7 +992,7 @@
 **13** And it shall turn to you for a testimony.
 **14** Settle it therefore in your hearts, not to meditate before what ye shall answer:
 **15** For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
-**16** And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.
+**16** And ye shall be betrayed both by parents, and brethren, and kinsman, and friends; and some of you shall they cause to be put to death.[^r295]
 **17** And ye shall be hated of all men for my name’s sake.
 **18** But there shall not an hair of your head perish.
 **19** In your patience possess ye your souls.
@@ -1096,7 +1096,7 @@
 **4** Then said Pilate to the chief priests and to the people, I find no fault in this man.
 **5** And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
 **6** When Pilate heard of Galilee, he asked whether the man were a Galilean.
-**7** And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time.
+**7** And as soon as he knew that he belonged unto Herod’s power, he sent him to Herod, who himself also was at Jerusalem at that time.[^r291]
 **8** And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him.
 **9** Then he questioned with him in many words; but he answered him nothing.
 **10** And the chief priests and scribes stood and vehemently accused him.
@@ -1202,8 +1202,10 @@
 **52** And they worshipped him, and returned to Jerusalem with great joy:
 **53** And were continually in the temple, praising and blessing God. Amen.  
 
-[^r127]: 5:37 — word_substitution, confidence 0.85, status approved. Was: “And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.”
-[^r128]: 5:38 — word_substitution, confidence 0.85, status approved. Was: “But new wine must be put into new bottles; and both are preserved.”
-[^r186]: 11:2 — word_substitution, confidence 0.85, status approved. Was: “And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.”
-[^r151]: 11:13 — capitalization, confidence 0.65, status approved. Was: “If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask him?”
-[^r184]: 13:24 — missing_letter, confidence 0.65, status approved. Was: “Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.”
+[^r189]: 5:37 — word_substitution, confidence 0.85, status approved. Was: “And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.”
+[^r190]: 5:38 — word_substitution, confidence 0.85, status approved. Was: “But new wine must be put into new bottles; and both are preserved.”
+[^r248]: 11:2 — word_substitution, confidence 0.85, status approved. Was: “And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.”
+[^r213]: 11:13 — capitalization, confidence 0.65, status approved. Was: “If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask him?”
+[^r246]: 13:24 — missing_letter, confidence 0.65, status approved. Was: “Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.”
+[^r295]: 21:16 — word_substitution, confidence 0.55, status approved. Was: “And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.”
+[^r291]: 23:7 — word_substitution, confidence 0.55, status approved. Was: “And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time.”

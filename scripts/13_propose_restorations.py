@@ -64,6 +64,18 @@ SUB_RULES = [
         (r"\(", ""), (r"\)", "")]),              # remaining out-of-place parens
 ]
 
+# OWNER-DIRECTED restorations (override the falsifiability anchor by direct
+# owner ruling — the owner IS the rememberer; recorded in the Decision Log).
+# (ref, flaw_type, proposed_text, rationale)
+OWNER_DIRECTED = [
+    ("Genesis 1:1", "punctuation",
+     "In the beginning, God created the heavens and the earth.",
+     "Owner ruling 2026-07-14: full remembered reading applied (comma + "
+     "'heavens'). Memory was 'unconfirmed' in the corroboration report; the "
+     "owner's direct testimony overrides per the evidence hierarchy. Advisory "
+     "support: Hebrew שמים (shamayim) is grammatically plural/dual."),
+]
+
 # phrase-level memories: row created, phrasing delegated (proposed_text NULL)
 PHRASING_PENDING = ["lion", "lord's prayer"]
 
@@ -201,6 +213,56 @@ def main() -> None:
                         "VALUES (?,?,?,NULL,?,?,?,?)",
                         (vid, "phrase_change", text, rationale, evidence, 0.5, st))
                     n_rows += 1
+        for ref, ft, proposed, why in OWNER_DIRECTED:
+            row = resolve(con, ref)
+            if not row:
+                continue
+            vid, text = row
+            st = saved.get((vid, ft, proposed), "proposed")
+            con.execute(
+                "INSERT INTO restorations (verse_id, flaw_type, current_text, "
+                "proposed_text, rationale, evidence, confidence, status) "
+                "VALUES (?,?,?,?,?,?,?,?)",
+                (vid, ft, text, proposed, why,
+                 "owner-directed ruling; see remembered_verses.md entry", 0.9, st))
+            n_rows += 1
+
+        # Owner-ruled anachronisms (Decision Log #9): every word_era row from
+        # the owner ruling with an advised alternate generates a substitution
+        # proposal on each verse carrying its anachronism anomaly. Confidence
+        # is lower (0.55): alternates are Strong's-grounded headwords, so
+        # inflection fit (e.g. -edst forms, possessives) must be checked at
+        # review; each proposal still requires owner approval.
+        for word, alt in con.execute(
+                "SELECT word, alternate_word FROM word_era "
+                "WHERE first_use_source='owner ruling 2026-07-14' "
+                "AND verdict IN ('suspect','typo') AND alternate_word IS NOT NULL"):
+            pats = [(rf"\b{re.escape(word)}\b", alt),
+                    (rf"\b{re.escape(word.capitalize())}\b", alt.capitalize())]
+            for (vid,) in con.execute(
+                    "SELECT DISTINCT verse_id FROM anomalies "
+                    "WHERE type='anachronism' AND token=?", (word,)):
+                text = con.execute(
+                    "SELECT text FROM verses WHERE id=?", (vid,)).fetchone()[0]
+                new = text
+                for pat, rep in pats:
+                    new = re.sub(pat, rep, new)
+                if new == text:
+                    continue
+                st = saved.get((vid, "word_substitution", new), "proposed")
+                con.execute(
+                    "INSERT INTO restorations (verse_id, flaw_type, current_text, "
+                    "proposed_text, rationale, evidence, confidence, status) "
+                    "VALUES (?,?,?,?,?,?,?,?)",
+                    (vid, "word_substitution", text, new,
+                     f"Owner-ruled anachronism (Decision Log #9): '{word}' should "
+                     f"not exist in the KJV; advised period alternate '{alt}' "
+                     "(KJV's own rendering of the underlying word elsewhere). "
+                     "Check inflection fit in context at review.",
+                     f"word_era '{word}' (owner ruling 2026-07-14); anachronism "
+                     "anomaly; see references/word_review_report.md",
+                     0.55, st))
+                n_rows += 1
         con.commit()
 
         print(f"restorations: {n_rows} rows (all status='proposed' pending owner review "

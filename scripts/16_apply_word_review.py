@@ -20,8 +20,15 @@ belief against, with its advised alternate.
 Idempotent: re-applies the TSVs and regenerates the report each run.
 """
 
+import re
 import sqlite3
 from pathlib import Path
+
+TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’–-][A-Za-z]+)*")  # tokenizer v2
+
+
+def fold(form: str) -> str:
+    return form.lower().replace("’", "'").replace("–", "-")
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = REPO_ROOT / "db" / "mandela.db"
@@ -72,13 +79,91 @@ def main() -> None:
                 counts["unmatched"] += 1
         con.commit()
 
-        # report from FINAL state (second-opinion overrides included)
+        # OWNER RULING layer (2026-07-14, Decision Log #9) — overrides the
+        # second opinion: every word the first pass flagged "should not exist
+        # in the KJV" (owner-confirmed examples: gravity, heinous,
+        # jurisdiction). First-pass verdicts are reinstated; alternates come
+        # from the first pass or owner_alternates.tsv (KJV-translation-habit
+        # grounded); the second opinion survives only as an advisory note.
+        alt_file = REVIEW_DIR / "owner_alternates.tsv"
+        owner_alts = {}
+        if alt_file.exists():
+            for ln in alt_file.read_text(encoding="utf-8").splitlines():
+                p = (ln.split("\t") + ["", ""])[:3]
+                owner_alts[p[0].strip().lower()] = (p[1].strip(), p[2].strip())
+
+        first_flags = {}
+        for tsv in sorted(REVIEW_DIR.glob("batch_*.tsv")):
+            for ln in tsv.read_text(encoding="utf-8").splitlines():
+                p = (ln.split("\t") + [""] * 4)[:4]
+                if p[1].strip().lower() in ("suspect", "typo"):
+                    first_flags[p[0].strip().lower()] = (
+                        p[1].strip().lower(), p[2].strip(), p[3].strip())
+
+        # Owner corrections to the ruling (2026-07-14): "instructors" IS the
+        # valid term (both forms cleared); "schoolmaster" is the corruption —
+        # Galatians 3:24-25 render the same Greek παιδαγωγός (G3807) that the
+        # KJV gives as "instructors" at 1 Corinthians 4:15.
+        for w in ("instructor", "instructors"):
+            first_flags.pop(w, None)
+            con.execute(
+                "UPDATE word_era SET verdict='period', "
+                "first_use_source='owner ruling 2026-07-14', alternate_word=NULL, "
+                "review_note='owner: valid term (παιδαγωγός G3807)' WHERE word=?", (w,))
+        first_flags["schoolmaster"] = (
+            "suspect", "instructor",
+            "owner: schoolmaster needs to be removed; G3807 = instructors at 1Cor 4:15")
+        con.execute(
+            """INSERT INTO word_era (word, verdict, first_use_source, alternate_word,
+               review_note) VALUES ('schoolmaster','suspect','owner ruling 2026-07-14',
+               'instructor','owner: to be removed; G3807 rendered instructors at 1Cor 4:15')
+               ON CONFLICT(word) DO UPDATE SET verdict='suspect',
+               first_use_source='owner ruling 2026-07-14', alternate_word='instructor',
+               review_note='owner: to be removed; G3807 rendered instructors at 1Cor 4:15'""")
+
+        for word, (verdict, alt, note) in first_flags.items():
+            oa, oa_note = owner_alts.get(word, ("", ""))
+            alternate = alt or oa or None
+            full_note = "; ".join(filter(None, [
+                note, oa_note, "second-opinion (advisory): period",
+                "owner ruling 2026-07-14: should not exist in KJV"]))
+            con.execute(
+                """UPDATE word_era SET verdict=?, first_use_source=?,
+                   alternate_word=?, review_note=? WHERE word=?""",
+                (verdict, "owner ruling 2026-07-14", alternate, full_note, word))
+        con.commit()
+
+        # anachronism anomalies for verses containing owner-ruled suspects,
+        # so they feed the corruption index (Phase 3 schema)
+        con.execute("DELETE FROM anomalies WHERE type='anachronism'")
+        alts = dict(con.execute(
+            "SELECT word, alternate_word FROM word_era "
+            "WHERE first_use_source='owner ruling 2026-07-14'"))
+        n_anach = 0
+        for vid, text in con.execute(
+                "SELECT id, text FROM verses WHERE translation='KJV'").fetchall():
+            hits = {fold(t) for t in TOKEN_RE.findall(text)} & set(first_flags)
+            for word in sorted(hits):
+                alt = alts.get(word)
+                con.execute(
+                    "INSERT INTO anomalies (verse_id, type, token, detail, score) "
+                    "VALUES (?,?,?,?,?)",
+                    (vid, "anachronism", word,
+                     f"'{word}' owner-ruled not-KJV (2026-07-14)"
+                     + (f"; advised alternate '{alt}'" if alt else ""), 0.5))
+                n_anach += 1
+        con.commit()
+        print(f"owner ruling applied: {len(first_flags)} words reinstated; "
+              f"{n_anach} anachronism anomaly rows")
+
+        # report from FINAL state (all layers included)
         flagged = [(w, v, a or "", n or "", c or 0) for w, v, a, n, c in con.execute(
             """SELECT we.word, we.verdict, we.alternate_word, we.review_note, wc.count
                FROM word_era we
                LEFT JOIN word_counts wc ON wc.word=we.word AND wc.book_id IS NULL
                  AND wc.tokenizer_version=2
-               WHERE we.first_use_source=? AND we.verdict IN ('suspect','typo')""",
+               WHERE we.first_use_source IN (?, 'owner ruling 2026-07-14')
+                 AND we.verdict IN ('suspect','typo')""",
             (SOURCE,))]
 
         flagged.sort(key=lambda x: (-x[4], x[0]))
@@ -86,10 +171,13 @@ def main() -> None:
                  "",
                  "*Generated by `scripts/16_apply_word_review.py` — do not hand-edit.*",
                  "",
-                 "Two-pass review: 8 parallel first-pass batches over the 2,060 "
-                 "uncleared words, then a verse-verified second-opinion pass over "
-                 "everything the first pass flagged (65 words) — the second pass "
-                 "overrides the first.",
+                 "Three layers: (1) 8 parallel first-pass agent batches over the "
+                 "2,060 uncleared words; (2) a verse-verified second-opinion pass "
+                 "over the first pass's flags; (3) OWNER RULING 2026-07-14 "
+                 "(Decision Log #9) — the flagged words 'should not exist in the "
+                 "KJV'; first-pass flags reinstated, second opinion kept as an "
+                 "advisory note, alternates grounded in the KJV's own rendering "
+                 "of the same Strong's word elsewhere.",
                  "",
                  "Words held with STRONG BELIEF against, with advised period alternates",
                  "(advisory evidence per Decision Log #5 — memory still leads):",

@@ -47,6 +47,15 @@ REVIEWS_2026_07_14 = [
      "owner approved both phrased verses (Isaiah 65:25, 11:6)"),
     ("lord's prayer", "approved",
      "owner approved trespasses phrasing (Matthew 6:12)"),
+    # review session 3 (2026-07-14): the 69 anachronism proposals generated
+    # from the Decision Log #9 owner-ruled word list — approved in full
+    # ("Approve all 69"), individual rejections may follow later.
+    ("Owner-ruled anachronism", "approved",
+     "owner approved all 69 anachronism substitutions"),
+    # review session 4 (2026-07-14): Genesis 1:1 owner-directed — full
+    # remembered reading (comma + heavens) confirmed by the owner.
+    ("Owner ruling 2026-07-14: full remembered reading", "approved",
+     "owner approved Genesis 1:1 'In the beginning, God created the heavens...'"),
 ]
 
 
