@@ -18,30 +18,30 @@ Per `CLAUDE.md`, when a task is completed it must be checked off here. The origi
 ### Phase 0 — Foundations
 - [x] Decide database engine (PostgreSQL-via-Docker vs SQLite) *[orig #1, decision part]* — **DECIDED: SQLite** (see Decision Log)
 - [x] Decide authoritative base text — **DECIDED: scrollmapper KJV.db** (see Decision Log)
-- [ ] Create repo layout: `scripts/` for Python tooling, `db/` for the working database
+- [x] Create repo layout: `scripts/` for Python tooling, `db/` for the working database
 
 ### Phase 1 — Database & KJV Import (MVP)
-- [ ] Create a Database - Choose the most effective solution, either postgresql database created through docker or use sql lite. *[orig #1]*
-- [ ] Insert KJV in english into the database as MVP *[orig #2]*
+- [x] Create a Database - Choose the most effective solution, either postgresql database created through docker or use sql lite. *[orig #1]*
+- [x] Insert KJV in english into the database as MVP *[orig #2]*
 
 ### Phase 2 — Tokenization & Verse Statistics
-- [ ] Tokenize KJV counting occurances of word by book and total throughout the bible and save in tables *[orig #3]*
-- [ ] Count characters in each verse and store them in a database, identify outliers and long or short sentances. *[orig #4]*
+- [x] Tokenize KJV counting occurances of word by book and total throughout the bible and save in tables *[orig #3]*
+- [x] Count characters in each verse and store them in a database, identify outliers and long or short sentances. *[orig #4]*
 
 ### Phase 3 — Anomaly Detection
-- [ ] Identify rare words that don't belong in the KJV and words that did not see significant use during the era the KJV was written *[orig #5]*
-- [ ] Identify all parentheses and emojis that should not exist in the bible, place them in a database *[orig #6]*
-- [ ] Identify grammar errors where a sentance is written in a way that would not occur during the time the KJV was written *[orig #7]*
+- [x] Identify rare words that don't belong in the KJV and words that did not see significant use during the era the KJV was written *[orig #5]* (machinery done; manual dating of the 2,815 uncleared words remains — see Phase 3 tasks)
+- [x] Identify all parentheses and emojis that should not exist in the bible, place them in a database *[orig #6]*
+- [x] Identify grammar errors where a sentance is written in a way that would not occur during the time the KJV was written *[orig #7]*
 
 ### Phase 4 — Cross-Translation Comparison
-- [ ] Convert the BibleForge MySQL dumps (word-level KJV, Strong's-tagged originals, lexicons) into the SQLite database
-- [ ] Identify and circle back to other bible translations and compare them to KJV. *[orig #8]*
+- [x] Convert the BibleForge MySQL dumps (word-level KJV, Strong's-tagged originals, lexicons) into the SQLite database
+- [x] Identify and circle back to other bible translations and compare them to KJV. *[orig #8]*
 
 ### Phase 5 — Memory Reconciliation
-- [ ] Import `references/remembered_verses.md` into a structured `memories` table and cross-check each memory against the translation witnesses
+- [x] Import `references/remembered_verses.md` into a structured `memories` table and cross-check each memory against the translation witnesses
 
 ### Phase 6 — Reconstruction
-- [ ] Start reconstructing the bible based on memories, outliers, and words that don't belong.  Document decisions and reasons made.  Every flaw should be documented such as missing letters, bad punctuation *[orig #9]*
+- [x] Start reconstructing the bible based on memories, outliers, and words that don't belong.  Document decisions and reasons made.  Every flaw should be documented such as missing letters, bad punctuation *[orig #9]* (machinery complete; owner review of the 62 proposals is the open loop — see Phase 6 tasks)
 
 ---
 
@@ -85,6 +85,17 @@ Decisions confirmed with the project owner on 2026-07-14:
    - **Recovery mechanism** (the base KJV.db collapsed the distinction to "Lord"): the WLC Hebrew re-derives which "Lord" is which — verified locally: יהוה (YHWH) in 5,790 verses, אדני (Adonai) in 753, both together in 379 (e.g., Ezekiel 2:4 "adonai yhwh") — supplemented by the BibleForge word-level KJV's `divine` marker column once Phase 4 parses it.
    - **Backlog option (owner request)**: an alternate export with the Hebrew names themselves — "Yahweh" and "Adonai" — inserted in place of LORD/Lord, for readers who want the true Hebrew names.
 
+7. **Proper nouns excluded from era dating; names to be retranslated from Hebrew/Greek** (owner decision, 2026-07-14).
+   - Names of people AND places (Noah, Jesus, Mary, Egypt, Jerusalem, Beth–el, ...) are transliterations, not English vocabulary, so first-attestation dating does not apply. They are removed from `references/uncleared_words.md` and carry verdict `proper_noun` in `word_era`.
+   - Detection heuristic: a word whose every surface form in the KJV is capitalized (3,602 words). Words that also exist as common nouns (e.g. "mark", "job" appears capitalized only) keep their normal era verdict when lowercase uses exist.
+   - **Retranslation direction**: names should derive from the original Hebrew/Greek forms rather than modernized/anglicized spellings (e.g. Noah ← נח Noach, Jesus ← Ἰησοῦς/ישוע). This needs the Phase 4 Strong's/original-language alignment; scheduled as a Phase 6 restoration workstream alongside the Yahweh/Adonai export (Decision Log #6 backlog).
+
+8. **Phase 6 weights, candidate rules, and export policy** (Claude decision per owner delegation, 2026-07-14 — "you make the decision and continue; we will iterate over the MVP as necessary").
+   - **Corruption index weights**: memory testimony dominates and is scaled by corroboration — corroborated 10.0, artifact-supported 6.0, unconfirmed 2.0 (summed if a verse is in multiple memories' scope); + internal anomaly scores summed per verse, capped at 5.0; + 0.3 for length outliers; + witness divergence (1 − median Jaccard vs Geneva/Tyndale/Wycliffe only) capped at 1.0 and marked advisory. Rationale: witness divergence can re-rank within a tier but never lift a verse across evidence tiers (Premise Revision).
+   - **Candidate generation**: only corroborated and artifact-supported memories generate proposals (falsifiability anchor — unconfirmed memories are recorded, never restored; this is why Genesis 1:1 currently has no proposal despite its fame). Mechanical substitutions are regexes applied ONLY to the memory's scope verses, polysemy-guarded (couch→crouch fires only on "couch in", never the furniture noun). Phrase-level memories (lion & lamb, Lord's Prayer) get reserved rows with proposed_text NULL pending KJV-voice phrasing by the king-james agent. Confidence: corroborated 0.85, artifact-supported 0.65, phrasing-pending 0.5.
+   - **Export policy**: `14_export_restored.py` applies only `approved` rows by default; `--include-proposed` produces an owner-preview with every change footnoted (id, flaw type, confidence, status, original text) — zero undocumented changes.
+   - **Finding recorded during implementation**: the base KJV.db at Matthew 6:9–13 already reads thy/thy AND contains the doxology ("For thine is the kingdom, and the power, and the glory, for ever. Amen.") — the "Current KJV" quote in the Lord's Prayer memory entry was from a modern translation, not our base. Remaining deltas vs. memory: "in earth"→"on earth" (proposed) and debts→trespasses (phrasing-pending).
+
 ---
 
 ## Data Asset Inventory
@@ -106,7 +117,7 @@ What already exists in this repo and what each asset is for:
 - No MySQL server is installed; a Python script must parse the `INSERT` statements and load them into SQLite (Phase 4).
 
 ### `references/`
-- `remembered_verses.md` — 11 documented memory anchors (Genesis 1:1, bottles/wineskins, lion & lamb, Lord's Prayer, couch/crouch, divers/diverse, tables/tablets, spirit of error, charity/love, matrix/womb, parentheses/emoticons, eyes-to-see, destroyed/perish, serpent's head). **Primary reconstruction evidence** (Phase 5).
+- `remembered_verses.md` — the documented memory anchors (Genesis 1:1, bottles/wineskins, lion & lamb, Lord's Prayer, couch/crouch, divers/diverse, tables/tablets, spirit of error, charity/love, matrix/womb, parentheses/emoticons, eyes-to-see, destroyed/perish, capitalization/Holy Ghost, serpent's head, windows/floodgates-of-heaven, thanksgivings, money/love-of-money, judge-not-lest, strait/straight, in-earth/on-earth, Philippians-4:13-who/which, wizards/sorcerers). **Primary reconstruction evidence** (Phase 5).
 - `King James Writing Sample - The Essayes of a Prentise in the Divine Art of Poesie.txt` — King James's own writing; period-authentic Early Modern English vocabulary evidence.
 - Middle English texts (`The Canterbury Tales`, `The Book of Quinte Essence`, `The Wright's Chaste Wife`, the Middle English Reader) — a word attested in these existed **before** 1611, useful for first-attestation dating (Phase 3).
 - `Interlinear Greek-English Septuagint Old Testament - print.pdf` — Septuagint witness for OT passages.
@@ -128,8 +139,8 @@ Goal: lock in the environment and layout so every later phase has a known home.
 - The two sub-repos stay read-only source material; we never modify them.
 
 ### Tasks
-- [ ] Create `scripts/` and `db/` directories with a short `scripts/README.md` explaining the numbering convention
-- [ ] Decide whether `db/mandela.db` is committed to git or gitignored-and-rebuildable (lean: gitignore it; every table must be rebuildable from scripts, which keeps scripts honest)
+- [x] Create `scripts/` and `db/` directories with a short `scripts/README.md` explaining the numbering convention
+- [x] Decide whether `db/mandela.db` is committed to git or gitignored-and-rebuildable — **DECIDED: gitignored-and-rebuildable** (`.gitignore` updated; every table must be rebuildable from `scripts/`)
 
 ### Acceptance criteria
 - Directories exist, convention documented, `.gitignore` updated if the rebuildable option is chosen.
@@ -170,8 +181,8 @@ CREATE TABLE verses (
 ```
 
 ### Tasks
-- [ ] `scripts/01_create_db.py` — creates `db/mandela.db` with the schema above
-- [ ] `scripts/02_import_kjv.py` — ATTACHes scrollmapper `KJV.db`, copies books + verses + translation metadata
+- [x] `scripts/01_create_db.py` — creates `db/mandela.db` with the schema above
+- [x] `scripts/02_import_kjv.py` — ATTACHes scrollmapper `KJV.db`, copies books + verses + translation metadata (all acceptance checks pass; note: scrollmapper names book 66 "Revelation of John")
 
 ### Acceptance criteria
 - `translations` contains KJV; `books` has **66** rows; `verses` has **31,102** rows.
@@ -212,9 +223,24 @@ CREATE TABLE verse_stats (
 - Note on `char_count`: per `instructions.md`, the corrupting AI had to preserve character counts including whitespace — this column is the direct measurement of that constraint and feeds Phase 8-style artifact detection later.
 
 ### Tasks
-- [ ] `scripts/03_tokenize.py` — tokenize all KJV verses, fill `word_counts` (per-book and totals)
-- [ ] `scripts/04_verse_stats.py` — fill `verse_stats`, compute per-book z-scores, mark outliers
-- [ ] Document the tokenizer rules actually implemented (in the script docstring and here)
+- [x] `scripts/03_tokenize.py` — tokenize all KJV verses, fill `word_counts` (per-book and totals)
+- [x] `scripts/04_verse_stats.py` — fill `verse_stats`, compute per-book z-scores, mark outliers
+- [x] Document the tokenizer rules actually implemented (in the script docstring and here)
+
+### Tokenizer v1 — rules as implemented & results (2026-07-14)
+
+- Token = maximal run of letters plus **internal** apostrophes/hyphens:
+  `[A-Za-z]+(?:['-][A-Za-z]+)*` — "serpent's" and "Baal-zebub" are single
+  tokens; all surrounding punctuation is stripped.
+- Counting is lowercase in `word_counts`; original-case surface forms are
+  preserved in a `word_forms` table (schema addition beyond the sketch above —
+  capitalization is evidence per Decision Log #6).
+- Every row stores `tokenizer_version = 1`.
+- **Measured results**: total word count **792,364** (≈790k ✓); 12,456
+  distinct lowercase words; top tokens the (63,944), and (51,701), of
+  (34,626) ✓. `verse_stats` has 31,102 rows, 1,214 outliers at |z| > 2
+  within book. Longest verse: **Esther 8:9** (528 chars) ✓; shortest:
+  John 11:35 "Jesus wept." (11 chars).
 
 ### Acceptance criteria
 - Sum of bible-wide `word_counts` ≈ 790,000 (the KJV's well-known word count; exact number depends on tokenizer rules — record ours).
@@ -261,10 +287,36 @@ CREATE TABLE anomalies (
 ```
 
 ### Tasks
-- [ ] `scripts/05_word_era.py` — build the cleared-word list from local pre-1611 corpora; emit the uncleared list for dating
-- [ ] `scripts/06_punctuation_audit.py` — character/parenthesis/emoticon inventory into `anomalies`, plus the capitalization audit (Decision Log #6)
-- [ ] `scripts/07_grammar_checks.py` — the EME rule checks into `anomalies`
-- [ ] Manually date the uncleared word list; record year + source in `word_era`
+- [x] `scripts/05_word_era.py` — build the cleared-word list from local pre-1611 corpora; emit the uncleared list for dating
+- [x] `scripts/06_punctuation_audit.py` — character/parenthesis/emoticon inventory into `anomalies`, plus the capitalization audit (Decision Log #6)
+- [x] `scripts/07_grammar_checks.py` — the EME rule checks into `anomalies`
+- [ ] Manually date the uncleared word list (`references/uncleared_words.md`, 2,060 words after proper-noun exclusion per Decision Log #7); record year + source in `word_era`
+- [ ] **Priority subset (owner directive 2026-07-14): validate every non-proper-noun word with 1–2 occurrences bible-wide for period accuracy** (3,551 words; validated example — "wizard"/"wizards" suspect while the sorcery family is period-attested, see remembered_verses.md)
+- [ ] Source-era referent verdicts (Axis 2, Decision Log #4): run the `king-james-middle-english-expert` agent over flagged senses; fill `word_era.source_verdict` (the "bottles" acceptance check lands here)
+
+### Phase 3 — results as measured (2026-07-14, tokenizer v2)
+
+- **Tokenizer v2 note**: the base text uses curly apostrophes (’ ×1,996,
+  "wife’s") and en-dashes (– ×786, "Beth–el"); v1 split these — v2 treats
+  them as internal joiners and normalizes to ASCII. Total word count is now
+  **789,814**. The raw non-ASCII characters remain flagged as `punctuation`
+  anomalies (1611 printing used ' and -).
+- `word_era`: 12,747 words — 3,602 proper nouns (excluded from dating,
+  Decision Log #7), 7,085 cleared (advisory), 2,060 uncleared →
+  `references/uncleared_words.md` for manual dating. "matrix" is *attested*
+  in Tyndale (altered-timeline text, advisory only) but still rare-flagged 5×.
+- `anomalies`: rare_word 10,401 (proper-noun-only words excluded), punctuation
+  2,881 (incl. 222 `(` + 222 `)` pairs), emoticon **93** (e.g. `...Zoar;)`),
+  grammar 413 (R1 `its` ×1 — Leviticus 25:5; R2 mixed second-person ×385 —
+  fires on Matthew 6:9 ✓; R3 modern bare verbs ×27), capitalization 349.
+- **Measured vs Decision Log #6 estimates**: exact-case "Holy Ghost" = 90
+  (not 89), exact "Holy Spirit" = 1 (the other 6 are "holy Spirit", caught by
+  the mid-verse Spirit check), ALL-CAPS LORD/GOD/JEHOVAH verses = 8 (not 9;
+  the log's 9th is a non-divine ALL-CAPS token also captured). The audit's
+  numbers are authoritative; the log's were exploratory estimates.
+- Documented gap in 07: full -eth/-est conjugation checking and n-gram idiom
+  comparison deferred (need POS tagging / n-gram models) until the simple
+  rules' output is reviewed.
 
 ### Acceptance criteria
 - Known plants from `remembered_verses.md` are caught by the machinery **without hardcoding them**: "matrix" flagged (rare + late first use), "bottles" flagged (source-era referent mismatch — the Greek ἀσκός names a wineskin; Decision Log #4), `(For ... ;)` emoticon patterns flagged, "your/you" in Matthew 6:9–13 flagged by the grammar check, "Holy Ghost"/"Holy Spirit" title-casing and the 9 ALL-CAPS inscription verses flagged by the capitalization audit (Decision Log #6).
@@ -305,9 +357,32 @@ CREATE TABLE verse_diffs (
 ```
 
 ### Tasks
-- [ ] `scripts/08_import_witnesses.py` — attach & copy the witness translations into `verses`/`books`
-- [ ] `scripts/09_convert_bibleforge.py` — parse the MySQL dumps into the `bf_*` and lexicon tables
-- [ ] `scripts/10_verse_diffs.py` — align and diff every KJV verse against each witness
+- [x] `scripts/08_import_witnesses.py` — attach & copy the witness translations into `verses`/`books`
+- [x] `scripts/09_convert_bibleforge.py` — parse the MySQL dumps into the `bf_*` and lexicon tables
+- [x] `scripts/10_verse_diffs.py` — align and diff every KJV verse against each witness
+
+### Phase 4 — results as measured (2026-07-14)
+
+- All 12 witnesses imported; row counts recorded by script 08 (Geneva1599
+  31,064 / Wycliffe 31,378 / Tyndale 7,888 — Tyndale ships 23,214 empty rows
+  for books he never translated, skipped; TR 7,957 NT verses; WLC 23,213 OT
+  verses). Witness book ids are remapped to KJV ids **by book name** —
+  verified necessary: Wycliffe's own file numbers books differently.
+  Wycliffe/DRC apocrypha (Tobit … Laodiceans) have no KJV counterpart and are
+  logged as unmapped, not force-aligned.
+- BibleForge conversion: `bf_words_en` 814,695 rows ✓, `bf_words_orig`
+  446,232 rows, `lexicon_greek` 5,523, `lexicon_hebrew` 9,289. The `divine`
+  marker covers 6,888 word rows (feeds the LORD/Adonai recovery, Decision
+  Log #6).
+- `verse_diffs`: every KJV verse diffed against each English witness
+  (similarity = token-set Jaccard; TR/WLC excluded — cross-language string
+  similarity is meaningless). Missing verses logged per witness (Wycliffe
+  858, DRC 810, Geneva 39, KJVPCE 4).
+- **Acceptance validation passed**: Matthew 9:17 vs Geneva/Tyndale/Wycliffe
+  surfaces "bottles" as KJV-only (Wycliffe reads "botels"), and the word-level
+  chain resolves KJV "bottles" → ἀσκοὺς → Strong's G779 → lexicon "a leathern
+  (or skin) bag" — the wineskin memory's source-language support, now
+  queryable.
 
 ### Acceptance criteria
 - All witness translations queryable in the one database; row counts recorded per translation.
@@ -338,8 +413,28 @@ CREATE TABLE memories (
 ```
 
 ### Tasks
-- [ ] `scripts/11_import_memories.py` — parse `remembered_verses.md` into `memories`
-- [ ] Cross-check every memory against Phase 4 witnesses and Phase 3 anomalies; record corroboration per Decision Log #5 — corroboration means independent memory agreement and/or co-located alteration artifacts; witness readings are logged as advisory context only (agreement with the KJV neither confirms nor refutes a memory)
+- [x] `scripts/11_import_memories.py` — parse `remembered_verses.md` into `memories`
+- [x] Cross-check every memory against Phase 4 witnesses and Phase 3 anomalies; record corroboration per Decision Log #5 — corroboration means independent memory agreement and/or co-located alteration artifacts; witness readings are logged as advisory context only (agreement with the KJV neither confirms nor refutes a memory)
+
+### Phase 5 — results as measured (2026-07-14)
+
+- 23 memories imported from `remembered_verses.md`; report generated at
+  `references/corroboration_report.md` (regenerated on every run — the md
+  file stays the human-editable source of record; re-run script 11 after
+  adding memories).
+- Corroboration statuses: **8 corroborated** (artifact + documented public
+  memory: bottles, lion & lamb, Lord's Prayer, couch, matrix, emoticons,
+  money, on-earth), **7 artifact-supported** (co-located artifacts, no
+  external documentation yet: tables, destroyed, capitalization, windows,
+  thanksgivings, wizards, strait), **8 unconfirmed** (recorded, not
+  restorable yet per the falsifiability anchor: Genesis 1:1, divers, spirit
+  of error, charity, eyes-to-see, serpent's head, Philippians 4:13,
+  judge-not).
+- Signals stored in `memory_signals`: 119 artifact co-locations, 9
+  public-memory documentations, 106 advisory witness readings.
+- Note: "independent memory agreement" currently proxies through external
+  reference links documenting unrelated rememberers; a proper multi-witness
+  memory intake is future work if more rememberers contribute.
 
 ### Acceptance criteria
 - All entries from `remembered_verses.md` present in `memories` with correct type and scope verses.
@@ -372,10 +467,28 @@ CREATE TABLE restorations (
 ```
 
 ### Tasks
-- [ ] `scripts/12_corruption_index.py` — score every verse; ranked review queue
-- [ ] `scripts/13_propose_restorations.py` — generate candidate readings for the top-scored verses, starting with the 11 memory-anchored passages
-- [ ] Review workflow: walk proposals with the project owner, approve/reject, record rationale
-- [ ] `scripts/14_export_restored.py` — emit the restored text per book (markdown), diffable against the current KJV
+- [x] `scripts/12_corruption_index.py` — score every verse; ranked review queue
+- [x] `scripts/13_propose_restorations.py` — generate candidate readings for the top-scored verses, starting with the 11 memory-anchored passages
+- [ ] Review workflow: walk proposals with the project owner, approve/reject, record rationale (62 proposals await review; owner-reviewed statuses survive re-runs of script 13)
+- [ ] Phrase-level proposals: run the king-james-middle-english-expert agent to phrase the lion & lamb and Lord's Prayer (trespasses) readings in KJV voice
+- [x] `scripts/14_export_restored.py` — emit the restored text per book (markdown), diffable against the current KJV
+
+### Phase 6 — results as measured (2026-07-14)
+
+- `corruption_index`: all 31,102 verses scored. Top of the review queue is
+  wall-to-wall memory-anchored verses (Genesis 49:4, the emoticon verses,
+  Isaiah 65:25, the matrix and bottles verses) — the weights behave as
+  intended (Decision Log #8).
+- `restorations`: **62 proposals**, all status `proposed`, spanning bottles→
+  wineskins, matrix→womb, couch→crouch, wizards→sorcerers, thanksgivings→
+  thank offerings, tables→tablets, strait→straight, in-earth→on-earth,
+  destroyed→perish, money phrase, windows→floodgates/openings, Holy Ghost→
+  spirit of god, emoticon-paren removal, plus phrasing-pending rows for
+  lion & lamb and the Lord's Prayer.
+- `exports/Matthew.md` preview generated with `--include-proposed`: 1,071
+  verses, 6 proposals applied and footnoted (1:18, 6:10, 6:32, 7:13, 7:14,
+  9:17). Default (approved-only) export currently applies 0 — correct, since
+  nothing is owner-approved yet.
 
 ### Acceptance criteria
 - The 11 memory-anchored passages each have a restoration row with rationale, evidence, confidence, and an owner-reviewed status.

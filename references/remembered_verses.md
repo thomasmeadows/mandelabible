@@ -229,6 +229,8 @@ Luke 11:13 - KJV - ...how much more shall your heavenly Father give the Holy Spi
 - The nine ALL-CAPS verses in the base KJV.db all mark quoted inscriptions (signet engravings, altar dedications, the name written on the vesture) — and they are internally inconsistent with the rest of the base text, which renders the divine name as "Lord" throughout. Candidate alteration seams.
 - 1 John 5:7 ("the Father, the Word, and the Holy Ghost: and these three are one") — even the altered timeline's own scholarship documents this trinitarian verse as a late insertion absent from the early Greek manuscripts, and the local record disagrees with itself here: Wycliffe reads "the Fadir, the **Sone**, and the Hooli Goost" where KJV/Geneva/TR read "the Word."
 
+## Crushing the head of the serpent
+
 ### Current Versions
 
 Genesis 3:15 - KJV - And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
@@ -236,3 +238,142 @@ Genesis 3:15 - KJV - And I will put enmity between thee and the woman, and betwe
 ### Problems and what was remembered
 
 This verse used to contain, "I will crush the head of the serpent"
+
+## Windows — "floodgates of heaven" for the sky; "opening" for windows in homes and boats
+
+### Current Versions
+
+Genesis 7:11 - KJV - In the six hundredth year of Noah’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.
+
+Genesis 8:2 - KJV - The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;
+
+Genesis 6:16 - KJV - A window shalt thou make to the ark...
+
+Genesis 8:6 - KJV - ...Noah opened the window of the ark which he had made:
+
+See also (sky references): II Kings 7:2, II Kings 7:19 ("windows in heaven"), Isaiah 24:18 ("windows from on high"), Malachi 3:10 ("windows of heaven")
+
+See also (buildings/structures): Genesis 26:8, Joshua 2:15, Joshua 2:18, Joshua 2:21, Judges 5:28, I Samuel 19:12, II Samuel 6:16, and the I Kings / II Kings / Ezekiel window passages
+
+### Memory / Owner ruling (2026-07-14)
+
+"Floodgates of heaven" is right when referencing the sky — not "windows of heaven." For a standard window in a home, house, or boat, "opening" is accurate. Glass windows as we know them would not fit the world of the biblical authors; a "window" was an opening in the wall.
+
+### Advisory textual context (per Premise Revision)
+
+- The Hebrew uses three different words that the current KJV flattens to "window": אֲרֻבָּה (*'arubbah*) at Genesis 7:11 and 8:2 — floodgates/sluice-openings, exactly matching the remembered "floodgates of heaven"; חַלּוֹן (*challon*) at Genesis 8:6 and 26:8 — an ordinary wall opening; and צֹהַר (*tsohar*) at Genesis 6:16, a unique word related to "noon/brightness," often rendered "light."
+- The distinct *'arubbah*/*challon* words mean the sky passages and the building passages were never the same word in the source — the flattening to one English word is itself a suspicious uniformity.
+- The altered timeline's witnesses (Wycliffe "wyndowis of heuene", Tyndale "wyndowes of heave", Geneva "windowes of heauen") all agree with the current KJV — advisory only; agreement clears nothing.
+- Corroboration status: pending Phase 5 (independent memories / co-located alteration artifacts).
+
+## Thanksgivings is not period accurate
+
+### Current Versions
+
+Nehemiah 12:27 - KJV - And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps.
+
+II Corinthians 9:12 - KJV - For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God;
+
+See also: "thanksgiving" (singular) in 28 further verses — same suspicion applies.
+
+### Memory / Owner ruling (2026-07-14)
+
+"Thanksgivings" is not period accurate; a different translation should be found.
+
+### Advisory textual context (per Premise Revision)
+
+- Co-located alteration artifact: the era audit (`word_era`) finds neither "thanksgiving" nor "thanksgivings" attested in ANY of the five local pre-1611 corpora (Wycliffe, Tyndale, Geneva 1599, the Middle English texts, King James's Essayes) — both carry verdict `suspect`.
+- Source words: at Nehemiah 12:27 the Hebrew is תּוֹדֹת (*todot*, plural of *todah*) — "thank offerings" / songs of praise; at II Corinthians 9:12 the Greek is εὐχαριστιῶν (*eucharistion*) — "givings of thanks."
+- Candidate period renderings for Phase 6: "thank offerings" (Nehemiah), "giving of thanks" (II Corinthians), "praises."
+- Corroboration status: pending Phase 5.
+
+## Wizards are not period accurate — sorcerers used sorcery
+
+### Current Versions
+
+"wizards" ×9 / "wizard" ×2: Leviticus 19:31, Leviticus 20:6, Leviticus 20:27, Deuteronomy 18:11, I Samuel 28:3, I Samuel 28:9, II Kings 21:6, II Kings 23:24, II Chronicles 33:6, Isaiah 8:19, Isaiah 19:3
+
+Leviticus 19:31 - KJV - Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the LORD your God.
+
+Also suspect: "magicians" ×15 / "magician" ×1 (Genesis 41, Exodus 7–9, Daniel 1–5).
+
+### Memory / Owner ruling (2026-07-14)
+
+Wizards are not period accurate. Another word was used — magicians were **sorcerers** and they used **sorcery**.
+
+### Advisory textual context (per Premise Revision)
+
+- Co-located alteration artifacts: the era audit finds "wizard"/"wizards" attested in NONE of the five local pre-1611 corpora (verdict `suspect`), and "magician"/"magicians" likewise. The sorcery family is fully period-attested: "sorcerer" (Middle English texts), "sorcerers" (Tyndale), "sorcery" (Middle English), "sorceries" (Wycliffe) — the remembered vocabulary is exactly the vocabulary the period corpora hold.
+- The current text already uses the sorcery family elsewhere (sorcerers ×6, sorceries ×5, sorcerer ×2, sorcery ×1 — e.g. Exodus 7:11, Acts 8:9–11, Malachi 3:5), so the wizard/sorcerer split is internally inconsistent.
+- Source words: "wizard" renders Hebrew יִדְּעֹנִי (*yidde'oni*, H3049, "knowing one"), always paired with the "familiar spirit" (אוֹב *'ob*); "magicians" renders חַרְטֹם (*chartom*, H2748, the Egyptian/Babylonian occult scribes). Both name occult practitioners — "sorcerer" covers the referent.
+- Corroboration status: pending Phase 5.
+
+## Money is the root of all evil
+
+### Current Versions
+
+I Timothy 6:10 - KJV - For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
+
+### Memory
+
+One of the most widely reported scripture memories: "For money is the root of all evil." Many rememberers insist the verse indicted money itself, not the love of it — the qualifier "the love of" is remembered as absent.
+
+### References
+
+https://truthfarmer.com/2016/08/05/rather-exhaustive-list-of-mandela-effect-affected-scriptures/
+
+## Philippians 4:13 — "who strengthens me", not "which strengtheneth me"
+
+### Current Versions
+
+Philippians 4:13 - KJV - I can do all things through Christ which strengtheneth me.
+
+### Memory
+
+Widely remembered and recited as "I can do all things through Christ who strengthens me." The relative pronoun "which" applied to Christ (a person) reads wrong to rememberers — "who" is what generations memorized.
+
+### Advisory textual context (per Premise Revision)
+
+- The altered timeline's witnesses: Geneva 1599 "I am able to do al things through the helpe of Christ, which strengtheneth me"; Wycliffe "Y may alle thingis in hym that coumfortith me" (note: Wycliffe reads "hym that" — a personal construction — and "comforteth" rather than "strengtheneth"). Tyndale's Philippians is empty in our copy (data gap).
+- Advisory grammar note: period English did use "which" for persons ("Our Father which art in heaven"), so "which" alone is not an anachronism — the memory testimony is the evidence here, not the grammar.
+- Corroboration status: pending Phase 5.
+
+## Judge not lest ye be judged
+
+### Current Versions
+
+Matthew 7:1 - KJV - Judge not, that ye be not judged.
+
+### Memory
+
+Widely remembered and quoted as "Judge not, lest ye be judged." The "lest" wording is how generations memorized and recited the verse; the current "that ye be not judged" reads as the alteration.
+
+## Strait should be straight — another word missing letters
+
+### Current Versions
+
+Matthew 7:13 - KJV - Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:
+
+Matthew 7:14 - KJV - Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.
+
+See also: Luke 13:24
+
+### Memory
+
+The idiom everyone remembers living by is "the straight and narrow" — a straight path. "Strait" is missing letters, the same signature as couch/crouch and divers/diverse. The remembered reading is "straight is the gate, and narrow is the way."
+
+## On earth as it is in heaven
+
+### Current Versions
+
+Matthew 6:10 - KJV - Thy kingdom come. Thy will be done in earth, as it is in heaven.
+
+Luke 11:2 - KJV - ...Thy will be done, as in heaven, so in earth.
+
+### Memory
+
+Rememberers universally recited "on earth as it is in heaven" — not "in earth." This compounds the Lord's Prayer entry above: the prayer as memorized by generations differs from the current text at multiple points ("in earth", your/thy, the missing doxology).
+
+### References
+
+https://truthfarmer.com/2016/08/05/rather-exhaustive-list-of-mandela-effect-affected-scriptures/

@@ -32,7 +32,9 @@ reflects the current state of open vs. shipped work.
   Cross-references in `formats/sqlite/extras/`.
 - `bible_forge_db/` — **read-only sub-repo** (BibleForge). Gzipped MySQL dumps:
   word-level KJV, Strong's-tagged Hebrew/Greek, and lexicons. No MySQL server
-  is installed; these get parsed into SQLite by a script (roadmap Phase 4).
+  is installed; `scripts/09_convert_bibleforge.py` parses them into
+  `db/mandela.db` as `bf_words_en`, `bf_words_orig`, `lexicon_greek`,
+  `lexicon_hebrew` (KJV word → Strong's → lexicon lookups all work locally).
 - `scripts/` — numbered, idempotent Python scripts, one per roadmap task
   (created starting at roadmap Phase 0).
 - `db/mandela.db` — the single working SQLite database all scripts build.
