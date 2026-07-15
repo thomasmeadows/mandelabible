@@ -66,7 +66,7 @@ verse, what you remember, and where you learned it.
 
 ## The static website
 
-[`webpage/`](./webpage/) holds the static site deployed to mandelabible.com,
+[`docs/`](./docs/) holds the static site deployed to mandelabible.com,
 including the downloadable MVP.
 
 ---
