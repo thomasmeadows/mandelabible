@@ -103,7 +103,7 @@ Decisions confirmed with the project owner on 2026-07-14:
    - **Owner correction (same day)**: "instructor"/"instructors" removed from the list — instructors IS the valid term. Instead, **"schoolmaster" is the corruption to remove** (Galatians 3:24–25): both render Greek παιδαγωγός (G3807), which the KJV itself gives as "instructors" at 1 Corinthians 4:15 — internal inconsistency supporting the ruling. schoolmaster → alternate "instructor". Final tally: 63 flagged words.
 
 10. **MVP publication: PDF export + static website** (owner request, 2026-07-14).
-   - `scripts/17_export_full.py` emits the full 66-book restored text as `exports/MandelaBible-MVP.pdf` (1,339 pages: title page, all books with changed verses marked `*`, and a Restoration Appendix listing every change with its original reading) plus `exports/MandelaBible-MVP.md`.
+   - `scripts/17_export_full.py` emits the full 66-book restored text as `exports/MandelaBible-MVP.pdf` (1,359 pages: title page, all books with changed verses marked `*`, and a Restoration Appendix listing every change with its original reading) plus `exports/MandelaBible-MVP.md`.
    - **PDF via a pure-stdlib writer** (built-in Times/Helvetica, WinAnsi encoding, Flate compression) — no PDF library exists in this environment and pip dependencies require a logged decision; a ~150-line internal writer keeps the stdlib-first rule.
    - `webpage/` is the static site for **mandelabible.com** (owner-purchased): index.html + style.css (self-contained, responsive, light/dark), owner's `Logo.png` wired at `assets/logo.png`, downloads at `webpage/downloads/`, GitHub repo linked (github.com/thomasmeadows/mandelabible — to be publicized later). README.md rewritten to link website, GitHub, downloads, and all reference files.
 

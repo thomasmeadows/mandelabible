@@ -56,6 +56,11 @@ REVIEWS_2026_07_14 = [
     # remembered reading (comma + heavens) confirmed by the owner.
     ("Owner ruling 2026-07-14: full remembered reading", "approved",
      "owner approved Genesis 1:1 'In the beginning, God created the heavens...'"),
+    # review session 5 (2026-07-14): global parenthesis/emoticon removal —
+    # owner-directed ("emojis need to be removed; parentheses just need to be
+    # removed"), applied bible-wide.
+    ("Global parenthesis/emoticon removal", "approved",
+     "owner directed bible-wide paren/emoticon removal"),
 ]
 
 

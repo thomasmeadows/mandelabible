@@ -140,7 +140,8 @@ def main() -> None:
     resto = {}
     for vid, rid, new in con.execute(
             "SELECT verse_id, id, proposed_text FROM restorations "
-            "WHERE status='approved' AND proposed_text IS NOT NULL"):
+            "WHERE status='approved' AND proposed_text IS NOT NULL "
+            "ORDER BY id"):  # rows compose; the last (highest id) is complete
         resto[vid] = (rid, new)
 
     books = con.execute(

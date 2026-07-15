@@ -37,7 +37,7 @@ def main() -> None:
                 f"""SELECT r.verse_id, r.id, r.flaw_type, r.proposed_text,
                            r.confidence, r.status
                     FROM restorations r WHERE r.status IN ({ph})
-                    AND r.proposed_text IS NOT NULL""", statuses):
+                    AND r.proposed_text IS NOT NULL ORDER BY r.id""", statuses):
             resto.setdefault(vid, []).append((rid, ft, new, conf, st))
 
         rows = con.execute(

@@ -122,6 +122,16 @@ CREATE TABLE IF NOT EXISTS restorations (
 """
 
 
+def base_text(con, vid, default):
+    """Latest proposed text for a verse this run, so passes COMPOSE —
+    a verse with a word substitution and a parenthesis fix must end with
+    both applied, not whichever row the export applies last."""
+    row = con.execute(
+        "SELECT proposed_text FROM restorations WHERE verse_id=? AND "
+        "proposed_text IS NOT NULL ORDER BY id DESC LIMIT 1", (vid,)).fetchone()
+    return row[0] if row else default
+
+
 def resolve(con, ref):
     book, cv = ref.rsplit(" ", 1)
     ch, vs = cv.split(":")
@@ -227,6 +237,39 @@ def main() -> None:
                  "owner-directed ruling; see remembered_verses.md entry", 0.9, st))
             n_rows += 1
 
+        # GLOBAL parenthesis/emoticon removal (owner ruling 2026-07-14):
+        # emoticons ';)' / ':)' are irrelevant and parentheses — including
+        # whole verses encapsulated in them — just need to be removed. Every
+        # verse carrying a parenthesis or emoticon anomaly gets a proposal:
+        # ';)'->';', ':)'->':', then all '(' ')' stripped (whitespace tidied).
+        # Verses already fixed by the memory-scoped emoticon rule are skipped.
+        for (vid,) in con.execute(
+                """SELECT DISTINCT verse_id FROM anomalies
+                   WHERE type='emoticon' OR (type='punctuation' AND token IN ('(',')'))"""):
+            if con.execute(
+                    "SELECT 1 FROM restorations WHERE verse_id=? AND "
+                    "flaw_type='punctuation'", (vid,)).fetchone():
+                continue
+            text = base_text(con, vid, con.execute(
+                "SELECT text FROM verses WHERE id=?", (vid,)).fetchone()[0])
+            new = re.sub(r"([;:])[)]", r"\1", text)
+            new = new.replace("(", "").replace(")", "")
+            new = re.sub(r"\s{2,}", " ", new).strip()
+            if new == text:
+                continue
+            st = saved.get((vid, "punctuation", new), "proposed")
+            con.execute(
+                "INSERT INTO restorations (verse_id, flaw_type, current_text, "
+                "proposed_text, rationale, evidence, confidence, status) "
+                "VALUES (?,?,?,?,?,?,?,?)",
+                (vid, "punctuation", text, new,
+                 "Global parenthesis/emoticon removal (owner ruling 2026-07-14): "
+                 "emoticon patterns reduced to their true punctuation; all "
+                 "parentheses removed.",
+                 "punctuation/emoticon anomaly rows on this verse; owner ruling",
+                 0.8, st))
+            n_rows += 1
+
         # Owner-ruled anachronisms (Decision Log #9): every word_era row from
         # the owner ruling with an advised alternate generates a substitution
         # proposal on each verse carrying its anachronism anomaly. Confidence
@@ -242,8 +285,8 @@ def main() -> None:
             for (vid,) in con.execute(
                     "SELECT DISTINCT verse_id FROM anomalies "
                     "WHERE type='anachronism' AND token=?", (word,)):
-                text = con.execute(
-                    "SELECT text FROM verses WHERE id=?", (vid,)).fetchone()[0]
+                text = base_text(con, vid, con.execute(
+                    "SELECT text FROM verses WHERE id=?", (vid,)).fetchone()[0])
                 new = text
                 for pat, rep in pats:
                     new = re.sub(pat, rep, new)
