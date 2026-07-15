@@ -74,6 +74,13 @@ OWNER_DIRECTED = [
      "'heavens'). Memory was 'unconfirmed' in the corroboration report; the "
      "owner's direct testimony overrides per the evidence hierarchy. Advisory "
      "support: Hebrew שמים (shamayim) is grammatically plural/dual."),
+    ("Acts 28:15", "word_substitution",
+     "And from thence, when the brethren heard of us, they came to meet us as "
+     "far as the market place of Appius, and The three taverns: whom when Paul "
+     "saw, he thanked God, and took courage.",
+     "Owner ruling 2026-07-15 (rescan review, group F2): 'Appii forum' is "
+     "translated as 'the market place of Appius' — a phrase replacement, so it "
+     "lives here rather than in the word-level alternates."),
 ]
 
 # phrase-level memories: row created, phrasing delegated (proposed_text NULL)
@@ -276,10 +283,9 @@ def main() -> None:
         # is lower (0.55): alternates are Strong's-grounded headwords, so
         # inflection fit (e.g. -edst forms, possessives) must be checked at
         # review; each proposal still requires owner approval.
-        for word, alt in con.execute(
-                "SELECT word, alternate_word FROM word_era "
-                "WHERE first_use_source='owner ruling 2026-07-14' "
-                "AND verdict IN ('suspect','typo') AND alternate_word IS NOT NULL"):
+        for word, alt, src in con.execute(
+                "SELECT word, alternate_word, first_use_source FROM word_era "
+                "WHERE verdict IN ('suspect','typo') AND alternate_word IS NOT NULL"):
             pats = [(rf"\b{re.escape(word)}\b", alt),
                     (rf"\b{re.escape(word.capitalize())}\b", alt.capitalize())]
             for (vid,) in con.execute(
@@ -298,8 +304,8 @@ def main() -> None:
                     "proposed_text, rationale, evidence, confidence, status) "
                     "VALUES (?,?,?,?,?,?,?,?)",
                     (vid, "word_substitution", text, new,
-                     f"Owner-ruled anachronism (Decision Log #9): '{word}' should "
-                     f"not exist in the KJV; advised period alternate '{alt}' "
+                     f"Era-audit anachronism [{src}]: '{word}' flagged not-period; "
+                     f"advised period alternate '{alt}' "
                      "(KJV's own rendering of the underlying word elsewhere). "
                      "Check inflection fit in context at review.",
                      f"word_era '{word}' (owner ruling 2026-07-14); anachronism "

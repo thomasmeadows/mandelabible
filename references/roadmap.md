@@ -105,7 +105,7 @@ Decisions confirmed with the project owner on 2026-07-14:
 10. **MVP publication: PDF export + static website** (owner request, 2026-07-14).
    - `scripts/17_export_full.py` emits the full 66-book restored text as `exports/MandelaBible-MVP.pdf` (1,359 pages: title page, all books with changed verses marked `*`, and a Restoration Appendix listing every change with its original reading) plus `exports/MandelaBible-MVP.md`.
    - **PDF via a pure-stdlib writer** (built-in Times/Helvetica, WinAnsi encoding, Flate compression) — no PDF library exists in this environment and pip dependencies require a logged decision; a ~150-line internal writer keeps the stdlib-first rule.
-   - `webpage/` is the static site for **mandelabible.com** (owner-purchased): index.html + style.css (self-contained, responsive, light/dark), owner's `Logo.png` wired at `assets/logo.png`, downloads at `webpage/downloads/`, GitHub repo linked (github.com/thomasmeadows/mandelabible — to be publicized later). README.md rewritten to link website, GitHub, downloads, and all reference files.
+   - `docs/` (GitHub Pages convention; renamed from `webpage/` by the owner, CNAME mandelabible.com) is the static site for **mandelabible.com** (owner-purchased): index.html + style.css (self-contained, responsive, light/dark), owner's `Logo.png` wired at `assets/logo.png`, downloads at `docs/downloads/`, GitHub repo linked (github.com/thomasmeadows/mandelabible — to be publicized later). README.md rewritten to link website, GitHub, downloads, and all reference files.
 
 ---
 

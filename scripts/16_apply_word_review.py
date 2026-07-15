@@ -47,12 +47,16 @@ def main() -> None:
         if "review_note" not in cols:
             con.execute("ALTER TABLE word_era ADD COLUMN review_note TEXT")
 
-        # batches first, then the second-opinion pass (verse-verified, high bar)
-        # so its verdicts override the first pass
+        # Layer order (later overrides earlier): first-pass batches, the
+        # second-opinion pass, then the 2026-07-15 RESCAN (run under the
+        # owner rule that KJV occurrence can never ground a 'period' verdict
+        # — see the agent memory file kjv-not-authenticity-evidence.md).
+        # The owner-ruling layer below still runs last.
         files = sorted(REVIEW_DIR.glob("batch_*.tsv"))
         second = REVIEW_DIR / "second_opinion.tsv"
         if second.exists():
             files.append(second)
+        files += sorted(REVIEW_DIR.glob("rescan_batch_*.tsv"))
         rows, bad = [], []
         for tsv in files:
             for ln in tsv.read_text(encoding="utf-8").splitlines():
@@ -77,6 +81,23 @@ def main() -> None:
                 counts[verdict] += 1
             else:
                 counts["unmatched"] += 1
+        con.commit()
+
+        # Owner corrections to the RESCAN alternates (review session 6,
+        # 2026-07-15): wraths keeps the singular; the stumbling family is
+        # unfused rather than reworded; gopher becomes cypress; forum is
+        # handled as a phrase replacement in script 13 (OWNER_DIRECTED), so
+        # its word-level alternate is cleared.
+        for w, alt in [("wraths", "wrath"),
+                       ("stumblingblock", "stumbling block"),
+                       ("stumblingblocks", "stumbling blocks"),
+                       ("stumblingstone", "stumbling stone"),
+                       ("gopher", "cypress"),
+                       ("forum", None)]:
+            con.execute(
+                "UPDATE word_era SET alternate_word=?, review_note="
+                "COALESCE(review_note,'') || '; owner correction 2026-07-15' "
+                "WHERE word=?", (alt, w))
         con.commit()
 
         # OWNER RULING layer (2026-07-14, Decision Log #9) — overrides the
@@ -133,23 +154,23 @@ def main() -> None:
                 (verdict, "owner ruling 2026-07-14", alternate, full_note, word))
         con.commit()
 
-        # anachronism anomalies for verses containing owner-ruled suspects,
-        # so they feed the corruption index (Phase 3 schema)
+        # anachronism anomalies for verses containing ANY currently-suspect
+        # word (owner-ruled or rescan-flagged), feeding the corruption index
         con.execute("DELETE FROM anomalies WHERE type='anachronism'")
         alts = dict(con.execute(
             "SELECT word, alternate_word FROM word_era "
-            "WHERE first_use_source='owner ruling 2026-07-14'"))
+            "WHERE verdict IN ('suspect','typo')"))
         n_anach = 0
         for vid, text in con.execute(
                 "SELECT id, text FROM verses WHERE translation='KJV'").fetchall():
-            hits = {fold(t) for t in TOKEN_RE.findall(text)} & set(first_flags)
+            hits = {fold(t) for t in TOKEN_RE.findall(text)} & set(alts)
             for word in sorted(hits):
                 alt = alts.get(word)
                 con.execute(
                     "INSERT INTO anomalies (verse_id, type, token, detail, score) "
                     "VALUES (?,?,?,?,?)",
                     (vid, "anachronism", word,
-                     f"'{word}' owner-ruled not-KJV (2026-07-14)"
+                     f"'{word}' flagged not-period (owner ruling / rescan)"
                      + (f"; advised alternate '{alt}'" if alt else ""), 0.5))
                 n_anach += 1
         con.commit()

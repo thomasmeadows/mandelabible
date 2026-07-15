@@ -9,22 +9,39 @@ Words held with STRONG BELIEF against, with advised period alternates
 
 | word | KJV count | verdict | advised alternate | note |
 |------|-----------|---------|-------------------|------|
+| stumblingblock | 12 | suspect | stumbling block | unique theological compound, no independent ground; owner correction 2026-07-15 |
+| ringstraked | 7 | suspect | ring-streaked | Unusual compound apparently coined for one flock-breeding passage; no independent attestation of this specific form found outside that context. |
+| shoulderpieces | 4 | suspect | shoulder straps | unattested technical ephod-part compound |
 | kinsfolks | 3 | suspect | kinsman | Job 19, unusual plural of kinsfolk; H1350; KJV renders noun "kinsman" x12 for same root (rejected "redeem", a verb form); second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| sheepshearers | 3 | suspect | shearers | triple compound unattested independently; shearers alone is well grounded |
+| snuffdishes | 3 | suspect | trimming dishes | technical priestly-vessel compound; no independent ground |
+| aul | 2 | typo | awl | OE æl "awl" with medial w dropped — letter-drop corruption signature, cf. couch/crouch |
 | gravity | 2 | suspect | honesty | Latinate abstract, first use uncertain; G4587; KJV renders "honesty" x1 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | highness | 2 | suspect | excellency | abstract of high, rare KJV use, Job/Isa; H7613; Job 31:23 majesty sense; KJV renders "excellency" x2, "dignity" x2 (rejected "rising" x7 as leprosy-sense mismatch); second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | inclosings | 2 | suspect | settings | Exod 28, unusual plural, rare; H4396; KJV renders "settings" x1 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | inflammation | 2 | suspect | burning | Deut 28, Latinate medical term, later currency uncertain; H6867; KJV renders "burning" x2 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | journeyings | 2 | suspect | journeys | 2 Cor 11, rare plural gerund; H4550; KJV renders "journeys" x9 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| ligure | 2 | suspect | jacinth | rare Greek/Latin gem-name (breastplate stone list); no hit in any independent corpus, including the Essayes; too obscure to defend on etymology alone without leaning on the KJV's own stone-list; advise substituting the better-attested gem-name "jacinth" (itself independently attested) pending owner review |
 | menpleasers | 2 | suspect | pleasers of men | rare compound coinage, only Eph/Col; anthroparestos G441 Eph 6:6/Col 3:22; KJV coinage, use plain phrase; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| mighties | 2 | suspect | mighty men | substantive adjectives do not normally pluralize with -s in EME ("the mighty", not "the mighties"); likely corruption of a phrase like "mighty men" (cf. 2 Sam 23:8 wording). |
 | nephews | 2 | suspect | children | sense-shifted word (meant grandsons in EME); H1121; Judges 12:14/1Tim 5:4 (descendants sense); KJV renders "children" x1543 for ben (rejected literal "son" as singular mismatch); second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| pransings | 2 | typo | prancings | Same corruption as "pransing" + plural. |
 | schoolmaster | 2 | suspect | instructor | owner: schoolmaster needs to be removed; G3807 = instructors at 1Cor 4:15; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| stumblingblocks | 2 | suspect | stumbling blocks | unique theological compound, no independent ground; owner correction 2026-07-15 |
+| stumblingstone | 2 | suspect | stumbling stone | unique theological compound, no independent ground; owner correction 2026-07-15 |
+| abjects | 1 | suspect | abject / outcasts | substantivized plural of Latinate adjective is an unusual formation, no independent secular ground |
 | bribery | 1 | suspect | bribes | no confident KJV attestation; "bribes" is the standard term; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | confectionaries | 1 | suspect | confectioners | 1 Sam 8:13, rare abstract-plural form; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | congratulate | 1 | suspect | salute | rare in EModE register, 1570s coinage; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | deceivableness | 1 | suspect | deceit | rare abstract, unattested locally, unusual form; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | dispersions | 1 | suspect | dispersed | John 7:35, rare abstract plural, unusual form; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| endamage | 1 | suspect | damage/hurt | en- + damage is a plausible but unattested formation; "damage" alone as verb is well attested, prefixed form cannot be independently confirmed |
 | exorcists | 1 | suspect | conjurers | Acts 19:13; term's local pre-1611 attestation unconfirmed; exorkistes G1845 Acts 19:13; only occurrence, no KJV parallel; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| fellest | 1 | suspect | cruellest | superlative of "fell" (adj., cruel) is attested in EModE generally but not independently confirmed here; the adjective "fell" itself is well-attested (cf. Wycliffe/Chaucer), superlative form unverified |
+| ferret | 1 | suspect | weasel | no independent attestation for "ferret" naming the Lev 11:30 unclean creature; Geneva1599 reads "molle" (mole), Wycliffe reads "maldewerp" (mole); ME Reader glossary attests "wesele"/weasel as the native small-mammal term — ferret's presence here has no independent-corpus support |
 | forty's | 1 | typo | fortieth | not found as possessive in KJV text; likely tokenization artifact; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| forum | 1 | suspect |  | no genuine independent attestation; the only apparent Essayes hit is OCR noise ("Viforum", part of a Latin phrase, not the English word); in the period "forum" functioned as a Latin proper place-name for Rome's forum, not yet a naturalized generic English common noun; owner correction 2026-07-15 |
+| gopher | 1 | suspect | cypress | transliteration of Hebrew term (Gen 6:14 "gopher wood"); as a technical hapax transliteration it cannot be checked against English word-formation or the local period corpora, which show no hit; no independent ground either way; owner correction 2026-07-15 |
 | hearkenedst | 1 | suspect | heard | rare -edst second-person form; H8085; KJV renders "heard" x373 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | heinous | 1 | suspect | lewdness | Job 31, Latinate, later currency uncertain; H2154; KJV renders "lewdness" x14 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | hirest | 1 | suspect | give | rare 2nd-person -est of hire; H7809; KJV renders "give" x1 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
@@ -67,8 +84,25 @@ Words held with STRONG BELIEF against, with advised period alternates
 | lodgest | 1 | suspect | lodge | rare 2nd-person -est form of lodge; H3885; KJV renders "lodge" x22 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | longwinged | 1 | suspect | wings | compound not found; plausible but unverified; H83; KJV renders "wings" x2 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | magnifical | 1 | suspect | great | rare Latinate coinage, 1 Chr 22:5 only; H1431; KJV renders "great" x32 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| marishes | 1 | suspect | marshes | spelling variant "marish" is genuinely attested in contemporaneous non-biblical EME verse (Spenser, Faerie Queene, 1590), but this is external literary memory, not a hit in the local corpora — flag for independent lexicon check. |
 | mortgaged | 1 | suspect | surety | legal-financial term, dating uncertain for 1611; H6148; KJV renders "surety" x8 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | occurrent | 1 | suspect | chance | rare Latinate noun, only 1 Kings 5:4; H6294; KJV renders "chance" x1 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| pransing | 1 | typo | prancing | Missing medial "c" against expected form "prancing" (ME "prauncen"); letter-loss corruption signature. |
+| pygarg | 1 | suspect | wild goat | Rare Greek/Latin zoological loan (pygargus) via Vulgate; no confirmed independent pre-1611 English corpus hit found. |
 | seatward | 1 | suspect | seaward | unattested form, likely error for seaward; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| shamefacedness | 1 | suspect | shamefastness | shamefaced is a 16th-c. folk-reanalysis of ME shamefast (sceamfaest); shamefastness has the clearer OE/ME pedigree, this fused -edness coinage lacks independent ground |
+| sheepmaster | 1 | suspect | owner of sheep | rare occupational compound (2 Kings 3), unattested independently |
+| shoelatchet | 1 | suspect | latchet of a shoe | latchet itself is a genuine ME word for a shoe-thong, but the fused compound is unattested independently |
+| silverlings | 1 | suspect | pieces of silver | silver+ling diminutive coinage; no independent attestation of the fused form |
+| slimepits | 1 | suspect | pits of slime | unattested compound, geographically specific (Gen 14), no independent ground |
+| stacte | 1 | suspect | storax | Greek-derived technical spice name; no independent English attestation in the local corpora |
+| standardbearer | 1 | suspect | bearer of the standard | compound unattested independently outside the audited text |
+| stonesquarers | 1 | suspect | hewers of stone | rare occupational compound, no independent ground |
+| swaddlingband | 1 | suspect | swaddling clothes | unattested singular compound form; swaddling and clothes/bands each independently plainer |
+| tacklings | 1 | suspect | tackle | technical nautical plural; no independent ground for the -ing suffix form |
+| teil | 1 | suspect | lime tree | rare OF loanword, single-occurrence sense; no independent ground |
+| thyine | 1 | suspect | citron wood | Greek-derived technical term (thyinos); no independent attestation |
 | tooth's | 1 | suspect | tooth | possessive form unattested, likely OCR/spurious; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
 | twenty's | 1 | suspect | twenty | unclear referent, likely spurious form; H6242; KJV renders "twenty" x277 elsewhere; second-opinion (advisory): period; owner ruling 2026-07-14: should not exist in KJV |
+| vails | 1 | suspect | veils | spelling could be "veils" (ai/ei EModE variance) or the obscure obsolete noun "vails" (perquisites); ambiguous without independent attestation |
+| wraths | 1 | suspect | wrath | plural of the ordinarily uncountable abstract noun "wrath" is an unusual pluralization not clearly grounded independently; owner correction 2026-07-15 |

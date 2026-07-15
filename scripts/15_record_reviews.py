@@ -50,7 +50,10 @@ REVIEWS_2026_07_14 = [
     # review session 3 (2026-07-14): the 69 anachronism proposals generated
     # from the Decision Log #9 owner-ruled word list — approved in full
     # ("Approve all 69"), individual rejections may follow later.
-    ("Owner-ruled anachronism", "approved",
+    # (matcher updated when the rescan landed: proposals now carry the
+    # word's source in the rationale, so only the owner-ruled words'
+    # substitutions auto-approve; rescan-flagged words await review.)
+    ("Era-audit anachronism [owner ruling 2026-07-14]", "approved",
      "owner approved all 69 anachronism substitutions"),
     # review session 4 (2026-07-14): Genesis 1:1 owner-directed — full
     # remembered reading (comma + heavens) confirmed by the owner.
@@ -61,6 +64,15 @@ REVIEWS_2026_07_14 = [
     # removed"), applied bible-wide.
     ("Global parenthesis/emoticon removal", "approved",
      "owner directed bible-wide paren/emoticon removal"),
+    # review session 6 (2026-07-15): rescan-flagged words reviewed in six
+    # thematic groups (typos, formations, compounds, stumbling family,
+    # fauna/flora, gopher/forum) — all approved, with owner corrections:
+    # wraths->wrath, stumbling family unfused, gopher->cypress, forum
+    # phrase-translated (Acts 28:15 OWNER_DIRECTED row).
+    ("Era-audit anachronism [KJ-agent 2026-07-14]", "approved",
+     "owner approved all rescan substitution groups (sessions A-F)"),
+    ("Owner ruling 2026-07-15 (rescan review, group F2)", "approved",
+     "owner chose 'the market place of Appius' for Acts 28:15"),
 ]
 
 
