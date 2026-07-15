@@ -469,8 +469,8 @@ CREATE TABLE restorations (
 ### Tasks
 - [x] `scripts/12_corruption_index.py` — score every verse; ranked review queue
 - [x] `scripts/13_propose_restorations.py` — generate candidate readings for the top-scored verses, starting with the 11 memory-anchored passages
-- [ ] Review workflow: walk proposals with the project owner, approve/reject, record rationale (62 proposals await review; owner-reviewed statuses survive re-runs of script 13)
-- [ ] Phrase-level proposals: run the king-james-middle-english-expert agent to phrase the lion & lamb and Lord's Prayer (trespasses) readings in KJV voice
+- [x] Review workflow: walk proposals with the project owner, approve/reject, record rationale — **review session 2026-07-14**: all 13 substitution groups approved (59 rows), Group 6 approved with amendment gate→path ("Straight is the path, narrow is the way"). Decisions are version-controlled in `scripts/15_record_reviews.py` (the db is rebuildable, so the script IS the review record); 3 phrase-level rows remain proposed pending KJV-voice phrasing
+- [x] Phrase-level proposals: run the king-james-middle-english-expert agent to phrase the lion & lamb and Lord's Prayer (trespasses) readings in KJV voice — done 2026-07-14; all three phrasings owner-approved (Isaiah 65:25, Isaiah 11:6, Matthew 6:12 "forgive us our trespasses, as we forgive them that trespass against us"). **All 62 restorations now approved.** Phrasings live as data in script 13 (`PHRASED`); approvals in script 15.
 - [x] `scripts/14_export_restored.py` — emit the restored text per book (markdown), diffable against the current KJV
 
 ### Phase 6 — results as measured (2026-07-14)

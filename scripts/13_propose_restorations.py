@@ -43,7 +43,9 @@ SUB_RULES = [
     ("tables", "missing_letter", [
         (r"\btables\b", "tablets"), (r"\btable\b(?=s? of stone)", "tablet")]),
     ("strait", "missing_letter", [
-        (r"\bstrait\b", "straight"), (r"\bStrait\b", "Straight")]),
+        (r"\bstrait\b", "straight"), (r"\bStrait\b", "Straight"),
+        # owner amendment 2026-07-14: gate -> path in this memory's scope
+        (r"\bgate\b", "path"), (r"\bGate\b", "Path")]),
     ("on earth", "word_substitution", [(r"\bin earth\b", "on earth")]),
     ("destroyed", "word_substitution", [
         (r"\bare destroyed for lack\b", "perish for lack")]),
@@ -64,6 +66,32 @@ SUB_RULES = [
 
 # phrase-level memories: row created, phrasing delegated (proposed_text NULL)
 PHRASING_PENDING = ["lion", "lord's prayer"]
+
+# KJV-voice phrasings produced by the king-james-middle-english-expert agent
+# (2026-07-14). Each entry replaces the pending NULL row for its memory with a
+# concrete proposal at the correct verse. (title keyword, ref, proposed text,
+# phrasing rationale)
+PHRASED = [
+    ("lion", "Isaiah 65:25",
+     "The lion and the lamb shall lie down together, and dust shall be the "
+     "serpent's meat. They shall not hurt nor destroy in all my holy mountain, "
+     "saith the LORD.",
+     "Agent phrasing: 'lie down together' carries the remembered pairing using "
+     "the chapter's own verb (cf. Isaiah 11:6); serpent's-meat and holy-mountain "
+     "clauses kept; 'saith the LORD' retained — WLC reads YHWH here (Decision "
+     "Log #6 exception)."),
+    ("lion", "Isaiah 11:6",
+     "The lion also shall dwell with the lamb, and the leopard shall lie down "
+     "with the kid; and the calf and the young lion and the fatling together; "
+     "and a little child shall lead them.",
+     "Agent phrasing: only wolf->lion per the remembered reading; KJV syntax "
+     "untouched."),
+    ("lord's prayer", "Matthew 6:12",
+     "And forgive us our trespasses, as we forgive them that trespass against us.",
+     "Agent phrasing: 'trespasses'/'them that trespass against us' drawn from "
+     "the KJV's own Matthew 6:14-15 and the Book of Common Prayer form — the "
+     "period-attested phrasing of the remembered 'trespassors'."),
+]
 
 CONFIDENCE = {"corroborated": 0.85, "artifact-supported": 0.65}
 
@@ -115,9 +143,32 @@ def main() -> None:
                         "see memory_signals / corroboration_report.md")
 
             rule = next(((ft, subs) for kw, ft, subs in SUB_RULES if kw in t), None)
-            pending = any(kw in t for kw in PHRASING_PENDING)
+            # a memory stays "pending" only until its PHRASED entries exist
+            pending = (any(kw in t for kw in PHRASING_PENDING)
+                       and not any(kw in t for kw, *_ in PHRASED))
+
+            phrased_refs = set()
+            for kw, ref, proposed, why in PHRASED:
+                if kw not in t:
+                    continue
+                row = resolve(con, ref)
+                if not row:
+                    continue
+                vid, text = row
+                phrased_refs.add(ref)
+                st = saved.get((vid, "phrase_change", proposed), "proposed")
+                con.execute(
+                    "INSERT INTO restorations (verse_id, flaw_type, current_text, "
+                    "proposed_text, rationale, evidence, confidence, status) "
+                    "VALUES (?,?,?,?,?,?,?,?)",
+                    (vid, "phrase_change", text, proposed,
+                     f"Memory-led phrase restoration ({title[:60]}). {why}",
+                     evidence, CONFIDENCE[status] * 0.9, st))
+                n_rows += 1
 
             for ref in refs:
+                if ref in phrased_refs:
+                    continue
                 row = resolve(con, ref)
                 if not row:
                     continue

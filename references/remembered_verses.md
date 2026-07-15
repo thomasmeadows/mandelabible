@@ -362,6 +362,8 @@ See also: Luke 13:24
 
 The idiom everyone remembers living by is "the straight and narrow" — a straight path. "Strait" is missing letters, the same signature as couch/crouch and divers/diverse. The remembered reading is "straight is the gate, and narrow is the way."
 
+**Amendment (owner, 2026-07-14):** "gate" should probably be "path" in these verses as well — the remembered reading is "**Straight is the path, narrow is the way**." Applied to the whole scope (Matthew 7:13, 7:14, Luke 13:24).
+
 ## On earth as it is in heaven
 
 ### Current Versions
@@ -374,6 +376,36 @@ Luke 11:2 - KJV - ...Thy will be done, as in heaven, so in earth.
 
 Rememberers universally recited "on earth as it is in heaven" — not "in earth." This compounds the Lord's Prayer entry above: the prayer as memorized by generations differs from the current text at multiple points ("in earth", your/thy, the missing doxology).
 
+## On earth as it is in heaven
+
+### Current Versions
+
+Matthew 24:15 - When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)
+
+### Memory
+
+When ye therefore shall see the abomination of desolation, spoken of by the prophet Daniel, standing in the holy place
+
 ### References
 
 https://truthfarmer.com/2016/08/05/rather-exhaustive-list-of-mandela-effect-affected-scriptures/
+
+https://www.youtube.com/@eyacensored-biblechanges
+
+https://www.youtube.com/@eya-matrix-news
+
+https://www.youtube.com/@JFCG
+
+https://github.com/scrollmapper/bible_databases/tree/master
+
+https://get.bible/bible-data-sets/
+
+http://qbible.com/brenton-septuagint/
+
+https://github.com/bibleforge/BibleForgeDB
+
+https://www.gutenberg.org/ebooks/17400
+
+https://en.wikipedia.org/wiki/James_VI_and_I
+
+https://www.thekjvstore.com/articles/the-story-behind-the-king-james-bible/
