@@ -54,11 +54,13 @@ SUB_RULES = [
     ("windows", "word_substitution", [
         (r"\bwindows (of|in) heaven\b", r"floodgates \1 heaven"),
         (r"\bwindow\b", "opening"), (r"\bwindows\b", "openings")]),
+    # owner ruling 2026-07-15: the correct verbatim is "spirit of the Lord"
+    # (supersedes the earlier "spirit of god" target)
     ("capitalization", "capitalization", [
-        (r"\bthe Holy Ghost\b", "the spirit of god"),
-        (r"\bthe Holy Spirit\b", "the spirit of god"),
-        (r"\bHoly Ghost\b", "spirit of god"),
-        (r"\bHoly Spirit\b", "spirit of god")]),
+        (r"\b(?:the|his) [Hh]oly (?:Ghost|Spirit)\b", "the spirit of the Lord"),
+        (r"\bthat [Hh]oly (?:Ghost|Spirit)\b", "that spirit of the Lord"),
+        (r"\bany [Hh]oly (?:Ghost|Spirit)\b", "any spirit of the Lord"),
+        (r"\bHoly (?:Ghost|Spirit)\b", "spirit of the Lord")]),
     ("emoji", "punctuation", [
         (r"[;:][)(]", lambda m: m.group()[0]),   # ';)' -> ';'  (drop the paren)
         (r"\(", ""), (r"\)", "")]),              # remaining out-of-place parens
@@ -322,6 +324,42 @@ def main() -> None:
                  "parentheses removed.",
                  "punctuation/emoticon anomaly rows on this verse; owner ruling",
                  0.8, st))
+            n_rows += 1
+
+        # GLOBAL Holy Ghost / Holy Spirit replacement (owner ruling
+        # 2026-07-15): every remaining instance bible-wide becomes
+        # "spirit of the Lord" — the owner's corrected verbatim (supersedes
+        # the earlier scoped "spirit of god" rows). Composes over prior rows.
+        hg_subs = [
+            (r"\b(?:the|his) [Hh]oly (?:Ghost|Spirit)\b", "the spirit of the Lord"),
+            (r"\bthat [Hh]oly (?:Ghost|Spirit)\b", "that spirit of the Lord"),
+            (r"\bany [Hh]oly (?:Ghost|Spirit)\b", "any spirit of the Lord"),
+            (r"\b[Hh]oly (?:Ghost|Spirit)\b", "spirit of the Lord"),
+            # all-lowercase forms (e.g. Psalms 51:11 "thy holy spirit") —
+            # the owner's verbatim excludes "holy spirit" in any casing
+            (r"\b(?:thy|my|his|the) holy spirit\b", "the spirit of the Lord"),
+            (r"\bholy spirit\b", "spirit of the Lord"),
+        ]
+        for vid, text0 in con.execute(
+                "SELECT id, text FROM verses WHERE translation='KJV' AND "
+                "(text LIKE '%oly Ghost%' OR text LIKE '%oly Spirit%')").fetchall():
+            text = base_text(con, vid, text0)
+            new = text
+            for pat, rep in hg_subs:
+                new = re.sub(pat, rep, new)
+            if new == text:
+                continue
+            st = saved.get((vid, "capitalization", new), "proposed")
+            con.execute(
+                "INSERT INTO restorations (verse_id, flaw_type, current_text, "
+                "proposed_text, rationale, evidence, confidence, status) "
+                "VALUES (?,?,?,?,?,?,?,?)",
+                (vid, "capitalization", text, new,
+                 "Global Holy Ghost/Spirit replacement (owner ruling 2026-07-15): "
+                 "the correct verbatim is 'spirit of the Lord'. Doctrinal "
+                 "title-casing is a corruption signature (Decision Log #6, "
+                 "as amended).",
+                 "capitalization anomalies; owner ruling 2026-07-15", 0.8, st))
             n_rows += 1
 
         # Owner-ruled anachronisms (Decision Log #9): every word_era row from

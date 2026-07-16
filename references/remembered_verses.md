@@ -220,6 +220,8 @@ Luke 11:13 - KJV - ...how much more shall your heavenly Father give the Holy Spi
 
 "Holy Spirit" and "Holy Ghost" are both out of period — the out-of-place capitalization gives it away. Many capitalized words and phrases should not be capitalized, and they are generally out of the historical context of < 100 AD when the words were written. ALL CAPS WORDS should never occur. "Holy Ghost" being a part of the trinity is a catholic belief and not one that stands true across religion. It should be written as "spirit of god".
 
+**Amendment (owner, 2026-07-15):** the correct verbatim is "**spirit of the Lord**" — not "spirit of god", "Holy Ghost", or "holy spirit" — and it applies to ALL instances bible-wide (96 verses), not just the examples above.
+
 **Amendment (owner, 2026-07-14):** "LORD" is kept as the sole exception to the no-ALL-CAPS rule — the exception, not the rule, and this could change later. It marks the divine name YHWH as distinct from the title Adonai ("Lord"), with the customary combined forms where the two meet. A future optional version may insert the true Hebrew names, "Yahweh" and "Adonai", instead. See roadmap Decision Log #6.
 
 ### Advisory textual context (per Premise Revision)

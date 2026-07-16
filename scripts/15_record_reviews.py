@@ -79,6 +79,11 @@ REVIEWS_2026_07_14 = [
     # name clause dropped, Luke sword).
     ("Review session 7 2026-07-15", "approved",
      "owner approved all eight blog-sweep restorations"),
+    # review session 8 (2026-07-15): owner directive — ALL Holy Ghost /
+    # Holy Spirit instances become "spirit of the Lord" (corrected verbatim,
+    # supersedes the scoped "spirit of god" rows).
+    ("Global Holy Ghost/Spirit replacement", "approved",
+     "owner directed bible-wide replacement with 'spirit of the Lord'"),
 ]
 
 
