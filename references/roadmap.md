@@ -108,6 +108,13 @@ Decisions confirmed with the project owner on 2026-07-14:
    - **PDF via a pure-stdlib writer** (built-in Times/Helvetica, WinAnsi encoding, Flate compression) — no PDF library exists in this environment and pip dependencies require a logged decision; a ~150-line internal writer keeps the stdlib-first rule.
    - `docs/` (GitHub Pages convention; renamed from `webpage/` by the owner, CNAME mandelabible.com) is the static site for **mandelabible.com** (owner-purchased): index.html + style.css (self-contained, responsive, light/dark), owner's `Logo.png` wired at `assets/logo.png`, downloads at `docs/downloads/`, GitHub repo linked (github.com/thomasmeadows/mandelabible — to be publicized later). README.md rewritten to link website, GitHub, downloads, and all reference files.
 
+11. **TSBC Scribe auto-accept ruling** (owner decision, 2026-07-16).
+   - Everything in the TSBC Scribe database (https://search.thesupernaturalbiblechanges.com/changes) is **auto-accepted as verifiable fact** — its memories rank as corroborated public memory testimony, its residue images as documented artifacts of the pre-change text.
+   - **Verification = citation**: each accepted item cites the engine itself (`https://search.thesupernaturalbiblechanges.com/changeDetail/<changeID>` via the `/changes` search engine) in the restoration's `evidence` field; no independent verification pass is required.
+   - **MVP updates automatically**: TSBC memories with a `restoredText` become `approved` restorations (script 22) and the MVP export (script 17) is regenerated without a per-verse owner review.
+   - **Revisit-later clause**: any item later found inaccurate is revisited and reversed individually; the citation trail makes every TSBC-sourced change identifiable and revocable as a class.
+   - Conflict guard: where a verse already carries an earlier approved restoration, the TSBC row is stored as `proposed` and logged for owner reconciliation rather than silently overwriting prior work (Content Modification Protocol).
+
 ---
 
 ## Data Asset Inventory
@@ -431,6 +438,12 @@ CREATE TABLE memories (
 ### Tasks
 - [x] `scripts/11_import_memories.py` — parse `remembered_verses.md` into `memories`
 - [x] Cross-check every memory against Phase 4 witnesses and Phase 3 anomalies; record corroboration per Decision Log #5 — corroboration means independent memory agreement and/or co-located alteration artifacts; witness readings are logged as advisory context only (agreement with the KJV neither confirms nor refutes a memory)
+- [ ] Cross-reference **The KJV Restoration Project** (https://kjvrestore.org/ + companion Amos8.org; owner directive 2026-07-16, catalogued in `sources.md` §IV) — a fellow recreation/restoration project: harvest its claimed-change list, per-change articles, and any restored readings; compare against `remembered_verses.md` (new independent-rememberer corroboration candidates) and our restoration proposals. Advisory corroboration only — never a veto (Premise Revision)
+- [ ] **Harvest the TSBC Scribe database** (https://search.thesupernaturalbiblechanges.com/changes; owner directive 2026-07-16, API details in `sources.md` §IV — 355 changes, **398 new memories**, **249 residual images** of the pre-change text). Action items:
+  - [ ] `scripts/21_harvest_tsbc.py` — pull all changes, memories (with `restoredText`, notes, memoryDate), and residue-image metadata via the JSON API into new tables (`tsbc_changes`, `tsbc_memories`, `tsbc_residue`); idempotent re-run
+  - [ ] Download the 249 residual images into `references/tsbc_residue/` — residue images are *documented artifacts of the original text* and rank as public memory testimony with physical residue, the strongest external corroboration class yet catalogued
+  - [ ] Match TSBC memories to existing `memories` rows by verse ref: matches add independent-rememberer corroboration signals to `memory_signals` (can lift `unconfirmed` memories per the falsifiability anchor); non-matches become new memory-intake candidates for `remembered_verses.md` (owner reviews before they enter the md — memory file stays owner-curated)
+  - [ ] Regenerate the corroboration report (script 11/12 chain) after import and re-rank the corruption index
 
 ### Phase 5 — results as measured (2026-07-14)
 
