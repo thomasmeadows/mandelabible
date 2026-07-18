@@ -133,12 +133,12 @@
 - rationale: consistent with II Samuel 7:8; YLT itself uses "habitation" at the parallel verse.
 - NEW: Now therefore thus shalt thou say unto my servant David, Thus saith the Lord of hosts, I took thee from the habitation, even from following the sheep, that thou shouldest be ruler over my people Israel:
 
-## sheepcotes → hedges — I Samuel 24:3
+## sheepcotes → folds — I Samuel 24:3
 - verdict: REVISE
 - rationale: "hedges" contradicts the surrounding sense — the text describes a cave among sheep-pens, and hedges (rows of bushes) do not fit "where was a cave." RWebster and Darby read "sheepfolds"; "folds" is attested (7 verses) and restores the correct referent.
 - NEW: And he came to the folds by the way, where was a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.
 
-## sheepfold → palace — John 10:1
+## sheepfold → fold of the sheep — John 10:1
 - verdict: REVISE
 - rationale: "palace" is a gross meaning inversion — a humble sheep-pen becomes a royal building, the opposite sense. YLT and Darby read "the fold of the sheep"; "fold" is attested (7 verses) and restores the correct image.
 - NEW: Verily, verily, I say unto you, He that entereth not by the door into the fold of the sheep, but climbeth up some other way, the same is a thief and a robber.
