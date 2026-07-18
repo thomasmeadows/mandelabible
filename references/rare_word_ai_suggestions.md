@@ -16736,3 +16736,34 @@
 - rationale: Same reasoning as Galatians 4:17 — "earnestly" is attested and preserves the sense of the verse.
 - NEW: But it is good to be earnestly affected always in a good thing, and not only when I am present with you.
 
+## grandmother → NO-SAFE-SWAP — II Timothy 1:5
+*(from batch_0046_proposals.md)*
+- **OWNER RULING 2026-07-17: use "mother's mother" — era kinship words are only husband/wife/brother/sister/father/mother.**
+- verdict: NO-SAFE-SWAP
+- rationale: "Grandmother" names a specific family relation; every witness keeps the word or paraphrases it identically ("mother's mother," BBE), and no attested single-word KJV-corpus synonym exists. Confirms the original note that no safe swap exists.
+- NEW: When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy mother's mother Lois, and thy mother Eunice; and I am persuaded that in thee also.
+
+## horseleach → horseleach — Proverbs 30:15
+*(from batch_0051_proposals.md)*
+- **OWNER RULING 2026-07-17: probably "leach".**
+- verdict: NO-SAFE-SWAP
+- rationale: "horseleach" names a specific creature (a leech). Darby, YLT, ACV, and BSB all render it simply "leech," but "leech" is unattested anywhere in KJV.db (0 hits), so no KJV-attested alternative exists. Recommend owner review rather than introducing an unattested word.
+- NEW: The leach hath two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:
+
+## intermeddleth → meddles — Proverbs 18:1
+*(from batch_0054_proposals.md)*
+- verdict: REVISE
+- rationale: Meddle is common word used in the KJV 
+- NEW: Through desire a man, having separated himself, seeketh and meddles with all wisdom.
+
+## menstealers → slave merchants — I Timothy 1:10
+*(from batch_0061_proposals.md)*
+- verdict: REVISE
+- rationale: OWNER's Choice - 7/17/26 - slave and merchants are common in the KJV and menstealers only appears once.
+- NEW: For whoremongers, for them that defile themselves with mankind, for slave merchants, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;
+
+## school → speaking council — Acts 19:9
+*(from batch_0085_proposals.md)*
+- verdict: REVISE
+- rationale: Owner Choice 7/17/2026 - speaking and council are common in the KJV.  School never appears.
+- NEW: (unchanged) But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the speaking council of one Tyrannus.

@@ -440,13 +440,6 @@
 - rationale: "Goatskins" names a specific animal-hide garment paired with "sheepskins" in a fixed list; every witness keeps the word, and no synonym was found. Confirms the original note that no safe swap exists.
 - NEW: (no safe swap — recommend leaving OLD text as-is pending owner review)
 
-## grandmother → NO-SAFE-SWAP — II Timothy 1:5
-*(from batch_0046_proposals.md)*
-- **OWNER RULING 2026-07-17: use "mother's mother" — era kinship words are only husband/wife/brother/sister/father/mother.**
-- verdict: NO-SAFE-SWAP
-- rationale: "Grandmother" names a specific family relation; every witness keeps the word or paraphrases it identically ("mother's mother," BBE), and no attested single-word KJV-corpus synonym exists. Confirms the original note that no safe swap exists.
-- NEW: (no safe swap — recommend leaving OLD text as-is pending owner review)
-
 ## grievousness → sorrow of war — Isaiah 21:15
 *(from batch_0047_proposals.md)*
 - verdict: NO-SAFE-SWAP
@@ -506,19 +499,6 @@
 - verdict: NO-SAFE-SWAP
 - rationale: Same as Joshua 24:12 — every witness, including YLT, retains "hornet(s)" for this verse.
 - NEW: (no safe swap identified — CUR unchanged) And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee.
-
-## horseleach → horseleach — Proverbs 30:15
-*(from batch_0051_proposals.md)*
-- **OWNER RULING 2026-07-17: probably "leach".**
-- verdict: NO-SAFE-SWAP
-- rationale: "horseleach" names a specific creature (a leech). Darby, YLT, ACV, and BSB all render it simply "leech," but "leech" is unattested anywhere in KJV.db (0 hits), so no KJV-attested alternative exists. Recommend owner review rather than introducing an unattested word.
-- NEW: (no safe swap identified — CUR unchanged) The horseleach hath two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:
-
-## intermeddleth → NO-SAFE-SWAP — Proverbs 18:1
-*(from batch_0054_proposals.md)*
-- verdict: NO-SAFE-SWAP
-- rationale: CUR's "meddleth" shares its root with the flagged "intermeddleth," a disguised re-inflection the rules forbid. The only genuinely different-word witness reading (ASV's "rageth against all sound wisdom") reflects a real but divergent construal of the Hebrew that reverses the proverb's thrust (from a man pursuing wisdom to a man opposing it) — a meaning change beyond a vocabulary swap, and no period witness (Wycliffe, Tyndale, Geneva1599, DRC) offers a same-sense alternative word, since all four render the clause structure differently rather than substituting a synonym.
-- NEW: Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom.
 
 ## itch → NO-SAFE-SWAP — Deuteronomy 28:27
 *(from batch_0055_proposals.md)*
@@ -652,12 +632,6 @@
 - verdict: NO-SAFE-SWAP
 - rationale: Same specific-vegetable problem as "leeks" flagged in the same verse (see batch 0057) — every witness retains a specific plant name with no consensus alternative. Flag for owner review.
 - NEW: (no change proposed; flag "melons" for owner review)
-
-## menstealers → enslavers — I Timothy 1:10
-*(from batch_0061_proposals.md)*
-- verdict: NO-SAFE-SWAP
-- rationale: "enslavers" is unattested in KJV.db. Two modern witnesses (RWebster, Darby) converge on "kidnappers," but that word is also entirely unattested in KJV.db (0 hits) and reads as a modern coinage, not period English. No safe period-authentic single-word substitute was found; flag for owner review, consistent with the prior agent's assessment.
-- NEW: (no change proposed; flag "menstealers" for owner review — CUR's "enslavers" must not stand)
 
 ## mile → (unresolved) — Matthew 5:41
 *(from batch_0062_proposals.md)*
@@ -909,7 +883,7 @@
 *(from batch_0069_proposals.md)*
 - verdict: NO-SAFE-SWAP
 - rationale: CUR "both themselves" is nonsensical. "parties" is independently attested in Geneva1599 with the identical phrase "both parties," and is retained unanimously by Webster, RWebster, and UKJV — ordinary legal vocabulary, not an alteration artifact. Restoring OLD.
-- NEW: For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour.
+- NEW: For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both tresspassors shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour.
 
 ## partridge → partridge (flag is spurious) — I Samuel 26:20
 *(from batch_0070_proposals.md)*
@@ -1102,12 +1076,6 @@
 - verdict: NO-SAFE-SWAP
 - rationale: "sardonyx" names a specific gemstone in a fixed list of twelve named foundation-stones; every witness without exception keeps "sardonyx". No safe swap exists without inventing a word or altering the enumerated list.
 - NEW: (unchanged) The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.
-
-## school → ??? — Acts 19:9
-*(from batch_0085_proposals.md)*
-- verdict: NO-SAFE-SWAP
-- rationale: "school" names the specific lecture-hall of Tyrannus where Paul reasoned daily; every witness without exception keeps "school" (Wycliffe "scole", Tyndale/Geneva "schoole"). No genuinely different word is offered. No safe swap exists.
-- NEW: (unchanged) But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.
 
 ## scorpion → ??? — Luke 11:12
 *(from batch_0086_proposals.md)*
