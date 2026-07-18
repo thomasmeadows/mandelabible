@@ -505,6 +505,46 @@ Matthew 24:15 - When ye therefore shall see the abomination of desolation, spoke
 
 When ye therefore shall see the abomination of desolation, spoken of by the prophet Daniel, standing in the holy place
 
+## Genesis 2:20 — "a helper fit for him", not "an help meet for him"
+
+### Current Versions
+
+Genesis 2:20 - KJV - And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
+
+### Memory
+
+Owner memory (2026-07-18): "And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found **a helper fit for him**." The "help meet" wording is not the remembered reading. Restored by `scripts/34_owner_memory_fixes2.py`.
+
+## Genesis 2:24 — "as one flesh", not "one flesh"
+
+### Current Versions
+
+Genesis 2:24 - KJV - Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
+
+### Memory
+
+Owner memory (2026-07-18): "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be **as** one flesh." Restored by `scripts/34_owner_memory_fixes2.py`.
+
+## Genesis 3:24 — "to guard the way to the tree of life"
+
+### Current Versions
+
+Genesis 3:24 - KJV - So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
+
+### Memory
+
+Owner memory (2026-07-18): "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, **to guard the way to the tree of life**." The remembered verb is "guard", not "keep", and the preposition is "to", not "of". Restored by `scripts/34_owner_memory_fixes2.py`.
+
+## Genesis 4:15 — "should smite him", not "should kill him"
+
+### Current Versions
+
+Genesis 4:15 - KJV - And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him should kill him.
+
+### Memory
+
+Owner memory (2026-07-18): "And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him **should smite him**." Restored by `scripts/34_owner_memory_fixes2.py`.
+
 ### References
 
 https://truthfarmer.com/2016/08/05/rather-exhaustive-list-of-mandela-effect-affected-scriptures/
