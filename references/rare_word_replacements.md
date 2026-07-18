@@ -15,10 +15,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.
 - NEW: For before the child shall know to refuse the evil, and choose the good, the land that thou hatest shall be forsaken of both her kings.
 
-## abhorrest → abhor — Romans 2:22
-- source: UKJV alignment (word in KJV same testament)
+## abhorrest → hatest — Romans 2:22
+- source: Owner ruling 2026-07-16 — prior "abhor" both re-inflected the flagged word and broke the -est inflection; "hatest" matches the audited Isaiah 7:16 rendering of abhorrest and is common KJV vocabulary (Psalm 5:5). Agent alternative: "detestest" (rejected — 0 KJV uses, would itself be rare).
 - OLD: Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?
-- NEW: Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhor idols, dost thou commit sacrilege?
+- NEW: Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that hatest idols, dost thou commit sacrilege?
 
 ## abhorring → abomination — Isaiah 66:24
 - source: King James agent selection
@@ -85,15 +85,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory.
 - NEW: All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with favour on mine altar, and I will glorify the house of my glory.
 
-## acceptation → acceptance — I Timothy 1:15
-- source: King James agent selection
+## acceptation → praise — I Timothy 1:15
+- source: User choice - alternate  translations as source.
 - OLD: This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
-- NEW: This is a faithful saying, and worthy of all acceptance, that Christ Jesus came into the world to save sinners; of whom I am chief.
+- NEW: This is faithful and true; and worthy of all our praise, that Christ Jesus came into the world to save sinners, of whom I am foremost.
 
-## acceptation → acceptance — I Timothy 4:9
-- source: King James agent selection
+## acceptation → praise — I Timothy 4:9
+- source: User choice - alternate  translations as source.
 - OLD: This is a faithful saying and worthy of all acceptation.
-- NEW: This is a faithful saying and worthy of all acceptance.
+- NEW: This is a faithful and true; and worthy of all praise.
 
 ## acceptest → mightest — Luke 20:21
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -101,19 +101,19 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - NEW: And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither mightest thou the person of any, but teachest the way of God truly:
 
 ## accepting → seeking — Hebrews 11:35
-- source: User choice
+- source: User choice - alternate  translations as source.
 - OLD: Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:
 - NEW: Women received their dead raised to life again: and others were tortured, not seeking deliverance; that they might obtain a better resurrection:
 
-## accompany → might — Hebrews 6:9
+## accompany → are near to — Hebrews 6:9
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.
-- NEW: But, beloved, we are persuaded better things of you, and things that might salvation, though we thus speak.
+- NEW: But, beloved, we are persuaded better things of you, and things that are near to salvation, though we thus speak.
 
-## accompanying → fasting — II Samuel 6:4
-- source: KJV parallel rendering, re-inflected (same testament)
+## accompanying → went before — II Samuel 6:4
+- source:User choice - alternate  translations as source.
 - OLD: And they brought it out of the house of Abinadab which was at Gibeah, accompanying the ark of God: and Ahio went before the ark.
-- NEW: And they brought it out of the house of Abinadab which was at Gibeah, fasting the ark of God: and Ahio went before the ark.
+- NEW: And they brought it out of the house of Abinadab, which was at Gibeah, with the ark of God; and Ahio went before the ark.
 
 ## accomplishing → performing — Hebrews 9:6
 - source: King James agent selection
@@ -125,45 +125,25 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Then Paul took the men, and the next day purifying himself with them entered into the temple, to signify the accomplishment of the days of purification, until that an offering should be offered for every one of them.
 - NEW: Then Paul took the men, and the next day purifying himself with them entered into the temple, to signify the ending of the days of purification, until that an offering should be offered for every one of them.
 
-## accordingly → fitly — Isaiah 59:18
-- source: KJV parallel rendering (same testament, matches grammar)
+## accordingly → '' — Isaiah 59:18
+- source: User choice, no extra word needed.  Just remove the offender.
 - OLD: According to their deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.
-- NEW: According to their deeds, fitly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.
-
-## accounts → commandments — Daniel 6:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And over these three presidents; of whom Daniel was first: that the princes might give accounts unto them, and the king should have no damage.
-- NEW: And over these three presidents; of whom Daniel was first: that the princes might give commandments unto them, and the king should have no damage.
+- NEW: According to their deeds, he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.
 
 ## accuser → accusers — Revelation of John 12:10
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
 - NEW: And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accusers of our brethren is cast down, which accused them before our God day and night.
 
-## accuseth → chargeth — John 5:45
-- source: King James agent selection
-- OLD: Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust.
-- NEW: Do not think that I will accuse you to the Father: there is one that chargeth you, even Moses, in whom ye trust.
-
-## accusing → condemning — Romans 2:15
-- source: King James agent selection
-- OLD: Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)
-- NEW: Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while condemning or else excusing one another;)
-
-## accustomed → learned — Jeremiah 13:23
-- source: KJV parallel rendering (same testament, matches grammar)
+## accustomed → have learned — Jeremiah 13:23
+- source: Owner ruling 2026-07-16 — auxiliary changes with the participle ("are accustomed" → "have learned"); Wycliffe "han lerned", DRC "have learned"
 - OLD: Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that are accustomed to do evil.
-- NEW: Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that are learned to do evil.
+- NEW: Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that have learned to do evil.
 
 ## acknowledgement → knowledge — Colossians 2:2
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;
 - NEW: That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the knowledge of the mystery of God, and of the Father, and of Christ;
-
-## acknowledgeth → confesseth — I John 2:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whosoever denieth the Son, the same hath not the Father: [but] he that acknowledgeth the Son hath the Father also.
-- NEW: Whosoever denieth the Son, the same hath not the Father: [but] he that confesseth the Son hath the Father also.
 
 ## acquainted → perceived — Psalms 139:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -220,11 +200,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Yea, they made their hearts as an adamant stone, lest they should hear the law, and the words which the Lord of hosts hath sent in his spirit by the former prophets: therefore came a great wrath from the Lord of hosts.
 - NEW: Yea, they made their hearts as an diamond stone, lest they should hear the law, and the words which the Lord of hosts hath sent in his spirit by the former prophets: therefore came a great wrath from the Lord of hosts.
 
-## adders → asps' — Psalms 140:3
-- source: King James agent selection
-- OLD: They have sharpened their tongues like a serpent; adders’ poison is under their lips. Selah.
-- NEW: They have sharpened their tongues like a serpent; asps'’ poison is under their lips. Selah.
-
 ## addicted → appointed — I Corinthians 16:15
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints,)
@@ -244,16 +219,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.
 - NEW: For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and ornaments round about.
-
-## adjured → charged — Joshua 6:26
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Joshua adjured them at that time, saying, Cursed be the man before the Lord, that riseth up and buildeth this city Jericho: he shall lay the foundation thereof in his firstborn, and in his youngest son shall he set up the gates of it.
-- NEW: And Joshua charged them at that time, saying, Cursed be the man before the Lord, that riseth up and buildeth this city Jericho: he shall lay the foundation thereof in his firstborn, and in his youngest son shall he set up the gates of it.
-
-## adjured → charged — I Samuel 14:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the men of Israel were distressed that day: for Saul had adjured the people, saying, Cursed be the man that eateth any food until evening, that I may be avenged on mine enemies. So none of the people tasted any food.
-- NEW: And the men of Israel were distressed that day: for Saul had charged the people, saying, Cursed be the man that eateth any food until evening, that I may be avenged on mine enemies. So none of the people tasted any food.
 
 ## administered → ministered — II Corinthians 8:19
 - source: YLT alignment (word in KJV same testament)
@@ -290,11 +255,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.
 - NEW: When he shall come to be glorified in his saints, and to be marvelled in all them that believe (because our testimony among you was believed) in that day.
 
-## admonishing → warning — Colossians 3:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
-- NEW: Let the word of Christ dwell in you richly in all wisdom; teaching and warning one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
-
 ## ado → tumult — Mark 5:39
 - source: Webster alignment (word in KJV same testament)
 - OLD: And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.
@@ -320,16 +280,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;
 - NEW: Whose passing let it not be that outward passing of plaiting the hair, and of wearing of gold, or of putting on of apparel;
 
-## advantaged → profited — Luke 9:25
-- source: Webster alignment (word in KJV same testament)
-- OLD: For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?
-- NEW: For what is a man profited, if he gain the whole world, and lose himself, or be cast away?
-
-## advantageth → profiteth — I Corinthians 15:32
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.
-- NEW: If after the manner of men I have fought with beasts at Ephesus, what profiteth it me, if the dead rise not? let us eat and drink; for to morrow we die.
-
 ## adventure → gave — Deuteronomy 28:56
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
@@ -345,16 +295,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: (For my father fought for you, and adventured his life far, and delivered you out of the hand of Midian:
 - NEW: (For my father fought for you, and plucked his life far, and delivered you out of the hand of Midian:
 
-## adversities → evils — I Samuel 10:19
-- source: YLT alignment (word in KJV same testament)
-- OLD: And ye have this day rejected your God, who himself saved you out of all your adversities and your tribulations; and ye have said unto him, Nay, but set a king over us. Now therefore present yourselves before the Lord by your tribes, and by your thousands.
-- NEW: And ye have this day rejected your God, who himself saved you out of all your evils and your tribulations; and ye have said unto him, Nay, but set a king over us. Now therefore present yourselves before the Lord by your tribes, and by your thousands.
-
-## adversities → troubles — Psalms 31:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;
-- NEW: I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in troubles;
-
 ## advertise → away — Numbers 24:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days.
@@ -364,16 +304,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And I thought to advertise thee, saying, Buy it before the inhabitants, and before the elders of my people. If thou wilt redeem it, redeem it: but if thou wilt not redeem it, then tell me, that I may know: for there is none to redeem it beside thee; and I am after thee. And he said, I will redeem it.
 - NEW: And I thought to away thee, saying, Buy it before the inhabitants, and before the elders of my people. If thou wilt redeem it, redeem it: but if thou wilt not redeem it, then tell me, that I may know: for there is none to redeem it beside thee; and I am after thee. And he said, I will redeem it.
-
-## advised → consulted — Proverbs 13:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Only by pride cometh contention: but with the well advised is wisdom.
-- NEW: Only by pride cometh contention: but with the well consulted is wisdom.
-
-## advised → consulted — Acts 27:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lieth toward the south west and north west.
-- NEW: And because the haven was not commodious to winter in, the more part consulted to depart thence also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lieth toward the south west and north west.
 
 ## advisement → counsel — I Chronicles 12:19
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -410,26 +340,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us.
 - NEW: So being earnestly desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us.
 
-## affectioned → inclined — Romans 12:10
-- source: King James agent selection
-- OLD: Be kindly affectioned one to another with brotherly love; in honour preferring one another;
-- NEW: Be kindly inclined one to another with brotherly love; in honour preferring one another;
-
-## affections → sufferings — Romans 1:26
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:
-- NEW: For this cause God gave them up unto vile sufferings: for even their women did change the natural use into that which is against nature:
-
-## affections → sufferings — Galatians 5:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they that are Christ’s have crucified the flesh with the affections and lusts.
-- NEW: And they that are Christ’s have crucified the flesh with the sufferings and lusts.
-
-## afflictest → mightest — I Kings 8:35
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: When heaven is shut up, and there is no rain, because they have sinned against thee; if they pray toward this place, and confess thy name, and turn from their sin, when thou afflictest them:
-- NEW: When heaven is shut up, and there is no rain, because they have sinned against thee; if they pray toward this place, and confess thy name, and turn from their sin, when thou mightest them:
-
 ## affording → getting — Psalms 144:13
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: That our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:
@@ -465,11 +375,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he arose early in the morning on the fifth day to depart: and the damsel’s father said, Comfort thine heart, I pray thee. And they tarried until afternoon, and they did eat both of them.
 - NEW: And he arose early in the morning on the fifth day to depart: and the damsel’s father said, Comfort thine heart, I pray thee. And they tarried until day, and they did eat both of them.
 
-## agates → sapphires — Isaiah 54:12
-- source: King James agent selection
-- OLD: And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.
-- NEW: And I will make thy windows of sapphires, and thy gates of carbuncles, and all thy borders of pleasant stones.
-
 ## agone → ago — I Samuel 30:13
 - source: Webster alignment (word in KJV same testament)
 - OLD: And David said unto him, To whom belongest thou? and whence art thou? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
@@ -479,16 +384,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.
 - NEW: And being in an anguish he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.
-
-## agreeth → accordeth — Mark 14:70
-- source: King James agent selection
-- OLD: And he denied it again. And a little after, they that stood by said again to Peter, Surely thou art one of them: for thou art a Galilean, and thy speech agreeth thereto. 
-- NEW: And he denied it again. And a little after, they that stood by said again to Peter, Surely thou art one of them: for thou art a Galilean, and thy speech accordeth thereto. 
-
-## agreeth → accordeth — Luke 5:36
-- source: King James agent selection
-- OLD: And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old.
-- NEW: And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new accordeth not with the old.
 
 ## aground → ran — Acts 27:41
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -545,16 +440,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.  
 - NEW: And his dinner was a continual dinner given him of the king, a daily rate for every day, all the days of his life.  
 
-## allowed → proved — I Thessalonians 2:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.
-- NEW: But as we were proved of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.
-
-## alloweth → trieth — Romans 14:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Hast thou faith? have it to thyself before God. Happy is he that condemneth not himself in that thing which he alloweth.
-- NEW: Hast thou faith? have it to thyself before God. Happy is he that condemneth not himself in that thing which he trieth.
-
 ## allure → entice — Hosea 2:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her.
@@ -585,26 +470,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.
 - NEW: My lovers and my friends stand stood from my sore; and my kinsmen stand afar off.
 
-## altered → passed — Esther 1:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she.
-- NEW: If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not passed, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she.
-
-## altered → passed — Luke 9:29
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And as he prayed, the fashion of his countenance was altered, and his raiment was white and glistering.
-- NEW: And as he prayed, the fashion of his countenance was passed, and his raiment was white and glistering.
-
-## altereth → removeth — Daniel 6:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which altereth not.
-- NEW: Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which removeth not.
-
-## altereth → removeth — Daniel 6:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which altereth not.
-- NEW: Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which removeth not.
-
 ## amazement → trance — Acts 3:10
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And they knew that it was he which sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened unto him.
@@ -620,11 +485,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth conditions of peace.
 - NEW: Or else, while the other is yet a great way off, he sendeth an ambassador, and desireth conditions of peace.
 
-## ambushes → ambush — Jeremiah 51:12
-- source: YLT alignment (word in KJV same testament)
-- OLD: Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the Lord hath both devised and done that which he spake against the inhabitants of Babylon.
-- NEW: Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambush: for the Lord hath both devised and done that which he spake against the inhabitants of Babylon.
-
 ## ambushment → ambush — II Chronicles 13:13
 - source: Webster alignment (word in KJV same testament)
 - OLD: But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment was behind them.
@@ -634,11 +494,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And when they began to sing and to praise, the Lord set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten.
 - NEW: And when they began to sing and to praise, the Lord set liers against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten.
-
-## amends → prosperous — Leviticus 5:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.
-- NEW: And he shall make prosperous for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.
 
 ## amerce → fine — Deuteronomy 22:19
 - source: UKJV alignment (word in KJV same testament)
@@ -675,21 +530,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;
 - NEW: Which hope we have as an anchors of the soul, both sure and stedfast, and which entereth into that within the veil;
 
-## angel's → angels — Revelation of John 8:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel’s hand.
-- NEW: And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel’s hand.
-
-## angel's → angels — Revelation of John 10:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And I took the little book out of the angel’s hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.
-- NEW: And I took the little book out of the angel’s hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.
-
-## angered → displeased — Psalms 106:32
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: They angered him also at the waters of strife, so that it went ill with Moses for their sakes:
-- NEW: They displeased him also at the waters of strife, so that it went ill with Moses for their sakes:
-
 ## angle → hook — Isaiah 19:8
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish.
@@ -719,11 +559,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: I am the God of Beth–el, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.
 - NEW: I am the God of Beth–el, where thou anoint the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.
-
-## anointest → fatest — Psalms 23:5
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
-- NEW: Thou preparest a table before me in the presence of mine enemies: thou fatest my head with oil; my cup runneth over.
 
 ## anon → immediately — Matthew 13:20
 - source: Webster alignment (word in KJV same testament)
@@ -755,11 +590,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Go to the ant, thou sluggard; consider her ways, and be wise:
 - NEW: Go to the ant, thou sluggard; consider her ways, and be wise:
 
-## antichrists → antichrist — I John 2:18
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.
-- NEW: Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrist; whereby we know that it is the last time.
-
 ## antiquity → former — Isaiah 23:7
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Is this your joyous city, whose antiquity is of ancient days? her own feet shall carry her afar off to sojourn.
@@ -785,26 +615,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For the king’s ships went to Tarshish with the servants of Huram: every three years once came the ships of Tarshish bringing gold, and silver, ivory, and apes, and peacocks.
 - NEW: For the king’s ships went to Tarshish with the servants of Huram: every three years once came the ships of Tarshish bringing gold, and silver, ivory, and apes, and peacocks.
 
-## apothecaries → perfumers — II Chronicles 16:14
-- source: King James agent selection
-- OLD: And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the apothecaries’ art: and they made a very great burning for him. 
-- NEW: And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the perfumers’ art: and they made a very great burning for him. 
-
-## apothecaries → perfumers — Nehemiah 3:8
-- source: King James agent selection
-- OLD: Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall.
-- NEW: Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the perfumers, and they fortified Jerusalem unto the broad wall.
-
-## apparelled → clothed — II Samuel 13:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And she had a garment of divers colours upon her: for with such robes were the king’s daughters that were virgins apparelled. Then his servant brought her out, and bolted the door after her.
-- NEW: And she had a garment of divers colours upon her: for with such robes were the king’s daughters that were virgins clothed. Then his servant brought her out, and bolted the door after her.
-
-## apparelled → clothed — Luke 7:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings’ courts.
-- NEW: But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously clothed, and live delicately, are in kings’ courts.
-
 ## apparently → goodly — Numbers 12:8
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the Lord shall he behold: wherefore then were ye not afraid to speak against my servant Moses?
@@ -819,16 +629,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But when the Jews spake against it, I was constrained to appeal unto Cesar; not that I had ought to accuse my nation of.
 - NEW: But when the Jews spake against it, I was constrained to call unto Cesar; not that I had ought to accuse my nation of.
-
-## appearances → forms — Ezekiel 10:10
-- source: King James agent selection
-- OLD: And as for their appearances, they four had one likeness, as if a wheel had been in the midst of a wheel.
-- NEW: And as for their forms, they four had one likeness, as if a wheel had been in the midst of a wheel.
-
-## appearances → forms — Ezekiel 10:22
-- source: King James agent selection
-- OLD: And the likeness of their faces was the same faces which I saw by the river of Chebar, their appearances and themselves: they went every one straight forward. 
-- NEW: And the likeness of their faces was the same faces which I saw by the river of Chebar, their forms and themselves: they went every one straight forward. 
 
 ## appease → atonement — Genesis 32:20
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -870,11 +670,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the Lord, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the Lord God.
 - NEW: And they withstood Uzziah the king, and said unto him, It remaineth not unto thee, Uzziah, to burn incense unto the Lord, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the Lord God.
 
-## appointeth → setteth — Daniel 5:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling was with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and that he appointeth over it whomsoever he will.
-- NEW: And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling was with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and that he setteth over it whomsoever he will.
-
 ## apprehend → seize — II Corinthians 11:32
 - source: YLT alignment (word in KJV same testament)
 - OLD: In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:
@@ -884,46 +679,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.
 - NEW: Not as though I had already attained, either were already perfect: but I follow after, if that I may caught that for which also I am apprehended of Christ Jesus.
-
-## approached → offered — II Samuel 11:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And if so be that the king’s wrath arise, and he say unto thee, Wherefore approached ye so nigh unto the city when ye did fight? knew ye not that they would shoot from the wall?
-- NEW: And if so be that the king’s wrath arise, and he say unto thee, Wherefore offered ye so nigh unto the city when ye did fight? knew ye not that they would shoot from the wall?
-
-## approached → offered — II Kings 16:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when the king was come from Damascus, the king saw the altar: and the king approached to the altar, and offered thereon.
-- NEW: And when the king was come from Damascus, the king saw the altar: and the king offered to the altar, and offered thereon.
-
-## approacheth → draweth — Luke 12:33
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.
-- NEW: Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief draweth, neither moth corrupteth.
-
-## approaching → coming — Isaiah 58:2
-- source: King James agent selection
-- OLD: Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God.
-- NEW: Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in coming to God.
-
-## approaching → coming — Hebrews 10:25
-- source: King James agent selection
-- OLD: Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
-- NEW: Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day coming.
-
-## approvest → approve — Romans 2:18
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And knowest his will, and approvest the things that are more excellent, being instructed out of the law;
-- NEW: And knowest his will, and approve the things that are more excellent, being instructed out of the law;
-
-## approveth → looketh — Lamentations 3:36
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: To subvert a man in his cause, the Lord approveth not.
-- NEW: To subvert a man in his cause, the Lord looketh not.
-
-## approving → standing — II Corinthians 6:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,
-- NEW: But in all things standing ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,
 
 ## aprons → girdles — Genesis 3:7
 - source: YLT alignment (word in KJV same testament)
@@ -964,11 +719,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: I would order my cause before him, and fill my mouth with arguments.
 - NEW: I would order my cause before him, and fill my mouth with rebukes.
-
-## arising → rising — Esther 7:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
-- NEW: And the king rising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
 
 ## armholes → thine — Jeremiah 38:12
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -1015,26 +765,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And Jonathan gave his artillery unto his lad, and said unto him, Go, carry them to the city.
 - NEW: And Jonathan gave his weapons unto his lad, and said unto him, Go, carry them to the city.
 
-## arts → curious — Acts 19:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver.
-- NEW: Many of them also which used curious curious brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver.
-
-## ascendeth → cometh — Revelation of John 11:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.
-- NEW: And when they shall have finished their testimony, the beast that cometh out of the bottomless pit shall make war against them, and shall overcome them, and kill them.
-
-## ascendeth → cometh — Revelation of John 14:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.
-- NEW: And the smoke of their torment cometh up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.
-
-## ascribed → delivered — I Samuel 18:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
-- NEW: And Saul was very wroth, and the saying displeased him; and he said, They have delivered unto David ten thousands, and to me they have delivered but thousands: and what can he have more but the kingdom?
-
 ## ash → ??? — Isaiah 44:14
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish it.
@@ -1069,16 +799,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned.
 - NEW: By faith they passed through the Red sea as by dry land: which the Egyptians adventuring to do were drowned.
-
-## assembling → gathering — Exodus 38:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he made the laver of brass, and the foot of it of brass, of the lookingglasses of the women assembling, which assembled at the door of the tabernacle of the congregation.
-- NEW: And he made the laver of brass, and the foot of it of brass, of the lookingglasses of the women gathering, which assembled at the door of the tabernacle of the congregation.
-
-## assembling → gathering — Hebrews 10:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
-- NEW: Not forsaking the gathering of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
 
 ## assent → consent — II Chronicles 18:12
 - source: Webster alignment (word in KJV same testament)
@@ -1120,16 +840,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king’s matter: therefore there is no king, lord, nor ruler, that asked such things at any magician, or astrologer, or Chaldean.
 - NEW: The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king’s matter: therefore there is no king, lord, nor ruler, that asked such things at any magician, or astrologers, or Chaldean.
 
-## atonements → atonement — Exodus 30:10
-- source: King James agent selection
-- OLD: And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year shall he make atonement upon it throughout your generations: it is most holy unto the Lord.
-- NEW: And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonement: once in the year shall he make atonement upon it throughout your generations: it is most holy unto the Lord.
-
-## attending → continuing — Romans 13:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For for this cause pay ye tribute also: for they are God’s ministers, attending continually upon this very thing.
-- NEW: For for this cause pay ye tribute also: for they are God’s ministers, continuing continually upon this very thing.
-
 ## attent → attentive — II Chronicles 6:40
 - source: UKJV alignment (word in KJV same testament)
 - OLD: Now, my God, let, I beseech thee, thine eyes be open, and let thine ears be attent unto the prayer that is made in this place.
@@ -1144,11 +854,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Hear attentively the noise of his voice, and the sound that goeth out of his mouth.
 - NEW: Hear diligently the noise of his voice, and the sound that goeth out of his mouth.
-
-## attired → turned — Leviticus 16:4
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these are holy garments; therefore shall he wash his flesh in water, and so put them on.
-- NEW: He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be turned: these are holy garments; therefore shall he wash his flesh in water, and so put them on.
 
 ## augment → add — Numbers 32:14
 - source: YLT alignment (word in KJV same testament)
@@ -1170,40 +875,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
 - NEW: And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an hard man, taking up that I laid not down, and reaping that I did not sow:
 
-## authorities → principalities — I Peter 3:22
-- source: King James agent selection
-- OLD: Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him. 
-- NEW: Who is gone into heaven, and is on the right hand of God; angels and principalities and powers being made subject unto him. 
-
-## avengeth → giveth — II Samuel 22:48
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: It is God that avengeth me, and that bringeth down the people under me,
-- NEW: It is God that giveth me, and that bringeth down the people under me,
-
-## avengeth → giveth — Psalms 18:47
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: It is God that avengeth me, and subdueth the people under me.
-- NEW: It is God that giveth me, and subdueth the people under me.
-
 ## averse → return — Micah 2:8
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men averse from war.
 - NEW: Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men return from war.
-
-## avoided → turned — I Samuel 18:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.
-- NEW: And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David turned out of his presence twice.
-
-## avoiding → turning — II Corinthians 8:20
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Avoiding this, that no man should blame us in this abundance which is administered by us:
-- NEW: Turning this, that no man should blame us in this abundance which is administered by us:
-
-## avoiding → turning — I Timothy 6:20
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called:
-- NEW: O Timothy, keep that which is committed to thy trust, turning profane and vain babblings, and oppositions of science falsely so called:
 
 ## avouched → answered — Deuteronomy 26:17
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -1219,21 +894,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But their laying await was known of Saul. And they watched the gates day and night to kill him.
 - NEW: But their laying wait was known of Saul. And they watched the gates day and night to kill him.
-
-## awakest → liftest — Psalms 73:20
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image.
-- NEW: As a dream when one awaketh; so, O Lord, when thou liftest, thou shalt despise their image.
-
-## awakest → liftest — Proverbs 6:22
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.
-- NEW: When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou liftest, it shall talk with thee.
-
-## awaking → sleeping — Acts 16:27
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled.
-- NEW: And the keeper of the prison sleeping out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled.
 
 ## axletrees → yourselves — I Kings 7:32
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -1295,11 +955,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.
 - NEW: The back in heart shall be filled with his own ways: and a good man shall be satisfied from himself.
 
-## badest → speakest — Genesis 27:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Jacob said unto his father, I am Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.
-- NEW: And Jacob said unto his father, I am Esau thy firstborn; I have done according as thou speakest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.
-
 ## badness → wickedness — Genesis 41:19
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:
@@ -1310,11 +965,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.
 - NEW: And in the uppermost basket there was of all manner of works for Pharaoh; and the birds did eat them out of the basket upon my head.
 
-## baketh → bakereth — Isaiah 44:15
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth it, and baketh bread; yea, he maketh a god, and worshippeth it; he maketh it a graven image, and falleth down thereto.
-- NEW: Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth it, and bakereth bread; yea, he maketh a god, and worshippeth it; he maketh it a graven image, and falleth down thereto.
-
 ## balancings → balance — Job 37:16
 - source: King James agent selection
 - OLD: Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?
@@ -1324,11 +974,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: He will surely violently turn and toss thee like a ball into a large country: there shalt thou die, and there the chariots of thy glory shall be the shame of thy lord’s house.
 - NEW: He will surely violently turn and toss thee like a thee into a large country: there shalt thou die, and there the chariots of thy glory shall be the shame of thy lord’s house.
-
-## banded → committed — Acts 23:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.
-- NEW: And when it was day, certain of the Jews committed together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.
 
 ## banished → expelled — II Samuel 14:13
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -1350,45 +995,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.
 - NEW: Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of cause.
 
-## banqueting → reasoning — Song of Solomon 2:4
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: He brought me to the banqueting house, and his banner over me was love.
-- NEW: He brought me to the reasoning house, and his banner over me was love.
-
 ## banquetings → feastings — I Peter 4:3
 - source: King James agent selection
 - OLD: For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
 - NEW: For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, feastings, and abominable idolatries:
-
-## baptisms → washings — Hebrews 6:2
-- source: King James agent selection
-- OLD: Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
-- NEW: Of the doctrine of washings, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
-
-## baptizest → baptizedest — John 1:25
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?
-- NEW: And they asked him, and said unto him, Why baptizedest thou then, if thou be not that Christ, nor Elias, neither that prophet?
-
-## baptizeth → baptizedeth — John 1:33
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.
-- NEW: And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizedeth with the Holy Ghost.
-
-## baptizeth → baptizedeth — John 3:26
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.
-- NEW: And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizedeth, and all men come to him.
-
-## barbarians → foreigners — Acts 28:4
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.
-- NEW: And when the foreigners saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.
-
-## barbarians → barbarian — Romans 1:14
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.
-- NEW: I am debtor both to the Greeks, and to the Barbarian; both to the wise, and to the unwise.
 
 ## barbarous → barbarians — Acts 28:2
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -1420,11 +1030,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he said, If the Lord do not help thee, whence shall I help thee? out of the barnfloor, or out of the winepress?
 - NEW: And he said, If the Lord do not help thee, whence shall I help thee? out of the threshingfloor, or out of the winepress?
 
-## barrels → pitchers — I Kings 18:33
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he put the wood in order, and cut the bullock in pieces, and laid him on the wood, and said, Fill four barrels with water, and pour it on the burnt sacrifice, and on the wood.
-- NEW: And he put the wood in order, and cut the bullock in pieces, and laid him on the wood, and said, Fill four pitchers with water, and pour it on the burnt sacrifice, and on the wood.
-
 ## barrenness → lands — Psalms 107:34
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: A fruitful land into barrenness, for the wickedness of them that dwell therein.
@@ -1434,16 +1039,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people.
 - NEW: But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the sort sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people.
-
-## basest → base — Ezekiel 29:15
-- source: UKJV alignment (word in KJV same testament)
-- OLD: It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations.
-- NEW: It shall be the base of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations.
-
-## basest → base — Daniel 4:17
-- source: UKJV alignment (word in KJV same testament)
-- OLD: This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.
-- NEW: This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the base of men.
 
 ## bastard → ??? — Deuteronomy 23:2
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -1469,11 +1064,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And the stork, and the heron after her kind, and the lapwing, and the bat.
 - NEW: And the stork, and the heron after her kind, and the lapwing, and the bat.
-
-## bathed → satisfied — Isaiah 34:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.
-- NEW: For my sword shall be satisfied in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.
 
 ## bats → ??? — Isaiah 2:20
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -1530,51 +1120,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.
 - NEW: Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.
 
-## bears → bear — II Kings 2:24
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And he turned back, and looked on them, and cursed them in the name of the Lord. And there came forth two she bears out of the wood, and tare forty and two children of them.
-- NEW: And he turned back, and looked on them, and cursed them in the name of the Lord. And there came forth two she bear out of the wood, and tare forty and two children of them.
-
-## bears → bear — Isaiah 59:11
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us.
-- NEW: We roar all like bear, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us.
-
-## beast's → beasts — Daniel 4:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Let his heart be changed from man’s, and let a beast’s heart be given unto him; and let seven times pass over him.
-- NEW: Let his heart be changed from man’s, and let a beast’s heart be given unto him; and let seven times pass over him.
-
-## beatest → shouldest — Deuteronomy 24:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: When thou beatest thine olive tree, thou shalt not go over the boughs again: it shall be for the stranger, for the fatherless, and for the widow.
-- NEW: When thou shouldest thine olive tree, thou shalt not go over the boughs again: it shall be for the stranger, for the fatherless, and for the widow.
-
-## beatest → shouldest — Proverbs 23:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.
-- NEW: Withhold not correction from the child: for if thou shouldest him with the rod, he shall not die.
-
-## beateth → smiteth — I Corinthians 9:26
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:
-- NEW: I therefore so run, not as uncertainly; so fight I, not as one that smiteth the air:
-
-## beauties → beauty — Psalms 110:3
-- source: King James agent selection
-- OLD: Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
-- NEW: Thy people shall be willing in the day of thy power, in the beauty of holiness from the womb of the morning: thou hast the dew of thy youth.
-
-## becamest → became — I Chronicles 17:22
-- source: UKJV alignment (word in KJV same testament)
-- OLD: For thy people Israel didst thou make thine own people for ever; and thou, Lord, becamest their God.
-- NEW: For thy people Israel didst thou make thine own people for ever; and thou, Lord, became their God.
-
-## becamest → mayest — Ezekiel 16:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord God, and thou becamest mine.
-- NEW: Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord God, and thou mayest mine.
-
 ## beckoning → beckoneding — Acts 12:17
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place.
@@ -1584,11 +1129,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience.
 - NEW: Then Paul stood up, and beckoneding with his hand said, Men of Israel, and ye that fear God, give audience.
-
-## bed's → beds — Genesis 47:31
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head. 
-- NEW: And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head. 
 
 ## bedstead → bed — Deuteronomy 3:11
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -1605,25 +1145,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.
 - NEW: Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.
 
-## begettest → bearest — Genesis 48:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And thy issue, which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance.
-- NEW: And thy issue, which thou bearest after them, shall be thine, and shall be called after the name of their brethren in their inheritance.
-
-## begettest → bearest — Isaiah 45:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Woe unto him that saith unto his father, What begettest thou? or to the woman, What hast thou brought forth?
-- NEW: Woe unto him that saith unto his father, What bearest thou? or to the woman, What hast thou brought forth?
-
 ## beggarly → poor — Galatians 4:9
 - source: YLT alignment (word in KJV same testament)
 - OLD: But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?
 - NEW: But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and poor elements, whereunto ye desire again to be in bondage?
-
-## beginnest → eatest — Deuteronomy 16:9
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Seven weeks shalt thou number unto thee: begin to number the seven weeks from such time as thou beginnest to put the sickle to the corn.
-- NEW: Seven weeks shalt thou number unto thee: begin to number the seven weeks from such time as thou eatest to put the sickle to the corn.
 
 ## beguile → deceive — Colossians 2:4
 - source: Webster alignment (word in KJV same testament)
@@ -1639,11 +1164,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:
 - NEW: Having eyes full of adultery, and that cannot cease from sin; deceiving unstable souls: an heart they have exercised with covetous practices; cursed children:
-
-## behaveth → behaves — I Corinthians 7:36
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: But if any man think that he behaveth himself uncomely toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sinneth not: let them marry.
-- NEW: But if any man think that he behaves himself uncomely toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sinneth not: let them marry.
 
 ## behemoth → ??? — Job 40:15
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -1690,11 +1210,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
 - NEW: Let no man despise thy youth; but be thou an example of the ones, in word, in conversation, in charity, in spirit, in faith, in purity.
 
-## bellies → childes — Titus 1:12
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies.
-- NEW: One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow childes.
-
 ## bellow → cry — Jeremiah 50:11
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and bellow as bulls;
@@ -1705,50 +1220,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The bellows are burned, the lead is consumed of the fire; the founder melteth in vain: for the wicked are not plucked away.
 - NEW: The bellows are burned, the lead is consumed of the fire; the founder melteth in vain: for the wicked are not plucked away.
 
-## belongest → ??? — I Samuel 30:13
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And David said unto him, To whom belongest thou? and whence art thou? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
-- NEW: And David said unto him, To whom belongest thou? and whence art thou? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
-
-## beloved's → beloveds — Song of Solomon 6:3
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: I am my beloved’s, and my beloved is mine: he feedeth among the lilies.
-- NEW: I am my beloved’s, and my beloved is mine: he feedeth among the lilies.
-
-## beloved's → beloveds — Song of Solomon 7:10
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: I am my beloved’s, and his desire is toward me.
-- NEW: I am my beloved’s, and his desire is toward me.
-
-## bemoaned → removed — Job 42:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the Lord had brought upon him: every man also gave him a piece of money, and every one an earring of gold.
-- NEW: Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they removed him, and comforted him over all the evil that the Lord had brought upon him: every man also gave him a piece of money, and every one an earring of gold.
-
-## bemoaning → wandering — Jeremiah 31:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I have surely heard Ephraim bemoaning himself thus; Thou hast chastised me, and I was chastised, as a bullock unaccustomed to the yoke: turn thou me, and I shall be turned; for thou art the Lord my God.
-- NEW: I have surely heard Ephraim wandering himself thus; Thou hast chastised me, and I was chastised, as a bullock unaccustomed to the yoke: turn thou me, and I shall be turned; for thou art the Lord my God.
-
 ## benches → seats — Ezekiel 27:6
 - source: King James agent selection
 - OLD: Of the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches of ivory, brought out of the isles of Chittim.
 - NEW: Of the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy seats of ivory, brought out of the isles of Chittim.
-
-## bendeth → treadeth — Psalms 58:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Let them melt away as waters which run continually: when he bendeth his bow to shoot his arrows, let them be as cut in pieces.
-- NEW: Let them melt away as waters which run continually: when he treadeth his bow to shoot his arrows, let them be as cut in pieces.
-
-## bendeth → treadeth — Jeremiah 51:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Against him that bendeth let the archer bend his bow, and against him that lifteth himself up in his brigandine: and spare ye not her young men; destroy ye utterly all her host.
-- NEW: Against him that treadeth let the archer bend his bow, and against him that lifteth himself up in his brigandine: and spare ye not her young men; destroy ye utterly all her host.
-
-## bending → bringing — Isaiah 60:14
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the Lord, The Zion of the Holy One of Israel.
-- NEW: The sons also of them that afflicted thee shall come bringing unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the Lord, The Zion of the Holy One of Israel.
 
 ## benefactors → welldoers — Luke 22:25
 - source: King James agent selection
@@ -1759,11 +1234,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
 - NEW: Let the husband render unto the wife due good: and likewise also the wife unto the husband.
-
-## bereaveth → casteth — Lamentations 1:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Behold, O Lord; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death.
-- NEW: Behold, O Lord; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword casteth, at home there is as death.
 
 ## berries → olives — Isaiah 17:6
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -1805,35 +1275,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:
 - NEW: Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the traitors and murderers:
 
-## betrayest → gavest — Luke 22:48
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?
-- NEW: But Jesus said unto him, Judas, gavest thou the Son of man with a kiss?
-
-## bettered → profited — Mark 5:26
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,
-- NEW: And had suffered many things of many physicians, and had spent all that she had, and was nothing profited, but rather grew worse,
-
-## bewaileth → mourneth — Jeremiah 4:31
-- source: King James agent selection
-- OLD: For I have heard a voice as of a woman in travail, and the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, that bewaileth herself, that spreadeth her hands, saying, Woe is me now! for my soul is wearied because of murderers. 
-- NEW: For I have heard a voice as of a woman in travail, and the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, that mourneth herself, that spreadeth her hands, saying, Woe is me now! for my soul is wearied because of murderers. 
-
 ## bewray → discover — Isaiah 16:3
 - source: Webster alignment (word in KJV same testament)
 - OLD: Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth.
 - NEW: Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; discover not him that wandereth.
-
-## biddeth → calleth — II John 1:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For he that biddeth him God speed is partaker of his evil deeds.
-- NEW: For he that calleth him God speed is partaker of his evil deeds.
-
-## bidding → council — I Samuel 22:14
-- source: YLT alignment (word in KJV same testament)
-- OLD: Then Ahimelech answered the king, and said, And who is so faithful among all thy servants as David, which is the king’s son in law, and goeth at thy bidding, and is honourable in thine house?
-- NEW: Then Ahimelech answered the king, and said, And who is so faithful among all thy servants as David, which is the king’s son in law, and goeth at thy council, and is honourable in thine house?
 
 ## bier → bed — II Samuel 3:31
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -1855,35 +1300,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.
 - NEW: For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy heaps and thy waves passed over me.
 
-## bird's → birds — Deuteronomy 22:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: If a bird’s nest chance to be before thee in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:
-- NEW: If a bird’s nest chance to be before thee in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:
-
 ## bishoprick → oversight — Acts 1:20
 - source: YLT alignment (word in KJV same testament)
 - OLD: For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.
 - NEW: For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his oversight let another take.
-
-## bishops → overseers — Philippians 1:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
-- NEW: Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the overseers and deacons:
-
-## biteth → lendeth — Genesis 49:17
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.
-- NEW: Dan shall be a serpent by the way, an adder in the path, that lendeth the horse heels, so that his rider shall fall backward.
-
-## biteth → lendeth — Proverbs 23:32
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: At the last it biteth like a serpent, and stingeth like an adder.
-- NEW: At the last it lendeth like a serpent, and stingeth like an adder.
-
-## bits → ??? — James 3:3
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Behold, we put bits in the horses’ mouths, that they may obey us; and we turn about their whole body.
-- NEW: Behold, we put bits in the horses’ mouths, that they may obey us; and we turn about their whole body.
 
 ## bitten → bite — Numbers 21:8
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -1915,16 +1335,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast.
 - NEW: And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast.
 
-## blamed → condemned — II Corinthians 6:3
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Giving no offence in any thing, that the ministry be not blamed:
-- NEW: Giving no offence in any thing, that the ministry be not condemned:
-
-## blamed → condemned — Galatians 2:11
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.
-- NEW: But when Peter was come to Antioch, I withstood him to the face, because he was to be condemned.
-
 ## blasphemer → railing — I Timothy 1:13
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief.
@@ -1939,16 +1349,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 - NEW: For men shall be lovers of their own selves, covetous, boasters, proud, evils, disobedient to parents, unthankful, unholy,
-
-## blasphemest → speakest — John 10:36
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?
-- NEW: Say ye of him, whom the Father hath sanctified, and sent into the world, Thou speakest; because I said, I am the Son of God?
-
-## blaspheming → speaking — Acts 13:45
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
-- NEW: But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and speaking.
 
 ## blasphemous → railing — Acts 6:11
 - source: King James agent selection
@@ -1980,21 +1380,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben there were great searchings of heart.
 - NEW: Why abodest thou among the sheepfolds, to hear the hiss of the flocks? For the divisions of Reuben there were great searchings of heart.
 
-## blemishes → themselves — Leviticus 22:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption is in them, and blemishes be in them: they shall not be accepted for you.
-- NEW: Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption is in them, and themselves be in them: they shall not be accepted for you.
-
-## blemishes → themselves — II Peter 2:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots they are and blemishes, sporting themselves with their own deceivings while they feast with you;
-- NEW: And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots they are and themselves, sporting themselves with their own deceivings while they feast with you;
-
-## blindeth → deceiveth — Exodus 23:8
-- source: King James agent selection
-- OLD: And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous.
-- NEW: And thou shalt take no gift: for the gift deceiveth the wise, and perverteth the words of the righteous.
-
 ## blindfolded → covered — Luke 22:64
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?
@@ -2015,26 +1400,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
 - NEW: And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and shewed blossoms, and yielded almonds.
 
-## blossomed → shewed — Ezekiel 7:10
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Behold the day, behold, it is come: the morning is gone forth; the rod hath blossomed, pride hath budded.
-- NEW: Behold the day, behold, it is come: the morning is gone forth; the rod hath shewed, pride hath budded.
-
-## blossoms → flowers — Genesis 40:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And in the vine were three branches: and it was as though it budded, and her blossoms shot forth; and the clusters thereof brought forth ripe grapes:
-- NEW: And in the vine were three branches: and it was as though it budded, and her flowers shot forth; and the clusters thereof brought forth ripe grapes:
-
-## blossoms → flowers — Numbers 17:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
-- NEW: And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed flowers, and yielded almonds.
-
-## blotteth → destroyeth — Isaiah 43:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I, even I, am he that blotteth out thy transgressions for mine own sake, and will not remember thy sins.
-- NEW: I, even I, am he that destroyeth out thy transgressions for mine own sake, and will not remember thy sins.
-
 ## blueness → wounds — Proverbs 20:30
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The blueness of a wound cleanseth away evil: so do stripes the inward parts of the belly. 
@@ -2050,16 +1415,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The boar out of the wood doth waste it, and the wild beast of the field doth devour it.
 - NEW: The swine out of the wood doth waste it, and the wild beast of the field doth devour it.
 
-## boasted → magnified — Ezekiel 35:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thus with your mouth ye have boasted against me, and have multiplied your words against me: I have heard them.
-- NEW: Thus with your mouth ye have magnified against me, and have multiplied your words against me: I have heard them.
-
-## boasted → magnified — II Corinthians 7:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.
-- NEW: For if I have magnified any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.
-
 ## boasters → ??? — Romans 1:30
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,
@@ -2069,41 +1424,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 - NEW: For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
-
-## boastest → madest — Psalms 52:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.
-- NEW: Why madest thou thyself in mischief, O mighty man? the goodness of God endureth continually.
-
-## boastings → pride — James 4:16
-- source: YLT alignment (word in KJV same testament)
-- OLD: But now ye rejoice in your boastings: all such rejoicing is evil.
-- NEW: But now ye rejoice in your pride: all such rejoicing is evil.
-
-## boats → ships — John 6:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: (Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)
-- NEW: (Howbeit there came other ships from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)
-
-## body's → bodies — Colossians 1:24
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:
-- NEW: Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:
-
-## boiling → seething — Ezekiel 46:23
-- source: King James agent selection
-- OLD: And there was a row of building round about in them, round about them four, and it was made with boiling places under the rows round about.
-- NEW: And there was a row of building round about in them, round about them four, and it was made with seething places under the rows round about.
-
-## boils → boil — Exodus 9:11
-- source: Webster alignment (word in KJV same testament)
-- OLD: And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.
-- NEW: And the magicians could not stand before Moses because of the boil; for the boil was upon the magicians, and upon all the Egyptians.
-
-## boils → botches — Job 2:7
-- source: King James agent selection
-- OLD: So went Satan forth from the presence of the Lord, and smote Job with sore boils from the sole of his foot unto his crown.
-- NEW: So went Satan forth from the presence of the Lord, and smote Job with sore botches from the sole of his foot unto his crown.
 
 ## boisterous → vehement — Matthew 14:30
 - source: YLT alignment (word in KJV same testament)
@@ -2160,11 +1480,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.
 - NEW: So Jonah went out of the city, and sat on the east side of the city, and there made him a tabernacle, and sat under it in the shadow, till he might see what would become of the city.
 
-## booties → spoil — Habakkuk 2:7
-- source: King James agent selection
-- OLD: Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?
-- NEW: Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for spoil unto them?
-
 ## bore → curse — Exodus 21:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever.
@@ -2190,11 +1505,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him.
 - NEW: And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the lend; as with the taker of usury, so with the giver of usury to him.
 
-## borroweth → lendeth — Psalms 37:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.
-- NEW: The wicked lendeth, and payeth not again: but the righteous sheweth mercy, and giveth.
-
 ## bosses → bodies — Job 15:26
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: He runneth upon him, even on his neck, upon the thick bosses of his bucklers:
@@ -2209,11 +1519,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The Lord shall smite thee in the knees, and in the legs, with a sore botch that cannot be healed, from the sole of thy foot unto the top of thy head.
 - NEW: The Lord shall smite thee in the knees, and in the legs, with a sore boil that cannot be healed, from the sole of thy foot unto the top of thy head.
-
-## bottoms → cuttings — Jonah 2:6
-- source: YLT alignment (word in KJV same testament)
-- OLD: I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O Lord my God.
-- NEW: I went down to the cuttings of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O Lord my God.
 
 ## bountiful → good — Proverbs 22:9
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -2259,11 +1564,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: So I stood upon him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that was upon his head, and the bracelet that was on his arm, and have brought them hither unto my lord.
 - NEW: So I stood upon him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that was upon his head, and the chains that was on his arm, and have brought them hither unto my lord.
-
-## brambles → thistles — Isaiah 34:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, and a court for owls.
-- NEW: And thorns shall come up in her palaces, nettles and thistles in the fortresses thereof: and it shall be an habitation of dragons, and a court for owls.
 
 ## brand → firebrands — Zechariah 3:2
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -2330,31 +1630,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For circumcision verily profiteth, if thou keep the law: but if thou be a breaker of the law, thy circumcision is made uncircumcision.
 - NEW: For circumcision verily profiteth, if thou keep the law: but if thou be a broken of the law, thy circumcision is made uncircumcision.
 
-## breakest → brakest — Psalms 48:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou breakest the ships of Tarshish with an east wind.
-- NEW: Thou brakest the ships of Tarshish with an east wind.
-
-## breakings → breaches — Job 41:25
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.
-- NEW: When he raiseth up himself, the mighty are afraid: by reason of breaches they purify themselves.
-
-## breatheth → liveth — Deuteronomy 20:16
-- source: King James agent selection
-- OLD: But of the cities of these people, which the Lord thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:
-- NEW: But of the cities of these people, which the Lord thy God doth give thee for an inheritance, thou shalt save alive nothing that liveth:
-
-## breathing → sighing — Lamentations 3:56
-- source: King James agent selection
-- OLD: Thou hast heard my voice: hide not thine ear at my breathing, at my cry.
-- NEW: Thou hast heard my voice: hide not thine ear at my sighing, at my cry.
-
-## breathing → uttering — Acts 9:1
-- source: King James agent selection
-- OLD: And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,
-- NEW: And Saul, yet uttering out threatenings and slaughter against the disciples of the Lord, went unto the high priest,
-
 ## bred → high — Exodus 16:20
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them.
@@ -2375,11 +1650,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Therefore as I live, saith the Lord of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.
 - NEW: Therefore as I live, saith the Lord of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the growth of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.
 
-## brethren's → nevertheless — Deuteronomy 20:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart.
-- NEW: And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart.
-
 ## bribe → ransom — I Samuel 12:3
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Behold, here I am: witness against me before the Lord, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you.
@@ -2389,21 +1659,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate from their right.
 - NEW: For I know your manifold transgressions and your mighty sins: they afflict the just, they take a ransom, and they turn aside the poor in the gate from their right.
-
-## bridegroom's → bridegrooms — John 3:29
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice: this my joy therefore is fulfilled.
-- NEW: He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice: this my joy therefore is fulfilled.
-
-## bridles → bits — Revelation of John 14:20
-- source: King James agent selection
-- OLD: And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs. 
-- NEW: And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bits, by the space of a thousand and six hundred furlongs. 
-
-## bridleth → refraineth — James 1:26
-- source: King James agent selection
-- OLD: If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain.
-- NEW: If any man among you seem to be religious, and refraineth not his tongue, but deceiveth his own heart, this man’s religion is vain.
 
 ## briefly → throughly — Romans 13:9
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -2480,11 +1735,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Honour all men. Love the brotherhood. Fear God. Honour the king.
 - NEW: Honour all men. Love the brethren. Fear God. Honour the king.
 
-## brothers → brethren — Numbers 36:11
-- source: King James agent selection
-- OLD: For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons:
-- NEW: For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brethren’ sons:
-
 ## brow → forehead — Isaiah 48:4
 - source: YLT alignment (word in KJV same testament)
 - OLD: Because I knew that thou art obstinate, and thy neck is an iron sinew, and thy brow brass;
@@ -2494,21 +1744,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And rose up, and thrust him out of the city, and led him unto the brow of the hill whereon their city was built, that they might cast him down headlong.
 - NEW: And rose up, and thrust him out of the city, and led him unto the forehead of the hill whereon their city was built, that they might cast him down headlong.
-
-## bruises → bruise — Isaiah 1:6
-- source: YLT alignment (word in KJV same testament)
-- OLD: From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.
-- NEW: From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruise, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.
-
-## bruising → yielding — Ezekiel 23:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thus thou calledst to remembrance the lewdness of thy youth, in bruising thy teats by the Egyptians for the paps of thy youth.
-- NEW: Thus thou calledst to remembrance the lewdness of thy youth, in yielding thy teats by the Egyptians for the paps of thy youth.
-
-## bruising → shewing — Luke 9:39
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him.
-- NEW: And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and shewing him hardly departeth from him.
 
 ## bruit → noise — Jeremiah 10:22
 - source: Webster alignment (word in KJV same testament)
@@ -2539,11 +1774,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.
 - NEW: He shall pour the water out of his vessels, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.
-
-## buds → flowers — Numbers 17:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
-- NEW: And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth flowers, and bloomed blossoms, and yielded almonds.
 
 ## buffet → buffeted — Mark 14:65
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -2595,26 +1825,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning.
 - NEW: And ye shall take a troop of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning.
 
-## bundles → bags — Genesis 42:35
-- source: King James agent selection
-- OLD: And it came to pass as they emptied their sacks, that, behold, every man’s bundle of money was in his sack: and when both they and their father saw the bundles of money, they were afraid.
-- NEW: And it came to pass as they emptied their sacks, that, behold, every man’s bundle of money was in his sack: and when both they and their father saw the bags of money, they were afraid.
-
-## bundles → sheaves — Matthew 13:30
-- source: King James agent selection
-- OLD: Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.
-- NEW: Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in sheaves to burn them: but gather the wheat into my barn.
-
-## burdened → pressed — II Corinthians 5:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
-- NEW: For we that are in this tabernacle do groan, being pressed: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
-
-## burdened → pressed — II Corinthians 8:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For I mean not that other men be eased, and ye burdened:
-- NEW: For I mean not that other men be eased, and ye pressed:
-
 ## buriers → burieds — Ezekiel 39:15
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And the passengers that pass through the land, when any seeth a man’s bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamon–gog.
@@ -2624,11 +1834,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: YLT alignment (word in KJV same testament)
 - OLD: And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
 - NEW: And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of bright brass.
-
-## bursting → breaking — Isaiah 30:14
-- source: King James agent selection
-- OLD: And he shall break it as the breaking of the potters’ vessel that is broken in pieces; he shall not spare: so that there shall not be found in the bursting of it a sherd to take fire from the hearth, or to take water withal out of the pit.
-- NEW: And he shall break it as the breaking of the potters’ vessel that is broken in pieces; he shall not spare: so that there shall not be found in the breaking of it a sherd to take fire from the hearth, or to take water withal out of the pit.
 
 ## bushy → curled — Song of Solomon 5:11
 - source: King James agent selection
@@ -2660,25 +1865,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters.
 - NEW: But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a other in other men’s matters.
 
-## butlers → waters — Genesis 40:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers.
-- NEW: And Pharaoh was wroth against two of his officers, against the chief of the waters, and against the chief of the bakers.
-
 ## butlership → butler — Genesis 40:21
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand:
 - NEW: And he restored the chief butler unto his butler again; and he gave the cup into Pharaoh’s hand:
-
-## buyest → buy — Leviticus 25:14
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And if thou sell ought unto thy neighbour, or buyest ought of thy neighbour’s hand, ye shall not oppress one another:
-- NEW: And if thou sell ought unto thy neighbour, or buy ought of thy neighbour’s hand, ye shall not oppress one another:
-
-## buyest → keepest — Ruth 4:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy it also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.
-- NEW: Then said Boaz, What day thou keepest the field of the hand of Naomi, thou must buy it also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.
 
 ## byways → paths — Judges 5:6
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -2704,11 +1894,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: YLT alignment (word in KJV same testament)
 - OLD: And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird.
 - NEW: And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a hold of every unclean and hateful bird.
-
-## calf's → bullocks — Ezekiel 1:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
-- NEW: And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
 
 ## calkers → breach — Ezekiel 27:9
 - source: YLT alignment (word in KJV same testament)
@@ -2740,11 +1925,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.
 - NEW: Their bull gendereth, and faileth not; their cow calves, and casteth not her calf.
 
-## camped → encamped — Exodus 19:2
-- source: Webster alignment (word in KJV same testament)
-- OLD: For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount.
-- NEW: For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel encamped before the mount.
-
 ## camphire → ransom — Song of Solomon 1:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: My beloved is unto me as a cluster of camphire in the vineyards of En–gedi.
@@ -2754,11 +1934,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thy plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,
 - NEW: Thy plants are an orchard of pomegranates, with pleasant fruits; ransom, with spikenard,
-
-## candles → lights — Zephaniah 1:12
-- source: YLT alignment (word in KJV same testament)
-- OLD: And it shall come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The Lord will not do good, neither will he do evil.
-- NEW: And it shall come to pass at that time, that I will search Jerusalem with lights, and punish the men that are settled on their lees: that say in their heart, The Lord will not do good, neither will he do evil.
 
 ## cane → reed — Isaiah 43:24
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -2779,21 +1954,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.
 - NEW: Your gold and silver is corrupted; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.
-
-## carbuncles → stones — Isaiah 54:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.
-- NEW: And I will make thy windows of agates, and thy gates of stones, and all thy borders of pleasant stones.
-
-## caring → thinking — I Samuel 9:5
-- source: King James agent selection
-- OLD: And when they were come to the land of Zuph, Saul said to his servant that was with him, Come, and let us return; lest my father leave caring for the asses, and take thought for us.
-- NEW: And when they were come to the land of Zuph, Saul said to his servant that was with him, Come, and let us return; lest my father leave thinking for the asses, and take thought for us.
-
-## carpenter's → carpenters — Matthew 13:55
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: Is not this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
-- NEW: Is not this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
 
 ## carriest → sweepest — Psalms 90:5
 - source: King James agent selection
@@ -2820,11 +1980,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For at the window of my house I looked through my casement,
 - NEW: For at the window of my house I looked through my lattice,
 
-## cases → matters — I Corinthians 7:15
-- source: King James agent selection
-- OLD: But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such cases: but God hath called us to peace.
-- NEW: But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such matters: but God hath called us to peace.
-
 ## castaway → reprobate — I Corinthians 9:27
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway. 
@@ -2834,11 +1989,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Surely thou didst set them in slippery places: thou castedst them down into destruction.
 - NEW: Surely thou didst set them in slippery places: thou fall them down into destruction.
-
-## cauls → ??? — Isaiah 3:18
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,
-- NEW: In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,
 
 ## causeless → wages — I Samuel 25:31
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -2850,16 +2000,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: As the bird by wandering, as the swallow by flying, so the curse causeless shall not come.
 - NEW: As the bird by wandering, as the swallow by flying, so the curse wages shall not come.
 
-## causest → comest — Job 30:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou liftest me up to the wind; thou causest me to ride upon it, and dissolvest my substance.
-- NEW: Thou liftest me up to the wind; thou comest me to ride upon it, and dissolvest my substance.
-
-## causest → cause — Psalms 65:4
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.
-- NEW: Blessed is the man whom thou choosest, and cause to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.
-
 ## causeway → way — I Chronicles 26:16
 - source: Webster alignment (word in KJV same testament)
 - OLD: To Shuppim and Hosah the lot came forth westward, with the gate Shallecheth, by the causeway of the going up, ward against ward.
@@ -2869,11 +2009,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: At Parbar westward, four at the causeway, and two at Parbar.
 - NEW: At Parbar westward, four at the highway, and two at Parbar.
-
-## cave's → dens — Joshua 10:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it came to pass at the time of the going down of the sun, that Joshua commanded, and they took them down off the trees, and cast them into the cave wherein they had been hid, and laid great stones in the cave’s mouth, which remain until this very day.
-- NEW: And it came to pass at the time of the going down of the sun, that Joshua commanded, and they took them down off the trees, and cast them into the cave wherein they had been hid, and laid great stones in the cave’s mouth, which remain until this very day.
 
 ## celestial → high — I Corinthians 15:40
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -2890,25 +2025,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And over the olive trees and the sycomore trees that were in the low plains was Baal–hanan the Gederite: and over the cellars of oil was Joash:
 - NEW: And over the olive trees and the sycomore trees that were in the low plains was Baal–hanan the Gederite: and over the treasures of oil was Joash:
 
-## centurion's → centurions — Luke 7:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And a certain centurion’s servant, who was dear unto him, was sick, and ready to die.
-- NEW: And a certain centurion’s servant, who was dear unto him, was sick, and ready to die.
-
 ## ceremonies → ordinances — Numbers 9:3
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.
 - NEW: In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ordinances thereof, shall ye keep it.
-
-## certified → answered — Ezra 4:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now because we have maintenance from the king’s palace, and it was not meet for us to see the king’s dishonour, therefore have we sent and certified the king;
-- NEW: Now because we have maintenance from the king’s palace, and it was not meet for us to see the king’s dishonour, therefore have we sent and answered the king;
-
-## certified → answered — Esther 2:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the thing was known to Mordecai, who told it unto Esther the queen; and Esther certified the king thereof in Mordecai’s name.
-- NEW: And the thing was known to Mordecai, who told it unto Esther the queen; and Esther answered the king thereof in Mordecai’s name.
 
 ## chafed → vexed — II Samuel 17:8
 - source: King James agent selection
@@ -2930,11 +2050,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour.
 - NEW: For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another speaketh to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour.
 
-## chambering → lasciviousness — Romans 13:13
-- source: King James agent selection
-- OLD: Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.
-- NEW: Let us walk honestly, as in the day; not in rioting and drunkenness, not in lasciviousness and wantonness, not in strife and envying.
-
 ## chameleon → strength — Leviticus 11:30
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And the ferret, and the chameleon, and the lizard, and the snail, and the mole.
@@ -2950,11 +2065,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Are they not on the other side Jordan, by the way where the sun goeth down, in the land of the Canaanites, which dwell in the champaign over against Gilgal, beside the plains of Moreh?
 - NEW: Are they not on the other side Jordan, by the way where the sun goeth down, in the land of the Canaanites, which dwell in the plain over against Gilgal, beside the plains of Moreh?
 
-## chanceth → happeneth — Deuteronomy 23:10
-- source: King James agent selection
-- OLD: If there be among you any man, that is not clean by reason of uncleanness that chanceth him by night, then shall he go abroad out of the camp, he shall not come within the camp:
-- NEW: If there be among you any man, that is not clean by reason of uncleanness that happeneth him by night, then shall he go abroad out of the camp, he shall not come within the camp:
-
 ## changeable → apparel — Isaiah 3:22
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,
@@ -2969,26 +2079,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers’ money, and overthrew the tables;
 - NEW: And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the exchangers’ money, and overthrew the tables;
-
-## changest → spakest — Job 14:20
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.
-- NEW: Thou prevailest for ever against him, and he passeth: thou spakest his countenance, and sendest him away.
-
-## changeth → changes — Psalms 15:4
-- source: UKJV alignment (word in KJV same testament)
-- OLD: In whose eyes a vile person is contemned; but he honoureth them that fear the Lord. He that sweareth to his own hurt, and changeth not.
-- NEW: In whose eyes a vile person is contemned; but he honoureth them that fear the Lord. He that sweareth to his own hurt, and changes not.
-
-## changeth → changes — Daniel 2:21
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:
-- NEW: And he changes the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:
-
-## changing → exchanging — Ruth 4:7
-- source: King James agent selection
-- OLD: Now this was the manner in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave it to his neighbour: and this was a testimony in Israel.
-- NEW: Now this was the manner in former time in Israel concerning redeeming and concerning exchanging, for to confirm all things; a man plucked off his shoe, and gave it to his neighbour: and this was a testimony in Israel.
 
 ## channel → branch — Isaiah 27:12
 - source: YLT alignment (word in KJV same testament)
@@ -3020,21 +2110,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And Moses said unto the Lord, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it.
 - NEW: And Moses said unto the Lord, The people cannot come up to mount Sinai: for thou testify us, saying, Set bounds about the mount, and sanctify it.
 
-## chargest → numberest — II Samuel 3:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then was Abner very wroth for the words of Ish–bosheth, and said, Am I a dog’s head, which against Judah do shew kindness this day unto the house of Saul thy father, to his brethren, and to his friends, and have not delivered thee into the hand of David, that thou chargest me to day with a fault concerning this woman?
-- NEW: Then was Abner very wroth for the words of Ish–bosheth, and said, Am I a dog’s head, which against Judah do shew kindness this day unto the house of Saul thy father, to his brethren, and to his friends, and have not delivered thee into the hand of David, that thou numberest me to day with a fault concerning this woman?
-
-## charging → testifying — Acts 16:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when they had laid many stripes upon them, they cast them into prison, charging the jailor to keep them safely:
-- NEW: And when they had laid many stripes upon them, they cast them into prison, testifying the jailor to keep them safely:
-
-## charging → testifying — II Timothy 2:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.
-- NEW: Of these things put them in remembrance, testifying them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.
-
 ## charitably → dearly — Romans 14:15
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: But if thy brother be grieved with thy meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died.
@@ -3065,26 +2140,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Which will not hearken to the voice of charmers, charming never so wisely.
 - NEW: Which will not hearken to the voice of charmers, coupling never so wisely.
 
-## chaseth → fleeth — Proverbs 19:26
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that wasteth his father, and chaseth away his mother, is a son that causeth shame, and bringeth reproach.
-- NEW: He that wasteth his father, and fleeth away his mother, is a son that causeth shame, and bringeth reproach.
-
-## chasing → burning — I Samuel 17:53
-- source: YLT alignment (word in KJV same testament)
-- OLD: And the children of Israel returned from chasing after the Philistines, and they spoiled their tents.
-- NEW: And the children of Israel returned from burning after the Philistines, and they spoiled their tents.
-
-## chastenest → mightest — Psalms 94:12
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Blessed is the man whom thou chastenest, O Lord, and teachest him out of thy law;
-- NEW: Blessed is the man whom thou mightest, O Lord, and teachest him out of thy law;
-
-## chastiseth → chasteneth — Psalms 94:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that chastiseth the heathen, shall not he correct? he that teacheth man knowledge, shall not he know?
-- NEW: He that chasteneth the heathen, shall not he correct? he that teacheth man knowledge, shall not he know?
-
 ## chatter → peep — Isaiah 38:14
 - source: King James agent selection
 - OLD: Like a crane or a swallow, so did I chatter: I did mourn as a dove: mine eyes fail with looking upward: O Lord, I am oppressed; undertake for me.
@@ -3099,11 +2154,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And nets of checker work, and wreaths of chain work, for the chapiters which were upon the top of the pillars; seven for the one chapiter, and seven for the other chapiter.
 - NEW: And nets of network work, and wreaths of chain work, for the chapiters which were upon the top of the pillars; seven for the one chapiter, and seven for the other chapiter.
-
-## cheereth → maketh — Judges 9:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the vine said unto them, Should I leave my wine, which cheereth God and man, and go to be promoted over the trees?
-- NEW: And the vine said unto them, Should I leave my wine, which maketh God and man, and go to be promoted over the trees?
 
 ## cheerfully → goodly — Acts 24:10
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -3160,25 +2210,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The cedars in the garden of God could not hide him: the fir trees were not like his boughs, and the chesnut trees were not like his branches; nor any tree in the garden of God was like unto him in his beauty.
 - NEW: The cedars in the garden of God could not hide him: the fir trees were not like his boughs, and the tree trees were not like his branches; nor any tree in the garden of God was like unto him in his beauty.
 
-## chests → treasuries — Ezekiel 27:24
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: These were thy merchants in all sorts of things, in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise.
-- NEW: These were thy merchants in all sorts of things, in blue clothes, and broidered work, and in treasuries of rich apparel, bound with cords, and made of cedar, among thy merchandise.
-
-## chewed → destroyed — Numbers 11:33
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And while the flesh was yet between their teeth, ere it was chewed, the wrath of the Lord was kindled against the people, and the Lord smote the people with a very great plague.
-- NEW: And while the flesh was yet between their teeth, ere it was destroyed, the wrath of the Lord was kindled against the people, and the Lord smote the people with a very great plague.
-
 ## chickens → brood — Matthew 23:37
 - source: King James agent selection
 - OLD: O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
 - NEW: O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her brood under her wings, and ye would not!
-
-## chiding → strife — Exodus 17:7
-- source: YLT alignment (word in KJV same testament)
-- OLD: And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the Lord, saying, Is the Lord among us, or not?
-- NEW: And he called the name of the place Massah, and Meribah, because of the strife of the children of Israel, and because they tempted the Lord, saying, Is the Lord among us, or not?
 
 ## childbearing → childbirth — I Timothy 2:15
 - source: King James agent selection
@@ -3215,16 +2250,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the Lord!
 - NEW: And the people strive with Moses, and spake, saying, Would God that we had died when our brethren died before the Lord!
 
-## choicest → best — Isaiah 5:2
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.
-- NEW: And he fenced it, and gathered out the stones thereof, and planted it with the best vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.
-
-## choicest → best — Isaiah 22:7
-- source: King James agent selection
-- OLD: And it shall come to pass, that thy choicest valleys shall be full of chariots, and the horsemen shall set themselves in array at the gate.
-- NEW: And it shall come to pass, that thy best valleys shall be full of chariots, and the horsemen shall set themselves in array at the gate.
-
 ## choke → choked — Matthew 13:22
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.
@@ -3244,16 +2269,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: Webster alignment (word in KJV same testament)
 - OLD: And the king of the south shall be moved with choler, and shall come forth and fight with him, even with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand.
 - NEW: And the king of the south shall be moved with wrath, and shall come forth and fight with him, even with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand.
-
-## choosest → chooseth — Job 15:5
-- source: YLT alignment (word in KJV same testament)
-- OLD: For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.
-- NEW: For thy mouth uttereth thine iniquity, and thou chooseth the tongue of the crafty.
-
-## choosest → chosenest — Psalms 65:4
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.
-- NEW: Blessed is the man whom thou chosenest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.
 
 ## chop → spread — Micah 3:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -3300,21 +2315,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:
 - NEW: It is he that sitteth upon the circuit of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:
 
-## circuits → compass — Ecclesiastes 1:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.
-- NEW: The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his compass.
-
-## circumcising → destroying — Joshua 5:8
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And it came to pass, when they had done circumcising all the people, that they abode in their places in the camp, till they were whole.
-- NEW: And it came to pass, when they had done destroying all the people, that they abode in their places in the camp, till they were whole.
-
-## circumcising → destroying — Luke 2:21
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
-- NEW: And when eight days were accomplished for the destroying of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
-
 ## circumspect → keep — Exodus 23:13
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And in all things that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of thy mouth.
@@ -3324,11 +2324,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: See then that ye walk circumspectly, not as fools, but as wise,
 - NEW: See then that ye walk perfectly, not as fools, but as wise,
-
-## cisterns → wells — Jeremiah 2:13
-- source: YLT alignment (word in KJV same testament)
-- OLD: For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water.
-- NEW: For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out wells, broken wells, that can hold no water.
 
 ## citizen → ??? — Luke 15:15
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -3365,35 +2360,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:
 - NEW: Let all bitterness, and wrath, and anger, and cry, and evil speaking, be put away from you, with all malice:
 
-## clapped → killed — II Kings 11:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he brought forth the king’s son, and put the crown upon him, and gave him the testimony; and they made him king, and anointed him; and they clapped their hands, and said, God save the king.
-- NEW: And he brought forth the king’s son, and put the crown upon him, and gave him the testimony; and they made him king, and anointed him; and they killed their hands, and said, God save the king.
-
-## clapped → killed — Ezekiel 25:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For thus saith the Lord God; Because thou hast clapped thine hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;
-- NEW: For thus saith the Lord God; Because thou hast killed thine hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;
-
-## clappeth → striketh — Job 34:37
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God. 
-- NEW: For he addeth rebellion unto his sin, he striketh his hands among us, and multiplieth his words against God. 
-
 ## clearer → rose — Job 11:17
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And thine age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning.
 - NEW: And thine age shall be rose than the noonday; thou shalt shine forth, thou shalt be as the morning.
-
-## clearing → going — Numbers 14:18
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The Lord is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.
-- NEW: The Lord is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means going the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.
-
-## clearing → going — II Corinthians 7:11
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.
-- NEW: For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what going of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.
 
 ## clearness → brightness — Exodus 24:10
 - source: King James agent selection
@@ -3435,21 +2405,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clifts of the rocks?
 - NEW: Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clefts of the rocks?
 
-## climbed → goeth — I Samuel 14:13
-- source: YLT alignment (word in KJV same testament)
-- OLD: And Jonathan climbed up upon his hands and upon his feet, and his armourbearer after him: and they fell before Jonathan; and his armourbearer slew after him.
-- NEW: And Jonathan goeth up upon his hands and upon his feet, and his armourbearer after him: and they fell before Jonathan; and his armourbearer slew after him.
-
-## climbed → offered — Luke 19:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way. 
-- NEW: And he ran before, and offered up into a sycomore tree to see him: for he was to pass that way. 
-
-## climbeth → cometh — John 10:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
-- NEW: Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but cometh up some other way, the same is a thief and a robber.
-
 ## clipped → diminished — Jeremiah 48:37
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For every head shall be bald, and every beard clipped: upon all the hands shall be cuttings, and upon the loins sackcloth.
@@ -3459,11 +2414,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. 
 - NEW: A man that hath friends must shew himself friendly: and there is a friend that sticketh cleave than a brother. 
-
-## closest → shuttest — Jeremiah 22:15
-- source: King James agent selection
-- OLD: Shalt thou reign, because thou closest thyself in cedar? did not thy father eat and drink, and do judgment and justice, and then it was well with him?
-- NEW: Shalt thou reign, because thou shuttest thyself in cedar? did not thy father eat and drink, and do judgment and justice, and then it was well with him?
 
 ## closet → secret — Joel 2:16
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -3479,11 +2429,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.
 - NEW: Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in chambers shall be proclaimed upon the housetops.
-
-## clothest → arrayest — Jeremiah 4:30
-- source: King James agent selection
-- OLD: And when thou art spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; thy lovers will despise thee, they will seek thy life.
-- NEW: And when thou art spoiled, what wilt thou do? Though thou arrayest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; thy lovers will despise thee, they will seek thy life.
 
 ## clouted → spotted — Joshua 9:5
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -3509,11 +2454,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: YLT alignment (word in KJV same testament)
 - OLD: And there appeared unto them cloven tongues like as of fire, and it sat upon each of them.
 - NEW: And there appeared unto them divided tongues like as of fire, and it sat upon each of them.
-
-## cockatrices → vipers — Jeremiah 8:17
-- source: King James agent selection
-- OLD: For, behold, I will send serpents, cockatrices, among you, which will not be charmed, and they shall bite you, saith the Lord.
-- NEW: For, behold, I will send serpents, vipers, among you, which will not be charmed, and they shall bite you, saith the Lord.
 
 ## cockcrowing → ??? — Mark 13:35
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -3565,11 +2505,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.
 - NEW: And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.
 
-## coloured → dyed — Revelation of John 17:3
-- source: King James agent selection
-- OLD: So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
-- NEW: So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet dyed beast, full of names of blasphemy, having seven heads and ten horns.
-
 ## comers → worshippers — Hebrews 10:1
 - source: King James agent selection
 - OLD: For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
@@ -3595,21 +2530,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: I will not leave you comfortless: I will come to you.
 - NEW: I will not leave you bereaved: I will come to you.
 
-## comforts → consolations — Psalms 94:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: In the multitude of my thoughts within me thy comforts delight my soul.
-- NEW: In the multitude of my thoughts within me thy consolations delight my soul.
-
-## comforts → consolations — Isaiah 57:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I have seen his ways, and will heal him: I will lead him also, and restore comforts unto him and to his mourners.
-- NEW: I have seen his ways, and will heal him: I will lead him also, and restore consolations unto him and to his mourners.
-
-## comings → entries — Ezekiel 43:11
-- source: King James agent selection
-- OLD: And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write it in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.
-- NEW: And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the entries in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write it in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.
-
 ## commander → command — Isaiah 55:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Behold, I have given him for a witness to the people, a leader and commander to the people.
@@ -3620,11 +2540,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?
 - NEW: Do we begin again to commend ourselves? or need we, as some others, epistles of recommendation to you, or letters of recommendation from you?
 
-## commending → standing — II Corinthians 4:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
-- NEW: But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth standing ourselves to every man’s conscience in the sight of God.
-
 ## commission → charge — Acts 26:12
 - source: King James agent selection
 - OLD: Whereupon as I went to Damascus with authority and commission from the chief priests,
@@ -3634,21 +2549,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And they delivered the king’s commissions unto the king’s lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God. 
 - NEW: And they delivered the king’s laws unto the king’s lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God. 
-
-## committest → goest — Hosea 5:3
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled.
-- NEW: I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou goest whoredom, and Israel is defiled.
-
-## committing → yielding — Ezekiel 33:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: If the wicked restore the pledge, give again that he had robbed, walk in the statutes of life, without committing iniquity; he shall surely live, he shall not die.
-- NEW: If the wicked restore the pledge, give again that he had robbed, walk in the statutes of life, without yielding iniquity; he shall surely live, he shall not die.
-
-## committing → yielding — Hosea 4:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
-- NEW: By swearing, and lying, and killing, and stealing, and yielding adultery, they break out, and blood toucheth blood.
 
 ## commodious → convenient — Acts 27:12
 - source: King James agent selection
@@ -3680,36 +2580,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by.
 - NEW: But when ye shall hear of wars and tumults, be not terrified: for these things must first come to pass; but the end is not by and by.
 
-## communicated → declared — Galatians 2:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.
-- NEW: And I went up by revelation, and declared unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.
-
-## communicated → declared — Philippians 4:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only.
-- NEW: Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church declared with me as concerning giving and receiving, but ye only.
-
-## communications → words — Luke 24:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?
-- NEW: And he said unto them, What manner of words are these that ye have one to another, as ye walk, and are sad?
-
-## communications → words — I Corinthians 15:33
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Be not deceived: evil communications corrupt good manners.
-- NEW: Be not deceived: evil words corrupt good manners.
-
-## communing → speaking — Genesis 18:33
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the Lord went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place. 
-- NEW: And the Lord went his way, as soon as he had left speaking with Abraham: and Abraham returned unto his place. 
-
-## communing → speaking — Exodus 31:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God. 
-- NEW: And he gave unto Moses, when he had made an end of speaking with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God. 
-
 ## compact → together — Psalms 122:3
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Jerusalem is builded as a city that is compact together:
@@ -3720,70 +2590,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.
 - NEW: From whom the whole body fitly joined together and gathered by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.
 
-## companied → assembled — Acts 1:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,
-- NEW: Wherefore of these men which have assembled with us all the time that the Lord Jesus went in and out among us,
-
 ## comparable → like — Lamentations 4:2
 - source: King James agent selection
 - OLD: The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!
 - NEW: The precious sons of Zion, like to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!
 
-## comparing → likening — I Corinthians 2:13
-- source: King James agent selection
-- OLD: Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual.
-- NEW: Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; likening spiritual things with spiritual.
-
-## comparing → likening — II Corinthians 10:12
-- source: King James agent selection
-- OLD: For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.
-- NEW: For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and likening themselves among themselves, are not wise.
-
-## compassest → castest — Psalms 139:3
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou compassest my path and my lying down, and art acquainted with all my ways.
-- NEW: Thou castest my path and my lying down, and art acquainted with all my ways.
-
-## compassions → bowels — Lamentations 3:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: It is of the Lord’s mercies that we are not consumed, because his compassions fail not.
-- NEW: It is of the Lord’s mercies that we are not consumed, because his bowels fail not.
-
-## compassions → bowels — Zechariah 7:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thus speaketh the Lord of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother:
-- NEW: Thus speaketh the Lord of hosts, saying, Execute true judgment, and shew mercy and bowels every man to his brother:
-
-## compellest → constrainest — Galatians 2:14
-- source: King James agent selection
-- OLD: But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
-- NEW: But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why constrainest thou the Gentiles to live as do the Jews?
-
-## complained → prayed — Numbers 11:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And when the people complained, it displeased the Lord: and the Lord heard it; and his anger was kindled; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp.
-- NEW: And when the people prayed, it displeased the Lord: and the Lord heard it; and his anger was kindled; and the fire of the Lord burnt among them, and consumed them that were in the uttermost parts of the camp.
-
-## complained → meditate — Psalms 77:3
-- source: YLT alignment (word in KJV same testament)
-- OLD: I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.
-- NEW: I remembered God, and was troubled: I meditate, and my spirit was overwhelmed. Selah.
-
 ## complainers → backbiters — Jude 1:16
 - source: King James agent selection
 - OLD: These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men’s persons in admiration because of advantage.
 - NEW: These are murmurers, backbiters, walking after their own lusts; and their mouth speaketh great swelling words, having men’s persons in admiration because of advantage.
-
-## complaining → crying — Psalms 144:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: That our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no complaining in our streets.
-- NEW: That our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no crying in our streets.
-
-## complaints → accusations — Acts 25:7
-- source: King James agent selection
-- OLD: And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove.
-- NEW: And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous accusations against Paul, which they could not prove.
 
 ## composition → tale — Exodus 30:32
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -3814,41 +2629,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: May be able to comprehend with all saints what is the breadth, and length, and depth, and height;
 - NEW: May be able to know with all saints what is the breadth, and length, and depth, and height;
-
-## concealed → hidden — Job 6:10
-- source: YLT alignment (word in KJV same testament)
-- OLD: Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.
-- NEW: Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not hidden the words of the Holy One.
-
-## concealed → hidden — Psalms 40:10
-- source: YLT alignment (word in KJV same testament)
-- OLD: I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.
-- NEW: I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not hidden thy lovingkindness and thy truth from the great congregation.
-
-## concealeth → covereth — Proverbs 11:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.
-- NEW: A talebearer revealeth secrets: but he that is of a faithful spirit covereth the matter.
-
-## concealeth → covereth — Proverbs 12:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.
-- NEW: A prudent man covereth knowledge: but the heart of fools proclaimeth foolishness.
-
-## conceits → themselves — Romans 11:25
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.
-- NEW: For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own themselves; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.
-
-## conceits → conceit — Romans 12:16
-- source: YLT alignment (word in KJV other testament)
-- OLD: Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
-- NEW: Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceit.
-
-## conceiving → devising — Isaiah 59:13
-- source: King James agent selection
-- OLD: In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
-- NEW: In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, devising and uttering from the heart words of falsehood.
 
 ## concern → about — Acts 28:31
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -3900,21 +2680,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For we are in danger to be called in question for this day’s uproar, there being no cause whereby we may give an account of this concourse.
 - NEW: For we are in danger to be called in question for this day’s uproar, there being no cause whereby we may give an account of this noise.
 
-## condemnest → condemnedest — Romans 2:1
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.
-- NEW: Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnedest thyself; for thou that judgest doest the same things.
-
-## condemning → judging — I Kings 8:32
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then hear thou in heaven, and do, and judge thy servants, condemning the wicked, to bring his way upon his head; and justifying the righteous, to give him according to his righteousness.
-- NEW: Then hear thou in heaven, and do, and judge thy servants, judging the wicked, to bring his way upon his head; and justifying the righteous, to give him according to his righteousness.
-
-## condemning → judging — Acts 13:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For they that dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every sabbath day, they have fulfilled them in condemning him. 
-- NEW: For they that dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every sabbath day, they have fulfilled them in judging him. 
-
 ## condescend → away — Romans 12:16
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
@@ -3929,16 +2694,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth conditions of peace.
 - NEW: Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth days of peace.
-
-## conducted → passed — II Samuel 19:40
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then the king went on to Gilgal, and Chimham went on with him: and all the people of Judah conducted the king, and also half the people of Israel.
-- NEW: Then the king went on to Gilgal, and Chimham went on with him: and all the people of Judah passed the king, and also half the people of Israel.
-
-## conducted → passed — Acts 17:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they that conducted Paul brought him unto Athens: and receiving a commandment unto Silas and Timotheus for to come to him with all speed, they departed.
-- NEW: And they that passed Paul brought him unto Athens: and receiving a commandment unto Silas and Timotheus for to come to him with all speed, they departed.
 
 ## coney → shaphan — Leviticus 11:5
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -3959,11 +2714,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed to be somewhat in conference added nothing to me:
 - NEW: But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed to be somewhat in add added nothing to me:
-
-## confidences → confidence — Jeremiah 2:37
-- source: King James agent selection
-- OLD: Yea, thou shalt go forth from him, and thine hands upon thine head: for the Lord hath rejected thy confidences, and thou shalt not prosper in them. 
-- NEW: Yea, thou shalt go forth from him, and thine hands upon thine head: for the Lord hath rejected thy confidence, and thou shalt not prosper in them. 
 
 ## confidently → constantly — Luke 22:59
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -4050,35 +2800,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Nay, in all these things we are more than conquerors through him that loved us.
 - NEW: Nay, in all these things we are more than victors through him that loved us.
 
-## consciences → witnesses — II Corinthians 5:11
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.
-- NEW: Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your witnesses.
-
 ## consentedst → accept — Psalms 50:18
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.
 - NEW: When thou sawest a thief, then thou accept with him, and hast been partaker with adulterers.
-
-## consenting → pleasing — Acts 8:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judea and Samaria, except the apostles.
-- NEW: And Saul was pleasing unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judea and Samaria, except the apostles.
-
-## consenting → pleasing — Acts 22:20
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.
-- NEW: And when the blood of thy martyr Stephen was shed, I also was standing by, and pleasing unto his death, and kept the raiment of them that slew him.
-
-## considerest → sawest — Jeremiah 33:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Considerest thou not what this people have spoken, saying, The two families which the Lord hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them.
-- NEW: Sawest thou not what this people have spoken, saying, The two families which the Lord hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them.
-
-## considerest → consider — Matthew 7:3
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?
-- NEW: And why beholdest thou the mote that is in thy brother’s eye, but consider not the beam that is in thine own eye?
 
 ## consist → commend — Colossians 1:17
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -4155,16 +2880,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate. 
 - NEW: And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the end, and that determined shall be poured upon the desolate. 
 
-## containeth → receiveth — Ezekiel 23:32
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thus saith the Lord God; Thou shalt drink of thy sister’s cup deep and large: thou shalt be laughed to scorn and had in derision; it containeth much.
-- NEW: Thus saith the Lord God; Thou shalt drink of thy sister’s cup deep and large: thou shalt be laughed to scorn and had in derision; it receiveth much.
-
-## containing → receiving — John 2:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.
-- NEW: And there were set there six waterpots of stone, after the manner of the purifying of the Jews, receiving two or three firkins apiece.
-
 ## contemn → scorn — Psalms 10:13
 - source: AKJV alignment (word in KJV same testament)
 - OLD: Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.
@@ -4184,16 +2899,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous.
 - NEW: Let the lying lips be put to silence; which speak grievous things proudly and scornfully against the righteous.
-
-## contendest → strivest — Job 10:2
-- source: King James agent selection
-- OLD: I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.
-- NEW: I will say unto God, Do not condemn me; shew me wherefore thou strivest with me.
-
-## contending → doubting — Jude 1:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.
-- NEW: Yet Michael the archangel, when doubting with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.
 
 ## contentment → sufficiency — I Timothy 6:6
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -4219,11 +2924,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem.
 - NEW: For it hath pleased them of Macedonia and Achaia to make a certain fellowship for the poor saints which are at Jerusalem.
-
-## controversies → causes — II Chronicles 19:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the Lord, and for controversies, when they returned to Jerusalem.
-- NEW: Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the Lord, and for causes, when they returned to Jerusalem.
 
 ## conveniently → season — Mark 14:11
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -4330,11 +3030,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.
 - NEW: And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and spirit my tongue; for I am tormented in this flame.
 
-## copied → removed — Proverbs 25:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
-- NEW: These are also proverbs of Solomon, which the men of Hezekiah king of Judah removed out.
-
 ## coping → top — I Kings 7:9
 - source: King James agent selection
 - OLD: All these were of costly stones, according to the measures of hewed stones, sawed with saws, within and without, even from the foundation unto the coping, and so on the outside toward the great court.
@@ -4375,16 +3070,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the manna was as coriander seed, and the colour thereof as the colour of bdellium.
 - NEW: And the manna was as like seed, and the colour thereof as the colour of bdellium.
 
-## cornets → trumpets — II Samuel 6:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And David and all the house of Israel played before the Lord on all manner of instruments made of fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals.
-- NEW: And David and all the house of Israel played before the Lord on all manner of instruments made of fir wood, even on harps, and on psalteries, and on timbrels, and on trumpets, and on cymbals.
-
-## cornets → trumpets — II Chronicles 15:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they sware unto the Lord with a loud voice, and with shouting, and with trumpets, and with cornets.
-- NEW: And they sware unto the Lord with a loud voice, and with shouting, and with trumpets, and with trumpets.
-
 ## cornfloor → corn — Hosea 9:1
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.
@@ -4395,26 +3080,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And when his disciples heard of it, they came and took up his corpse, and laid it in a tomb.
 - NEW: And when his disciples heard of it, they came and took up his carcase, and laid it in a tomb.
 
-## corrected → chastised — Proverbs 29:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: A servant will not be corrected by words: for though he understand he will not answer.
-- NEW: A servant will not be chastised by words: for though he understand he will not answer.
-
-## corrected → instructed — Hebrews 12:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?
-- NEW: Furthermore we have had fathers of our flesh which instructed us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?
-
-## correcteth → reproveth — Job 5:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
-- NEW: Behold, happy is the man whom God reproveth: therefore despise not thou the chastening of the Almighty:
-
-## correcteth → reproveth — Proverbs 3:12
-- source: YLT alignment (word in KJV same testament)
-- OLD: For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth.
-- NEW: For whom the Lord loveth he reproveth; even as a father the son in whom he delighteth.
-
 ## corrupters → spoilers — Isaiah 1:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward.
@@ -4424,16 +3089,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: They are all grievous revolters, walking with slanders: they are brass and iron; they are all corrupters.
 - NEW: They are all grievous revolters, walking with slanders: they are brass and iron; they are all spoilers.
-
-## corrupteth → destroy — Luke 12:33
-- source: YLT alignment (word in KJV same testament)
-- OLD: Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.
-- NEW: Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth destroy.
-
-## corrupting → destroying — Daniel 11:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, corrupting her: but she shall not stand on his side, neither be for him.
-- NEW: He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, destroying her: but she shall not stand on his side, neither be for him.
 
 ## corruptly → utterly — II Chronicles 27:2
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -4470,36 +3125,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the sea coast shall be dwellings and cottages for shepherds, and folds for flocks.
 - NEW: And the sea coast shall be dwellings and tents for shepherds, and folds for flocks.
 
-## couched → bowed — Genesis 49:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Judah is a lion’s whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
-- NEW: Judah is a lion’s whelp: from the prey, my son, thou art gone up: he stooped down, he bowed as a lion, and as an old lion; who shall rouse him up?
-
-## couched → bowed — Numbers 24:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee.
-- NEW: He bowed, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee.
-
-## couches → beds — Amos 6:4
-- source: King James agent selection
-- OLD: That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;
-- NEW: That lie upon beds of ivory, and stretch themselves upon their beds, and eat the lambs out of the flock, and the calves out of the midst of the stall;
-
-## couches → beds — Acts 5:15
-- source: King James agent selection
-- OLD: Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them.
-- NEW: Insomuch that they brought forth the sick into the streets, and laid them on beds and beds, that at the least the shadow of Peter passing by might overshadow some of them.
-
-## coucheth → maketh — Deuteronomy 33:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And of Joseph he said, Blessed of the Lord be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,
-- NEW: And of Joseph he said, Blessed of the Lord be his land, for the precious things of heaven, for the dew, and for the deep that maketh beneath,
-
-## couching → sitting — Genesis 49:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Issachar is a strong ass couching down between two burdens:
-- NEW: Issachar is a strong ass sitting down between two burdens:
-
 ## couchingplace → lie — Ezekiel 25:5
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And I will make Rabbah a stable for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I am the Lord.
@@ -4515,35 +3140,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Yet they had a file for the mattocks, and for the coulters, and for the forks, and for the axes, and to sharpen the goads.
 - NEW: Yet they had a file for the mattocks, and for the plowshares, and for the forks, and for the axes, and to sharpen the goads.
 
-## councils → courts — Matthew 10:17
-- source: King James agent selection
-- OLD: But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;
-- NEW: But beware of men: for they will deliver you up to the courts, and they will scourge you in their synagogues;
-
-## councils → courts — Mark 13:9
-- source: King James agent selection
-- OLD: But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
-- NEW: But take heed to yourselves: for they shall deliver you up to courts; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
-
-## countenances → faces — Daniel 1:13
-- source: King James agent selection
-- OLD: Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king’s meat: and as thou seest, deal with thy servants.
-- NEW: Then let our faces be looked upon before thee, and the countenance of the children that eat of the portion of the king’s meat: and as thou seest, deal with thy servants.
-
-## countenances → faces — Daniel 1:15
-- source: King James agent selection
-- OLD: And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king’s meat.
-- NEW: And at the end of ten days their faces appeared fairer and fatter in flesh than all the children which did eat the portion of the king’s meat.
-
 ## countervail → laid — Esther 7:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king’s damage.
 - NEW: For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not laid the king’s damage.
-
-## counting → reckoning — Ecclesiastes 7:27
-- source: King James agent selection
-- OLD: Behold, this have I found, saith the preacher, counting one by one, to find out the account:
-- NEW: Behold, this have I found, saith the preacher, reckoning one by one, to find out the account:
 
 ## countrymen → kind — II Corinthians 11:26
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -4554,21 +3154,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For ye, brethren, became followers of the churches of God which in Judea are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they have of the Jews:
 - NEW: For ye, brethren, became followers of the churches of God which in Judea are in Christ Jesus: for ye also have suffered like things of your own kind, even as they have of the Jews:
-
-## coupleth → joineth — Exodus 26:10
-- source: King James agent selection
-- OLD: And thou shalt make fifty loops on the edge of the one curtain that is outmost in the coupling, and fifty loops in the edge of the curtain which coupleth the second.
-- NEW: And thou shalt make fifty loops on the edge of the one curtain that is outmost in the coupling, and fifty loops in the edge of the curtain which joineth the second.
-
-## coupleth → joineth — Exodus 36:17
-- source: King James agent selection
-- OLD: And he made fifty loops upon the uttermost edge of the curtain in the coupling, and fifty loops made he upon the edge of the curtain which coupleth the second.
-- NEW: And he made fifty loops upon the uttermost edge of the curtain in the coupling, and fifty loops made he upon the edge of the curtain which joineth the second.
-
-## couplings → joints — II Chronicles 34:11
-- source: King James agent selection
-- OLD: Even to the artificers and builders gave they it, to buy hewn stone, and timber for couplings, and to floor the houses which the kings of Judah had destroyed.
-- NEW: Even to the artificers and builders gave they it, to buy hewn stone, and timber for joints, and to floor the houses which the kings of Judah had destroyed.
 
 ## courageously → valiantly — II Chronicles 19:11
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -4614,41 +3199,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: Webster alignment (word in KJV same testament)
 - OLD: And tookest thy broidered garments, and coveredst them: and thou hast set mine oil and mine incense before them.
 - NEW: And tookest thy broidered garments, and covered them: and thou hast set mine oil and mine incense before them.
-
-## coverest → puttest — Deuteronomy 22:12
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself.
-- NEW: Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou puttest thyself.
-
-## coverest → puttest — Psalms 104:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:
-- NEW: Who puttest thyself with light as with a garment: who stretchest out the heavens like a curtain:
-
-## coverings → hangings — Proverbs 7:16
-- source: King James agent selection
-- OLD: I have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt.
-- NEW: I have decked my bed with hangings of tapestry, with carved works, with fine linen of Egypt.
-
-## coverings → hangings — Proverbs 31:22
-- source: King James agent selection
-- OLD: She maketh herself coverings of tapestry; her clothing is silk and purple.
-- NEW: She maketh herself hangings of tapestry; her clothing is silk and purple.
-
-## coveteth → covers — Proverbs 21:26
-- source: UKJV alignment (word in KJV same testament)
-- OLD: He coveteth greedily all the day long: but the righteous giveth and spareth not.
-- NEW: He covers greedily all the day long: but the righteous giveth and spareth not.
-
-## coveteth → covers — Habakkuk 2:9
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!
-- NEW: Woe to him that covers an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!
-
-## cow's → herds — Ezekiel 4:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then he said unto me, Lo, I have given thee cow’s dung for man’s dung, and thou shalt prepare thy bread therewith.
-- NEW: Then he said unto me, Lo, I have given thee cow’s dung for man’s dung, and thou shalt prepare thy bread therewith.
 
 ## crackling → noise — Ecclesiastes 7:6
 - source: YLT alignment (word in KJV same testament)
@@ -4700,16 +3250,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: He that laboureth laboureth for himself; for his mouth craveth it of him.
 - NEW: He that laboureth laboureth for himself; for his mouth desireth it of him.
 
-## createth → wasteth — Amos 4:13
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The Lord, The God of hosts, is his name. 
-- NEW: For, lo, he that formeth the mountains, and wasteth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The Lord, The God of hosts, is his name. 
-
-## creditors → extortioners — Isaiah 50:1
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: Thus saith the Lord, Where is the bill of your mother’s divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.
-- NEW: Thus saith the Lord, Where is the bill of your mother’s divorcement, whom I have put away? or which of my extortioners is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.
-
 ## creek → bosom — Acts 27:39
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And when it was day, they knew not the land: but they discovered a certain creek with a shore, into the which they were minded, if it were possible, to thrust in the ship.
@@ -4719,11 +3259,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
 - NEW: For there are certain men unawares in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
-
-## cries → cryings — James 5:4
-- source: King James agent selection
-- OLD: Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
-- NEW: Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cryings of them which have reaped are entered into the ears of the Lord of sabaoth.
 
 ## crime → mischief — Job 31:11
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -4795,21 +3330,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:
 - NEW: Thou madest him a little lower than the angels; thou crown him with glory and honour, and didst set him over the works of thy hands:
 
-## crownest → crownedest — Psalms 65:11
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Thou crownest the year with thy goodness; and thy paths drop fatness.
-- NEW: Thou crownedest the year with thy goodness; and thy paths drop fatness.
-
-## crowneth → compasseth — Psalms 103:4
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;
-- NEW: Who redeemeth thy life from destruction; who compasseth thee with lovingkindness and tender mercies;
-
-## crowning → compassing — Isaiah 23:8
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Who hath taken this counsel against Tyre, the crowning city, whose merchants are princes, whose traffickers are the honourable of the earth?
-- NEW: Who hath taken this counsel against Tyre, the compassing city, whose merchants are princes, whose traffickers are the honourable of the earth?
-
 ## cruelly → grievously — Ezekiel 18:18
 - source: King James agent selection
 - OLD: As for his father, because he cruelly oppressed, spoiled his brother by violence, and did that which is not good among his people, lo, even he shall die in his iniquity.
@@ -4880,11 +3400,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Hast thou not poured me out as milk, and curdled me like cheese?
 - NEW: Hast thou not poured me out as milk, and settled me like cheese?
 
-## cures → healings — Luke 13:32
-- source: King James agent selection
-- OLD: And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected.
-- NEW: And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do healings to day and to morrow, and the third day I shall be perfected.
-
 ## curiously → wonderfully — Psalms 139:15
 - source: King James agent selection
 - OLD: My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.
@@ -4904,21 +3419,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou cursedst is withered away.
 - NEW: And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou curse is withered away.
-
-## cursest → cursedest — Numbers 22:6
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursest is cursed.
-- NEW: Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursedest is cursed.
-
-## cursings → curses — Joshua 8:34
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And afterward he read all the words of the law, the blessings and cursings, according to all that is written in the book of the law.
-- NEW: And afterward he read all the words of the law, the blessings and curses, according to all that is written in the book of the law.
-
-## cuttest → reapest — Deuteronomy 24:19
-- source: King James agent selection
-- OLD: When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the Lord thy God may bless thee in all the work of thine hands.
-- NEW: When thou reapest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the Lord thy God may bless thee in all the work of thine hands.
 
 ## cymbal → ??? — I Corinthians 13:1
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -4985,16 +3485,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.
 - NEW: Lord, how long wilt thou look on? rescue my soul from their destructions, my beloved from the lions.
 
-## dasheth → scattereth — Psalms 137:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Happy shall he be, that taketh and dasheth thy little ones against the stones. 
-- NEW: Happy shall he be, that taketh and scattereth thy little ones against the stones. 
-
-## dasheth → scattereth — Nahum 2:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily.
-- NEW: He that scattereth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily.
-
 ## daub → plaister — Ezekiel 13:11
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Say unto them which daub it with untempered morter, that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend it.
@@ -5055,21 +3545,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously.
 - NEW: From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous transgressors have dealt treacherously; yea, the treacherous transgressors have dealt very treacherously.
 
-## dealest → mayest — Exodus 5:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?
-- NEW: Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore mayest thou thus with thy servants?
-
-## dealest → deal — Isaiah 33:1
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Woe to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.
-- NEW: Woe to thee that spoilest, and thou wast not spoiled; and deal treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.
-
-## dealing → work — Psalms 7:16
-- source: King James agent selection
-- OLD: His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.
-- NEW: His mischief shall return upon his own head, and his violent work shall come down upon his own pate.
-
 ## dealings → words — I Samuel 2:23
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people.
@@ -5084,21 +3559,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase thyself even unto hell.
 - NEW: And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst low thyself even unto hell.
-
-## debates → strifes — II Corinthians 12:20
-- source: YLT alignment (word in KJV same testament)
-- OLD: For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
-- NEW: For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be strifes, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
-
-## debts → debt — Proverbs 22:26
-- source: King James agent selection
-- OLD: Be not thou one of them that strike hands, or of them that are sureties for debts.
-- NEW: Be not thou one of them that strike hands, or of them that are sureties for debt.
-
-## debts → trespasses — Matthew 6:12
-- source: King James agent selection
-- OLD: And forgive us our debts, as we forgive our debtors.
-- NEW: And forgive us our trespasses, as we forgive our debtors.
 
 ## decay → fallen — Leviticus 25:35
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -5134,26 +3594,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:
 - NEW: Now there were with us seven brethren: and the first, when he had married a wife, died, and, having no issue, left his wife unto his brother:
-
-## deceits → causes — Psalms 38:12
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.
-- NEW: They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine causes all the day long.
-
-## deceits → causes — Isaiah 30:10
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Which say to the seers, See not; and to the prophets, Prophesy not unto us right things, speak unto us smooth things, prophesy deceits:
-- NEW: Which say to the seers, See not; and to the prophets, Prophesy not unto us right things, speak unto us smooth things, prophesy causes:
-
-## deceiving → wandering — II Timothy 3:13
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: But evil men and seducers shall wax worse and worse, deceiving, and being deceived.
-- NEW: But evil men and seducers shall wax worse and worse, wandering, and being deceived.
-
-## deceiving → wandering — James 1:22
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: But be ye doers of the word, and not hearers only, deceiving your own selves.
-- NEW: But be ye doers of the word, and not hearers only, wandering your own selves.
 
 ## deceivings → deceitfulness — II Peter 2:13
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -5205,16 +3645,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: I will greatly rejoice in the Lord, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh himself with ornaments, and as a bride adorneth herself with her jewels.
 - NEW: I will greatly rejoice in the Lord, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom executeth himself with ornaments, and as a bride adorneth herself with her jewels.
 
-## declineth → stretcheth — Psalms 102:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: My days are like a shadow that declineth; and I am withered like grass.
-- NEW: My days are like a shadow that stretcheth; and I am withered like grass.
-
-## declineth → stretcheth — Psalms 109:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I am gone like the shadow when it declineth: I am tossed up and down as the locust.
-- NEW: I am gone like the shadow when it stretcheth: I am tossed up and down as the locust.
-
 ## decrease → few — Psalms 107:38
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.
@@ -5229,16 +3659,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.
 - NEW: And the waters lacked continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.
-
-## dedicating → hallowing — Numbers 7:10
-- source: King James agent selection
-- OLD: And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar.
-- NEW: And the princes offered for hallowing of the altar in the day that it was anointed, even the princes offered their offering before the altar.
-
-## dedicating → dedication — Numbers 7:11
-- source: YLT alignment (word in KJV same testament)
-- OLD: And the Lord said unto Moses, They shall offer their offering, each prince on his day, for the dedicating of the altar.
-- NEW: And the Lord said unto Moses, They shall offer their offering, each prince on his day, for the dedication of the altar.
 
 ## deemed → supposed — Acts 27:27
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -5275,31 +3695,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For the Lord had appointed to defeat the good counsel of Ahithophel, to the intent that the Lord might bring evil upon Absalom.
 - NEW: And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For the Lord had appointed to break the good counsel of Ahithophel, to the intent that the Lord might bring evil upon Absalom.
 
-## defended → delivereth — II Samuel 23:12
-- source: YLT alignment (word in KJV same testament)
-- OLD: But he stood in the midst of the ground, and defended it, and slew the Philistines: and the Lord wrought a great victory.
-- NEW: But he stood in the midst of the ground, and delivereth it, and slew the Philistines: and the Lord wrought a great victory.
-
-## defended → delivered — Acts 7:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And seeing one of them suffer wrong, he defended him, and avenged him that was oppressed, and smote the Egyptian:
-- NEW: And seeing one of them suffer wrong, he delivered him, and avenged him that was oppressed, and smote the Egyptian:
-
-## defendest → coverest — Psalms 5:11
-- source: King James agent selection
-- OLD: But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.
-- NEW: But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou coverest them: let them also that love thy name be joyful in thee.
-
-## defending → defend — Isaiah 31:5
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: As birds flying, so will the Lord of hosts defend Jerusalem; defending also he will deliver it; and passing over he will preserve it.
-- NEW: As birds flying, so will the Lord of hosts defend Jerusalem; defend also he will deliver it; and passing over he will preserve it.
-
-## deferreth → draweth — Proverbs 19:11
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.
-- NEW: The discretion of a man draweth his anger; and it is his glory to pass over a transgression.
-
 ## defiledst → began — Genesis 49:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Unstable as water, thou shalt not excel; because thou wentest up to thy father’s bed; then defiledst thou it: he went up to my couch.
@@ -5309,26 +3704,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?
 - NEW: Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the plant plant of a strange vine unto me?
-
-## delayed → ashamed — Exodus 32:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
-- NEW: And when the people saw that Moses ashamed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
-
-## delayed → ashamed — Psalms 119:60
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I made haste, and delayed not to keep thy commandments.
-- NEW: I made haste, and ashamed not to keep thy commandments.
-
-## delayeth → longeth — Matthew 24:48
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: But and if that evil servant shall say in his heart, My lord delayeth his coming;
-- NEW: But and if that evil servant shall say in his heart, My lord longeth his coming;
-
-## delayeth → longeth — Luke 12:45
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;
-- NEW: But and if that servant say in his heart, My lord longeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;
 
 ## delectable → desirable — Isaiah 44:9
 - source: YLT alignment (word in KJV same testament)
@@ -5345,11 +3720,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
 - NEW: The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for themselves and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
 
-## delicates → dainties — Jeremiah 51:34
-- source: YLT alignment (word in KJV same testament)
-- OLD: Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a dragon, he hath filled his belly with my delicates, he hath cast me out.
-- NEW: Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a dragon, he hath filled his belly with my dainties, he hath cast me out.
-
 ## deliciously → lively — Revelation of John 18:7
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: How much she hath glorified herself, and lived deliciously, so much torment and sorrow give her: for she saith in her heart, I sit a queen, and am no widow, and shall see no sorrow.
@@ -5360,30 +3730,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the kings of the earth, who have committed fornication and lived deliciously with her, shall bewail her, and lament for her, when they shall see the smoke of her burning,
 - NEW: And the kings of the earth, who have committed fornication and lived lively with her, shall bewail her, and lament for her, when they shall see the smoke of her burning,
 
-## delightest → takest — Psalms 51:16
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.
-- NEW: For thou desirest not sacrifice; else would I give it: thou takest not in burnt offering.
-
 ## delightsome → pleasure — Malachi 3:12
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And all nations shall call you blessed: for ye shall be a delightsome land, saith the Lord of hosts.
 - NEW: And all nations shall call you blessed: for ye shall be a pleasure land, saith the Lord of hosts.
-
-## deliverances → deliverance — Psalms 44:4
-- source: King James agent selection
-- OLD: Thou art my King, O God: command deliverances for Jacob.
-- NEW: Thou art my King, O God: command deliverance for Jacob.
-
-## deliverest → deliver — Psalms 35:10
-- source: UKJV alignment (word in KJV same testament)
-- OLD: All my bones shall say, Lord, who is like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?
-- NEW: All my bones shall say, Lord, who is like unto thee, which deliver the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?
-
-## deliverest → mightest — Micah 6:14
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou shalt eat, but not be satisfied; and thy casting down shall be in the midst of thee; and thou shalt take hold, but shalt not deliver; and that which thou deliverest will I give up to the sword.
-- NEW: Thou shalt eat, but not be satisfied; and thy casting down shall be in the midst of thee; and thou shalt take hold, but shalt not deliver; and that which thou mightest will I give up to the sword.
 
 ## delivery → bare — Isaiah 26:17
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -5445,31 +3795,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God.
 - NEW: And the people stood beholding. And the rulers also with them mocked him, saying, He saved others; let him save himself, if he be Christ, the chosen of God.
 
-## descendeth → departeth — James 3:15
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: This wisdom descendeth not from above, but is earthly, sensual, devilish.
-- NEW: This wisdom departeth not from above, but is earthly, sensual, devilish.
-
-## described → describe — Joshua 18:9
-- source: YLT alignment (word in KJV same testament)
-- OLD: And the men went and passed through the land, and described it by cities into seven parts in a book, and came again to Joshua to the host at Shiloh.
-- NEW: And the men went and passed through the land, and describe it by cities into seven parts in a book, and came again to Joshua to the host at Shiloh.
-
-## described → wrote — Judges 8:14
-- source: King James agent selection
-- OLD: And caught a young man of the men of Succoth, and enquired of him: and he described unto him the princes of Succoth, and the elders thereof, even threescore and seventeen men.
-- NEW: And caught a young man of the men of Succoth, and enquired of him: and he wrote unto him the princes of Succoth, and the elders thereof, even threescore and seventeen men.
-
-## describeth → calleth — Romans 4:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,
-- NEW: Even as David also calleth the blessedness of the man, unto whom God imputeth righteousness without works,
-
-## describeth → calleth — Romans 10:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.
-- NEW: For Moses calleth the righteousness which is of the law, That the man which doeth those things shall live by them.
-
 ## description → writing — Joshua 18:6
 - source: King James agent selection
 - OLD: Ye shall therefore describe the land into seven parts, and bring the description hither to me, that I may cast lots for you here before the Lord our God.
@@ -5505,21 +3830,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:
 - NEW: Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou ask me:
 
-## desirest → lovest — Psalms 51:6
-- source: King James agent selection
-- OLD: Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.
-- NEW: Behold, thou lovest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.
-
-## desirest → lovest — Psalms 51:16
-- source: King James agent selection
-- OLD: For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.
-- NEW: For thou lovest not sacrifice; else would I give it: thou delightest not in burnt offering.
-
-## despaired → doubted — II Corinthians 1:8
-- source: King James agent selection
-- OLD: For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
-- NEW: For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we doubted even of life:
-
 ## desperate → incurable — Job 6:26
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?
@@ -5544,16 +3854,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
 - NEW: Without natural affection, trucebreakers, false accusers, incontinent, fierce, goods of those that are good,
-
-## despisest → scornest — Romans 2:4
-- source: King James agent selection
-- OLD: Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?
-- NEW: Or scornest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?
-
-## despising → scorning — Hebrews 12:2
-- source: King James agent selection
-- OLD: Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.
-- NEW: Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, scorning the shame, and is set down at the right hand of the throne of God.
 
 ## despite → despiteful — Ezekiel 25:6
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -5620,11 +3920,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the Lord of hosts.
 - NEW: And I will rebuke the eat for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the Lord of hosts.
 
-## devourest → devour — Ezekiel 36:13
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Thus saith the Lord God; Because they say unto you, Thou land devourest up men, and hast bereaved thy nations;
-- NEW: Thus saith the Lord God; Because they say unto you, Thou land devour up men, and hast bereaved thy nations;
-
 ## dial → degrees — II Kings 20:11
 - source: YLT alignment (word in KJV same testament)
 - OLD: And Isaiah the prophet cried unto the Lord: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz.
@@ -5635,16 +3930,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.
 - NEW: Behold, I will bring again the shadow of the degrees, which is gone down in the sun high of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.
 
-## diddest → mightest — Acts 7:28
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Wilt thou kill me, as thou diddest the Egyptian yesterday?
-- NEW: Wilt thou kill me, as thou mightest the Egyptian yesterday?
-
-## diest → die — Ruth 1:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Where thou diest, will I die, and there will I be buried: the Lord do so to me, and more also, if ought but death part thee and me.
-- NEW: Where thou die, will I die, and there will I be buried: the Lord do so to me, and more also, if ought but death part thee and me.
-
 ## diet → food — Jeremiah 52:34
 - source: Webster alignment (word in KJV same testament)
 - OLD: And for his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life.  
@@ -5654,11 +3939,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it? 
 - NEW: For who maketh thee to judge from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it? 
-
-## differences → diversities — I Corinthians 12:5
-- source: YLT alignment (word in KJV same testament)
-- OLD: And there are differences of administrations, but the same Lord.
-- NEW: And there are diversities of administrations, but the same Lord.
 
 ## differeth → maketh — I Corinthians 15:41
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -5680,21 +3960,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And houses full of all good things, which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full;
 - NEW: And houses full of all good things, which thou filledst not, and wells digged, which thou hew not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full;
 
-## dignities → principalities — II Peter 2:10
-- source: King James agent selection
-- OLD: But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities.
-- NEW: But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of principalities.
-
-## dignities → principalities — Jude 1:8
-- source: King James agent selection
-- OLD: Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
-- NEW: Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of principalities.
-
-## diminishing → decay — Romans 11:12
-- source: King James agent selection
-- OLD: Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?
-- NEW: Now if the fall of them be the riches of the world, and the decay of them the riches of the Gentiles; how much more their fulness?
-
 ## dimness → gloominess — Isaiah 8:22
 - source: King James agent selection
 - OLD: And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and they shall be driven to darkness. 
@@ -5704,21 +3969,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.
 - NEW: Nevertheless the gloominess shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.
-
-## dined → eaten — John 21:15
-- source: King James agent selection
-- OLD: So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
-- NEW: So when they had eaten, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
-
-## dippeth → dips — Matthew 26:23
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And he answered and said, He that dippeth his hand with me in the dish, the same shall betray me.
-- NEW: And he answered and said, He that dips his hand with me in the dish, the same shall betray me.
-
-## dippeth → dips — Mark 14:20
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And he answered and said unto them, It is one of the twelve, that dippeth with me in the dish.
-- NEW: And he answered and said unto them, It is one of the twelve, that dips with me in the dish.
 
 ## direction → word — Numbers 21:18
 - source: King James agent selection
@@ -5740,21 +3990,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the Lord shall forgive her, because her father disallowed her.
 - NEW: But if her father nought her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the Lord shall forgive her, because her father disallowed her.
 
-## disannulled → purged — Isaiah 28:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
-- NEW: And your covenant with death shall be purged, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
-
-## disannulleth → despiseth — Galatians 3:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Brethren, I speak after the manner of men; Though it be but a man’s covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.
-- NEW: Brethren, I speak after the manner of men; Though it be but a man’s covenant, yet if it be confirmed, no man despiseth, or addeth thereto.
-
-## disannulling → abolishing — Hebrews 7:18
-- source: King James agent selection
-- OLD: For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof.
-- NEW: For there is verily a abolishing of the commandment going before for the weakness and unprofitableness thereof.
-
 ## disappoint → before — Psalms 17:13
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Arise, O Lord, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:
@@ -5774,21 +4009,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 - NEW: For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a judge of the thoughts and intents of the heart.
-
-## discerneth → knoweth — Ecclesiastes 8:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart discerneth both time and judgment.
-- NEW: Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart knoweth both time and judgment.
-
-## discerning → doubting — I Corinthians 11:29
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
-- NEW: For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not doubting the Lord’s body.
-
-## discerning → doubting — I Corinthians 12:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:
-- NEW: To another the working of miracles; to another prophecy; to another doubting of spirits; to another divers kinds of tongues; to another the interpretation of tongues:
 
 ## discharge → send — Ecclesiastes 8:8
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -5840,21 +4060,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And wherefore discourage ye the heart of the children of Israel from going over into the land which the Lord hath given them?
 - NEW: And wherefore nought ye the heart of the children of Israel from going over into the land which the Lord hath given them?
 
-## discovereth → revealeth — Job 12:22
-- source: Webster alignment (word in KJV same testament)
-- OLD: He discovereth deep things out of darkness, and bringeth out to light the shadow of death.
-- NEW: He revealeth deep things out of darkness, and bringeth out to light the shadow of death.
-
-## discovereth → openeth — Psalms 29:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The voice of the Lord maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of his glory.
-- NEW: The voice of the Lord maketh the hinds to calve, and openeth the forests: and in his temple doth every one speak of his glory.
-
-## discovering → spreading — Habakkuk 3:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
-- NEW: Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by spreading the foundation unto the neck. Selah.
-
 ## discreetly → wisely — Mark 12:34
 - source: King James agent selection
 - OLD: And when Jesus saw that he answered discreetly, he said unto him, Thou art not far from the kingdom of God. And no man after that durst ask him any question.
@@ -5880,30 +4085,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Do not abhor us, for thy name’s sake, do not disgrace the throne of thy glory: remember, break not thy covenant with us.
 - NEW: Do not abhor us, for thy name’s sake, do not away the throne of thy glory: remember, break not thy covenant with us.
 
-## disguiseth → covereth — Job 24:15
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face.
-- NEW: The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and covereth his face.
-
-## dishonest → unjust — Ezekiel 22:13
-- source: King James agent selection
-- OLD: Behold, therefore I have smitten mine hand at thy dishonest gain which thou hast made, and at thy blood which hath been in the midst of thee.
-- NEW: Behold, therefore I have smitten mine hand at thy unjust gain which thou hast made, and at thy blood which hath been in the midst of thee.
-
-## dishonest → unjust — Ezekiel 22:27
-- source: King James agent selection
-- OLD: Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain.
-- NEW: Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get unjust gain.
-
 ## dishonesty → shame — II Corinthians 4:2
 - source: YLT alignment (word in KJV same testament)
 - OLD: But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
 - NEW: But have renounced the hidden things of shame, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
-
-## dishonourest → shamest — Romans 2:23
-- source: King James agent selection
-- OLD: Thou that makest thy boast of the law, through breaking the law dishonourest thou God?
-- NEW: Thou that makest thy boast of the law, through breaking the law shamest thou God?
 
 ## disinherit → drive — Numbers 14:12
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -5979,16 +4164,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?
 - NEW: Where is the wise? where is the scribe? where is the reasoner of this world? hath not God made foolish the wisdom of this world?
-
-## disputings → thoughts — Philippians 2:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Do all things without murmurings and disputings:
-- NEW: Do all things without murmurings and thoughts:
-
-## disputings → thoughts — I Timothy 6:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
-- NEW: Perverse thoughts of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
 
 ## disquiet → trouble — Jeremiah 50:34
 - source: UKJV alignment (word in KJV same testament)
@@ -6075,11 +4250,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction.
 - NEW: And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without care.
 
-## distributeth → flattereth — Job 21:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger.
-- NEW: How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God flattereth sorrows in his anger.
-
 ## distribution → fellowship — Acts 4:35
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need.
@@ -6090,30 +4260,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men; 
 - NEW: Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal fellowship unto them, and unto all men; 
 
-## ditches → trenches — II Kings 3:16
-- source: King James agent selection
-- OLD: And he said, Thus saith the Lord, Make this valley full of ditches.
-- NEW: And he said, Thus saith the Lord, Make this valley full of trenches.
-
 ## divider → ??? — Luke 12:14
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And he said unto him, Man, who made me a judge or a divider over you?
 - NEW: And he said unto him, Man, who made me a judge or a divider over you?
-
-## divinations → rewards — Ezekiel 13:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I am the Lord. 
-- NEW: Therefore ye shall see no more vanity, nor divine rewards: for I will deliver my people out of your hand: and ye shall know that I am the Lord. 
-
-## divineth → useth — Genesis 44:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Is not this it in which my lord drinketh, and whereby indeed he divineth? ye have done evil in so doing.
-- NEW: Is not this it in which my lord drinketh, and whereby indeed he useth? ye have done evil in so doing.
-
-## divining → making — Ezekiel 22:28
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord God, when the Lord hath not spoken.
-- NEW: And her prophets have daubed them with untempered morter, seeing vanity, and making lies unto them, saying, Thus saith the Lord God, when the Lord hath not spoken.
 
 ## divorce → divorcement — Jeremiah 3:8
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -6135,16 +4285,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judea, and Jerusalem: and the power of the Lord was present to heal them.
 - NEW: And it came to pass on a certain day, as he was teaching, that there were Pharisees and teachers of the law sitting by, which were come out of every town of Galilee, and Judea, and Jerusalem: and the power of the Lord was present to heal them.
 
-## dog's → dogs — II Samuel 3:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then was Abner very wroth for the words of Ish–bosheth, and said, Am I a dog’s head, which against Judah do shew kindness this day unto the house of Saul thy father, to his brethren, and to his friends, and have not delivered thee into the hand of David, that thou chargest me to day with a fault concerning this woman?
-- NEW: Then was Abner very wroth for the words of Ish–bosheth, and said, Am I a dog’s head, which against Judah do shew kindness this day unto the house of Saul thy father, to his brethren, and to his friends, and have not delivered thee into the hand of David, that thou chargest me to day with a fault concerning this woman?
-
-## dog's → dogs — Isaiah 66:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that killeth an ox is as if he slew a man; he that sacrificeth a lamb, as if he cut off a dog’s neck; he that offereth an oblation, as if he offered swine’s blood; he that burneth incense, as if he blessed an idol. Yea, they have chosen their own ways, and their soul delighteth in their abominations.
-- NEW: He that killeth an ox is as if he slew a man; he that sacrificeth a lamb, as if he cut off a dog’s neck; he that offereth an oblation, as if he offered swine’s blood; he that burneth incense, as if he blessed an idol. Yea, they have chosen their own ways, and their soul delighteth in their abominations.
-
 ## doleful → creature — Isaiah 13:21
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.
@@ -6154,16 +4294,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: Webster alignment (word in KJV same testament)
 - OLD: In that day shall one take up a parable against you, and lament with a doleful lamentation, and say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed it from me! turning away he hath divided our fields.
 - NEW: In that day shall one take up a parable against you, and lament with a grievous lamentation, and say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed it from me! turning away he hath divided our fields.
-
-## dominions → governments — Daniel 7:27
-- source: King James agent selection
-- OLD: And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
-- NEW: And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all governments shall serve and obey him.
-
-## dominions → governments — Colossians 1:16
-- source: King James agent selection
-- OLD: For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
-- NEW: For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or governments, or principalities, or powers: all things were created by him, and for him:
 
 ## doorkeeper → porter — Psalms 84:10
 - source: King James agent selection
@@ -6195,11 +4325,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;
 - NEW: Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;
 
-## doubteth → maketh — Romans 14:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. 
-- NEW: And he that maketh is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. 
-
 ## doubtful → mind — Luke 12:29
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind.
@@ -6209,21 +4334,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Him that is weak in the faith receive ye, but not to doubtful disputations.
 - NEW: Him that is weak in the faith receive ye, but not to mind disputations.
-
-## doubts → joints — Daniel 5:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
-- NEW: Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of joints, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
-
-## doubts → joints — Daniel 5:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and have a chain of gold about thy neck, and shalt be the third ruler in the kingdom.
-- NEW: And I have heard of thee, that thou canst make interpretations, and dissolve joints: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and have a chain of gold about thy neck, and shalt be the third ruler in the kingdom.
-
-## dove's → dungs — II Kings 6:25
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And there was a great famine in Samaria: and, behold, they besieged it, until an ass’s head was sold for fourscore pieces of silver, and the fourth part of a cab of dove’s dung for five pieces of silver.
-- NEW: And there was a great famine in Samaria: and, behold, they besieged it, until an ass’s head was sold for fourscore pieces of silver, and the fourth part of a cab of dove’s dung for five pieces of silver.
 
 ## downsitting → dwelling — Psalms 139:2
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -6250,31 +4360,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Your little ones, your wives, and thy stranger that is in thy camp, from the hewer of thy wood unto the drawer of thy water:
 - NEW: Your little ones, your wives, and thy stranger that is in thy camp, from the hewer of thy wood unto the draw of thy water:
 
-## drawing → falling — Judges 5:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: They that are delivered from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the Lord, even the righteous acts toward the inhabitants of his villages in Israel: then shall the people of the Lord go down to the gates.
-- NEW: They that are delivered from the noise of archers in the places of falling water, there shall they rehearse the righteous acts of the Lord, even the righteous acts toward the inhabitants of his villages in Israel: then shall the people of the Lord go down to the gates.
-
-## drawing → coming — John 6:19
-- source: YLT alignment (word in KJV same testament)
-- OLD: So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.
-- NEW: So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and coming nigh unto the ship: and they were afraid.
-
-## dreamers → dreams — Jeremiah 27:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Therefore hearken not ye to your prophets, nor to your diviners, nor to your dreamers, nor to your enchanters, nor to your sorcerers, which speak unto you, saying, Ye shall not serve the king of Babylon:
-- NEW: Therefore hearken not ye to your prophets, nor to your diviners, nor to your dreams, nor to your enchanters, nor to your sorcerers, which speak unto you, saying, Ye shall not serve the king of Babylon:
-
-## dreamers → dreams — Jude 1:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
-- NEW: Likewise also these filthy dreams defile the flesh, despise dominion, and speak evil of dignities.
-
-## dreameth → dreams — Isaiah 29:8
-- source: UKJV alignment (word in KJV same testament)
-- OLD: It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.
-- NEW: It shall even be as when an hungry man dreams, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreams, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.
-
 ## dresser → vineyard — Luke 13:7
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?
@@ -6285,16 +4370,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Also he built towers in the desert, and digged many wells: for he had much cattle, both in the low country, and in the plains: husbandmen also, and vine dressers in the mountains, and in Carmel: for he loved husbandry.
 - NEW: Also he built towers in the desert, and digged many wells: for he had much cattle, both in the low country, and in the plains: husbandmen also, and vine vinedressers in the mountains, and in Carmel: for he loved husbandry.
 
-## dresseth → pleaseth — Exodus 30:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it.
-- NEW: And Aaron shall burn thereon sweet incense every morning: when he pleaseth the lamps, he shall burn incense upon it.
-
-## drewest → comest — Lamentations 3:57
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou drewest near in the day that I called upon thee: thou saidst, Fear not.
-- NEW: Thou comest near in the day that I called upon thee: thou saidst, Fear not.
-
 ## driedst → dry — Psalms 74:15
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.
@@ -6304,11 +4379,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.
 - NEW: Awake, ye drunkards, and weep; and howl, all ye theirs of wine, because of the new wine; for it is cut off from your mouth.
-
-## drinks → drink — Hebrews 9:10
-- source: King James agent selection
-- OLD: Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.
-- NEW: Which stood only in meats and drink, and divers washings, and carnal ordinances, imposed on them until the time of reformation.
 
 ## driver → oppressor — I Kings 22:34
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -6325,20 +4395,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: How canst thou say, I am not polluted, I have not gone after Baalim? see thy way in the valley, know what thou hast done: thou art a swift dromedary traversing her ways;
 - NEW: How canst thou say, I am not polluted, I have not gone after Baalim? see thy way in the valley, know what thou hast done: thou art a swift camel traversing her ways;
 
-## droppeth → drops — Ecclesiastes 10:18
-- source: UKJV alignment (word in KJV same testament)
-- OLD: By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.
-- NEW: By much slothfulness the building decayeth; and through idleness of the hands the house drops through.
-
 ## dropsy → ??? — Luke 14:2
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And, behold, there was a certain man before him which had the dropsy.
 - NEW: And, behold, there was a certain man before him which had the dropsy.
-
-## droves → herds — Genesis 32:19
-- source: King James agent selection
-- OLD: And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him.
-- NEW: And so commanded he the second, and the third, and all that followed the herds, saying, On this manner shall ye speak unto Esau, when ye find him.
 
 ## drown → overflow — Song of Solomon 8:7
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -6360,16 +4420,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the Lord shall utterly destroy the tongue of the Egyptian sea; and with his mighty wind shall he shake his hand over the river, and shall smite it in the seven streams, and make men go over dryshod.
 - NEW: And the Lord shall utterly destroy the tongue of the Egyptian sea; and with his mighty wind shall he shake his hand over the river, and shall smite it in the seven streams, and make men go over shoe.
 
-## dues → duty — Romans 13:7
-- source: King James agent selection
-- OLD: Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.
-- NEW: Render therefore to all their duty: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.
-
-## dunghills → dunghill — Lamentations 4:5
-- source: King James agent selection
-- OLD: They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.
-- NEW: They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghill.
-
 ## durable → enduring — Proverbs 8:18
 - source: King James agent selection
 - OLD: Riches and honour are with me; yea, durable riches and righteousness.
@@ -6385,55 +4435,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.
 - NEW: Yet hath he not root in himself, but endureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.
 
-## duties → statutes — Ezekiel 18:11
-- source: King James agent selection
-- OLD: And that doeth not any of those duties, but even hath eaten upon the mountains, and defiled his neighbour’s wife,
-- NEW: And that doeth not any of those statutes, but even hath eaten upon the mountains, and defiled his neighbour’s wife,
-
 ## dwarf → thin — Leviticus 21:20
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;
 - NEW: Or crookbackt, or a thin, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;
 
-## eagle's → eagles — Psalms 103:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s.
-- NEW: Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s.
-
-## eagle's → eagles — Daniel 7:4
-- source: Webster alignment (word in KJV same testament)
-- OLD: The first was like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it.
-- NEW: The first was like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it.
-
-## eared → served — Deuteronomy 21:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:
-- NEW: And the elders of that city shall bring down the heifer unto a rough valley, which is neither served nor sown, and shall strike off the heifer’s neck there in the valley:
-
-## earing → tillage — Genesis 45:6
-- source: Webster alignment (word in KJV same testament)
-- OLD: For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be earing nor harvest.
-- NEW: For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be tillage nor harvest.
-
-## earing → earring — Exodus 34:21
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.
-- NEW: Six days thou shalt work, but on the seventh day thou shalt rest: in earring time and in harvest thou shalt rest.
-
 ## earneth → rewardeth — Haggai 1:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.
 - NEW: Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that rewardeth wages rewardeth wages to put it into a bag with holes.
-
-## eased → walked — Job 16:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Though I speak, my grief is not asswaged: and though I forbear, what am I eased?
-- NEW: Though I speak, my grief is not asswaged: and though I forbear, what am I walked?
-
-## eased → walked — II Corinthians 8:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For I mean not that other men be eased, and ye burdened:
-- NEW: For I mean not that other men be walked, and ye burdened:
 
 ## easily → quickly — I Corinthians 13:5
 - source: King James agent selection
@@ -6445,30 +4455,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,
 - NEW: Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so greatly beset us, and let us run with patience the race that is set before us,
 
-## eaters → riotous — Proverbs 23:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Be not among winebibbers; among riotous eaters of flesh:
-- NEW: Be not among winebibbers; among riotous riotous of flesh:
-
 ## ebony → ??? — Ezekiel 27:15
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: The men of Dedan were thy merchants; many isles were the merchandise of thine hand: they brought thee for a present horns of ivory and ebony.
 - NEW: The men of Dedan were thy merchants; many isles were the merchandise of thine hand: they brought thee for a present horns of ivory and ebony.
-
-## edified → builded — Acts 9:31
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then had the churches rest throughout all Judea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.
-- NEW: Then had the churches rest throughout all Judea and Galilee and Samaria, and were builded; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.
-
-## edified → builded — I Corinthians 14:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For thou verily givest thanks well, but the other is not edified.
-- NEW: For thou verily givest thanks well, but the other is not builded.
-
-## effected → prospered — II Chronicles 7:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thus Solomon finished the house of the Lord, and the king’s house: and all that came into Solomon’s heart to make in the house of the Lord, and in his own house, he prosperously effected.
-- NEW: Thus Solomon finished the house of the Lord, and the king’s house: and all that came into Solomon’s heart to make in the house of the Lord, and in his own house, he prosperously prospered.
 
 ## effectually → mightily — Galatians 2:8
 - source: King James agent selection
@@ -6500,11 +4490,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which is the second month, that he began to build the house of the Lord.
 - NEW: And it came to pass in the four hundred and fourscoreeth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which is the second month, that he began to build the house of the Lord.
 
-## elected → chosen — I Peter 5:13
-- source: King James agent selection
-- OLD: The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son.
-- NEW: The church that is at Babylon, chosen together with you, saluteth you; and so doth Marcus my son.
-
 ## elms → trees — Hosea 4:13
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery.
@@ -6525,16 +4510,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Shall vain words have an end? or what emboldeneth thee that thou answerest?
 - NEW: Shall vain words have an end? or what provoketh thee that thou answerest?
 
-## embracing → folding — Ecclesiastes 3:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;
-- NEW: A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from folding;
-
-## embracing → folding — Acts 20:10
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: And Paul went down, and fell on him, and embracing him said, Trouble not yourselves; for his life is in him.
-- NEW: And Paul went down, and fell on him, and folding him said, Trouble not yourselves; for his life is in him.
-
 ## embroider → set — Exodus 28:39
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And thou shalt embroider the coat of fine linen, and thou shalt make the mitre of fine linen, and thou shalt make the girdle of needlework.
@@ -6549,11 +4524,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And with him was Aholiab, son of Ahisamach, of the tribe of Dan, an engraver, and a cunning workman, and an embroiderer in blue, and in purple, and in scarlet, and fine linen.
 - NEW: And with him was Aholiab, son of Ahisamach, of the tribe of Dan, an engraver, and a cunning workman, and an needlework in blue, and in purple, and in scarlet, and fine linen.
-
-## emeralds → emerald — Ezekiel 27:16
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Syria was thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.
-- NEW: Syria was thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emerald, purple, and broidered work, and fine linen, and coral, and agate.
 
 ## empire → kingdom — Esther 1:20
 - source: YLT alignment (word in KJV same testament)
@@ -6605,21 +4575,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;
 - NEW: And I thank Christ Jesus our Lord, who hath increased me, for that he counted me faithful, putting me into the ministry;
 
-## encampeth → camps — Psalms 34:7
-- source: UKJV alignment (word in KJV same testament)
-- OLD: The angel of the Lord encampeth round about them that fear him, and delivereth them.
-- NEW: The angel of the Lord camps round about them that fear him, and delivereth them.
-
-## encampeth → camps — Psalms 53:5
-- source: UKJV alignment (word in KJV same testament)
-- OLD: There were they in great fear, where no fear was: for God hath scattered the bones of him that encampeth against thee: thou hast put them to shame, because God hath despised them.
-- NEW: There were they in great fear, where no fear was: for God hath scattered the bones of him that camps against thee: thou hast put them to shame, because God hath despised them.
-
-## encamping → abiding — Exodus 14:9
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: But the Egyptians pursued after them, all the horses and chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pi–hahiroth, before Baal–zephon.
-- NEW: But the Egyptians pursued after them, all the horses and chariots of Pharaoh, and his horsemen, and his army, and overtook them abiding by the sea, beside Pi–hahiroth, before Baal–zephon.
-
 ## enchanter → used — Deuteronomy 18:10
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch,
@@ -6664,16 +4619,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.
 - NEW: Give them according to their deeds, and according to the wickedness of their doings: give them after the work of their hands; render to them their desert.
-
-## endeth → ends — Isaiah 24:8
-- source: UKJV alignment (word in KJV same testament)
-- OLD: The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth.
-- NEW: The mirth of tabrets ceaseth, the noise of them that rejoice ends, the joy of the harp ceaseth.
-
-## ending → end — Revelation of John 1:8
-- source: King James agent selection
-- OLD: I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
-- NEW: I am Alpha and Omega, the beginning and the end, saith the Lord, which is, and which was, and which is to come, the Almighty.
 
 ## endless → infinite — I Timothy 1:4
 - source: King James agent selection
@@ -6730,20 +4675,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,
 - NEW: Wherefore, though I might be much bold in Christ to command thee that which is convenient,
 
-## enjoyed → accepted — II Chronicles 36:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: To fulfil the word of the Lord by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
-- NEW: To fulfil the word of the Lord by the mouth of Jeremiah, until the land had accepted her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
-
 ## enlargement → space — Esther 4:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father’s house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?
 - NEW: For if thou altogether holdest thy peace at this time, then shall there space and deliverance arise to the Jews from another place; but thou and thy father’s house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?
-
-## enlarging → making — Ezekiel 41:7
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And there was an enlarging, and a winding about still upward to the side chambers: for the winding about of the house went still upward round about the house: therefore the breadth of the house was still upward, and so increased from the lowest chamber to the highest by the midst.
-- NEW: And there was an making, and a winding about still upward to the side chambers: for the winding about of the house went still upward round about the house: therefore the breadth of the house was still upward, and so increased from the lowest chamber to the highest by the midst.
 
 ## enlighten → shine — Psalms 18:28
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -6754,11 +4689,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: The statutes of the Lord are right, rejoicing the heart: the commandment of the Lord is pure, enlightening the eyes.
 - NEW: The statutes of the Lord are right, rejoicing the heart: the commandment of the Lord is pure, giving the eyes.
-
-## enquirest → seekest — Job 10:6
-- source: King James agent selection
-- OLD: That thou enquirest after mine iniquity, and searchest after my sin?
-- NEW: That thou seekest after mine iniquity, and searchest after my sin?
 
 ## enquiry → inquisition — Proverbs 20:25
 - source: King James agent selection
@@ -6795,11 +4725,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.
 - NEW: Thou visitest the earth, and waterest it: thou greatly makest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.
 
-## ensigns → signs — Psalms 74:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thine enemies roar in the midst of thy congregations; they set up their ensigns for signs.
-- NEW: Thine enemies roar in the midst of thy congregations; they set up their signs for signs.
-
 ## ensnared → snared — Job 34:30
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: That the hypocrite reign not, lest the people be ensnared.
@@ -6835,30 +4760,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.
 - NEW: Be not forgetful to entertain strangers: for thereby some have lodged angels unawares.
 
-## enticeth → flattereth — Proverbs 16:29
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: A violent man enticeth his neighbour, and leadeth him into the way that is not good.
-- NEW: A violent man flattereth his neighbour, and leadeth him into the way that is not good.
-
-## enticing → flattering — I Corinthians 2:4
-- source: King James agent selection
-- OLD: And my speech and my preaching was not with enticing words of man’s wisdom, but in demonstration of the Spirit and of power:
-- NEW: And my speech and my preaching was not with flattering words of man’s wisdom, but in demonstration of the Spirit and of power:
-
-## enticing → flattering — Colossians 2:4
-- source: King James agent selection
-- OLD: And this I say, lest any man should beguile you with enticing words.
-- NEW: And this I say, lest any man should beguile you with flattering words.
-
 ## entire → whole — James 1:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.
 - NEW: But let patience have her perfect work, that ye may be perfect and whole, wanting nothing.
-
-## entrances → gates — Micah 5:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our borders.
-- NEW: And they shall waste the land of Assyria with the sword, and the land of Nimrod in the gates thereof: thus shall he deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our borders.
 
 ## entreat → pray — Jeremiah 15:11
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -6875,16 +4780,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: He evil entreateth the barren that beareth not: and doeth not good to the widow.
 - NEW: He evil feedeth the barren that beareth not: and doeth not good to the widow.
 
-## entries → gates — Ezekiel 40:38
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the chambers and the entries thereof were by the posts of the gates, where they washed the burnt offering.
-- NEW: And the chambers and the gates thereof were by the posts of the gates, where they washed the burnt offering.
-
-## envies → strifes — I Peter 2:1
-- source: King James agent selection
-- OLD: Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
-- NEW: Wherefore laying aside all malice, and all guile, and hypocrisies, and strifes, and all evil speakings,
-
 ## envieth → desireth — I Corinthians 13:4
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
@@ -6894,26 +4789,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For the Canaanites and all the inhabitants of the land shall hear of it, and shall environ us round, and cut off our name from the earth: and what wilt thou do unto thy great name?
 - NEW: For the Canaanites and all the inhabitants of the land shall hear of it, and shall about us round, and cut off our name from the earth: and what wilt thou do unto thy great name?
-
-## envyings → contentions — II Corinthians 12:20
-- source: AKJV alignment (word in KJV same testament)
-- OLD: For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
-- NEW: For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, contentions, wraths, strifes, backbitings, whisperings, swellings, tumults:
-
-## envyings → contentions — Galatians 5:21
-- source: AKJV alignment (word in KJV same testament)
-- OLD: Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.
-- NEW: Contentions, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.
-
-## epistles → letters — II Corinthians 3:1
-- source: AKJV alignment (word in KJV same testament)
-- OLD: Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?
-- NEW: Do we begin again to commend ourselves? or need we, as some others, letters of commendation to you, or letters of commendation from you?
-
-## epistles → letters — II Peter 3:16
-- source: AKJV alignment (word in KJV same testament)
-- OLD: As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
-- NEW: As also in all his letters, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
 
 ## equality → equal — II Corinthians 8:14
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -6925,30 +4800,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: One board had two tenons, equally distant one from another: thus did he make for all the boards of the tabernacle.
 - NEW: One board had two tenons, alike distant one from another: thus did he make for all the boards of the tabernacle.
 
-## equals → fellows — Galatians 1:14
-- source: King James agent selection
-- OLD: And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
-- NEW: And profited in the Jews’ religion above many my fellows in mine own nation, being more exceedingly zealous of the traditions of my fathers.
-
 ## erected → appointed — Genesis 33:20
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And he erected there an altar, and called it El–elohe–Israel. 
 - NEW: And he appointed there an altar, and called it El–elohe–Israel. 
-
-## erreth → causeth — Proverbs 10:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He is in the way of life that keepeth instruction: but he that refuseth reproof erreth.
-- NEW: He is in the way of life that keepeth instruction: but he that refuseth reproof causeth.
-
-## erreth → causeth — Ezekiel 45:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And so thou shalt do the seventh day of the month for every one that erreth, and for him that is simple: so shall ye reconcile the house.
-- NEW: And so thou shalt do the seventh day of the month for every one that causeth, and for him that is simple: so shall ye reconcile the house.
-
-## escaping → deliverance — Ezra 9:14
-- source: King James agent selection
-- OLD: Should we again break thy commandments, and join in affinity with the people of these abominations? wouldest not thou be angry with us till thou hadst consumed us, so that there should be no remnant nor escaping?
-- NEW: Should we again break thy commandments, and join in affinity with the people of these abominations? wouldest not thou be angry with us till thou hadst consumed us, so that there should be no remnant nor deliverance?
 
 ## eschew → way — I Peter 3:11
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -7005,25 +4860,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: After these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself.
 - NEW: After these things, and the truth thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself.
 
-## estates → borders — Ezekiel 36:11
-- source: King James agent selection
-- OLD: And I will multiply upon you man and beast; and they shall increase and bring fruit: and I will settle you after your old estates, and will do better unto you than at your beginnings: and ye shall know that I am the Lord.
-- NEW: And I will multiply upon you man and beast; and they shall increase and bring fruit: and I will settle you after your old borders, and will do better unto you than at your beginnings: and ye shall know that I am the Lord.
-
-## estates → men — Mark 6:21
-- source: Webster alignment (word in KJV same testament)
-- OLD: And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief estates of Galilee;
-- NEW: And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief men of Galilee;
-
 ## estimate → array — Leviticus 27:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And when a man shall sanctify his house to be holy unto the Lord, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.
 - NEW: And when a man shall sanctify his house to be holy unto the Lord, then the priest shall array it, whether it be good or bad: as the priest shall array it, so shall it stand.
-
-## estimations → prices — Leviticus 27:25
-- source: King James agent selection
-- OLD: And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.
-- NEW: And all thy prices shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.
 
 ## eternity → ever — Isaiah 57:15
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -7045,11 +4885,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
 - NEW: And he gave some, apostles; and some, prophets; and some, preachers; and some, pastors and teachers;
 
-## evenings → plains — Jeremiah 5:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Wherefore a lion out of the forest shall slay them, and a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, and their backslidings are increased.
-- NEW: Wherefore a lion out of the forest shall slay them, and a wolf of the plains shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, and their backslidings are increased.
-
 ## eveningtide → evening — II Samuel 11:2
 - source: Webster alignment (word in KJV same testament)
 - OLD: And it came to pass in an eveningtide, that David arose from off his bed, and walked upon the roof of the king’s house: and from the roof he saw a woman washing herself; and the woman was very beautiful to look upon.
@@ -7059,16 +4894,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: AKJV alignment (word in KJV same testament)
 - OLD: And behold at eveningtide trouble; and before the morning he is not. This is the portion of them that spoil us, and the lot of them that rob us. 
 - NEW: And behold at evening trouble; and before the morning he is not. This is the portion of them that spoil us, and the lot of them that rob us. 
-
-## evidences → books — Jeremiah 32:14
-- source: YLT alignment (word in KJV same testament)
-- OLD: Thus saith the Lord of hosts, the God of Israel; Take these evidences, this evidence of the purchase, both which is sealed, and this evidence which is open; and put them in an earthen vessel, that they may continue many days.
-- NEW: Thus saith the Lord of hosts, the God of Israel; Take these books, this evidence of the purchase, both which is sealed, and this evidence which is open; and put them in an earthen vessel, that they may continue many days.
-
-## evidences → writings — Jeremiah 32:44
-- source: King James agent selection
-- OLD: Men shall buy fields for money, and subscribe evidences, and seal them, and take witnesses in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, and in the cities of the mountains, and in the cities of the valley, and in the cities of the south: for I will cause their captivity to return, saith the Lord. 
-- NEW: Men shall buy fields for money, and subscribe writings, and seal them, and take witnesses in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, and in the cities of the mountains, and in the cities of the valley, and in the cities of the south: for I will cause their captivity to return, saith the Lord. 
 
 ## evidently → openly — Acts 10:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -7095,21 +4920,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Thou shalt not sacrifice unto the Lord thy God any bullock, or sheep, wherein is blemish, or any evilfavouredness: for that is an abomination unto the Lord thy God.
 - NEW: Thou shalt not sacrifice unto the Lord thy God any bullock, or sheep, wherein is blemish, or any wickedness: for that is an abomination unto the Lord thy God.
 
-## exacted → departed — II Kings 15:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Menahem exacted the money of Israel, even of all the mighty men of wealth, of each man fifty shekels of silver, to give to the king of Assyria. So the king of Assyria turned back, and stayed not there in the land.
-- NEW: And Menahem departed the money of Israel, even of all the mighty men of wealth, of each man fifty shekels of silver, to give to the king of Assyria. So the king of Assyria turned back, and stayed not there in the land.
-
-## exacted → departed — II Kings 23:35
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give it unto Pharaoh–nechoh.
-- NEW: And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he departed the silver and the gold of the people of the land, of every one according to his taxation, to give it unto Pharaoh–nechoh.
-
-## exacteth → requireth — Job 11:6
-- source: King James agent selection
-- OLD: And that he would shew thee the secrets of wisdom, that they are double to that which is! Know therefore that God exacteth of thee less than thine iniquity deserveth.
-- NEW: And that he would shew thee the secrets of wisdom, that they are double to that which is! Know therefore that God requireth of thee less than thine iniquity deserveth.
-
 ## exaction → usury — Nehemiah 10:31
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And if the people of the land bring ware or any victuals on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the exaction of every debt.
@@ -7125,50 +4935,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine exactors righteousness.
 - NEW: For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine taskmasters righteousness.
 
-## exaltest → castest — Exodus 9:17
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: As yet exaltest thou thyself against my people, that thou wilt not let them go?
-- NEW: As yet castest thou thyself against my people, that thou wilt not let them go?
-
 ## examination → trial — Acts 25:26
 - source: King James agent selection
 - OLD: Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after examination had, I might have somewhat to write.
 - NEW: Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after trial had, I might have somewhat to write.
-
-## examining → asking — Acts 24:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Commanding his accusers to come unto thee: by examining of whom thyself mayest take knowledge of all these things, whereof we accuse him.
-- NEW: Commanding his accusers to come unto thee: by asking of whom thyself mayest take knowledge of all these things, whereof we accuse him.
-
-## examples → ensamples — I Corinthians 10:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.
-- NEW: Now these things were our ensamples, to the intent we should not lust after evil things, as they also lusted.
-
-## exceedest → mayest — II Chronicles 9:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Howbeit I believed not their words, until I came, and mine eyes had seen it: and, behold, the one half of the greatness of thy wisdom was not told me: for thou exceedest the fame that I heard.
-- NEW: Howbeit I believed not their words, until I came, and mine eyes had seen it: and, behold, the one half of the greatness of thy wisdom was not told me: for thou mayest the fame that I heard.
-
-## exceedeth → exceed — I Kings 10:7
-- source: Webster alignment (word in KJV same testament)
-- OLD: Howbeit I believed not the words, until I came, and mine eyes had seen it: and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard.
-- NEW: Howbeit I believed not the words, until I came, and mine eyes had seen it: and, behold, the half was not told me: thy wisdom and prosperity exceed the fame which I heard.
-
-## excelled → multiplied — I Kings 4:30
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.
-- NEW: And Solomon’s wisdom multiplied the wisdom of all the children of the east country, and all the wisdom of Egypt.
-
-## excellest → wentest — Proverbs 31:29
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Many daughters have done virtuously, but thou excellest them all.
-- NEW: Many daughters have done virtuously, but thou wentest them all.
-
-## excepted → excluded — I Corinthians 15:27
-- source: King James agent selection
-- OLD: For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him.
-- NEW: For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excluded, which did put all things under him.
 
 ## exchangers → usurers — Matthew 25:27
 - source: King James agent selection
@@ -7185,21 +4955,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.
 - NEW: Where is boasting then? It is abolished. By what law? of works? Nay: but by the law of faith.
 
-## excused → entreated — Luke 14:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they all with one consent began to make excuse. The first said unto him, I have bought a piece of ground, and I must needs go and see it: I pray thee have me excused.
-- NEW: And they all with one consent began to make excuse. The first said unto him, I have bought a piece of ground, and I must needs go and see it: I pray thee have me entreated.
-
-## excused → entreated — Luke 14:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused.
-- NEW: And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me entreated.
-
-## excusing → answering — Romans 2:15
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)
-- NEW: Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else answering one another;)
-
 ## execration → oath — Jeremiah 42:18
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For thus saith the Lord of hosts, the God of Israel; As mine anger and my fury hath been poured forth upon the inhabitants of Jerusalem; so shall my fury be poured forth upon you, when ye shall enter into Egypt: and ye shall be an execration, and an astonishment, and a curse, and a reproach; and ye shall see this place no more.
@@ -7215,11 +4970,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Because thou obeyedst not the voice of the Lord, nor executedst his fierce wrath upon Amalek, therefore hath the Lord done this thing unto thee this day.
 - NEW: Because thou obeyedst not the voice of the Lord, nor execute his fierce wrath upon Amalek, therefore hath the Lord done this thing unto thee this day.
 
-## executest → mayest — Psalms 99:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.
-- NEW: The king’s strength also loveth judgment; thou dost establish equity, thou mayest judgment and righteousness in Jacob.
-
 ## execution → thee — Esther 9:1
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Now in the twelfth month, that is, the month Adar, on the thirteenth day of the same, when the king’s commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;)
@@ -7234,16 +4984,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Then king Asa made a proclamation throughout all Judah; none was exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.
 - NEW: Then king Asa made a proclamation throughout all Judah; none was excused: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.
-
-## exerciseth → bringeth — Revelation of John 13:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
-- NEW: And he bringeth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
-
-## exhorteth → comforteth — Romans 12:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
-- NEW: Or he that comforteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
 
 ## exile → away — II Samuel 15:19
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -7350,16 +5090,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are extinct, they are quenched as tow.
 - NEW: Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are put, they are quenched as tow.
 
-## extolled → lifted — Psalms 66:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I cried unto him with my mouth, and he was extolled with my tongue.
-- NEW: I cried unto him with my mouth, and he was lifted with my tongue.
-
-## extolled → lifted — Isaiah 52:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.
-- NEW: Behold, my servant shall deal prudently, he shall be exalted and lifted, and be very high.
-
 ## extortion → oppression — Ezekiel 22:12
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: In thee have they taken gifts to shed blood; thou hast taken usury and increase, and thou hast greedily gained of thy neighbours by extortion, and hast forgotten me, saith the Lord God.
@@ -7380,25 +5110,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But now, because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:
 - NEW: But now, because it is not so, he hath visited in his anger; yet he knoweth it not in great affliction:
 
-## eye's → eyes — Exodus 21:26
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake.
-- NEW: And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake.
-
 ## eyebrows → rings — Leviticus 14:9
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, also he shall wash his flesh in water, and he shall be clean.
 - NEW: But it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his rings, even all his hair he shall shave off: and he shall wash his clothes, also he shall wash his flesh in water, and he shall be clean.
-
-## eyed → thine — Genesis 29:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Leah was tender eyed; but Rachel was beautiful and well favoured.
-- NEW: Leah was tender thine; but Rachel was beautiful and well favoured.
-
-## eyed → thine — I Samuel 18:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Saul eyed David from that day and forward.
-- NEW: And Saul thine David from that day and forward.
 
 ## eyesalve → ??? — Revelation of John 3:18
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -7430,26 +5145,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
 - NEW: For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were witnesses of his majesty.
 
-## fading → falling — Isaiah 28:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty is a fading flower, which are on the head of the fat valleys of them that are overcome with wine!
-- NEW: Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty is a falling flower, which are on the head of the fat valleys of them that are overcome with wine!
-
-## fading → falling — Isaiah 28:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the glorious beauty, which is on the head of the fat valley, shall be a fading flower, and as the hasty fruit before the summer; which when he that looketh upon it seeth, while it is yet in his hand he eateth it up.
-- NEW: And the glorious beauty, which is on the head of the fat valley, shall be a falling flower, and as the hasty fruit before the summer; which when he that looketh upon it seeth, while it is yet in his hand he eateth it up.
-
-## failing → faintness — Deuteronomy 28:65
-- source: King James agent selection
-- OLD: And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:
-- NEW: And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the Lord shall give thee there a trembling heart, and faintness of eyes, and sorrow of mind:
-
-## failing → fainting — Luke 21:26
-- source: King James agent selection
-- OLD: Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.
-- NEW: Men’s hearts fainting them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.
-
 ## fain → fled — Job 27:22
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For God shall cast upon him, and not spare: he would fain flee out of his hand.
@@ -7460,20 +5155,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.
 - NEW: And he would fled have filled his belly with the husks that the swine did eat: and no man gave unto him.
 
-## faintest → fallest — Job 4:5
-- source: King James agent selection
-- OLD: But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.
-- NEW: But now it is come upon thee, and thou fallest; it toucheth thee, and thou art troubled.
-
 ## faintness → trembling — Leviticus 26:36
 - source: King James agent selection
 - OLD: And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.
 - NEW: And upon them that are left alive of you I will send a trembling into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.
-
-## fallest → shouldest — Jeremiah 37:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when he was in the gate of Benjamin, a captain of the ward was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou fallest away to the Chaldeans.
-- NEW: And when he was in the gate of Benjamin, a captain of the ward was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou shouldest away to the Chaldeans.
 
 ## fallowdeer → fallow — I Kings 4:23
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -7484,11 +5169,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Saying, When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and falsifying the balances by deceit?
 - NEW: Saying, When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and turning the balances by deceit?
-
-## familiars → persons — Jeremiah 20:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
-- NEW: For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my persons watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
 
 ## famish → hungry — Proverbs 10:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -7515,11 +5195,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And will send unto Babylon fanners, that shall fan her, and shall empty her land: for in the day of trouble they shall be against her round about.
 - NEW: And will send unto Babylon strangers, that shall fan her, and shall empty her land: for in the day of trouble they shall be against her round about.
 
-## fared → rejoiced — Luke 16:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:
-- NEW: There was a certain rich man, which was clothed in purple and fine linen, and rejoiced sumptuously every day:
-
 ## farm → field — Matthew 22:5
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But they made light of it, and went their ways, one to his farm, another to his merchandise:
@@ -7529,31 +5204,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: Webster alignment (word in KJV same testament)
 - OLD: And he arose from thence, and cometh into the coasts of Judea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
 - NEW: And he arose from thence, and cometh into the coasts of Judea by the further side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
-
-## farthings → pence — Luke 12:6
-- source: King James agent selection
-- OLD: Are not five sparrows sold for two farthings, and not one of them is forgotten before God?
-- NEW: Are not five sparrows sold for two pence, and not one of them is forgotten before God?
-
-## fashioning → conforming — I Peter 1:14
-- source: King James agent selection
-- OLD: As obedient children, not fashioning yourselves according to the former lusts in your ignorance:
-- NEW: As obedient children, not conforming yourselves according to the former lusts in your ignorance:
-
-## fashions → judgments — Ezekiel 42:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the way before them was like the appearance of the chambers which were toward the north, as long as they, and as broad as they: and all their goings out were both according to their fashions, and according to their doors.
-- NEW: And the way before them was like the appearance of the chambers which were toward the north, as long as they, and as broad as they: and all their goings out were both according to their judgments, and according to their doors.
-
-## fastening → beholding — Acts 3:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Peter, fastening his eyes upon him with John, said, Look on us.
-- NEW: And Peter, beholding his eyes upon him with John, said, Look on us.
-
-## fastest → fast — Matthew 6:17
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: But thou, when thou fastest, anoint thine head, and wash thy face;
-- NEW: But thou, when thou fast, anoint thine head, and wash thy face;
 
 ## fatfleshed → fat — Genesis 41:2
 - source: AKJV alignment (word in KJV same testament)
@@ -7575,30 +5225,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
 - NEW: The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fating together; and a little child shall lead them.
 
-## fats → winepress — Joel 2:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the floors shall be full of wheat, and the fats shall overflow with wine and oil.
-- NEW: And the floors shall be full of wheat, and the winepress shall overflow with wine and oil.
-
-## fats → winepress — Joel 3:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.
-- NEW: Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the winepress overflow; for their wickedness is great.
-
 ## fatter → fat — Daniel 1:15
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king’s meat.
 - NEW: And at the end of ten days their countenances appeared fairer and fat in flesh than all the children which did eat the portion of the king’s meat.
-
-## fattest → strongest — Psalms 78:31
-- source: King James agent selection
-- OLD: The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel.
-- NEW: The wrath of God came upon them, and slew the strongest of them, and smote down the chosen men of Israel.
-
-## fattest → richest — Daniel 11:24
-- source: King James agent selection
-- OLD: He shall enter peaceably even upon the fattest places of the province; and he shall do that which his fathers have not done, nor his fathers’ fathers; he shall scatter among them the prey, and spoil, and riches: yea, and he shall forecast his devices against the strong holds, even for a time.
-- NEW: He shall enter peaceably even upon the richest places of the province; and he shall do that which his fathers have not done, nor his fathers’ fathers; he shall scatter among them the prey, and spoil, and riches: yea, and he shall forecast his devices against the strong holds, even for a time.
 
 ## faultless → blameless — Hebrews 8:7
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -7620,25 +5250,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images.
 - NEW: Their heart is divided; now shall they be found guilty: he shall break down their altars, he shall spoil their images.
 
-## favourest → lovest — Psalms 41:11
-- source: King James agent selection
-- OLD: By this I know that thou favourest me, because mine enemy doth not triumph over me.
-- NEW: By this I know that thou lovest me, because mine enemy doth not triumph over me.
-
-## favoureth → delighteth — II Samuel 20:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And one of Joab’s men stood by him, and said, He that favoureth Joab, and he that is for David, let him go after Joab.
-- NEW: And one of Joab’s men stood by him, and said, He that delighteth Joab, and he that is for David, let him go after Joab.
-
 ## fearfully → curiously — Psalms 139:14
 - source: King James agent selection
 - OLD: I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
 - NEW: I will praise thee; for I am curiously and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
-
-## feasted → banqueted — Job 1:4
-- source: King James agent selection
-- OLD: And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.
-- NEW: And his sons went and banqueted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.
 
 ## feathered → ended — Psalms 78:27
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -7665,70 +5280,25 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But when the cattle were feeble, he put them not in: so the feebler were Laban’s, and the stronger Jacob’s.
 - NEW: But when the cattle were feeble, he put them not in: so the feeble were Laban’s, and the stronger Jacob’s.
 
-## feedest → mayest — Psalms 80:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou feedest them with the bread of tears; and givest them tears to drink in great measure.
-- NEW: Thou mayest them with the bread of tears; and givest them tears to drink in great measure.
-
-## feedest → mayest — Song of Solomon 1:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?
-- NEW: Tell me, O thou whom my soul loveth, where thou mayest, where thou makest thy flock to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?
-
 ## feedingplace → pasture — Nahum 2:11
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Where is the dwelling of the lions, and the feedingplace of the young lions, where the lion, even the old lion, walked, and the lion’s whelp, and none made them afraid?
 - NEW: Where is the dwelling of the lions, and the pasture of the young lions, where the lion, even the old lion, walked, and the lion’s whelp, and none made them afraid?
-
-## feeling → touching — Ephesians 4:19
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.
-- NEW: Who being past touching have given themselves over unto lasciviousness, to work all uncleanness with greediness.
-
-## feeling → touching — Hebrews 4:15
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
-- NEW: For we have not an high priest which cannot be touched with the touching of our infirmities; but was in all points tempted like as we are, yet without sin.
 
 ## feignedly → falsely — Jeremiah 3:10
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the Lord.
 - NEW: And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but falsely, saith the Lord.
 
-## feignest → shouldest — I Kings 14:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another? for I am sent to thee with heavy tidings.
-- NEW: And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why shouldest thou thyself to be another? for I am sent to thee with heavy tidings.
-
-## feignest → shouldest — Nehemiah 6:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then I sent unto him, saying, There are no such things done as thou sayest, but thou feignest them out of thine own heart.
-- NEW: Then I sent unto him, saying, There are no such things done as thou sayest, but thou shouldest them out of thine own heart.
-
-## felled → failed — II Kings 3:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kir–haraseth left they the stones thereof; howbeit the slingers went about it, and smote it.
-- NEW: And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and failed all the good trees: only in Kir–haraseth left they the stones thereof; howbeit the slingers went about it, and smote it.
-
 ## feller → cut — Isaiah 14:8
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.
 - NEW: Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no cut is come up against us.
 
-## felling → falling — II Kings 6:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.
-- NEW: But as one was falling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.
-
 ## felloes → fellies — I Kings 7:33
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, were all molten.
 - NEW: And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their fellies, and their spokes, were all molten.
-
-## fellow's → friends — II Samuel 2:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they caught every one his fellow by the head, and thrust his sword in his fellow’s side; so they fell down together: wherefore that place was called Helkath–hazzurim, which is in Gibeon.
-- NEW: And they caught every one his fellow by the head, and thrust his sword in his fellow’s side; so they fell down together: wherefore that place was called Helkath–hazzurim, which is in Gibeon.
 
 ## fellowcitizens → citizens — Ephesians 2:19
 - source: King James agent selection
@@ -7830,11 +5400,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:
 - NEW: Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart earnestly:
 
-## fetcheth → maketh — Deuteronomy 19:5
-- source: Webster alignment (word in KJV same testament)
-- OLD: As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:
-- NEW: As when a man goeth into the wood with his neighbour to hew wood, and his hand maketh a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:
-
 ## fetcht → fetched — Genesis 18:7
 - source: UKJV alignment (word in KJV same testament)
 - OLD: And Abraham ran unto the herd, and fetcht a calf tender and good, and gave it unto a young man; and he hasted to dress it.
@@ -7844,11 +5409,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: YLT alignment (word in KJV same testament)
 - OLD: And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.
 - NEW: And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the few ye shall give the less inheritance: every man’s inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.
-
-## fewest → few — Deuteronomy 7:7
-- source: UKJV alignment (word in KJV same testament)
-- OLD: The Lord did not set his love upon you, nor choose you, because ye were more in number than any people; for ye were the fewest of all people:
-- NEW: The Lord did not set his love upon you, nor choose you, because ye were more in number than any people; for ye were the few of all people:
 
 ## fewness → less — Leviticus 25:16
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -7865,16 +5425,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel. 
 - NEW: And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were hard than the words of the men of Israel. 
 
-## fightings → strivings — II Corinthians 7:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.
-- NEW: For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were strivings, within were fears.
-
-## fightings → strivings — James 4:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?
-- NEW: From whence come wars and strivings among you? come they not hence, even of your lusts that war in your members?
-
 ## file → ??? — I Samuel 13:21
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Yet they had a file for the mattocks, and for the coulters, and for the forks, and for the axes, and to sharpen the goads.
@@ -7890,55 +5440,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.
 - NEW: When thy wares went forth out of the seas, thou full many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.
 
-## fillest → gavest — Psalms 17:14
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: From men which are thy hand, O Lord, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes.
-- NEW: From men which are thy hand, O Lord, from men of the world, which have their portion in this life, and whose belly thou gavest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes.
-
 ## fillet → cord — Jeremiah 52:21
 - source: YLT alignment (word in KJV same testament)
 - OLD: And concerning the pillars, the height of one pillar was eighteen cubits; and a fillet of twelve cubits did compass it; and the thickness thereof was four fingers: it was hollow.
 - NEW: And concerning the pillars, the height of one pillar was eighteen cubits; and a cord of twelve cubits did compass it; and the thickness thereof was four fingers: it was hollow.
 
-## filling → cheering — Acts 14:17
-- source: King James agent selection
-- OLD: Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness.
-- NEW: Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, cheering our hearts with food and gladness.
-
-## findest → mayest — Genesis 31:32
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what is thine with me, and take it to thee. For Jacob knew not that Rachel had stolen them.
-- NEW: With whomsoever thou mayest thy gods, let him not live: before our brethren discern thou what is thine with me, and take it to thee. For Jacob knew not that Rachel had stolen them.
-
-## findest → mayest — Ezekiel 3:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.
-- NEW: Moreover he said unto me, Son of man, eat that thou mayest; eat this roll, and go speak unto the house of Israel.
-
 ## finer → founder — Proverbs 25:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Take away the dross from the silver, and there shall come forth a vessel for the finer.
 - NEW: Take away the dross from the silver, and there shall come forth a vessel for the founder.
-
-## finest → fat — Psalms 81:16
-- source: King James agent selection
-- OLD: He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee. 
-- NEW: He should have fed them also with the fat of the wheat: and with honey out of the rock should I have satisfied thee. 
-
-## finest → fat — Psalms 147:14
-- source: King James agent selection
-- OLD: He maketh peace in thy borders, and filleth thee with the finest of the wheat.
-- NEW: He maketh peace in thy borders, and filleth thee with the fat of the wheat.
-
-## fining → melting — Proverbs 17:3
-- source: King James agent selection
-- OLD: The fining pot is for silver, and the furnace for gold: but the Lord trieth the hearts.
-- NEW: The melting pot is for silver, and the furnace for gold: but the Lord trieth the hearts.
-
-## fining → melting — Proverbs 27:21
-- source: King James agent selection
-- OLD: As the fining pot for silver, and the furnace for gold; so is a man to his praise.
-- NEW: As the melting pot for silver, and the furnace for gold; so is a man to his praise.
 
 ## finisher → perfecter — Hebrews 12:2
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -7954,11 +5464,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: I have overthrown some of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the Lord.
 - NEW: I have overthrown some of you, as God overthrew Sodom and Gomorrah, and ye were as a lamp plucked out of the burning: yet have ye not returned unto me, saith the Lord.
-
-## fires → firees — Isaiah 24:15
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Wherefore glorify ye the Lord in the fires, even the name of the Lord God of Israel in the isles of the sea.
-- NEW: Wherefore glorify ye the Lord in the firees, even the name of the Lord God of Israel in the isles of the sea.
 
 ## firkins → measures — John 2:6
 - source: King James agent selection
@@ -7980,11 +5485,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches.
 - NEW: For if the first be holy, the lump is also holy: and if the root be holy, so are the branches.
 
-## fish's → fishes — Jonah 2:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then Jonah prayed unto the Lord his God out of the fish’s belly,
-- NEW: Then Jonah prayed unto the Lord his God out of the fish’s belly,
-
 ## fisher's → coats — John 21:7
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt his fisher’s coat unto him, (for he was naked,) and did cast himself into the sea.
@@ -7999,11 +5499,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: The Lord God hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks.
 - NEW: The Lord God hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with hooks.
-
-## fishing → ??? — John 21:3
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing.
-- NEW: Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing.
 
 ## fishpools → pool — Song of Solomon 7:4
 - source: UKJV alignment (word in KJV same testament)
@@ -8024,11 +5519,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son’s name, if thou canst tell?
 - NEW: Who hath ascended up into heaven, or descended? who hath gathered the wind in his hands? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son’s name, if thou canst tell?
-
-## fitteth → maketh — Isaiah 44:13
-- source: YLT alignment (word in KJV same testament)
-- OLD: The carpenter stretcheth out his rule; he marketh it out with a line; he fitteth it with planes, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of a man; that it may remain in the house.
-- NEW: The carpenter stretcheth out his rule; he marketh it out with a line; he maketh it with planes, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of a man; that it may remain in the house.
 
 ## flag → rush — Job 8:11
 - source: King James agent selection
@@ -8075,11 +5565,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: To keep thee from the evil woman, from the flattery of the tongue of a strange woman.
 - NEW: To keep thee from the evil woman, from the portion of the tongue of a strange woman.
 
-## flayed → stripped — II Chronicles 35:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they killed the passover, and the priests sprinkled the blood from their hands, and the Levites flayed them.
-- NEW: And they killed the passover, and the priests sprinkled the blood from their hands, and the Levites stripped them.
-
 ## flea → worm — I Samuel 24:14
 - source: King James agent selection
 - OLD: After whom is the king of Israel come out? after whom dost thou pursue? after a dead dog, after a flea.
@@ -8089,16 +5574,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Now therefore, let not my blood fall to the earth before the face of the Lord: for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains.
 - NEW: Now therefore, let not my blood fall to the earth before the face of the Lord: for the king of Israel is come out to seek a worm, as when one doth hunt a partridge in the mountains.
-
-## fleddest → mightest — Genesis 35:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And God said unto Jacob, Arise, go up to Beth–el, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother.
-- NEW: And God said unto Jacob, Arise, go up to Beth–el, and dwell there: and make there an altar unto God, that appeared unto thee when thou mightest from the face of Esau thy brother.
-
-## fleddest → mightest — Psalms 114:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?
-- NEW: What ailed thee, O thou sea, that thou mightest? thou Jordan, that thou wast driven back?
 
 ## fleshhook → fleshhooks — I Samuel 2:13
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -8140,41 +5615,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And we will cut wood out of Lebanon, as much as thou shalt need: and we will bring it to thee in floats by sea to Joppa; and thou shalt carry it up to Jerusalem.
 - NEW: And we will cut wood out of Lebanon, as much as thou shalt need: and we will bring it to thee in ships by sea to Joppa; and thou shalt carry it up to Jerusalem.
 
-## floors → places — Joel 2:24
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And the floors shall be full of wheat, and the fats shall overflow with wine and oil.
-- NEW: And the places shall be full of wheat, and the fats shall overflow with wine and oil.
-
-## flourished → budded — Song of Solomon 6:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished, and the pomegranates budded.
-- NEW: I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine budded, and the pomegranates budded.
-
-## flourished → budded — Philippians 4:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.
-- NEW: But I rejoiced in the Lord greatly, that now at the last your care of me hath budded again; wherein ye were also careful, but ye lacked opportunity.
-
-## flourisheth → sheweth — Psalms 90:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
-- NEW: In the morning it sheweth, and groweth up; in the evening it is cut down, and withereth.
-
-## flourisheth → sheweth — Psalms 103:15
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: As for man, his days are as grass: as a flower of the field, so he flourisheth.
-- NEW: As for man, his days are as grass: as a flower of the field, so he sheweth.
-
-## flourishing → fruitful — Psalms 92:14
-- source: King James agent selection
-- OLD: They shall still bring forth fruit in old age; they shall be fat and flourishing;
-- NEW: They shall still bring forth fruit in old age; they shall be fat and fruitful;
-
-## flourishing → prosperous — Daniel 4:4
-- source: King James agent selection
-- OLD: I Nebuchadnezzar was at rest in mine house, and flourishing in my palace:
-- NEW: I Nebuchadnezzar was at rest in mine house, and prosperous in my palace:
-
 ## fluttereth → moveth — Deuteronomy 32:11
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: As an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her wings, taketh them, beareth them on her wings:
@@ -8184,11 +5624,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him.
 - NEW: And it came to pass, that the father of Publius lay sick of a fever and of a bloody bloody: to whom Paul entered in, and prayed, and laid his hands on him, and healed him.
-
-## foals → colts — Genesis 32:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals.
-- NEW: Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten colts.
 
 ## foam → wrath — Hosea 10:7
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -8225,16 +5660,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry.
 - NEW: For while they be about together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry.
 
-## foldeth → folds — Ecclesiastes 4:5
-- source: UKJV alignment (word in KJV same testament)
-- OLD: The fool foldeth his hands together, and eateth his own flesh.
-- NEW: The fool folds his hands together, and eateth his own flesh.
-
-## folks → persons — Acts 5:16
-- source: Webster alignment (word in KJV same testament)
-- OLD: There came also a multitude out of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.
-- NEW: There came also a multitude out of the cities round about unto Jerusalem, bringing sick persons, and them which were vexed with unclean spirits: and they were healed every one.
-
 ## followedst → go — Ruth 3:10
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And he said, Blessed be thou of the Lord, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.
@@ -8250,21 +5675,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;
 - NEW: Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the patience of God;
 
-## forbeareth → ceaseth — Numbers 9:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But the man that is clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the Lord in his appointed season, that man shall bear his sin.
-- NEW: But the man that is clean, and is not in a journey, and ceaseth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the Lord in his appointed season, that man shall bear his sin.
-
-## forbeareth → ceaseth — Ezekiel 3:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord God; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. 
-- NEW: But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord God; He that heareth, let him hear; and he that ceaseth, let him forbear: for they are a rebellious house. 
-
-## forbiddeth → suffereth — III John 1:10
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.
-- NEW: Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and suffereth them that would, and casteth them out of the church.
-
 ## forborn → ceased — Jeremiah 51:30
 - source: UKJV alignment (word in KJV same testament)
 - OLD: The mighty men of Babylon have forborn to fight, they have remained in their holds: their might hath failed; they became as women: they have burned her dwellingplaces; her bars are broken.
@@ -8274,16 +5684,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: How forcible are right words! but what doth your arguing reprove?
 - NEW: How sore are right words! but what doth your arguing reprove?
-
-## forcing → going — Deuteronomy 20:19
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man’s life) to employ them in the siege:
-- NEW: When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by going an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man’s life) to employ them in the siege:
-
-## forcing → going — Proverbs 30:33
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife. 
-- NEW: Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the going of wrath bringeth forth strife. 
 
 ## ford → passage — Genesis 32:22
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -8415,16 +5815,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away.
 - NEW: And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be destroyed, and himself separated from the congregation of those that had been carried away.
 
-## forgavest → takest — Psalms 32:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou forgavest the iniquity of my sin. Selah.
-- NEW: I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou takest the iniquity of my sin. Selah.
-
-## forgavest → forgave — Psalms 99:8
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Thou answeredst them, O Lord our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.
-- NEW: Thou answeredst them, O Lord our God: thou wast a God that forgave them, though thou tookest vengeance of their inventions.
-
 ## forged → framed — Psalms 119:69
 - source: King James agent selection
 - OLD: The proud have forged a lie against me: but I will keep thy precepts with my whole heart.
@@ -8450,36 +5840,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?
 - NEW: Shall thy wonders be known in the dark? and thy righteousness in the land of silence?
 
-## forgettest → forget — Psalms 44:24
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Wherefore hidest thou thy face, and forgettest our affliction and our oppression?
-- NEW: Wherefore hidest thou thy face, and forget our affliction and our oppression?
-
-## forgettest → forget — Isaiah 51:13
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And forgettest the Lord thy maker, that hath stretched forth the heavens, and laid the foundations of the earth; and hast feared continually every day because of the fury of the oppressor, as if he were ready to destroy? and where is the fury of the oppressor?
-- NEW: And forget the Lord thy maker, that hath stretched forth the heavens, and laid the foundations of the earth; and hast feared continually every day because of the fury of the oppressor, as if he were ready to destroy? and where is the fury of the oppressor?
-
-## forgetting → leaving — Philippians 3:13
-- source: King James agent selection
-- OLD: Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,
-- NEW: Brethren, I count not myself to have apprehended: but this one thing I do, leaving those things which are behind, and reaching forth unto those things which are before,
-
-## forgivenesses → compassions — Daniel 9:9
-- source: King James agent selection
-- OLD: To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;
-- NEW: To the Lord our God belong mercies and compassions, though we have rebelled against him;
-
-## forgiveth → leaveth — Psalms 103:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Who forgiveth all thine iniquities; who healeth all thy diseases;
-- NEW: Who leaveth all thine iniquities; who healeth all thy diseases;
-
-## forgiveth → leaveth — Luke 7:49
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?
-- NEW: And they that sat at meat with him began to say within themselves, Who is this that leaveth sins also?
-
 ## forgot → forgotten — Deuteronomy 24:19
 - source: YLT alignment (word in KJV same testament)
 - OLD: When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the Lord thy God may bless thee in all the work of thine hands.
@@ -8489,21 +5849,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Yet they had a file for the mattocks, and for the coulters, and for the forks, and for the axes, and to sharpen the goads.
 - NEW: Yet they had a file for the mattocks, and for the coulters, and for the stories, and for the axes, and to sharpen the goads.
-
-## formeth → fashioneth — Amos 4:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The Lord, The God of hosts, is his name. 
-- NEW: For, lo, he that fashioneth the mountains, and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The Lord, The God of hosts, is his name. 
-
-## formeth → fashioneth — Zechariah 12:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The burden of the word of the Lord for Israel, saith the Lord, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him.
-- NEW: The burden of the word of the Lord for Israel, saith the Lord, which stretcheth forth the heavens, and layeth the foundation of the earth, and fashioneth the spirit of man within him.
-
-## forms → fashions — Ezekiel 43:11
-- source: King James agent selection
-- OLD: And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write it in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.
-- NEW: And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the fashions thereof, and all the ordinances thereof, and all the fashions thereof, and all the laws thereof: and write it in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.
 
 ## fornicator → whoremongers — I Corinthians 5:11
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -8515,45 +5860,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.
 - NEW: Lest there be any whoremongers, or profane person, as Esau, who for one morsel of meat sold his birthright.
 
-## forsaking → leaving — Isaiah 6:12
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: And the Lord have removed men far away, and there be a great forsaking in the midst of the land.
-- NEW: And the Lord have removed men far away, and there be a great leaving in the midst of the land.
-
-## forsaking → leaving — Hebrews 10:25
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
-- NEW: Not leaving the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
-
 ## forsomuch → forasmuch — Luke 19:9
 - source: Webster alignment (word in KJV same testament)
 - OLD: And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
 - NEW: And Jesus said unto him, This day is salvation come to this house, forasmuch as he also is a son of Abraham.
 
-## forsookest → forsook — Nehemiah 9:17
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.
-- NEW: And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsook them not.
-
-## forsookest → forsook — Nehemiah 9:19
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Yet thou in thy manifold mercies forsookest them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go.
-- NEW: Yet thou in thy manifold mercies forsook them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go.
-
 ## forswear → thyself — Matthew 5:33
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:
 - NEW: Again, ye have heard that it hath been said by them of old time, Thou shalt not thyself thyself, but shalt perform unto the Lord thine oaths:
-
-## fortresses → stronges — Isaiah 34:13
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, and a court for owls.
-- NEW: And thorns shall come up in her palaces, nettles and brambles in the stronges thereof: and it shall be an habitation of dragons, and a court for owls.
-
-## fortresses → stronges — Hosea 10:14
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Beth–arbel in the day of battle: the mother was dashed in pieces upon her children.
-- NEW: Therefore shall a tumult arise among thy people, and all thy stronges shall be spoiled, as Shalman spoiled Beth–arbel in the day of battle: the mother was dashed in pieces upon her children.
 
 ## forwardness → diligence — II Corinthians 8:8
 - source: YLT alignment (word in KJV same testament)
@@ -8565,20 +5880,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.
 - NEW: For I know the business of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.
 
-## fouled → defiled — Ezekiel 34:19
-- source: King James agent selection
-- OLD: And as for my flock, they eat that which ye have trodden with your feet; and they drink that which ye have fouled with your feet.
-- NEW: And as for my flock, they eat that which ye have trodden with your feet; and they drink that which ye have defiled with your feet.
-
 ## fouledst → render — Ezekiel 32:2
 - source: Webster alignment (word in KJV same testament)
 - OLD: Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a whale in the seas: and thou camest forth with thy rivers, and troubledst the waters with thy feet, and fouledst their rivers.
 - NEW: Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a whale in the seas: and thou camest forth with thy rivers, and troubledst the waters with thy feet, and render their rivers.
-
-## foundest → found — Nehemiah 9:8
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and hast performed thy words; for thou art righteous:
-- NEW: And found his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and hast performed thy words; for thou art righteous:
 
 ## fourfold → double — II Samuel 12:6
 - source: King James agent selection
@@ -8589,11 +5894,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
 - NEW: And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him double.
-
-## fowlers → snares — Psalms 124:7
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.
-- NEW: Our soul is escaped as a bird out of the snare of the snares: the snare is broken, and we are escaped.
 
 ## fox → like — Nehemiah 4:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -8609,16 +5909,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Lord, make me to know mine end, and the measure of my days, what it is; that I may know how frail I am.
 - NEW: Lord, make me to know mine end, and the measure of my days, what it is; that I may know how rejected I am.
-
-## frameth → fashioneth — Psalms 50:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou givest thy mouth to evil, and thy tongue frameth deceit.
-- NEW: Thou givest thy mouth to evil, and thy tongue fashioneth deceit.
-
-## frameth → fashioneth — Psalms 94:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Shall the throne of iniquity have fellowship with thee, which frameth mischief by a law?
-- NEW: Shall the throne of iniquity have fellowship with thee, which fashioneth mischief by a law?
 
 ## frankly → freely — Luke 7:42
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -8639,16 +5929,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that groweth in the skin; he is clean.
 - NEW: Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a bright spot that groweth in the skin; he is clean.
-
-## freed → justified — Joshua 9:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now therefore ye are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God.
-- NEW: Now therefore ye are cursed, and there shall none of you be justified from being bondmen, and hewers of wood and drawers of water for the house of my God.
-
-## freed → justified — Romans 6:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For he that is dead is freed from sin.
-- NEW: For he that is dead is justified from sin.
 
 ## freedom → liberty — Leviticus 19:20
 - source: King James agent selection
@@ -8674,16 +5954,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: His flesh shall be fresher than a child’s: he shall return to the days of his youth:
 - NEW: His flesh shall be younger than a child’s: he shall return to the days of his youth:
-
-## fretted → provoked — Ezekiel 16:43
-- source: Webster alignment (word in KJV same testament)
-- OLD: Because thou hast not remembered the days of thy youth, but hast fretted me in all these things; behold, therefore I also will recompense thy way upon thine head, saith the Lord God: and thou shalt not commit this lewdness above all thine abominations.
-- NEW: Because thou hast not remembered the days of thy youth, but hast provoked me in all these things; behold, therefore I also will recompense thy way upon thine head, saith the Lord God: and thou shalt not commit this lewdness above all thine abominations.
-
-## fretteth → liketh — Proverbs 19:3
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The foolishness of man perverteth his way: and his heart fretteth against the Lord.
-- NEW: The foolishness of man perverteth his way: and his heart liketh against the Lord.
 
 ## fried → baked — Leviticus 7:12
 - source: King James agent selection
@@ -8810,16 +6080,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire.
 - NEW: And I will set my jealousy against thee, and they shall deal vehemently with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire.
 
-## furnaces → ovenes — Nehemiah 3:11
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Malchijah the son of Harim, and Hashub the son of Pahath–moab, repaired the other piece, and the tower of the furnaces.
-- NEW: Malchijah the son of Harim, and Hashub the son of Pahath–moab, repaired the other piece, and the tower of the ovenes.
-
-## furnaces → ovenes — Nehemiah 12:38
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And the other company of them that gave thanks went over against them, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;
-- NEW: And the other company of them that gave thanks went over against them, and I after them, and the half of the people upon the wall, from beyond the tower of the ovenes even unto the broad wall;
-
 ## furrow → furrows — Job 39:10
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?
@@ -8834,21 +6094,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;
 - NEW: And having this confidence, I know that I shall abide and continue with you all for your profit and joy of faith;
-
-## furthered → lifted — Ezra 8:36
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they delivered the king’s commissions unto the king’s lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God. 
-- NEW: And they delivered the king’s commissions unto the king’s lieutenants, and to the governors on this side the river: and they lifted the people, and the house of God. 
-
-## gaddest → wanderest — Jeremiah 2:36
-- source: King James agent selection
-- OLD: Why gaddest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria.
-- NEW: Why wanderest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria.
-
-## gains → works — Acts 16:19
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers,
-- NEW: And when her masters saw that the hope of their works was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers,
 
 ## gainsay → say — Luke 21:15
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -8945,16 +6190,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Then answered Amos, and said to Amaziah, I was no prophet, neither was I a prophet’s son; but I was an herdman, and a gatherer of sycomore fruit:
 - NEW: Then answered Amos, and said to Amaziah, I was no prophet, neither was I a prophet’s son; but I was an herdman, and a dresser of sycomore fruit:
 
-## gatherest → reapest — Deuteronomy 24:21
-- source: King James agent selection
-- OLD: When thou gatherest the grapes of thy vineyard, thou shalt not glean it afterward: it shall be for the stranger, for the fatherless, and for the widow.
-- NEW: When thou reapest the grapes of thy vineyard, thou shalt not glean it afterward: it shall be for the stranger, for the fatherless, and for the widow.
-
-## gatherings → collection — I Corinthians 16:2
-- source: King James agent selection
-- OLD: Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come.
-- NEW: Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no collection when I come.
-
 ## gay → cheerful — James 2:3
 - source: UKJV alignment (word in KJV same testament)
 - OLD: And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:
@@ -9045,30 +6280,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the pelican, and the gier eagle, and the cormorant,
 - NEW: And the pelican, and the eagle eagle, and the cormorant,
 
-## gins → snares — Psalms 140:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.
-- NEW: The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set snares for me. Selah.
-
-## gins → snares — Psalms 141:9
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Keep me from the snares which they have laid for me, and the gins of the workers of iniquity.
-- NEW: Keep me from the snares which they have laid for me, and the snares of the workers of iniquity.
-
 ## girdedst → gird — John 21:18
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
 - NEW: Verily, verily, I say unto thee, When thou wast young, thou gird thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
-
-## girding → girdle — Isaiah 3:24
-- source: YLT alignment (word in KJV same testament)
-- OLD: And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty.
-- NEW: And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girdle of sackcloth; and burning instead of beauty.
-
-## girding → clothing — Isaiah 22:12
-- source: King James agent selection
-- OLD: And in that day did the Lord God of hosts call to weeping, and to mourning, and to baldness, and to girding with sackcloth:
-- NEW: And in that day did the Lord God of hosts call to weeping, and to mourning, and to baldness, and to clothing with sackcloth:
 
 ## girl → damsel — Joel 3:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -9089,16 +6304,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.
 - NEW: Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful debt.
-
-## glasses → mirrors — Isaiah 3:23
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: The glasses, and the fine linen, and the hoods, and the vails.
-- NEW: The mirrors, and the fine linen, and the hoods, and the vails.
-
-## gleanings → gleaning — Leviticus 19:9
-- source: YLT alignment (word in KJV same testament)
-- OLD: And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.
-- NEW: And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleaning of thy harvest.
 
 ## glede → vulture — Deuteronomy 14:13
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -9220,21 +6425,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies.
 - NEW: Thy navel is like a round cup, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies.
 
-## goldsmith's → ??? — Nehemiah 3:31
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: After him repaired Malchiah the goldsmith’s son unto the place of the Nethinims, and of the merchants, over against the gate Miphkad, and to the going up of the corner.
-- NEW: After him repaired Malchiah the goldsmith’s son unto the place of the Nethinims, and of the merchants, over against the gate Miphkad, and to the going up of the corner.
-
-## goldsmiths → smiths — Nehemiah 3:8
-- source: King James agent selection
-- OLD: Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall.
-- NEW: Next unto him repaired Uzziel the son of Harhaiah, of the smiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall.
-
-## goldsmiths → smiths — Nehemiah 3:32
-- source: King James agent selection
-- OLD: And between the going up of the corner unto the sheep gate repaired the goldsmiths and the merchants. 
-- NEW: And between the going up of the corner unto the sheep gate repaired the smiths and the merchants. 
-
 ## goodlier → better — I Samuel 9:2
 - source: UKJV alignment (word in KJV same testament)
 - OLD: And he had a son, whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he was higher than any of the people.
@@ -9280,21 +6470,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings’ courts.
 - NEW: But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gloriously apparelled, and live delicately, are in kings’ courts.
 
-## gourds → ??? — II Kings 4:39
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred them into the pot of pottage: for they knew them not.
-- NEW: And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred them into the pot of pottage: for they knew them not.
-
-## governments → rule — I Corinthians 12:28
-- source: King James agent selection
-- OLD: And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
-- NEW: And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, rule, diversities of tongues.
-
-## governor's → governors — Matthew 28:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And if this come to the governor’s ears, we will persuade him, and secure you.
-- NEW: And if this come to the governor’s ears, we will persuade him, and secure you.
-
 ## graff → wert — Romans 11:23
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And they also, if they abide not still in unbelief, shall be graffed in: for God is able to graff them in again.
@@ -9325,35 +6500,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit.
 - NEW: Woe is me! for I am as when they have gathered the summer fruits, as the grapes of the vintage: there is no cluster to eat: my soul desired the firstripe fruit.
 
-## grave's → graves — Psalms 141:7
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Our bones are scattered at the grave’s mouth, as when one cutteth and cleaveth wood upon the earth.
-- NEW: Our bones are scattered at the grave’s mouth, as when one cutteth and cleaveth wood upon the earth.
-
 ## graveclothes → linen — John 11:44
 - source: King James agent selection
 - OLD: And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.
 - NEW: And he that was dead came forth, bound hand and foot with linen: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.
-
-## graved → opened — I Kings 7:36
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.
-- NEW: For on the plates of the ledges thereof, and on the borders thereof, he opened cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.
-
-## graved → opened — II Chronicles 3:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He overlaid also the house, the beams, the posts, and the walls thereof, and the doors thereof, with gold; and graved cherubims on the walls.
-- NEW: He overlaid also the house, the beams, the posts, and the walls thereof, and the doors thereof, with gold; and opened cherubims on the walls.
-
-## graveth → graves — Isaiah 22:16
-- source: UKJV alignment (word in KJV same testament)
-- OLD: What hast thou here? and whom hast thou here, that thou hast hewed thee out a sepulchre here, as he that heweth him out a sepulchre on high, and that graveth an habitation for himself in a rock?
-- NEW: What hast thou here? and whom hast thou here, that thou hast hewed thee out a sepulchre here, as he that heweth him out a sepulchre on high, and that graves an habitation for himself in a rock?
-
-## gravings → engravings — I Kings 7:31
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And the mouth of it within the chapiter and above was a cubit: but the mouth thereof was round after the work of the base, a cubit and an half: and also upon the mouth of it were gravings with their borders, foursquare, not round.
-- NEW: And the mouth of it within the chapiter and above was a cubit: but the mouth thereof was round after the work of the base, a cubit and an half: and also upon the mouth of it were engravings with their borders, foursquare, not round.
 
 ## grease → fat — Psalms 119:70
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -9385,40 +6535,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Whilst it is yet in his greenness, and not cut down, it withereth before any other herb.
 - NEW: Whilst it is yet in his fruits, and not cut down, it withereth before any other herb.
 
-## greeteth → saluteth — II Timothy 4:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Do thy diligence to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren.
-- NEW: Do thy diligence to come before winter. Eubulus saluteth thee, and Pudens, and Linus, and Claudia, and all the brethren.
-
 ## greyhound → side — Proverbs 30:31
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: A greyhound; an he goat also; and a king, against whom there is no rising up.
 - NEW: A side; an he goat also; and a king, against whom there is no rising up.
 
-## griefs → sicknesses — Isaiah 53:4
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.
-- NEW: Surely he hath borne our sicknesses, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.
-
 ## grievance → labour — Habakkuk 1:3
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Why dost thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention.
 - NEW: Why dost thou shew me iniquity, and cause me to behold labour? for spoiling and violence are before me: and there are that raise up strife and contention.
-
-## grieveth → moveth — Ruth 1:13
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the Lord is gone out against me.
-- NEW: Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it moveth me much for your sakes that the hand of the Lord is gone out against me.
-
-## grieveth → moveth — Proverbs 26:15
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The slothful hideth his hand in his bosom; it grieveth him to bring it again to his mouth.
-- NEW: The slothful hideth his hand in his bosom; it moveth him to bring it again to his mouth.
-
-## grieving → making — Ezekiel 28:24
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And there shall be no more a pricking brier unto the house of Israel, nor any grieving thorn of all that are round about them, that despised them; and they shall know that I am the Lord God.
-- NEW: And there shall be no more a pricking brier unto the house of Israel, nor any making thorn of all that are round about them, that despised them; and they shall know that I am the Lord God.
 
 ## grievousness → perverseness — Isaiah 10:1
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -9435,40 +6560,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
 - NEW: In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the teeth cease because they are few, and those that look out of the windows be darkened,
 
-## groaned → charged — John 11:33
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,
-- NEW: When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he charged in the spirit, and was troubled,
-
-## groaneth → mourneth — Romans 8:22
-- source: King James agent selection
-- OLD: For we know that the whole creation groaneth and travaileth in pain together until now.
-- NEW: For we know that the whole creation mourneth and travaileth in pain together until now.
-
-## gropeth → searcheth — Deuteronomy 28:29
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
-- NEW: And thou shalt grope at noonday, as the blind searcheth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
-
 ## growth → latter — Amos 7:1
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thus hath the Lord God shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king’s mowings.
 - NEW: Thus hath the Lord God shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter latter; and, lo, it was the latter latter after the king’s mowings.
 
-## grudging → murmuring — I Peter 4:9
-- source: King James agent selection
-- OLD: Use hospitality one to another without grudging.
-- NEW: Use hospitality one to another without murmuring.
-
 ## grudgingly → exceedingly — II Corinthians 9:7
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.
 - NEW: Every man according as he purposeth in his heart, so let him give; not exceedingly, or of necessity: for God loveth a cheerful giver.
-
-## guard's → guards — Genesis 41:10
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Pharaoh was wroth with his servants, and put me in ward in the captain of the guard’s house, both me and the chief baker:
-- NEW: Pharaoh was wroth with his servants, and put me in ward in the captain of the guard’s house, both me and the chief baker:
 
 ## guest → destroy — Luke 19:7
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -9484,21 +6584,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?
 - NEW: And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the inn, where I shall eat the passover with my disciples?
-
-## guides → leaders — Matthew 23:16
-- source: King James agent selection
-- OLD: Woe unto you, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!
-- NEW: Woe unto you, ye blind leaders, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!
-
-## guides → leaders — Matthew 23:24
-- source: King James agent selection
-- OLD: Ye blind guides, which strain at a gnat, and swallow a camel.
-- NEW: Ye blind leaders, which strain at a gnat, and swallow a camel.
-
-## guiding → working — Genesis 48:14
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And Israel stretched out his right hand, and laid it upon Ephraim’s head, who was the younger, and his left hand upon Manasseh’s head, guiding his hands wittingly; for Manasseh was the firstborn.
-- NEW: And Israel stretched out his right hand, and laid it upon Ephraim’s head, who was the younger, and his left hand upon Manasseh’s head, working his hands wittingly; for Manasseh was the firstborn.
 
 ## guilt → sin — Deuteronomy 19:13
 - source: King James agent selection
@@ -9545,16 +6630,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.
 - NEW: He saith among the trumpets, Aha, aha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.
 
-## habergeons → harness — II Chronicles 26:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones.
-- NEW: And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and harness, and bows, and slings to cast stones.
-
-## habergeons → harness — Nehemiah 4:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it came to pass from that time forth, that the half of my servants wrought in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers were behind all the house of Judah.
-- NEW: And it came to pass from that time forth, that the half of my servants wrought in the work, and the other half of them held both the spears, the shields, and the bows, and the harness; and the rulers were behind all the house of Judah.
-
 ## habitable → world — Proverbs 8:31
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Rejoicing in the habitable part of his earth; and my delights were with the sons of men.
@@ -9575,55 +6650,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison.
 - NEW: As for Saul, he made havock of the church, entering into every house, and drawing men and women committed them to prison.
 
-## halted → stumbled — Genesis 32:31
-- source: King James agent selection
-- OLD: And as he passed over Penuel the sun rose upon him, and he halted upon his thigh.
-- NEW: And as he passed over Penuel the sun rose upon him, and he stumbled upon his thigh.
-
-## halted → stumbled — Micah 4:7
-- source: King James agent selection
-- OLD: And I will make her that halted a remnant, and her that was cast far off a strong nation: and the Lord shall reign over them in mount Zion from henceforth, even for ever.
-- NEW: And I will make her that stumbled a remnant, and her that was cast far off a strong nation: and the Lord shall reign over them in mount Zion from henceforth, even for ever.
-
-## halteth → stumbleth — Micah 4:6
-- source: King James agent selection
-- OLD: In that day, saith the Lord, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;
-- NEW: In that day, saith the Lord, will I assemble her that stumbleth, and I will gather her that is driven out, and her that I have afflicted;
-
-## halteth → stumbleth — Zephaniah 3:19
-- source: King James agent selection
-- OLD: Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
-- NEW: Behold, at that time I will undo all that afflict thee: and I will save her that stumbleth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
-
-## halting → stumbling — Jeremiah 20:10
-- source: King James agent selection
-- OLD: For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
-- NEW: For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my stumbling, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
-
-## handed → served — II Samuel 17:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And I will come upon him while he is weary and weak handed, and will make him afraid: and all the people that are with him shall flee; and I will smite the king only:
-- NEW: And I will come upon him while he is weary and weak served, and will make him afraid: and all the people that are with him shall flee; and I will smite the king only:
-
 ## handkerchiefs → napkins — Acts 19:12
 - source: King James agent selection
 - OLD: So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.
 - NEW: So that from his body were brought unto the sick napkins or aprons, and the diseases departed from them, and the evil spirits went out of them.
-
-## handles → soles — Song of Solomon 5:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.
-- NEW: I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the soles of the lock.
-
-## handling → taking — Ezekiel 38:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And I will turn thee back, and put hooks into thy jaws, and I will bring thee forth, and all thine army, horses and horsemen, all of them clothed with all sorts of armour, even a great company with bucklers and shields, all of them handling swords:
-- NEW: And I will turn thee back, and put hooks into thy jaws, and I will bring thee forth, and all thine army, horses and horsemen, all of them clothed with all sorts of armour, even a great company with bucklers and shields, all of them taking swords:
-
-## handling → taking — II Corinthians 4:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
-- NEW: But have renounced the hidden things of dishonesty, not walking in craftiness, nor taking the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
 
 ## handmaiden → handmaid — Luke 1:48
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -9644,16 +6674,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: Webster alignment (word in KJV same testament)
 - OLD: The heavens declare the glory of God; and the firmament sheweth his handywork.
 - NEW: The heavens declare the glory of God; and the firmament sheweth his hands.
-
-## hangeth → layeth — Job 26:7
-- source: King James agent selection
-- OLD: He stretcheth out the north over the empty place, and hangeth the earth upon nothing.
-- NEW: He stretcheth out the north over the empty place, and layeth the earth upon nothing.
-
-## hangeth → hangedeth — Galatians 3:13
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:
-- NEW: Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangedeth on a tree:
 
 ## hap → lot — Ruth 2:3
 - source: Webster alignment (word in KJV same testament)
@@ -9680,26 +6700,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you.
 - NEW: Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you.
 
-## harlot's → whoredoms — Joshua 2:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.
-- NEW: And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.
-
-## harlot's → whoredoms — Joshua 6:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But Joshua had said unto the two men that had spied out the country, Go into the harlot’s house, and bring out thence the woman, and all that she hath, as ye sware unto her.
-- NEW: But Joshua had said unto the two men that had spied out the country, Go into the harlot’s house, and bring out thence the woman, and all that she hath, as ye sware unto her.
-
-## harnessed → armed — Exodus 13:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.
-- NEW: But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up armed out of the land of Egypt.
-
-## harped → played — I Corinthians 14:7
-- source: King James agent selection
-- OLD: And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?
-- NEW: And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or played?
-
 ## harpers → musicians — Revelation of John 14:2
 - source: King James agent selection
 - OLD: And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:
@@ -9709,11 +6709,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft he be, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;
 - NEW: And the voice of players, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft he be, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;
-
-## harping → playing — Revelation of John 14:2
-- source: King James agent selection
-- OLD: And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:
-- NEW: And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers playing with their harps:
 
 ## harrow → break — Job 39:10
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -9730,16 +6725,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he brought out the people that were in it, and cut them with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.
 - NEW: And he brought out the people that were in it, and cut them with saws, and with under of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.
 
-## harts → roes — I Kings 4:23
-- source: King James agent selection
-- OLD: Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.
-- NEW: Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside roes, and roebucks, and fallowdeer, and fatted fowl.
-
-## harts → hinds — Lamentations 1:6
-- source: King James agent selection
-- OLD: And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.
-- NEW: And from the daughter of Zion all her beauty is departed: her princes are become like hinds that find no pasture, and they are gone without strength before the pursuer.
-
 ## harvestman → reap — Isaiah 17:5
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim.
@@ -9749,21 +6734,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Speak, Thus saith the Lord, Even the carcases of men shall fall as dung upon the open field, and as the handful after the harvestman, and none shall gather them.
 - NEW: Speak, Thus saith the Lord, Even the carcases of men shall fall as dung upon the open field, and as the handful after the reap, and none shall gather them.
-
-## hasteneth → hasteth — Isaiah 51:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The captive exile hasteneth that he may be loosed, and that he should not die in the pit, nor that his bread should fail.
-- NEW: The captive exile hasteth that he may be loosed, and that he should not die in the pit, nor that his bread should fail.
-
-## hasting → hasteing — Isaiah 16:5
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness.
-- NEW: And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasteing righteousness.
-
-## hasting → hasteing — II Peter 3:12
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
-- NEW: Looking for and hasteing unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
 
 ## hatch → broken — Isaiah 34:15
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -9805,11 +6775,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Therefore thus saith the Lord; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time is evil.
 - NEW: Therefore thus saith the Lord; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go proudly: for this time is evil.
 
-## havens → fairs — Acts 27:8
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: And, hardly passing it, came unto a place which is called The fair havens; nigh whereunto was the city of Lasea.
-- NEW: And, hardly passing it, came unto a place which is called The fair fairs; nigh whereunto was the city of Lasea.
-
 ## havock → waste — Acts 8:3
 - source: King James agent selection
 - OLD: As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison.
@@ -9845,31 +6810,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people.
 - NEW: In that day shall he swear, saying, I will not be an bind; for in my house is neither bread nor clothing: make me not a ruler of the people.
 
-## healings → heales — I Corinthians 12:28
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
-- NEW: And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of heales, helps, governments, diversities of tongues.
-
-## heaped → gathered — Zechariah 9:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.
-- NEW: And Tyrus did build herself a strong hold, and gathered up silver as the dust, and fine gold as the mire of the streets.
-
-## heaped → gathered — James 5:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.
-- NEW: Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have gathered treasure together for the last days.
-
-## heapeth → heaps — Psalms 39:6
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.
-- NEW: Surely every man walketh in a vain shew: surely they are disquieted in vain: he heaps up riches, and knoweth not who shall gather them.
-
-## heapeth → heaps — Habakkuk 2:5
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
-- NEW: Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heaps unto him all people:
-
 ## hearer → hearers — James 1:23
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:
@@ -9879,21 +6819,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
 - NEW: But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearers, but a doer of the work, this man shall be blessed in his deed.
-
-## hearkeneth → heareth — Proverbs 1:33
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil. 
-- NEW: But whoso heareth unto me shall dwell safely, and shall be quiet from fear of evil. 
-
-## hearkeneth → heareth — Proverbs 12:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.
-- NEW: The way of a fool is right in his own eyes: but he that heareth unto counsel is wise.
-
-## hearkening → hearing — Psalms 103:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Bless the Lord, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.
-- NEW: Bless the Lord, ye his angels, that excel in strength, that do his commandments, hearing unto the voice of his word.
 
 ## heartily → exceedingly — Colossians 3:23
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -9905,16 +6830,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Ointment and perfume rejoice the heart: so doth the sweetness of a man’s friend by hearty counsel.
 - NEW: Ointment and perfume rejoice the heart: so doth the sweetness of a man’s friend by life counsel.
 
-## heated → kindled — Daniel 3:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed–nego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.
-- NEW: Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed–nego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be kindled.
-
-## heated → kindled — Hosea 7:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: They are all adulterers, as an oven heated by the baker, who ceaseth from raising after he hath kneaded the dough, until it be leavened.
-- NEW: They are all adulterers, as an oven kindled by the baker, who ceaseth from raising after he hath kneaded the dough, until it be leavened.
-
 ## heath → like — Jeremiah 17:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited.
@@ -9925,50 +6840,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Flee, save your lives, and be like the heath in the wilderness.
 - NEW: Flee, save your lives, and be like the like in the wilderness.
 
-## heaven's → heavens — Matthew 19:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For there are some eunuchs, which were so born from their mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it.
-- NEW: For there are some eunuchs, which were so born from their mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it.
-
-## heifer's → calves — Deuteronomy 21:4
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:
-- NEW: And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:
-
-## heights → ones — Psalms 148:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Praise ye the Lord. Praise ye the Lord from the heavens: praise him in the heights.
-- NEW: Praise ye the Lord. Praise ye the Lord from the heavens: praise him in the ones.
-
-## heights → ones — Isaiah 14:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I will ascend above the heights of the clouds; I will be like the most High.
-- NEW: I will ascend above the ones of the clouds; I will be like the most High.
-
 ## helm → ??? — James 3:4
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.
 - NEW: Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.
-
-## helmets → helmet — II Chronicles 26:14
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones.
-- NEW: And Uzziah prepared for them throughout all the host shields, and spears, and helmet, and habergeons, and bows, and slings to cast stones.
-
-## helmets → helmet — Jeremiah 46:4
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Harness the horses; and get up, ye horsemen, and stand forth with your helmets; furbish the spears, and put on the brigandines.
-- NEW: Harness the horses; and get up, ye horsemen, and stand forth with your helmet; furbish the spears, and put on the brigandines.
-
-## helps → help — Acts 27:17
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven.
-- NEW: Which when they had taken up, they used help, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven.
-
-## helps → help — I Corinthians 12:28
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
-- NEW: And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, help, governments, diversities of tongues.
 
 ## helve → wood — Deuteronomy 19:5
 - source: YLT alignment (word in KJV same testament)
@@ -9984,11 +6859,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Shall horses run upon the rock? will one plow there with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:
 - NEW: Shall horses run upon the rock? will one plow there with oxen? for ye have turned judgment into gall, and the fruit of righteousness into gall:
-
-## hems → skirts — Exodus 39:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they made upon the hems of the robe pomegranates of blue, and purple, and scarlet, and twined linen.
-- NEW: And they made upon the skirts of the robe pomegranates of blue, and purple, and scarlet, and twined linen.
 
 ## henceforward → beyond — Numbers 15:23
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -10050,11 +6920,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.
 - NEW: Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now such, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.
 
-## heritages → inheritances — Isaiah 49:8
-- source: King James agent selection
-- OLD: Thus saith the Lord, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;
-- NEW: Thus saith the Lord, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate inheritances;
-
 ## heron → ??? — Leviticus 11:19
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And the stork, the heron after her kind, and the lapwing, and the bat.
@@ -10069,16 +6934,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Your little ones, your wives, and thy stranger that is in thy camp, from the hewer of thy wood unto the drawer of thy water:
 - NEW: Your little ones, your wives, and thy stranger that is in thy camp, from the hew of thy wood unto the drawer of thy water:
-
-## hill's → mountains — II Samuel 16:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And as David and his men went by the way, Shimei went along on the hill’s side over against him, and cursed as he went, and threw stones at him, and cast dust.
-- NEW: And as David and his men went by the way, Shimei went along on the hill’s side over against him, and cursed as he went, and threw stones at him, and cast dust.
-
-## hindereth → spareth — Isaiah 14:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.
-- NEW: He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none spareth.
 
 ## hindermost → last — Genesis 33:2
 - source: AKJV alignment (word in KJV same testament)
@@ -10105,11 +6960,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the top of the rock Etam.
 - NEW: And he smote them shoulder and thigh with a great slaughter: and he went down and dwelt in the top of the rock Etam.
 
-## hires → hire — Micah 1:7
-- source: King James agent selection
-- OLD: And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered it of the hire of an harlot, and they shall return to the hire of an harlot.
-- NEW: And all the graven images thereof shall be beaten to pieces, and all the hire thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered it of the hire of an harlot, and they shall return to the hire of an harlot.
-
 ## hit → find — I Samuel 31:3
 - source: YLT alignment (word in KJV same testament)
 - OLD: And the battle went sore against Saul, and the archers hit him; and he was sore wounded of the archers.
@@ -10129,11 +6979,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And when they had taken up the anchors, they committed themselves unto the sea, and loosed the rudder bands, and hoised up the mainsail to the wind, and made toward shore.
 - NEW: And when they had taken up the anchors, they committed themselves unto the sea, and loosed the rudder bands, and lifted up the mainsail to the wind, and made toward shore.
-
-## hole's → snares — Jeremiah 48:28
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove that maketh her nest in the sides of the hole’s mouth.
-- NEW: O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove that maketh her nest in the sides of the hole’s mouth.
 
 ## holier → sanctify — Isaiah 65:5
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -10165,45 +7010,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Is Israel a servant? is he a homeborn slave? why is he spoiled?
 - NEW: Is Israel a servant? is he a house slave? why is he spoiled?
 
-## homers → heaps — Numbers 11:32
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the people stood up all that day, and all that night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread them all abroad for themselves round about the camp.
-- NEW: And the people stood up all that day, and all that night, and all the next day, and they gathered the quails: he that gathered least gathered ten heaps: and they spread them all abroad for themselves round about the camp.
-
 ## honesty → gravity — I Timothy 2:2
 - source: King James agent selection
 - OLD: For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.
 - NEW: For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and gravity.
 
-## honourest → greatest — I Samuel 2:29
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?
-- NEW: Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and greatest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?
-
-## honours → precious — Acts 28:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Who also honoured us with many honours; and when we departed, they laded us with such things as were necessary.
-- NEW: Who also honoured us with many precious; and when we departed, they laded us with such things as were necessary.
-
 ## hoods → diadems — Isaiah 3:23
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: The glasses, and the fine linen, and the hoods, and the vails.
 - NEW: The glasses, and the fine linen, and the diadems, and the vails.
-
-## hopeth → trusteth — I Corinthians 13:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Beareth all things, believeth all things, hopeth all things, endureth all things.
-- NEW: Beareth all things, believeth all things, trusteth all things, endureth all things.
-
-## hoping → trusting — Luke 6:35
-- source: King James agent selection
-- OLD: But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil.
-- NEW: But love ye your enemies, and do good, and lend, trusting for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil.
-
-## hoping → trusting — I Timothy 3:14
-- source: King James agent selection
-- OLD: These things write I unto thee, hoping to come unto thee shortly:
-- NEW: These things write I unto thee, trusting to come unto thee shortly:
 
 ## hornet → ??? — Deuteronomy 7:20
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -10265,25 +7080,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that thou hast so hotly pursued after me?
 - NEW: And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that thou hast so vehemently pursued after me?
 
-## hottest → strongest — II Samuel 11:15
-- source: King James agent selection
-- OLD: And he wrote in the letter, saying, Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die.
-- NEW: And he wrote in the letter, saying, Set ye Uriah in the forefront of the strongest battle, and retire ye from him, that he may be smitten, and die.
-
 ## hough → pluck — Joshua 11:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And the Lord said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire.
 - NEW: And the Lord said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt pluck their horses, and burn their chariots with fire.
-
-## howled → mourned — Hosea 7:14
-- source: King James agent selection
-- OLD: And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, and they rebel against me.
-- NEW: And they have not cried unto me with their heart, when they mourned upon their beds: they assemble themselves for corn and wine, and they rebel against me.
-
-## howlings → wailing — Amos 8:3
-- source: King James agent selection
-- OLD: And the songs of the temple shall be howlings in that day, saith the Lord God: there shall be many dead bodies in every place; they shall cast them forth with silence.
-- NEW: And the songs of the temple shall be wailing in that day, saith the Lord God: there shall be many dead bodies in every place; they shall cast them forth with silence.
 
 ## huge → multitude — II Chronicles 16:8
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -10315,51 +7115,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: His strength shall be hungerbitten, and destruction shall be ready at his side.
 - NEW: His strength shall be hungry, and destruction shall be ready at his side.
 
-## hungered → hungry — Matthew 21:18
-- source: AKJV alignment (word in KJV same testament)
-- OLD: Now in the morning as he returned into the city, he hungered.
-- NEW: Now in the morning as he returned into the city, he hungry.
-
-## hungered → hungry — Luke 4:2
-- source: Webster alignment (word in KJV same testament)
-- OLD: Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered.
-- NEW: Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungry.
-
-## hunted → placed — Ezekiel 13:21
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I am the Lord.
-- NEW: Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be placed; and ye shall know that I am the Lord.
-
-## hunters → ??? — Jeremiah 16:16
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Behold, I will send for many fishers, saith the Lord, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks.
-- NEW: Behold, I will send for many fishers, saith the Lord, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks.
-
-## huntest → liest — I Samuel 24:11
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that there is neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou huntest my soul to take it.
-- NEW: Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that there is neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou liest my soul to take it.
-
-## huntest → liest — Job 10:16
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.
-- NEW: For it increaseth. Thou liest me as a fierce lion: and again thou shewest thyself marvellous upon me.
-
-## hunteth → hunts — Leviticus 17:13
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
-- NEW: And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunts and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
-
-## hunting → chase — Genesis 27:30
-- source: King James agent selection
-- OLD: And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
-- NEW: And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his chase.
-
-## hunting → chase — Proverbs 12:27
-- source: King James agent selection
-- OLD: The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.
-- NEW: The slothful man roasteth not that which he took in chase: but the substance of a diligent man is precious.
-
 ## hurl → cast — Numbers 35:20
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But if he thrust him of hatred, or hurl at him by laying of wait, that he die;
@@ -10369,11 +7124,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul’s brethren of Benjamin.
 - NEW: They were armed with bows, and could use both the right hand and the left in casting stones and shooting arrows out of a bow, even of Saul’s brethren of Benjamin.
-
-## hurting → bringing — I Samuel 25:34
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For in very deed, as the Lord God of Israel liveth, which hath kept me back from hurting thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall.
-- NEW: For in very deed, as the Lord God of Israel liveth, which hath kept me back from bringing thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall.
 
 ## husbandry → earth — II Chronicles 26:10
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -10420,16 +7170,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 - NEW: Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
-## hypocrisies → deceits — I Peter 2:1
-- source: King James agent selection
-- OLD: Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
-- NEW: Wherefore laying aside all malice, and all guile, and deceits, and envies, and all evil speakings,
-
-## hypocrite's → hypocrites — Job 8:13
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: So are the paths of all that forget God; and the hypocrite’s hope shall perish:
-- NEW: So are the paths of all that forget God; and the hypocrite’s hope shall perish:
-
 ## hypocritical → hypocrite — Psalms 35:16
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: With hypocritical mockers in feasts, they gnashed upon me with their teeth.
@@ -10439,11 +7179,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: I will send him against an hypocritical nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets.
 - NEW: I will send him against an hypocrite nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets.
-
-## idol's → temples — I Corinthians 8:10
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
-- NEW: For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
 
 ## idolater → idolaters — I Corinthians 5:11
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -10455,11 +7190,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.
 - NEW: For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolaters, hath any inheritance in the kingdom of Christ and of God.
 
-## idolatries → idolatry — I Peter 4:3
-- source: King James agent selection
-- OLD: For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
-- NEW: For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatry:
-
 ## idolatrous → priests — II Kings 23:5
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And he put down the idolatrous priests, whom the kings of Judah had ordained to burn incense in the high places in the cities of Judah, and in the places round about Jerusalem; them also that burned incense unto Baal, to the sun, and to the moon, and to the planets, and to all the host of heaven.
@@ -10470,20 +7200,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: When the wicked cometh, then cometh also contempt, and with ignominy reproach.
 - NEW: When the wicked cometh, then cometh also contempt, and with dishonour reproach.
 
-## image's → images — Daniel 2:32
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: This image’s head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,
-- NEW: This image’s head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,
-
 ## imagery → image — Ezekiel 8:12
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Then said he unto me, Son of man, hast thou seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, The Lord seeth us not; the Lord hath forsaken the earth.
 - NEW: Then said he unto me, Son of man, hast thou seen what the ancients of the house of Israel do in the dark, every man in the chambers of his image? for they say, The Lord seeth us not; the Lord hath forsaken the earth.
-
-## imagineth → deviseth — Nahum 1:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: There is one come out of thee, that imagineth evil against the Lord, a wicked counsellor.
-- NEW: There is one come out of thee, that deviseth evil against the Lord, a wicked counsellor.
 
 ## immortal → incorruptible — I Timothy 1:17
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -10560,55 +7280,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;
 - NEW: In stripes, in prisons, in tumults, in labours, in watchings, in fastings;
 
-## imputeth → deviseth — Psalms 32:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Blessed is the man unto whom the Lord imputeth not iniquity, and in whose spirit there is no guile.
-- NEW: Blessed is the man unto whom the Lord deviseth not iniquity, and in whose spirit there is no guile.
-
-## imputeth → counteth — Romans 4:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,
-- NEW: Even as David also describeth the blessedness of the man, unto whom God counteth righteousness without works,
-
-## imputing → reasoning — Habakkuk 1:11
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.
-- NEW: Then shall his mind change, and he shall pass over, and offend, reasoning this his power unto his god.
-
-## imputing → supposing — II Corinthians 5:19
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.
-- NEW: To wit, that God was in Christ, reconciling the world unto himself, not supposing their trespasses unto them; and hath committed unto us the word of reconciliation.
-
-## incensed → kindled — Isaiah 41:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Behold, all they that were incensed against thee shall be ashamed and confounded: they shall be as nothing; and they that strive with thee shall perish.
-- NEW: Behold, all they that were kindled against thee shall be ashamed and confounded: they shall be as nothing; and they that strive with thee shall perish.
-
-## incensed → kindled — Isaiah 45:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Surely, shall one say, in the Lord have I righteousness and strength: even to him shall men come; and all that are incensed against him shall be ashamed.
-- NEW: Surely, shall one say, in the Lord have I righteousness and strength: even to him shall men come; and all that are kindled against him shall be ashamed.
-
-## inclineth → humbleth — Proverbs 2:18
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For her house inclineth unto death, and her paths unto the dead.
-- NEW: For her house humbleth unto death, and her paths unto the dead.
-
 ## inclose → besiege — Song of Solomon 8:9
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: If she be a wall, we will build upon her a palace of silver: and if she be a door, we will inclose her with boards of cedar.
 - NEW: If she be a wall, we will build upon her a palace of silver: and if she be a door, we will besiege her with boards of cedar.
-
-## increasest → givest — Job 10:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.
-- NEW: Thou renewest thy witnesses against me, and givest thine indignation upon me; changes and war are against me.
-
-## increasing → giving — Colossians 1:10
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;
-- NEW: That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and giving in the knowledge of God;
 
 ## incredible → believe — Acts 26:8
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -10705,31 +7380,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
 - NEW: Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabitants of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
 
-## inhabiteth → dwelleth — Job 15:28
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he dwelleth in desolate cities, and in houses which no man inhabiteth, which are ready to become heaps.
-- NEW: And he dwelleth in desolate cities, and in houses which no man dwelleth, which are ready to become heaps.
-
-## inhabiteth → dwelleth — Isaiah 57:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.
-- NEW: For thus saith the high and lofty One that dwelleth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.
-
-## inhabiting → dwelling — Psalms 74:14
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou brakest the heads of leviathan in pieces, and gavest him to be meat to the people inhabiting the wilderness.
-- NEW: Thou brakest the heads of leviathan in pieces, and gavest him to be meat to the people dwelling the wilderness.
-
-## inheritances → portions — Joshua 19:51
-- source: King James agent selection
-- OLD: These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the Lord, at the door of the tabernacle of the congregation. So they made an end of dividing the country. 
-- NEW: These are the portions, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the Lord, at the door of the tabernacle of the congregation. So they made an end of dividing the country. 
-
-## inheriteth → giveth — Numbers 35:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the cities which ye shall give shall be of the possession of the children of Israel: from them that have many ye shall give many; but from them that have few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth.
-- NEW: And the cities which ye shall give shall be of the possession of the children of Israel: from them that have many ye shall give many; but from them that have few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he giveth.
-
 ## inheritor → drive — Isaiah 65:9
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.
@@ -10759,16 +7409,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: YLT alignment (word in KJV same testament)
 - OLD: The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.
 - NEW: The words of a talebearer are as wounds, and they go down into the inner parts of the belly.
-
-## innocents → guiltless — Jeremiah 2:34
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these.
-- NEW: Also in thy skirts is found the blood of the souls of the poor guiltless: I have not found it by secret search, but upon all these.
-
-## innocents → guiltless — Jeremiah 19:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Because they have forsaken me, and have estranged this place, and have burned incense in it unto other gods, whom neither they nor their fathers have known, nor the kings of Judah, and have filled this place with the blood of innocents;
-- NEW: Because they have forsaken me, and have estranged this place, and have burned incense in it unto other gods, whom neither they nor their fathers have known, nor the kings of Judah, and have filled this place with the blood of guiltless;
 
 ## inordinate → love — Ezekiel 23:11
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -10810,11 +7450,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And Zillah, she also bare Tubal–cain, an instructer of every artificer in brass and iron: and the sister of Tubal–cain was Naamah.
 - NEW: And Zillah, she also bare Tubal–cain, an whet of every artificer in brass and iron: and the sister of Tubal–cain was Naamah.
 
-## instructing → teaching — II Timothy 2:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;
-- NEW: In meekness teaching those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;
-
 ## instructor → correct — Romans 2:20
 - source: KJV parallel rendering, re-inflected (other testament)
 - OLD: An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.
@@ -10830,31 +7465,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant.
 - NEW: For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have understand with them that forsake the holy covenant.
 
-## intended → stretched — Psalms 21:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For they intended evil against thee: they imagined a mischievous device, which they are not able to perform.
-- NEW: For they stretched evil against thee: they imagined a mischievous device, which they are not able to perform.
-
-## intendest → sayest — Exodus 2:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.
-- NEW: And he said, Who made thee a prince and a judge over us? sayest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.
-
-## intents → thoughts — Jeremiah 30:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The fierce anger of the Lord shall not return, until he have done it, and until he have performed the intents of his heart: in the latter days ye shall consider it. 
-- NEW: The fierce anger of the Lord shall not return, until he have done it, and until he have performed the thoughts of his heart: in the latter days ye shall consider it. 
-
-## intents → thoughts — Hebrews 4:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
-- NEW: For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and thoughts of the heart.
-
-## intercessions → prayers — I Timothy 2:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;
-- NEW: I exhort therefore, that, first of all, supplications, prayers, prayers, and giving of thanks, be made for all men;
-
 ## intermeddle → surety — Proverbs 14:10
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.
@@ -10869,21 +7479,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Mine eye trickleth down, and ceaseth not, without any intermission,
 - NEW: Mine eye trickleth down, and ceaseth not, without any ceasing,
-
-## interpretations → interpretation — Genesis 40:8
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you.
-- NEW: And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretation belong to God? tell me them, I pray you.
-
-## interpretations → interpretation — Daniel 5:16
-- source: King James agent selection
-- OLD: And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and have a chain of gold about thy neck, and shalt be the third ruler in the kingdom.
-- NEW: And I have heard of thee, that thou canst make interpretation, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and have a chain of gold about thy neck, and shalt be the third ruler in the kingdom.
-
-## interpreting → interpretation — Daniel 5:12
-- source: King James agent selection
-- OLD: Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
-- NEW: Forasmuch as an excellent spirit, and knowledge, and understanding, interpretation of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
 
 ## intruding → searching — Colossians 2:18
 - source: King James agent selection
@@ -10920,21 +7515,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,
 - NEW: Backbiters, haters of God, despiteful, proud, boasters, authors of evil things, disobedient to parents,
 
-## irons → iron — Job 41:7
-- source: RNKJV alignment (word in KJV same testament)
-- OLD: Canst thou fill his skin with barbed irons? or his head with fish spears?
-- NEW: Canst thou fill his skin with barbed iron? or his head with fish spears?
-
-## issues → goingees — Psalms 68:20
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: He that is our God is the God of salvation; and unto God the Lord belong the issues from death.
-- NEW: He that is our God is the God of salvation; and unto God the Lord belong the goingees from death.
-
-## issues → outgoings — Proverbs 4:23
-- source: YLT alignment (word in KJV same testament)
-- OLD: Keep thy heart with all diligence; for out of it are the issues of life.
-- NEW: Keep thy heart with all diligence; for out of it are the outgoings of life.
-
 ## itch → sun — Deuteronomy 28:27
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The Lord will smite thee with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof thou canst not be healed.
@@ -10944,11 +7524,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;
 - NEW: For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having having ears;
-
-## its → such — Leviticus 25:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: for it is a year of rest unto the land.
-- NEW: That which groweth of such own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: for it is a year of rest unto the land.
 
 ## jacinth → ??? — Revelation of John 9:17
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -10975,11 +7550,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
 - NEW: Neither filthiness, nor foolish talking, nor mocking, which are not convenient: but rather giving of thanks.
 
-## joining → cleaving — II Chronicles 3:12
-- source: King James agent selection
-- OLD: And one wing of the other cherub was five cubits, reaching to the wall of the house: and the other wing was five cubits also, joining to the wing of the other cherub.
-- NEW: And one wing of the other cherub was five cubits, reaching to the wall of the house: and the other wing was five cubits also, cleaving to the wing of the other cherub.
-
 ## joint-heirs → heirs — Romans 8:17
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
@@ -10989,11 +7559,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: AKJV alignment (word in KJV other testament)
 - OLD: For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
 - NEW: For verily I say unto you, Till heaven and earth pass, one stroke or one tittle shall in no wise pass from the law, till all be fulfilled.
-
-## joyed → rejoiced — II Corinthians 7:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.
-- NEW: Therefore we were comforted in your comfort: yea, and exceedingly the more rejoiced we for the joy of Titus, because his spirit was refreshed by you all.
 
 ## joyfulness → joy — Deuteronomy 28:47
 - source: YLT alignment (word in KJV same testament)
@@ -11014,16 +7579,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.
 - NEW: The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the dancing chariots.
-
-## justifying → cleansing — I Kings 8:32
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then hear thou in heaven, and do, and judge thy servants, condemning the wicked, to bring his way upon his head; and justifying the righteous, to give him according to his righteousness.
-- NEW: Then hear thou in heaven, and do, and judge thy servants, condemning the wicked, to bring his way upon his head; and cleansing the righteous, to give him according to his righteousness.
-
-## justifying → cleansing — II Chronicles 6:23
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then hear thou from heaven, and do, and judge thy servants, by requiting the wicked, by recompensing his way upon his own head; and by justifying the righteous, by giving him according to his righteousness.
-- NEW: Then hear thou from heaven, and do, and judge thy servants, by requiting the wicked, by recompensing his way upon his own head; and by cleansing the righteous, by giving him according to his righteousness.
 
 ## justle → run — Nahum 2:4
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -11050,21 +7605,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.
 - NEW: And he struck it into the pan, or basket, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.
 
-## keys → key — Matthew 16:19
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.
-- NEW: And I will give unto thee the key of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.
-
-## keys → key — Revelation of John 1:18
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
-- NEW: I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the key of hell and of death.
-
-## kicked → rebelled — Deuteronomy 32:15
-- source: King James agent selection
-- OLD: But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered with fatness; then he forsook God which made him, and lightly esteemed the Rock of his salvation.
-- NEW: But Jeshurun waxed fat, and rebelled: thou art waxen fat, thou art grown thick, thou art covered with fatness; then he forsook God which made him, and lightly esteemed the Rock of his salvation.
-
 ## killedst → slew — Exodus 2:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.
@@ -11074,16 +7614,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the Lord had delivered me into thine hand, thou killedst me not.
 - NEW: And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the Lord had delivered me into thine hand, thou slew me not.
-
-## killest → kill — Matthew 23:37
-- source: UKJV alignment (word in KJV same testament)
-- OLD: O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
-- NEW: O Jerusalem, Jerusalem, thou that kill the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
-
-## killest → kill — Luke 13:34
-- source: UKJV alignment (word in KJV same testament)
-- OLD: O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!
-- NEW: O Jerusalem, Jerusalem, which kill the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!
 
 ## kingly → royal — Daniel 5:20
 - source: King James agent selection
@@ -11099,21 +7629,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But they, supposing him to have been in the company, went a day’s journey; and they sought him among their kinsfolk and acquaintance.
 - NEW: But they, supposing him to have been in the company, went a day’s journey; and they sought him among their near and acquaintance.
-
-## kinsman's → kinsfolks — Ruth 3:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Tarry this night, and it shall be in the morning, that if he will perform unto thee the part of a kinsman, well; let him do the kinsman’s part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, as the Lord liveth: lie down until the morning.
-- NEW: Tarry this night, and it shall be in the morning, that if he will perform unto thee the part of a kinsman, well; let him do the kinsman’s part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, as the Lord liveth: lie down until the morning.
-
-## kisses → ??? — Proverbs 27:6
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.
-- NEW: Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.
-
-## kisses → ??? — Song of Solomon 1:2
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Let him kiss me with the kisses of his mouth: for thy love is better than wine.
-- NEW: Let him kiss me with the kisses of his mouth: for thy love is better than wine.
 
 ## kite → ??? — Leviticus 11:14
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -11155,16 +7670,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: O come, let us worship and bow down: let us kneel before the Lord our maker.
 - NEW: O come, let us worship and bow down: let us thee before the Lord our maker.
 
-## knocked → knock — Acts 12:13
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.
-- NEW: And as Peter knock at the door of the gate, a damsel came to hearken, named Rhoda.
-
-## knocking → knock — Acts 12:16
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: But Peter continued knocking: and when they had opened the door, and saw him, they were astonished.
-- NEW: But Peter continued knock: and when they had opened the door, and saw him, they were astonished.
-
 ## labourer → workman — Luke 10:7
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.
@@ -11175,55 +7680,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward.
 - NEW: For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The workman is worthy of his reward.
 
-## lackest → wantest — Mark 10:21
-- source: King James agent selection
-- OLD: Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.
-- NEW: Then Jesus beholding him loved him, and said unto him, One thing thou wantest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.
-
-## lackest → wantest — Luke 18:22
-- source: King James agent selection
-- OLD: Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.
-- NEW: Now when Jesus heard these things, he said unto him, Yet wantest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.
-
-## lad's → souls — Genesis 44:30
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now therefore when I come to thy servant my father, and the lad be not with us; seeing that his life is bound up in the lad’s life;
-- NEW: Now therefore when I come to thy servant my father, and the lad be not with us; seeing that his life is bound up in the lad’s life;
-
 ## ladder → ??? — Genesis 28:12
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.
 - NEW: And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.
-
-## ladeth → honoureth — Habakkuk 2:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!
-- NEW: Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that honoureth himself with thick clay!
-
-## ladies → women — Judges 5:29
-- source: King James agent selection
-- OLD: Her wise ladies answered her, yea, she returned answer to herself,
-- NEW: Her wise women answered her, yea, she returned answer to herself,
-
-## ladies → women — Esther 1:18
-- source: King James agent selection
-- OLD: Likewise shall the ladies of Persia and Media say this day unto all the king’s princes, which have heard of the deed of the queen. Thus shall there arise too much contempt and wrath.
-- NEW: Likewise shall the women of Persia and Media say this day unto all the king’s princes, which have heard of the deed of the queen. Thus shall there arise too much contempt and wrath.
-
-## lading → burdening — Nehemiah 13:15
-- source: King James agent selection
-- OLD: In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals.
-- NEW: In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and burdening asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals.
-
-## lading → burden — Acts 27:10
-- source: King James agent selection
-- OLD: And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives.
-- NEW: And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the burden and ship, but also of our lives.
-
-## lads → servants — Genesis 48:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.
-- NEW: The Angel which redeemed me from all evil, bless the servants; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.
 
 ## lama → ??? — Matthew 27:46
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -11250,60 +7710,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.
 - NEW: And they cried aloud, and cut themselves after their manner with knives and spears, till the blood gushed out upon them.
 
-## landed → touched — Acts 18:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when he had landed at Cesarea, and gone up, and saluted the church, he went down to Antioch.
-- NEW: And when he had touched at Cesarea, and gone up, and saluted the church, he went down to Antioch.
-
-## landed → touched — Acts 21:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.
-- NEW: Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and touched at Tyre: for there the ship was to unlade her burden.
-
-## landing → touching — Acts 28:12
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And landing at Syracuse, we tarried there three days.
-- NEW: And touching at Syracuse, we tarried there three days.
-
-## landmarks → borders — Job 24:2
-- source: YLT alignment (word in KJV same testament)
-- OLD: Some remove the landmarks; they violently take away flocks, and feed thereof.
-- NEW: Some remove the borders; they violently take away flocks, and feed thereof.
-
 ## lanes → highways — Luke 14:21
 - source: King James agent selection
 - OLD: So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.
 - NEW: So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and highways of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.
 
-## languished → waxed — Lamentations 2:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The Lord hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.
-- NEW: The Lord hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they waxed together.
-
-## languishing → sorrow — Psalms 41:3
-- source: King James agent selection
-- OLD: The Lord will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.
-- NEW: The Lord will strengthen him upon the bed of sorrow: thou wilt make all his bed in his sickness.
-
 ## lanterns → candles — John 18:3
 - source: King James agent selection
 - OLD: Judas then, having received a band of men and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.
 - NEW: Judas then, having received a band of men and officers from the chief priests and Pharisees, cometh thither with candles and torches and weapons.
-
-## lapped → licked — Judges 7:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the number of them that lapped, putting their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water.
-- NEW: And the number of them that licked, putting their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water.
-
-## lapped → licked — Judges 7:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the Lord said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the other people go every man unto his place.
-- NEW: And the Lord said unto Gideon, By the three hundred men that licked will I save you, and deliver the Midianites into thine hand: and let all the other people go every man unto his place.
-
-## lappeth → licketh — Judges 7:5
-- source: King James agent selection
-- OLD: So he brought down the people unto the water: and the Lord said unto Gideon, Every one that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink.
-- NEW: So he brought down the people unto the water: and the Lord said unto Gideon, Every one that licketh of the water with his tongue, as a dog licketh, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink.
 
 ## lapwing → ??? — Leviticus 11:19
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -11320,16 +7735,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea shore.
 - NEW: And God gave Solomon wisdom and understanding exceeding much, and breadth of heart, even as the sand that is on the sea shore.
 
-## lasted → continued — Judges 14:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And she wept before him the seven days, while their feast lasted: and it came to pass on the seventh day, that he told her, because she lay sore upon him: and she told the riddle to the children of her people.
-- NEW: And she wept before him the seven days, while their feast continued: and it came to pass on the seventh day, that he told her, because she lay sore upon him: and she told the riddle to the children of her people.
-
-## lasting → everlasting — Deuteronomy 33:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And for the chief things of the ancient mountains, and for the precious things of the lasting hills,
-- NEW: And for the chief things of the ancient mountains, and for the precious things of the everlasting hills,
-
 ## lately → newly — Acts 18:2
 - source: King James agent selection
 - OLD: And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
@@ -11339,16 +7744,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: UKJV alignment (word in KJV other testament)
 - OLD: And again, Praise the Lord, all ye Gentiles; and laud him, all ye people.
 - NEW: And again, Praise the Lord, all ye Gentiles; and extol him, all ye people.
-
-## laugheth → scorneth — Job 41:29
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Darts are counted as stubble: he laugheth at the shaking of a spear.
-- NEW: Darts are counted as stubble: he scorneth at the shaking of a spear.
-
-## laughing → mocking — Job 8:21
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Till he fill thy mouth with laughing, and thy lips with rejoicing.
-- NEW: Till he fill thy mouth with mocking, and thy lips with rejoicing.
 
 ## lawfully → rightly — I Timothy 1:8
 - source: King James agent selection
@@ -11370,31 +7765,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
 - NEW: For I feared thee, because thou art an austere man: thou takest up that thou laid not down, and reapest that thou didst not sow.
 
-## layest → makest — Numbers 11:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Moses said unto the Lord, Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou layest the burden of all this people upon me?
-- NEW: And Moses said unto the Lord, Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou makest the burden of all this people upon me?
-
-## layest → makest — I Samuel 28:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the woman said unto him, Behold, thou knowest what Saul hath done, how he hath cut off those that have familiar spirits, and the wizards, out of the land: wherefore then layest thou a snare for my life, to cause me to die?
-- NEW: And the woman said unto him, Behold, thou knowest what Saul hath done, how he hath cut off those that have familiar spirits, and the wizards, out of the land: wherefore then makest thou a snare for my life, to cause me to die?
-
-## leadest → lead — Psalms 80:1
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.
-- NEW: Give ear, O Shepherd of Israel, thou that lead Joseph like a flock; thou that dwellest between the cherubims, shine forth.
-
-## leaneth → taketh — II Samuel 3:29
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Let it rest on the head of Joab, and on all his father’s house; and let there not fail from the house of Joab one that hath an issue, or that is a leper, or that leaneth on a staff, or that falleth on the sword, or that lacketh bread.
-- NEW: Let it rest on the head of Joab, and on all his father’s house; and let there not fail from the house of Joab one that hath an issue, or that is a leper, or that taketh on a staff, or that falleth on the sword, or that lacketh bread.
-
-## leaneth → taketh — II Kings 5:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: In this thing the Lord pardon thy servant, that when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the Lord pardon thy servant in this thing.
-- NEW: In this thing the Lord pardon thy servant, that when my master goeth into the house of Rimmon to worship there, and he taketh on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the Lord pardon thy servant in this thing.
-
 ## leasing → falsehood — Psalms 4:2
 - source: Webster alignment (word in KJV same testament)
 - OLD: O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.
@@ -11415,25 +7785,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.
 - NEW: And the same John had his raiment of camel’s hair, and a skin girdle about his loins; and his meat was locusts and wild honey.
 
-## leaveneth → corrupteth — I Corinthians 5:6
-- source: King James agent selection
-- OLD: Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?
-- NEW: Your glorying is not good. Know ye not that a little leaven corrupteth the whole lump?
-
-## leaveneth → corrupteth — Galatians 5:9
-- source: King James agent selection
-- OLD: A little leaven leaveneth the whole lump.
-- NEW: A little leaven corrupteth the whole lump.
-
 ## leeks → grass — Numbers 11:5
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
 - NEW: We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the grass, and the onions, and the garlick:
-
-## leftest → mightest — Nehemiah 9:28
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: But after they had rest, they did evil again before thee: therefore leftest thou them in the hand of their enemies, so that they had the dominion over them: yet when they returned, and cried unto thee, thou heardest them from heaven; and many times didst thou deliver them according to thy mercies;
-- NEW: But after they had rest, they did evil again before thee: therefore mightest thou them in the hand of their enemies, so that they had the dominion over them: yet when they returned, and cried unto thee, thou heardest them from heaven; and many times didst thou deliver them according to thy mercies;
 
 ## lefthanded → served — Judges 3:15
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -11449,11 +7804,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Take the millstones, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers.
 - NEW: Take the millstones, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers.
-
-## legions → hosts — Matthew 26:53
-- source: King James agent selection
-- OLD: Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?
-- NEW: Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve hosts of angels?
 
 ## leisure → time — Mark 6:31
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -11490,21 +7840,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Wherefore, O king, let my counsel be acceptable unto thee, and break off thy sins by righteousness, and thine iniquities by shewing mercy to the poor; if it may be a lengthening of thy tranquillity.
 - NEW: Wherefore, O king, let my counsel be acceptable unto thee, and break off thy sins by righteousness, and thine iniquities by shewing mercy to the poor; if it may be a prolonging of thy tranquillity.
 
-## leopards → leopard — Song of Solomon 4:8
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards.
-- NEW: Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopard.
-
-## leopards → leopard — Habakkuk 1:8
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat.
-- NEW: Their horses also are swifter than the leopard, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat.
-
-## letting → sending — Exodus 8:29
-- source: YLT alignment (word in KJV same testament)
-- OLD: And Moses said, Behold, I go out from thee, and I will intreat the Lord that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the Lord.
-- NEW: And Moses said, Behold, I go out from thee, and I will intreat the Lord that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not sending the people go to sacrifice to the Lord.
-
 ## liberality → grace — I Corinthians 16:3
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem.
@@ -11535,11 +7870,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: To whom I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him.
 - NEW: To whom I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have place to answer for himself concerning the crime laid against him.
 
-## licketh → lappeth — Numbers 22:4
-- source: King James agent selection
-- OLD: And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time.
-- NEW: And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox lappeth up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time.
-
 ## lid → door — II Kings 12:9
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But Jehoiada the priest took a chest, and bored a hole in the lid of it, and set it beside the altar, on the right side as one cometh into the house of the Lord: and the priests that kept the door put therein all the money that was brought into the house of the Lord.
@@ -11550,50 +7880,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But thou, O Lord, art a shield for me; my glory, and the lifter up of mine head.
 - NEW: But thou, O Lord, art a shield for me; my glory, and the high up of mine head.
 
-## lighteneth → shineth — Proverbs 29:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The poor and the deceitful man meet together: the Lord lighteneth both their eyes.
-- NEW: The poor and the deceitful man meet together: the Lord shineth both their eyes.
-
-## lighteneth → shineth — Luke 17:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day.
-- NEW: For as the lightning, that shineth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day.
-
-## lightest → wentest — Numbers 8:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick.
-- NEW: Speak unto Aaron, and say unto him, When thou wentest the lamps, the seven lamps shall give light over against the candlestick.
-
-## lighting → coming — Isaiah 30:30
-- source: YLT alignment (word in KJV same testament)
-- OLD: And the Lord shall cause his glorious voice to be heard, and shall shew the lighting down of his arm, with the indignation of his anger, and with the flame of a devouring fire, with scattering, and tempest, and hailstones.
-- NEW: And the Lord shall cause his glorious voice to be heard, and shall shew the coming down of his arm, with the indignation of his anger, and with the flame of a devouring fire, with scattering, and tempest, and hailstones.
-
-## lighting → coming — Matthew 3:16
-- source: YLT alignment (word in KJV same testament)
-- OLD: And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:
-- NEW: And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and coming upon him:
-
 ## lign → tree — Numbers 24:6
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the Lord hath planted, and as cedar trees beside the waters.
 - NEW: As the valleys are they spread forth, as gardens by the river’s side, as the trees of tree aloes which the Lord hath planted, and as cedar trees beside the waters.
-
-## liked → approved — I Chronicles 28:4
-- source: Webster alignment (word in KJV other testament)
-- OLD: Howbeit the Lord God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel:
-- NEW: Howbeit the Lord God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he approved me to make me king over all Israel:
-
-## liking → looking — Job 39:4
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them.
-- NEW: Their young ones are in good looking, they grow up with corn; they go forth, and return not unto them.
-
-## liking → looking — Daniel 1:10
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then shall ye make me endanger my head to the king.
-- NEW: And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse looking than the children which are of your sort? then shall ye make me endanger my head to the king.
 
 ## lime → plaister — Isaiah 33:12
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -11615,16 +7905,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
 - NEW: And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, unto the city of David, which is called Bethlehem; (because he was of the house and family of David:)
 
-## lines → ropes — II Samuel 8:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David’s servants, and brought gifts.
-- NEW: And he smote Moab, and measured them with a line, casting them down to the ground; even with two ropes measured he to put to death, and with one full line to keep alive. And so the Moabites became David’s servants, and brought gifts.
-
-## lines → ropes — Psalms 16:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The lines are fallen unto me in pleasant places; yea, I have a goodly heritage.
-- NEW: The ropes are fallen unto me in pleasant places; yea, I have a goodly heritage.
-
 ## lingered → tarried — Genesis 19:16
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the Lord being merciful unto him: and they brought him forth, and set him without the city.
@@ -11634,11 +7914,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For except we had lingered, surely now we had returned this second time.
 - NEW: For except we had tarried, surely now we had returned this second time.
-
-## lintels → knops — Zephaniah 2:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; their voice shall sing in the windows; desolation shall be in the thresholds: for he shall uncover the cedar work.
-- NEW: And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper knops of it; their voice shall sing in the windows; desolation shall be in the thresholds: for he shall uncover the cedar work.
 
 ## lionlike → men — II Samuel 23:20
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -11745,16 +8020,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour were locked, they said, Surely he covereth his feet in his summer chamber.
 - NEW: When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour were inclosed, they said, Surely he covereth his feet in his summer chamber.
 
-## lodgeth → thinketh — Acts 10:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.
-- NEW: He thinketh with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.
-
-## lodgings → lodging — II Kings 19:23
-- source: YLT alignment (word in KJV same testament)
-- OLD: By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, and the choice fir trees thereof: and I will enter into the lodgings of his borders, and into the forest of his Carmel.
-- NEW: By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, and the choice fir trees thereof: and I will enter into the lodging of his borders, and into the forest of his Carmel.
-
 ## loft → chamber — I Kings 17:19
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed.
@@ -11785,30 +8050,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And now, though thou wouldest needs be gone, because thou sore longedst after thy father’s house, yet wherefore hast thou stolen my gods?
 - NEW: And now, though thou wouldest needs be gone, because thou sore longed after thy father’s house, yet wherefore hast thou stolen my gods?
 
-## lookest → look — Job 13:27
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.
-- NEW: Thou puttest my feet also in the stocks, and look narrowly unto all my paths; thou settest a print upon the heels of my feet.
-
-## lookest → mayest — Habakkuk 1:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?
-- NEW: Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore mayest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?
-
 ## lookingglasses → glasses — Exodus 38:8
 - source: King James agent selection
 - OLD: And he made the laver of brass, and the foot of it of brass, of the lookingglasses of the women assembling, which assembled at the door of the tabernacle of the congregation.
 - NEW: And he made the laver of brass, and the foot of it of brass, of the glasses of the women assembling, which assembled at the door of the tabernacle of the congregation.
-
-## looseth → openeth — Job 12:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He looseth the bond of kings, and girdeth their loins with a girdle.
-- NEW: He openeth the bond of kings, and girdeth their loins with a girdle.
-
-## looseth → openeth — Psalms 146:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Which executeth judgment for the oppressed: which giveth food to the hungry. The Lord looseth the prisoners:
-- NEW: Which executeth judgment for the oppressed: which giveth food to the hungry. The Lord openeth the prisoners:
 
 ## lop → cut — Isaiah 10:33
 - source: King James agent selection
@@ -11830,30 +8075,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.
 - NEW: And he said unto them, The kings of the Gentiles exercise rule over them; and they that exercise authority upon them are called benefactors.
 
-## loseth → perisheth — Matthew 10:39
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.
-- NEW: He that findeth his life shall lose it: and he that perisheth his life for my sake shall find it.
-
-## lotheth → faileth — Ezekiel 16:45
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou art thy mother’s daughter, that lotheth her husband and her children; and thou art the sister of thy sisters, which lothed their husbands and their children: your mother was an Hittite, and your father an Amorite.
-- NEW: Thou art thy mother’s daughter, that faileth her husband and her children; and thou art the sister of thy sisters, which lothed their husbands and their children: your mother was an Hittite, and your father an Amorite.
-
-## lothing → abhorring — Ezekiel 16:5
-- source: King James agent selection
-- OLD: None eye pitied thee, to do any of these unto thee, to have compassion upon thee; but thou wast cast out in the open field, to the lothing of thy person, in the day that thou wast born.
-- NEW: None eye pitied thee, to do any of these unto thee, to have compassion upon thee; but thou wast cast out in the open field, to the abhorring of thy person, in the day that thou wast born.
-
 ## louder → sore — Exodus 19:19
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spake, and God answered him by a voice.
 - NEW: And when the voice of the trumpet sounded long, and waxed sore and sore, Moses spake, and God answered him by a voice.
-
-## love's → feasts — Philemon 1:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Yet for love’s sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
-- NEW: Yet for love’s sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
 
 ## lovedst → love — Isaiah 57:8
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -11864,31 +8089,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.
 - NEW: Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou love me before the foundation of the world.
-
-## loves → love — Proverbs 7:18
-- source: King James agent selection
-- OLD: Come, let us take our fill of love until the morning: let us solace ourselves with loves.
-- NEW: Come, let us take our fill of love until the morning: let us solace ourselves with love.
-
-## loves → love — Song of Solomon 7:12
-- source: King James agent selection
-- OLD: Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves.
-- NEW: Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my love.
-
-## loweth → belloweth — Job 6:5
-- source: King James agent selection
-- OLD: Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?
-- NEW: Doth the wild ass bray when he hath grass? or belloweth the ox over his fodder?
-
-## lowing → speaking — I Samuel 6:12
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And the kine took the straight way to the way of Beth–shemesh, and went along the highway, lowing as they went, and turned not aside to the right hand or to the left; and the lords of the Philistines went after them unto the border of Beth–shemesh.
-- NEW: And the kine took the straight way to the way of Beth–shemesh, and went along the highway, speaking as they went, and turned not aside to the right hand or to the left; and the lords of the Philistines went after them unto the border of Beth–shemesh.
-
-## lowing → noise — I Samuel 15:14
-- source: YLT alignment (word in KJV same testament)
-- OLD: And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?
-- NEW: And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the noise of the oxen which I hear?
 
 ## lowliness → bottomless — Ephesians 4:2
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -11904,11 +8104,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: And in the morning, It will be foul weather to day: for the sky is red and lowring. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?
 - NEW: And in the morning, It will be foul weather to day: for the sky is red and overcast. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?
-
-## lucre's → gain's — Titus 1:11
-- source: King James agent selection
-- OLD: Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake.
-- NEW: Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake.
 
 ## lukewarm → ??? — Revelation of John 3:16
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -11935,11 +8130,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And they lay wait for their own blood; they lurk privily for their own lives.
 - NEW: And they lay wait for their own blood; they hid privily for their own lives.
 
-## lusting → longing — Numbers 11:4
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
-- NEW: And the mixt multitude that was among them fell a longing: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
-
 ## lusty → fat — Judges 3:29
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man.
@@ -11965,16 +8155,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.
 - NEW: So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her mighty should be destroyed, whom all Asia and the world worshippeth.
 
-## maid's → maidens — Esther 2:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now when every maid’s turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, (for so were the days of their purifications accomplished, to wit, six months with oil of myrrh, and six months with sweet odours, and with other things for the purifying of the women;)
-- NEW: Now when every maid’s turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, (for so were the days of their purifications accomplished, to wit, six months with oil of myrrh, and six months with sweet odours, and with other things for the purifying of the women;)
-
-## maidservant's → maidservants — Exodus 21:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake.
-- NEW: And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake.
-
 ## mail → coat — I Samuel 17:5
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And he had an helmet of brass upon his head, and he was armed with a coat of mail; and the weight of the coat was five thousand shekels of brass.
@@ -11990,16 +8170,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And when they had taken up the anchors, they committed themselves unto the sea, and loosed the rudder bands, and hoised up the mainsail to the wind, and made toward shore.
 - NEW: And when they had taken up the anchors, they committed themselves unto the sea, and loosed the rudder bands, and hoised up the sail to the wind, and made toward shore.
 
-## maintained → committed — Psalms 9:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For thou hast maintained my right and my cause; thou satest in the throne judging right.
-- NEW: For thou hast committed my right and my cause; thou satest in the throne judging right.
-
-## maintainest → holdest — Psalms 16:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The Lord is the portion of mine inheritance and of my cup: thou maintainest my lot.
-- NEW: The Lord is the portion of mine inheritance and of my cup: thou holdest my lot.
-
 ## maintenance → life — Ezra 4:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Now because we have maintenance from the king’s palace, and it was not meet for us to see the king’s dishonour, therefore have we sent and certified the king;
@@ -12009,11 +8179,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And thou shalt have goats’ milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens. 
 - NEW: And thou shalt have goats’ milk enough for thy food, for the food of thy household, and for the life for thy maidens. 
-
-## makers → carpenters — Isaiah 45:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: They shall be ashamed, and also confounded, all of them: they shall go to confusion together that are makers of idols.
-- NEW: They shall be ashamed, and also confounded, all of them: they shall go to confusion together that are carpenters of idols.
 
 ## malefactor → evildoers — John 18:30
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -12055,16 +8220,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
 - NEW: Forasmuch as ye are plainly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
 
-## manservant's → servants — Exodus 21:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake.
-- NEW: And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake.
-
-## manservants → servants — Nehemiah 7:67
-- source: YLT alignment (word in KJV same testament)
-- OLD: Beside their manservants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.
-- NEW: Beside their servants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.
-
 ## mansions → habitations — John 14:2
 - source: King James agent selection
 - OLD: In my Father’s house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.
@@ -12085,50 +8240,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
 - NEW: Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for murderers,
 
-## mantles → cloaks — Isaiah 3:22
-- source: King James agent selection
-- OLD: The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,
-- NEW: The changeable suits of apparel, and the cloaks, and the wimples, and the crisping pins,
-
-## marched → departed — Exodus 14:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the Lord.
-- NEW: And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians departed after them; and they were sore afraid: and the children of Israel cried out unto the Lord.
-
 ## marchedst → march — Judges 5:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Lord, when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water.
 - NEW: Lord, when thou wentest out of Seir, when thou march out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water.
-
-## markest → mayest — Job 10:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.
-- NEW: If I sin, then thou mayest me, and thou wilt not acquit me from mine iniquity.
-
-## marketplaces → markets — Mark 12:38
-- source: King James agent selection
-- OLD: And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,
-- NEW: And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the markets,
-
-## marks → signs — Leviticus 19:28
-- source: King James agent selection
-- OLD: Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the Lord.
-- NEW: Ye shall not make any cuttings in your flesh for the dead, nor print any signs upon you: I am the Lord.
-
-## marks → prints — Galatians 6:17
-- source: King James agent selection
-- OLD: From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
-- NEW: From henceforth let no man trouble me: for I bear in my body the prints of the Lord Jesus.
-
-## marrying → dwelling — Nehemiah 13:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Shall we then hearken unto you to do all this great evil, to transgress against our God in marrying strange wives?
-- NEW: Shall we then hearken unto you to do all this great evil, to transgress against our God in dwelling strange wives?
-
-## marrying → dwelling — Matthew 24:38
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,
-- NEW: For as in the days that were before the flood they were eating and drinking, dwelling and giving in marriage, until the day that Noe entered into the ark,
 
 ## mart → merchant — Isaiah 23:3
 - source: UKJV alignment (word in KJV same testament)
@@ -12150,11 +8265,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
 - NEW: And I saw the woman drunken with the blood of the saints, and with the blood of the witnesses of Jesus: and when I saw her, I wondered with great admiration.
 
-## marvels → wonders — Exodus 34:10
-- source: Webster alignment (word in KJV same testament)
-- OLD: And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou art shall see the work of the Lord: for it is a terrible thing that I will do with thee.
-- NEW: And he said, Behold, I make a covenant: before all thy people I will do wonders, such as have not been done in all the earth, nor in any nation: and all the people among which thou art shall see the work of the Lord: for it is a terrible thing that I will do with thee.
-
 ## mast → ??? — Proverbs 23:34
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.
@@ -12169,11 +8279,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.
 - NEW: According to the grace of God which is given unto me, as a wise builder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.
-
-## masteries → mastery — II Timothy 2:5
-- source: King James agent selection
-- OLD: And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.
-- NEW: And if a man also strive for mastery, yet is he not crowned, except he strive lawfully.
 
 ## masts → ??? — Ezekiel 27:5
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -12240,26 +8345,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And Boaz said unto her, At mealtime come thou hither, and eat of the bread, and dip thy morsel in the vinegar. And she sat beside the reapers: and he reached her parched corn, and she did eat, and was sufficed, and left.
 - NEW: And Boaz said unto her, At time come thou hither, and eat of the bread, and dip thy morsel in the vinegar. And she sat beside the reapers: and he reached her parched corn, and she did eat, and was sufficed, and left.
 
-## meddled → intermeddled — Proverbs 17:14
-- source: King James agent selection
-- OLD: The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.
-- NEW: The beginning of strife is as when one letteth out water: therefore leave off contention, before it be intermeddled with.
-
-## meddleth → passeth — Proverbs 26:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears.
-- NEW: He that passeth by, and passeth with strife belonging not to him, is like one that taketh a dog by the ears.
-
-## meddling → intermeddling — II Chronicles 35:21
-- source: King James agent selection
-- OLD: But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? I come not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from meddling with God, who is with me, that he destroy thee not.
-- NEW: But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? I come not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from intermeddling with God, who is with me, that he destroy thee not.
-
-## meddling → intermeddling — Proverbs 20:3
-- source: King James agent selection
-- OLD: It is an honour for a man to cease from strife: but every fool will be meddling.
-- NEW: It is an honour for a man to cease from strife: but every fool will be intermeddling.
-
 ## medicine → remedy — Proverbs 17:22
 - source: King James agent selection
 - OLD: A merry heart doeth good like a medicine: but a broken spirit drieth the bones.
@@ -12280,35 +8365,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines; for thou shalt not be cured.
 - NEW: Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many remedies; for thou shalt not be cured.
 
-## meetest → meet — II Kings 10:3
-- source: AKJV alignment (word in KJV same testament)
-- OLD: Look even out the best and meetest of your master’s sons, and set him on his father’s throne, and fight for your master’s house.
-- NEW: Look even out the best and meet of your master’s sons, and set him on his father’s throne, and fight for your master’s house.
-
-## meetest → comest — Isaiah 64:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.
-- NEW: Thou comest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.
-
-## meeting → seeking — I Samuel 21:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?
-- NEW: Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the seeking of David, and said unto him, Why art thou alone, and no man with thee?
-
-## meeting → seeking — Isaiah 1:13
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting.
-- NEW: Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn seeking.
-
 ## melons → ??? — Numbers 11:5
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
 - NEW: We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
-
-## melting → fervent — Isaiah 64:2
-- source: King James agent selection
-- OLD: As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!
-- NEW: As when the fervent fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!
 
 ## mend → strengthen — II Chronicles 24:12
 - source: YLT alignment (word in KJV same testament)
@@ -12420,25 +8480,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the people went about, and gathered it, and ground it in mills, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
 - NEW: And the people went about, and gathered it, and ground it in millstones, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
 
-## millstones → nether — Isaiah 47:2
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Take the millstones, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers.
-- NEW: Take the nether, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers.
-
-## millstones → nether — Jeremiah 25:10
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Moreover I will take from them the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the sound of the millstones, and the light of the candle.
-- NEW: Moreover I will take from them the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the sound of the nether, and the light of the candle.
-
 ## mincing → tripping — Isaiah 3:16
 - source: King James agent selection
 - OLD: Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:
 - NEW: Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and tripping as they go, and making a tinkling with their feet:
-
-## minding → intending — Acts 20:13
-- source: Webster alignment (word in KJV same testament)
-- OLD: And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot.
-- NEW: And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, intending himself to go afoot.
 
 ## mingle → themselves — Isaiah 5:22
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -12459,16 +8504,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: Webster alignment (word in KJV same testament)
 - OLD: Again, they are minished and brought low through oppression, affliction, and sorrow.
 - NEW: Again, they are diminished and brought low through oppression, affliction, and sorrow.
-
-## ministereth → ministers — II Corinthians 9:10
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)
-- NEW: Now he that ministers seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)
-
-## ministereth → ministers — Galatians 3:5
-- source: UKJV alignment (word in KJV same testament)
-- OLD: He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?
-- NEW: He therefore that ministers to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?
 
 ## minstrel → play — II Kings 3:15
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -12499,16 +8534,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: They say unto him, He will miserably destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons.
 - NEW: They say unto him, He will grievously destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons.
-
-## miseries → sorrows — Lamentations 1:7
-- source: King James agent selection
-- OLD: Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths.
-- NEW: Jerusalem remembered in the days of her affliction and of her sorrows all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths.
-
-## miseries → sorrows — James 5:1
-- source: King James agent selection
-- OLD: Go to now, ye rich men, weep and howl for your miseries that shall come upon you. 
-- NEW: Go to now, ye rich men, weep and howl for your sorrows that shall come upon you. 
 
 ## miss → err — Judges 20:16
 - source: YLT alignment (word in KJV same testament)
@@ -12559,16 +8584,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: YLT alignment (word in KJV same testament)
 - OLD: Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.
 - NEW: Wine is a scorner, strong drink is raging: and whosoever is deceived thereby is not wise.
-
-## mockest → scornest — Job 11:3
-- source: King James agent selection
-- OLD: Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?
-- NEW: Should thy lies make men hold their peace? and when thou scornest, shall no man make thee ashamed?
-
-## mockings → reproaches — Hebrews 11:36
-- source: King James agent selection
-- OLD: And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:
-- NEW: And others had trial of cruel reproaches and scourgings, yea, moreover of bonds and imprisonment:
 
 ## moderately → righteously — Joel 2:23
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -12645,11 +8660,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Which remain among the graves, and lodge in the monuments, which eat swine’s flesh, and broth of abominable things is in their vessels;
 - NEW: Which remain among the graves, and lodge in the keepers, which eat swine’s flesh, and broth of abominable things is in their vessels;
 
-## morsels → pieces — Psalms 147:17
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: He casteth forth his ice like morsels: who can stand before his cold?
-- NEW: He casteth forth his ice like pieces: who can stand before his cold?
-
 ## mortality → mortal — II Corinthians 5:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
@@ -12699,16 +8709,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: This our bread we took hot for our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:
 - NEW: This our bread we took hot for our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is rotten:
-
-## mounted → exalted — Ezekiel 10:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also were beside them, and every one stood at the door of the east gate of the Lord’s house; and the glory of the God of Israel was over them above.
-- NEW: And the cherubims lifted up their wings, and exalted up from the earth in my sight: when they went out, the wheels also were beside them, and every one stood at the door of the east gate of the Lord’s house; and the glory of the God of Israel was over them above.
-
-## mounting → rising — Isaiah 15:5
-- source: King James agent selection
-- OLD: My heart shall cry out for Moab; his fugitives shall flee unto Zoar, an heifer of three years old: for by the mounting up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction.
-- NEW: My heart shall cry out for Moab; his fugitives shall flee unto Zoar, an heifer of three years old: for by the rising up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction.
 
 ## mourner → mourn — II Samuel 14:2
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -12770,16 +8770,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Their children also multipliedst thou as the stars of heaven, and broughtest them into the land, concerning which thou hadst promised to their fathers, that they should go in to possess it.
 - NEW: Their children also increase thou as the stars of heaven, and broughtest them into the land, concerning which thou hadst promised to their fathers, that they should go in to possess it.
 
-## multiplying → exceeding — Genesis 22:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;
-- NEW: That in blessing I will bless thee, and in exceeding I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;
-
-## multiplying → exceeding — Hebrews 6:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.
-- NEW: Saying, Surely blessing I will bless thee, and exceeding I will multiply thee.
-
 ## munition → net — Isaiah 29:7
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.
@@ -12799,16 +8789,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men’s persons in admiration because of advantage.
 - NEW: These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men’s persons in admiration because of advantage.
-
-## murmuring → grudging — John 7:12
-- source: King James agent selection
-- OLD: And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.
-- NEW: And there was much grudging among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.
-
-## murmuring → grudging — Acts 6:1
-- source: King James agent selection
-- OLD: And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.
-- NEW: And in those days, when the number of the disciples was multiplied, there arose a grudging of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.
 
 ## murrain → pestilence — Exodus 9:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -12865,21 +8845,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: That is, that I may be comforted together with you by the mutual faith both of you and me.
 - NEW: That is, that I may be comforted together with you by the another faith both of you and me.
 
-## nailing → fastening — Colossians 2:14
-- source: King James agent selection
-- OLD: Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
-- NEW: Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, fastening it to his cross;
-
-## nameth → names — II Timothy 2:19
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
-- NEW: Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that names the name of Christ depart from iniquity.
-
-## narrowed → rested — I Kings 6:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The nethermost chamber was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad: for without in the wall of the house he made narrowed rests round about, that the beams should not be fastened in the walls of the house.
-- NEW: The nethermost chamber was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad: for without in the wall of the house he made rested rests round about, that the beams should not be fastened in the walls of the house.
-
 ## narrower → bound — Isaiah 28:20
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For the bed is shorter than that a man can stretch himself on it: and the covering narrower than that he can wrap himself in it.
@@ -12930,21 +8895,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer.
 - NEW: Or a charmer, or a consulter with familiar spirits, or a wizard, or a seek.
 
-## needed → used — John 2:25
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And needed not that any should testify of man: for he knew what was in man. 
-- NEW: And used not that any should testify of man: for he knew what was in man. 
-
-## needed → used — Acts 17:25
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Neither is worshipped with men’s hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things;
-- NEW: Neither is worshipped with men’s hands, as though he used any thing, seeing he giveth to all life, and breath, and all things;
-
-## needest → need — John 16:30
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God.
-- NEW: Now are we sure that thou knowest all things, and need not that any man should ask thee: by this we believe that thou camest forth from God.
-
 ## needle → ??? — Matthew 19:24
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
@@ -12964,16 +8914,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: By his neesings a light doth shine, and his eyes are like the eyelids of the morning.
 - NEW: By his sneezings a light doth shine, and his eyes are like the eyelids of the morning.
-
-## neglected → forgotten — Acts 6:1
-- source: King James agent selection
-- OLD: And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.
-- NEW: And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were forgotten in the daily ministration.
-
-## neglecting → despising — Colossians 2:23
-- source: King James agent selection
-- OLD: Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh. 
-- NEW: Which things have indeed a shew of wisdom in will worship, and humility, and despising of the body; not in any honour to the satisfying of the flesh. 
 
 ## negligent → deceive — II Chronicles 29:11
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -13040,11 +8980,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
 - NEW: But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
 
-## news → report — Proverbs 25:25
-- source: YLT alignment (word in KJV same testament)
-- OLD: As cold waters to a thirsty soul, so is good news from a far country.
-- NEW: As cold waters to a thirsty soul, so is good report from a far country.
-
 ## nitre → thee — Proverbs 25:20
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart.
@@ -13080,21 +9015,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.
 - NEW: But I will remove far off from you the north army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.
 
-## noses → faces — Psalms 115:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: They have ears, but they hear not: noses have they, but they smell not:
-- NEW: They have ears, but they hear not: faces have they, but they smell not:
-
-## noses → faces — Ezekiel 39:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it shall come to pass in that day, that I will give unto Gog a place there of graves in Israel, the valley of the passengers on the east of the sea: and it shall stop the noses of the passengers: and there shall they bury Gog and all his multitude: and they shall call it The valley of Hamon–gog.
-- NEW: And it shall come to pass in that day, that I will give unto Gog a place there of graves in Israel, the valley of the passengers on the east of the sea: and it shall stop the faces of the passengers: and there shall they bury Gog and all his multitude: and they shall call it The valley of Hamon–gog.
-
-## noted → written — Daniel 10:21
-- source: King James agent selection
-- OLD: But I will shew thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince. 
-- NEW: But I will shew thee that which is written in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince. 
-
 ## notice → know — II Samuel 3:36
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And all the people took notice of it, and it pleased them: as whatsoever the king did pleased all the people.
@@ -13110,16 +9030,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.
 - NEW: And he shall be unto thee a restorer of thy life, and a sustain of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.
 
-## nourisheth → bringeth — Ephesians 5:29
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
-- NEW: For no man ever yet hated his own flesh; but bringeth and cherisheth it, even as the Lord the church:
-
-## nourishing → exceeding — Daniel 1:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And the king appointed them a daily provision of the king’s meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king.
-- NEW: And the king appointed them a daily provision of the king’s meat, and of the wine which he drank: so exceeding them three years, that at the end thereof they might stand before the king.
-
 ## nourishment → add — Colossians 2:19
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.
@@ -13129,26 +9039,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
 - NEW: Not a beginner, lest being lifted up with pride he fall into the condemnation of the devil.
-
-## numbering → telling — Genesis 41:49
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number.
-- NEW: And Joseph gathered corn as the sand of the sea, very much, until he left telling; for it was without number.
-
-## numbering → telling — II Chronicles 2:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Solomon numbered all the strangers that were in the land of Israel, after the numbering wherewith David his father had numbered them; and they were found an hundred and fifty thousand and three thousand and six hundred.
-- NEW: And Solomon numbered all the strangers that were in the land of Israel, after the telling wherewith David his father had numbered them; and they were found an hundred and fifty thousand and three thousand and six hundred.
-
-## nursed → believed — Exodus 2:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Pharaoh’s daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and nursed it.
-- NEW: And Pharaoh’s daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and believed it.
-
-## nursed → believed — Isaiah 60:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons shall come from far, and thy daughters shall be nursed at thy side.
-- NEW: Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons shall come from far, and thy daughters shall be believed at thy side.
 
 ## nurture → instruction — Ephesians 6:4
 - source: YLT alignment (word in KJV same testament)
@@ -13179,16 +9069,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Of the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches of ivory, brought out of the isles of Chittim.
 - NEW: Of the oaks of Bashan have they made thine thine; the company of the Ashurites have made thy benches of ivory, brought out of the isles of Chittim.
-
-## oath's → oaths — Matthew 14:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the king was sorry: nevertheless for the oath’s sake, and them which sat with him at meat, he commanded it to be given her. 
-- NEW: And the king was sorry: nevertheless for the oath’s sake, and them which sat with him at meat, he commanded it to be given her. 
-
-## oath's → oaths — Mark 6:26
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the king was exceeding sorry; yet for his oath’s sake, and for their sakes which sat with him, he would not reject her.
-- NEW: And the king was exceeding sorry; yet for his oath’s sake, and for their sakes which sat with him, he would not reject her.
 
 ## obeyedst → heard — I Samuel 28:18
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -13225,16 +9105,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For these nations, which thou shalt possess, hearkened unto observers of times, and unto diviners: but as for thee, the Lord thy God hath not suffered thee so to do.
 - NEW: For these nations, which thou shalt possess, hearkened unto soothsayers of times, and unto diviners: but as for thee, the Lord thy God hath not suffered thee so to do.
 
-## observest → mayest — Isaiah 42:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Seeing many things, but thou observest not; opening the ears, but he heareth not.
-- NEW: Seeing many things, but thou mayest not; opening the ears, but he heareth not.
-
-## observeth → keepeth — Ecclesiastes 11:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.
-- NEW: He that keepeth the wind shall not sow; and he that regardeth the clouds shall not reap.
-
 ## obstinate → good — Deuteronomy 2:30
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But Sihon king of Heshbon would not let us pass by him: for the Lord thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as appeareth this day.
@@ -13244,26 +9114,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Because I knew that thou art obstinate, and thy neck is an iron sinew, and thy brow brass;
 - NEW: Because I knew that thou art good, and thy neck is an iron sinew, and thy brow brass;
-
-## obtaineth → getteth — Proverbs 12:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: A good man obtaineth favour of the Lord: but a man of wicked devices will he condemn.
-- NEW: A good man getteth favour of the Lord: but a man of wicked devices will he condemn.
-
-## obtaineth → getteth — Proverbs 18:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whoso findeth a wife findeth a good thing, and obtaineth favour of the Lord.
-- NEW: Whoso findeth a wife findeth a good thing, and getteth favour of the Lord.
-
-## obtaining → saving — II Thessalonians 2:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
-- NEW: Whereunto he called you by our gospel, to the saving of the glory of our Lord Jesus Christ.
-
-## occasioned → turned — I Samuel 22:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And David said unto Abiathar, I knew it that day, when Doeg the Edomite was there, that he would surely tell Saul: I have occasioned the death of all the persons of thy father’s house.
-- NEW: And David said unto Abiathar, I knew it that day, when Doeg the Edomite was there, that he would surely tell Saul: I have turned the death of all the persons of thy father’s house.
 
 ## occupiers → themselves — Ezekiel 27:27
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -13340,16 +9190,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: He hoped also that money should have been given him of Paul, that he might loose him: wherefore he sent for him the oftener, and communed with him.
 - NEW: He hoped also that money should have been given him of Paul, that he might loose him: wherefore he sent for him the often, and communed with him.
 
-## oiled → anointed — Exodus 29:23
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And one loaf of bread, and one cake of oiled bread, and one wafer out of the basket of the unleavened bread that is before the Lord:
-- NEW: And one loaf of bread, and one cake of anointed bread, and one wafer out of the basket of the unleavened bread that is before the Lord:
-
-## oiled → anointed — Leviticus 8:26
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And out of the basket of unleavened bread, that was before the Lord, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put them on the fat, and upon the right shoulder:
-- NEW: And out of the basket of unleavened bread, that was before the Lord, he took one unleavened cake, and a cake of anointed bread, and one wafer, and put them on the fat, and upon the right shoulder:
-
 ## oldness → ??? — Romans 7:6
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
@@ -13360,11 +9200,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But the seventh year thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy oliveyard.
 - NEW: But the seventh year thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy olive.
 
-## omers → sheaves — Exodus 16:22
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses.
-- NEW: And it came to pass, that on the sixth day they gathered twice as much bread, two sheaves for one man: and all the rulers of the congregation came and told Moses.
-
 ## omitted → suffered — Matthew 23:23
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone.
@@ -13374,16 +9209,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.
 - NEW: And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God almighty reigneth.
-
-## one's → always — Ecclesiastes 7:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: A good name is better than precious ointment; and the day of death than the day of one’s birth.
-- NEW: A good name is better than precious ointment; and the day of death than the day of one’s birth.
-
-## one's → always — Acts 16:26
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one’s bands were loosed.
-- NEW: And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one’s bands were loosed.
 
 ## onions → ??? — Numbers 11:5
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -13399,31 +9224,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And the Lord said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight:
 - NEW: And the Lord said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight:
-
-## openest → goest — Psalms 104:28
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: That thou givest them they gather: thou openest thine hand, they are filled with good.
-- NEW: That thou givest them they gather: thou goest thine hand, they are filled with good.
-
-## openest → goest — Psalms 145:16
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou openest thine hand, and satisfiest the desire of every living thing.
-- NEW: Thou goest thine hand, and satisfiest the desire of every living thing.
-
-## openings → doors — Proverbs 1:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,
-- NEW: She crieth in the chief place of concourse, in the doors of the gates: in the city she uttereth her words, saying,
-
-## operations → works — I Corinthians 12:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And there are diversities of operations, but it is the same God which worketh all in all.
-- NEW: And there are diversities of works, but it is the same God which worketh all in all.
-
-## opinions → branches — I Kings 18:21
-- source: YLT alignment (word in KJV same testament)
-- OLD: And Elijah came unto all the people, and said, How long halt ye between two opinions? if the Lord be God, follow him: but if Baal, then follow him. And the people answered him not a word.
-- NEW: And Elijah came unto all the people, and said, How long halt ye between two branches? if the Lord be God, follow him: but if Baal, then follow him. And the people answered him not a word.
 
 ## oppose → themselves — II Timothy 2:25
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -13475,16 +9275,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: I made me gardens and orchards, and I planted trees in them of all kind of fruits:
 - NEW: I made me gardens and forests, and I planted trees in them of all kind of fruits:
 
-## ordaineth → worketh — Psalms 7:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.
-- NEW: He hath also prepared for him the instruments of death; he worketh his arrows against the persecutors.
-
-## ordereth → maketh — Psalms 50:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God. 
-- NEW: Whoso offereth praise glorifieth me: and to him that maketh his conversation aright will I shew the salvation of God. 
-
 ## orderings → officers — I Chronicles 24:19
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: These were the orderings of them in their service to come into the house of the Lord, according to their manner, under Aaron their father, as the Lord God of Israel had commanded him.
@@ -13499,11 +9289,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Behold, therefore I have stretched out my hand over thee, and have diminished thine ordinary food, and delivered thee unto the will of them that hate thee, the daughters of the Philistines, which are ashamed of thy lewd way.
 - NEW: Behold, therefore I have stretched out my hand over thee, and have diminished thine statute food, and delivered thee unto the will of them that hate thee, the daughters of the Philistines, which are ashamed of thy lewd way.
-
-## organs → organ — Psalms 150:4
-- source: YLT alignment (word in KJV same testament)
-- OLD: Praise him with the timbrel and dance: praise him with stringed instruments and organs.
-- NEW: Praise him with the timbrel and dance: praise him with stringed instruments and organ.
 
 ## orphans → fatherless — Lamentations 5:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -13575,11 +9360,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.
 - NEW: And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and before them, and came together unto him.
 
-## ovens → oven — Exodus 8:3
-- source: King James agent selection
-- OLD: And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:
-- NEW: And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine oven, and into thy kneadingtroughs:
-
 ## overcharge → burden — II Corinthians 2:5
 - source: UKJV alignment (word in KJV same testament)
 - OLD: But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all.
@@ -13594,31 +9374,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: UKJV alignment (word in KJV same testament)
 - OLD: And he said unto him, My lord knoweth that the children are tender, and the flocks and herds with young are with me: and if men should overdrive them one day, all the flock will die.
 - NEW: And he said unto him, My lord knoweth that the children are tender, and the flocks and herds with young are with me: and if men should beat them one day, all the flock will die.
-
-## overflowed → rinsed — Psalms 78:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?
-- NEW: Behold, he smote the rock, that the waters gushed out, and the streams rinsed; can he give bread also? can he provide flesh for his people?
-
-## overflowed → washed — II Peter 3:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whereby the world that then was, being overflowed with water, perished:
-- NEW: Whereby the world that then was, being washed with water, perished:
-
-## overfloweth → filleth — Joshua 3:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And as they that bare the ark were come unto Jordan, and the feet of the priests that bare the ark were dipped in the brim of the water, (for Jordan overfloweth all his banks all the time of harvest,)
-- NEW: And as they that bare the ark were come unto Jordan, and the feet of the priests that bare the ark were dipped in the brim of the water, (for Jordan filleth all his banks all the time of harvest,)
-
-## overlaying → covering — Exodus 38:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the sockets for the pillars were of brass; the hooks of the pillars and their fillets of silver; and the overlaying of their chapiters of silver; and all the pillars of the court were filleted with silver.
-- NEW: And the sockets for the pillars were of brass; the hooks of the pillars and their fillets of silver; and the covering of their chapiters of silver; and all the pillars of the court were filleted with silver.
-
-## overlaying → covering — Exodus 38:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And their pillars were four, and their sockets of brass four; their hooks of silver, and the overlaying of their chapiters and their fillets of silver.
-- NEW: And their pillars were four, and their sockets of brass four; their hooks of silver, and the covering of their chapiters and their fillets of silver.
 
 ## overlived → required — Joshua 24:31
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -13700,16 +9455,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
 - NEW: Brethren, if a man be overtake in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
 
-## overtaketh → layeth — I Chronicles 21:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh thee; or else three days the sword of the Lord, even the pestilence, in the land, and the angel of the Lord destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me.
-- NEW: Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies layeth thee; or else three days the sword of the Lord, even the pestilence, in the land, and the angel of the Lord destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me.
-
-## overturned → turneth — Judges 7:13
-- source: YLT alignment (word in KJV same testament)
-- OLD: And when Gideon was come, behold, there was a man that told a dream unto his fellow, and said, Behold, I dreamed a dream, and, lo, a cake of barley bread tumbled into the host of Midian, and came unto a tent, and smote it that it fell, and overturned it, that the tent lay along.
-- NEW: And when Gideon was come, behold, there was a man that told a dream unto his fellow, and said, Behold, I dreamed a dream, and, lo, a cake of barley bread tumbled into the host of Midian, and came unto a tent, and smote it that it fell, and turneth it, that the tent lay along.
-
 ## overwhelm → fall — Job 6:27
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.
@@ -13719,16 +9464,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: If he hath wronged thee, or oweth thee ought, put that on mine account;
 - NEW: If he hath wronged thee, or ought thee ought, put that on mine account;
-
-## owneth → meaneth — Leviticus 14:35
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he that owneth the house shall come and tell the priest, saying, It seemeth to me there is as it were a plague in the house:
-- NEW: And he that meaneth the house shall come and tell the priest, saying, It seemeth to me there is as it were a plague in the house:
-
-## owneth → meaneth — Acts 21:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when he was come unto us, he took Paul’s girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles.
-- NEW: And when he was come unto us, he took Paul’s girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that meaneth this girdle, and shall deliver him into the hands of the Gentiles.
 
 ## paces → steps — II Samuel 6:13
 - source: King James agent selection
@@ -13810,11 +9545,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?
 - NEW: Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into whiteness?
 
-## palsies → palsy — Acts 8:7
-- source: King James agent selection
-- OLD: For unclean spirits, crying with loud voice, came out of many that were possessed with them: and many taken with palsies, and that were lame, were healed.
-- NEW: For unclean spirits, crying with loud voice, came out of many that were possessed with them: and many taken with palsy, and that were lame, were healed.
-
 ## pant → swallow — Amos 2:7
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in unto the same maid, to profane my holy name:
@@ -13850,20 +9580,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments.
 - NEW: The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments.
 
-## pardoneth → beareth — Micah 7:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy.
-- NEW: Who is a God like unto thee, that beareth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy.
-
 ## pare → prepared — Deuteronomy 21:12
 - source: YLT alignment (word in KJV same testament)
 - OLD: Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;
 - NEW: Then thou shalt bring her home to thine house; and she shall shave her head, and prepared her nails;
-
-## parlours → chambers — I Chronicles 28:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat,
-- NEW: Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner chambers thereof, and of the place of the mercy seat,
 
 ## partakest → partake — Romans 11:17
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -13915,11 +9635,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour.
 - NEW: For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both themselves shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour.
 
-## parting → head — Ezekiel 21:21
-- source: YLT alignment (word in KJV same testament)
-- OLD: For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he made his arrows bright, he consulted with images, he looked in the liver.
-- NEW: For the king of Babylon stood at the head of the way, at the head of the two ways, to use divination: he made his arrows bright, he consulted with images, he looked in the liver.
-
 ## partition → through — I Kings 6:21
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: So Solomon overlaid the house within with pure gold: and he made a partition by the chains of gold before the oracle; and he overlaid it with gold.
@@ -13929,16 +9644,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us; 
 - NEW: For he is our peace, who hath made both one, and hath broken down the middle wall of through between us; 
-
-## partners → partakers — Luke 5:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.
-- NEW: And they beckoned unto their partakers, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.
-
-## partners → partakers — Luke 5:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men.
-- NEW: And so was also James, and John, the sons of Zebedee, which were partakers with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men.
 
 ## partridge → ??? — I Samuel 26:20
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -13969,11 +9674,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.
 - NEW: Elias was a man subject to like affections as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.
-
-## passovers → offerings — II Chronicles 30:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For there were many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one that was not clean, to sanctify them unto the Lord.
-- NEW: For there were many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the offerings for every one that was not clean, to sanctify them unto the Lord.
 
 ## pastor → feed — Jeremiah 17:16
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -14015,11 +9715,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: They shall have like portions to eat, beside that which cometh of the sale of his patrimony.
 - NEW: They shall have like portions to eat, beside that which cometh of the sale of his father.
 
-## patterns → ensamples — Hebrews 9:23
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.
-- NEW: It was therefore necessary that the ensamples of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.
-
 ## paved → wrought — Exodus 24:10
 - source: King James agent selection
 - OLD: And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness.
@@ -14044,21 +9739,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even.
 - NEW: And whatsoever goeth upon his hands, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even.
-
-## payed → paid — Proverbs 7:14
-- source: Webster alignment (word in KJV same testament)
-- OLD: I have peace offerings with me; this day have I payed my vows.
-- NEW: I have peace offerings with me; this day have I paid my vows.
-
-## payed → paid — Hebrews 7:9
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And as I may so say, Levi also, who receiveth tithes, payed tithes in Abraham.
-- NEW: And as I may so say, Levi also, who receiveth tithes, paid tithes in Abraham.
-
-## payeth → rewardeth — Psalms 37:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.
-- NEW: The wicked borroweth, and rewardeth not again: but the righteous sheweth mercy, and giveth.
 
 ## payment → render — Matthew 18:25
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -14120,36 +9800,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.
 - NEW: For all these have of their abundance cast in unto the offerings of God: but she of her want hath cast in all the living that she had.
 
-## peoples → people — Revelation of John 10:11
-- source: King James agent selection
-- OLD: And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings. 
-- NEW: And he said unto me, Thou must prophesy again before many people, and nations, and tongues, and kings. 
-
-## peoples → people — Revelation of John 17:15
-- source: King James agent selection
-- OLD: And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues.
-- NEW: And he saith unto me, The waters which thou sawest, where the whore sitteth, are people, and multitudes, and nations, and tongues.
-
-## perceivest → knowest — Proverbs 14:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.
-- NEW: Go from the presence of a foolish man, when thou knowest not in him the lips of knowledge.
-
-## perceivest → perceive — Luke 6:41
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And why beholdest thou the mote that is in thy brother’s eye, but perceivest not the beam that is in thine own eye?
-- NEW: And why beholdest thou the mote that is in thy brother’s eye, but perceive not the beam that is in thine own eye?
-
-## perfecting → finishing — II Corinthians 7:1
-- source: King James agent selection
-- OLD: Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
-- NEW: Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, finishing holiness in the fear of God.
-
-## perfecting → finishing — Ephesians 4:12
-- source: King James agent selection
-- OLD: For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
-- NEW: For the finishing of the saints, for the work of the ministry, for the edifying of the body of Christ:
-
 ## perfectness → perfection — Colossians 3:14
 - source: UKJV alignment (word in KJV same testament)
 - OLD: And above all these things put on charity, which is the bond of perfectness.
@@ -14165,31 +9815,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have.
 - NEW: Now therefore perform the doing of it; that as there was a readiness to will, so there may be a perform also out of that which ye have.
 
-## performing → working — Numbers 15:3
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And will make an offering by fire unto the Lord, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the Lord, of the herd, or of the flock:
-- NEW: And will make an offering by fire unto the Lord, a burnt offering, or a sacrifice in working a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the Lord, of the herd, or of the flock:
-
-## performing → working — Numbers 15:8
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And when thou preparest a bullock for a burnt offering, or for a sacrifice in performing a vow, or peace offerings unto the Lord:
-- NEW: And when thou preparest a bullock for a burnt offering, or for a sacrifice in working a vow, or peace offerings unto the Lord:
-
-## perfumed → burned — Proverbs 7:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I have perfumed my bed with myrrh, aloes, and cinnamon.
-- NEW: I have burned my bed with myrrh, aloes, and cinnamon.
-
-## perfumed → burned — Song of Solomon 3:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Who is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?
-- NEW: Who is this that cometh out of the wilderness like pillars of smoke, burned with myrrh and frankincense, with all powders of the merchant?
-
-## perfumes → ointments — Isaiah 57:9
-- source: King James agent selection
-- OLD: And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase thyself even unto hell.
-- NEW: And thou wentest to the king with ointment, and didst increase thy ointments, and didst send thy messengers far off, and didst debase thyself even unto hell.
-
 ## peril → perils — Lamentations 5:9
 - source: KJV parallel rendering, re-inflected (other testament)
 - OLD: We gat our bread with the peril of our lives because of the sword of the wilderness.
@@ -14204,11 +9829,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: This know also, that in the last days perilous times shall come.
 - NEW: This know also, that in the last days evil times shall come.
-
-## perishing → passing — Job 33:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He keepeth back his soul from the pit, and his life from perishing by the sword.
-- NEW: He keepeth back his soul from the pit, and his life from passing by the sword.
 
 ## perjured → forsworn — I Timothy 1:10
 - source: King James agent selection
@@ -14245,11 +9865,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.
 - NEW: And many shall follow their bottomless ways; by reason of whom the way of truth shall be evil spoken of.
 
-## persecuting → following — Philippians 3:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.
-- NEW: Concerning zeal, following the church; touching the righteousness which is in the law, blameless.
-
 ## persecutor → oppressor — I Timothy 1:13
 - source: King James agent selection
 - OLD: Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief.
@@ -14260,55 +9875,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
 - NEW: Praying always with all prayer and supplication in the Spirit, and watching thereunto with all patience and supplication for all saints;
 
-## persuadest → mightest — Acts 26:28
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.
-- NEW: Then Agrippa said unto Paul, Almost thou mightest me to be a Christian.
-
-## persuadeth → setteth — II Kings 18:32
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards, a land of oil olive and of honey, that ye may live, and not die: and hearken not unto Hezekiah, when he persuadeth you, saying, The Lord will deliver us.
-- NEW: Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards, a land of oil olive and of honey, that ye may live, and not die: and hearken not unto Hezekiah, when he setteth you, saying, The Lord will deliver us.
-
-## persuadeth → setteth — Acts 18:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Saying, This fellow persuadeth men to worship God contrary to the law.
-- NEW: Saying, This fellow setteth men to worship God contrary to the law.
-
-## persuading → having — Acts 19:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.
-- NEW: And he went into the synagogue, and spake boldly for the space of three months, disputing and having the things concerning the kingdom of God.
-
-## persuading → having — Acts 28:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.
-- NEW: And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, having them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.
-
 ## persuasion → ??? — Galatians 5:8
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: This persuasion cometh not of him that calleth you.
 - NEW: This persuasion cometh not of him that calleth you.
-
-## perverting → turning — Ecclesiastes 5:8
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.
-- NEW: If thou seest the oppression of the poor, and violent turning of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.
-
-## perverting → turning — Luke 23:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And they began to accuse him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Cesar, saying that he himself is Christ a King.
-- NEW: And they began to accuse him, saying, We found this fellow turning the nation, and forbidding to give tribute to Cesar, saying that he himself is Christ a King.
-
-## pestilences → plagues — Matthew 24:7
-- source: King James agent selection
-- OLD: For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
-- NEW: For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and plagues, and earthquakes, in divers places.
-
-## pestilences → plagues — Luke 21:11
-- source: King James agent selection
-- OLD: And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
-- NEW: And great earthquakes shall be in divers places, and famines, and plagues; and fearful sights and great signs shall there be from heaven.
 
 ## pestilent → pestilence — Acts 24:5
 - source: KJV parallel rendering, re-inflected (other testament)
@@ -14319,16 +9889,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.
 - NEW: Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.
-
-## petitions → desires — Psalms 20:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: We will rejoice in thy salvation, and in the name of our God we will set up our banners: the Lord fulfil all thy petitions.
-- NEW: We will rejoice in thy salvation, and in the name of our God we will set up our banners: the Lord fulfil all thy desires.
-
-## petitions → desires — I John 5:15
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.
-- NEW: And if we know that he hear us, whatsoever we ask, we know that we have the desires that we desired of him.
 
 ## philosophers → ??? — Acts 17:18
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -14349,21 +9909,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.
 - NEW: The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall put it out, and the young eagles shall eat it.
-
-## pierceth → blasphemeth — Job 40:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He taketh it with his eyes: his nose pierceth through snares. 
-- NEW: He taketh it with his eyes: his nose blasphemeth through snares. 
-
-## piercing → fleeing — Isaiah 27:1
-- source: King James agent selection
-- OLD: In that day the Lord with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.
-- NEW: In that day the Lord with his sore and great and strong sword shall punish leviathan the fleeing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.
-
-## piercing → crooked — Hebrews 4:12
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
-- NEW: For the word of God is quick, and powerful, and sharper than any twoedged sword, crooked even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 
 ## piercings → wounds — Proverbs 12:18
 - source: King James agent selection
@@ -14415,16 +9960,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he set the rods which he had pilled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink.
 - NEW: And he set the rods which he had peeled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink.
 
-## pineth → pins — Mark 9:18
-- source: UKJV alignment (word in KJV other testament)
-- OLD: And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not.
-- NEW: And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pins away: and I spake to thy disciples that they should cast him out; and they could not.
-
-## pining → consuming — Isaiah 38:12
-- source: King James agent selection
-- OLD: Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night wilt thou make an end of me.
-- NEW: Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with consuming sickness: from day even to night wilt thou make an end of me.
-
 ## pinnacle → ??? — Matthew 4:5
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,
@@ -14454,16 +9989,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Seeing then that we have such hope, we use great plainness of speech:
 - NEW: Seeing then that we have such hope, we use great boldness of speech:
-
-## plaistered → daubed — Leviticus 14:43
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And if the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is plaistered;
-- NEW: And if the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is daubed;
-
-## plaistered → daubed — Leviticus 14:48
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And if the priest shall come in, and look upon it, and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed.
-- NEW: And if the priest shall come in, and look upon it, and, behold, the plague hath not spread in the house, after the house was daubed: then the priest shall pronounce the house clean, because the plague is healed.
 
 ## plaiting → broidering — I Peter 3:3
 - source: King James agent selection
@@ -14500,16 +10025,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Thou shalt yet plant vines upon the mountains of Samaria: the planters shall plant, and shall eat them as common things.
 - NEW: Thou shalt yet plant vines upon the mountains of Samaria: the plants shall plant, and shall eat them as common things.
 
-## planting → plant — Isaiah 60:21
-- source: King James agent selection
-- OLD: Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.
-- NEW: Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my plant, the work of my hands, that I may be glorified.
-
-## planting → plant — Isaiah 61:3
-- source: King James agent selection
-- OLD: To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
-- NEW: To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the plant of the Lord, that he might be glorified.
-
 ## plantings → plants — Micah 1:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Therefore I will make Samaria as an heap of the field, and as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.
@@ -14545,11 +10060,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: As well the singers as the players on instruments shall be there: all my springs are in thee. 
 - NEW: As well the singers as the instruments on instruments shall be there: all my springs are in thee. 
 
-## playeth → goeth — Ezekiel 23:44
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Yet they went in unto her, as they go in unto a woman that playeth the harlot: so went they in unto Aholah and unto Aholibah, the lewd women.
-- NEW: Yet they went in unto her, as they go in unto a woman that goeth the harlot: so went they in unto Aholah and unto Aholibah, the lewd women.
-
 ## plea → judgment — Deuteronomy 17:8
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: If there arise a matter too hard for thee in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within thy gates: then shalt thou arise, and get thee up into the place which the Lord thy God shall choose;
@@ -14564,16 +10074,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Her ways are ways of pleasantness, and all her paths are peace.
 - NEW: Her ways are ways of pleasure, and all her paths are peace.
-
-## pledges → themselves — II Kings 18:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now therefore, I pray thee, give pledges to my lord the king of Assyria, and I will deliver thee two thousand horses, if thou be able on thy part to set riders upon them.
-- NEW: Now therefore, I pray thee, give themselves to my lord the king of Assyria, and I will deliver thee two thousand horses, if thou be able on thy part to set riders upon them.
-
-## pledges → themselves — Isaiah 36:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now therefore give pledges, I pray thee, to my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them.
-- NEW: Now therefore give themselves, I pray thee, to my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them.
 
 ## plenteousness → plenty — Genesis 41:53
 - source: AKJV alignment (word in KJV same testament)
@@ -14600,11 +10100,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The plowers plowed upon my back: they made long their furrows.
 - NEW: The ears plowed upon my back: they made long their furrows.
 
-## ploweth → plows — I Corinthians 9:10
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
-- NEW: Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that plows should plow in hope; and that he that thresheth in hope should be partaker of his hope.
-
 ## plowman → peace — Isaiah 28:24
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Doth the plowman plow all day to sow? doth he open and break the clods of his ground?
@@ -14625,11 +10120,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Because the ground is chapt, for there was no rain in the earth, the plowmen were ashamed, they covered their heads.
 - NEW: Because the ground is chapt, for there was no rain in the earth, the husbandmen were ashamed, they covered their heads.
 
-## plucketh → breaketh — Proverbs 14:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Every wise woman buildeth her house: but the foolish plucketh it down with her hands.
-- NEW: Every wise woman buildeth her house: but the foolish breaketh it down with her hands.
-
 ## pluckt → plucked — Genesis 8:11
 - source: UKJV alignment (word in KJV same testament)
 - OLD: And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.
@@ -14644,21 +10134,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.
 - NEW: For in him we live, and move, and have our being; as certain also of your own doers have said, For we are also his offspring.
-
-## pointed → walled — Job 41:30
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Sharp stones are under him: he spreadeth sharp pointed things upon the mire.
-- NEW: Sharp stones are under him: he spreadeth sharp walled things upon the mire.
-
-## points → always — Ecclesiastes 5:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?
-- NEW: And this also is a sore evil, that in all always as he came, so shall he go: and what profit hath he that hath laboured for the wind?
-
-## points → always — Hebrews 4:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
-- NEW: For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all always tempted like as we are, yet without sin.
 
 ## pole → standard — Numbers 21:8
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -14679,16 +10154,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
 - NEW: Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their separateing was of sapphire:
-
-## polluting → beginning — Isaiah 56:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Blessed is the man that doeth this, and the son of man that layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil.
-- NEW: Blessed is the man that doeth this, and the son of man that layeth hold on it; that keepeth the sabbath from beginning it, and keepeth his hand from doing any evil.
-
-## polluting → beginning — Isaiah 56:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Also the sons of the stranger, that join themselves to the Lord, to serve him, and to love the name of the Lord, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;
-- NEW: Also the sons of the stranger, that join themselves to the Lord, to serve him, and to love the name of the Lord, to be his servants, every one that keepeth the sabbath from beginning it, and taketh hold of my covenant;
 
 ## pollution → unclean — Ezekiel 22:10
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -14725,11 +10190,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him.
 - NEW: But if he be poor than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him.
 
-## poorest → meanest — II Kings 24:14
-- source: King James agent selection
-- OLD: And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
-- NEW: And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the meanest sort of the people of the land.
-
 ## poplar → ??? — Genesis 30:37
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And Jacob took him rods of green poplar, and of the hazel and chesnut tree; and pilled white strakes in them, and made the white appear which was in the rods.
@@ -14750,40 +10210,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Art thou better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?
 - NEW: Art thou better than plenteous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?
 
-## porches → porch — Ezekiel 41:15
-- source: King James agent selection
-- OLD: And he measured the length of the building over against the separate place which was behind it, and the galleries thereof on the one side and on the other side, an hundred cubits, with the inner temple, and the porches of the court;
-- NEW: And he measured the length of the building over against the separate place which was behind it, and the galleries thereof on the one side and on the other side, an hundred cubits, with the inner temple, and the porch of the court;
-
-## porches → porch — John 5:2
-- source: King James agent selection
-- OLD: Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches.
-- NEW: Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porch.
-
 ## port → gate — Nehemiah 2:13
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
 - NEW: And I went out by night by the gate of the valley, even before the dragon well, and to the dung gate, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
-
-## possessest → possess — Deuteronomy 26:1
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And it shall be, when thou art come in unto the land which the Lord thy God giveth thee for an inheritance, and possessest it, and dwellest therein;
-- NEW: And it shall be, when thou art come in unto the land which the Lord thy God giveth thee for an inheritance, and possess it, and dwellest therein;
-
-## possesseth → giveth — Numbers 36:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.
-- NEW: And every daughter, that giveth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.
-
-## possesseth → giveth — Luke 12:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth.
-- NEW: And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he giveth.
-
-## possessing → fasting — II Corinthians 6:10
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.
-- NEW: As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet fasting all things.
 
 ## possessor → buy — Genesis 14:19
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -14805,70 +10235,20 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,
 - NEW: Neither was there any among them that lacked: for as many as were possess of lands or houses sold them, and brought the prices of the things that were sold,
 
-## potsherds → stones — Isaiah 45:9
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Woe unto him that striveth with his Maker! Let the potsherd strive with the potsherds of the earth. Shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands?
-- NEW: Woe unto him that striveth with his Maker! Let the potsherd strive with the stones of the earth. Shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands?
-
 ## pouredst → poured — Ezekiel 16:15
 - source: UKJV alignment (word in KJV same testament)
 - OLD: But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and pouredst out thy fornications on every one that passed by; his it was.
 - NEW: But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and poured out thy fornications on every one that passed by; his it was.
-
-## pouring → casting — Ezekiel 9:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord God! wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?
-- NEW: And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord God! wilt thou destroy all the residue of Israel in thy casting out of thy fury upon Jerusalem?
-
-## pouring → casting — Luke 10:34
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.
-- NEW: And went to him, and bound up his wounds, casting in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.
 
 ## pourtray → lawgiver — Ezekiel 4:1
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:
 - NEW: Thou also, son of man, take thee a tile, and lay it before thee, and lawgiver upon it the city, even Jerusalem:
 
-## powders → spices — Song of Solomon 3:6
-- source: King James agent selection
-- OLD: Who is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?
-- NEW: Who is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all spices of the merchant?
-
 ## practices → deeds — II Peter 2:14
 - source: King James agent selection
 - OLD: Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:
 - NEW: Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous deeds; cursed children:
-
-## practised → committed — I Samuel 23:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And David knew that Saul secretly practised mischief against him; and he said to Abiathar the priest, Bring hither the ephod.
-- NEW: And David knew that Saul secretly committed mischief against him; and he said to Abiathar the priest, Bring hither the ephod.
-
-## practised → committed — Daniel 8:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And an host was given him against the daily sacrifice by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered.
-- NEW: And an host was given him against the daily sacrifice by reason of transgression, and it cast down the truth to the ground; and it committed, and prospered.
-
-## praiseth → praises — Proverbs 31:28
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Her children arise up, and call her blessed; her husband also, and he praiseth her.
-- NEW: Her children arise up, and call her blessed; her husband also, and he praises her.
-
-## prayest → praiest — Matthew 6:5
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.
-- NEW: And when thou praiest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.
-
-## prayest → praiest — Matthew 6:6
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.
-- NEW: But thou, when thou praiest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.
-
-## preachest → preach — Romans 2:21
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?
-- NEW: Thou therefore which teachest another, teachest thou not thyself? thou that preach a man should not steal, dost thou steal?
 
 ## predestinate → before — Romans 8:29
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -14910,25 +10290,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.
 - NEW: But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye imagine: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.
 
-## preparations → thoughts — Proverbs 16:1
-- source: King James agent selection
-- OLD: The preparations of the heart in man, and the answer of the tongue, is from the Lord.
-- NEW: The thoughts of the heart in man, and the answer of the tongue, is from the Lord.
-
 ## preparedst → turn — Psalms 80:9
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thou preparedst room before it, and didst cause it to take deep root, and it filled the land.
 - NEW: Thou turn room before it, and didst cause it to take deep root, and it filled the land.
-
-## preparing → yielding — Nehemiah 13:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God.
-- NEW: And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in yielding him a chamber in the courts of the house of God.
-
-## preparing → shewing — I Peter 3:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.
-- NEW: Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a shewing, wherein few, that is, eight souls were saved by water.
 
 ## presbytery → estate — I Timothy 4:14
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -14945,35 +10310,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing how much.
 - NEW: Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without writing how much.
 
-## presenting → causing — Daniel 9:20
-- source: YLT alignment (word in KJV same testament)
-- OLD: And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the Lord my God for the holy mountain of my God;
-- NEW: And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and causing my supplication before the Lord my God for the holy mountain of my God;
-
 ## preserver → keep — Job 7:20
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?
 - NEW: I have sinned; what shall I do unto thee, O thou keep of men? why hast thou set me as a mark against thee, so that I am a burden to myself?
-
-## preservest → mayest — Nehemiah 9:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou, even thou, art Lord alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee.
-- NEW: Thou, even thou, art Lord alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou mayest them all; and the host of heaven worshippeth thee.
-
-## preservest → mayest — Psalms 36:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thy righteousness is like the great mountains; thy judgments are a great deep: O Lord, thou preservest man and beast.
-- NEW: Thy righteousness is like the great mountains; thy judgments are a great deep: O Lord, thou mayest man and beast.
-
-## presseth → presses — Psalms 38:2
-- source: UKJV alignment (word in KJV same testament)
-- OLD: For thine arrows stick fast in me, and thy hand presseth me sore.
-- NEW: For thine arrows stick fast in me, and thy hand presses me sore.
-
-## presseth → presses — Luke 16:16
-- source: UKJV alignment (word in KJV other testament)
-- OLD: The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it.
-- NEW: The law and the prophets were until John: since that time the kingdom of God is preached, and every man presses into it.
 
 ## pressfat → wine — Haggai 2:16
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -15004,26 +10344,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities.
 - NEW: But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Proud are they, selfwilled, they are not afraid to speak evil of dignities.
-
-## prevailest → overcomest — Job 14:20
-- source: King James agent selection
-- OLD: Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.
-- NEW: Thou overcomest for ever against him, and he passeth: thou changest his countenance, and sendest him away.
-
-## prevaileth → beareth — Lamentations 1:13
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day.
-- NEW: From above hath he sent fire into my bones, and it beareth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day.
-
-## preventest → goest — Psalms 21:3
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.
-- NEW: For thou goest him with the blessings of goodness: thou settest a crown of pure gold on his head.
-
-## prices → money — Acts 4:34
-- source: King James agent selection
-- OLD: Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,
-- NEW: Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the money of the things that were sold,
 
 ## pricked → sharpened — Psalms 73:21
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -15070,11 +10390,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
 - NEW: Therefore leaving the word of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
 
-## printed → appointed — Job 19:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Oh that my words were now written! oh that they were printed in a book!
-- NEW: Oh that my words were now written! oh that they were appointed in a book!
-
 ## prised → wasted — Zechariah 11:13
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: And the Lord said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty pieces of silver, and cast them to the potter in the house of the Lord.
@@ -15094,16 +10409,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: I press toward the mark for the prize of the high calling of God in Christ Jesus.
 - NEW: I press toward the mark for the reward of the high calling of God in Christ Jesus.
-
-## proceeding → coming — Revelation of John 22:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
-- NEW: And he shewed me a pure river of water of life, clear as crystal, coming out of the throne of God and of the Lamb.
-
-## proclaimeth → calleth — Proverbs 12:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.
-- NEW: A prudent man concealeth knowledge: but the heart of fools calleth foolishness.
 
 ## procure → thee — Jeremiah 26:19
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -15135,36 +10440,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Therefore thus saith the Lord of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.
 - NEW: Therefore thus saith the Lord of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is wickedness gone forth into all the land.
 
-## profaneth → defileth — Leviticus 21:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.
-- NEW: And the daughter of any priest, if she profane herself by playing the whore, she defileth her father: she shall be burnt with fire.
-
-## profaning → beginning — Nehemiah 13:18
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet ye bring more wrath upon Israel by profaning the sabbath.
-- NEW: Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet ye bring more wrath upon Israel by beginning the sabbath.
-
-## profaning → beginning — Malachi 2:10
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?
-- NEW: Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by beginning the covenant of our fathers?
-
-## professed → confessed — II Corinthians 9:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men; 
-- NEW: Whiles by the experiment of this ministration they glorify God for your confessed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men; 
-
-## professed → confessed — I Timothy 6:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.
-- NEW: Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast confessed a good profession before many witnesses.
-
-## profiting → increase — I Timothy 4:15
-- source: King James agent selection
-- OLD: Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all.
-- NEW: Meditate upon these things; give thyself wholly to them; that thy increase may appear to all.
-
 ## profound → deep — Hosea 5:2
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And the revolters are profound to make slaughter, though I have been a rebuker of them all.
@@ -15180,21 +10455,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Thou art wearied in the multitude of thy counsels. Let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save thee from these things that shall come upon thee.
 - NEW: Thou art wearied in the multitude of thy counsels. Let now the astrologers, the stargazers, the monthly kinsfolks, stand up, and save thee from these things that shall come upon thee.
 
-## prolongeth → increaseth — Proverbs 10:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The fear of the Lord prolongeth days: but the years of the wicked shall be shortened.
-- NEW: The fear of the Lord increaseth days: but the years of the wicked shall be shortened.
-
-## prolongeth → increaseth — Ecclesiastes 7:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.
-- NEW: All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that increaseth his life in his wickedness.
-
-## promising → saving — Ezekiel 13:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Because with lies ye have made the heart of the righteous sad, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, by promising him life:
-- NEW: Because with lies ye have made the heart of the righteous sad, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, by saving him life:
-
 ## promotion → high — Psalms 75:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For promotion cometh neither from the east, nor from the west, nor from the south.
@@ -15204,41 +10464,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The wise shall inherit glory: but shame shall be the promotion of fools. 
 - NEW: The wise shall inherit glory: but shame shall be the high of fools. 
-
-## pronouncing → speaking — Leviticus 5:4
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Or if a soul swear, pronouncing with his lips to do evil, or to do good, whatsoever it be that a man shall pronounce with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these.
-- NEW: Or if a soul swear, speaking with his lips to do evil, or to do good, whatsoever it be that a man shall pronounce with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these.
-
-## proofs → signs — Acts 1:3
-- source: King James agent selection
-- OLD: To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
-- NEW: To whom also he shewed himself alive after his passion by many infallible signs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
-
-## prophecies → prophecyes — I Corinthians 13:8
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
-- NEW: Charity never faileth: but whether there be prophecyes, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
-
-## prophecies → prophecy — I Timothy 1:18
-- source: King James agent selection
-- OLD: This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;
-- NEW: This charge I commit unto thee, son Timothy, according to the prophecy which went before on thee, that thou by them mightest war a good warfare;
-
-## prophesyings → prophesying — I Thessalonians 5:20
-- source: King James agent selection
-- OLD: Despise not prophesyings.
-- NEW: Despise not prophesying.
-
-## prophet's → prophets — Amos 7:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then answered Amos, and said to Amaziah, I was no prophet, neither was I a prophet’s son; but I was an herdman, and a gatherer of sycomore fruit:
-- NEW: Then answered Amos, and said to Amaziah, I was no prophet, neither was I a prophet’s son; but I was an herdman, and a gatherer of sycomore fruit:
-
-## prophet's → prophets — Matthew 10:41
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward.
-- NEW: He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward.
 
 ## proselyte → convert — Matthew 23:15
 - source: King James agent selection
@@ -15280,40 +10505,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Which did eat the fat of their sacrifices, and drank the wine of their drink offerings? let them rise up and help you, and be your protection.
 - NEW: Which did eat the fat of their sacrifices, and drank the wine of their drink offerings? let them rise up and help you, and be your secret.
 
-## protesting → testifying — Jeremiah 11:7
-- source: YLT alignment (word in KJV other testament)
-- OLD: For I earnestly protested unto your fathers in the day that I brought them up out of the land of Egypt, even unto this day, rising early and protesting, saying, Obey my voice.
-- NEW: For I earnestly protested unto your fathers in the day that I brought them up out of the land of Egypt, even unto this day, rising early and testifying, saying, Obey my voice.
-
-## proveth → trieth — Deuteronomy 13:3
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou shalt not hearken unto the words of that prophet, or that dreamer of dreams: for the Lord your God proveth you, to know whether ye love the Lord your God with all your heart and with all your soul.
-- NEW: Thou shalt not hearken unto the words of that prophet, or that dreamer of dreams: for the Lord your God trieth you, to know whether ye love the Lord your God with all your heart and with all your soul.
-
 ## providence → provision — Acts 24:2
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And when he was called forth, Tertullus began to accuse him, saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence,
 - NEW: And when he was called forth, Tertullus began to accuse him, saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy provision,
-
-## provideth → prepareth — Job 38:41
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat. 
-- NEW: Who prepareth for the raven his food? when his young ones cry unto God, they wander for lack of meat. 
-
-## provideth → prepareth — Proverbs 6:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Provideth her meat in the summer, and gathereth her food in the harvest.
-- NEW: Prepareth her meat in the summer, and gathereth her food in the harvest.
-
-## proving → gathering — Acts 9:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ.
-- NEW: But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, gathering that this is very Christ.
-
-## proving → gathering — Ephesians 5:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Proving what is acceptable unto the Lord.
-- NEW: Gathering what is acceptable unto the Lord.
 
 ## provokedst → thee — Deuteronomy 9:7
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -15365,30 +10560,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house,
 - NEW: And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you openly, and from house to house,
 
-## pulling → casting — II Corinthians 10:4
-- source: King James agent selection
-- OLD: (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
-- NEW: (For the weapons of our warfare are not carnal, but mighty through God to the casting down of strong holds;)
-
-## pulling → plucking — Jude 1:23
-- source: King James agent selection
-- OLD: And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.
-- NEW: And others save with fear, plucking them out of the fire; hating even the garment spotted by the flesh.
-
 ## pulpit → tower — Nehemiah 8:4
 - source: YLT alignment (word in KJV same testament)
 - OLD: And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.
 - NEW: And Ezra the scribe stood upon a tower of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.
-
-## punishments → sins — Job 19:29
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment. 
-- NEW: Be ye afraid of the sword: for wrath bringeth the sins of the sword, that ye may know there is a judgment. 
-
-## punishments → sins — Psalms 149:7
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: To execute vengeance upon the heathen, and punishments upon the people;
-- NEW: To execute vengeance upon the heathen, and sins upon the people;
 
 ## purely → throughly — Isaiah 1:25
 - source: King James agent selection
@@ -15404,21 +10579,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?
 - NEW: Thou art of clean eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?
-
-## purgeth → pruneth — John 15:2
-- source: King James agent selection
-- OLD: Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.
-- NEW: Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he pruneth it, that it may bring forth more fruit.
-
-## purging → purifying — Mark 7:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Because it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats?
-- NEW: Because it entereth not into his heart, but into the belly, and goeth out into the draught, purifying all meats?
-
-## purifications → purifying — Esther 2:12
-- source: King James agent selection
-- OLD: Now when every maid’s turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, (for so were the days of their purifications accomplished, to wit, six months with oil of myrrh, and six months with sweet odours, and with other things for the purifying of the women;)
-- NEW: Now when every maid’s turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, (for so were the days of their purifying accomplished, to wit, six months with oil of myrrh, and six months with sweet odours, and with other things for the purifying of the women;)
 
 ## purifier → clean — Malachi 3:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -15450,21 +10610,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
 - NEW: Not keeping, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
 
-## purposeth → purposes — II Corinthians 9:7
-- source: UKJV alignment (word in KJV other testament)
-- OLD: Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.
-- NEW: Every man according as he purposes in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.
-
-## purposing → thinking — Genesis 27:42
-- source: King James agent selection
-- OLD: And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee.
-- NEW: And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, thinking to kill thee.
-
-## purses → girdles — Matthew 10:9
-- source: YLT alignment (word in KJV same testament)
-- OLD: Provide neither gold, nor silver, nor brass in your purses,
-- NEW: Provide neither gold, nor silver, nor brass in your girdles,
-
 ## pursuer → pursue — Lamentations 1:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.
@@ -15475,40 +10620,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof.
 - NEW: Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the inwards thereof.
 
-## pushed → thrust — Ezekiel 34:21
-- source: King James agent selection
-- OLD: Because ye have thrust with side and with shoulder, and pushed all the diseased with your horns, till ye have scattered them abroad;
-- NEW: Because ye have thrust with side and with shoulder, and thrust all the diseased with your horns, till ye have scattered them abroad;
-
-## pushing → thrusting — Daniel 8:4
-- source: King James agent selection
-- OLD: I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great.
-- NEW: I saw the ram thrusting westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great.
-
 ## putrifying → corrupt — Isaiah 1:6
 - source: King James agent selection
 - OLD: From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.
 - NEW: From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and corrupt sores: they have not been closed, neither bound up, neither mollified with ointment.
-
-## quaked → trembled — Exodus 19:18
-- source: Webster alignment (word in KJV same testament)
-- OLD: And mount Sinai was altogether on a smoke, because the Lord descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.
-- NEW: And mount Sinai was altogether on a smoke, because the Lord descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount trembled greatly.
-
-## quaked → trembled — I Samuel 14:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And there was trembling in the host, in the field, and among all the people: the garrison, and the spoilers, they also trembled, and the earth quaked: so it was a very great trembling.
-- NEW: And there was trembling in the host, in the field, and among all the people: the garrison, and the spoilers, they also trembled, and the earth trembled: so it was a very great trembling.
-
-## quaking → trembling — Ezekiel 12:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;
-- NEW: Son of man, eat thy bread with trembling, and drink thy water with trembling and with carefulness;
-
-## quaking → trembling — Daniel 10:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And I Daniel alone saw the vision: for the men that were with me saw not the vision; but a great quaking fell upon them, so that they fled to hide themselves.
-- NEW: And I Daniel alone saw the vision: for the men that were with me saw not the vision; but a great trembling fell upon them, so that they fled to hide themselves.
 
 ## quantity → small — Isaiah 22:24
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -15530,40 +10645,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
 - NEW: And when he had apprehended him, he put him in prison, and delivered him to four squads of soldiers to keep him; intending after Easter to bring him forth to the people.
 
-## questioning → reasoning — Mark 9:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they kept that saying with themselves, questioning one with another what the rising from the dead should mean.
-- NEW: And they kept that saying with themselves, reasoning one with another what the rising from the dead should mean.
-
-## questioning → reasoning — Mark 9:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when he came to his disciples, he saw a great multitude about them, and the scribes questioning with them.
-- NEW: And when he came to his disciples, he saw a great multitude about them, and the scribes reasoning with them.
-
-## quickening → giving — I Corinthians 15:45
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit.
-- NEW: And so it is written, The first man Adam was made a living soul; the last Adam was made a giving spirit.
-
 ## quicksands → quicksand — Acts 27:17
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven.
 - NEW: Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksand, strake sail, and so were driven.
-
-## quieted → rested — Psalms 131:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.
-- NEW: Surely I have behaved and rested myself, as a child that is weaned of his mother: my soul is even as a weaned child.
-
-## quieted → caused — Zechariah 6:8
-- source: YLT alignment (word in KJV same testament)
-- OLD: Then cried he upon me, and spake unto me, saying, Behold, these that go toward the north country have quieted my spirit in the north country.
-- NEW: Then cried he upon me, and spake unto me, saying, Behold, these that go toward the north country have caused my spirit in the north country.
-
-## quieteth → giveth — Job 37:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: How thy garments are warm, when he quieteth the earth by the south wind?
-- NEW: How thy garments are warm, when he giveth the earth by the south wind?
 
 ## quietly → privily — II Samuel 3:27
 - source: King James agent selection
@@ -15575,25 +10660,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: It is good that a man should both hope and quietly wait for the salvation of the Lord.
 - NEW: It is good that a man should both hope and patiently wait for the salvation of the Lord.
 
-## quivered → trembled — Habakkuk 3:16
-- source: King James agent selection
-- OLD: When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
-- NEW: When I heard, my belly trembled; my lips trembled at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
-
 ## rafters → beams — Song of Solomon 1:17
 - source: King James agent selection
 - OLD: The beams of our house are cedar, and our rafters of fir. 
 - NEW: The beams of our house are cedar, and our beams of fir. 
-
-## raged → disquieted — Psalms 46:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.
-- NEW: The heathen disquieted, the kingdoms were moved: he uttered his voice, the earth melted.
-
-## rageth → passeth — Proverbs 14:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: A wise man feareth, and departeth from evil: but the fool rageth, and is confident.
-- NEW: A wise man feareth, and departeth from evil: but the fool passeth, and is confident.
 
 ## ragged → stoned — Isaiah 2:21
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -15609,11 +10679,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.
 - NEW: But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner; with such an one no not to eat.
-
-## railings → evils — I Timothy 6:4
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,
-- NEW: He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, evils, evil surmisings,
 
 ## rainbow → ??? — Revelation of John 4:3
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -15634,21 +10699,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Then shall stand up in his estate a raiser of taxes in the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.
 - NEW: Then shall stand up in his estate a through of taxes in the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.
-
-## raising → lifting — Hosea 7:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: They are all adulterers, as an oven heated by the baker, who ceaseth from raising after he hath kneaded the dough, until it be leavened.
-- NEW: They are all adulterers, as an oven heated by the baker, who ceaseth from lifting after he hath kneaded the dough, until it be leavened.
-
-## raising → lifting — Acts 24:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they neither found me in the temple disputing with any man, neither raising up the people, neither in the synagogues, nor in the city:
-- NEW: And they neither found me in the temple disputing with any man, neither lifting up the people, neither in the synagogues, nor in the city:
-
-## ram's → rams — Joshua 6:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it shall come to pass, that when they make a long blast with the ram’s horn, and when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him.
-- NEW: And it shall come to pass, that when they make a long blast with the ram’s horn, and when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him.
 
 ## rampart → host — Lamentations 2:8
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -15725,70 +10775,20 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin.
 - NEW: The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with torn.
 
-## readest → read — Luke 10:26
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: He said unto him, What is written in the law? how readest thou?
-- NEW: He said unto him, What is written in the law? how read thou?
-
-## readest → read — Acts 8:30
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
-- NEW: And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou read?
-
 ## reaper → reap — Amos 9:13
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Behold, the days come, saith the Lord, that the plowman shall overtake the reaper, and the treader of grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt.
 - NEW: Behold, the days come, saith the Lord, that the plowman shall overtake the reap, and the treader of grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt.
-
-## reapest → reap — Leviticus 23:22
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I am the Lord your God.
-- NEW: And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reap, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I am the Lord your God.
-
-## reapest → reap — Luke 19:21
-- source: UKJV alignment (word in KJV same testament)
-- OLD: For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
-- NEW: For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reap that thou didst not sow.
 
 ## reasonable → word — Romans 12:1
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 - NEW: I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your word service.
 
-## reasons → words — Job 32:11
-- source: King James agent selection
-- OLD: Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.
-- NEW: Behold, I waited for your words; I gave ear to your words, whilst ye searched out what to say.
-
-## reasons → words — Isaiah 41:21
-- source: King James agent selection
-- OLD: Produce your cause, saith the Lord; bring forth your strong reasons, saith the King of Jacob.
-- NEW: Produce your cause, saith the Lord; bring forth your strong words, saith the King of Jacob.
-
-## rebellest → mightest — II Kings 18:20
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou sayest, (but they are but vain words,) I have counsel and strength for the war. Now on whom dost thou trust, that thou rebellest against me?
-- NEW: Thou sayest, (but they are but vain words,) I have counsel and strength for the war. Now on whom dost thou trust, that thou mightest against me?
-
-## rebellest → mightest — Isaiah 36:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: I say, sayest thou, (but they are but vain words) I have counsel and strength for war: now on whom dost thou trust, that thou rebellest against me?
-- NEW: I say, sayest thou, (but they are but vain words) I have counsel and strength for war: now on whom dost thou trust, that thou mightest against me?
-
 ## rebuker → instruction — Hosea 5:2
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And the revolters are profound to make slaughter, though I have been a rebuker of them all.
 - NEW: And the revolters are profound to make slaughter, though I have been a instruction of them all.
-
-## rebuking → rebuke — II Samuel 22:16
-- source: YLT alignment (word in KJV same testament)
-- OLD: And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the Lord, at the blast of the breath of his nostrils.
-- NEW: And the channels of the sea appeared, the foundations of the world were discovered, at the rebuke of the Lord, at the blast of the breath of his nostrils.
-
-## rebuking → reproving — Luke 4:41
-- source: King James agent selection
-- OLD: And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking them suffered them not to speak: for they knew that he was Christ.
-- NEW: And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he reproving them suffered them not to speak: for they knew that he was Christ.
 
 ## recall → turn — Lamentations 3:21
 - source: YLT alignment (word in KJV same testament)
@@ -15805,21 +10805,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Thine heart shall meditate terror. Where is the scribe? where is the receiver? where is he that counted the towers?
 - NEW: Thine heart shall meditate terror. Where is the scribe? where is the pay? where is he that counted the towers?
 
-## reckoneth → counteth — Matthew 25:19
-- source: King James agent selection
-- OLD: After a long time the lord of those servants cometh, and reckoneth with them.
-- NEW: After a long time the lord of those servants cometh, and counteth with them.
-
-## reckoning → cunning — II Kings 22:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully.
-- NEW: Howbeit there was no cunning made with them of the money that was delivered into their hand, because they dealt faithfully.
-
-## reckoning → cunning — I Chronicles 23:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to their father’s house.
-- NEW: And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one cunning, according to their father’s house.
-
 ## recommended → commended — Acts 14:26
 - source: Webster alignment (word in KJV same testament)
 - OLD: And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled.
@@ -15830,55 +10815,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God.
 - NEW: And Paul chose Silas, and departed, being commended by the brethren unto the grace of God.
 
-## recompences → recompence — Isaiah 34:8
-- source: King James agent selection
-- OLD: For it is the day of the Lord’s vengeance, and the year of recompences for the controversy of Zion.
-- NEW: For it is the day of the Lord’s vengeance, and the year of recompence for the controversy of Zion.
-
-## recompences → recompence — Jeremiah 51:56
-- source: King James agent selection
-- OLD: Because the spoiler is come upon her, even upon Babylon, and her mighty men are taken, every one of their bows is broken: for the Lord God of recompences shall surely requite.
-- NEW: Because the spoiler is come upon her, even upon Babylon, and her mighty men are taken, every one of their bows is broken: for the Lord God of recompence shall surely requite.
-
-## recompensest → recompence — Jeremiah 32:18
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Thou shewest lovingkindness unto thousands, and recompensest the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the Lord of hosts, is his name,
-- NEW: Thou shewest lovingkindness unto thousands, and recompence the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the Lord of hosts, is his name,
-
-## recompensing → giving — II Chronicles 6:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then hear thou from heaven, and do, and judge thy servants, by requiting the wicked, by recompensing his way upon his own head; and by justifying the righteous, by giving him according to his righteousness.
-- NEW: Then hear thou from heaven, and do, and judge thy servants, by requiting the wicked, by giving his way upon his own head; and by justifying the righteous, by giving him according to his righteousness.
-
-## recorded → written — Nehemiah 12:22
-- source: King James agent selection
-- OLD: The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian.
-- NEW: The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were written chief of the fathers: also the priests, to the reign of Darius the Persian.
-
 ## recount → remember — Nahum 2:5
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.
 - NEW: He shall remember his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.
 
-## recovering → restoring — Luke 4:18
-- source: King James agent selection
-- OLD: The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
-- NEW: The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and restoring of sight to the blind, to set at liberty them that are bruised,
-
 ## redeemedst → redeem — II Samuel 7:23
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And what one nation in the earth is like thy people, even like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt, from the nations and their gods?
 - NEW: And what one nation in the earth is like thy people, even like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeem to thee from Egypt, from the nations and their gods?
-
-## redeemeth → delivereth — Psalms 34:22
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The Lord redeemeth the soul of his servants: and none of them that trust in him shall be desolate. 
-- NEW: The Lord delivereth the soul of his servants: and none of them that trust in him shall be desolate. 
-
-## redeemeth → delivereth — Psalms 103:4
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;
-- NEW: Who delivereth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;
 
 ## redness → ??? — Proverbs 23:29
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -15925,40 +10870,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And if ye will not be reformed by me by these things, but will walk contrary unto me;
 - NEW: And if ye will not be chastised by me by these things, but will walk contrary unto me;
 
-## refraineth → spareth — Proverbs 10:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.
-- NEW: In the multitude of words there wanteth not sin: but he that spareth his lips is wise.
-
-## refresheth → turneth — Proverbs 25:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refresheth the soul of his masters.
-- NEW: As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he turneth the soul of his masters.
-
-## refreshing → rest — Isaiah 28:12
-- source: King James agent selection
-- OLD: To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear.
-- NEW: To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the rest: yet they would not hear.
-
-## refreshing → rest — Acts 3:19
-- source: King James agent selection
-- OLD: Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;
-- NEW: Repent ye therefore, and be converted, that your sins may be blotted out, when the times of rest shall come from the presence of the Lord;
-
 ## refusedst → refuse — Jeremiah 3:3
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed.
 - NEW: Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refuse to be ashamed.
-
-## regarding → putting — Job 4:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: They are destroyed from morning to evening: they perish for ever without any regarding it.
-- NEW: They are destroyed from morning to evening: they perish for ever without any putting it.
-
-## regarding → putting — Philippians 2:30
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me. 
-- NEW: Because for the work of Christ he was nigh unto death, not putting his life, to supply your lack of service toward me. 
 
 ## regeneration → ??? — Matthew 19:28
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -15980,40 +10895,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: They that are delivered from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the Lord, even the righteous acts toward the inhabitants of his villages in Israel: then shall the people of the Lord go down to the gates.
 - NEW: They that are delivered from the noise of archers in the places of drawing water, there shall they put the righteous acts of the Lord, even the righteous acts toward the inhabitants of his villages in Israel: then shall the people of the Lord go down to the gates.
 
-## reignest → madest — I Chronicles 29:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Both riches and honour come of thee, and thou reignest over all; and in thine hand is power and might; and in thine hand it is to make great, and to give strength unto all.
-- NEW: Both riches and honour come of thee, and thou madest over all; and in thine hand is power and might; and in thine hand it is to make great, and to give strength unto all.
-
-## reigning → ruling — I Samuel 16:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And the Lord said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Beth–lehemite: for I have provided me a king among his sons.
-- NEW: And the Lord said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from ruling over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Beth–lehemite: for I have provided me a king among his sons.
-
-## rejecteth → despiseth — John 12:48
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
-- NEW: He that despiseth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
-
-## rejoicest → greatest — Jeremiah 11:15
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: What hath my beloved to do in mine house, seeing she hath wrought lewdness with many, and the holy flesh is passed from thee? when thou doest evil, then thou rejoicest.
-- NEW: What hath my beloved to do in mine house, seeing she hath wrought lewdness with many, and the holy flesh is passed from thee? when thou doest evil, then thou greatest.
-
 ## relief → ministry — Acts 11:29
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judea:
 - NEW: Then the disciples, every man according to his ability, determined to send ministry unto the brethren which dwelt in Judea:
-
-## relieved → succoured — I Timothy 5:10
-- source: King James agent selection
-- OLD: Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints’ feet, if she have relieved the afflicted, if she have diligently followed every good work.
-- NEW: Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints’ feet, if she have succoured the afflicted, if she have diligently followed every good work.
-
-## relieveth → lifteth — Psalms 146:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The Lord preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.
-- NEW: The Lord preserveth the strangers; he lifteth the fatherless and widow: but the way of the wicked he turneth upside down.
 
 ## religious → persons — Acts 13:43
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16030,31 +10915,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the Lord, he delivered them into thine hand.
 - NEW: Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst stay on the Lord, he delivered them into thine hand.
 
-## remainest → remain — Lamentations 5:19
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Thou, O Lord, remainest for ever; thy throne from generation to generation.
-- NEW: Thou, O Lord, remain for ever; thy throne from generation to generation.
-
-## remainest → dwellest — Hebrews 1:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: They shall perish; but thou remainest; and they all shall wax old as doth a garment;
-- NEW: They shall perish; but thou dwellest; and they all shall wax old as doth a garment;
-
-## rememberest → mayest — Psalms 88:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand.
-- NEW: Free among the dead, like the slain that lie in the grave, whom thou mayest no more: and they are cut off from thy hand.
-
-## rememberest → remember — Matthew 5:23
-- source: Webster alignment (word in KJV same testament)
-- OLD: Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
-- NEW: Therefore if thou bring thy gift to the altar, and there remember that thy brother hath ought against thee;
-
-## remembrances → memorials — Job 13:12
-- source: King James agent selection
-- OLD: Your remembrances are like unto ashes, your bodies to bodies of clay.
-- NEW: Your memorials are like unto ashes, your bodies to bodies of clay.
-
 ## remit → left — John 20:23
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.
@@ -16065,90 +10925,20 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.
 - NEW: Whose soever sins ye remit, they are suffered unto them; and whose soever sins ye retain, they are retained.
 
-## renderest → givest — Psalms 62:12
-- source: King James agent selection
-- OLD: Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work. 
-- NEW: Also unto thee, O Lord, belongeth mercy: for thou givest to every man according to his work. 
-
-## rendereth → rewardeth — Isaiah 66:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: A voice of noise from the city, a voice from the temple, a voice of the Lord that rendereth recompence to his enemies.
-- NEW: A voice of noise from the city, a voice from the temple, a voice of the Lord that rewardeth recompence to his enemies.
-
-## rendering → delivering — I Peter 3:9
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.
-- NEW: Not delivering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.
-
-## rending → breaking — Psalms 7:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver.
-- NEW: Lest he tear my soul like a lion, breaking it in pieces, while there is none to deliver.
-
-## renewest → renew — Job 10:17
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.
-- NEW: Thou renew thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.
-
-## renewest → renew — Psalms 104:30
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.
-- NEW: Thou sendest forth thy spirit, they are created: and thou renew the face of the earth.
-
-## renewing → ??? — Romans 12:2
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
-- NEW: And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
-
-## renewing → ??? — Titus 3:5
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;
-- NEW: Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;
-
 ## renounced → forsaken — II Corinthians 4:2
 - source: King James agent selection
 - OLD: But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
 - NEW: But have forsaken the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
-
-## rentest → wouldest — Jeremiah 4:30
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when thou art spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; thy lovers will despise thee, they will seek thy life.
-- NEW: And when thou art spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou wouldest thy face with painting, in vain shalt thou make thyself fair; thy lovers will despise thee, they will seek thy life.
 
 ## repairer → neither — Isaiah 58:12
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in.
 - NEW: And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The neither of the breach, The restorer of paths to dwell in.
 
-## repairing → foundation — II Chronicles 24:27
-- source: YLT alignment (word in KJV same testament)
-- OLD: Now concerning his sons, and the greatness of the burdens laid upon him, and the repairing of the house of God, behold, they are written in the story of the book of the kings. And Amaziah his son reigned in his stead. 
-- NEW: Now concerning his sons, and the greatness of the burdens laid upon him, and the foundation of the house of God, behold, they are written in the story of the book of the kings. And Amaziah his son reigned in his stead. 
-
-## repayed → rewarded — Proverbs 13:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Evil pursueth sinners: but to the righteous good shall be repayed.
-- NEW: Evil pursueth sinners: but to the righteous good shall be rewarded.
-
-## repayeth → rewardeth — Deuteronomy 7:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And repayeth them that hate him to their face, to destroy them: he will not be slack to him that hateth him, he will repay him to his face.
-- NEW: And rewardeth them that hate him to their face, to destroy them: he will not be slack to him that hateth him, he will repay him to his face.
-
 ## repeateth → returneth — Proverbs 17:9
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.
 - NEW: He that covereth a transgression seeketh love; but he that returneth a matter separateth very friends.
-
-## repentest → comfortest — Jonah 4:2
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And he prayed unto the Lord, and said, I pray thee, O Lord, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.
-- NEW: And he prayed unto the Lord, and said, I pray thee, O Lord, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and comfortest thee of the evil.
-
-## repenting → touching — Jeremiah 15:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou hast forsaken me, saith the Lord, thou art gone backward: therefore will I stretch out my hand against thee, and destroy thee; I am weary with repenting.
-- NEW: Thou hast forsaken me, saith the Lord, thou art gone backward: therefore will I stretch out my hand against thee, and destroy thee; I am weary with touching.
 
 ## repentings → compassions — Hosea 11:8
 - source: King James agent selection
@@ -16175,11 +10965,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
 - NEW: Nay but, O man, who art thou that answerest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
 
-## reproachest → upbraidest — Luke 11:45
-- source: King James agent selection
-- OLD: Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also.
-- NEW: Then answered one of the lawyers, and said unto him, Master, thus saying thou upbraidest us also.
-
 ## reproachfully → shamefully — Job 16:10
 - source: King James agent selection
 - OLD: They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.
@@ -16189,16 +10974,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.
 - NEW: I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak shamefully.
-
-## reproofs → rebukes — Psalms 38:14
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thus I was as a man that heareth not, and in whose mouth are no reproofs.
-- NEW: Thus I was as a man that heareth not, and in whose mouth are no rebukes.
-
-## reproofs → rebukes — Proverbs 6:23
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:
-- NEW: For the commandment is a lamp; and the law is light; and rebukes of instruction are the way of life:
 
 ## reprover → man — Proverbs 25:12
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16220,51 +10995,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And all the inhabitants of the earth are reputed as nothing: and he doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say unto him, What doest thou?
 - NEW: And all the inhabitants of the earth are counted as nothing: and he doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say unto him, What doest thou?
 
-## requests → petitions — Philippians 4:6
-- source: King James agent selection
-- OLD: Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
-- NEW: Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your petitions be made known unto God.
-
-## requirest → sayest — Ruth 3:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou art a virtuous woman.
-- NEW: And now, my daughter, fear not; I will do to thee all that thou sayest: for all the city of my people doth know that thou art a virtuous woman.
-
-## requireth → seeketh — Ecclesiastes 3:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: That which hath been is now; and that which is to be hath already been; and God requireth that which is past.
-- NEW: That which hath been is now; and that which is to be hath already been; and God seeketh that which is past.
-
-## requireth → seeketh — Daniel 2:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it is a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.
-- NEW: And it is a rare thing that the king seeketh, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.
-
-## requiring → desiring — Luke 23:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.
-- NEW: And they were instant with loud voices, desiring that he might be crucified. And the voices of them and of the chief priests prevailed.
-
-## requited → returned — Judges 1:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Adoni–bezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died.
-- NEW: And Adoni–bezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God hath returned me. And they brought him to Jerusalem, and there he died.
-
-## requited → returned — I Samuel 25:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now David had said, Surely in vain have I kept all that this fellow hath in the wilderness, so that nothing was missed of all that pertained unto him: and he hath requited me evil for good.
-- NEW: Now David had said, Surely in vain have I kept all that this fellow hath in the wilderness, so that nothing was missed of all that pertained unto him: and he hath returned me evil for good.
-
-## requiting → bringing — II Chronicles 6:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then hear thou from heaven, and do, and judge thy servants, by requiting the wicked, by recompensing his way upon his own head; and by justifying the righteous, by giving him according to his righteousness.
-- NEW: Then hear thou from heaven, and do, and judge thy servants, by bringing the wicked, by recompensing his way upon his own head; and by justifying the righteous, by giving him according to his righteousness.
-
-## rescueth → delivereth — Daniel 6:27
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions.
-- NEW: He delivereth and delivereth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions.
-
 ## resemblance → thine — Zechariah 5:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And I said, What is it? And he said, This is an ephah that goeth forth. He said moreover, This is their resemblance through all the earth.
@@ -16280,50 +11010,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Then said he unto Zebah and Zalmunna, What manner of men were they whom ye slew at Tabor? And they answered, As thou art, so were they; each one resembled the children of a king.
 - NEW: Then said he unto Zebah and Zalmunna, What manner of men were they whom ye slew at Tabor? And they answered, As thou art, so were they; each one favoured the children of a king.
 
-## reserveth → keepeth — Jeremiah 5:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Neither say they in their heart, Let us now fear the Lord our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest.
-- NEW: Neither say they in their heart, Let us now fear the Lord our God, that giveth rain, both the former and the latter, in his season: he keepeth unto us the appointed weeks of the harvest.
-
-## reserveth → keepeth — Nahum 1:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: God is jealous, and the Lord revengeth; the Lord revengeth, and is furious; the Lord will take vengeance on his adversaries, and he reserveth wrath for his enemies.
-- NEW: God is jealous, and the Lord revengeth; the Lord revengeth, and is furious; the Lord will take vengeance on his adversaries, and he keepeth wrath for his enemies.
-
-## resisted → withstood — Romans 9:19
-- source: King James agent selection
-- OLD: Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
-- NEW: Thou wilt say then unto me, Why doth he yet find fault? For who hath withstood his will?
-
-## resisted → withstood — Hebrews 12:4
-- source: King James agent selection
-- OLD: Ye have not yet resisted unto blood, striving against sin.
-- NEW: Ye have not yet withstood unto blood, striving against sin.
-
 ## resolved → perceived — Luke 16:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.
 - NEW: I am perceived what to do, that, when I am put out of the stewardship, they may receive me into their houses.
 
-## respected → lifted — Lamentations 4:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The anger of the Lord hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.
-- NEW: The anger of the Lord hath divided them; he will no more regard them: they lifted not the persons of the priests, they favoured not the elders.
-
 ## respecter → person — Acts 10:34
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:
 - NEW: Then Peter opened his mouth, and said, Of a truth I perceive that God is no person of persons:
-
-## respecteth → seeth — Job 37:24
-- source: YLT alignment (word in KJV same testament)
-- OLD: Men do therefore fear him: he respecteth not any that are wise of heart. 
-- NEW: Men do therefore fear him: he seeth not any that are wise of heart. 
-
-## respecteth → looketh — Psalms 40:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Blessed is that man that maketh the Lord his trust, and respecteth not the proud, nor such as turn aside to lies.
-- NEW: Blessed is that man that maketh the Lord his trust, and looketh not the proud, nor such as turn aside to lies.
 
 ## respite → feeble — Exodus 8:15
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16334,11 +11029,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if there be no man to save us, we will come out to thee.
 - NEW: And the elders of Jabesh said unto him, Give us seven days’ feeble, that we may send messengers unto all the coasts of Israel: and then, if there be no man to save us, we will come out to thee.
-
-## restest → rest — Romans 2:17
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,
-- NEW: Behold, thou art called a Jew, and rest in the law, and makest thy boast of God,
 
 ## restingplace → place — Jeremiah 50:6
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16354,16 +11044,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in.
 - NEW: And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The return of paths to dwell in.
-
-## restoreth → turneth — Psalms 23:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
-- NEW: He turneth my soul: he leadeth me in the paths of righteousness for his name’s sake.
-
-## restoreth → cometh — Mark 9:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.
-- NEW: And he answered and told them, Elias verily cometh first, and cometh all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.
 
 ## restrain → gird — Job 15:8
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16384,11 +11064,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: And Jonathan said to the young man that bare his armour, Come, and let us go over unto the garrison of these uncircumcised: it may be that the Lord will work for us: for there is no restraint to the Lord to save by many or by few.
 - NEW: And Jonathan said to the young man that bare his armour, Come, and let us go over unto the garrison of these uncircumcised: it may be that the Lord will work for us: for there is no let to the Lord to save by many or by few.
-
-## rests → ??? — I Kings 6:6
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: The nethermost chamber was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad: for without in the wall of the house he made narrowed rests round about, that the beams should not be fastened in the walls of the house.
-- NEW: The nethermost chamber was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad: for without in the wall of the house he made narrowed rests round about, that the beams should not be fastened in the walls of the house.
 
 ## retire → return — II Samuel 11:15
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16415,16 +11090,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The king answered unto Daniel, and said, Of a truth it is, that your God is a God of gods, and a Lord of kings, and a revealer of secrets, seeing thou couldest reveal this secret.
 - NEW: The king answered unto Daniel, and said, Of a truth it is, that your God is a God of gods, and a Lord of kings, and a reveal of secrets, seeing thou couldest reveal this secret.
 
-## revelations → revelation — II Corinthians 12:1
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
-- NEW: It is not expedient for me doubtless to glory. I will come to visions and revelation of the Lord.
-
-## revelations → visions — II Corinthians 12:7
-- source: King James agent selection
-- OLD: And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
-- NEW: And lest I should be exalted above measure through the abundance of the visions, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
-
 ## revellings → banquetings — Galatians 5:21
 - source: King James agent selection
 - OLD: Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.
@@ -16434,36 +11099,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
 - NEW: For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, rioting, banquetings, and abominable idolatries:
-
-## revenged → avenged — Ezekiel 25:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thus saith the Lord God; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;
-- NEW: Thus saith the Lord God; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and avenged himself upon them;
-
-## revengers → redeemer — II Samuel 14:11
-- source: YLT alignment (word in KJV same testament)
-- OLD: Then said she, I pray thee, let the king remember the Lord thy God, that thou wouldest not suffer the revengers of blood to destroy any more, lest they destroy my son. And he said, As the Lord liveth, there shall not one hair of thy son fall to the earth.
-- NEW: Then said she, I pray thee, let the king remember the Lord thy God, that thou wouldest not suffer the redeemer of blood to destroy any more, lest they destroy my son. And he said, As the Lord liveth, there shall not one hair of thy son fall to the earth.
-
-## revenges → vengeance — Deuteronomy 32:42
-- source: King James agent selection
-- OLD: I will make mine arrows drunk with blood, and my sword shall devour flesh; and that with the blood of the slain and of the captives, from the beginning of revenges upon the enemy.
-- NEW: I will make mine arrows drunk with blood, and my sword shall devour flesh; and that with the blood of the slain and of the captives, from the beginning of vengeance upon the enemy.
-
-## revengeth → taketh — Nahum 1:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: God is jealous, and the Lord revengeth; the Lord revengeth, and is furious; the Lord will take vengeance on his adversaries, and he reserveth wrath for his enemies.
-- NEW: God is jealous, and the Lord taketh; the Lord taketh, and is furious; the Lord will take vengeance on his adversaries, and he reserveth wrath for his enemies.
-
-## revenging → vengeance — Psalms 79:10
-- source: YLT alignment (word in KJV same testament)
-- OLD: Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed.
-- NEW: Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the vengeance of the blood of thy servants which is shed.
-
-## reverenced → bowed — Esther 3:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And all the king’s servants, that were in the king’s gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did him reverence.
-- NEW: And all the king’s servants, that were in the king’s gate, bowed, and bowed Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did him reverence.
 
 ## reverend → afraid — Psalms 111:9
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16495,21 +11130,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border.
 - NEW: I have heard the reproach of Moab, and the reproaches of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border.
 
-## reviving → quickening — Ezra 9:8
-- source: King James agent selection
-- OLD: And now for a little space grace hath been shewed from the Lord our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
-- NEW: And now for a little space grace hath been shewed from the Lord our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little quickening in our bondage.
-
-## reviving → quickening — Ezra 9:9
-- source: King James agent selection
-- OLD: For we were bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.
-- NEW: For we were bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a quickening, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.
-
-## revolting → backsliding — Jeremiah 5:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But this people hath a revolting and a rebellious heart; they are revolted and gone.
-- NEW: But this people hath a backsliding and a rebellious heart; they are revolted and gone.
-
 ## rewarder → ??? — Hebrews 11:6
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
@@ -16519,16 +11139,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: UKJV alignment (word in KJV same testament)
 - OLD: Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:
 - NEW: Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a thread of blue:
-
-## ribs → chambers — Genesis 2:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the Lord God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;
-- NEW: And the Lord God caused a deep sleep to fall upon Adam, and he slept: and he took one of his chambers, and closed up the flesh instead thereof;
-
-## ribs → chambers — Daniel 7:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.
-- NEW: And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three chambers in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.
 
 ## richer → rich — Daniel 11:2
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16585,11 +11195,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For we have found this man a pestilent fellow, and a mover of sedition among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes:
 - NEW: For we have found this man a pestilent fellow, and a mover of sedition among all the Jews throughout the world, and a author of the sect of the Nazarenes:
 
-## rioting → revelling — Romans 13:13
-- source: King James agent selection
-- OLD: Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.
-- NEW: Let us walk honestly, as in the day; not in revelling and drunkenness, not in chambering and wantonness, not in strife and envying.
-
 ## rip → broken — II Kings 8:12
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And Hazael said, Why weepeth my lord? And he answered, Because I know the evil that thou wilt do unto the children of Israel: their strong holds wilt thou set on fire, and their young men wilt thou slay with the sword, and wilt dash their children, and rip up their women with child.
@@ -16599,16 +11204,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: For afore the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he shall both cut off the sprigs with pruning hooks, and take away and cut down the branches.
 - NEW: For afore the harvest, when the bud is perfect, and the sour grape is yielding in the flower, he shall both cut off the sprigs with pruning hooks, and take away and cut down the branches.
-
-## risest → makest — Deuteronomy 6:7
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
-- NEW: And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou makest up.
-
-## risest → makest — Deuteronomy 11:19
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And ye shall teach them your children, speaking of them when thou sittest in thine house, and when thou walkest by the way, when thou liest down, and when thou risest up.
-- NEW: And ye shall teach them your children, speaking of them when thou sittest in thine house, and when thou walkest by the way, when thou liest down, and when thou makest up.
 
 ## rites → statutes — Numbers 9:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16620,60 +11215,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.
 - NEW: And Achish said, Whither have ye made a off to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.
 
-## roarings → groanings — Job 3:24
-- source: King James agent selection
-- OLD: For my sighing cometh before I eat, and my roarings are poured out like the waters.
-- NEW: For my sighing cometh before I eat, and my groanings are poured out like the waters.
-
-## roasteth → roasts — Proverbs 12:27
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.
-- NEW: The slothful man roasts not that which he took in hunting: but the substance of a diligent man is precious.
-
-## roasteth → roasts — Isaiah 44:16
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied: yea, he warmeth himself, and saith, Aha, I am warm, I have seen the fire:
-- NEW: He burneth part thereof in the fire; with part thereof he eateth flesh; he roasts roast, and is satisfied: yea, he warmeth himself, and saith, Aha, I am warm, I have seen the fire:
-
-## robbeth → spoileth — Proverbs 28:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.
-- NEW: Whoso spoileth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.
-
-## roebucks → glorious — I Kings 4:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.
-- NEW: Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and glorious, and fallowdeer, and fatted fowl.
-
 ## roller → bandage — Ezekiel 30:21
 - source: King James agent selection
 - OLD: Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it shall not be bound up to be healed, to put a roller to bind it, to make it strong to hold the sword.
 - NEW: Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it shall not be bound up to be healed, to put a bandage to bind it, to make it strong to hold the sword.
-
-## rolleth → seeketh — Proverbs 26:27
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.
-- NEW: Whoso diggeth a pit shall fall therein: and he that seeketh a stone, it will return upon him.
-
-## rolling → whirling — Isaiah 17:13
-- source: King James agent selection
-- OLD: The nations shall rush like the rushing of many waters: but God shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind.
-- NEW: The nations shall rush like the rushing of many waters: but God shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a whirling thing before the whirlwind.
-
-## rolls → books — Ezra 6:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.
-- NEW: Then Darius the king made a decree, and search was made in the house of the books, where the treasures were laid up in Babylon.
-
-## roofs → housetops — Jeremiah 19:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the houses of Jerusalem, and the houses of the kings of Judah, shall be defiled as the place of Tophet, because of all the houses upon whose roofs they have burned incense unto all the host of heaven, and have poured out drink offerings unto other gods.
-- NEW: And the houses of Jerusalem, and the houses of the kings of Judah, shall be defiled as the place of Tophet, because of all the houses upon whose housetops they have burned incense unto all the host of heaven, and have poured out drink offerings unto other gods.
-
-## roofs → housetops — Jeremiah 32:29
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the Chaldeans, that fight against this city, shall come and set fire on this city, and burn it with the houses, upon whose roofs they have offered incense unto Baal, and poured out drink offerings unto other gods, to provoke me to anger.
-- NEW: And the Chaldeans, that fight against this city, shall come and set fire on this city, and burn it with the houses, upon whose housetops they have offered incense unto Baal, and poured out drink offerings unto other gods, to provoke me to anger.
 
 ## rope → wreathen — Isaiah 5:18
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16690,25 +11235,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And they helped David against the band of the rovers: for they were all mighty men of valour, and were captains in the host.
 - NEW: And they helped David against the band of the spoilers: for they were all mighty men of valour, and were captains in the host.
 
-## rowed → digged — Jonah 1:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.
-- NEW: Nevertheless the men digged hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.
-
-## rowed → digged — John 6:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.
-- NEW: So when they had digged about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.
-
 ## rowers → mariners — Ezekiel 27:26
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas.
 - NEW: Thy mariners have brought thee into great waters: the east wind hath broken thee in the midst of the seas.
-
-## rowing → labouring — Mark 6:48
-- source: King James agent selection
-- OLD: And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them.
-- NEW: And he saw them toiling in labouring; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them.
 
 ## rubbing → pressing — Luke 6:1
 - source: King James agent selection
@@ -16750,55 +11280,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.
 - NEW: But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.
 
-## ruler's → rulers — Proverbs 29:26
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Many seek the ruler’s favour; but every man’s judgment cometh from the Lord.
-- NEW: Many seek the ruler’s favour; but every man’s judgment cometh from the Lord.
-
-## ruler's → rulers — Matthew 9:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,
-- NEW: And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,
-
-## rulest → rule — II Chronicles 20:6
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And said, O Lord God of our fathers, art not thou God in heaven? and rulest not thou over all the kingdoms of the heathen? and in thine hand is there not power and might, so that none is able to withstand thee?
-- NEW: And said, O Lord God of our fathers, art not thou God in heaven? and rule not thou over all the kingdoms of the heathen? and in thine hand is there not power and might, so that none is able to withstand thee?
-
-## rulest → madest — Psalms 89:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.
-- NEW: Thou madest the raging of the sea: when the waves thereof arise, thou stillest them.
-
 ## rumbling → noise — Jeremiah 47:3
 - source: YLT alignment (word in KJV same testament)
 - OLD: At the noise of the stamping of the hoofs of his strong horses, at the rushing of his chariots, and at the rumbling of his wheels, the fathers shall not look back to their children for feebleness of hands;
 - NEW: At the noise of the stamping of the hoofs of his strong horses, at the rushing of his chariots, and at the noise of his wheels, the fathers shall not look back to their children for feebleness of hands;
-
-## rumours → ears — Matthew 24:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
-- NEW: And ye shall hear of wars and ears of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
-
-## rumours → ears — Mark 13:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when ye shall hear of wars and rumours of wars, be ye not troubled: for such things must needs be; but the end shall not be yet.
-- NEW: And when ye shall hear of wars and ears of wars, be ye not troubled: for such things must needs be; but the end shall not be yet.
-
-## runnest → mightest — Proverbs 4:12
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.
-- NEW: When thou goest, thy steps shall not be straitened; and when thou mightest, thou shalt not stumble.
-
-## rushes → rush — Isaiah 35:7
-- source: YLT alignment (word in KJV same testament)
-- OLD: And the parched ground shall become a pool, and the thirsty land springs of water: in the habitation of dragons, where each lay, shall be grass with reeds and rushes.
-- NEW: And the parched ground shall become a pool, and the thirsty land springs of water: in the habitation of dragons, where each lay, shall be grass with reeds and rush.
-
-## rusheth → floweth — Jeremiah 8:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: I hearkened and heard, but they spake not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rusheth into the battle.
-- NEW: I hearkened and heard, but they spake not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse floweth into the battle.
 
 ## sabachthani → ??? — Matthew 27:46
 - source: King James agent: no safe one-word swap found — edit or delete this entry
@@ -16820,25 +11305,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
 - NEW: Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of hosts.
 
-## sackclothes → sackcloth — Nehemiah 9:1
-- source: YLT alignment (word in KJV same testament)
-- OLD: Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.
-- NEW: Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackcloth, and earth upon them.
-
 ## sacrificedst → sacrifice — Deuteronomy 16:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there any thing of the flesh, which thou sacrificedst the first day at even, remain all night until the morning.
 - NEW: And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there any thing of the flesh, which thou sacrifice the first day at even, remain all night until the morning.
-
-## sacrificing → offering — I Kings 8:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And king Solomon, and all the congregation of Israel, that were assembled unto him, were with him before the ark, sacrificing sheep and oxen, that could not be told nor numbered for multitude.
-- NEW: And king Solomon, and all the congregation of Israel, that were assembled unto him, were with him before the ark, offering sheep and oxen, that could not be told nor numbered for multitude.
-
-## sacrificing → offering — I Kings 12:32
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like unto the feast that is in Judah, and he offered upon the altar. So did he in Beth–el, sacrificing unto the calves that he had made: and he placed in Beth–el the priests of the high places which he had made.
-- NEW: And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like unto the feast that is in Judah, and he offered upon the altar. So did he in Beth–el, offering unto the calves that he had made: and he placed in Beth–el the priests of the high places which he had made.
 
 ## sacrilege → commit — Romans 2:22
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -16880,11 +11350,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Therefore as I live, saith the Lord of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.
 - NEW: Therefore as I live, saith the Lord of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and salts, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.
 
-## salutations → greetings — Mark 12:38
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,
-- NEW: And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love greetings in the marketplaces,
-
 ## sandals → shoes — Mark 6:9
 - source: King James agent selection
 - OLD: But be shod with sandals; and not put on two coats.
@@ -16920,16 +11385,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.
 - NEW: The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.
 
-## satest → dwellest — Psalms 9:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For thou hast maintained my right and my cause; thou satest in the throne judging right.
-- NEW: For thou hast maintained my right and my cause; thou dwellest in the throne judging right.
-
-## satest → sat — Ezekiel 23:41
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And satest upon a stately bed, and a table prepared before it, whereupon thou hast set mine incense and mine oil.
-- NEW: And sat upon a stately bed, and a table prepared before it, whereupon thou hast set mine incense and mine oil.
-
 ## satiate → full — Jeremiah 31:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And I will satiate the soul of the priests with fatness, and my people shall be satisfied with my goodness, saith the Lord.
@@ -16960,16 +11415,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Thou openest thine hand, and satisfiest the desire of every living thing.
 - NEW: Thou openest thine hand, and satisfy the desire of every living thing.
 
-## satisfying → filling — Proverbs 13:25
-- source: King James agent selection
-- OLD: The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want. 
-- NEW: The righteous eateth to the filling of his soul: but the belly of the wicked shall want. 
-
-## satisfying → filling — Colossians 2:23
-- source: King James agent selection
-- OLD: Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh. 
-- NEW: Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the filling of the flesh. 
-
 ## satyr → kid — Isaiah 34:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest.
@@ -16980,36 +11425,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.
 - NEW: But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and goats shall dance there.
 
-## saviours → nevertheless — Nehemiah 9:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Therefore thou deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto thee, thou heardest them from heaven; and according to thy manifold mercies thou gavest them saviours, who saved them out of the hand of their enemies.
-- NEW: Therefore thou deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto thee, thou heardest them from heaven; and according to thy manifold mercies thou gavest them nevertheless, who saved them out of the hand of their enemies.
-
-## saviours → nevertheless — Obadiah 1:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the Lord’s.  
-- NEW: And nevertheless shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the Lord’s.  
-
-## savourest → thinkest — Matthew 16:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.
-- NEW: But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou thinkest not the things that be of God, but those that be of men.
-
-## savourest → thinkest — Mark 8:33
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men.
-- NEW: But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou thinkest not the things that be of God, but the things that be of men.
-
-## savours → odours — Ezra 6:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons.
-- NEW: That they may offer sacrifices of sweet odours unto the God of heaven, and pray for the life of the king, and of his sons.
-
-## sawed → destroyed — I Kings 7:9
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: All these were of costly stones, according to the measures of hewed stones, sawed with saws, within and without, even from the foundation unto the coping, and so on the outside toward the great court.
-- NEW: All these were of costly stones, according to the measures of hewed stones, destroyed with saws, within and without, even from the foundation unto the coping, and so on the outside toward the great court.
-
 ## sawn → asunder — Hebrews 11:37
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;
@@ -17019,16 +11434,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: YLT alignment (word in KJV same testament)
 - OLD: O thou sword of the Lord, how long will it be ere thou be quiet? put up thyself into thy scabbard, rest, and be still.
 - NEW: O thou sword of the Lord, how long will it be ere thou be quiet? put up thyself into thy sheath, rest, and be still.
-
-## scabbed → ??? — Leviticus 21:20
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;
-- NEW: Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;
-
-## scabbed → ??? — Leviticus 22:22
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the Lord, nor make an offering by fire of them upon the altar unto the Lord.
-- NEW: Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the Lord, nor make an offering by fire of them upon the altar unto the Lord.
 
 ## scaffold → laver — II Chronicles 6:13
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -17069,16 +11474,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Then thou scarest me with dreams, and terrifiest me through visions:
 - NEW: Then thou affrightest me with dreams, and terrifiest me through visions:
-
-## scattering → storm — Isaiah 30:30
-- source: King James agent selection
-- OLD: And the Lord shall cause his glorious voice to be heard, and shall shew the lighting down of his arm, with the indignation of his anger, and with the flame of a devouring fire, with scattering, and tempest, and hailstones.
-- NEW: And the Lord shall cause his glorious voice to be heard, and shall shew the lighting down of his arm, with the indignation of his anger, and with the flame of a devouring fire, with storm, and tempest, and hailstones.
-
-## sceptres → tribes — Ezekiel 19:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And she had strong rods for the sceptres of them that bare rule, and her stature was exalted among the thick branches, and she appeared in her height with the multitude of her branches.
-- NEW: And she had strong rods for the tribes of them that bare rule, and her stature was exalted among the thick branches, and she appeared in her height with the multitude of her branches.
 
 ## schism → division — I Corinthians 12:25
 - source: UKJV alignment (word in KJV same testament)
@@ -17125,16 +11520,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the fourth angel poured out his vial upon the sun; and power was given unto him to scorch men with fire.
 - NEW: And the fourth angel poured out his vial upon the sun; and power was given unto him to power men with fire.
 
-## scornest → scornerest — Proverbs 9:12
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: If thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it.
-- NEW: If thou be wise, thou shalt be wise for thyself: but if thou scornerest, thou alone shalt bear it.
-
-## scornest → scornerest — Ezekiel 16:31
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: In that thou buildest thine eminent place in the head of every way, and makest thine high place in every street; and hast not been as an harlot, in that thou scornest hire;
-- NEW: In that thou buildest thine eminent place in the head of every way, and makest thine high place in every street; and hast not been as an harlot, in that thou scornerest hire;
-
 ## scorpion → scorpions — Luke 11:12
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Or if he shall ask an egg, will he offer him a scorpion?
@@ -17150,21 +11535,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both scoured, and rinsed in water.
 - NEW: But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both furbished, and rinsed in water.
 
-## scourges → whips — Joshua 23:13
-- source: King James agent selection
-- OLD: Know for a certainty that the Lord your God will no more drive out any of these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the Lord your God hath given you.
-- NEW: Know for a certainty that the Lord your God will no more drive out any of these nations from before you; but they shall be snares and traps unto you, and whips in your sides, and thorns in your eyes, until ye perish from off this good land which the Lord your God hath given you.
-
-## scourgeth → whips — Hebrews 12:6
-- source: AKJV alignment (word in KJV other testament)
-- OLD: For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.
-- NEW: For whom the Lord loveth he chasteneth, and whips every son whom he receiveth.
-
-## scourging → beating — Acts 22:24
-- source: King James agent selection
-- OLD: The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him.
-- NEW: The chief captain commanded him to be brought into the castle, and bade that he should be examined by beating; that he might know wherefore they cried so against him.
-
 ## scourgings → plagues — Hebrews 11:36
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:
@@ -17175,30 +11545,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he changed his behaviour before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard.
 - NEW: And he changed his behaviour before them, and feigned himself mad in their hands, and scratched on the doors of the gate, and let his spittle fall down upon his beard.
 
-## scraped → offed — Leviticus 14:41
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:
-- NEW: And he shall cause the house to be offed within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:
-
-## scraped → offed — Leviticus 14:43
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And if the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is plaistered;
-- NEW: And if the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath offed the house, and after it is plaistered;
-
 ## screech → owl — Isaiah 34:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest.
 - NEW: The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the owl owl also shall rest there, and find for herself a place of rest.
-
-## scribe's → scribes — Jeremiah 36:12
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then he went down into the king’s house, into the scribe’s chamber: and, lo, all the princes sat there, even Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.
-- NEW: Then he went down into the king’s house, into the scribe’s chamber: and, lo, all the princes sat there, even Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.
-
-## scribe's → scribes — Jeremiah 36:21
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: So the king sent Jehudi to fetch the roll: and he took it out of Elishama the scribe’s chamber. And Jehudi read it in the ears of the king, and in the ears of all the princes which stood beside the king.
-- NEW: So the king sent Jehudi to fetch the roll: and he took it out of Elishama the scribe’s chamber. And Jehudi read it in the ears of the king, and in the ears of all the princes which stood beside the king.
 
 ## scroll → book — Isaiah 34:4
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -17225,55 +11575,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And they shall take up a lamentation for thee, and say to thee, How art thou destroyed, that wast inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!
 - NEW: And they shall take up a lamentation for thee, and say to thee, How art thou destroyed, that wast inhabited of seaing men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!
 
-## sealest → sealedest — Ezekiel 28:12
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith the Lord God; Thou sealest up the sum, full of wisdom, and perfect in beauty.
-- NEW: Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith the Lord God; Thou sealedest up the sum, full of wisdom, and perfect in beauty.
-
-## sealing → sealeding — Matthew 27:66
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: So they went, and made the sepulchre sure, sealing the stone, and setting a watch. 
-- NEW: So they went, and made the sepulchre sure, sealeding the stone, and setting a watch. 
-
 ## seam → ??? — John 19:23
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout.
 - NEW: Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout.
 
-## searchest → search — Job 10:6
-- source: UKJV alignment (word in KJV same testament)
-- OLD: That thou enquirest after mine iniquity, and searchest after my sin?
-- NEW: That thou enquirest after mine iniquity, and search after my sin?
-
-## searchest → search — Proverbs 2:4
-- source: UKJV alignment (word in KJV same testament)
-- OLD: If thou seekest her as silver, and searchest for her as for hid treasures;
-- NEW: If thou seekest her as silver, and search for her as for hid treasures;
-
-## searchings → numbers — Judges 5:16
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben there were great searchings of heart.
-- NEW: Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben there were great numbers of heart.
-
 ## seared → having — I Timothy 4:2
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: Speaking lies in hypocrisy; having their conscience seared with a hot iron;
 - NEW: Speaking lies in hypocrisy; having their conscience having with a hot iron;
-
-## seasoned → salted — Luke 14:34
-- source: King James agent selection
-- OLD: Salt is good: but if the salt have lost his savour, wherewith shall it be seasoned?
-- NEW: Salt is good: but if the salt have lost his savour, wherewith shall it be salted?
-
-## seasoned → salted — Colossians 4:6
-- source: King James agent selection
-- OLD: Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
-- NEW: Let your speech be alway with grace, salted with salt, that ye may know how ye ought to answer every man.
-
-## seated → covered — Deuteronomy 33:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the Lord, and his judgments with Israel.
-- NEW: And he provided the first part for himself, because there, in a portion of the lawgiver, was he covered; and he came with the heads of the people, he executed the justice of the Lord, and his judgments with Israel.
 
 ## secondarily → secondly — I Corinthians 12:28
 - source: King James agent selection
@@ -17295,30 +11605,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And when they had taken security of Jason, and of the other, they let them go.
 - NEW: And when they had taken long of Jason, and of the other, they let them go.
 
-## seditions → divisions — Galatians 5:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,
-- NEW: Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, divisions, heresies,
-
 ## seducers → deceivers — II Timothy 3:13
 - source: King James agent selection
 - OLD: But evil men and seducers shall wax worse and worse, deceiving, and being deceived.
 - NEW: But evil men and deceivers shall wax worse and worse, deceiving, and being deceived.
-
-## seduceth → causeth — Proverbs 12:26
-- source: YLT alignment (word in KJV same testament)
-- OLD: The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.
-- NEW: The righteous is more excellent than his neighbour: but the way of the wicked causeth them.
-
-## seducing → deceiving — I Timothy 4:1
-- source: King James agent selection
-- OLD: Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;
-- NEW: Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to deceiving spirits, and doctrines of devils;
-
-## seed's → times — Isaiah 59:21
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: As for me, this is my covenant with them, saith the Lord; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the Lord, from henceforth and for ever. 
-- NEW: As for me, this is my covenant with them, saith the Lord; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the Lord, from henceforth and for ever. 
 
 ## seedtime → seed — Genesis 8:22
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -17335,16 +11625,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: As snow in summer, and as rain in harvest, so honour is not seemly for a fool.
 - NEW: As snow in summer, and as rain in harvest, so honour is not comely for a fool.
 
-## seer's → visions — I Samuel 9:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer’s house is.
-- NEW: Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer’s house is.
-
-## seized → repaired — Jeremiah 49:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Damascus is waxed feeble, and turneth herself to flee, and fear hath seized on her: anguish and sorrows have taken her, as a woman in travail.
-- NEW: Damascus is waxed feeble, and turneth herself to flee, and fear hath repaired on her: anguish and sorrows have taken her, as a woman in travail.
-
 ## selfwill → favour — Genesis 49:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.
@@ -17359,16 +11639,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities.
 - NEW: But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, stubborn, they are not afraid to speak evil of dignities.
-
-## sellers → themselves — Nehemiah 13:20
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice.
-- NEW: So the merchants and themselves of all kind of ware lodged without Jerusalem once or twice.
-
-## sellest → mayest — Psalms 44:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou sellest thy people for nought, and dost not increase thy wealth by their price.
-- NEW: Thou mayest thy people for nought, and dost not increase thy wealth by their price.
 
 ## selvedge → end — Exodus 26:4
 - source: YLT alignment (word in KJV same testament)
@@ -17410,21 +11680,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: These be they who separate themselves, sensual, having not the Spirit.
 - NEW: These be they who separate themselves, natural, having not the Spirit.
 
-## sentences → speeches — Daniel 5:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
-- NEW: Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard speeches, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
-
-## sentences → speeches — Daniel 8:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
-- NEW: And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark speeches, shall stand up.
-
-## separating → denying — Zechariah 7:3
-- source: King James agent selection
-- OLD: And to speak unto the priests which were in the house of the Lord of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?
-- NEW: And to speak unto the priests which were in the house of the Lord of hosts, and to the prophets, saying, Should I weep in the fifth month, denying myself, as I have done these so many years?
-
 ## seraphims → serpents — Isaiah 6:2
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.
@@ -17445,30 +11700,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the serjeants told these words unto the magistrates: and they feared, when they heard that they were Romans.
 - NEW: And the officers told these words unto the magistrates: and they feared, when they heard that they were Romans.
 
-## serpent's → serpents — Isaiah 14:29
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent’s root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.
-- NEW: Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent’s root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.
-
-## serpent's → serpents — Isaiah 65:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the Lord. 
-- NEW: The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the Lord. 
-
 ## servedst → serve — Deuteronomy 28:47
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;
 - NEW: Because thou serve not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;
-
-## servest → worshippest — Daniel 6:16
-- source: King James agent selection
-- OLD: Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.
-- NEW: Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Thy God whom thou worshippest continually, he will deliver thee.
-
-## servest → worshippest — Daniel 6:20
-- source: King James agent selection
-- OLD: And when he came to the den, he cried with a lamentable voice unto Daniel: and the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?
-- NEW: And when he came to the den, he cried with a lamentable voice unto Daniel: and the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou worshippest continually, able to deliver thee from the lions?
 
 ## servitor → minister — II Kings 4:43
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -17489,26 +11724,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection.
 - NEW: Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a forth forth of strange gods: because he preached unto them Jesus, and the resurrection.
-
-## settings → ouches — Exodus 28:17
-- source: King James agent selection
-- OLD: And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row.
-- NEW: And thou shalt set in it ouches of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row.
-
-## settlest → goest — Psalms 65:10
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.
-- NEW: Thou waterest the ridges thereof abundantly: thou goest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.
-
-## sevens → times — Genesis 7:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female.
-- NEW: Of every clean beast thou shalt take to thee by times, the male and his female: and of beasts that are not clean by two, the male and his female.
-
-## sevens → times — Genesis 7:3
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.
-- NEW: Of fowls also of the air by times, the male and the female; to keep seed alive upon the face of all the earth.
 
 ## severally → privately — I Corinthians 12:11
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -17565,11 +11780,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The shady trees cover him with their shadow; the willows of the brook compass him about.
 - NEW: The tree trees cover him with their shadow; the willows of the brook compass him about.
 
-## shaked → shook — Psalms 109:25
-- source: Webster alignment (word in KJV same testament)
-- OLD: I became also a reproach unto them: when they looked upon me they shaked their heads.
-- NEW: I became also a reproach unto them: when they looked upon me they shook their heads.
-
 ## shambles → market — I Corinthians 10:25
 - source: King James agent selection
 - OLD: Whatsoever is sold in the shambles, that eat, asking no question for conscience sake:
@@ -17589,11 +11799,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself!
 - NEW: Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows surely uncovereth himself!
-
-## shameth → reproacheth — Proverbs 28:7
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father.
-- NEW: Whoso keepeth the law is a wise son: but he that is a companion of riotous men reproacheth his father.
 
 ## shape → fashion — Luke 3:22
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -17665,26 +11870,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: If he beget a son that is a robber, a shedder of blood, and that doeth the like to any one of these things,
 - NEW: If he beget a son that is a robber, a shed of blood, and that doeth the like to any one of these things,
 
-## sheddeth → poureth — Genesis 9:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whoso sheddeth man’s blood, by man shall his blood be shed: for in the image of God made he man.
-- NEW: Whoso poureth man’s blood, by man shall his blood be shed: for in the image of God made he man.
-
-## sheddeth → poureth — Ezekiel 22:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then say thou, Thus saith the Lord God, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself.
-- NEW: Then say thou, Thus saith the Lord God, The city poureth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself.
-
-## shedding → pouring — Hebrews 9:22
-- source: King James agent selection
-- OLD: And almost all things are by the law purged with blood; and without shedding of blood is no remission.
-- NEW: And almost all things are by the law purged with blood; and without pouring of blood is no remission.
-
-## sheep's → lamb's — Matthew 7:15
-- source: King James agent selection
-- OLD: Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.
-- NEW: Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.
-
 ## sheepcote → habitation — II Samuel 7:8
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Now therefore so shalt thou say unto my servant David, Thus saith the Lord of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
@@ -17740,16 +11925,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For thou hast been a shelter for me, and a strong tower from the enemy.
 - NEW: For thou hast been a refuge for me, and a strong tower from the enemy.
 
-## shepherd's → shepherds — I Samuel 17:40
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling was in his hand: and he drew near to the Philistine.
-- NEW: And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling was in his hand: and he drew near to the Philistine.
-
-## shepherd's → shepherds — Isaiah 38:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night wilt thou make an end of me.
-- NEW: Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night wilt thou make an end of me.
-
 ## sherd → piece — Isaiah 30:14
 - source: Webster alignment (word in KJV same testament)
 - OLD: And he shall break it as the breaking of the potters’ vessel that is broken in pieces; he shall not spare: so that there shall not be found in the bursting of it a sherd to take fire from the hearth, or to take water withal out of the pit.
@@ -17790,11 +11965,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For in one hour so great riches is come to nought. And every shipmaster, and all the company in ships, and sailors, and as many as trade by sea, stood afar off,
 - NEW: For in one hour so great riches is come to nought. And every great, and all the company in ships, and sailors, and as many as trade by sea, stood afar off,
 
-## shipping → ship — John 6:24
-- source: King James agent selection
-- OLD: When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus.
-- NEW: When the people therefore saw that Jesus was not there, neither his disciples, they also took ship, and came to Capernaum, seeking for Jesus.
-
 ## shipwreck → suffer — II Corinthians 11:25
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;
@@ -17825,25 +11995,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And when he had set the brands on fire, he let them go into the standing corn of the Philistines, and burnt up both the shocks, and also the standing corn, with the vineyards and olives.
 - NEW: And when he had set the brands on fire, he let them go into the standing corn of the Philistines, and burnt up both the tombs, and also the standing corn, with the vineyards and olives.
 
-## shoe's → shoes — John 1:27
-- source: Webster alignment (word in KJV same testament)
-- OLD: He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose.
-- NEW: He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose.
-
 ## shooters → archers — II Samuel 11:24
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And the shooters shot from off the wall upon thy servants; and some of the king’s servants be dead, and thy servant Uriah the Hittite is dead also.
 - NEW: And the archers shot from off the wall upon thy servants; and some of the king’s servants be dead, and thy servant Uriah the Hittite is dead also.
-
-## shooting → offering — I Chronicles 12:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul’s brethren of Benjamin.
-- NEW: They were armed with bows, and could use both the right hand and the left in hurling stones and offering arrows out of a bow, even of Saul’s brethren of Benjamin.
-
-## shooting → offering — Amos 7:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thus hath the Lord God shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king’s mowings.
-- NEW: Thus hath the Lord God shewed unto me; and, behold, he formed grasshoppers in the beginning of the offering up of the latter growth; and, lo, it was the latter growth after the king’s mowings.
 
 ## shorter → reap — Isaiah 28:20
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -17854,16 +12009,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Now the upper chambers were shorter: for the galleries were higher than these, than the lower, and than the middlemost of the building.
 - NEW: Now the upper chambers were reap: for the galleries were higher than these, than the lower, and than the middlemost of the building.
-
-## shouteth → crieth — Psalms 78:65
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine.
-- NEW: Then the Lord awaked as one out of sleep, and like a mighty man that crieth by reason of wine.
-
-## shoutings → shouting — Zechariah 4:7
-- source: King James agent selection
-- OLD: Who art thou, O great mountain? before Zerubbabel thou shalt become a plain: and he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it.
-- NEW: Who art thou, O great mountain? before Zerubbabel thou shalt become a plain: and he shall bring forth the headstone thereof with shouting, crying, Grace, grace unto it.
 
 ## shovel → spade — Isaiah 30:24
 - source: King James agent selection
@@ -17905,11 +12050,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For I have not shunned to declare unto you all the counsel of God.
 - NEW: For I have not feared to declare unto you all the counsel of God.
 
-## shutting → delivering — Joshua 2:5
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.
-- NEW: And it came to pass about the time of delivering of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.
-
 ## shuttle → beam — Job 7:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: My days are swifter than a weaver’s shuttle, and are spent without hope.
@@ -17930,50 +12070,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth.
 - NEW: For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a coast, yet shall not the least grain fall upon the earth.
 
-## sifted → moved — Amos 9:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth.
-- NEW: For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is moved in a sieve, yet shall not the least grain fall upon the earth.
-
-## sighest → groanest — Ezekiel 21:7
-- source: King James agent selection
-- OLD: And it shall be, when they say unto thee, Wherefore sighest thou? that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak as water: behold, it cometh, and shall be brought to pass, saith the Lord God.
-- NEW: And it shall be, when they say unto thee, Wherefore groanest thou? that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak as water: behold, it cometh, and shall be brought to pass, saith the Lord God.
-
-## sigheth → mourneth — Lamentations 1:8
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.
-- NEW: Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she mourneth, and turneth backward.
-
-## sighs → groanings — Lamentations 1:22
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs are many, and my heart is faint. 
-- NEW: Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my groanings are many, and my heart is faint. 
-
-## sights → wonders — Luke 21:11
-- source: King James agent selection
-- OLD: And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
-- NEW: And great earthquakes shall be in divers places, and famines, and pestilences; and fearful wonders and great signs shall there be from heaven.
-
-## signets → seals — Exodus 39:6
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: And they wrought onyx stones inclosed in ouches of gold, graven, as signets are graven, with the names of the children of Israel.
-- NEW: And they wrought onyx stones inclosed in ouches of gold, graven, as seals are graven, with the names of the children of Israel.
-
 ## signification → dumb — I Corinthians 14:10
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: There are, it may be, so many kinds of voices in the world, and none of them is without signification.
 - NEW: There are, it may be, so many kinds of voices in the world, and none of them is without dumb.
-
-## signified → declared — Acts 11:28
-- source: King James agent selection
-- OLD: And there stood up one of them named Agabus, and signified by the spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Cesar.
-- NEW: And there stood up one of them named Agabus, and declared by the spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Cesar.
-
-## signified → declared — Revelation of John 1:1
-- source: King James agent selection
-- OLD: The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
-- NEW: The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and declared it by his angel unto his servant John:
 
 ## signifieth → sheweth — Hebrews 12:27
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -17985,11 +12085,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;
 - NEW: For a certain man named Demetrius, a coppersmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;
 
-## similitudes → parables — Hosea 12:10
-- source: King James agent selection
-- OLD: I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.
-- NEW: I have also spoken by the prophets, and I have multiplied visions, and used parables, by the ministry of the prophets.
-
 ## sincere → pure — Philippians 1:10
 - source: YLT alignment (word in KJV same testament)
 - OLD: That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;
@@ -18000,11 +12095,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: As newborn babes, desire the sincere milk of the word, that ye may grow thereby:
 - NEW: As newborn babes, desire the pure milk of the word, that ye may grow thereby:
 
-## singed → burned — Daniel 3:27
-- source: King James agent selection
-- OLD: And the princes, governors, and captains, and the king’s counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
-- NEW: And the princes, governors, and captains, and the king’s counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head burned, neither were their coats changed, nor the smell of fire had passed on them.
-
 ## singer → sing — I Chronicles 6:33
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And these are they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,
@@ -18014,11 +12104,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The Lord God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.  
 - NEW: The Lord God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief sing on my stringed instruments.  
-
-## singeth → chanteth — Proverbs 25:20
-- source: King James agent selection
-- OLD: As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart.
-- NEW: As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that chanteth songs to an heavy heart.
 
 ## single → sound — Matthew 6:22
 - source: King James agent selection
@@ -18034,21 +12119,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: YLT alignment (word in KJV same testament)
 - OLD: Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the Lord by thy estimation.
 - NEW: Speak unto the children of Israel, and say unto them, When a man shall make a wonderful vow, the persons shall be for the Lord by thy estimation.
-
-## sinnest → bearest — Job 35:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: If thou sinnest, what doest thou against him? or if thy transgressions be multiplied, what doest thou unto him?
-- NEW: If thou bearest, what doest thou against him? or if thy transgressions be multiplied, what doest thou unto him?
-
-## sinning → cleansing — Genesis 20:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her.
-- NEW: And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from cleansing against me: therefore suffered I thee not to touch her.
-
-## sinning → cleansing — Leviticus 6:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein:
-- NEW: Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, cleansing therein:
 
 ## sith → since — Ezekiel 35:6
 - source: Webster alignment (word in KJV same testament)
@@ -18115,50 +12185,20 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills.
 - NEW: The voice of my beloved! behold, he cometh leaping upon the mountains, leaping upon the hills.
 
-## slacked → fainted — Habakkuk 1:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.
-- NEW: Therefore the law is fainted, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.
-
 ## slackness → slothfulness — II Peter 3:9
 - source: King James agent selection
 - OLD: The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
 - NEW: The Lord is not slack concerning his promise, as some men count slothfulness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
-
-## slandered → searched — II Samuel 19:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he hath slandered thy servant unto my lord the king; but my lord the king is as an angel of God: do therefore what is good in thine eyes.
-- NEW: And he hath searched thy servant unto my lord the king; but my lord the king is as an angel of God: do therefore what is good in thine eyes.
 
 ## slanderers → accusers — I Timothy 3:11
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Even so must their wives be grave, not slanderers, sober, faithful in all things.
 - NEW: Even so must their wives be grave, not accusers, sober, faithful in all things.
 
-## slanderest → reproachest — Psalms 50:20
-- source: King James agent selection
-- OLD: Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
-- NEW: Thou sittest and speakest against thy brother; thou reproachest thine own mother’s son.
-
-## slandereth → backbiteth — Psalms 101:5
-- source: King James agent selection
-- OLD: Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.
-- NEW: Whoso privily backbiteth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.
-
 ## slanderously → falsely — Romans 3:8
 - source: King James agent selection
 - OLD: And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.
 - NEW: And not rather, (as we be falsely reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.
-
-## slanders → lies — Jeremiah 6:28
-- source: King James agent selection
-- OLD: They are all grievous revolters, walking with slanders: they are brass and iron; they are all corrupters.
-- NEW: They are all grievous revolters, walking with lies: they are brass and iron; they are all corrupters.
-
-## slanders → lies — Jeremiah 9:4
-- source: King James agent selection
-- OLD: Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders.
-- NEW: Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with lies.
 
 ## slang → sling — I Samuel 17:49
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -18185,20 +12225,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;
 - NEW: That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the subtlety of men, and cunning craftiness, whereby they lie in wait to deceive;
 
-## slewest → shouldest — I Samuel 21:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if thou wilt take that, take it: for there is no other save that here. And David said, There is none like that; give it me.
-- NEW: And the priest said, The sword of Goliath the Philistine, whom thou shouldest in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if thou wilt take that, take it: for there is no other save that here. And David said, There is none like that; give it me.
-
 ## slidden → turned — Jeremiah 8:5
 - source: YLT alignment (word in KJV same testament)
 - OLD: Why then is this people of Jerusalem slidden back by a perpetual backsliding? they hold fast deceit, they refuse to return.
 - NEW: Why then is this people of Jerusalem turned back by a perpetual backsliding? they hold fast deceit, they refuse to return.
-
-## slideth → backslideth — Hosea 4:16
-- source: King James agent selection
-- OLD: For Israel slideth back as a backsliding heifer: now the Lord will feed them as a lamb in a large place.
-- NEW: For Israel backslideth back as a backsliding heifer: now the Lord will feed them as a lamb in a large place.
 
 ## slightly → lightly — Jeremiah 6:14
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -18225,30 +12255,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kir–haraseth left they the stones thereof; howbeit the slingers went about it, and smote it.
 - NEW: And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kir–haraseth left they the stones thereof; howbeit the archers went about it, and smote it.
 
-## slings → hangings — II Chronicles 26:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones.
-- NEW: And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and hangings to cast stones.
-
 ## slingstones → stones — Job 41:28
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The arrow cannot make him flee: slingstones are turned with him into stubble.
 - NEW: The arrow cannot make him flee: stones are turned with him into stubble.
-
-## slipped → poured — I Samuel 19:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Saul sought to smite David even to the wall with the javelin; but he slipped away out of Saul’s presence, and he smote the javelin into the wall: and David fled, and escaped that night.
-- NEW: And Saul sought to smite David even to the wall with the javelin; but he poured away out of Saul’s presence, and he smote the javelin into the wall: and David fled, and escaped that night.
-
-## slipped → poured — Psalms 73:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But as for me, my feet were almost gone; my steps had well nigh slipped.
-- NEW: But as for me, my feet were almost gone; my steps had well nigh poured.
-
-## slips → branches — Isaiah 17:10
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange slips:
-- NEW: Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange branches:
 
 ## slothfulness → idleness — Proverbs 19:15
 - source: King James agent selection
@@ -18270,65 +12280,20 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And they shall be broken in the purposes thereof, all that make sluices and ponds for fish.
 - NEW: And they shall be broken in the purposes thereof, all that make pools and ponds for fish.
 
-## slumbered → nodded — Matthew 25:5
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: While the bridegroom tarried, they all slumbered and slept.
-- NEW: While the bridegroom tarried, they all nodded and slept.
-
-## slumbereth → sleepeth — II Peter 2:3
-- source: King James agent selection
-- OLD: And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not.
-- NEW: And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation sleepeth not.
-
 ## slumberings → dreams — Job 33:15
 - source: King James agent selection
 - OLD: In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;
 - NEW: In a dream, in a vision of the night, when deep sleep falleth upon men, in dreams upon the bed;
-
-## smallest → youngest — I Samuel 9:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Saul answered and said, Am not I a Benjamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? wherefore then speakest thou so to me?
-- NEW: And Saul answered and said, Am not I a Benjamite, of the youngest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? wherefore then speakest thou so to me?
-
-## smallest → youngest — I Corinthians 6:2
-- source: KJV parallel rendering (other testament, matches grammar)
-- OLD: Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?
-- NEW: Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the youngest matters?
 
 ## smart → evil — Proverbs 11:15
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.
 - NEW: He that is surety for a stranger shall evil for it: and he that hateth suretiship is sure.
 
-## smelled → touched — Genesis 8:21
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And the Lord smelled a sweet savour; and the Lord said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.
-- NEW: And the Lord touched a sweet savour; and the Lord said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.
-
-## smelled → touched — Genesis 27:27
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the Lord hath blessed:
-- NEW: And he came near, and kissed him: and he touched the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the Lord hath blessed:
-
-## smelleth → toucheth — Job 39:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.
-- NEW: He saith among the trumpets, Ha, ha; and he toucheth the battle afar off, the thunder of the captains, and the shouting.
-
 ## smiters → murderers — Isaiah 50:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.
 - NEW: I gave my back to the murderers, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.
-
-## smitest → shouldest — Exodus 2:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?
-- NEW: And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore shouldest thou thy fellow?
-
-## smitest → shouldest — John 18:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?
-- NEW: Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why shouldest thou me?
 
 ## smoother → divide — Psalms 55:21
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -18339,16 +12304,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:
 - NEW: For the lips of a strange woman drop as an honeycomb, and her mouth is divide than oil:
-
-## smootheth → flattereth — Isaiah 41:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: So the carpenter encouraged the goldsmith, and he that smootheth with the hammer him that smote the anvil, saying, It is ready for the sodering: and he fastened it with nails, that it should not be moved.
-- NEW: So the carpenter encouraged the goldsmith, and he that flattereth with the hammer him that smote the anvil, saying, It is ready for the sodering: and he fastened it with nails, that it should not be moved.
-
-## smotest → shouldest — Exodus 17:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the Lord said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go.
-- NEW: And the Lord said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou shouldest the river, take in thine hand, and go.
 
 ## snail → worm — Leviticus 11:30
 - source: King James agent selection
@@ -18580,75 +12535,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
 - NEW: Of how much greater punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
 
-## sorrowed → grieved — II Corinthians 7:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.
-- NEW: Now I rejoice, not that ye were made sorry, but that ye grieved to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.
-
-## sorrowed → grieved — II Corinthians 7:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.
-- NEW: For behold this selfsame thing, that ye grieved after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.
-
-## sorroweth → sorrows — I Samuel 10:2
-- source: UKJV alignment (word in KJV same testament)
-- OLD: When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?
-- NEW: When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorrows for you, saying, What shall I do for my son?
-
-## sorrowing → weeping — Luke 2:48
-- source: King James agent selection
-- OLD: And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.
-- NEW: And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee weeping.
-
-## sorrowing → weeping — Acts 20:38
-- source: King James agent selection
-- OLD: Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship. 
-- NEW: Weeping most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship. 
-
 ## sottish → foolish — Jeremiah 4:22
 - source: UKJV alignment (word in KJV same testament)
 - OLD: For my people is foolish, they have not known me; they are sottish children, and they have none understanding: they are wise to do evil, but to do good they have no knowledge.
 - NEW: For my people is foolish, they have not known me; they are foolish children, and they have none understanding: they are wise to do evil, but to do good they have no knowledge.
 
-## soul's → souls — Job 16:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I also could speak as ye do: if your soul were in my soul’s stead, I could heap up words against you, and shake mine head at you.
-- NEW: I also could speak as ye do: if your soul were in my soul’s stead, I could heap up words against you, and shake mine head at you.
-
-## soundeth → draweth — Exodus 19:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: There shall not an hand touch it, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.
-- NEW: There shall not an hand touch it, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live: when the trumpet draweth long, they shall come up to the mount.
-
-## sounds → voices — I Corinthians 14:7
-- source: King James agent selection
-- OLD: And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?
-- NEW: And even things without life giving sound, whether pipe or harp, except they give a distinction in the voices, how shall it be known what is piped or harped?
-
 ## sowedst → sowest — Deuteronomy 11:10
 - source: YLT alignment (word in KJV other testament)
 - OLD: For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst it with thy foot, as a garden of herbs:
 - NEW: For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowest thy seed, and wateredst it with thy foot, as a garden of herbs:
-
-## sowing → sown — Leviticus 11:37
-- source: YLT alignment (word in KJV same testament)
-- OLD: And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean.
-- NEW: And if any part of their carcase fall upon any sown seed which is to be sown, it shall be clean.
-
-## sowing → keeping — Leviticus 26:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And your threshing shall reach unto the vintage, and the vintage shall reach unto the sowing time: and ye shall eat your bread to the full, and dwell in your land safely.
-- NEW: And your threshing shall reach unto the vintage, and the vintage shall reach unto the keeping time: and ye shall eat your bread to the full, and dwell in your land safely.
-
-## spanned → meted — Isaiah 48:13
-- source: King James agent selection
-- OLD: Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.
-- NEW: Mine hand also hath laid the foundation of the earth, and my right hand hath meted the heavens: when I call unto them, they stand up together.
-
-## sparing → forbearing — Acts 20:29
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
-- NEW: For I know this, that after my departing shall grievous wolves enter in among you, not forbearing the flock.
 
 ## sparingly → scantly — II Corinthians 9:6
 - source: King James agent selection
@@ -18695,16 +12590,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.
 - NEW: And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief man.
 
-## speakings → speaking — I Peter 2:1
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
-- NEW: Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speaking,
-
-## spear's → spears — I Samuel 17:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the staff of his spear was like a weaver’s beam; and his spear’s head weighed six hundred shekels of iron: and one bearing a shield went before him.
-- NEW: And the staff of his spear was like a weaver’s beam; and his spear’s head weighed six hundred shekels of iron: and one bearing a shield went before him.
-
 ## spearmen → reed — Psalms 68:30
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, till every one submit himself with pieces of silver: scatter thou the people that delight in war.
@@ -18740,20 +12625,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Neither their silver nor their gold shall be able to deliver them in the day of the Lord’s wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land. 
 - NEW: Neither their silver nor their gold shall be able to deliver them in the day of the Lord’s wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a afraid riddance of all them that dwell in the land. 
 
-## spendest → bestowest — Luke 10:35
-- source: King James agent selection
-- OLD: And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.
-- NEW: And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou bestowest more, when I come again, I will repay thee.
-
 ## spewing → vomit — Habakkuk 2:16
 - source: King James agent selection
 - OLD: Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the Lord’s right hand shall be turned unto thee, and shameful spewing shall be on thy glory.
 - NEW: Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the Lord’s right hand shall be turned unto thee, and shameful vomit shall be on thy glory.
-
-## spiced → sweet — Song of Solomon 8:2
-- source: King James agent selection
-- OLD: I would lead thee, and bring thee into my mother’s house, who would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate.
-- NEW: I would lead thee, and bring thee into my mother’s house, who would instruct me: I would cause thee to drink of sweet wine of the juice of my pomegranate.
 
 ## spicery → spices — Genesis 37:25
 - source: UKJV alignment (word in KJV same testament)
@@ -18800,21 +12675,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:
 - NEW: For he shall be delivered unto the Gentiles, and shall be mocked, and despitefully entreated, and spitted on:
 
-## spitted → spit — Luke 18:32
-- source: King James agent selection
-- OLD: For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:
-- NEW: For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spit on:
-
-## spitting → spit — Isaiah 50:6
-- source: King James agent selection
-- OLD: I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.
-- NEW: I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spit.
-
-## spoilest → spoil — Isaiah 33:1
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Woe to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.
-- NEW: Woe to thee that spoil, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.
-
 ## spokes → ??? — I Kings 7:33
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, were all molten.
@@ -18824,36 +12684,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And he shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God.
 - NEW: And he shall be thy spake unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God.
-
-## sporting → mocking — Genesis 26:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife.
-- NEW: And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was mocking with Rebekah his wife.
-
-## sporting → mocking — II Peter 2:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots they are and blemishes, sporting themselves with their own deceivings while they feast with you;
-- NEW: And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots they are and blemishes, mocking themselves with their own deceivings while they feast with you;
-
-## spouses → wives — Hosea 4:13
-- source: King James agent selection
-- OLD: They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery.
-- NEW: They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your wives shall commit adultery.
-
-## spouses → wives — Hosea 4:14
-- source: King James agent selection
-- OLD: I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.
-- NEW: I will not punish your daughters when they commit whoredom, nor your wives when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.
-
-## spreadest → stretchedst — Ezekiel 27:7
-- source: King James agent selection
-- OLD: Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.
-- NEW: Fine linen with broidered work from Egypt was that which thou stretchedst forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.
-
-## spreadings → spreading — Job 36:29
-- source: AKJV alignment (word in KJV same testament)
-- OLD: Also can any understand the spreadings of the clouds, or the noise of his tabernacle?
-- NEW: Also can any understand the spreading of the clouds, or the noise of his tabernacle?
 
 ## sprigs → boughs — Isaiah 18:5
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -18865,25 +12695,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And it grew, and became a spreading vine of low stature, whose branches turned toward him, and the roots thereof were under him: so it became a vine, and brought forth branches, and shot forth sprigs.
 - NEW: And it grew, and became a spreading vine of low stature, whose branches turned toward him, and the roots thereof were under him: so it became a vine, and brought forth branches, and shot forth boughs.
 
-## sprinkleth → scattereth — Leviticus 7:14
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And of it he shall offer one out of the whole oblation for an heave offering unto the Lord, and it shall be the priest’s that sprinkleth the blood of the peace offerings.
-- NEW: And of it he shall offer one out of the whole oblation for an heave offering unto the Lord, and it shall be the priest’s that scattereth the blood of the peace offerings.
-
-## sprinkleth → scattereth — Numbers 19:21
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And it shall be a perpetual statute unto them, that he that sprinkleth the water of separation shall wash his clothes; and he that toucheth the water of separation shall be unclean until even.
-- NEW: And it shall be a perpetual statute unto them, that he that scattereth the water of separation shall wash his clothes; and he that toucheth the water of separation shall be unclean until even.
-
 ## sprout → change — Job 14:7
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.
 - NEW: For there is hope of a tree, if it be cut down, that it will change again, and that the tender branch thereof will not cease.
-
-## spued → vomited — Leviticus 18:28
-- source: King James agent selection
-- OLD: That the land spue not you out also, when ye defile it, as it spued out the nations that were before you.
-- NEW: That the land spue not you out also, when ye defile it, as it vomited out the nations that were before you.
 
 ## spun → spin — Exodus 35:25
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -18894,21 +12709,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And all the women whose heart stirred them up in wisdom spun goats’ hair.
 - NEW: And all the women whose heart stirred them up in wisdom spin goats’ hair.
-
-## squared → foursquare — Ezekiel 41:21
-- source: King James agent selection
-- OLD: The posts of the temple were squared, and the face of the sanctuary; the appearance of the one as the appearance of the other.
-- NEW: The posts of the temple were foursquare, and the face of the sanctuary; the appearance of the one as the appearance of the other.
-
-## squares → sides — Ezekiel 43:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the altar shall be twelve cubits long, twelve broad, square in the four squares thereof.
-- NEW: And the altar shall be twelve cubits long, twelve broad, square in the four sides thereof.
-
-## squares → sides — Ezekiel 43:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the settle shall be fourteen cubits long and fourteen broad in the four squares thereof; and the border about it shall be half a cubit; and the bottom thereof shall be a cubit about; and his stairs shall look toward the east.
-- NEW: And the settle shall be fourteen cubits long and fourteen broad in the four sides thereof; and the border about it shall be half a cubit; and the bottom thereof shall be a cubit about; and his stairs shall look toward the east.
 
 ## stability → truth — Isaiah 33:6
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -18925,30 +12725,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And I will make Rabbah a stable for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I am the Lord.
 - NEW: And I will make Rabbah a prepare for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I am the Lord.
 
-## stablisheth → establisheth — Habakkuk 2:12
-- source: Webster alignment (word in KJV same testament)
-- OLD: Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!
-- NEW: Woe to him that buildeth a town with blood, and establisheth a city by iniquity!
-
-## stablisheth → standeth — II Corinthians 1:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Now he which stablisheth us with you in Christ, and hath anointed us, is God;
-- NEW: Now he which standeth us with you in Christ, and hath anointed us, is God;
-
 ## stacks → tombs — Exodus 22:6
 - source: KJV parallel rendering, re-inflected (other testament)
 - OLD: If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed therewith; he that kindled the fire shall surely make restitution.
 - NEW: If fire break out, and catch in thorns, so that the tombs of corn, or the standing corn, or the field, be consumed therewith; he that kindled the fire shall surely make restitution.
-
-## staggered → contended — Romans 4:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;
-- NEW: He contended not at the promise of God through unbelief; but was strong in faith, giving glory to God;
-
-## staggereth → causeth — Isaiah 19:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The Lord hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man staggereth in his vomit.
-- NEW: The Lord hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man causeth in his vomit.
 
 ## stakes → pins — Isaiah 33:20
 - source: King James agent selection
@@ -18959,16 +12739,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
 - NEW: Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy pins;
-
-## stalks → gallows — Joshua 2:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.
-- NEW: But she had brought them up to the roof of the house, and hid them with the gallows of flax, which she had laid in order upon the roof.
-
-## stalled → fatted — Proverbs 15:17
-- source: YLT alignment (word in KJV same testament)
-- OLD: Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.
-- NEW: Better is a dinner of herbs where love is, than a fatted ox and hatred therewith.
 
 ## stammerers → stutterers — Isaiah 32:4
 - source: King James agent selection
@@ -19025,30 +12795,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And I will drive thee from thy station, and from thy state shall he pull thee down.
 - NEW: And I will drive thee from thy garrison, and from thy state shall he pull thee down.
 
-## stayeth → stays — Isaiah 27:8
-- source: UKJV alignment (word in KJV same testament)
-- OLD: In measure, when it shooteth forth, thou wilt debate with it: he stayeth his rough wind in the day of the east wind.
-- NEW: In measure, when it shooteth forth, thou wilt debate with it: he stays his rough wind in the day of the east wind.
-
-## steads → rooms — I Chronicles 5:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For there fell down many slain, because the war was of God. And they dwelt in their steads until the captivity.
-- NEW: For there fell down many slain, because the war was of God. And they dwelt in their rooms until the captivity.
-
 ## steady → truth — Exodus 17:12
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: But Moses’ hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun.
 - NEW: But Moses’ hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were truth until the going down of the sun.
-
-## stealing → robbing — Deuteronomy 24:7
-- source: King James agent selection
-- OLD: If a man be found stealing any of his brethren of the children of Israel, and maketh merchandise of him, or selleth him; then that thief shall die; and thou shalt put evil away from among you.
-- NEW: If a man be found robbing any of his brethren of the children of Israel, and maketh merchandise of him, or selleth him; then that thief shall die; and thou shalt put evil away from among you.
-
-## stealing → robbing — Hosea 4:2
-- source: King James agent selection
-- OLD: By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
-- NEW: By swearing, and lying, and killing, and robbing, and committing adultery, they break out, and blood toucheth blood.
 
 ## stealth → stolen — II Samuel 19:3
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -19095,11 +12845,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Then fearing lest we should have fallen upon rocks, they cast four anchors out of the stern, and wished for the day.
 - NEW: Then fearing lest we should have fallen upon rocks, they cast four anchors out of the part, and wished for the day.
 
-## sticketh → sticks — Proverbs 18:24
-- source: UKJV alignment (word in KJV same testament)
-- OLD: A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. 
-- NEW: A man that hath friends must shew himself friendly: and there is a friend that sticks closer than a brother. 
-
 ## stiffened → hardeneth — II Chronicles 36:13
 - source: YLT alignment (word in KJV same testament)
 - OLD: And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the Lord God of Israel.
@@ -19109,26 +12854,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: For they are impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord God.
 - NEW: For they are impudent children and hardhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord God.
-
-## stilled → quieted — Numbers 13:30
-- source: King James agent selection
-- OLD: And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
-- NEW: And Caleb quieted the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
-
-## stilled → quieted — Nehemiah 8:11
-- source: King James agent selection
-- OLD: So the Levites stilled all the people, saying, Hold your peace, for the day is holy; neither be ye grieved.
-- NEW: So the Levites quieted all the people, saying, Hold your peace, for the day is holy; neither be ye grieved.
-
-## stillest → keepest — Psalms 89:9
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.
-- NEW: Thou rulest the raging of the sea: when the waves thereof arise, thou keepest them.
-
-## stilleth → keepeth — Psalms 65:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.
-- NEW: Which keepeth the noise of the seas, the noise of their waves, and the tumult of the people.
 
 ## sting → pricks — I Corinthians 15:55
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -19150,26 +12875,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And they had tails like unto scorpions, and there were stings in their tails: and their power was to hurt men five months.
 - NEW: And they had tails like unto scorpions, and there were pricks in their tails: and their power was to hurt men five months.
 
-## stinketh → uttereth — Isaiah 50:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because there is no water, and dieth for thirst.
-- NEW: Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish uttereth, because there is no water, and dieth for thirst.
-
-## stinketh → uttereth — John 11:39
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been dead four days.
-- NEW: Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he uttereth: for he hath been dead four days.
-
-## stinking → noisome — Ecclesiastes 10:1
-- source: King James agent selection
-- OLD: Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.
-- NEW: Dead flies cause the ointment of the apothecary to send forth a noisome savour: so doth a little folly him that is in reputation for wisdom and honour.
-
-## stirs → tumults — Isaiah 22:2
-- source: King James agent selection
-- OLD: Thou that art full of stirs, a tumultuous city, a joyous city: thy slain men are not slain with the sword, nor dead in battle.
-- NEW: Thou that art full of tumults, a tumultuous city, a joyous city: thy slain men are not slain with the sword, nor dead in battle.
-
 ## stomach's → belly's — I Timothy 5:23
 - source: King James agent selection
 - OLD: Drink no longer water, but use a little wine for thy stomach’s sake and thine often infirmities.
@@ -19180,26 +12885,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty.
 - NEW: And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a mantle a girding of sackcloth; and burning instead of beauty.
 
-## stone's → stones — Luke 22:41
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And he was withdrawn from them about a stone’s cast, and kneeled down, and prayed,
-- NEW: And he was withdrawn from them about a stone’s cast, and kneeled down, and prayed,
-
-## stonest → stone — Matthew 23:37
-- source: UKJV alignment (word in KJV same testament)
-- OLD: O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
-- NEW: O Jerusalem, Jerusalem, thou that killest the prophets, and stone them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
-
-## stonest → stone — Luke 13:34
-- source: UKJV alignment (word in KJV same testament)
-- OLD: O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!
-- NEW: O Jerusalem, Jerusalem, which killest the prophets, and stone them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!
-
-## stoning → casting — I Samuel 30:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the Lord his God.
-- NEW: And David was greatly distressed; for the people spake of casting him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the Lord his God.
-
 ## stool → throne — II Kings 4:10
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Let us make a little chamber, I pray thee, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it shall be, when he cometh to us, that he shall turn in thither.
@@ -19209,21 +12894,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: YLT alignment (word in KJV same testament)
 - OLD: And he said, When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live.
 - NEW: And he said, When ye do the office of a midwife to the Hebrew women, and see them upon the children; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live.
-
-## stoopeth → falleth — Isaiah 46:1
-- source: King James agent selection
-- OLD: Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages were heavy loaden; they are a burden to the weary beast.
-- NEW: Bel boweth down, Nebo falleth, their idols were upon the beasts, and upon the cattle: your carriages were heavy loaden; they are a burden to the weary beast.
-
-## stooping → looking — Luke 24:12
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass.
-- NEW: Then arose Peter, and ran unto the sepulchre; and looking down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass.
-
-## stooping → looking — John 20:5
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And he stooping down, and looking in, saw the linen clothes lying; yet went he not in.
-- NEW: And he looking down, and looking in, saw the linen clothes lying; yet went he not in.
 
 ## storehouse → treasure — Malachi 3:10
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -19275,21 +12945,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again.
 - NEW: He increaseth the nations, and destroyeth them: he enlargeth the nations, and bringeth them again.
 
-## straitest → strait — Acts 26:5
-- source: AKJV alignment (word in KJV same testament)
-- OLD: Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.
-- NEW: Which knew me from the beginning, if they would testify, that after the most strait sect of our religion I lived a Pharisee.
-
-## straits → pains — Job 20:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.
-- NEW: In the fulness of his sufficiency he shall be in pains: every hand of the wicked shall come upon him.
-
-## straits → pains — Lamentations 1:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.
-- NEW: Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the pains.
-
 ## strake → struck — Acts 27:17
 - source: Webster alignment (word in KJV same testament)
 - OLD: Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven.
@@ -19310,16 +12965,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, and lest they should say, Our hand is high, and the Lord hath not done all this.
 - NEW: Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves perversely, and lest they should say, Our hand is high, and the Lord hath not done all this.
 
-## stranger's → strangers — Leviticus 22:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption is in them, and blemishes be in them: they shall not be accepted for you.
-- NEW: Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption is in them, and blemishes be in them: they shall not be accepted for you.
-
-## stranger's → strangers — Leviticus 25:47
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger’s family:
-- NEW: And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger’s family:
-
 ## strangling → hanging — Job 7:15
 - source: King James agent selection
 - OLD: So that my soul chooseth strangling, and death rather than my life.
@@ -19330,35 +12975,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul.
 - NEW: In the day when I cried thou answeredst me, and strengthen me with strength in my soul.
 
-## strengthening → confirming — Luke 22:43
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And there appeared an angel unto him from heaven, strengthening him.
-- NEW: And there appeared an angel unto him from heaven, confirming him.
-
-## strengthening → confirming — Acts 18:23
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples.
-- NEW: And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, confirming all the disciples.
-
 ## stretchedst → stretch — Exodus 15:12
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thou stretchedst out thy right hand, the earth swallowed them.
 - NEW: Thou stretch out thy right hand, the earth swallowed them.
-
-## stretchest → stretch — Psalms 104:2
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:
-- NEW: Who coverest thyself with light as with a garment: who stretch out the heavens like a curtain:
-
-## stretching → casting — Isaiah 8:8
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel.
-- NEW: And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the casting out of his wings shall fill the breadth of thy land, O Immanuel.
-
-## stretching → casting — Acts 4:30
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus.
-- NEW: By casting forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus.
 
 ## striker → smiter — I Timothy 3:3
 - source: King James agent selection
@@ -19395,35 +13015,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, his coat of many colours that was on him;
 - NEW: And it came to pass, when Joseph was come unto his brethren, that they stripped Joseph out of his coat, his coat of many colours that was on him;
 
-## strived → laboured — Romans 15:20
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man’s foundation:
-- NEW: Yea, so have I laboured to preach the gospel, not where Christ was named, lest I should build upon another man’s foundation:
-
 ## striven → meddle — Jeremiah 50:24
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast not aware: thou art found, and also caught, because thou hast striven against the Lord.
 - NEW: I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast not aware: thou art found, and also caught, because thou hast meddle against the Lord.
-
-## striveth → contendeth — Isaiah 45:9
-- source: Webster alignment (word in KJV same testament)
-- OLD: Woe unto him that striveth with his Maker! Let the potsherd strive with the potsherds of the earth. Shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands?
-- NEW: Woe unto him that contendeth with his Maker! Let the potsherd strive with the potsherds of the earth. Shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands?
-
-## striveth → contendeth — I Corinthians 9:25
-- source: KJV parallel rendering (other testament, matches grammar)
-- OLD: And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
-- NEW: And every man that contendeth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
-
-## strokes → stripes — Proverbs 18:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: A fool’s lips enter into contention, and his mouth calleth for strokes.
-- NEW: A fool’s lips enter into contention, and his mouth calleth for stripes.
-
-## strongest → chiefest — Proverbs 30:30
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: A lion which is strongest among beasts, and turneth not away for any;
-- NEW: A lion which is chiefest among beasts, and turneth not away for any;
 
 ## strongly → firmly — Ezra 6:3
 - source: King James agent selection
@@ -19469,11 +13064,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would.
 - NEW: So the children went in and possessed the land, and thou himself before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would.
-
-## subjected → submitted — Romans 8:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,
-- NEW: For the creature was made subject to vanity, not willingly, but by reason of him who hath submitted the same in hope,
 
 ## suborned → hired — Acts 6:11
 - source: King James agent selection
@@ -19545,45 +13135,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.
 - NEW: This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good goods.
 
-## succoured → helped — II Samuel 21:17
-- source: UKJV alignment (word in KJV same testament)
-- OLD: But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel.
-- NEW: But Abishai the son of Zeruiah helped him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel.
-
-## succoured → helped — II Corinthians 6:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: (For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)
-- NEW: (For he saith, I have heard thee in a time accepted, and in the day of salvation have I helped thee: behold, now is the accepted time; behold, now is the day of salvation.)
-
 ## succourer → leader — Romans 16:2
 - source: YLT alignment (word in KJV other testament)
 - OLD: That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also.
 - NEW: That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a leader of many, and of myself also.
 
-## sucked → suck — Song of Solomon 8:1
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: O that thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised.
-- NEW: O that thou wert as my brother, that suck the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised.
-
-## sucked → suck — Luke 11:27
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: And it came to pass, as he spake these things, a certain woman of the company lifted up her voice, and said unto him, Blessed is the womb that bare thee, and the paps which thou hast sucked.
-- NEW: And it came to pass, as he spake these things, a certain woman of the company lifted up her voice, and said unto him, Blessed is the womb that bare thee, and the paps which thou hast suck.
-
 ## sue → judge — Matthew 5:40
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also.
 - NEW: And if any man will judge thee at the law, and take away thy coat, let him have thy cloke also.
-
-## sufferest → allowest — Revelation of John 2:20
-- source: King James agent selection
-- OLD: Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.
-- NEW: Notwithstanding I have a few things against thee, because thou allowest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.
-
-## sufficeth → satisfieth — John 14:8
-- source: King James agent selection
-- OLD: Philip saith unto him, Lord, shew us the Father, and it sufficeth us.
-- NEW: Philip saith unto him, Lord, shew us the Father, and it satisfieth us.
 
 ## sufficiently → enough — II Chronicles 30:3
 - source: King James agent selection
@@ -19595,20 +13155,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And her merchandise and her hire shall be holiness to the Lord: it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before the Lord, to eat sufficiently, and for durable clothing. 
 - NEW: And her merchandise and her hire shall be holiness to the Lord: it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before the Lord, to eat enough, and for durable clothing. 
 
-## suits → changes — Isaiah 3:22
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,
-- NEW: The changeable changes of apparel, and the mantles, and the wimples, and the crisping pins,
-
 ## sumptuously → deliciously — Luke 16:19
 - source: King James agent selection
 - OLD: There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:
 - NEW: There was a certain rich man, which was clothed in purple and fine linen, and fared deliciously every day:
-
-## sundered → separated — Job 41:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: They are joined one to another, they stick together, that they cannot be sundered.
-- NEW: They are joined one to another, they stick together, that they cannot be separated.
 
 ## sundry → several — Hebrews 1:1
 - source: UKJV alignment (word in KJV same testament)
@@ -19630,11 +13180,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious.
 - NEW: Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too religious.
 
-## supped → eaten — I Corinthians 11:25
-- source: King James agent selection
-- OLD: After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
-- NEW: After the same manner also he took the cup, when he had eaten, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
-
 ## supplant → stay — Jeremiah 9:4
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders.
@@ -19654,16 +13199,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.
 - NEW: From beyond the rivers of Ethiopia my worshippers, even the daughter of my dispersed, shall bring mine offering.
-
-## supplied → fulfilled — I Corinthians 16:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.
-- NEW: I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have fulfilled.
-
-## supplied → fulfilled — II Corinthians 11:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself. 
-- NEW: And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia fulfilled: and in all things I have kept myself from being burdensome unto you, and so will I keep myself. 
 
 ## supplieth → ministereth — II Corinthians 9:12
 - source: King James agent selection
@@ -19689,11 +13224,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Submit yourselves to every ordinance of man for the Lord’s sake: whether it be to the king, as supreme;
 - NEW: Submit yourselves to every ordinance of man for the Lord’s sake: whether it be to the king, as higher;
-
-## sureties → themselves — Proverbs 22:26
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Be not thou one of them that strike hands, or of them that are sureties for debts.
-- NEW: Be not thou one of them that strike hands, or of them that are themselves for debts.
 
 ## suretiship → blow — Proverbs 11:15
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -19730,16 +13260,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.
 - NEW: And this shall be a sign unto you; Ye shall find the babe wrapped in clothing clothes, lying in a manger.
 
-## swalloweth → desireth — Job 5:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.
-- NEW: Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber desireth up their substance.
-
-## swalloweth → desireth — Job 39:24
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet.
-- NEW: He desireth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet.
-
 ## swan → stork — Leviticus 11:18
 - source: King James agent selection
 - OLD: And the swan, and the pelican, and the gier eagle,
@@ -19754,11 +13274,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, saith the Lord of hosts.
 - NEW: And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false causes, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, saith the Lord of hosts.
-
-## sweeping → overflowing — Proverbs 28:3
-- source: King James agent selection
-- OLD: A poor man that oppresseth the poor is like a sweeping rain which leaveth no food.
-- NEW: A poor man that oppresseth the poor is like a overflowing rain which leaveth no food.
 
 ## sweetly → uprightly — Job 24:20
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -19775,30 +13290,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.
 - NEW: And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a smelling savour.
 
-## swelled → swell — Nehemiah 9:21
-- source: King James agent: no safe one-word swap found — edit or delete this entry
-- OLD: Yea, forty years didst thou sustain them in the wilderness, so that they lacked nothing; their clothes waxed not old, and their feet swelled not.
-- NEW: Yea, forty years didst thou sustain them in the wilderness, so that they lacked nothing; their clothes waxed not old, and their feet swell not.
-
-## swellings → contentions — II Corinthians 12:20
-- source: King James agent selection
-- OLD: For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
-- NEW: For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, contentions, tumults:
-
 ## swerved → erred — I Timothy 1:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: From which some having swerved have turned aside unto vain jangling;
 - NEW: From which some having erred have turned aside unto vain jangling;
-
-## swimmest → floatest — Ezekiel 32:6
-- source: King James agent selection
-- OLD: I will also water with thy blood the land wherein thou swimmest, even to the mountains; and the rivers shall be full of thee.
-- NEW: I will also water with thy blood the land wherein thou floatest, even to the mountains; and the rivers shall be full of thee.
-
-## swimmeth → floateth — Isaiah 25:11
-- source: King James agent selection
-- OLD: And he shall spread forth his hands in the midst of them, as he that swimmeth spreadeth forth his hands to swim: and he shall bring down their pride together with the spoils of their hands.
-- NEW: And he shall spread forth his hands in the midst of them, as he that floateth spreadeth forth his hands to swim: and he shall bring down their pride together with the spoils of their hands.
 
 ## swollen → bloated — Acts 28:6
 - source: King James agent selection
@@ -19820,21 +13315,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you.
 - NEW: And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this tree tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you.
 
-## sycomores → trees — Isaiah 9:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The bricks are fallen down, but we will build with hewn stones: the sycomores are cut down, but we will change them into cedars.
-- NEW: The bricks are fallen down, but we will build with hewn stones: the trees are cut down, but we will change them into cedars.
-
-## synagogue's → rulers — Mark 5:35
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: While he yet spake, there came from the ruler of the synagogue’s house certain which said, Thy daughter is dead: why troublest thou the Master any further?
-- NEW: While he yet spake, there came from the ruler of the synagogue’s house certain which said, Thy daughter is dead: why troublest thou the Master any further?
-
-## synagogue's → rulers — Luke 8:49
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: While he yet spake, there cometh one from the ruler of the synagogue’s house, saying to him, Thy daughter is dead; trouble not the Master.
-- NEW: While he yet spake, there cometh one from the ruler of the synagogue’s house, saying to him, Thy daughter is dead; trouble not the Master.
-
 ## tabering → beating — Nahum 2:7
 - source: UKJV alignment (word in KJV same testament)
 - OLD: And Huzzab shall be led away captive, she shall be brought up, and her maids shall lead her as with the voice of doves, tabering upon their breasts.
@@ -19850,16 +13330,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him.
 - NEW: And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the exact of usury, so with the giver of usury to him.
 
-## tales → reports — Ezekiel 22:9
-- source: King James agent selection
-- OLD: In thee are men that carry tales to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness.
-- NEW: In thee are men that carry reports to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness.
-
-## tales → talk — Luke 24:11
-- source: YLT alignment (word in KJV same testament)
-- OLD: And their words seemed to them as idle tales, and they believed them not.
-- NEW: And their words seemed to them as idle talk, and they believed them not.
-
 ## talkers → tongues — Ezekiel 36:3
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Therefore prophesy and say, Thus saith the Lord God; Because they have made you desolate, and swallowed you up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of talkers, and are an infamy of the people:
@@ -19869,16 +13339,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: For there are many unruly and vain talkers and deceivers, specially they of the circumcision:
 - NEW: For there are many unruly and vain tongues and deceivers, specially they of the circumcision:
-
-## talketh → speaketh — Psalms 37:30
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.
-- NEW: The mouth of the righteous speaketh wisdom, and his tongue speaketh of judgment.
-
-## talketh → speaketh — John 9:37
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.
-- NEW: And Jesus said unto him, Thou hast both seen him, and it is he that speaketh with thee.
 
 ## taller → high — Deuteronomy 1:28
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -19925,16 +13385,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the remnant of Jacob shall be in the midst of many people as a dew from the Lord, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men.
 - NEW: And the remnant of Jacob shall be in the midst of many people as a dew from the Lord, as the showers upon the grass, that waiteth not for man, nor waiteth for the sons of men.
 
-## tarrying → delay — Psalms 40:17
-- source: Webster alignment (word in KJV same testament)
-- OLD: But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God. 
-- NEW: But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no delay, O my God. 
-
-## tarrying → delay — Psalms 70:5
-- source: Webster alignment (word in KJV same testament)
-- OLD: But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O Lord, make no tarrying. 
-- NEW: But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O Lord, make no delay. 
-
 ## task → portion — Exodus 5:14
 - source: YLT alignment (word in KJV same testament)
 - OLD: And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, and demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?
@@ -19949,11 +13399,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And the taskmasters hasted them, saying, Fulfil your works, your daily tasks, as when there was straw.
 - NEW: And the taskmasters hasted them, saying, Fulfil your works, your daily words, as when there was straw.
-
-## tasteth → perceiveth — Job 34:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For the ear trieth words, as the mouth tasteth meat.
-- NEW: For the ear trieth words, as the mouth perceiveth meat.
 
 ## tattlers → talebearers — I Timothy 5:13
 - source: King James agent selection
@@ -20005,11 +13450,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Notwithstanding, that I be not further tedious unto thee, I pray thee that thou wouldest hear us of thy clemency a few words.
 - NEW: Notwithstanding, that I be not further grievous unto thee, I pray thee that thou wouldest hear us of thy clemency a few words.
 
-## tellest → numberest — Psalms 56:8
-- source: Webster alignment (word in KJV same testament)
-- OLD: Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?
-- NEW: Thou numberest my wanderings: put thou my tears into thy bottle: are they not in thy book?
-
 ## temper → mingle — Ezekiel 46:14
 - source: King James agent selection
 - OLD: And thou shalt prepare a meat offering for it every morning, the sixth part of an ephah, and the third part of an hin of oil, to temper with the fine flour; a meat offering continually by a perpetual ordinance unto the Lord.
@@ -20029,16 +13469,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain.
 - NEW: For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempt have tempted you, and our labour be in vain.
-
-## tempteth → trieth — James 1:13
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
-- NEW: Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither trieth he any man:
-
-## ten's → tens — Genesis 18:32
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And he said, Oh let not the Lord be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy it for ten’s sake.
-- NEW: And he said, Oh let not the Lord be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy it for ten’s sake.
 
 ## tend → lead — Proverbs 21:5
 - source: King James agent selection
@@ -20120,21 +13550,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: We accept it always, and in all places, most noble Felix, with all thankfulness.
 - NEW: We accept it always, and in all places, most noble Felix, with all thanks.
 
-## thanking → thanksgiving — II Chronicles 5:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the Lord; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the Lord, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the Lord;
-- NEW: It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanksgiving the Lord; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the Lord, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the Lord;
-
-## thanksgivings → thanks — Nehemiah 12:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps.
-- NEW: And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanks, and with singing, with cymbals, psalteries, and with harps.
-
-## thanksgivings → thanks — II Corinthians 9:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God;
-- NEW: For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanks unto God;
-
 ## thankworthy → grace — I Peter 2:19
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.
@@ -20205,30 +13620,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; and thy cities shall be laid waste, without an inhabitant.
 - NEW: The lion is come up from his thick, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; and thy cities shall be laid waste, without an inhabitant.
 
-## thinking → saying — II Samuel 4:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: When one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, who thought that I would have given him a reward for his tidings:
-- NEW: When one told me, saying, Behold, Saul is dead, saying to have brought good tidings, I took hold of him, and slew him in Ziklag, who thought that I would have given him a reward for his tidings:
-
-## thinking → saying — II Samuel 5:6
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.
-- NEW: And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: saying, David cannot come in hither.
-
 ## thirdly → partly — I Corinthians 12:28
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
 - NEW: And God hath set some in the church, first apostles, secondarily prophets, partly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
-
-## thirsted → thirst — Exodus 17:3
-- source: YLT alignment (word in KJV same testament)
-- OLD: And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?
-- NEW: And the people thirst there for water; and the people murmured against Moses, and said, Wherefore is this that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?
-
-## thirsted → suffered — Isaiah 48:21
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And they thirsted not when he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out.
-- NEW: And they suffered not when he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out.
 
 ## thirtyfold → thirty — Matthew 13:8
 - source: YLT alignment (word in KJV same testament)
@@ -20254,11 +13649,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And all the people of the land went into the house of Baal, and brake it down; his altars and his images brake they in pieces thoroughly, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of the Lord.
 - NEW: And all the people of the land went into the house of Baal, and brake it down; his altars and his images brake they in pieces diligently, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of the Lord.
-
-## thoughtest → thinkest — Psalms 50:21
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
-- NEW: These things hast thou done, and I kept silence; thou thinkest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
 
 ## threaten → charge — Acts 4:17
 - source: King James agent selection
@@ -20295,30 +13685,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.
 - NEW: And if one prevail against him, two shall withstand him; and a three cord is not quickly broken.
 
-## thresheth → treadeth — I Corinthians 9:10
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
-- NEW: Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that treadeth in hope should be partaker of his hope.
-
-## threshingfloors → places — I Samuel 23:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors.
-- NEW: Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the places.
-
-## threshingfloors → places — Daniel 2:35
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.
-- NEW: Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer places; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.
-
 ## threshingplace → threshingfloor — II Samuel 24:16
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And when the angel stretched out his hand upon Jerusalem to destroy it, the Lord repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now thine hand. And the angel of the Lord was by the threshingplace of Araunah the Jebusite.
 - NEW: And when the angel stretched out his hand upon Jerusalem to destroy it, the Lord repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now thine hand. And the angel of the Lord was by the threshingfloor of Araunah the Jebusite.
-
-## threwest → castest — Nehemiah 9:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And thou didst divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors thou threwest into the deeps, as a stone into the mighty waters.
-- NEW: And thou didst divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors thou castest into the deeps, as a stone into the mighty waters.
 
 ## throng → narrow — Mark 3:9
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -20345,16 +13715,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?
 - NEW: And his disciples said unto him, Thou seest the multitude pressing thee, and sayest thou, Who touched me?
 
-## throwing → working — Numbers 35:17
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And if he smite him with throwing a stone, wherewith he may die, and he die, he is a murderer: the murderer shall surely be put to death.
-- NEW: And if he smite him with working a stone, wherewith he may die, and he die, he is a murderer: the murderer shall surely be put to death.
-
-## thrusteth → driveth — Job 32:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Lest ye should say, We have found out wisdom: God thrusteth him down, not man.
-- NEW: Lest ye should say, We have found out wisdom: God driveth him down, not man.
-
 ## thunderbolts → coals — Psalms 78:48
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: He gave up their cattle also to the hail, and their flocks to hot thunderbolts.
@@ -20380,35 +13740,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus.
 - NEW: And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the roof with his couch into the midst before Jesus.
 
-## tilled → served — Ezekiel 36:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For, behold, I am for you, and I will turn unto you, and ye shall be tilled and sown:
-- NEW: For, behold, I am for you, and I will turn unto you, and ye shall be served and sown:
-
-## tilled → served — Ezekiel 36:34
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the desolate land shall be tilled, whereas it lay desolate in the sight of all that passed by.
-- NEW: And the desolate land shall be served, whereas it lay desolate in the sight of all that passed by.
-
 ## tiller → serve — Genesis 4:2
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
 - NEW: And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a serve of the ground.
-
-## tillest → shouldest — Genesis 4:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.
-- NEW: When thou shouldest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.
-
-## tilleth → serveth — Proverbs 12:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.
-- NEW: He that serveth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.
-
-## tilleth → serveth — Proverbs 28:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.
-- NEW: He that serveth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.
 
 ## tire → beauty — Ezekiel 24:17
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -20430,21 +13765,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And your tires shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.
 - NEW: And your attire shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.
 
-## tithing → paying — Deuteronomy 26:12
-- source: King James agent selection
-- OLD: When thou hast made an end of tithing all the tithes of thine increase the third year, which is the year of tithing, and hast given it unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled;
-- NEW: When thou hast made an end of paying all the tithes of thine increase the third year, which is the year of paying, and hast given it unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled;
-
-## titles → names — Job 32:21
-- source: King James agent selection
-- OLD: Let me not, I pray you, accept any man’s person, neither let me give flattering titles unto man.
-- NEW: Let me not, I pray you, accept any man’s person, neither let me give flattering names unto man.
-
-## titles → names — Job 32:22
-- source: King James agent selection
-- OLD: For I know not to give flattering titles; in so doing my maker would soon take me away. 
-- NEW: For I know not to give flattering names; in so doing my maker would soon take me away. 
-
 ## tittle → point — Matthew 5:18
 - source: King James agent selection
 - OLD: For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
@@ -20455,26 +13775,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And it is easier for heaven and earth to pass, than one tittle of the law to fail.
 - NEW: And it is easier for heaven and earth to pass, than one point of the law to fail.
 
-## toiled → laboured — Luke 5:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.
-- NEW: And Simon answering said unto him, Master, we have laboured all the night, and have taken nothing: nevertheless at thy word I will let down the net.
-
-## toiling → labouring — Mark 6:48
-- source: King James agent selection
-- OLD: And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them.
-- NEW: And he saw them labouring in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them.
-
-## tookest → wouldest — Psalms 99:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou answeredst them, O Lord our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.
-- NEW: Thou answeredst them, O Lord our God: thou wast a God that forgavest them, though thou wouldest vengeance of their inventions.
-
-## tookest → wouldest — Ezekiel 16:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And tookest thy broidered garments, and coveredst them: and thou hast set mine oil and mine incense before them.
-- NEW: And wouldest thy broidered garments, and coveredst them: and thou hast set mine oil and mine incense before them.
-
 ## torch → lamp — Zechariah 12:6
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: In that day will I make the governors of Judah like an hearth of fire among the wood, and like a torch of fire in a sheaf; and they shall devour all the people round about, on the right hand and on the left: and Jerusalem shall be inhabited again in her own place, even in Jerusalem.
@@ -20484,16 +13784,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.
 - NEW: And his lord was wroth, and delivered him to the executioners, till he should pay all that was due unto him.
-
-## torments → pains — Matthew 4:24
-- source: YLT alignment (word in KJV same testament)
-- OLD: And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
-- NEW: And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and pains, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
-
-## torments → torment — Luke 16:23
-- source: King James agent selection
-- OLD: And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.
-- NEW: And in hell he lift up his eyes, being in torment, and seeth Abraham afar off, and Lazarus in his bosom.
 
 ## tortoise → covered — Leviticus 11:29
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -20540,30 +13830,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And when the townclerk had appeased the people, he said, Ye men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the image which fell down from Jupiter?
 - NEW: And when the scribe had appeased the people, he said, Ye men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the image which fell down from Jupiter?
 
-## trading → occupying — Luke 19:15
-- source: King James agent selection
-- OLD: And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.
-- NEW: And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by occupying.
-
-## traditions → fathers — Galatians 1:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
-- NEW: And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the fathers of my fathers.
-
-## traditions → fathers — II Thessalonians 2:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.
-- NEW: Therefore, brethren, stand fast, and hold the fathers which ye have been taught, whether by word, or our epistle.
-
 ## traffickers → merchants — Isaiah 23:8
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Who hath taken this counsel against Tyre, the crowning city, whose merchants are princes, whose traffickers are the honourable of the earth?
 - NEW: Who hath taken this counsel against Tyre, the crowning city, whose merchants are princes, whose merchants are the honourable of the earth?
-
-## trained → instructed — Genesis 14:14
-- source: King James agent selection
-- OLD: And when Abram heard that his brother was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them unto Dan.
-- NEW: And when Abram heard that his brother was taken captive, he armed his instructed servants, born in his own house, three hundred and eighteen, and pursued them unto Dan.
 
 ## traitor → betrayer — Luke 6:16
 - source: King James agent selection
@@ -20595,21 +13865,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
 - NEW: For such are false apostles, deceitful workers, changing themselves into the apostles of Christ.
 
-## transgressest → passest — Esther 3:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then the king’s servants, which were in the king’s gate, said unto Mordecai, Why transgressest thou the king’s commandment?
-- NEW: Then the king’s servants, which were in the king’s gate, said unto Mordecai, Why passest thou the king’s commandment?
-
-## transgressing → passing — Deuteronomy 17:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: If there be found among you, within any of thy gates which the Lord thy God giveth thee, man or woman, that hath wrought wickedness in the sight of the Lord thy God, in transgressing his covenant,
-- NEW: If there be found among you, within any of thy gates which the Lord thy God giveth thee, man or woman, that hath wrought wickedness in the sight of the Lord thy God, in passing his covenant,
-
-## transgressing → passing — Isaiah 59:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
-- NEW: In passing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
-
 ## translate → cause — II Samuel 3:10
 - source: YLT alignment (word in KJV same testament)
 - OLD: To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beer–sheba.
@@ -20624,16 +13879,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.
 - NEW: And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were clear glass.
-
-## traps → snares — Joshua 23:13
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Know for a certainty that the Lord your God will no more drive out any of these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the Lord your God hath given you.
-- NEW: Know for a certainty that the Lord your God will no more drive out any of these nations from before you; but they shall be snares and snares unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the Lord your God hath given you.
-
-## travailest → travail — Galatians 4:27
-- source: UKJV alignment (word in KJV same testament)
-- OLD: For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.
-- NEW: For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travail not: for the desolate hath many more children than she which hath an husband.
 
 ## travel → journey — Acts 19:29
 - source: King James agent selection
@@ -20695,11 +13940,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in their presses; I have made their vintage shouting to cease.
 - NEW: And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the archers shall tread out no wine in their presses; I have made their vintage shouting to cease.
 
-## treasured → stored — Isaiah 23:18
-- source: King James agent selection
-- OLD: And her merchandise and her hire shall be holiness to the Lord: it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before the Lord, to eat sufficiently, and for durable clothing. 
-- NEW: And her merchandise and her hire shall be holiness to the Lord: it shall not be stored nor laid up; for her merchandise shall be for them that dwell before the Lord, to eat sufficiently, and for durable clothing. 
-
 ## treasurer → profitable — Ezra 1:8
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Even those did Cyrus king of Persia bring forth by the hand of Mithredath the treasurer, and numbered them unto Sheshbazzar, the prince of Judah.
@@ -20710,25 +13950,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Thus saith the Lord God of hosts, Go, get thee unto this treasurer, even unto Shebna, which is over the house, and say,
 - NEW: Thus saith the Lord God of hosts, Go, get thee unto this profitable, even unto Shebna, which is over the house, and say,
 
-## treasurest → treasure — Romans 2:5
-- source: UKJV alignment (word in KJV same testament)
-- OLD: But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;
-- NEW: But after thy hardness and impenitent heart treasure up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;
-
 ## treatise → word — Acts 1:1
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
 - NEW: The former word have I made, O Theophilus, of all that Jesus began both to do and teach,
-
-## trespassing → offering — Leviticus 6:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the priest shall make an atonement for him before the Lord: and it shall be forgiven him for any thing of all that he hath done in trespassing therein.
-- NEW: And the priest shall make an atonement for him before the Lord: and it shall be forgiven him for any thing of all that he hath done in offering therein.
-
-## trespassing → offering — Ezekiel 14:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Son of man, when the land sinneth against me by trespassing grievously, then will I stretch out mine hand upon it, and will break the staff of the bread thereof, and will send famine upon it, and will cut off man and beast from it:
-- NEW: Son of man, when the land sinneth against me by offering grievously, then will I stretch out mine hand upon it, and will break the staff of the bread thereof, and will send famine upon it, and will cut off man and beast from it:
 
 ## tributary → tribute — Lamentations 1:1
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -20755,26 +13980,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Why trimmest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways.
 - NEW: Why goest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways.
 
-## triumphed → increased — Exodus 15:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Then sang Moses and the children of Israel this song unto the Lord, and spake, saying, I will sing unto the Lord, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.
-- NEW: Then sang Moses and the children of Israel this song unto the Lord, and spake, saying, I will sing unto the Lord, for he hath increased gloriously: the horse and his rider hath he thrown into the sea.
-
-## triumphed → increased — Exodus 15:21
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And Miriam answered them, Sing ye to the Lord, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea.
-- NEW: And Miriam answered them, Sing ye to the Lord, for he hath increased gloriously; the horse and his rider hath he thrown into the sea.
-
-## triumphing → singing — Job 20:5
-- source: YLT alignment (word in KJV same testament)
-- OLD: That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
-- NEW: That the singing of the wicked is short, and the joy of the hypocrite but for a moment?
-
-## triumphing → singing — Colossians 2:15
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.
-- NEW: And having spoiled principalities and powers, he made a shew of them openly, singing over them in it.
-
 ## troubledst → troubled — Ezekiel 32:2
 - source: UKJV alignment (word in KJV same testament)
 - OLD: Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a whale in the seas: and thou camest forth with thy rivers, and troubledst the waters with thy feet, and fouledst their rivers.
@@ -20784,21 +13989,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed.
 - NEW: And the sons of Carmi; Achar, the trouble of Israel, who transgressed in the thing accursed.
-
-## troublest → vexest — Mark 5:35
-- source: King James agent selection
-- OLD: While he yet spake, there came from the ruler of the synagogue’s house certain which said, Thy daughter is dead: why troublest thou the Master any further?
-- NEW: While he yet spake, there came from the ruler of the synagogue’s house certain which said, Thy daughter is dead: why vexest thou the Master any further?
-
-## troubling → fearing — Job 3:17
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: There the wicked cease from troubling; and there the weary be at rest.
-- NEW: There the wicked cease from fearing; and there the weary be at rest.
-
-## troubling → fearing — John 5:4
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.
-- NEW: For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the fearing of the water stepped in was made whole of whatsoever disease he had.
 
 ## troublous → troubled — Daniel 9:25
 - source: King James agent selection
@@ -20840,30 +14030,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
 - NEW: For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trumpet of God: and the dead in Christ shall rise first:
 
-## trusting → putting — Psalms 112:7
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord.
-- NEW: He shall not be afraid of evil tidings: his heart is fixed, putting in the Lord.
-
 ## trusty → stedfast — Job 12:20
 - source: YLT alignment (word in KJV same testament)
 - OLD: He removeth away the speech of the trusty, and taketh away the understanding of the aged.
 - NEW: He removeth away the speech of the stedfast, and taketh away the understanding of the aged.
-
-## truth's → sakes — Psalms 115:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake.
-- NEW: Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake.
-
-## truth's → sakes — II John 1:2
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: For the truth’s sake, which dwelleth in us, and shall be with us for ever.
-- NEW: For the truth’s sake, which dwelleth in us, and shall be with us for ever.
-
-## trying → proof — James 1:3
-- source: YLT alignment (word in KJV same testament)
-- OLD: Knowing this, that the trying of your faith worketh patience.
-- NEW: Knowing this, that the proof of your faith worketh patience.
 
 ## tumbled → turned — Judges 7:13
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -20949,11 +14119,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: But this man, because he continueth ever, hath an unchangeable priesthood.
 - NEW: But this man, because he continueth ever, hath an everlasting priesthood.
-
-## uncleannesses → uncleanness — Ezekiel 36:29
-- source: King James agent selection
-- OLD: I will also save you from all your uncleannesses: and I will call for the corn, and will increase it, and lay no famine upon you.
-- NEW: I will also save you from all your uncleanness: and I will call for the corn, and will increase it, and lay no famine upon you.
 
 ## unclothed → stripped — II Corinthians 5:4
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -21300,16 +14465,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Mercy and truth preserve the king: and his throne is upholden by mercy.
 - NEW: Mercy and truth preserve the king: and his throne is rose by mercy.
 
-## upholdest → holdest — Psalms 41:12
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.
-- NEW: And as for me, thou holdest me in mine integrity, and settest me before thy face for ever.
-
-## upholding → bringing — Hebrews 1:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
-- NEW: Who being the brightness of his glory, and the express image of his person, and bringing all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
-
 ## uprising → rising — Psalms 139:2
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.
@@ -21330,26 +14485,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Therefore because the king’s commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abed–nego.
 - NEW: Therefore because the king’s commandment was hold, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abed–nego.
 
-## uses → business — Titus 3:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.
-- NEW: And let ours also learn to maintain good works for necessary business, that they be not unfruitful.
-
-## usest → judgment — Psalms 119:132
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name.
-- NEW: Look thou upon me, and be merciful unto me, as thou judgment to do unto those that love thy name.
-
-## using → might — Colossians 2:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Which all are to perish with the using;) after the commandments and doctrines of men?
-- NEW: Which all are to perish with the might;) after the commandments and doctrines of men?
-
-## using → might — I Peter 2:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: As free, and not using your liberty for a cloke of maliciousness, but as the servants of God.
-- NEW: As free, and not might your liberty for a cloke of maliciousness, but as the servants of God.
-
 ## usurer → exact — Exodus 22:25
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: If thou lend money to any of my people that is poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury.
@@ -21360,16 +14495,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.
 - NEW: But I suffer not a woman to teach, nor to authority authority over the man, but to be in silence.
 
-## uttering → roaring — Isaiah 59:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
-- NEW: In transgressing and lying against the Lord, and departing away from our God, speaking oppression and revolt, conceiving and roaring from the heart words of falsehood.
-
-## vagabonds → fugitives — Psalms 109:10
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: Let his children be continually vagabonds, and beg: let them seek their bread also out of their desolate places.
-- NEW: Let his children be continually fugitives, and beg: let them seek their bread also out of their desolate places.
-
 ## vainglory → pride — Philippians 2:3
 - source: King James agent selection
 - OLD: Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.
@@ -21379,36 +14504,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,
 - NEW: Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, proudly puffed up by his fleshly mind,
-
-## valiantest → valiant — Judges 21:10
-- source: UKJV alignment (word in KJV same testament)
-- OLD: And the congregation sent thither twelve thousand men of the valiantest, and commanded them, saying, Go and smite the inhabitants of Jabesh–gilead with the edge of the sword, with the women and the children.
-- NEW: And the congregation sent thither twelve thousand men of the valiant, and commanded them, saying, Go and smite the inhabitants of Jabesh–gilead with the edge of the sword, with the women and the children.
-
-## valuest → esteemest — Leviticus 27:12
-- source: King James agent selection
-- OLD: And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be.
-- NEW: And the priest shall value it, whether it be good or bad: as thou esteemest it, who art the priest, so shall it be.
-
-## vanished → stretched — Jeremiah 49:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Concerning Edom, thus saith the Lord of hosts; Is wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?
-- NEW: Concerning Edom, thus saith the Lord of hosts; Is wisdom no more in Teman? is counsel perished from the prudent? is their wisdom stretched?
-
-## vanished → stretched — Luke 24:31
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And their eyes were opened, and they knew him; and he vanished out of their sight.
-- NEW: And their eyes were opened, and they knew him; and he stretched out of their sight.
-
-## vanisheth → walketh — Job 7:9
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more.
-- NEW: As the cloud is consumed and walketh away: so he that goeth down to the grave shall come up no more.
-
-## vanisheth → walketh — James 4:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.
-- NEW: Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then walketh away.
 
 ## variableness → changing — James 1:17
 - source: King James agent selection
@@ -21495,16 +14590,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he said unto him that was over the vestry, Bring forth vestments for all the worshippers of Baal. And he brought them forth vestments.
 - NEW: And he said unto him that was over the wardrobe, Bring forth vestments for all the worshippers of Baal. And he brought them forth vestments.
 
-## vestures → clothing — Genesis 41:42
-- source: AKJV alignment (word in KJV same testament)
-- OLD: And Pharaoh took off his ring from his hand, and put it upon Joseph’s hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;
-- NEW: And Pharaoh took off his ring from his hand, and put it upon Joseph’s hand, and arrayed him in clothing of fine linen, and put a gold chain about his neck;
-
-## vexations → tumults — II Chronicles 15:5
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And in those times there was no peace to him that went out, nor to him that came in, but great vexations were upon all the inhabitants of the countries.
-- NEW: And in those times there was no peace to him that went out, nor to him that came in, but great tumults were upon all the inhabitants of the countries.
-
 ## vigilant → watch — I Timothy 3:2
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
@@ -21524,11 +14609,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: They were children of fools, yea, children of base men: they were viler than the earth.
 - NEW: They were children of fools, yea, children of base men: they were baser than the earth.
-
-## vilest → basest — Psalms 12:8
-- source: King James agent selection
-- OLD: The wicked walk on every side, when the vilest men are exalted. 
-- NEW: The wicked walk on every side, when the basest men are exalted. 
 
 ## villany → vile — Isaiah 32:6
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -21565,16 +14645,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.
 - NEW: Take thou away from me the noise of thy songs; for I will not hear the melody of thy flagons.
 
-## viper's → vipers — Job 20:16
-- source: KJV parallel rendering, re-inflected (other testament)
-- OLD: He shall suck the poison of asps: the viper’s tongue shall slay him.
-- NEW: He shall suck the poison of asps: the viper’s tongue shall slay him.
-
-## virgin's → virgins — Luke 1:27
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary.
-- NEW: To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary.
-
 ## virtuously → valiantly — Proverbs 31:29
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Many daughters have done virtuously, but thou excellest them all.
@@ -21584,11 +14654,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 - NEW: For by him were all things created, that are in heaven, and that are in earth, manifest and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
-
-## visiteth → lacketh — Job 31:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: What then shall I do when God riseth up? and when he visiteth, what shall I answer him?
-- NEW: What then shall I do when God riseth up? and when he lacketh, what shall I answer him?
 
 ## vocation → call — Ephesians 4:1
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -21610,35 +14675,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Now when the prince shall prepare a voluntary burnt offering or peace offerings voluntarily unto the Lord, one shall then open him the gate that looketh toward the east, and he shall prepare his burnt offering and his peace offerings, as he did on the sabbath day: then he shall go forth; and after his going forth one shall shut the gate.
 - NEW: Now when the prince shall prepare a voluntary burnt offering or peace offerings freely unto the Lord, one shall then open him the gate that looketh toward the east, and he shall prepare his burnt offering and his peace offerings, as he did on the sabbath day: then he shall go forth; and after his going forth one shall shut the gate.
 
-## vomited → cast — Jonah 2:10
-- source: King James agent selection
-- OLD: And the Lord spake unto the fish, and it vomited out Jonah upon the dry land. 
-- NEW: And the Lord spake unto the fish, and it cast out Jonah upon the dry land. 
-
-## vomiteth → casteth — Leviticus 18:25
-- source: King James agent selection
-- OLD: And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants.
-- NEW: And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself casteth out her inhabitants.
-
 ## vowedst → vow — Genesis 31:13
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: I am the God of Beth–el, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.
 - NEW: I am the God of Beth–el, where thou anointedst the pillar, and where thou vow a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.
-
-## vowest → shouldest — Deuteronomy 12:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:
-- NEW: Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou shouldest, nor thy freewill offerings, or heave offering of thine hand:
-
-## vowest → shouldest — Ecclesiastes 5:4
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed.
-- NEW: When thou shouldest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed.
-
-## voweth → vows — Malachi 1:14
-- source: UKJV alignment (word in KJV same testament)
-- OLD: But cursed be the deceiver, which hath in his flock a male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I am a great King, saith the Lord of hosts, and my name is dreadful among the heathen. 
-- NEW: But cursed be the deceiver, which hath in his flock a male, and vows, and sacrificeth unto the Lord a corrupt thing: for I am a great King, saith the Lord of hosts, and my name is dreadful among the heathen. 
 
 ## voyage → course — Acts 27:10
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -21665,30 +14705,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the vultures also be gathered, every one with her mate.
 - NEW: There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the eagles also be gathered, every one with her mate.
 
-## wagging → moving — Matthew 27:39
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And they that passed by reviled him, wagging their heads,
-- NEW: And they that passed by reviled him, moving their heads,
-
-## wagging → shaking — Mark 15:29
-- source: YLT alignment (word in KJV other testament)
-- OLD: And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days,
-- NEW: And they that passed by railed on him, shaking their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days,
-
 ## wagon → cart — Numbers 7:3
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And they brought their offering before the Lord, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle.
 - NEW: And they brought their offering before the Lord, six covered wagons, and twelve oxen; a cart for two of the princes, and for each one an ox: and they brought them before the tabernacle.
-
-## wailed → howled — Mark 5:38
-- source: King James agent selection
-- OLD: And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.
-- NEW: And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and howled greatly.
-
-## waked → stir — Zechariah 4:1
-- source: YLT alignment (word in KJV same testament)
-- OLD: And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,
-- NEW: And the angel that talked with me came again, and stir me, as a man that is wakened out of his sleep,
 
 ## wakened → raised — Joel 3:12
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -21705,40 +14725,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.
 - NEW: The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he stirreth morning by morning, he stirreth mine ear to hear as the learned.
 
-## waketh → stirreth — Psalms 127:1
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain.
-- NEW: Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman stirreth but in vain.
-
-## waketh → stirreth — Song of Solomon 5:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.
-- NEW: I sleep, but my heart stirreth: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.
-
-## waking → watching — Psalms 77:4
-- source: King James agent selection
-- OLD: Thou holdest mine eyes waking: I am so troubled that I cannot speak.
-- NEW: Thou holdest mine eyes watching: I am so troubled that I cannot speak.
-
 ## walkedst → walk — John 21:18
 - source: Webster alignment (word in KJV same testament)
 - OLD: Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
 - NEW: Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walk whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
-
-## wallowed → rolled — II Samuel 20:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Amasa wallowed in blood in the midst of the highway. And when the man saw that all the people stood still, he removed Amasa out of the highway into the field, and cast a cloth upon him, when he saw that every one that came by him stood still.
-- NEW: And Amasa rolled in blood in the midst of the highway. And when the man saw that all the people stood still, he removed Amasa out of the highway into the field, and cast a cloth upon him, when he saw that every one that came by him stood still.
-
-## wallowed → rolled — Mark 9:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming.
-- NEW: And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and rolled foaming.
-
-## wallowing → rolling — II Peter 2:22
-- source: King James agent selection
-- OLD: But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire. 
-- NEW: But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her rolling in the mire. 
 
 ## wanderers → captives — Jeremiah 48:12
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -21750,16 +14740,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations. 
 - NEW: My God will cast them away, because they did not hearken unto him: and they shall be captives among the nations. 
 
-## wanderest → goest — Jeremiah 2:20
-- source: King James agent selection
-- OLD: For of old time I have broken thy yoke, and burst thy bands; and thou saidst, I will not transgress; when upon every high hill and under every green tree thou wanderest, playing the harlot.
-- NEW: For of old time I have broken thy yoke, and burst thy bands; and thou saidst, I will not transgress; when upon every high hill and under every green tree thou goest, playing the harlot.
-
-## wanderings → goings — Psalms 56:8
-- source: King James agent selection
-- OLD: Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?
-- NEW: Thou tellest my goings: put thou my tears into thy bottle: are they not in thy book?
-
 ## wantonness → lasciviousness — Romans 13:13
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.
@@ -21770,16 +14750,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error.
 - NEW: For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much lasciviousness, those that were clean escaped from them who live in error.
 
-## wants → business — Judges 19:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And the old man said, Peace be with thee; howsoever let all thy wants lie upon me; only lodge not in the street.
-- NEW: And the old man said, Peace be with thee; howsoever let all thy business lie upon me; only lodge not in the street.
-
-## wants → business — Philippians 2:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.
-- NEW: Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my business.
-
 ## wardrobe → garment — II Kings 22:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her.
@@ -21789,26 +14759,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And Hilkiah, and they that the king had appointed, went to Huldah the prophetess, the wife of Shallum the son of Tikvath, the son of Hasrah, keeper of the wardrobe; (now she dwelt in Jerusalem in the college:) and they spake to her to that effect.
 - NEW: And Hilkiah, and they that the king had appointed, went to Huldah the prophetess, the wife of Shallum the son of Tikvath, the son of Hasrah, keeper of the garment; (now she dwelt in Jerusalem in the college:) and they spake to her to that effect.
-
-## warmeth → heateth — Job 39:14
-- source: King James agent selection
-- OLD: Which leaveth her eggs in the earth, and warmeth them in dust,
-- NEW: Which leaveth her eggs in the earth, and heateth them in dust,
-
-## warmeth → heateth — Isaiah 44:16
-- source: King James agent selection
-- OLD: He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied: yea, he warmeth himself, and saith, Aha, I am warm, I have seen the fire:
-- NEW: He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied: yea, he heateth himself, and saith, Aha, I am warm, I have seen the fire:
-
-## warming → heating — Mark 14:67
-- source: King James agent selection
-- OLD: And when she saw Peter warming himself, she looked upon him, and said, And thou also wast with Jesus of Nazareth.
-- NEW: And when she saw Peter heating himself, she looked upon him, and said, And thou also wast with Jesus of Nazareth.
-
-## warreth → fighteth — II Timothy 2:4
-- source: King James agent selection
-- OLD: No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.
-- NEW: No man that fighteth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.
 
 ## warrior → soldier — Isaiah 9:5
 - source: King James agent selection
@@ -21824,16 +14774,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam.
 - NEW: And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were thus, to fight against Israel, that he might bring the kingdom again to Rehoboam.
-
-## washest → wearest — Job 14:19
-- source: King James agent selection
-- OLD: The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man.
-- NEW: The waters wear the stones: thou wearest away the things which grow out of the dust of the earth; and thou destroyest the hope of man.
-
-## washings → purifyings — Hebrews 9:10
-- source: King James agent selection
-- OLD: Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.
-- NEW: Which stood only in meats and drinks, and divers purifyings, and carnal ordinances, imposed on them until the time of reformation.
 
 ## washpot → pot — Psalms 60:8
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -21860,16 +14800,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
 - NEW: Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the destroyer to destroy.
 
-## wasting → spoiling — Isaiah 59:7
-- source: YLT alignment (word in KJV same testament)
-- OLD: Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; wasting and destruction are in their paths.
-- NEW: Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; spoiling and destruction are in their paths.
-
-## wasting → spoiling — Isaiah 60:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.
-- NEW: Violence shall no more be heard in thy land, spoiling nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.
-
 ## watcher → watchman — Daniel 4:13
 - source: King James agent selection
 - OLD: I saw in the visions of my head upon my bed, and, behold, a watcher and an holy one came down from heaven;
@@ -21895,21 +14825,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
 - NEW: Be watch, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
 
-## watchings → vigils — II Corinthians 6:5
-- source: King James agent selection
-- OLD: In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;
-- NEW: In stripes, in imprisonments, in tumults, in labours, in vigils, in fastings;
-
-## watchings → vigils — II Corinthians 11:27
-- source: King James agent selection
-- OLD: In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
-- NEW: In weariness and painfulness, in vigils often, in hunger and thirst, in fastings often, in cold and nakedness.
-
-## watchman's → wells — Ezekiel 33:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: But if the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take any person from among them, he is taken away in his iniquity; but his blood will I require at the watchman’s hand.
-- NEW: But if the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take any person from among them, he is taken away in his iniquity; but his blood will I require at the watchman’s hand.
-
 ## watchtower → watch — Isaiah 21:5
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Prepare the table, watch in the watchtower, eat, drink: arise, ye princes, and anoint the shield.
@@ -21934,16 +14849,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: Webster alignment (word in KJV same testament)
 - OLD: For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst it with thy foot, as a garden of herbs:
 - NEW: For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and water it with thy foot, as a garden of herbs:
-
-## waterest → water — Psalms 65:9
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.
-- NEW: Thou visitest the earth, and water it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.
-
-## waterest → refreshest — Psalms 65:10
-- source: King James agent selection
-- OLD: Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.
-- NEW: Thou refreshest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.
 
 ## waterflood → flood — Psalms 69:15
 - source: AKJV alignment (word in KJV same testament)
@@ -21995,21 +14900,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
 - NEW: But let him ask in faith, nothing doubting. For he that wavereth is like a wave of the sea driven with the wind and tossed.
 
-## waxeth → groweth — Psalms 6:7
-- source: Webster alignment (word in KJV same testament)
-- OLD: Mine eye is consumed because of grief; it waxeth old because of all mine enemies.
-- NEW: Mine eye is consumed because of grief; it groweth old because of all mine enemies.
-
-## waxeth → groweth — Hebrews 8:13
-- source: Webster alignment (word in KJV same testament)
-- OLD: In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away. 
-- NEW: In that he saith, A new covenant, he hath made the first old. Now that which decayeth and groweth old is ready to vanish away. 
-
-## waxing → having — Philippians 1:14
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
-- NEW: And many of the brethren in the Lord, having confident by my bonds, are much more bold to speak the word without fear.
-
 ## waymarks → signs — Jeremiah 31:21
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Set thee up waymarks, make thee high heaps: set thine heart toward the highway, even the way which thou wentest: turn again, O virgin of Israel, turn again to these thy cities.
@@ -22049,11 +14939,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Arise, get you up unto the wealthy nation, that dwelleth without care, saith the Lord, which have neither gates nor bars, which dwell alone.
 - NEW: Arise, get you up unto the ease nation, that dwelleth without care, saith the Lord, which have neither gates nor bars, which dwell alone.
-
-## weareth → beareth — James 2:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:
-- NEW: And ye have respect to him that beareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:
 
 ## wearieth → laboureth — Job 37:11
 - source: KJV parallel rendering, re-inflected (same testament)
@@ -22100,11 +14985,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And Delilah said unto Samson, Hitherto thou hast mocked me, and told me lies: tell me wherewith thou mightest be bound. And he said unto her, If thou weavest the seven locks of my head with the web.
 - NEW: And Delilah said unto Samson, Hitherto thou hast mocked me, and told me lies: tell me wherewith thou mightest be bound. And he said unto her, If thou plaitest the seven locks of my head with the web.
 
-## webs → cobwebs — Isaiah 59:6
-- source: King James agent selection
-- OLD: Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.
-- NEW: Their cobwebs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.
-
 ## wedlock → adultery — Ezekiel 16:38
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And I will judge thee, as women that break wedlock and shed blood are judged; and I will give thee blood in fury and jealousy.
@@ -22114,26 +14994,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.
 - NEW: The waters compassed me about, even to the soul: the depth closed me round about, the flags were wrapped about my head.
-
-## weigheth → weights — Job 28:25
-- source: UKJV alignment (word in KJV same testament)
-- OLD: To make the weight for the winds; and he weigheth the waters by measure.
-- NEW: To make the weight for the winds; and he weights the waters by measure.
-
-## weigheth → weights — Proverbs 16:2
-- source: UKJV alignment (word in KJV same testament)
-- OLD: All the ways of a man are clean in his own eyes; but the Lord weigheth the spirits.
-- NEW: All the ways of a man are clean in his own eyes; but the Lord weights the spirits.
-
-## weighing → poising — Numbers 7:85
-- source: King James agent selection
-- OLD: Each charger of silver weighing an hundred and thirty shekels, each bowl seventy: all the silver vessels weighed two thousand and four hundred shekels, after the shekel of the sanctuary:
-- NEW: Each charger of silver poising an hundred and thirty shekels, each bowl seventy: all the silver vessels weighed two thousand and four hundred shekels, after the shekel of the sanctuary:
-
-## weighing → poising — Numbers 7:86
-- source: King James agent selection
-- OLD: The golden spoons were twelve, full of incense, weighing ten shekels apiece, after the shekel of the sanctuary: all the gold of the spoons was an hundred and twenty shekels.
-- NEW: The golden spoons were twelve, full of incense, poising ten shekels apiece, after the shekel of the sanctuary: all the gold of the spoons was an hundred and twenty shekels.
 
 ## weightier → heavy — Matthew 23:23
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -22240,16 +15100,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.
 - NEW: The wind goeth toward the south, and turneth about unto the north; it walketh about continually, and the wind returneth again according to his circuits.
 
-## whirlwinds → seas — Isaiah 21:1
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.
-- NEW: The burden of the desert of the sea. As seas in the south pass through; so it cometh from the desert, from a terrible land.
-
-## whirlwinds → seas — Zechariah 9:14
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And the Lord shall be seen over them, and his arrow shall go forth as the lightning: and the Lord God shall blow the trumpet, and shall go with whirlwinds of the south.
-- NEW: And the Lord shall be seen over them, and his arrow shall go forth as the lightning: and the Lord God shall blow the trumpet, and shall go with seas of the south.
-
 ## whisper → murmur — Psalms 41:7
 - source: King James agent selection
 - OLD: All that hate me whisper together against me: against me do they devise my hurt.
@@ -22280,16 +15130,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
 - NEW: For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, murmurings, swellings, tumults:
 
-## whited → whitened — Matthew 23:27
-- source: King James agent selection
-- OLD: Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness.
-- NEW: Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whitened sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness.
-
-## whited → whitened — Acts 23:3
-- source: King James agent selection
-- OLD: Then said Paul unto him, God shall smite thee, thou whited wall: for sittest thou to judge me after the law, and commandest me to be smitten contrary to the law?
-- NEW: Then said Paul unto him, God shall smite thee, thou whitened wall: for sittest thou to judge me after the law, and commandest me to be smitten contrary to the law?
-
 ## whiter → white — Psalms 51:7
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
@@ -22310,25 +15150,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
 - NEW: If any man teach otherwise, and consent not to sound words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
 
-## whore's → whoredoms — Jeremiah 3:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed.
-- NEW: Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed.
-
 ## whoremonger → lewd — Ephesians 5:5
 - source: Webster alignment (word in KJV same testament)
 - OLD: For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.
 - NEW: For this ye know, that no lewd, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.
-
-## whores → harlots — Ezekiel 16:33
-- source: King James agent selection
-- OLD: They give gifts to all whores: but thou givest thy gifts to all thy lovers, and hirest them, that they may come unto thee on every side for thy whoredom.
-- NEW: They give gifts to all harlots: but thou givest thy gifts to all thy lovers, and hirest them, that they may come unto thee on every side for thy whoredom.
-
-## whores → strumpets — Hosea 4:14
-- source: King James agent selection
-- OLD: I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.
-- NEW: I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with strumpets, and they sacrifice with harlots: therefore the people that doth not understand shall fall.
 
 ## wideness → thickness — Ezekiel 41:10
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -22354,11 +15179,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: They did work wilily, and went and made as if they had been ambassadors, and took old sacks upon their asses, and wine bottles, old, and rent, and bound up;
 - NEW: They did work craftily, and went and made as if they had been ambassadors, and took old sacks upon their asses, and wine bottles, old, and rent, and bound up;
-
-## willeth → desireth — Romans 9:16
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.
-- NEW: So then it is not of him that desireth, nor of him that runneth, but of God that sheweth mercy.
 
 ## willow → tree — Ezekiel 17:5
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -22410,21 +15230,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country.
 - NEW: And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winepress, and built a tower, and let it out to husbandmen, and went into a far country.
 
-## wines → lees — Isaiah 25:6
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And in this mountain shall the Lord of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined.
-- NEW: And in this mountain shall the Lord of hosts make unto all people a feast of fat things, a feast of lees on the lees, of fat things full of marrow, of lees on the lees well refined.
-
-## winged → ended — Genesis 1:21
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.
-- NEW: And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every ended fowl after his kind: and God saw that it was good.
-
-## winged → ended — Deuteronomy 4:17
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,
-- NEW: The likeness of any beast that is on the earth, the likeness of any ended fowl that flieth in the air,
-
 ## wink → formed — Job 15:12
 - source: KJV parallel rendering, re-inflected (same testament)
 - OLD: Why doth thine heart carry thee away? and what do thy eyes wink at,
@@ -22465,50 +15270,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And now is not Boaz of our kindred, with whose maidens thou wast? Behold, he winnoweth barley to night in the threshingfloor.
 - NEW: And now is not Boaz of our kindred, with whose maidens thou wast? Behold, he scattereth barley to night in the threshingfloor.
 
-## wintered → tarried — Acts 28:11
-- source: King James agent selection
-- OLD: And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.
-- NEW: And after three months we departed in a ship of Alexandria, which had tarried in the isle, whose sign was Castor and Pollux.
-
 ## winterhouse → house — Jeremiah 36:22
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Now the king sat in the winterhouse in the ninth month: and there was a fire on the hearth burning before him.
 - NEW: Now the king sat in the house in the ninth month: and there was a fire on the hearth burning before him.
 
-## wipeth → destroyeth — II Kings 21:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as a man wipeth a dish, wiping it, and turning it upside down.
-- NEW: And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as a man destroyeth a dish, wiping it, and turning it upside down.
-
-## wipeth → destroyeth — Proverbs 30:20
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.
-- NEW: Such is the way of an adulterous woman; she eateth, and destroyeth her mouth, and saith, I have done no wickedness.
-
-## wiping → destroying — II Kings 21:13
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as a man wipeth a dish, wiping it, and turning it upside down.
-- NEW: And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as a man wipeth a dish, destroying it, and turning it upside down.
-
 ## wires → wire — Exodus 39:3
 - source: King James agent selection
 - OLD: And they did beat the gold into thin plates, and cut it into wires, to work it in the blue, and in the purple, and in the scarlet, and in the fine linen, with cunning work.
 - NEW: And they did beat the gold into thin plates, and cut it into wire, to work it in the blue, and in the purple, and in the scarlet, and in the fine linen, with cunning work.
-
-## wished → asked — Jonah 4:8
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.
-- NEW: And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and asked in himself to die, and said, It is better for me to die than to live.
-
-## wished → asked — Acts 27:29
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Then fearing lest we should have fallen upon rocks, they cast four anchors out of the stern, and wished for the day.
-- NEW: Then fearing lest we should have fallen upon rocks, they cast four anchors out of the stern, and asked for the day.
-
-## wishing → asking — Job 31:30
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Neither have I suffered my mouth to sin by wishing a curse to his soul.
-- NEW: Neither have I suffered my mouth to sin by asking a curse to his soul.
 
 ## witch → suffer — Exodus 22:18
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -22519,41 +15289,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch,
 - NEW: There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a suffer,
-
-## withdrawest → mightest — Psalms 74:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Why withdrawest thou thy hand, even thy right hand? pluck it out of thy bosom.
-- NEW: Why mightest thou thy hand, even thy right hand? pluck it out of thy bosom.
-
-## withdraweth → maketh — Job 36:7
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: He withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted.
-- NEW: He maketh not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted.
-
-## withheldest → withheld — Nehemiah 9:20
-- source: UKJV alignment (word in KJV same testament)
-- OLD: Thou gavest also thy good spirit to instruct them, and withheldest not thy manna from their mouth, and gavest them water for their thirst.
-- NEW: Thou gavest also thy good spirit to instruct them, and withheld not thy manna from their mouth, and gavest them water for their thirst.
-
-## witnesseth → witnesses — John 5:32
-- source: UKJV alignment (word in KJV same testament)
-- OLD: There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.
-- NEW: There is another that beareth witness of me; and I know that the witness which he witnesses of me is true.
-
-## witnesseth → witnesses — Acts 20:23
-- source: AKJV alignment (word in KJV same testament)
-- OLD: Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.
-- NEW: Save that the Holy Ghost witnesses in every city, saying that bonds and afflictions abide me.
-
-## witnessing → testifying — Acts 26:22
-- source: Webster alignment (word in KJV same testament)
-- OLD: Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:
-- NEW: Having therefore obtained help of God, I continue unto this day, testifying both to small and great, saying none other things than those which the prophets and Moses did say should come:
-
-## wits → minds — Psalms 107:27
-- source: King James agent selection
-- OLD: They reel to and fro, and stagger like a drunken man, and are at their wits’ end.
-- NEW: They reel to and fro, and stagger like a drunken man, and are at their minds’ end.
 
 ## wittingly → wisely — Genesis 48:14
 - source: UKJV alignment (word in KJV same testament)
@@ -22580,30 +15315,10 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: As for me, I have not hastened from being a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was right before thee.
 - NEW: As for me, I have not hastened from being a pastor to follow thee: neither have I desired the incurable day; thou knowest: that which came out of my lips was right before thee.
 
-## woes → alas — Revelation of John 9:12
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: One woe is past; and, behold, there come two woes more hereafter.
-- NEW: One woe is past; and, behold, there come two alas more hereafter.
-
 ## womankind → woman — Leviticus 18:22
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thou shalt not lie with mankind, as with womankind: it is abomination.
 - NEW: Thou shalt not lie with mankind, as with woman: it is abomination.
-
-## wombs → womb — Genesis 20:18
-- source: King James agent selection
-- OLD: For the Lord had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham’s wife. 
-- NEW: For the Lord had fast closed up all the womb of the house of Abimelech, because of Sarah Abraham’s wife. 
-
-## wombs → womb — Luke 23:29
-- source: King James agent selection
-- OLD: For, behold, the days are coming, in the which they shall say, Blessed are the barren, and the wombs that never bare, and the paps which never gave suck.
-- NEW: For, behold, the days are coming, in the which they shall say, Blessed are the barren, and the womb that never bare, and the paps which never gave suck.
-
-## women's → adulteress — Esther 2:11
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And Mordecai walked every day before the court of the women’s house, to know how Esther did, and what should become of her.
-- NEW: And Mordecai walked every day before the court of the women’s house, to know how Esther did, and what should become of her.
 
 ## wondrously → marvellously — Judges 13:19
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -22615,26 +15330,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And ye shall eat in plenty, and be satisfied, and praise the name of the Lord your God, that hath dealt wondrously with you: and my people shall never be ashamed.
 - NEW: And ye shall eat in plenty, and be satisfied, and praise the name of the Lord your God, that hath dealt marvellously with you: and my people shall never be ashamed.
 
-## woods → forests — Ezekiel 34:25
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And I will make with them a covenant of peace, and will cause the evil beasts to cease out of the land: and they shall dwell safely in the wilderness, and sleep in the woods.
-- NEW: And I will make with them a covenant of peace, and will cause the evil beasts to cease out of the land: and they shall dwell safely in the wilderness, and sleep in the forests.
-
-## word's → words — II Samuel 7:21
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: For thy word’s sake, and according to thine own heart, hast thou done all these great things, to make thy servant know them.
-- NEW: For thy word’s sake, and according to thine own heart, hast thou done all these great things, to make thy servant know them.
-
-## word's → words — Mark 4:17
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended.
-- NEW: And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended.
-
-## work's → works — I Thessalonians 5:13
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And to esteem them very highly in love for their work’s sake. And be at peace among yourselves.
-- NEW: And to esteem them very highly in love for their work’s sake. And be at peace among yourselves.
-
 ## worker → peace — I Kings 7:14
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: He was a widow’s son of the tribe of Naphtali, and his father was a man of Tyre, a worker in brass: and he was filled with wisdom, and understanding, and cunning to work all works in brass. And he came to king Solomon, and wrought all his work.
@@ -22645,16 +15340,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.
 - NEW: Timotheus my helper, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.
 
-## workmen's → labourers — Judges 5:26
-- source: YLT alignment (word in KJV other testament)
-- OLD: She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples.
-- NEW: She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples.
-
-## world's → pass — I John 3:17
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: But whoso hath this world’s good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?
-- NEW: But whoso hath this world’s good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?
-
 ## worldly → earthly — Titus 2:12
 - source: King James agent selection
 - OLD: Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
@@ -22664,16 +15349,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.
 - NEW: Then verily the first covenant had also ordinances of divine service, and a earthly sanctuary.
-
-## worlds → ages — Hebrews 1:2
-- source: YLT alignment (word in KJV same testament)
-- OLD: Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;
-- NEW: Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the ages;
-
-## worlds → ages — Hebrews 11:3
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
-- NEW: Through faith we understand that the ages were framed by the word of God, so that things which are seen were not made of things which do appear.
 
 ## worshipper → god — John 9:31
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -22690,35 +15365,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: Wherefore I will bring the worst of the heathen, and they shall possess their houses: I will also make the pomp of the strong to cease; and their holy places shall be defiled.
 - NEW: Wherefore I will bring the wicked of the heathen, and they shall possess their houses: I will also make the pomp of the strong to cease; and their holy places shall be defiled.
 
-## worthies → nobles — Nahum 2:5
-- source: UKJV alignment (word in KJV same testament)
-- OLD: He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.
-- NEW: He shall recount his nobles: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.
-
 ## worthily → valiantly — Ruth 4:11
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And all the people that were in the gate, and the elders, said, We are witnesses. The Lord make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Beth–lehem:
 - NEW: And all the people that were in the gate, and the elders, said, We are witnesses. The Lord make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou valiantly in Ephratah, and be famous in Beth–lehem:
 
-## wotteth → knoweth — Genesis 39:8
-- source: Webster alignment (word in KJV same testament)
-- OLD: But he refused, and said unto his master’s wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;
-- NEW: But he refused, and said unto his master’s wife, Behold, my master knoweth not what is with me in the house, and he hath committed all that he hath to my hand;
-
 ## woundedst → wound — Habakkuk 3:13
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
 - NEW: Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou wound the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
-
-## woundeth → wounds — Job 5:18
-- source: UKJV alignment (word in KJV same testament)
-- OLD: For he maketh sore, and bindeth up: he woundeth, and his hands make whole.
-- NEW: For he maketh sore, and bindeth up: he wounds, and his hands make whole.
-
-## wounding → wound — Genesis 4:23
-- source: King James agent selection
-- OLD: And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.
-- NEW: And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wound, and a young man to my hurt.
 
 ## wove → like — II Kings 23:7
 - source: KJV parallel rendering (same testament, matches grammar)
@@ -22780,16 +15435,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wretchedness.
 - NEW: And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wickedness.
 
-## wringed → wrung — Judges 6:38
-- source: Webster alignment (word in KJV same testament)
-- OLD: And it was so: for he rose up early on the morrow, and thrust the fleece together, and wringed the dew out of the fleece, a bowl full of water.
-- NEW: And it was so: for he rose up early on the morrow, and thrust the fleece together, and wrung the dew out of the fleece, a bowl full of water.
-
-## wringing → twisting — Proverbs 30:33
-- source: King James agent selection
-- OLD: Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife. 
-- NEW: Surely the churning of milk bringeth forth butter, and the twisting of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife. 
-
 ## wrinkle → ??? — Ephesians 5:27
 - source: King James agent: no safe one-word swap found — edit or delete this entry
 - OLD: That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
@@ -22820,56 +15465,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house. And he called to the man clothed with linen, which had the writer’s inkhorn by his side;
 - NEW: And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house. And he called to the man clothed with linen, which had the writer’s inkhorn by his side;
 
-## writest → markest — Job 13:26
-- source: King James agent selection
-- OLD: For thou writest bitter things against me, and makest me to possess the iniquities of my youth.
-- NEW: For thou markest bitter things against me, and makest me to possess the iniquities of my youth.
-
-## writest → markest — Ezekiel 37:20
-- source: King James agent selection
-- OLD: And the sticks whereon thou writest shall be in thine hand before their eyes.
-- NEW: And the sticks whereon thou markest shall be in thine hand before their eyes.
-
-## writeth → registereth — Psalms 87:6
-- source: King James agent selection
-- OLD: The Lord shall count, when he writeth up the people, that this man was born there. Selah.
-- NEW: The Lord shall count, when he registereth up the people, that this man was born there. Selah.
-
-## writings → letters — John 5:47
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: But if ye believe not his writings, how shall ye believe my words? 
-- NEW: But if ye believe not his letters, how shall ye believe my words? 
-
-## wronged → suffered — II Corinthians 7:2
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.
-- NEW: Receive us; we have suffered no man, we have corrupted no man, we have defrauded no man.
-
-## wronged → suffered — Philemon 1:18
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: If he hath wronged thee, or oweth thee ought, put that on mine account;
-- NEW: If he hath suffered thee, or oweth thee ought, put that on mine account;
-
-## wrongeth → shaketh — Proverbs 8:36
-- source: KJV parallel rendering, re-inflected (same testament)
-- OLD: But he that sinneth against me wrongeth his own soul: all they that hate me love death. 
-- NEW: But he that sinneth against me shaketh his own soul: all they that hate me love death. 
-
-## wroughtest → mayest — Ruth 2:19
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And her mother in law said unto her, Where hast thou gleaned to day? and where wroughtest thou? blessed be he that did take knowledge of thee. And she shewed her mother in law with whom she had wrought, and said, The man’s name with whom I wrought to day is Boaz.
-- NEW: And her mother in law said unto her, Where hast thou gleaned to day? and where mayest thou? blessed be he that did take knowledge of thee. And she shewed her mother in law with whom she had wrought, and said, The man’s name with whom I wrought to day is Boaz.
-
-## year's → days — Exodus 34:22
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year’s end.
-- NEW: And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year’s end.
-
-## year's → days — II Samuel 14:26
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: And when he polled his head, (for it was at every year’s end that he polled it: because the hair was heavy on him, therefore he polled it:) he weighed the hair of his head at two hundred shekels after the king’s weight.
-- NEW: And when he polled his head, (for it was at every year’s end that he polled it: because the hair was heavy on him, therefore he polled it:) he weighed the hair of his head at two hundred shekels after the king’s weight.
-
 ## yearn → black — Genesis 43:30
 - source: KJV parallel rendering (same testament, matches grammar)
 - OLD: And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there.
@@ -22890,11 +15485,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: The young lions roared upon him, and yelled, and they made his land waste: his cities are burned without inhabitant.
 - NEW: The young lions roared upon him, and delivered, and they made his land waste: his cities are burned without inhabitant.
 
-## yoked → joined — II Corinthians 6:14
-- source: King James agent selection
-- OLD: Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
-- NEW: Be ye not unequally joined together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
-
 ## yokefellow → companion — Philippians 4:3
 - source: King James agent selection
 - OLD: And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life.
@@ -22904,16 +15494,6 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - source: King James agent selection
 - OLD: Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.
 - NEW: Flee also fleshly lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.
-
-## youths → sons — Proverbs 7:7
-- source: YLT alignment (word in KJV same testament)
-- OLD: And beheld among the simple ones, I discerned among the youths, a young man void of understanding,
-- NEW: And beheld among the simple ones, I discerned among the sons, a young man void of understanding,
-
-## youths → sons — Isaiah 40:30
-- source: KJV parallel rendering (same testament, matches grammar)
-- OLD: Even the youths shall faint and be weary, and the young men shall utterly fall:
-- NEW: Even the sons shall faint and be weary, and the young men shall utterly fall:
 
 ## zealously → earnestly — Galatians 4:17
 - source: KJV parallel rendering (same testament, matches grammar)

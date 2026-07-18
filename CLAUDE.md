@@ -71,6 +71,7 @@ The full asset inventory with rationale lives in the roadmap's
 1. **NO REMOVAL**: I must NOT remove, erase, or delete any existing work (text, translations, references, data) that I did not write in the current session without the user's explicit permission.
 2. **REORGANIZING/MOVING**: If content needs to be moved to another file, restructured, or rearranged, I MUST prompt the user and obtain their explicit approval BEFORE making those changes.
 3. **PRESERVATION**: Prioritize preserving existing work unless instructed otherwise.
+4. **GENERATED ARTIFACTS ARE PERMANENT (owner directive 2026-07-17)**: expensively generated review files — witness batch files, `batch_NNNN_proposals.md` agent outputs, `references/removed_words/` triage files, pre-triage backups — must NEVER be deleted; they may be moved (e.g. into `references/removed_words/`) when reorganizing. Scripts that regenerate outputs must refuse to overwrite an existing file with an emptier version.
 
 ---
 
