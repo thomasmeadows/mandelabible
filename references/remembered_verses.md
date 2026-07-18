@@ -545,6 +545,18 @@ Genesis 4:15 - KJV - And the Lord said unto him, Therefore whosoever slayeth Cai
 
 Owner memory (2026-07-18): "And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him **should smite him**." Restored by `scripts/34_owner_memory_fixes2.py`.
 
+## Genesis 1:2 — "void and without form", owner override of TSBC
+
+### Current Versions
+
+Genesis 1:2 - KJV - And the earth was without form and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+
+TSBC restoration (row 3598) had: "and the earth was without form and void; and darkness was upon the surface of the waters: and the Spirit of God moved upon the surface of the waters."
+
+### Memory
+
+Owner memory (2026-07-18): "And the earth was **void and without form**; and darkness was upon the **face of the deep**: and the Spirit of God moved **upon the waters**." Explicit owner override of the TSBC reading (the "told otherwise" case under the lean-towards-TSBC ruling; Decision Log #11 revisit-later clause). Applied by `scripts/38_owner_overrides.py`.
+
 ## Sampson, with a p — not Samson
 
 ### Current Versions
