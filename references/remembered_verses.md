@@ -545,6 +545,28 @@ Genesis 4:15 - KJV - And the Lord said unto him, Therefore whosoever slayeth Cai
 
 Owner memory (2026-07-18): "And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him **should smite him**." Restored by `scripts/34_owner_memory_fixes2.py`.
 
+## Sampson, with a p — not Samson
+
+### Current Versions
+
+Judges 13:24 - KJV - And the woman bare a son, and called his name Samson: and the child grew, and the Lord blessed him.
+
+Scope: all 37 Samson verses in Judges 13–16 plus Hebrews 11:32.
+
+### Memory
+
+Owner memory (2026-07-18): "And the woman bare a son, and called his name **Sampson**: and the child grew, and the Lord blessed him." Corroboration: the TSBC Scribe change record for Judges 13:24 states "The name was originally spelled Sampson, with a letter 'p' in the KJB" (independent public memory, auto-accepted per Decision Log #11), and Wycliffe reads "Sampson" in all 32 of its occurrences (advisory witness). Applied bible-wide by `scripts/37_sampson_gen40_fixes.py`.
+
+## Genesis 40:17 — "all manner of goods"
+
+### Current Versions
+
+Genesis 40:17 - KJV - And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.
+
+### Memory
+
+Owner memory (2026-07-18): "And in the uppermost basket there was of **all manner of goods** for Pharaoh; and the birds did eat them out of the basket upon my head." (Also repairs a defective rare-word span merge that had left "of all manner of d goods" in the restored text.) Restored by `scripts/37_sampson_gen40_fixes.py`.
+
 ### References
 
 https://truthfarmer.com/2016/08/05/rather-exhaustive-list-of-mandela-effect-affected-scriptures/
