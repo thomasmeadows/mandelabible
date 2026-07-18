@@ -1,6 +1,6 @@
 # Memory Index
 
-- [KJV is not authenticity evidence](kjv-not-authenticity-evidence.md) — **BINDING owner rule (2026-07-15)**: never cite the KJV/KJV.db as proof a word is period (it is the corrupted text under audit); using it to find similar/parallel words for rare-word alternates is allowed. Overrules any earlier ruling that leaned on KJV attestation.
+- [KJV is not authenticity evidence](kjv-not-authenticity-evidence.md) — **BINDING owner rule (2026-07-15)**: never cite the KJV/KJV.db as proof a word is period (it is the corrupted text under audit); using it to find similar/parallel words for rare-word alternates is allowed. Overrules any earlier ruling that leaned on KJV attestation.  The KJV cannot be cited as evidence for any argument since the KJV contains corruption.
 
 - [Remembered-verses audit attestations](attestations-remembered-verses-audit.md) — word-by-word period rulings (bottles, couch, divers, tables, matrix, charity, spirit of error, destroyed, lion/lamb, etc.) from the 2026-07-14 full audit of references/remembered_verses.md, with corpus citations. Axis 1 (1611 English) only — see the scope note; Axis 2 (source-era referent) rulings still needed per Decision Log #4.
 - [Rare-word replacement grammar rules](rare-word-replacement-grammar-rules.md) — **owner rulings (2026-07-16)** for the witness-batch second pass: replacements are not one-for-one; auxiliaries/articles/inflections must change with the new word ("are accustomed" → "have learned", "a" vs "an"); copy the witnesses' construction, not just their word.
