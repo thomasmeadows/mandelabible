@@ -2708,11 +2708,11 @@
 - rationale: CUR "held a counsel" genuinely replaces the rare word and mirrors Geneva1599's "helde a Councill" and Tyndale's "helde counsell" construction exactly.
 - NEW: And straightway in the morning the chief priests held a counsel with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate.
 
-## consulter → counselleth with — Deuteronomy 18:11
+## consulter → taketh counsel with — Deuteronomy 18:11
 *(from batch_0021_proposals.md)*
 - verdict: REVISE
-- rationale: CUR "a ask with familiar spirits" is broken (bare verb where a noun/clause is required). Geneva1599 supplies the exact construction: "that counselleth with spirits." Adapting it as a relative clause keeps the parallel list intact.
-- NEW: Or a charmer, or one that counselleth with familiar spirits, or a wizard, or a necromancer.
+- rationale: CUR "counselleth whether he be able" misreads counsel as advising others rather than deliberating with himself. Geneva1599's "taketh counsell, whether he be able" is the period construction for self-deliberation and fits the sentence cleanly.
+- NEW: Or a charmer, or one that taketh counsel with familiar spirits, or a wizard, or a necromancer.
 
 ## consulteth → taketh counsel — Luke 14:31
 *(from batch_0021_proposals.md)*
@@ -2780,11 +2780,11 @@
 - rationale: CUR "fellowship" makes for strange idiom ("make a certain fellowship for the poor saints" — fellowship is a state, not a thing "made for" someone). Tyndale and Geneva1599 both read "make a certaine distribution vnto/vpon the poore Saintes," a direct period-attested construction.
 - NEW: For it hath pleased them of Macedonia and Achaia to make a certain distribution for the poor saints which are at Jerusalem.
 
-## conveniently → occasion — Mark 14:11
+## conveniently → occasion to — Mark 14:11
 *(from batch_0021_proposals.md)*
 - verdict: REVISE
 - rationale: The auto-system flagged this itself as having no safe one-word swap ("season" produces the nonsensical "he sought how he might season betray him"). Rephrasing with the KJV idiom "sought occasion" (cf. Judges 14:4 "he sought an occasion") restores sense and grammar without inventing new content, since the underlying idea — Judas looking for his moment — is preserved.
-- NEW: And when they heard it, they were glad, and promised to give him money. And he sought occasion how he might betray him.
+- NEW: And when they heard it, they were glad, and promised to give him money. And he sought occasion to how he might betray him.
 
 ## conversant → dwelt — Joshua 8:35
 *(from batch_0021_proposals.md)*
@@ -2810,11 +2810,11 @@
 - rationale: CUR "return" is attested in sense by ASV ("turn again") and BSB ("turn"); "return" is common and fits the verse's rhythm.
 - NEW: Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and return, and be healed.
 
-## convert → turn him back — James 5:19
+## convert → turn back — James 5:19
 *(from batch_0021_proposals.md)*
 - verdict: REVISE
 - rationale: CUR "one return him" is not idiomatic (return does not normally take a direct object this way). YLT's "turn him back" is the exact period-witness construction and is grammatical.
-- NEW: Brethren, if any of you do err from the truth, and one turn him back;
+- NEW: Brethren, if any of you do err from the truth, and one turn back;
 
 ## converteth → turneth back — James 5:20
 *(from batch_0021_proposals.md)*
