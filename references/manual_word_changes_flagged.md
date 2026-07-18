@@ -12,3 +12,4 @@
 28 charity -> love
 10 bulls -> oxen
 59 builded -> built -> the majority of the bible already has built instead of builded.  It makes no sense that the archiach version is hanging around.  It is inconsistent.W
+61 divers -> diverse
