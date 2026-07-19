@@ -71,12 +71,20 @@ verse, what you remember, and where you learned it.
 [`docs/`](./docs/) holds the static site deployed to mandelabible.com,
 including the downloadable MVP.
 
----
+## Contributing
 
-## have claude test mcp server with credwork
-If you want to use it as a guest, then add the MCP server in your terminal with 
-$ claude mcp add --transport http credwork https://mcp.credwork.co/mcp
+### Memory contribution instructions
 
-Then tell Claude to 'get full instructions for credwork'. It'll get the instrumentation instructions and save it for that project folder. 
+Anyone can create a github account and open issues.  Please follow the instructions.  Look at the following to determine if a verse should be updated, even more so if you disagree with a memory that already exist and has updated a verse.  This is a memory led project and while memories before the mandela effect are the primary resources, other factors are taken into consideration.
 
-After that you can continue working and it'll continue working passively in the background. Claude will give you a project link when it creates a new project for your session.
+1)  Consider the rarity of the word you are replacing and word you believe to be accurate.  (IE. couch, which is actually crouch and attested for by other translations.  Before the mandela effect, KJV had no mispelled words known.  It is possible crouch isn't accurate either though since it only appears twice otherwise in the KJV, but is the better replacement until a better word is found that would have been used when the KJV was written)
+2)  Consider other translations and how the verse you want to fix is being used in other translations.  While these translations also have been affected by the mandela affect, clues can also be gathered as to how the original verse was written in the KJV before the mandela effect. 
+3)  Consider the period authenticity.  Not only should the word your adding be authentic to Early Modern English during the time the KJV was written, it should also refelect the period in which Jesus was living or the time before that.  [Early Modern English](https://en.wikipedia.org/wiki/Early_Modern_English)
+4)  Memory co-oberation.  If more than one person agrees with your memory, it helps to attest to the change you are presenting.
+
+
+### Database
+
+Having the databse is not necessary to contribute, you can contribute to white list or with memories and residuals.  However if you intend to use AI for validation or more research, the database is below
+[current sqlite db](https://github.com/thomasmeadows/mandelabible/tree/38_owner_overrides.py/db)
+The current sqlite db is up to date through 38_owner_overrides.py.  Any other changes may not be applied yet until I up date the db export.  It is on a second branch so it is not under version control and is very large.  You will need 7-zip or another known method to extract a multi file zip.
