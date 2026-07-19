@@ -264,7 +264,7 @@ def report(con):
     for vid, t in con.execute(
             "SELECT verse_id, proposed_text FROM restorations "
             "WHERE status='approved' AND proposed_text IS NOT NULL "
-            "ORDER BY id"):
+            "AND flaw_type!='kjvrestore_fold' ORDER BY id"):
         comp[vid] = t
     vid_of = {}
     for vid, bid, ch, vs in con.execute(
