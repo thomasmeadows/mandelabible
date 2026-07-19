@@ -60,9 +60,6 @@ typings/
 # next.js build output
 .next
 
-# Working database — rebuildable from scripts/ (roadmap Phase 0 decision)
-db/mandela.db
-
 # Python
 __pycache__/
 *.pyc
