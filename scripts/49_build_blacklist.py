@@ -106,6 +106,11 @@ def manual_words():
     out.append(("Alleluia", "Hallelujah", "Revelation 19:1,3,4",
                 "owner ruling 2026-07-19: Hallelujah is the remembered "
                 "spelling", HUMAN, "manual word change"))
+    out.append(("strait", "straight", "bible-wide",
+                "owner directive 2026-07-19 (scripts/50_strait_to_straight"
+                ".py); plural included; derived forms straitly/straitened/"
+                "straitness/straitest left pending a separate ruling",
+                HUMAN, "manual word change"))
     return out
 
 

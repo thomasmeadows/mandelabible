@@ -3,9 +3,12 @@
 (owner directive 2026-07-19: "Fold in all kjvrestore_comparison.md items in
 the file, make sure to remove the stars **").
 
-Parses references/kjvrestore_comparison.md (the file the owner reviewed) and
-applies every entry that carries a "their verse" line — the DIVERGES and
-THEY-KEPT-BASE sections — as an approved restoration:
+Parses references/kjvrestore_comparison.md and applies each DIVERGES entry's
+"their verse" reading as an approved restoration. DIVERGES only (repair
+2026-07-19): the file the owner actually reviewed and curated contained only
+the DIVERGES section — the first fold wrongly regenerated the report over
+the owner's edits (misdiagnosed as a truncated write) and folded
+THEY-KEPT-BASE too. Multi-verse contamination guard added the same day:
   - flaw_type `kjvrestore_fold` (highest-id wins in script 17's composition,
     so prior rows are superseded, never deleted);
   - the `**` bold markers around the highlighted phrase are stripped;
@@ -59,7 +62,7 @@ def parse_report():
             section = m.group(1)
             continue
         m = re.match(r"^### (.+?) (\d+):(\d+)", line)
-        if m and section in ("DIVERGES", "THEY-KEPT-BASE"):
+        if m and section == "DIVERGES":
             ref = (m.group(1), int(m.group(2)), int(m.group(3)))
             continue
         if ref and line.startswith("- their verse:"):
@@ -101,6 +104,14 @@ def main():
             continue
         if text == cur_text[vid]:
             unchanged += 1
+            continue
+        # multi-verse contamination guard (repair 2026-07-19): script 47's
+        # verse parser occasionally swallowed following verses into one
+        # "their verse" line; a reading half again longer than our verse is
+        # not a word-level restoration — skip and report for manual review.
+        if len(text) > 1.5 * len(cur_text[vid]) + 30:
+            print(f"SKIP multi-verse suspect {book} {ch}:{vs} "
+                  f"({len(cur_text[vid])} -> {len(text)} chars)")
             continue
         con.execute(
             "INSERT INTO restorations (verse_id, flaw_type, current_text, "
