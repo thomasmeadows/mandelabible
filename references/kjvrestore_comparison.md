@@ -15,724 +15,904 @@ Highlighted readings: **232** across 70 chapters. Status counts: AGREES-WITH-OUR
 
 ### 1 Corinthians 4:11
 - their reading: **dwelling place**
+- their verse: Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain **dwelling place**;
 - our verse: Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;
 
 ### 1 Corinthians 5:9
 - their reading: **keep**
+- their verse: I wrote unto you in an epistle not to **keep** company with fornicators:
 - our verse: I wrote unto you in an epistle not to company with fornicators:
 
 ### 1 John 1:7
 - their reading: **X**
+- their verse: But if we walk in the light, **X** we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.
 - our verse: But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.
 
 ### 1 John 5:4
 - their reading: **whosoever**
+- their verse: For **whosoever** is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.
 - our verse: For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.
 
 ### 1 Timothy 3:8
 - their reading: **double tongued**
+- their verse: Likewise must the deacons be grave, not **double tongued**, not given to much wine, not greedy of filthy lucre;
 - our verse: Likewise must the deacons be grave, not of a double heart, not given to much wine, not greedy of filthy lucre;
 
 ### 1 Timothy 5:18
 - their reading: **hire**
+- their verse: For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The workman is worthy of his **hire**.
 - our verse: For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The workman is worthy of his reward.
 
 ### 2 Thessalonians 1:6
 - their reading: **thee**
+- their verse: Seeing it is a righteous thing with God to recompense tribulation to them that trouble **thee**;
 - our verse: Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;
 
 ### 2 Thessalonians 2:8
 - their reading: **one**
+- their verse: And then shall that Wicked **one** be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 - our verse: And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 
 ### Amos 7:14
 - their reading: **am not a prophet, nor the son of a prophet**
+- their verse: Then answered Amos, and said to Amaziah, I **am not a prophet, nor the son of a prophet**; but I was an herdman, and a gatherer of sycomore fruit:
 - our verse: Then answered Amos, and said to Amaziah, I was no prophet, neither was I a prophet's son; but I was an herdman, and a dresser of sycomore fruit:
 
 ### Amos 8:12
 - their reading: **south**
+- their verse: And they shall wander from sea to sea, and from the north even to the **south**, they shall run to and fro to seek the word of the Lord, and shall not find it.
 - our verse: And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the Lord, and shall not find it.
 
 ### Colossians 1:2
 - their reading: **thee**
+- their verse: To the saints and faithful brethren in Christ which are at Colosse: Grace be unto **thee**, and peace, from God our Father and the Lord Jesus Christ.
 - our verse: To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.
 
 ### Colossians 1:3
 - their reading: **thee**
+- their verse: We give thanks to God and the Father of our Lord Jesus Christ, praying always for **thee**,
 - our verse: We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,
 
 ### Colossians 1:4
 - their reading: **thy**
+- their verse: Since we heard of **thy** faith in Christ Jesus, and of the love which ye have to all the saints,
 - our verse: Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints,
 
 ### Colossians 1:5
 - their reading: **thee**
+- their verse: For the hope which is laid up for **thee** in heaven, whereof ye heard before in the word of the truth of the gospel;
 - our verse: For the hope which is laid up for you in heaven, whereof ye heard before in the word of the truth of the gospel;
 
 ### Colossians 1:6
 - their reading: **thee**
+- their verse: Which is come unto **thee**, as it is in all the world; and bringeth forth fruit, as it doth also in thee, since the day ye heard of it, and knew the grace of God in truth:
 - our verse: Which is come unto you, as it is in all the world; and bringeth forth fruit, as it doth also in you, since the day ye heard of it, and knew the grace of God in truth:
 
 ### Colossians 1:6
 - their reading: **thee**
+- their verse: Which is come unto **thee**, as it is in all the world; and bringeth forth fruit, as it doth also in thee, since the day ye heard of it, and knew the grace of God in truth:
 - our verse: Which is come unto you, as it is in all the world; and bringeth forth fruit, as it doth also in you, since the day ye heard of it, and knew the grace of God in truth:
 
 ### Colossians 1:7
 - their reading: **thee**
+- their verse: As ye also learned of Epaphras our dear fellowservant, who is for **thee** a faithful minister of Christ;
 - our verse: As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
 
 ### Colossians 1:8
 - their reading: **thy**
+- their verse: Who also declared unto us **thy** love in the Spirit.
 - our verse: Who also declared unto us your love in the Spirit.
 
 ### Colossians 1:9
 - their reading: **thee**
+- their verse: For this cause we also, since the day we heard it, do not cease to pray for **thee**, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;
 - our verse: For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;
 
 ### Colossians 1:21
 - their reading: **thou**
+- their verse: And **thou**, that were sometime alienated and enemies in thy mind by wicked works, yet now hath he reconciled
 - our verse: And you, that were in time past alienated and enemies in your mind by wicked works, yet now hath he reconciled
 
 ### Colossians 1:21
 - their reading: **thy**
+- their verse: And thou, that were sometime alienated and enemies in **thy** mind by wicked works, yet now hath he reconciled
 - our verse: And you, that were in time past alienated and enemies in your mind by wicked works, yet now hath he reconciled
 
 ### Colossians 1:22
 - their reading: **thee**
+- their verse: In the body of his flesh through death, to present **thee** holy and unblameable and unreproveable in his sight:
 - our verse: In the body of his flesh through death, to present you holy and blameless and without fault in his sight:
 
 ### Colossians 1:23
 - their reading: **X**
+- their verse: **X** Continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;
 - our verse: If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;
 
 ### Colossians 1:24
 - their reading: **thee**
+- their verse: Who now rejoice in my sufferings for **thee**, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:
 - our verse: Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:
 
 ### Colossians 1:25
 - their reading: **thee**
+- their verse: Whereof I am made a minister, according to the dispensation of God which is given to me for **thee**, to fulfil the word of God;
 - our verse: Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;
 
 ### Colossians 1:27
 - their reading: **thee**
+- their verse: To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in **thee**, the hope of glory:
 - our verse: To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
 
 ### Colossians 2:1
 - their reading: **thee**
+- their verse: For I would that ye knew what great conflict I have for **thee**, and for them at Laodicea, and for as many as have not seen my face in the flesh;
 - our verse: For I would that ye knew what great fighting I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;
 
 ### Colossians 2:2
 - their reading: **unto the richest and most assured understanding; unto a knowledge of the mystery of God the Father,**
+- their verse: That their hearts might be comforted, being knit together in love, and **unto the richest and most assured understanding; unto a knowledge of the mystery of God the Father,** and of Christ;
 - our verse: That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the knowledge of the mystery of God, and of the Father, and of Christ;
 
 ### Colossians 2:4
 - their reading: **thee**
+- their verse: And this I say, lest any man should beguile **thee** with enticing words.
 - our verse: And this I say, lest any man should deceive you with enticing words.
 
 ### Colossians 2:5
 - their reading: **thee**
+- their verse: For though I be absent in the flesh, yet am I with **thee** in the spirit, joying and beholding thy order, and the stedfastness of thy faith in Christ.
 - our verse: For though I be absent in the flesh, yet am I with you in the spirit, rejoice and beholding your order, and your stedfast faith in Christ.
 
 ### Colossians 2:5
 - their reading: **thy**
+- their verse: For though I be absent in the flesh, yet am I with thee in the spirit, joying and beholding **thy** order, and the stedfastness of thy faith in Christ.
 - our verse: For though I be absent in the flesh, yet am I with you in the spirit, rejoice and beholding your order, and your stedfast faith in Christ.
 
 ### Colossians 2:5
 - their reading: **thy**
+- their verse: For though I be absent in the flesh, yet am I with thee in the spirit, joying and beholding **thy** order, and the stedfastness of thy faith in Christ.
 - our verse: For though I be absent in the flesh, yet am I with you in the spirit, rejoice and beholding your order, and your stedfast faith in Christ.
 
 ### Colossians 2:8
 - their reading: **thee**
+- their verse: Beware lest any man spoil **thee** through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 - our verse: Beware lest any man spoil you through the wisdom of men and vain deceit, after the tradition of men, after the elements of the world, and not after Christ.
 
 ### Colossians 2:13
 - their reading: **thou**
+- their verse: And **thou**, being dead in thy sins and the uncircumcision of thy flesh, hath he quickened together with him, having forgiven thee all trespasses;
 - our verse: And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;
 
 ### Colossians 2:13
 - their reading: **thy**
+- their verse: And thou, being dead in **thy** sins and the uncircumcision of thy flesh, hath he quickened together with him, having forgiven thee all trespasses;
 - our verse: And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;
 
 ### Colossians 2:13
 - their reading: **thy**
+- their verse: And thou, being dead in **thy** sins and the uncircumcision of thy flesh, hath he quickened together with him, having forgiven thee all trespasses;
 - our verse: And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;
 
 ### Colossians 2:13
 - their reading: **thee**
+- their verse: And thou, being dead in thy sins and the uncircumcision of thy flesh, hath he quickened together with him, having forgiven **thee** all trespasses;
 - our verse: And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;
 
 ### Colossians 2:16
 - their reading: **thee**
+- their verse: Let no man therefore judge **thee** in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:
 - our verse: Let no man therefore judge you in meat, or in drink, or in respect of a feast, or of the new moon, or of the sabbath days:
 
 ### Colossians 2:18
 - their reading: **thee**
+- their verse: Let no man beguile **thee** of thy reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,
 - our verse: Let no man rob you of your reward in a voluntary humility and worshipping of angels, searching into those things which he hath not seen, proudly puffed up by his fleshly mind,
 
 ### Colossians 2:18
 - their reading: **thy**
+- their verse: Let no man beguile thee of **thy** reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,
 - our verse: Let no man rob you of your reward in a voluntary humility and worshipping of angels, searching into those things which he hath not seen, proudly puffed up by his fleshly mind,
 
 ### Colossians 3:2
 - their reading: **thy**
+- their verse: Set **thy** affection on things above, not on things on the earth.
 - our verse: Set your affection on things above, not on things on the earth.
 
 ### Colossians 3:3
 - their reading: **thy**
+- their verse: For ye are dead, and **thy** life is hid with Christ in God.
 - our verse: For ye are dead, and your life is hid with Christ in God.
 
 ### Colossians 3:5
 - their reading: **thy**
+- their verse: Mortify therefore **thy** members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:
 - our verse: Put to death therefore your members which are upon the earth; fornication, uncleanness, lust, evil concupiscence, and covetousness, which is idolatry:
 
 ### Colossians 3:15
 - their reading: **thy**
+- their verse: And let the peace of God rule in **thy** hearts, to the which also ye are called in one body; and be ye thankful.
 - our verse: And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.
 
 ### Colossians 3:16
 - their reading: **thee**
+- their verse: Let the word of Christ dwell in **thee** richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in thy hearts to the Lord.
 - our verse: Let the word of Christ dwell in you abundantly in all wisdom; teaching and admonishing one another in psalms and praises and spiritual songs, singing with grace in your hearts to the Lord.
 
 ### Colossians 3:16
 - their reading: **thy**
+- their verse: Let the word of Christ dwell in thee richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in **thy** hearts to the Lord.
 - our verse: Let the word of Christ dwell in you abundantly in all wisdom; teaching and admonishing one another in psalms and praises and spiritual songs, singing with grace in your hearts to the Lord.
 
 ### Colossians 3:18
 - their reading: **thyselves**
+- their verse: Wives, submit **thyselves** unto thy own husbands, as it is fit in the Lord.
 - our verse: Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
 
 ### Colossians 3:18
 - their reading: **thy**
+- their verse: Wives, submit **thy**selves unto thy own husbands, as it is fit in the Lord.
 - our verse: Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
 
 ### Colossians 3:19
 - their reading: **thy**
+- their verse: Husbands, love **thy** wives, and be not bitter against them.
 - our verse: Husbands, love your wives, and be not bitter against them.
 
 ### Colossians 3:20
 - their reading: **thy**
+- their verse: Children, obey **thy** parents in all things: for this is well pleasing unto the Lord.
 - our verse: Children, obey your parents in all things: for this is well pleasing unto the Lord.
 
 ### Colossians 3:21
 - their reading: **thy**
+- their verse: Fathers, provoke not **thy** children to anger, lest they be discouraged.
 - our verse: Fathers, provoke not your children to anger, lest they be discouraged.
 
 ### Colossians 3:22
 - their reading: **thy**
+- their verse: Servants, obey in all things **thy** masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:
 - our verse: Servants, obey in all things your masters according to the flesh; not serving to the eye, as those that please men; but in singleness of heart, fearing God:
 
 ### Daniel 7:25
 - their reading: **vex**
+- their verse: And he shall speak great words against the most High, and shall **vex** the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 - our verse: And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 
 ### Ephesians 2:19
 - their reading: **fellow citizens**
+- their verse: Now therefore ye are no more strangers and foreigners, but **fellow citizens** with the saints, and of the household of God;
 - our verse: Now therefore ye are no more strangers and aliens, but of the family of the saints, and of the household of God;
 
 ### Ephesians 6:16
 - their reading: **devil**
+- their verse: Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the **devil**.
 - our verse: Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.
 
 ### Exodus 1:10
 - their reading: **X**
+- their verse: Come **X**, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
 - our verse: Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
 
 ### Exodus 2:18
 - their reading: **Jethro**
+- their verse: And when they came to **Jethro** their father, he said, How is it that ye are come so soon to day?
 - our verse: And when they came to Reuel their father, he said, How is it that ye are come so soon to day?
 
 ### Exodus 4:24
 - their reading: **X**
+- their verse: And it came to pass by the way in the inn, that the Lord met him **X**.
 - our verse: And it came to pass by the way in the inn, that the Lord met him, and sought to kill him.
 
 ### Ezra 9:3
 - their reading: **astonished**
+- their verse: And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down **astonished**.
 - our verse: And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied.
 
 ### Ezra 9:4
 - their reading: **astonished**
+- their verse: Then were assembled unto me every one that trembled at the words of the God of Israel, because of the transgression of those that had been carried away; and I sat **astonished** until the evening sacrifice.
 - our verse: Then were assembled unto me every one that trembled at the words of the God of Israel, because of the transgression of those that had been carried away; and I sat astonied until the evening sacrifice.
 
 ### Galatians 2:16
 - their reading: **on**
+- their verse: Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed **on** Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
 - our verse: Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
 
 ### Galatians 2:21
 - their reading: **is attainable**
+- their verse: I do not frustrate the grace of God: for if righteousness **is attainable** by the law, then Christ hath died in vain.
 - our verse: I do not make void the grace of God: for if righteousness come by the law, then Christ is dead in vain.
 
 ### Galatians 2:21
 - their reading: **hath died**
+- their verse: I do not frustrate the grace of God: for if righteousness is attainable by the law, then Christ **hath died** in vain.
 - our verse: I do not make void the grace of God: for if righteousness come by the law, then Christ is dead in vain.
 
 ### Galatians 5:1
 - their reading: **set**
+- their verse: Stand fast therefore in the liberty wherewith Christ hath **set** us free, and be not entangled again with the yoke of bondage.
 - our verse: Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.
 
 ### Genesis 1:7
 - their reading: **good**
+- their verse: And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was **good**.
 - our verse: And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
 
 ### Genesis 1:9
 - their reading: **heavens**
+- their verse: And God said, Let the waters under the **heavens** be gathered together unto one place, and let the dry land appear: and it was so.
 - our verse: And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
 
 ### Genesis 1:14
 - their reading: **heavens**
+- their verse: And God said, Let there be lights in the firmament of the **heavens** to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
 - our verse: And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
 
 ### Genesis 1:17
 - their reading: **heavens**
+- their verse: And God set them in the firmament of the **heavens** to give light upon the earth,
 - our verse: And God set them in the firmament of the heaven to give light upon the earth,
 
 ### Genesis 1:20
 - their reading: **fishes to move in them**
+- their verse: And God said, Let the waters bring forth **fishes to move in them**, and fowl that may fly above the earth in the open firmament of heaven.
 - our verse: And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.
 
 ### Genesis 1:22
 - their reading: **on**
+- their verse: And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply **on** the earth.
 - our verse: And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
 
 ### Genesis 1:29
 - their reading: **thee**
+- their verse: And God said, Behold, I have given **thee** every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to thee it shall be for meat.
 - our verse: And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.
 
 ### Genesis 1:29
 - their reading: **thee**
+- their verse: And God said, Behold, I have given **thee** every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to thee it shall be for meat.
 - our verse: And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.
 
 ### Genesis 3:5
 - their reading: **thine**
+- their verse: For God doth know that in the day ye eat thereof, then **thine** eyes shall be opened, and ye shall be as gods, knowing good and evil.
 - our verse: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be like God, knowing good and evil.
 
 ### Genesis 3:6
 - their reading: **X**
+- their verse: And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband **X**; and he did eat.
 - our verse: And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
 
 ### Genesis 3:12
 - their reading: **X**
+- their verse: And the man said, The woman whom thou gavest **X** me, she gave me of the tree, and I did eat.
 - our verse: And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.
 
 ### Genesis 3:19
 - their reading: **brow**
+- their verse: By the sweat of thy **brow** shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.
 - our verse: By the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.
 
 ### Genesis 5:2
 - their reading: **X**
+- their verse: Male and female created he them; **X** and blessed them in the day when they were created. 5:3 And Adam lived an hundred and thirty years, and begat a son in his own likeness, and after his image; and called his name Seth: 4 And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters: 5 And all the days that Adam lived were nine hundred and thirty years: and he died. 6 And Seth lived an hundred and five years, and begat Enos: 7 And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters: 8 And all the days of Seth were nine hundred and twelve years: and he died. 9 And Enos lived ninety years, and begat Cainan: 10 And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters: 11 And all the days of Enos were nine hundred and five years: and he died. 12 And Cainan lived seventy years and begat Mahalaleel: 13 And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters: 14 And all the days of Cainan were nine hundred and ten years: and he died. 15 And Mahalaleel lived sixty and five years, and begat Jared: 16 And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters: 17 And all the days of Mahalaleel were eight hundred ninety and five years: and he died. 18 And Jared lived an hundred sixty and two years, and he begat Enoch: 19 And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters: 20 And all the days of Jared were nine hundred sixty and two years: and he died. 21 And Enoch lived sixty and five years, and begat Methuselah: 22 And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters: 23 And all the days of Enoch were three hundred sixty and five years: 24 And Enoch walked with God: and he was not; for God took him. 25 And Methuselah lived an hundred eighty and seven years, and begat Lamech. 26 And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters: 27 And all the days of Methuselah were nine hundred sixty and nine years: and he died. 28 And Lamech lived an hundred eighty and two years, and begat a son: 29 And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord hath cursed. 30 And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters: 31 And all the days of Lamech were seven hundred seventy and seven years: and he died. 32 And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.
 - our verse: Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.
 
 ### Genesis 6:4
 - their reading: **knew**
+- their verse: There were giants on the earth in those days; and also after that, when the sons of God **knew** the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
 - our verse: There were giants on the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
 
 ### Genesis 7:4
 - their reading: **creature**
+- their verse: For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living **creature** that I have made will I destroy from off the face of the earth.
 - our verse: For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living thing that I have made will I destroy from off the face of the earth.
 
 ### Genesis 7:9
 - their reading: **by**
+- their verse: There went in two **by** two unto Noah into the ark, the male and the female, as God had commanded Noah.
 - our verse: There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.
 
 ### Genesis 7:15
 - their reading: **by**
+- their verse: And they went in unto Noah into the ark, two **by** two of all flesh, wherein is the breath of life.
 - our verse: And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life.
 
 ### Genesis 8:11
 - their reading: **branch**
+- their verse: And the dove came in to him in the evening; and, lo, in her mouth was an olive **branch** pluckt off: so Noah knew that the waters were abated from off the earth.
 - our verse: And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf torn off: so Noah knew that the waters were abated from off the earth.
 
 ### Genesis 9:2
 - their reading: **thee**
+- their verse: And the fear of **thee** and the dread of thee shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into thine hand are they delivered.
 - our verse: And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered.
 
 ### Genesis 9:2
 - their reading: **thee**
+- their verse: And the fear of **thee** and the dread of thee shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into thine hand are they delivered.
 - our verse: And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered.
 
 ### Genesis 9:2
 - their reading: **thine**
+- their verse: And the fear of thee and the dread of thee shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into **thine** hand are they delivered.
 - our verse: And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered.
 
 ### Genesis 9:3
 - their reading: **thee**
+- their verse: Every moving thing that liveth shall be meat for **thee**; even as the green herb have I given thee all things.
 - our verse: Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.
 
 ### Genesis 9:3
 - their reading: **thee**
+- their verse: Every moving thing that liveth shall be meat for **thee**; even as the green herb have I given thee all things.
 - our verse: Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.
 
 ### Genesis 9:5
 - their reading: **thy**
+- their verse: And surely **thy** blood of thy lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.
 - our verse: And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.
 
 ### Genesis 9:5
 - their reading: **thy**
+- their verse: And surely **thy** blood of thy lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.
 - our verse: And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.
 
 ### Genesis 9:7
 - their reading: **thou**
+- their verse: And **thou**, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.
 - our verse: And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.
 
 ### Genesis 9:9
 - their reading: **thee**
+- their verse: And I, behold, I establish my covenant with **thee**, and with thy seed after thee;
 - our verse: And I, behold, I establish my covenant with you, and with your seed after you;
 
 ### Genesis 9:9
 - their reading: **thy**
+- their verse: And I, behold, I establish my covenant with thee, and with **thy** seed after thee;
 - our verse: And I, behold, I establish my covenant with you, and with your seed after you;
 
 ### Genesis 9:9
 - their reading: **thee**
+- their verse: And I, behold, I establish my covenant with **thee**, and with thy seed after thee;
 - our verse: And I, behold, I establish my covenant with you, and with your seed after you;
 
 ### Genesis 9:10
 - their reading: **thee**
+- their verse: And with every living creature that is with **thee**, of the fowl, of the cattle, and of every beast of the earth with thee; from all that go out of the ark, to every beast of the earth.
 - our verse: And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.
 
 ### Genesis 9:10
 - their reading: **thee**
+- their verse: And with every living creature that is with **thee**, of the fowl, of the cattle, and of every beast of the earth with thee; from all that go out of the ark, to every beast of the earth.
 - our verse: And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.
 
 ### Genesis 9:11
 - their reading: **thee**
+- their verse: And I will establish my covenant with **thee**, neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.
 - our verse: And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.
 
 ### Genesis 9:12
 - their reading: **thee**
+- their verse: And God said, This is the token of the covenant which I make between me and **thee** and every living creature that is with thee, for perpetual generations:
 - our verse: And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:
 
 ### Genesis 9:12
 - their reading: **thee**
+- their verse: And God said, This is the token of the covenant which I make between me and **thee** and every living creature that is with thee, for perpetual generations:
 - our verse: And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:
 
 ### Genesis 9:15
 - their reading: **thee**
+- their verse: And I will remember my covenant, which is between me and **thee** and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.
 - our verse: And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.
 
 ### Genesis 17:11
 - their reading: **thy**
+- their verse: And ye shall circumcise the flesh of **thy** foreskin; and it shall be a token of the covenant betwixt me and thee.
 - our verse: And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you.
 
 ### Genesis 17:11
 - their reading: **thee**
+- their verse: And ye shall circumcise the flesh of thy foreskin; and it shall be a token of the covenant betwixt me and **thee**.
 - our verse: And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you.
 
 ### Genesis 17:12
 - their reading: **thee**
+- their verse: And he that is eight days old shall be circumcised among **thee**, every man child in thy generations, he that is born in the house, or bought with money of any stranger, which is not of thy seed.
 - our verse: And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which is not of thy seed.
 
 ### Hebrews 8:10
 - their reading: **I will be their God, and they shall be my people**
+- their verse: For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and **I will be their God, and they shall be my people**:
 - our verse: For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:
 
 ### Hebrews 9:3
 - their reading: **Holy of Holies**
+- their verse: And after the second veil, the tabernacle which is called the **Holy of Holies**;
 - our verse: And after the second veil, the tabernacle which is called the Holiest of all;
 
 ### Hebrews 9:4
 - their reading: **tablets**
+- their verse: Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron’s rod that budded, and the **tablets** of the covenant;
 - our verse: Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron’s rod that budded, and the tables of the covenant;
 
 ### Hebrews 9:8
 - their reading: **Holy of Holies**
+- their verse: The Holy Ghost this signifying, that the way into the **Holy of Holies** was not yet made manifest, while as the first tabernacle was yet standing:
 - our verse: The spirit of the Lord this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:
 
 ### Hebrews 9:22
 - their reading: **of sin**
+- their verse: And almost all things are by the law purged with blood; and without shedding of blood is no remission **of sin**.
 - our verse: And almost all things are by the law purged with blood; and without shedding of blood is no remission.
 
 ### Hebrews 10:19
 - their reading: **Holy of Holies**
+- their verse: Having therefore, brethren, boldness to enter into the **Holy of Holies** by the blood of Jesus,
 - our verse: Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,
 
 ### Hebrews 10:30
 - their reading: **Vengeance is mine**
+- their verse: For we know him that hath said, **Vengeance is mine**, I will recompense, saith the Lord. And again, The Lord shall judge his people.
 - our verse: For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.
 
 ### Hebrews 10:31
 - their reading: **terrible**
+- their verse: It is a **terrible** thing to fall into the hands of the living God.
 - our verse: It is a fearful thing to fall into the hands of the living God.
 
 ### Isaiah 3:2
 - their reading: **crescents**
+- their verse: The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient, 3: The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator. 4 And I will give children to be their princes, and babes shall rule over them. 5 And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable. 6 When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand: 7 In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people. 8 For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the Lord, to provoke the eyes of his glory. 9 The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves. 10 Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings. 11 Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him. 12 As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths. 13 The Lord standeth up to plead, and standeth to judge the people. 14 The Lord will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses. 15 What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts. 16 Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet: 17 Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts. 18 In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round **crescents** like the moon, 19 The chains, and the bracelets, and the vails, 20 The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings, 21 The rings, and nose jewels, 22 The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins, 23 The glasses, and the fine linen, and the hoods, and the vails. 24 And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty. 25 Thy men shall fall by the sword, and thy mighty in the war. 26 And her gates shall lament and mourn; and she being desolate shall sit upon the ground.
 - our verse: The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,
 
 ### Isaiah 3:2
 - their reading: **vails**
+- their verse: The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient, 3: The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator. 4 And I will give children to be their princes, and babes shall rule over them. 5 And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable. 6 When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand: 7 In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people. 8 For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the Lord, to provoke the eyes of his glory. 9 The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves. 10 Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings. 11 Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him. 12 As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths. 13 The Lord standeth up to plead, and standeth to judge the people. 14 The Lord will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses. 15 What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts. 16 Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet: 17 Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts. 18 In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round crescents like the moon, 19 The chains, and the bracelets, and the **vails**, 20 The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings, 21 The rings, and nose jewels, 22 The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins, 23 The glasses, and the fine linen, and the hoods, and the vails. 24 And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty. 25 Thy men shall fall by the sword, and thy mighty in the war. 26 And her gates shall lament and mourn; and she being desolate shall sit upon the ground.
 - our verse: The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,
 
 ### Isaiah 5:26
 - their reading: **show contempt**
+- their verse: And he will lift up an ensign to the nations from far, and **show contempt** unto them from the end of the earth: and, behold, they shall come with speed swiftly:
 - our verse: And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:
 
 ### Isaiah 6:6
 - their reading: **X**
+- their verse: Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken **X** from off the altar:
 - our verse: Then came one of the angels unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:
 
 ### Isaiah 11:1
 - their reading: **branch out of the root of Jesse**
+- their verse: And there shall come forth a **branch out of the root of Jesse**;
 - our verse: And there shall come forth a rod out of the stock of Jesse, and a Branch shall grow out of his roots:
 
 ### Isaiah 11:6
 - their reading: **Then the lion shall lie down with the lamb, and the bear shall eat grass like the ox, and the child shall play on the hole of the asp, and nothing shall hurt nor destroy in all My holy mountain.**
+- their verse: **Then the lion shall lie down with the lamb, and the bear shall eat grass like the ox, and the child shall play on the hole of the asp, and nothing shall hurt nor destroy in all My holy mountain.**
 - our verse: Then the lion shall lay down with the lamb, And the bear shall eat grass like the ox,
 
 ### Isaiah 11:8
 - their reading: **X**
+- their verse: **X** and the weaned child shall put his hand on the cockatrice’ den.
 - our verse: And nothing shall hurt, nor destroy in all My Holy Mountain!
 
 ### Isaiah 11:9
 - their reading: **X**
+- their verse: **X** And the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
 - our verse: For the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
 
 ### Isaiah 11:9
 - their reading: **And**
+- their verse: X **And** the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
 - our verse: For the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
 
 ### Isaiah 53:5
 - their reading: **by**
+- their verse: But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and **by** his stripes we are healed.
 - our verse: But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
 
 ### James 1:5
 - their reading: **X**
+- their verse: If any **X** lacketh wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 - our verse: If any of you lack wisdom, let him ask of God, that giveth to all men freely, and reproaches not; and it shall be given him.
 
 ### James 1:5
 - their reading: **lacketh**
+- their verse: If any X **lacketh** wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 - our verse: If any of you lack wisdom, let him ask of God, that giveth to all men freely, and reproaches not; and it shall be given him.
 
 ### Job 1:7
 - their reading: **on**
+- their verse: And the Lord said unto Satan, Whence comest thou? Then Satan answered the Lord, and said, From going to and fro **on** the earth, and from walking up and down in it.
 - our verse: And the Lord said unto Satan, Whence comest thou? Then Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
 
 ### Job 1:21
 - their reading: **the Lord giveth, and the Lord taketh away**
+- their verse: And said, Naked came I out of my mother’s womb, and naked shall I return thither: **the Lord giveth, and the Lord taketh away**; blessed be the name of the Lord.
 - our verse: And said, Naked came I out of my mother’s womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord.
 
 ### Jonah 4:5
 - their reading: **X**
+- their verse: So Jonah went out of the city, and sat on the east side of the city, **X** till he might see what would become of the city.
 - our verse: So Jonah went out of the city, and sat on the east side of the city, and there made him a tent, and sat under it in the shadow, till he might see what would become of the city.
 
 ### Luke 11:2
 - their reading: **And he said unto them, When ye pray, say, Our Father who art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, on earth, as it is in heaven.**
+- their verse: **And he said unto them, When ye pray, say, Our Father who art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, on earth, as it is in heaven.**
 - our verse: And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so on earth.
 
 ### Luke 11:3
 - their reading: **Give us this day our daily bread.**
+- their verse: **Give us this day our daily bread.**
 - our verse: Give us day by day our daily bread.
 
 ### Luke 11:4
 - their reading: **And forgive us our trespasses; as we forgive those that trespass against us. And lead us not into temptation; but deliver us from evil. for thine is the kingdom, and the power, and the glory forever. Amen.**
+- their verse: **And forgive us our trespasses; as we forgive those that trespass against us. And lead us not into temptation; but deliver us from evil. for thine is the kingdom, and the power, and the glory forever. Amen.**
 - our verse: And forgive us our sins; for we also forgive every one that is our debtor. And lead us not into temptation; but deliver us from evil.
 
 ### Matthew 1:1
 - their reading: **generations**
+- their verse: The book of the **generations** of Jesus Christ, the son of David, the son of Abraham.
 - our verse: The book of the generation of Jesus Christ, the son of David, the son of Abraham.
 
 ### Matthew 2:6
 - their reading: **X**
+- their verse: And thou Bethlehem, in the land of Juda, art **X** the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.
 - our verse: And thou Bethlehem, in the land of Judah, art not the least among the princes of Judah: for out of thee shall come a governor, that shall rule my people Israel.
 
 ### Matthew 2:17
 - their reading: **Judea**
+- their verse: Then was fulfilled that which was spoken by Jeremy the prophet, saying, 18: In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not. 19 But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt, 20 Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life. 21 And he arose, and took the young child and his mother, and came into the land of Israel. 22 But when he heard that Archelaus did reign in **Judea** in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee: 23 And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.
 - our verse: Then was fulfilled that which was spoken by Jeremiah the prophet, saying,
 
 ### Matthew 7:1 `MEM`
 - their reading: **Judge not, lest you be judged**
+- their verse: **Judge not, lest you be judged**.
 - our verse: Judge not lest ye be judged.
 
 ### Matthew 7:7
 - their reading: **demons**
+- their verse: Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: 8: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. 9 Or what man is there of you, whom if his son ask bread, will he give him a stone? 10 Or if he ask a fish, will he give him a serpent? 11 If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him? 12: Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets. 13 Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: 14 Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. 15 Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves. 16 Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles? 17 Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit. 18 A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit. 19 Every tree that bringeth not forth good fruit is hewn down, and cast into the fire. 20 Wherefore by their fruits ye shall know them. 21 Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. 22 Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out **demons**? and in thy name done many wonderful works? 23 And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. 24 Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: 25 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock. 26 And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand: 27 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it. 28 And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine: 29 For he taught them as one having authority, and not as the scribes.
 - our verse: Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:
 
 ### Matthew 8:28
 - their reading: **one**
+- their verse: And when he was come to the other side into the country of the Gergesenes, there met him **one** possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
 - our verse: And when He was come to the other side into the country of the Gergesenes, there met Him two possessed with demons, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
 
 ### Numbers 35:2
 - their reading: **pasture**
+- their verse: Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give also unto the Levites **pasture** for the cities round about them.
 - our verse: Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give also unto the Levites suburbs for the cities round about them.
 
 ### Numbers 35:3
 - their reading: **pasture**
+- their verse: And the cities shall they have to dwell in; and the **pasture** of them shall be for their cattle, and for their goods, and for all their beasts.
 - our verse: And the cities shall they have to dwell in; and the suburbs of them shall be for their cattle, and for their goods, and for all their beasts.
 
 ### Numbers 35:4
 - their reading: **pasture**
+- their verse: And the **pasture** of the cities, which ye shall give unto the Levites, shall reach from the wall of the city and outward a thousand cubits round about.
 - our verse: And the suburbs of the cities, which ye shall give unto the Levites, shall reach from the wall of the city and outward a thousand cubits round about.
 
 ### Numbers 35:5
 - their reading: **pasture**
+- their verse: And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city shall be in the midst: this shall be to them the **pasture** of the cities.
 - our verse: And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city shall be in the midst: this shall be to them the suburbs of the cities.
 
 ### Numbers 35:7
 - their reading: **pasture**
+- their verse: So all the cities which ye shall give to the Levites shall be forty and eight cities: them shall ye give with their **pasture**.
 - our verse: So all the cities which ye shall give to the Levites shall be forty and eight cities: them shall ye give with their suburbs.
 
 ### Proverbs 14:12
 - their reading: **is death.**
+- their verse: There is a way which seemeth right unto a man, but the end thereof **is death.**
 - our verse: There is a way which seemeth right unto a man, but the end thereof are the ways of death.
 
 ### Revelation 1:4
 - their reading: **thee**
+- their verse: John to the seven churches which are in Asia: Grace be unto **thee**, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
 - our verse: John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
 
 ### Revelation 1:9
 - their reading: **thy**
+- their verse: I John, who also am **thy** brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
 - our verse: I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
 
 ### Revelation 1:16
 - their reading: **two edged**
+- their verse: And he had in his right hand seven stars: and out of his mouth went a sharp **two edged** sword: and his countenance was as the sun shineth in his strength.
 - our verse: And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance was as the sun shineth in his strength.
 
 ### Revelation 2:13
 - their reading: **thee**
+- their verse: I know thy works, and where thou dwellest, even where Satan’s seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among **thee**, where Satan dwelleth.
 - our verse: I know thy works, and where thou dwellest, even where Satan's seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful witness, who was slain among you, where Satan dwelleth.
 
 ### Revelation 2:21
 - their reading: **thee**
+- their verse: And I gave her space to repent of her fornication; and she repented not. 22: Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds. 23 And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of **thee** according to thy works. 24 But unto thee I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon thee none other burden. 25 But that which ye have already hold fast till I come. 26 And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations: 27 And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father. 28 And I will give him the morning star. 29 He that hath an ear, let him hear what the Spirit saith unto the churches.
 - our verse: And I gave her space to repent of her fornication; and she repented not.
 
 ### Revelation 2:21
 - their reading: **thy**
+- their verse: And I gave her space to repent of her fornication; and she repented not. 22: Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds. 23 And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of thee according to **thy** works. 24 But unto thee I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon thee none other burden. 25 But that which ye have already hold fast till I come. 26 And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations: 27 And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father. 28 And I will give him the morning star. 29 He that hath an ear, let him hear what the Spirit saith unto the churches.
 - our verse: And I gave her space to repent of her fornication; and she repented not.
 
 ### Revelation 2:21
 - their reading: **thee**
+- their verse: And I gave her space to repent of her fornication; and she repented not. 22: Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds. 23 And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of **thee** according to thy works. 24 But unto thee I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon thee none other burden. 25 But that which ye have already hold fast till I come. 26 And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations: 27 And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father. 28 And I will give him the morning star. 29 He that hath an ear, let him hear what the Spirit saith unto the churches.
 - our verse: And I gave her space to repent of her fornication; and she repented not.
 
 ### Revelation 2:21
 - their reading: **thee**
+- their verse: And I gave her space to repent of her fornication; and she repented not. 22: Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds. 23 And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of **thee** according to thy works. 24 But unto thee I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon thee none other burden. 25 But that which ye have already hold fast till I come. 26 And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations: 27 And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father. 28 And I will give him the morning star. 29 He that hath an ear, let him hear what the Spirit saith unto the churches.
 - our verse: And I gave her space to repent of her fornication; and she repented not.
 
 ### Revelation 13:17
 - their reading: **X,**
+- their verse: And that no man might buy or sell, save he that had the mark, **X,** or the number of his name.
 - our verse: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
 
 ### Revelation 22:16
 - their reading: **thee**
+- their verse: I Jesus have sent mine angel to testify unto **thee** these things in the churches. I am the root and the offspring of David, and the bright and morning star.
 - our verse: I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.
 
 ### Revelation 22:21
 - their reading: **thee**
+- their verse: The grace of our Lord Jesus Christ be with **thee** all. Amen.
 - our verse: The grace of our Lord Jesus Christ be with you all. Amen.   
 
 ### Romans 1:7
 - their reading: **thee**
+- their verse: To all that be in Rome, beloved of God, called to be saints: Grace to **thee** and peace from God our Father, and the Lord Jesus Christ.
 - our verse: To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.
 
 ### Romans 1:8
 - their reading: **of thee**
+- their verse: First, I thank my God through Jesus Christ for all **of thee**, that thy faith is spoken of throughout the whole world.
 - our verse: First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.
 
 ### Romans 1:8
 - their reading: **thy**
+- their verse: First, I thank my God through Jesus Christ for all of thee, that **thy** faith is spoken of throughout the whole world.
 - our verse: First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.
 
 ### Romans 1:9
 - their reading: **thee**
+- their verse: For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of **thee** always in my prayers;
 - our verse: For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;
 
 ### Romans 1:10
 - their reading: **thee**
+- their verse: Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto **thee**.
 - our verse: Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you.
 
 ### Romans 1:11
 - their reading: **thee**
+- their verse: For I long to see **thee**, that I may impart unto thee some spiritual gift, to the end ye may be established;
 - our verse: For I long to see you, that I may give unto you some spiritual gift, to the end ye may be established;
 
 ### Romans 1:11
 - their reading: **thee**
+- their verse: For I long to see **thee**, that I may impart unto thee some spiritual gift, to the end ye may be established;
 - our verse: For I long to see you, that I may give unto you some spiritual gift, to the end ye may be established;
 
 ### Romans 1:12
 - their reading: **thee**
+- their verse: That is, that I may be comforted together with **thee** by the mutual faith both of thou and me.
 - our verse: That is, that I may be comforted together with you by the common faith both of you and me.
 
 ### Romans 1:12
 - their reading: **thou**
+- their verse: That is, that I may be comforted together with thee by the mutual faith both of **thou** and me.
 - our verse: That is, that I may be comforted together with you by the common faith both of you and me.
 
 ### Romans 1:13
 - their reading: **thee**
+- their verse: Now I would not have **thee** ignorant, brethren, that oftentimes I purposed to come unto thee, (but was let hitherto,) that I might have some fruit among thee also, even as among other Gentiles.
 - our verse: Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, but was let hitherto, that I might have some fruit among you also, even as among other Gentiles.
 
 ### Romans 1:13
 - their reading: **thee**
+- their verse: Now I would not have **thee** ignorant, brethren, that oftentimes I purposed to come unto thee, (but was let hitherto,) that I might have some fruit among thee also, even as among other Gentiles.
 - our verse: Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, but was let hitherto, that I might have some fruit among you also, even as among other Gentiles.
 
 ### Romans 1:13
 - their reading: **thee**
+- their verse: Now I would not have **thee** ignorant, brethren, that oftentimes I purposed to come unto thee, (but was let hitherto,) that I might have some fruit among thee also, even as among other Gentiles.
 - our verse: Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, but was let hitherto, that I might have some fruit among you also, even as among other Gentiles.
 
 ### Romans 1:15
 - their reading: **them**
+- their verse: So, as much as in me is, I am ready to preach the gospel to **them** that are at Rome also.
 - our verse: So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.
 
 ### Romans 6:11
 - their reading: **thyselves**
+- their verse: Likewise reckon ye also **thyselves** to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
 - our verse: Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
 
 ### Romans 6:12
 - their reading: **thy**
+- their verse: Let not sin therefore reign in **thy** mortal body, that ye should obey it in the lusts thereof.
 - our verse: Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.
 
 ### Romans 6:13
 - their reading: **thy**
+- their verse: Neither yield ye **thy** members as instruments of unrighteousness unto sin: but yield thyselves unto God, as those that are alive from the dead, and thy members as instruments of righteousness unto God.
 - our verse: Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.
 
 ### Romans 6:13
 - their reading: **thyselves**
+- their verse: Neither yield ye thy members as instruments of unrighteousness unto sin: but yield **thyselves** unto God, as those that are alive from the dead, and thy members as instruments of righteousness unto God.
 - our verse: Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.
 
 ### Romans 6:13
 - their reading: **thy**
+- their verse: Neither yield ye **thy** members as instruments of unrighteousness unto sin: but yield thyselves unto God, as those that are alive from the dead, and thy members as instruments of righteousness unto God.
 - our verse: Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.
 
 ### Romans 6:14
 - their reading: **thee**
+- their verse: For sin shall not have dominion over **thee**: for ye are not under the law, but under grace.
 - our verse: For sin shall not have dominion over you: for ye are not under the law, but under grace.
 
 ### Romans 6:16
 - their reading: **thyselves**
+- their verse: Know ye not, that to whom ye yield **thyselves** servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?
 - our verse: Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?
 
 ### Romans 6:17
 - their reading: **unto thee**
+- their verse: But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered **unto thee**.
 - our verse: But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.
 
 ### Romans 6:18
 - their reading: **set**
+- their verse: Being then **set** free from sin, ye became the servants of righteousness.
 - our verse: Being then made free from sin, ye became the servants of righteousness.
 
 ### Romans 6:19
 - their reading: **thy**
+- their verse: I speak after the manner of men because of the infirmity of **thy** flesh: for as ye have yielded thy members servants to uncleanness and to iniquity unto iniquity; even so now yield thy members servants to righteousness unto holiness.
 - our verse: I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.
 
 ### Romans 6:19
 - their reading: **thy**
+- their verse: I speak after the manner of men because of the infirmity of **thy** flesh: for as ye have yielded thy members servants to uncleanness and to iniquity unto iniquity; even so now yield thy members servants to righteousness unto holiness.
 - our verse: I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.
 
 ### Romans 6:19
 - their reading: **thy**
+- their verse: I speak after the manner of men because of the infirmity of **thy** flesh: for as ye have yielded thy members servants to uncleanness and to iniquity unto iniquity; even so now yield thy members servants to righteousness unto holiness.
 - our verse: I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.
 
 ### Romans 6:22
 - their reading: **set**
+- their verse: But now being **set** free from sin, and become servants to God, ye have thy fruit unto holiness, and the end everlasting life.
 - our verse: But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.
 
 ### Romans 6:22
 - their reading: **thy**
+- their verse: But now being set free from sin, and become servants to God, ye have **thy** fruit unto holiness, and the end everlasting life.
 - our verse: But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.
 
 ## THEY-KEPT-BASE (2)
 
 ### Isaiah 11:7
 - their reading: **X**
+- their verse: And the cow and the bear shall feed; their young ones shall lie down together: **X**
 - our verse: And the child shall play on the hole of the asp,
 
 ### Leviticus 2:7
 - their reading: **pan**
+- their verse: And if thy oblation be a meat offering baken in the **pan**, it shall be made of fine flour with oil.
 - our verse: And if thy oblation be a meat offering cooked in a pot, it shall be made of fine flour with oil.
 
 ## AGREES-WITH-OURS (20)

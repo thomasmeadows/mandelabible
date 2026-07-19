@@ -278,6 +278,8 @@ def report(con):
             "SELECT verse_ref FROM memories WHERE verse_ref IS NOT NULL"):
         mem_refs.add(re.sub(r"\s+", " ", ref).strip().lower())
 
+    their = {(b, c, v): t for b, c, v, t in con.execute(
+        "SELECT book, chapter, verse, text FROM kjvr_verses")}
     rows = con.execute(
         "SELECT book, chapter, verse, phrase FROM kjvr_highlights "
         "ORDER BY book, chapter, verse").fetchall()
@@ -304,7 +306,8 @@ def report(con):
         else:
             status = "DIVERGES"          # their reading differs from ours
         by_status[status].append(
-            (book, ch, vs, phrase, rest_t, mem_hit))
+            (book, ch, vs, phrase, rest_t, mem_hit,
+             their.get((book, ch, vs), "")))
 
     if REPORT.exists():
         old = len(re.findall(r"^\| ", REPORT.read_text(encoding="utf-8"),
@@ -338,12 +341,17 @@ def report(con):
         if not entries:
             continue
         out += [f"## {status} ({len(entries)})", ""]
-        for book, ch, vs, phrase, rest_t, mem_hit in entries:
+        for book, ch, vs, phrase, rest_t, mem_hit, their_t in entries:
             mem = " `MEM`" if mem_hit else ""
             out.append(f"### {book} {ch}:{vs}{mem}")
             out.append(f"- their reading: **{phrase}**")
-            if status in ("DIVERGES", "THEY-KEPT-BASE") and rest_t:
-                out.append(f"- our verse: {rest_t}")
+            if status in ("DIVERGES", "THEY-KEPT-BASE"):
+                if their_t:
+                    out.append(
+                        f"- their verse: "
+                        f"{their_t.replace(phrase, f'**{phrase}**', 1)}")
+                if rest_t:
+                    out.append(f"- our verse: {rest_t}")
             out.append("")
     REPORT.write_text("\n".join(out) + "\n", encoding="utf-8")
     print(f"report: {REPORT.name} — " + ", ".join(
