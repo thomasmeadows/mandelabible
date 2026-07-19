@@ -87,6 +87,6 @@ Anyone can create a github account and open issues.  Please follow the instructi
 
 ### Database
 
-Having the databse is not necessary to contribute, you can contribute to white list or with memories and residuals.  However if you intend to use AI for validation or more research, the database is below
+Having the database is not necessary to contribute, you can contribute to white list or with memories and residuals.  However if you intend to use AI for validation or more research, the database is below
 [current sqlite db](https://github.com/thomasmeadows/mandelabible/tree/38_owner_overrides.py/db)
 The current sqlite db is up to date through 38_owner_overrides.py.  Any other changes may not be applied yet until I up date the db export.  It is on a second branch so it is not under version control and is very large.  You will need 7-zip or another known method to extract a multi file zip.
