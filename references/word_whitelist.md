@@ -6,7 +6,7 @@
 
 ### Reviewed no-safe-swap words (165)
 
-[almond](#almond), [anise](#anise), [ant](#ant), [ants](#ants), [anvil](#anvil), [apes](#apes), [archer](#archer), [ball](#ball), [bastard](#bastard), [bastards](#bastards), [bat](#bat), [bats](#bats), [beans](#beans), [bee](#bee), [behemoth](#behemoth), [cab](#cab), [chalcedony](#chalcedony), [chameleon](#chameleon), [chamois](#chamois), [chrysolite](#chrysolite), [chrysoprasus](#chrysoprasus), [cliff](#cliff), [cockcrowing](#cockcrowing), [cook](#cook), [cooks](#cooks), [cor](#cor), [coral](#coral), [coriander](#coriander), [crane](#crane), [cucumbers](#cucumbers), [cumi](#cumi), [curdled](#curdled), [cursedst](#cursedst), [cymbal](#cymbal), [cypress](#cypress), [dandled](#dandled), [deer](#deer), [delicateness](#delicateness), [distaff](#distaff), [divider](#divider), [dropsy](#dropsy), [ebony](#ebony), [egg](#egg), [eightieth](#eightieth), [evangelist](#evangelist), [executioner](#executioner), [fallowdeer](#fallowdeer), [fathoms](#fathoms), [file](#file), [foameth](#foameth), [foaming](#foaming), [fox](#fox), [freeman](#freeman), [galbanum](#galbanum), [garlick](#garlick), [girdedst](#girdedst), [goad](#goad), [goads](#goads), [goatskins](#goatskins), [grievousness](#grievousness), [hare](#hare), [herdman](#herdman), [heretick](#heretick), [heron](#heron), [hip](#hip), [hornet](#hornet), [hornets](#hornets), [itch](#itch), [itching](#itching), [jacinth](#jacinth), [kettle](#kettle), [kite](#kite), [ladder](#ladder), [lama](#lama), [lapwing](#lapwing), [leeks](#leeks), [lefthanded](#lefthanded), [lizard](#lizard), [lukewarm](#lukewarm), [mallows](#mallows), [mast](#mast), [masts](#masts), [melons](#melons), [mile](#mile), [millet](#millet), [mint](#mint), [mite](#mite), [mites](#mites), [mole](#mole), [moles](#moles), [mouse](#mouse), [murmurers](#murmurers), [naves](#naves), [needle](#needle), [needle's](#needle-s), [neighing](#neighing), [neighings](#neighings), [newness](#newness), [nitre](#nitre), [non](#non), [nuts](#nuts), [oar](#oar), [oars](#oars), [onions](#onions), [onycha](#onycha), [ospray](#ospray), [ostrich](#ostrich), [ostriches](#ostriches), [overshadow](#overshadow), [overtaken](#overtaken), [pale](#pale), [panted](#panted), [paper](#paper), [parchments](#parchments), [parties](#parties), [partridge](#partridge), [patriarch](#patriarch), [patriarchs](#patriarchs), [peacemakers](#peacemakers), [pearl](#pearl), [persuasion](#persuasion), [pestle](#pestle), [phylacteries](#phylacteries), [planes](#planes), [plough](#plough), [poets](#poets), [poplar](#poplar), [poplars](#poplars), [rainbow](#rainbow), [rainy](#rainy), [redness](#redness), [regeneration](#regeneration), [rewarder](#rewarder), [ridden](#ridden), [rudder](#rudder), [rue](#rue), [sabachthani](#sabachthani), [saffron](#saffron), [sardine](#sardine), [sardonyx](#sardonyx), [scorpion](#scorpion), [scrabbled](#scrabbled), [scurvy](#scurvy), [seam](#seam), [shipwreck](#shipwreck), [shittah](#shittah), [shovel](#shovel), [shuttle](#shuttle), [soap](#soap), [spindle](#spindle), [spokes](#spokes), [swan](#swan), [tackling](#tackling), [taverns](#taverns), [tenor](#tenor), [tentmakers](#tentmakers), [theft](#theft), [thicker](#thicker), [thirdly](#thirdly), [threefold](#threefold), [venture](#venture), [watcher](#watcher), [watchers](#watchers), [weasel](#weasel), [wrinkle](#wrinkle)
+[almond](#almond), [anise](#anise), [ant](#ant), [ants](#ants), [anvil](#anvil), [apes](#apes), [archer](#archer), [asp](#asp), [ball](#ball), [bastard](#bastard), [bastards](#bastards), [bat](#bat), [bats](#bats), [beans](#beans), [bee](#bee), [behemoth](#behemoth), [cab](#cab), [chalcedony](#chalcedony), [chameleon](#chameleon), [chamois](#chamois), [chrysolite](#chrysolite), [chrysoprasus](#chrysoprasus), [cliff](#cliff), [cockcrowing](#cockcrowing), [cook](#cook), [cooks](#cooks), [cor](#cor), [coral](#coral), [coriander](#coriander), [crane](#crane), [cucumbers](#cucumbers), [cumi](#cumi), [curdled](#curdled), [cursedst](#cursedst), [cymbal](#cymbal), [cypress](#cypress), [dandled](#dandled), [deer](#deer), [delicateness](#delicateness), [distaff](#distaff), [divider](#divider), [dropsy](#dropsy), [ebony](#ebony), [egg](#egg), [eightieth](#eightieth), [evangelist](#evangelist), [executioner](#executioner), [fallowdeer](#fallowdeer), [fathoms](#fathoms), [file](#file), [foameth](#foameth), [foaming](#foaming), [fox](#fox), [freeman](#freeman), [galbanum](#galbanum), [garlick](#garlick), [girdedst](#girdedst), [goad](#goad), [goads](#goads), [goatskins](#goatskins), [grievousness](#grievousness), [hare](#hare), [herdman](#herdman), [heretick](#heretick), [heron](#heron), [hip](#hip), [hornet](#hornet), [hornets](#hornets), [itch](#itch), [itching](#itching), [jacinth](#jacinth), [kettle](#kettle), [kite](#kite), [ladder](#ladder), [lama](#lama), [lapwing](#lapwing), [leeks](#leeks), [lefthanded](#lefthanded), [lizard](#lizard), [lukewarm](#lukewarm), [mallows](#mallows), [mast](#mast), [masts](#masts), [melons](#melons), [mile](#mile), [millet](#millet), [mint](#mint), [mite](#mite), [mites](#mites), [mole](#mole), [moles](#moles), [mouse](#mouse), [murmurers](#murmurers), [naves](#naves), [needle](#needle), [needle's](#needle-s), [neighing](#neighing), [neighings](#neighings), [newness](#newness), [nitre](#nitre), [non](#non), [nuts](#nuts), [oar](#oar), [oars](#oars), [onions](#onions), [onycha](#onycha), [ospray](#ospray), [ostrich](#ostrich), [ostriches](#ostriches), [overshadow](#overshadow), [overtaken](#overtaken), [pale](#pale), [panted](#panted), [paper](#paper), [parchments](#parchments), [parties](#parties), [partridge](#partridge), [patriarch](#patriarch), [patriarchs](#patriarchs), [peacemakers](#peacemakers), [pearl](#pearl), [persuasion](#persuasion), [pestle](#pestle), [phylacteries](#phylacteries), [planes](#planes), [plough](#plough), [poets](#poets), [poplar](#poplar), [poplars](#poplars), [rainbow](#rainbow), [rainy](#rainy), [redness](#redness), [regeneration](#regeneration), [rewarder](#rewarder), [ridden](#ridden), [rudder](#rudder), [rue](#rue), [sabachthani](#sabachthani), [saffron](#saffron), [sardine](#sardine), [sardonyx](#sardonyx), [scorpion](#scorpion), [scrabbled](#scrabbled), [scurvy](#scurvy), [seam](#seam), [shipwreck](#shipwreck), [shittah](#shittah), [shovel](#shovel), [shuttle](#shuttle), [soap](#soap), [spindle](#spindle), [spokes](#spokes), [swan](#swan), [tackling](#tackling), [taverns](#taverns), [tenor](#tenor), [tentmakers](#tentmakers), [theft](#theft), [thicker](#thicker), [thirdly](#thirdly), [threefold](#threefold), [venture](#venture), [watcher](#watcher), [watchers](#watchers), [weasel](#weasel), [wrinkle](#wrinkle)
 
 ### Proper names and places (3602)
 
@@ -39,6 +39,9 @@ aaron, aaron's, aaronites, abaddon, abagtha, abana, abarim, abba, abda, abdeel, 
 ### archer
 - Genesis 21:20: CUR's "became an bow" is nonsensical (a person cannot become an implement) and also has a bad article. BBE's "bowman" is the only external candidate, but it has zero occurrences in the KJV corpus (only "bowmen," once, at 2 Chronicles 35:23) and would itself become a new rare word under rule 4. No other witness offers an alternative.
 - Jeremiah 51:3: CUR's "let the bow bend his bow" is nonsensical (an implement cannot bend itself). No witness offers a corpus-attested synonym for the person who shoots — Geneva's "bender" and YLT's "treader" both have zero KJV-corpus occurrences, and "bowman/bowmen" is likewise nearly unattested (see Genesis 21:20 above).
+
+### asp
+- Owner added 7/18/26 - Another word for snake, it is rare but accurate and even appears in the famous Lion and a Lamb verse.
 
 ### ball
 - Isaiah 22:18: CUR's "toss thee like a thee" is a broken duplication. No witness offers an alternative name for the round object of the simile — all thirteen retain "ball." No safe replacement is available without either inventing a word or dropping the simile's descriptive content.
@@ -564,4 +567,110 @@ aaron, aaron's, aaronites, abaddon, abagtha, abana, abarim, abba, abda, abdeel, 
 ### Proper names and places rationale
 
 Names of people and places are transliterations of Hebrew/Greek names, not English vocabulary — rarity and era-attestation checks do not apply, so they are never altered by word replacement. Spelling changes belong exclusively to the original-language name-retranslation workstream (roadmap Decision Log #8).
+
+### Round-2 reviewed words (31)
+
+*Folded by `scripts/42_apply_round2.py` from the owner-approved `rare_word_witness_batches_2/round2_whitelist_and_no_safe_swap.md` (owner directive 2026-07-18). Includes both WHITELIST and NO-SAFE-SWAP verdicts; whitelist arguments do not rest on the KJV self-certifying.*
+
+[alert](#round2-alert), [archangel](#round2-archangel), [awl](#round2-awl), [axles](#round2-axles), [backbitings](#round2-backbitings), [battering](#round2-battering), [breed](#round2-breed), [breedeth](#round2-breedeth), [broom](#round2-broom), [brows](#round2-brows), [chapmen](#round2-chapmen), [chip](#round2-chip), [citron](#round2-citron), [cricket](#round2-cricket), [deformed](#round2-deformed), [fearless](#round2-fearless), [gaped](#round2-gaped), [harrows](#round2-harrows), [leach](#round2-leach), [numerous](#round2-numerous), [rims](#round2-rims), [rugged](#round2-rugged), [sea-mew](#round2-sea-mew), [sorceress](#round2-sorceress), [spade](#round2-spade), [spider's](#round2-spider-s), [sponge](#round2-sponge), [spunge](#round2-spunge), [wantonness](#round2-wantonness), [witch](#round2-witch), [woodsman](#round2-woodsman)
+
+#### <a name="round2-alert"></a>alert
+- Genesis 1:26 (WHITELIST): This reading was already the subject of an owner-approved memory restoration (see agent memory: Genesis 1:26 "alert" as one of the memory-testimony readings the project has already ruled on, alongside "rugged," "fearless and daring," and "swift"). Per the Premise Revision, corroborated memory outranks corpus advisory evidence and cannot be undone by a statistical rarity flag alone.
+
+#### <a name="round2-archangel"></a>archangel
+- I Thessalonians 4:16 (WHITELIST): "Archangel" names a specific rank — a chief or prince among angels (the figure of Michael) — distinct from an ordinary angel. No common corpus word carries that rank distinction without loss; substituting bare "angel" would flatten a real hierarchical referent the verse is naming.
+- Jude 1:9 (WHITELIST): Same specific-referent argument as I Thessalonians 4:16 — here naming Michael by his particular rank in a context (disputing with the devil over Moses's body) where that rank is thematically significant.
+
+#### <a name="round2-awl"></a>awl
+- Exodus 21:6 (WHITELIST): "Awl" names one specific tool with a specific ritual function (piercing a bondservant's ear at the doorpost as a sign of lifelong service). No common corpus word names this implement without paraphrase, and the ritual specificity of the act (ear + door/doorpost + awl) is part of what the verse is describing.
+- Deuteronomy 15:17 (WHITELIST): Same unique-tool argument as Exodus 21:6 — this is the parallel law restating the same ear-piercing ritual, so the two occurrences of "awl" should be ruled consistently.
+
+#### <a name="round2-axles"></a>axles
+- I Kings 7:32 (WHITELIST): "Axles" names one specific mechanical part of the bronze laver-stands' wheel-assembly, in a verse that already separately lists "wheels," "naves," "rims," and "spokes" as distinct parts. There is no remaining common word left to name the axle itself without collapsing two distinct described parts into one.
+- I Kings 7:33 (WHITELIST): Same technical-description argument as I Kings 7:32; this verse lists "axles, naves, rims, and spokes" together as the distinct cast parts of a chariot wheel.
+
+#### <a name="round2-backbitings"></a>backbitings
+- II Corinthians 12:20 (WHITELIST): This is a case where the corpus's own text already supplies the intended common-word form ("evil speakings") standing beside "backbitings" in the same list; the two are near-synonyms already glossing each other in context, so the rare word functions as intensifying variety within a deliberately long list of near-synonymous vices (debates, envyings, wraths, strifes...), a rhetorical pattern (a "heaping up" list) that period usage favors.
+
+#### <a name="round2-battering"></a>battering
+- Ezekiel 4:2 (WHITELIST): "Battering rams" names one specific siege engine, a real object of the ancient Near Eastern world (attested in Assyrian and Babylonian siege warfare, the plain historical setting of this Ezekiel oracle against Jerusalem). No common corpus word names this device without paraphrase, and the specificity of the engine is part of what the prophecy is describing (a real siege, not a generic attack).
+- Ezekiel 21:22 (WHITELIST): Same siege-engine argument as Ezekiel 4:2, and this verse independently repeats "battering rams" twice within itself, underscoring that the term is doing specific technical work rather than incidental vocabulary.
+
+#### <a name="round2-breed"></a>breed
+- Leviticus 19:19 (NO-SAFE-SWAP): no common corpus word (≥5 hits) precisely covers "cause livestock of different kinds to mate" without either being absent (gender/engender) or misapplied (conceive implies female gestation, not general mating); leaving "breed" stands pending a better-attested option.
+
+#### <a name="round2-breedeth"></a>breedeth
+- Job 21:10 (NO-SAFE-SWAP): the verse pairs two distinct verbs (ox begets / cow calves); the only common substitute available ("bringeth forth") is already spoken for by the second clause, so swapping it in for "breedeth" would flatten a meaningful parallel rather than preserve it.
+
+#### <a name="round2-broom"></a>broom
+- Isaiah 14:23 (NO-SAFE-SWAP): no corpus-common noun (≥5 hits) names a hand-broom distinctly from the verb "sweep," which is itself too rare and already occupied in this clause; leaving "broom" stands pending a better-attested option.
+
+#### <a name="round2-brows"></a>brows
+- Leviticus 14:9 (NO-SAFE-SWAP): the verse's force depends on naming the eyebrows specifically alongside head and beard before restating "all his hair"; no attested common word preserves that specific anatomical sense, so leaving "brows" stands pending a better-attested option.
+
+#### <a name="round2-chapmen"></a>chapmen
+- Isaiah 23:8 (NO-SAFE-SWAP): the verse names two distinct classes of trader in parallel ("merchants... chapmen"); no attested common word besides "merchants" itself (already spoken for) names a trader/dealer, so leaving "chapmen" stands pending a better-attested option.
+
+#### <a name="round2-chip"></a>chip
+- Hosea 10:7 (NO-SAFE-SWAP): no corpus-common word (≥5 hits) names the specific image of a small floating fragment or foam carried off on water's surface; leaving "chip" stands pending a better-attested option.
+
+#### <a name="round2-citron"></a>citron
+- Revelation of John 18:12 (WHITELIST): this verse is a list of specific luxury-trade materials (gold, silver, ivory, marble, etc.), and "citron wood" (like Wycliffe/DRC's "thyine wood") names one particular aromatic timber species from that trade — a real and specific referent, not a generic descriptor. The corpus's only common alternative, "sweet," is already applied to a different item in the same list ("sweet... smelling," Song of Solomon usage) and would flatten a specific named commodity into a vague adjective, losing exactly the kind of concrete detail this catalogue of Roman luxury goods depends on.
+
+#### <a name="round2-cricket"></a>cricket
+- Leviticus 11:22 (NO-SAFE-SWAP): The verse already uses "locust" and "grasshopper" for two of its four insect kinds, so those words cannot be reused (rule 12 duplicate concern) as replacements for the third; "beetle" and "palmerworm" (3 hits) are the only witnessed alternatives and both remain below the reliability threshold. No common-corpus word names a fourth distinct insect kind without collision or excessive rarity, so this is left unswapped for owner review.
+
+#### <a name="round2-deformed"></a>deformed
+- Leviticus 21:18 (NO-SAFE-SWAP): "Blemish" is already used earlier in the same verse and cannot double as the replacement (rule 12); "crooked" (14, well-attested) narrows the general catch-all sense of "any thing deformed" to a single specific defect (a bent body part), which would change what the verse covers; "misshapen"/"unnatural" both scored 0. No safe, meaning-preserving, well-attested candidate was found.
+
+#### <a name="round2-fearless"></a>fearless
+- Genesis 1:26 (WHITELIST): This verse's wording ("more numerous... rugged as the mountains, fearless and daring as the lion, alert as the fox, swift as the eagle") is recorded in the project's remembered-verses testimony as an owner-approved restoration, not an artifact of any translation corpus — none of the thirteen witnesses above contain this phrasing at all, because it is memory testimony, not a corpus reading. Per the evidence hierarchy, corroborated memory outranks and cannot be overridden by advisory texts, so "fearless" (and its companion rare words "alert," "rugged," "daring" elsewhere in this verse) must not be swapped out on textual grounds.
+
+#### <a name="round2-gaped"></a>gaped
+- II Kings 4:35 (NO-SAFE-SWAP): The physical referent (the child's spasmodic sneezing, signalling the return of breath) has no attested common-word carrier anywhere in this corpus. Forcing an unattested word in as a "fix" would only trade one rarity for another; this should go to owner review rather than be silently swapped.
+
+#### <a name="round2-harrows"></a>harrows
+- I Samuel 13:21 (NO-SAFE-SWAP): Every specific iron-tool noun in this verse's list (harrows, forks, coulters, mattocks) is either the flagged rare word itself or equally unattested elsewhere in the corpus, so no swap clears the common-word bar without inventing a new rarity in its place. This is a case for owner review rather than a forced substitution.
+
+#### <a name="round2-leach"></a>leach
+- Proverbs 30:15 (WHITELIST): The word names a specific, distinct creature (the parasitic leech/horseleech of proverbial greed) exactly as almond, anvil, and ant were whitelisted in round one — no common corpus word (worm, serpent, viper) carries that referent without loss. If any change is wanted, it should be limited to correcting the spelling "leach" to the standard modern spelling "leech" (a spelling normalization, not a word substitution), since neither spelling is otherwise attested in this corpus.
+
+#### <a name="round2-numerous"></a>numerous
+- Genesis 1:26 (WHITELIST): Per Decision Log #6, this verse's distinctive vocabulary ("alert as the fox," etc.) entered the restored text via an owner-approved memory restoration; the exact wording is testimony, not ordinary translation, and memory leads over any corpus-frequency argument. Undoing "numerous" here would mean overwriting a memory-anchored reading on statistical grounds alone, which the evidence hierarchy forbids.
+
+#### <a name="round2-rims"></a>rims
+- I Kings 7:33 (NO-SAFE-SWAP): "rims"/"felloes"/"borders"/"edges" are all either unattested or (in the case of "borders") name a different architectural referent elsewhere in this same chapter (the layers' bases), so substituting it here would create confusion rather than resolve it. Recommend leaving "rims" in place pending owner guidance, since no well-attested common word carries this precise technical sense (the outer wheel-rim, as opposed to axle, spoke, or nave, all named separately in the same verse).
+
+#### <a name="round2-rugged"></a>rugged
+- Genesis 1:26 (WHITELIST): This verse's entire back half ("He shall be more numerous than the birds... as rugged as the mountains, as fearless and daring as the lion, as alert as the fox and as swift as the eagle") is part of an owner-approved memory restoration (see Decision Log discussion of Genesis 1:26 "alert," etc.) — the exact wording is testimony, not ordinary corpus text, and memory leads over corpus statistics per the Premise Revision. Swapping "rugged" for a commoner word would overwrite recovered memory content rather than fix a corruption artifact.
+
+#### <a name="round2-sea-mew"></a>sea-mew
+- Leviticus 11:16 (NO-SAFE-SWAP): no corpus word for this specific unclean-bird referent clears the attestation bar without collapsing into a bird already listed in the verse (hawk, owl). Flag for owner review rather than force a swap.
+- Deuteronomy 14:15 (NO-SAFE-SWAP): identical list-of-unclean-birds construction as Lev 11:16; no common corpus bird name carries this distinct referent.
+
+#### <a name="round2-sorceress"></a>sorceress
+- Exodus 22:18 (NO-SAFE-SWAP): swapping to "sorcerer" would quietly change who is being named (a meaning change, not a wording change), which the instructions caution against; no attested feminine-specific common word clears the bar, so this is flagged for owner review rather than forced.
+
+#### <a name="round2-spade"></a>spade
+- I Samuel 13:20 (NO-SAFE-SWAP): every candidate digging-tool word for this distinct referent sits at or near zero in the corpus; no safe swap exists without inventing a new rare word in its place.
+- Isaiah 7:25 (NO-SAFE-SWAP): same tool-name scarcity as above; flag for owner review.
+
+#### <a name="round2-spider-s"></a>spider's
+- Isaiah 59:5 (WHITELIST): "spider" and its possessive names one specific, biologically distinct creature that no other common corpus word can carry — the same category as round-1's almond/anvil/ant. Any substitute (worm, insect) would misname the animal outright rather than merely use a less period-perfect synonym.
+
+#### <a name="round2-sponge"></a>sponge
+- John 19:29 (WHITELIST): a sponge is a specific, unique object (a sea-creature's skeleton used as an absorbent) with no common synonym in Early Modern English; this is the same class of irreplaceable-referent word as almond/anvil/ant.
+
+#### <a name="round2-spunge"></a>spunge
+- Matthew 27:48 (WHITELIST): same unique-referent argument as sponge/John 19:29.
+- Mark 15:36 (WHITELIST): same unique-referent argument.
+
+#### <a name="round2-wantonness"></a>wantonness
+- Genesis 49:6 (NO-SAFE-SWAP): "Wantonness" is a hapax here; every witness converges on "self-will" as the referent (willful destructiveness), but that exact compound is itself unattested elsewhere in the corpus, so no swap clears the ≥5 bar cleanly. Given no common single word captures this sense without loss, I recommend NO-SAFE-SWAP and flag "self-will" as the best candidate should the bar be relaxed for compounds attested near-unanimously across witnesses.
+
+#### <a name="round2-witch"></a>witch
+- Isaiah 57:3 (NO-SAFE-SWAP): No common (≥5) corpus word names a female practitioner of divination distinct from a male "sorcerer" or plural "sorcerers." Using the male form would erase a referent distinction the verse's parallelism appears to depend on, so I recommend NO-SAFE-SWAP over a gender-incorrect common swap, while naming "sorceress" as the best (if under-attested) fallback.
+
+#### <a name="round2-woodsman"></a>woodsman
+- Isaiah 14:8 (NO-SAFE-SWAP): Both candidate trade-nouns for "tree-feller" ("hewer," "feller") are wholly unattested in this corpus, so no swap clears the attestation bar. I recommend NO-SAFE-SWAP and name "hewer" as the best (near-unanimous witness) fallback rather than force in an unrelated common word that would lose the specific referent (one who cuts timber).
 
