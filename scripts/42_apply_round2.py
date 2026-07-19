@@ -202,23 +202,31 @@ def apply_replacements():
              STANDARD_NOTE, 0.7, "approved"))
         applied += 1
 
-    # Repair-by-supersession (scripts 37/38 pattern): Acts 19:9's round-1
-    # rows carry a stray "(unchanged) " prefix baked into the verse text —
-    # a batch artifact, not verse content. Strip it in a new approved row;
-    # the defective rows are kept, never deleted.
-    for vid in [v for v, t in base.items() if t.startswith("(unchanged) ")]:
-        fixed = base[vid][len("(unchanged) "):]
+    # Repair-by-supersession (scripts 37/38 pattern): defective round-1
+    # artifacts baked into verse text, kept but superseded, never deleted:
+    #   - Acts 19:9: stray "(unchanged) " prefix (batch artifact);
+    #   - John 11:16: the rare-word swap deleted "fellow" out of the TSBC
+    #     reading "fellow-disciples", leaving a dangling "his -disciples"
+    #     (found 2026-07-19 by the residue proposal pass; the residue scan
+    #     independently corroborates "fellow disciples").
+    def repair(t):
+        return (t.removeprefix("(unchanged) ")
+                .replace("unto his -disciples", "unto his fellow-disciples"))
+
+    for vid in [v for v, t in base.items() if t != repair(t)]:
+        fixed = repair(base[vid])
         con.execute(
             "INSERT INTO restorations (verse_id, flaw_type, current_text, "
             "proposed_text, rationale, evidence, confidence, status) "
             "VALUES (?,?,?,?,?,?,?,?)",
             (vid, "rare_word_swap2", base[vid], fixed,
-             "Mechanical artifact repair: stray '(unchanged) ' prefix from a "
-             "round-1 batch entry stripped; wording otherwise untouched.",
+             "Mechanical artifact repair (round-1 defects, superseded not "
+             "deleted): stray '(unchanged) ' prefix stripped / dangling "
+             "'his -disciples' restored to the TSBC reading "
+             "'fellow-disciples'; wording otherwise untouched.",
              STANDARD_NOTE, 0.95, "approved"))
         applied += 1
-        print(f"artifact repair: verse_id {vid} '(unchanged) ' prefix "
-              f"stripped")
+        print(f"artifact repair: verse_id {vid}")
     con.commit()
     con.close()
 
