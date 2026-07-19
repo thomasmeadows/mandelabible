@@ -36,8 +36,8 @@
 - CURRENT: And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
 - RESIDUE: "...did test Abraham, and said unto him, Abraham, and he said, Behold, here I am." Behold, see me, I am here ready for any service Thou hast for [me]...
 - assessment: KJV.db itself reads "tempt," matching CURRENT exactly — "test" is not corroborated by the project's own base text or any local witness (Geneva/Tyndale/Wycliffe all use tempt-family readings for this verse), so this looks like a modern-translation gloss (NIV/NASB/ESV all render "test") bleeding into a devotional retelling, not residue of an older reading. The trailing "Behold, see me...ready for any service" is likewise expansive paraphrase/dramatization, not textual.
-- SUGGESTED: And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
-- recommendation: KEEP-CURRENT — "test" is a modern-version reading, not corroborated by KJV.db or period witnesses; paraphrase, not residue.
+- SUGGESTED: And it came to pass after these things, that God tried Abraham, and said unto him, Abraham: and he said, Behold, here I am.
+- recommendation: BLEND — Owner decision 7/19/26 - A trial is what god put Abraham through, other translations used tried.  "tempt" is out of context also, as tempt implies it was something Abraham wanted to do.  AI - "test" is an uncorroborated modern-version reading (confirmed twice now across two independent scans of this verse); footnote markers and chapter heading are apparatus, not text.
 
 ## Matthew 6:9 — `15_104488241_154873396156079_2980528828283312809_n.jpg`
 - CURRENT: After this manner therefore pray ye: Our Father Who art in heaven, Hallowed be Thy Name.
@@ -92,8 +92,8 @@
 - CURRENT: Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
 - RESIDUE: "I am the way, the truth and the life. No man comes to the Father except through me."
 - assessment: OCR context is explicitly a 2015 devotional blog post ("Devotional Thoughts: Have you ever used a GPS?...Jesus is our GPS in life") deliberately modernizing the verse's grammar ("comes"/"except through" for "cometh"/"but by"). This is contemporary paraphrase for a lay audience, not residue of an older reading, and the modernized verbs are themselves anachronistic for 1611 register.
-- SUGGESTED: Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
-- recommendation: KEEP-CURRENT — modern devotional paraphrase, not period residue.
+- SUGGESTED: I am the way, the truth and the life. No man comes to the Father except through me.
+- recommendation: BLEND — Owner Override 7/19/26 - Authentic Memory. AI - modern devotional paraphrase, not period residue.
 
 ## Matthew 8:28 — `119_matthew_8_28_res1.png`
 - CURRENT: And when He was come to the other side into the country of the Gergesenes, there met Him two possessed with demons, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
@@ -107,7 +107,7 @@
 - RESIDUE: They found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions. — Luke II:46
 - assessment: This is a captioned illustration (engraving credit line included), so the dropped opening clause is simply caption brevity, not textual. "Doctors" vs "teachers" is a real word-level difference, and KJV.db itself reads "doctors" — matching the residue and the period witnesses, not CURRENT's "teachers." This is a single-word swap but one that agrees with the project's own base text.
 - SUGGESTED: And it came to pass that after three days they found Him in the temple, sitting in the midst of the doctors, both hearing them and asking them questions.
-- recommendation: BLEND — adopt "doctors" (matches KJV.db and period usage; "teachers" is the modernizing substitution), keep the rest of CURRENT.
+- recommendation: KEEP-CURRENT — Owner override 7/19/26 - Doctors is too modern and appears too seldom, teacher or instrustors are more common AI - adopt "doctors" (matches KJV.db and period usage; "teachers" is the modernizing substitution), keep the rest of CURRENT.
 
 ## Matthew 6:9 — `105_matthew_6_19_phil.png`
 - CURRENT: After this manner therefore pray ye: Our Father Who art in heaven, Hallowed be Thy Name.
@@ -198,7 +198,7 @@
 - RESIDUE: "Numbers 23:22 (KJV) God bringeth them out of Egypt; he hath as it were the strength of an unicorn." (a Thanksgiving-sermon newspaper report, explicitly labeled "(KJV)" and citing vv.19–24 in full beforehand)
 - assessment: **Notable finding**: the source explicitly self-identifies as quoting the "(KJV)," and KJV.db's own text of this verse reads "an unicorn" — not "a wild ox" — matching the residue exactly (Geneva1599 agrees: "an vnicorne"). "Wild ox" is the modern (NIV/ESV/etc.) rendering of the Hebrew re'em; "unicorn" is the well-attested, longstanding 1611 Authorized Version reading (also at Num. 24:8, Deut. 33:17, Job 39:9-10, Ps. 22:21, 29:6, 92:10, Isa. 34:7). This is not merely a plausible residue — it is a verbatim match to the project's own base text and a period witness, and CURRENT's "wild ox" appears to be an unexplained departure from both. (Axis-2 note, advisory only: the referent "unicorn" as a real single-horned beast is itself a source-era anachronism/mistranslation of re'em, an aurochs/wild-ox-type animal — but that is a translation-accuracy question separate from what CURRENT vs. residue should read, since "unicorn" is what the actual 1611 English said.)
 - SUGGESTED: God brought them out of Egypt; he hath as it were the strength of an unicorn.
-- recommendation: ADOPT-RESIDUE — "unicorn" is the KJV.db and Geneva1599 reading, explicitly self-labeled "(KJV)" in the residue source itself; CURRENT's "wild ox" is the outlier here, not the residue.
+- recommendation: KEEP-CURRENT — owner-override 7/19/26.  This was already fixed based on memory, unicorn is a nonsensical mythical beast and does not belong in the bible.  AI — "unicorn" is the KJV.db and Geneva1599 reading, explicitly self-labeled "(KJV)" in the residue source itself; CURRENT's "wild ox" is the outlier here, not the residue.
 
 ## John 15:22 — `86_john_15_22_res2.png`
 - CURRENT: If I had not come and spoken unto them, they had not had sin: but now they have no covering for their sin.
@@ -225,8 +225,8 @@
 - CURRENT: And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
 - RESIDUE: "CHAPTER 22. AND it came to pass after these things, that God [a] did [b] test Abraham, and said unto him, Abraham: and he said, Behold, here I am. [2] And he said, Take now thy son..."
 - assessment: This is clearly a footnoted study-Bible page (chapter heading "CHAPTER 22" plus superscript cross-reference letters a/b/c/d bleeding into the OCR, e.g. before "Isaac" and "Moriah"). As with `117_genesis_22_1_res4.png` above, "test" is not corroborated by KJV.db (which reads "tempt," matching CURRENT) or any local period witness; the bracketed "a"/"b" markers are footnote anchors, not part of the running text, and "CHAPTER 22" is a section heading, not verse content.
-- SUGGESTED: And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
-- recommendation: KEEP-CURRENT — "test" is an uncorroborated modern-version reading (confirmed twice now across two independent scans of this verse); footnote markers and chapter heading are apparatus, not text.
+- SUGGESTED: And it came to pass after these things, that God tried Abraham, and said unto him, Abraham: and he said, Behold, here I am.
+- recommendation: BLEND — Owner decision 7/19/26 - A trial is what god put Abraham through, other translations used tried.  "tempt" is out of context also, as tempt implies it was something Abraham wanted to do.  AI - "test" is an uncorroborated modern-version reading (confirmed twice now across two independent scans of this verse); footnote markers and chapter heading are apparatus, not text.
 
 ---
 

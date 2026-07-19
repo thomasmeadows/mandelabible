@@ -106,15 +106,15 @@ despite the "ATTRIBUTED" flag — see entries 25–31 below.
 - CURRENT: And God saw their works, that they turned from their evil way; and God repented of the evil which He had said that he would do upon them; and He did it not.
 - RESIDUE: And God saw their works, that they turned from their evil way; and God relented of the evil which He had said that He would inflict upon them; and He did it not.
 - assessment: Two synonym substitutions (repented→relented; do→inflict), each individually a bandaid-level swap. "Relented" is theologically softer than "repented" (avoiding the odd anthropomorphism of God "repenting"), and "inflict" is more vivid/specific than "do" — both readable as later stylistic smoothing rather than a restored original. Not drastic restructuring, memories: 0.
-- SUGGESTED: And God saw their works, that they turned from their evil way; and God repented of the evil which He had said that he would do upon them; and He did it not.
-- recommendation: KEEP-CURRENT — two word-level synonym swaps, no memory alignment, reads as later paraphrase smoothing rather than restoration.
+- SUGGESTED: And God saw their works, that they turned from their evil way; and God relented of the plagues which He had said that He would inflict upon them; and He did it not.
+- recommendation: BLEND - Owner Override 7/19/26 - God does not commit evil, and he can't repeant cause he does not commit evil.  AI — two word-level synonym swaps, no memory alignment, reads as later paraphrase smoothing rather than restoration.
 
 ## Psalms 119:83 — `109_psalms_119_83_res1.png`
 - CURRENT: For I am become like a wineskin in the smoke; yet do I not forget thy statutes.
 - RESIDUE: For I am become like a bottle in the smoke; yet do I not forget thy statutes.
 - assessment: This is the project's own canonical bottles/wineskins ambiguity (Decision Log #4's worked example, there anchored at Matthew 9:17). "Bottle" is Axis 1 period (attested throughout Tyndale/Geneva/AV) and Early Modern "bottle" routinely denoted a skin vessel, so the two words may not even differ in *referent* here — a smoke-cured skin bottle is exactly what a leather wineskin is. The project's own restored text already chose "wineskin" for the parallel Matthew 9:17 case per that Decision Log entry; this verse should be handled the same way for consistency. memories: 0, so no memory tie-breaker either direction.
-- SUGGESTED: For I am become like a bottle in the smoke; yet do I not forget thy statutes.
-- recommendation: BLEND — recommend flagging for owner review alongside the Matthew 9:17 precedent rather than a flat KEEP or ADOPT: whichever word (bottle/wineskin) the owner settles on as the project convention for skin-vessel referents should apply here too for internal consistency.
+- SUGGESTED: For I am become like a vessel in the smoke; yet do I not forget thy statutes.
+- recommendation: BLEND — Owner Override 7/19/26 - While whineskins overrides bottles because bottles were an item only used by the wealthy, a vessel or clay jar is more accurate in this context.  AI - recommend flagging for owner review alongside the Matthew 9:17 precedent rather than a flat KEEP or ADOPT: whichever word (bottle/wineskin) the owner settles on as the project convention for skin-vessel referents should apply here too for internal consistency.
 
 ## John 21:18 — `93_john_21_18_res1.png`
 - CURRENT: Verily, verily, I say unto thee, When thou wast young, thou girded thyself, and wentest whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
@@ -127,8 +127,8 @@ despite the "ATTRIBUTED" flag — see entries 25–31 below.
 - CURRENT: And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
 - RESIDUE: And it came to pass after these things, that God did test Abraham, and said unto him, Abraham: and he said, Behold, here I am.
 - assessment: "Tempt" (from Latin temptare, "to test/try") is the genuine, long-attested Early Modern English word for this sense — Tyndale, Geneva, and the AV all use "tempt" here, and this is in fact the well-known real 1611 reading. "Test" is the familiar modern paraphrase (widely used in NIV etc.) reflecting today's narrower sense of "tempt" as "entice to sin." Single-word swap, and the modern word is the one out of period here, not the current text.
-- SUGGESTED: And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
-- recommendation: KEEP-CURRENT — "tempt" is the authentic period word (Axis 1 period, well attested); "test" is the modern gloss, not KJV residue.
+- SUGGESTED: And it came to pass after these things, that God tried Abraham, and said unto him, Abraham: and he said, Behold, here I am.
+- recommendation: BLEND — Owner decision 7/19/26 - A trial is what god put Abraham through, other translations used tried.  "tempt" is out of context also, as tempt implies it was something Abraham wanted to do.  AI - "test" is an uncorroborated modern-version reading (confirmed twice now across two independent scans of this verse); footnote markers and chapter heading are apparatus, not text.
 
 ## Hebrews 6:6 — `141_hebrews_6_6_treatise_p192.png`
 - CURRENT: If they should fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God again, and put him to an open shame.
@@ -141,8 +141,8 @@ despite the "ATTRIBUTED" flag — see entries 25–31 below.
 - CURRENT: Verily, verily, I say unto you, Except a grain of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
 - RESIDUE: Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
 - assessment: This is a genuine historical Early Modern English usage, not a modern variant: in 1611 English "corn" was the general word for a kernel/grain (as in "corn of wheat," "peppercorn," "barleycorn" — the narrower "maize" sense is later and mostly American). The real Authorized Version text at John 12:24 does in fact read "corn of wheat," not "grain of wheat." "Grain" is the modern paraphrase-register substitution. This is a strong case: attested period word, plausibly the true pre-corruption reading, single-word but high-confidence.
-- SUGGESTED: Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
-- recommendation: ADOPT-RESIDUE — "corn" is the authentic 1611 word for a wheat kernel and matches genuine period usage; "grain" in the current restored text is the more modern-sounding substitute. Recommend owner review with high confidence despite this being nominally a "single-word" change.
+- SUGGESTED: Verily, verily, I say unto you, Except a grain of corn fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
+- recommendation: ADOPT-RESIDUE — Owner-override 7/16/26 - swap the word order, it should be grain of corn, not grain of wheat or corn of wheat. AI -"corn" is the authentic 1611 word for a wheat kernel and matches genuine period usage; "grain" in the current restored text is the more modern-sounding substitute. Recommend owner review with high confidence despite this being nominally a "single-word" change.
 
 ## Luke 8:27 — `142_luke_8_27_wfg_p123.png`
 - CURRENT: And when He went forth to land, there met Him out of the city, a certain man, which had demons a long time, and ware no clothes, neither abode in any house, but in the tombs;
@@ -176,8 +176,8 @@ despite the "ATTRIBUTED" flag — see entries 25–31 below.
 - CURRENT: And I will put enmity between thee and the woman, and between thy seed and her seed; he shall crush thy head, and thou shalt bruise his heel.
 - RESIDUE: And I will put enmity between you and the woman, and between your seed and her seed; he shall bruise your head, and you shall bruise his heel.
 - assessment: Placements file flags ATTRIBUTED to UKJV (0.96). The thee/thou→you/your pronoun modernization alone rules this out as period English — no genuine 1611-register text drops thou/thee/thy in favor of you/your for a singular addressee, and a "gotquestions.org"-style source filename supports a modern study-site quotation, not a physical period residue. Note the collision line shows memories: 1, so there is some memory interest in this verse's phrasing generally (see the following entry), but this specific image is clearly modernized pronouns, disqualifying it on Axis 1 grounds regardless.
-- SUGGESTED: And I will put enmity between thee and the woman, and between thy seed and her seed; he shall crush thy head, and thou shalt bruise his heel.
-- recommendation: KEEP-CURRENT — modern thee/thou→you/your pronoun swap is disqualifying on its own; not period English regardless of the "crush"→"bruise" wording question (see next entry for that).
+- SUGGESTED: And I will put enmity between thee and the woman, and between thy seed and her seed; he shall bruise thy head, and thou shalt bruise his heel.
+- recommendation: BLEND — Owner Override 7/19/26 - bruise in this context, it is related to birth and life with a woman.  No one gets crushed here.  AI - modern thee/thou→you/your pronoun swap is disqualifying on its own; not period English regardless of the "crush"→"bruise" wording question (see next entry for that).
 
 ## John 10:28 — `157_john_10_28_30_wfg_p155.png`
 - CURRENT: And I give unto them eternal life; and they shall never perish, neither shall any pluck them out of My hand.
