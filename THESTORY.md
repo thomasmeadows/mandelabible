@@ -30,6 +30,12 @@ The idea behind removing words is because they don't fit with the formula.  The 
 
 The white list ususally contains authentic names, places, and objects.  These can include herbs, animals, or plants that geniunely are used rarely.  This can also include words from famous verses that should not be changed.
 
+I also created a list of famous verses and how different the output of this project are compared to the original King James.  This allows for anyone to easily check the difference and find mistakes or corrections needed.
+
+[Black List](./references/word_blacklist.md) | 
+[White Liist](./references/word_whitelist.md) | 
+[Famous Verses](./references/verses_famous.md)
+
 ## The Beginning
 
 ### Week 1
@@ -37,57 +43,25 @@ I gathered every resource I could find.  Bibles of every translation, the lexico
 
 I then started with all memories as a base for changes and created an MVP export of the KJV and memories.  I then created an AI agent that kept early modern english text in memory as well as alternateve versions of the bible to allow it to advise on decisions early on.  I then searched for outliers, words that didn't belong in the KJV, and words with improper inflection.  One of the tell tale signs that the mandela effect has altered all existing bibles is that it now contains mixed inflections for both new English and Early Modern English.  The current English inflections simply do not belong in something written in 1611.
 
-I found all cases of mixed inflection and standardized them across the entire bible.  For better or worse, it is a start.  I found all the rare words that only occured 1-2 times and subtracted the proper names and locations of bible events.  This resulted in roughly 600 words that needed to be corrected on around 2000 verses.  I did not have time to go through each one by hand but I skimmed them and they mostly seemed correct by the AI.  It may not be perfect, but it is a good start.  I used an ocr scanner to scan all the residuals and compare them against existing bibles.  Most of the images were found to come from rephrases, study bibles, or other bible translations.  Only 1-2 images were confirmed to be true authentic KJV residuals.  A large portion of the psalms among them.  I exported everything to a MVP copy of the bible.
+[First pass outliers](./references/uncleared_words.md) | 
+[Inflection in Early Modern English vs Current New English](./references/Inflection_English_vs_Early_Modern_English.md) | 
+[Mixed Inflections with decisions made](./references/mixed_inflections.md)
+
+I found all cases of mixed inflection and standardized them across the entire bible.  For better or worse, it is a start.  I found all the rare words that only occured 1-2 times and subtracted the proper names and locations of bible events.  This resulted in roughly 600 words that needed to be corrected on around 2000 verses.  I did not have time to go through each one by hand but I skimmed them and they mostly seemed correct by the AI.  It may not be perfect, but it is a good start.  I used an ocr scanner to scan all the residuals and compare them against existing bibles.  Most of the images were found to come from rephrases, study bibles, or other bible translations.  Only 1-2 images were confirmed to be true authentic KJV residuals.  A large portion of the psalms among them.  I exported everything to a MVP copy of the bible.  I collapsed all name variants into their modern usage, excluding Sampson which differes from the author Samson of the new testant. 
+
+[OCR Scans of Residuals](./references/residuals_ocr.md) | 
+[OCR Proposals & Adoptions 1](./references/residue_verse_proposals_1.md) | 
+[OCR Proposals & Adoptions 2](./references/residue_verse_proposals_2.md) | 
+[Name Variants](./references/name_variants.md)
+
+I also made a 2nd pass over the words to try to get even more rare words removed and words from the first pass that were replaced with other rare words.  This batch took much longer and i needed to remove inflections and white list words from the first batch.  It took longer cause nearly every translation of the bible was added including the geneva which was before the king james.
+
+[Round 2 of Rare Words](./references/rare_words_restored.md)
+[Round 2 AI Suggestions](./references/rare_word_witness_batches_2/round2_ai_suggestions.md)
+[Round 2 AI Whitelist Suggestions](./references/rare_word_witness_batches_2/round2_whitelist_and_no_safe_swap.md)
 
 ### Week 2
 
-With all the data known about the mandela effect incorporated into the current exports, I now need to go over it and fix any damage.  Meditate on the new word, and see if anything needs to be changed.  Probably create a blog to let people know about the project.
+With all the data known about the mandela effect incorporated into the current exports, I now need to go over it and fix any damage.  Meditate on the new word, and see if anything needs to be changed.  Probably create a blog to let people know about the changes.  I also created a round 3 of rare words to review.  Many of which seem to be authentic KJV.  The time of reviewing outliers seems to be coming to a close.
 
-## Current English Inflection
-
-English inflection refers to changing the form of a word (usually by adding a suffix) to express different grammatical categories like tense, number, or ownership. Unlike some languages with complex case systems, English relies heavily on these small changes to verbs and nouns.
-
-Here is a breakdown of the three areas you asked about:
-
-| Category | Base Form | Rule | Inflected Form | Function |
-| :--- | :--- | :--- | :--- | :--- |
-| **Present Tense** | walk | Base / +s | walk / walk**s** | Action now |
-| **Past Tense (Reg)** | play | +ed | play**ed** | Finished action |
-| **Past Tense (Irreg)** | go | Change | **went** | Finished action |
-| **Past Participle** | eat | Change | **eaten** | Perfect tenses |
-| **Present Participle** | run | +ing | runn**ing** | Continuous action |
-| **Possessive (Singular)** | cat | +'s | cat**'s** | One owner |
-| **Possessive (Plural s)** | dogs | +' | dog**s'** | Many owners |
-| **Possessive (Plural x)** | children | +'s | childr**en's** | Many owners |
-| **Plural (Noun)** | box | +es | box**es** | >1 item |
-| **Plural (Noun)** | baby | +ies | bab**ies** | >1 item |
-
-Key:
-
-**Regular Verbs**: Always use -ed for past tense.
-**Irregular Verbs**: Change spelling entirely (e.g., sing → sang).
-**Apostrophe (')**: Indicates ownership, never used for simple plurals (e.g., "dog's" = owns; "dogs" = many).
-
-## Early Modern English Inflection
-
-| Category | Base Form | Rule (EME) | Inflected Form | Function |
-| :--- | :--- | :--- | :--- | :--- |
-| **Present (2nd Sing)** | walk | +st / +t | walk**st** | "Thou walk" |
-| **Present (3rd Sing)** | walk | +th | walk**th** | "He walketh" |
-| **Past Tense (Reg)** | play | +ed / +t | play**ed** / play**t** | Finished action |
-| **Past Tense (Irreg)** | speak | Change | **spake** | Finished action |
-| **Past Participle** | break | +en / Change | **broke** / **broken** | Perfect tenses |
-| **Present Participle**| run | +ing | runn**ing** | Continuous action |
-| **Possessive (Sing)** | king | +es / +s | king**es** / king**s** | One owner |
-| **Possessive (Plur)** | kings | +es | king**es** | Many owners |
-| **Plural (Noun)** | man | +en / Change | **men** | >1 item |
-| **Plural (Noun)** | child | +ren | childr**en** | >1 item |
-
-
-**Verbs**: Second person singular (thou) takes -st or -t. Third person singular often takes -th (instead of just -s).
-**Past Tense**: Regular verbs still used -ed, but spelling varied (e.g., -t, -d). Irregular verbs had different forms (e.g., spake instead of spoke).
-**Possessive**: The apostrophe was not standard for possession; -es or -s was added directly to the noun (the apostrophe was often used for contractions or omitted entirely).
-**Thou vs. You**: Thou (singular, informal) triggered the -st ending. Ye/You (plural or formal) used the base verb (like modern "you").
-**The "-eth" ending**: The third-person singular often ended in -eth (e.g., he doth, she hath) rather than the modern -s.
-**Possessives**: The apostrophe 's was not a standard grammatical marker for possession yet. You would see the kinges sword (Shakespeare) rather than the king's sword. The apostrophe was primarily used for contractions (e.g., o'er for over).
-**Irregular Past**: Many verbs that are regular today were irregular then, and vice versa (e.g., helped was often holp).
+[Round 3 of rare words](./references/rare_word_round3_review.md)
