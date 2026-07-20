@@ -1287,3 +1287,7 @@
 - rationale: The only witness alternative (BBE "fold") is attested in KJV.db (7 hits) but overwhelmingly in the sense of a sheep-fold, not a crease or blemish; substituting it here risks confusing readers rather than clarifying (contrary to rule 1's "clarity beats mechanical substitution"). No other candidate word for a wrinkle/blemish was found attested in the corpus. A prior King James agent pass already flagged this as having no safe one-word swap; that finding is confirmed.
 - NEW: (no change proposed — OLD text retained pending owner review)
 
+## mansions → NO-SAFE-SWAP — John 14:2
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — "mansions" stays.** It is the correct, widely-remembered KJV reading of this famous verse ("In my Father's house are many mansions"); round 1's swap to "habitations" (restoration #5506) has been reverted.
+- verdict: NO-SAFE-SWAP
+- NEW: (no change — OLD text retained per owner ruling)

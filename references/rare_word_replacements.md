@@ -8221,7 +8221,7 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - NEW: Forasmuch as ye are plainly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshly tables of the heart.
 
 ## mansions → habitations — John 14:2
-- source: King James agent selection
+- source: REVERTED 2026-07-20 (owner) — no safe one-word swap found; "mansions" is the remembered KJV reading and is now whitelisted (see rare_word_review_no_safe_swap.md). Original text retained.
 - OLD: In my Father’s house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.
 - NEW: In my Father's house are many habitations: if it were not so, I would have told you. I go to prepare a place for you.
 

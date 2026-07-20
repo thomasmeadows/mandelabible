@@ -64,6 +64,55 @@ The full asset inventory with rationale lives in the roadmap's
   Log with rationale — nothing is decided silently.
 - The two sub-repos are source material and must never be modified.
 
+## Reverting a Change (Migration Pattern)
+
+When the owner asks to **undo** a previously applied change (a rare-word swap,
+a verse restoration, a manual word change, etc.), do **not** edit the builder
+scripts (`29_build_whitelist.py`, `49_build_blacklist.py`, `17_export_full.py`)
+and do **not** hand-hack a one-off. Write a **new numbered migration script**
+(`scripts/NN_revert_<slug>.py`) that is **idempotent** (safe to re-run; each
+step checks current state first) and updates every layer so they stay
+consistent. Follow the existing example: `scripts/52_revert_john_14_2_mansions.py`.
+
+**The layers a full revert must touch:**
+
+1. **`db/mandela.db` (the export's source of truth).** Applied changes live in
+   the `restorations` table; the exporter applies only `status='approved'`.
+   To un-apply one, set its status to `'reverted'`:
+   `UPDATE restorations SET status='reverted' WHERE id=?`. (Find it with
+   `SELECT id, status FROM restorations WHERE verse_id=?`.) Never delete the
+   row — `'reverted'` preserves the audit trail.
+2. **The change's *source* file**, so a future rebuild agrees with the DB:
+   - rare words round 1 → `references/rare_word_replacements.md`: change the
+     entry's `- source:` line to a revert note that **contains the exact
+     phrase `no safe one-word swap found`** — that is the flag
+     `49_build_blacklist.py` keys on to *exclude* a word from the blacklist,
+     and `29_build_whitelist.py` uses to route it toward the whitelist.
+   - rare words round 2 → `references/rare_word_witness_batches_2/round2_ai_suggestions.md`.
+   - manual/name/inflection passes → the corresponding
+     `scripts/31/35/44…` mapping or `references/manual_*` file.
+3. **Protect the word (if the base reading is the correct/remembered one):**
+   add it to the owner-reviewed whitelist source
+   `references/rare_word_review_no_safe_swap.md` as an
+   `## word → NO-SAFE-SWAP — Book C:V` entry carrying an
+   `**OWNER RULING <date>: DO NOT CHANGE — …**` line (the "DO NOT CHANGE"
+   wording is what `29_build_whitelist.py` matches to keep, vs. exclude).
+4. **Patch the already-generated companion lists** so they are correct
+   immediately without re-running the guarded builders:
+   `references/word_whitelist.md` (add to the reviewed list, bump its heading
+   count, add a description block) and `references/word_blacklist.md` (remove
+   the `#### <a name="…">` block and its index link, decrement the header
+   counts). Because step 2/3 fixed the sources too, a later builder rerun
+   reproduces the same result.
+
+**Then propagate downstream** (outside the migration, so the heavy rebuild is
+explicit): `python3 scripts/17_export_full.py` rebuilds
+`exports/MandelaBible-MVP.{md,pdf}`; regenerate any curated lists that read the
+DB (e.g. `references/verses_famous.md`).
+
+**Verify** every layer after running: the export text, the whitelist/blacklist
+membership and counts, and a second run of the migration proving it is a no-op.
+
 ## Important Work Guidelines
 
 ### Content Modification Protocol
