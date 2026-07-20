@@ -9,6 +9,7 @@ shared memories as witness testimony and restores the King James text
 accordingly, using the discipline of textual criticism: memory testimony
 first, internal alteration artifacts second, all written texts advisory.
 
+**Why does this project exist?** [The Full Story](./THESTORY.md) ·
 **Website**: [mandelabible.com](https://mandelabible.com) ·
 **GitHub**: [github.com/thomasmeadows/mandelabible](https://github.com/thomasmeadows/mandelabible)
 
