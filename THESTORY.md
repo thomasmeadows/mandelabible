@@ -41,6 +41,8 @@ I also created a list of famous verses and how different the output of this proj
 ### Week 1
 I gathered every resource I could find.  Bibles of every translation, the lexicon, and Strong's concordance.  I gathered all blogs and video resources I could find relating to bible changes and the mandela effect.  I then imported all memories of what the bible had and my own.  I imported everything from two projects that already attempted to correct or show differences in the KJV and mandela effect.  I imported all memories and residuals from KJVrestore and thesupernaturalbiblechanges. I then image scanned all residuals and got a text version.  Every resource found and added to the /references folder of this project.
 
+[Sources](./references/sources.md)
+
 I then started with all memories as a base for changes and created an MVP export of the KJV and memories.  I then created an AI agent that kept early modern english text in memory as well as alternateve versions of the bible to allow it to advise on decisions early on.  I then searched for outliers, words that didn't belong in the KJV, and words with improper inflection.  One of the tell tale signs that the mandela effect has altered all existing bibles is that it now contains mixed inflections for both new English and Early Modern English.  The current English inflections simply do not belong in something written in 1611.
 
 [First pass outliers](./references/uncleared_words.md) | 
