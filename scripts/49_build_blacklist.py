@@ -20,8 +20,10 @@ from change. This file is the opposite: words removed from the text and why.
 Overwrite guard: refuses to replace an existing file with one listing fewer
 words. Idempotent otherwise.
 """
+import argparse
 import ast
 import re
+import sys
 from collections import defaultdict
 from pathlib import Path
 
@@ -43,7 +45,13 @@ def extract_dict(path, name):
     return ast.literal_eval(m.group(0).split("=", 1)[1].strip())
 
 
+NO_SAFE_SWAP = "no safe one-word swap found"
+
+
 def round1():
+    """Blacklist rows from round 1 — excludes NO_SAFE_SWAP-flagged entries:
+    those were never an actual accepted replacement (the word stayed as-is),
+    they belong on the whitelist instead (see 29_build_whitelist.py)."""
     entries, cur = [], None
     for line in R1.read_text(encoding="utf-8").splitlines():
         m = HDR.match(line)
@@ -55,6 +63,8 @@ def round1():
             cur[3] = line[len("- source:"):].strip()
     out = []
     for word, repl, ref, source in entries:
+        if NO_SAFE_SWAP in source.lower():
+            continue
         decider = HUMAN if re.match(
             r"(User|Owner)", source) else AI
         out.append((word, repl, ref, source or "rare word (1-2 KJV uses)",
@@ -125,6 +135,9 @@ def names():
              "name normalization") for w, r in mapping.items()]
 
 
+ALLOW_SHRINK = "--allow-shrink" in sys.argv
+
+
 def main():
     rows = round1() + round2() + mixed_inflections() + manual_words() \
         + names()
@@ -133,11 +146,13 @@ def main():
         by_word[word.lower()].append((word, repl, ref, why, decider, source))
     words = sorted(by_word)
 
-    if OUT.exists():
+    if OUT.exists() and not ALLOW_SHRINK:
         old = len(re.findall(r"^#### ", OUT.read_text(encoding="utf-8"),
                              re.M))
         if old > len(words):
-            raise SystemExit("REFUSING: existing blacklist has more words")
+            raise SystemExit("REFUSING: existing blacklist has more words "
+                              "(pass --allow-shrink for a deliberate "
+                              "correction, e.g. removing no-safe-swap noise)")
 
     def slug(w):
         return re.sub(r"[^a-z0-9-]", "-", w.lower())
