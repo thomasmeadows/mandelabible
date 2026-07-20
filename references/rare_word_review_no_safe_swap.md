@@ -1288,6 +1288,7 @@
 - NEW: (no change proposed — OLD text retained pending owner review)
 
 ## mansions → NO-SAFE-SWAP — John 14:2
-- **OWNER RULING 2026-07-20: DO NOT CHANGE — "mansions" stays.** It is the correct, widely-remembered KJV reading of this famous verse ("In my Father's house are many mansions"); round 1's swap to "habitations" (restoration #5506) has been reverted.
 - verdict: NO-SAFE-SWAP
+- rationale: "Mansions" is the correct, widely-remembered KJV reading of this famous verse ("In my Father's house are many mansions"); round 1's swap to "habitations" (restoration #5506) has been reverted.
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — mansions stays.**
 - NEW: (no change — OLD text retained per owner ruling)

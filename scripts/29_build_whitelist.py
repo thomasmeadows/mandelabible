@@ -123,18 +123,20 @@ def main():
            "## Alphabetical list", "",
            "### Reviewed no-safe-swap words "
            f"({len(reviewed_words)})", ""]
-    out.append(", ".join(f"[{w}](#{anchor(w)})" for w in reviewed_words))
+    # one link per line: line-based git diffs, but renders as one line
+    # (Markdown collapses single newlines into spaces)
+    out.append(",\n".join(f"[{w}](#{anchor(w)})" for w in reviewed_words))
     out += ["", "### Orphaned round-1 no-safe-swap flags "
             f"({len(orphaned_words)})", "",
             "Never routed through the dedicated owner-review file, but "
             "carrying the same round-1 \"no safe one-word swap found\" "
             "flag — the word was never actually replaced in the text.", ""]
-    out.append(", ".join(f"[{w}](#{anchor(w)})" for w in orphaned_words))
+    out.append(",\n".join(f"[{w}](#{anchor(w)})" for w in orphaned_words))
     out += ["", f"### Proper names and places ({len(proper)})", "",
             "All entries below share one rationale — see "
             "[Proper names and places](#proper-names-and-places-rationale).",
             ""]
-    out.append(", ".join(proper))
+    out.append(",\n".join(proper))
     out += ["", "## Why each word is protected", ""]
     for w in sorted(whitelist):
         out.append(f"### {w}")

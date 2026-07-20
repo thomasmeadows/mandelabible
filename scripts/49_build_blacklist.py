@@ -169,7 +169,9 @@ def main():
         "AI-agent decision was owner-approved before it was applied.*", "",
         f"**{len(words)} blacklisted words** ({len(words) - n_ai} with a "
         f"human ruling, {n_ai} AI-decided with owner approval).", "",
-        ", ".join(f"[{w}](#{slug(w)})" for w in words), "",
+        # one link per line: line-based git diffs, but renders as one line
+        # (Markdown collapses single newlines into spaces)
+        ",\n".join(f"[{w}](#{slug(w)})" for w in words), "",
         "## Entries", "",
     ]
     for w in words:

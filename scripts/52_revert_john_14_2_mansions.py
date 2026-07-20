@@ -84,13 +84,16 @@ def step_nss():
     if re.search(r"^## mansions ", text, re.M):
         print("  rare_word_review_no_safe_swap.md: mansions already present")
         return
+    # single-bold OWNER RULING phrase + separate rationale so the whitelist
+    # builder (29) renders it cleanly (see the Jacob's ladder entry pattern).
     entry = (
         "\n## mansions → NO-SAFE-SWAP — John 14:2\n"
-        "- **OWNER RULING 2026-07-20: DO NOT CHANGE — \"mansions\" stays.** "
-        "It is the correct, widely-remembered KJV reading of this famous "
-        "verse (\"In my Father's house are many mansions\"); round 1's "
-        "swap to \"habitations\" (restoration #5506) has been reverted.\n"
         "- verdict: NO-SAFE-SWAP\n"
+        "- rationale: \"Mansions\" is the correct, widely-remembered KJV "
+        "reading of this famous verse (\"In my Father's house are many "
+        "mansions\"); round 1's swap to \"habitations\" (restoration #5506) "
+        "has been reverted.\n"
+        "- **OWNER RULING 2026-07-20: DO NOT CHANGE — mansions stays.**\n"
         "- NEW: (no change — OLD text retained per owner ruling)\n")
     NSS.write_text(text.rstrip("\n") + "\n" + entry, encoding="utf-8")
     print("  rare_word_review_no_safe_swap.md: mansions DO NOT CHANGE added")
