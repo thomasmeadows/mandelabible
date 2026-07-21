@@ -2,7 +2,7 @@
 
 ## Clear the air - Heretic and Blasphpemor!  How dare you!
 
-They need no introduction, the haters.  Starting with their glass half empty.  The elephant in the room.  Its unfatomable, its unprovable, its illogical, the word of god can't change, whatever your reason.  I ask you to just move on.  I don't want to fight with you and neither does anyone in our community.  If you don't believe in what is being done, that is fine.  I assure you we aren't aborting any babies or doing any human sacrifices to make things happen.  Go touch grass and play some pickleball at church and forget that this exist.  
+They need no introduction, the haters.  Starting with their glass half empty.  The elephant in the room.  Its unfatomable, its unprovable, its illogical, the word of god can't change, whatever your reason.  I ask you to just move on.  I don't want to fight with you and neither does anyone in our community.  If you don't believe in what is being done, that is fine.  I assure you we aren't aborting any babies or doing any human sacrifices to make things happen.  Go touch grass and play some pickleball at church and forget that this exist.  But those, with eyes to see and ears to hear...you may proceed beyond these words.
 
 ### God's word cannot be changed, it is eternal and true
 I agree, 100%.  Here in lies the problem.  God did not promise to preseve his word unchangable with ink and pen.  God promises to presevere his word in our heart.
