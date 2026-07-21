@@ -1292,3 +1292,584 @@
 - rationale: "Mansions" is the correct, widely-remembered KJV reading of this famous verse ("In my Father's house are many mansions"); round 1's swap to "habitations" (restoration #5506) has been reverted.
 - **OWNER RULING 2026-07-20: DO NOT CHANGE — mansions stays.**
 - NEW: (no change — OLD text retained per owner ruling)
+
+# Round-3 owner keeps (2026-07-20)
+
+*Words the owner ruled KEEP (whitelist) in the round-3 rare-word review (references/rare_word_round3_review.md). Each inflected form is protected. Folded into the whitelist by scripts/29_build_whitelist.py.*
+
+## adulteress → NO-SAFE-SWAP — Leviticus 20:10
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'adulteress').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## adulteresses → NO-SAFE-SWAP — Leviticus 20:10
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'adulteress').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## affairs → NO-SAFE-SWAP — I Chronicles 26:32
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'affairs').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## aforetime → NO-SAFE-SWAP — Nehemiah 13:5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'aforetime').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## alter → NO-SAFE-SWAP — Leviticus 27:10
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'alter').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## altered → NO-SAFE-SWAP — Leviticus 27:10
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'alter').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## altereth → NO-SAFE-SWAP — Leviticus 27:10
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'alter').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## astrologers → NO-SAFE-SWAP — Isaiah 47:13
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'astrologers').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## bell → NO-SAFE-SWAP — Exodus 28:34
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bell').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## bells → NO-SAFE-SWAP — Exodus 28:34
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bell').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## bent → NO-SAFE-SWAP — Psalms 7:12
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bent').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## beryl → NO-SAFE-SWAP — Exodus 28:20
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'beryl').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## boat → NO-SAFE-SWAP — II Samuel 19:18
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'boat').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## boats → NO-SAFE-SWAP — II Samuel 19:18
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'boat').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## bondman → NO-SAFE-SWAP — Genesis 44:33
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bondman').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## box → NO-SAFE-SWAP — II Kings 9:1
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'box').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## caterpiller → NO-SAFE-SWAP — I Kings 8:37
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caterpiller').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## caterpillers → NO-SAFE-SWAP — I Kings 8:37
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caterpiller').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## caul → NO-SAFE-SWAP — Exodus 29:13
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caul').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## cauls → NO-SAFE-SWAP — Exodus 29:13
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caul').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## certainty → NO-SAFE-SWAP — Joshua 23:13
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'certainty').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## chance → NO-SAFE-SWAP — Deuteronomy 22:6
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'chance').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## chanceth → NO-SAFE-SWAP — Deuteronomy 22:6
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'chance').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## choked → NO-SAFE-SWAP — Matthew 13:7
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'choked').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## choke → NO-SAFE-SWAP — Matthew 13:7
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'choked').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## dawning → NO-SAFE-SWAP — Joshua 6:15
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dawning').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## dawn → NO-SAFE-SWAP — Joshua 6:15
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dawning').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## dawned → NO-SAFE-SWAP — Joshua 6:15
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dawning').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## destitute → NO-SAFE-SWAP — Genesis 24:27
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'destitute').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## devoted → NO-SAFE-SWAP — Leviticus 27:21
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'devoted').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## dissolved → NO-SAFE-SWAP — Psalms 75:3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dissolved').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## dough → NO-SAFE-SWAP — Exodus 12:34
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dough').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## dunghill → NO-SAFE-SWAP — I Samuel 2:8
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dunghill').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## dunghills → NO-SAFE-SWAP — I Samuel 2:8
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dunghill').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## enmity → NO-SAFE-SWAP — Genesis 3:15
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'enmity').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## excess → NO-SAFE-SWAP — Leviticus 22:23
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'excess').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## faithfully → NO-SAFE-SWAP — II Kings 12:15
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'faithfully').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## fan → NO-SAFE-SWAP — Isaiah 30:24
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'fan').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## feign → NO-SAFE-SWAP — II Samuel 14:2
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'feign').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## feigned → NO-SAFE-SWAP — II Samuel 14:2
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'feign').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## feignest → NO-SAFE-SWAP — II Samuel 14:2
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'feign').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## fishers → NO-SAFE-SWAP — Isaiah 19:8
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'fishers').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## foes → NO-SAFE-SWAP — I Chronicles 21:12
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'foes').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## followers → NO-SAFE-SWAP — I Corinthians 4:16
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'followers').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## forgiveness → NO-SAFE-SWAP — Psalms 130:4
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'forgiveness').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## forgivenesses → NO-SAFE-SWAP — Psalms 130:4
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'forgiveness').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## foul → NO-SAFE-SWAP — Genesis 41:19
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'foul').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## fouled → NO-SAFE-SWAP — Genesis 41:19
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'foul').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## gallows → NO-SAFE-SWAP — Esther 5:14
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'gallows').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## gentle → NO-SAFE-SWAP — Psalms 55:21
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'gentle').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## hall → NO-SAFE-SWAP — Matthew 27:27
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'hall').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## harness → NO-SAFE-SWAP — I Kings 20:11
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'harness').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## harnessed → NO-SAFE-SWAP — I Kings 20:11
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'harness').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## hastily → NO-SAFE-SWAP — Genesis 41:14
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'hastily').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## herdmen → NO-SAFE-SWAP — Genesis 13:7
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'herdmen').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## heretofore → NO-SAFE-SWAP — Exodus 4:10
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'heretofore').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## key → NO-SAFE-SWAP — Judges 3:25
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'key').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## keys → NO-SAFE-SWAP — Judges 3:25
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'key').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## kin → NO-SAFE-SWAP — Leviticus 18:6
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'kin').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## kinsmen → NO-SAFE-SWAP — Ruth 2:20
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'kinsmen').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## lasciviousness → NO-SAFE-SWAP — Mark 7:22
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'lasciviousness').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## lofty → NO-SAFE-SWAP — Psalms 131:1
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'lofty').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## lowly → NO-SAFE-SWAP — II Samuel 16:4
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'lowly').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## maimed → NO-SAFE-SWAP — Leviticus 21:19
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'maimed').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## malice → NO-SAFE-SWAP — Ezekiel 25:6
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'malice').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## peaceable → NO-SAFE-SWAP — Genesis 34:21
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'peaceable').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## perdition → NO-SAFE-SWAP — John 17:12
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'perdition').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## perils → NO-SAFE-SWAP — II Corinthians 11:26
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'perils').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## persecutors → NO-SAFE-SWAP — Nehemiah 9:11
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'persecutors').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## profess → NO-SAFE-SWAP — Deuteronomy 26:3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'profess').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## professing → NO-SAFE-SWAP — Deuteronomy 26:3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'profess').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## professed → NO-SAFE-SWAP — Deuteronomy 26:3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'profess').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## prophetess → NO-SAFE-SWAP — Exodus 15:20
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'prophetess').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## prosperous → NO-SAFE-SWAP — Genesis 24:21
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'prosperous').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## quake → NO-SAFE-SWAP — Joel 2:10
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quake').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## quaked → NO-SAFE-SWAP — Joel 2:10
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quake').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## quaking → NO-SAFE-SWAP — Joel 2:10
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quake').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## quiver → NO-SAFE-SWAP — Genesis 27:3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quiver').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## quivered → NO-SAFE-SWAP — Genesis 27:3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quiver').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## reprobate → NO-SAFE-SWAP — Jeremiah 6:30
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'reprobate').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## reprobates → NO-SAFE-SWAP — Jeremiah 6:30
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'reprobate').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## righteously → NO-SAFE-SWAP — Deuteronomy 1:16
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'righteously').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## rigour → NO-SAFE-SWAP — Exodus 1:13
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'rigour').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## scrip → NO-SAFE-SWAP — I Samuel 17:40
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'scrip').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## seduce → NO-SAFE-SWAP — Mark 13:22
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'seduce').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## seduced → NO-SAFE-SWAP — Mark 13:22
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'seduce').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## seduceth → NO-SAFE-SWAP — Mark 13:22
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'seduce').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## seducing → NO-SAFE-SWAP — Mark 13:22
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'seduce').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## shear → NO-SAFE-SWAP — Genesis 31:19
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'shear').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## shearing → NO-SAFE-SWAP — Genesis 31:19
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'shear').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## sheareth → NO-SAFE-SWAP — Genesis 31:19
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'shear').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## sinful → NO-SAFE-SWAP — Numbers 32:14
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'sinful').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## skilful → NO-SAFE-SWAP — I Chronicles 5:18
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'skilful').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## smooth → NO-SAFE-SWAP — Genesis 27:11
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'smooth').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## smootheth → NO-SAFE-SWAP — Genesis 27:11
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'smooth').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+
+## softly → NO-SAFE-SWAP — Genesis 33:14
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'softly').
+- **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+- NEW: (no change — OLD text retained per owner ruling)
+

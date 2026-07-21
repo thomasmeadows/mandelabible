@@ -4,15 +4,23 @@
 
 ## Alphabetical list
 
-### Reviewed no-safe-swap words (166)
+### Reviewed no-safe-swap words (262)
 
+[adulteress](#adulteress),
+[adulteresses](#adulteresses),
+[affairs](#affairs),
+[aforetime](#aforetime),
 [almond](#almond),
+[alter](#alter),
+[altered](#altered),
+[altereth](#altereth),
 [anise](#anise),
 [ant](#ant),
 [ants](#ants),
 [anvil](#anvil),
 [apes](#apes),
 [archer](#archer),
+[astrologers](#astrologers),
 [ball](#ball),
 [bastard](#bastard),
 [bastards](#bastards),
@@ -21,10 +29,27 @@
 [beans](#beans),
 [bee](#bee),
 [behemoth](#behemoth),
+[bell](#bell),
+[bells](#bells),
+[bent](#bent),
+[beryl](#beryl),
+[boat](#boat),
+[boats](#boats),
+[bondman](#bondman),
+[box](#box),
 [cab](#cab),
+[caterpiller](#caterpiller),
+[caterpillers](#caterpillers),
+[caul](#caul),
+[cauls](#cauls),
+[certainty](#certainty),
 [chalcedony](#chalcedony),
 [chameleon](#chameleon),
 [chamois](#chamois),
+[chance](#chance),
+[chanceth](#chanceth),
+[choke](#choke),
+[choked](#choked),
 [chrysolite](#chrysolite),
 [chrysoprasus](#chrysoprasus),
 [cliff](#cliff),
@@ -42,33 +67,64 @@
 [cymbal](#cymbal),
 [cypress](#cypress),
 [dandled](#dandled),
+[dawn](#dawn),
+[dawned](#dawned),
+[dawning](#dawning),
 [deer](#deer),
 [delicateness](#delicateness),
+[destitute](#destitute),
+[devoted](#devoted),
+[dissolved](#dissolved),
 [distaff](#distaff),
 [divider](#divider),
+[dough](#dough),
 [dropsy](#dropsy),
+[dunghill](#dunghill),
+[dunghills](#dunghills),
 [ebony](#ebony),
 [egg](#egg),
 [eightieth](#eightieth),
+[enmity](#enmity),
 [evangelist](#evangelist),
+[excess](#excess),
 [executioner](#executioner),
+[faithfully](#faithfully),
 [fallowdeer](#fallowdeer),
+[fan](#fan),
 [fathoms](#fathoms),
+[feign](#feign),
+[feigned](#feigned),
+[feignest](#feignest),
 [file](#file),
+[fishers](#fishers),
 [foameth](#foameth),
 [foaming](#foaming),
+[foes](#foes),
+[followers](#followers),
+[forgiveness](#forgiveness),
+[forgivenesses](#forgivenesses),
+[foul](#foul),
+[fouled](#fouled),
 [fox](#fox),
 [freeman](#freeman),
 [galbanum](#galbanum),
+[gallows](#gallows),
 [garlick](#garlick),
+[gentle](#gentle),
 [girdedst](#girdedst),
 [goad](#goad),
 [goads](#goads),
 [goatskins](#goatskins),
 [grievousness](#grievousness),
+[hall](#hall),
 [hare](#hare),
+[harness](#harness),
+[harnessed](#harnessed),
+[hastily](#hastily),
 [herdman](#herdman),
+[herdmen](#herdmen),
 [heretick](#heretick),
+[heretofore](#heretofore),
 [heron](#heron),
 [hip](#hip),
 [hornet](#hornet),
@@ -77,14 +133,23 @@
 [itching](#itching),
 [jacinth](#jacinth),
 [kettle](#kettle),
+[key](#key),
+[keys](#keys),
+[kin](#kin),
+[kinsmen](#kinsmen),
 [kite](#kite),
 [ladder](#ladder),
 [lama](#lama),
 [lapwing](#lapwing),
+[lasciviousness](#lasciviousness),
 [leeks](#leeks),
 [lefthanded](#lefthanded),
 [lizard](#lizard),
+[lofty](#lofty),
+[lowly](#lowly),
 [lukewarm](#lukewarm),
+[maimed](#maimed),
+[malice](#malice),
 [mallows](#mallows),
 [mansions](#mansions),
 [mast](#mast),
@@ -125,8 +190,12 @@
 [partridge](#partridge),
 [patriarch](#patriarch),
 [patriarchs](#patriarchs),
+[peaceable](#peaceable),
 [peacemakers](#peacemakers),
 [pearl](#pearl),
+[perdition](#perdition),
+[perils](#perils),
+[persecutors](#persecutors),
 [persuasion](#persuasion),
 [pestle](#pestle),
 [phylacteries](#phylacteries),
@@ -135,12 +204,26 @@
 [poets](#poets),
 [poplar](#poplar),
 [poplars](#poplars),
+[profess](#profess),
+[professed](#professed),
+[professing](#professing),
+[prophetess](#prophetess),
+[prosperous](#prosperous),
+[quake](#quake),
+[quaked](#quaked),
+[quaking](#quaking),
+[quiver](#quiver),
+[quivered](#quivered),
 [rainbow](#rainbow),
 [rainy](#rainy),
 [redness](#redness),
 [regeneration](#regeneration),
+[reprobate](#reprobate),
+[reprobates](#reprobates),
 [rewarder](#rewarder),
 [ridden](#ridden),
+[righteously](#righteously),
+[rigour](#rigour),
 [rudder](#rudder),
 [rue](#rue),
 [sabachthani](#sabachthani),
@@ -149,13 +232,26 @@
 [sardonyx](#sardonyx),
 [scorpion](#scorpion),
 [scrabbled](#scrabbled),
+[scrip](#scrip),
 [scurvy](#scurvy),
 [seam](#seam),
+[seduce](#seduce),
+[seduced](#seduced),
+[seduceth](#seduceth),
+[seducing](#seducing),
+[shear](#shear),
+[sheareth](#sheareth),
+[shearing](#shearing),
 [shipwreck](#shipwreck),
 [shittah](#shittah),
 [shovel](#shovel),
 [shuttle](#shuttle),
+[sinful](#sinful),
+[skilful](#skilful),
+[smooth](#smooth),
+[smootheth](#smootheth),
 [soap](#soap),
+[softly](#softly),
 [spindle](#spindle),
 [spokes](#spokes),
 [swan](#swan),
@@ -3882,9 +3978,37 @@ zuzims
 
 ## Why each word is protected
 
+### adulteress
+- Leviticus 20:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'adulteress').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### adulteresses
+- Leviticus 20:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'adulteress').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### affairs
+- I Chronicles 26:32: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'affairs').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### aforetime
+- Nehemiah 13:5: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'aforetime').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### almond
 - Ecclesiastes 12:5: "Almond" names a specific tree/blossom (a symbol of white hair in this verse); no witness offers an alternate name for the referent — all thirteen keep "almond" (Wycliffe "alemaunde," Geneva/DRC/ASV/BSB "almond"). CUR's bare "tree" produces the duplicate "the tree tree" and loses the specific referent with no attested substitute available.
 - Jeremiah 1:11: Same as Ecclesiastes 12:5 — this verse's entire point is the wordplay between "almond" (shaqed) and "watching/hastening" (shoqed) in the Hebrew; every witness retains "almond," and CUR's bare "tree" produces "an tree tree," a nonsense duplication with no attested alternative available.
+
+### alter
+- Leviticus 27:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'alter').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### altered
+- Leviticus 27:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'alter').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### altereth
+- Leviticus 27:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'alter').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### anise
 - Matthew 23:23: "Anise" names a specific tithed herb. YLT and BSB render the same underlying Greek (anēthon) as "dill," which is a genuinely different and arguably more accurate word for the plant — but "dill" has zero occurrences elsewhere in the KJV corpus, so it would itself become a new rare word under rule 4. No other witness offers an alternative name. Confirms the pipeline's own original flag.
@@ -3919,6 +4043,10 @@ zuzims
 
 ### ash
 - Isaiah 44:14: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish it.
+
+### astrologers
+- Isaiah 47:13: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'astrologers').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### ball
 - Isaiah 22:18: CUR's "toss thee like a thee" is a broken duplication. No witness offers an alternative name for the round object of the simile — all thirteen retain "ball." No safe replacement is available without either inventing a word or dropping the simile's descriptive content.
@@ -3974,8 +4102,24 @@ zuzims
 ### behemoth
 - Job 40:15: "Behemoth" is a transliterated Hebrew proper name for a specific creature, retained unchanged by every witness including DRC and BSB (which capitalizes it as a proper name). No synonym exists without inventing content.
 
+### bell
+- Exodus 28:34: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bell').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### bellows
 - Jeremiah 6:29: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): The bellows are burned, the lead is consumed of the fire; the founder melteth in vain: for the wicked are not plucked away.
+
+### bells
+- Exodus 28:34: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bell').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### bent
+- Psalms 7:12: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bent').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### beryl
+- Exodus 28:20: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'beryl').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### blains
 - Exodus 9:9: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth with blains upon man, and upon beast, throughout all the land of Egypt.
@@ -3985,11 +4129,27 @@ zuzims
 - Romans 1:30: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,
 - II Timothy 3:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 
+### boat
+- II Samuel 19:18: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'boat').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### boats
+- II Samuel 19:18: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'boat').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### bolled
 - Exodus 9:31: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled.
 
+### bondman
+- Genesis 44:33: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bondman').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### bowshot
 - Genesis 21:16: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And she went, and sat her down over against him a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept.
+
+### box
+- II Kings 9:1: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'box').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### brayed
 - Job 30:7: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Among the bushes they brayed; under the nettles they were gathered together.
@@ -4000,6 +4160,26 @@ zuzims
 ### cab
 - II Kings 6:25: "cab" (Hebrew qab) names a specific ancient dry-measure unit, not an ordinary adjective or verb with a period synonym — every witness (Geneva "kab," DRC "cabe," ASV/ACV "kab") keeps the transliterated unit name rather than translating it, just as KJV keeps "ephah," "hin," and "homer" untranslated elsewhere. No genuinely different English word names this specific unit without altering the verse's precise meaning.
 
+### caterpiller
+- I Kings 8:37: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caterpiller').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### caterpillers
+- I Kings 8:37: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caterpiller').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### caul
+- Exodus 29:13: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caul').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### cauls
+- Exodus 29:13: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caul').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### certainty
+- Joshua 23:13: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'certainty').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### chalcedony
 - Revelation 21:19: "chalcedony" is a specific, technical gemstone name in a list alongside jasper, sapphire, and emerald. Every witness (Wycliffe, Tyndale, Geneva1599, DRC, and all English translations) keeps this exact term or a direct cognate — there is no genuinely different English word that names this specific stone.
 
@@ -4009,8 +4189,24 @@ zuzims
 ### chamois
 - Deuteronomy 14:5: "chamois" (a wild goat-antelope) is a specific animal name in a list of seven distinct game animals. The King James agent already found no safe one-word swap; every witness keeps "chamois" or a close cognate. No genuinely different English word names this exact referent.
 
+### chance
+- Deuteronomy 22:6: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'chance').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### chanceth
+- Deuteronomy 22:6: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'chance').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### cheeses
 - I Samuel 17:18: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And carry these ten cheeses unto the captain of their thousand, and look how thy brethren fare, and take their pledge.
+
+### choke
+- Matthew 13:7: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'choked').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### choked
+- Matthew 13:7: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'choked').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### chrysolite
 - Revelation 21:20: CUR's "chrysolyte" is merely a respelling of the same word, not a genuinely different one — the rules forbid mere re-inflection/respelling. This is a specific gemstone name in a fixed numbered list (fifth through twelfth foundation stones); no other English word names this same gem, and every witness keeps "chrysolite" or a direct cognate.
@@ -4115,14 +4311,38 @@ zuzims
 ### dandled
 - Isaiah 66:12: CUR "cried upon her knees" is nonsensical (infants are not "cried upon knees"). Every witness that translates this verse (RWebster, YLT, Darby, ASV, ACV) keeps "dandled"; no alternative is attested anywhere.
 
+### dawn
+- Joshua 6:15: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dawning').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### dawned
+- Joshua 6:15: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dawning').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### dawning
+- Joshua 6:15: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dawning').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### deer
 - Deuteronomy 14:5: CUR is broken, literally duplicating the word ("the fallow fallow") — the flagged word "deer" is part of the fixed compound species-name "fallow deer," which YLT, Webster, and RWebster all preserve intact. Splitting the compound produces nonsense; no genuine substitute for this specific animal name exists.
 
 ### delicateness
 - Deuteronomy 28:56: CUR's "for themselves and tenderness" is ungrammatical nonsense and must go, but no genuinely different KJV-common word covers this sense: "softness" (0 occurrences in KJV.db), "niceness" (0), and even the retained "tenderness" itself occurs only once in the whole corpus. The witnesses' own words (Geneva "softnesse", DRC "niceness") are equally unattested in the base text, so any swap cures one rare word with another equally rare one.
 
+### destitute
+- Genesis 24:27: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'destitute').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### devilish
 - James 3:15: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): This wisdom descendeth not from above, but is earthly, sensual, devilish.
+
+### devoted
+- Leviticus 27:21: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'devoted').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### dissolved
+- Psalms 75:3: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dissolved').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### distaff
 - Proverbs 31:19: CUR's "part" is nonsensical. No genuine, KJV-attested alternative name for this specific weaving implement was found; the witnesses' own solution (Darby/ASV swap "distaff" and "spindle" between the two clauses) still leaves "distaff" present in the verse, which the rules forbid, and period synonyms like "wherve" or "rock" (in its archaic spinning-tool sense) are unattested in KJV.db and the latter risks confusion with the common geological word.
@@ -4136,8 +4356,20 @@ zuzims
 ### doubletongued
 - I Timothy 3:8: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;
 
+### dough
+- Exodus 12:34: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dough').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### dropsy
 - Luke 14:2: No period witness offers a different noun for the condition itself (Wycliffe "dropesie", Tyndale/Geneva/DRC all "dropsy/dropsie"); modern alternatives (dropsical, edema) are either a mere re-inflection of the same root or a post-1611 medical term. No genuinely different, period-authentic word exists.
+
+### dunghill
+- I Samuel 2:8: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dunghill').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### dunghills
+- I Samuel 2:8: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dunghill').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### ebony
 - Ezekiel 27:15: Every period witness (Wycliffe "hebennus," Geneva "peacockes" — a different referent entirely, not a synonym for the wood — DRC "ebony") either keeps the same word or names a different item altogether; no genuinely different word names the same referent (the wood ebony).
@@ -4149,11 +4381,19 @@ zuzims
 ### eightieth
 - I Kings 6:1: CUR's "fourscoreeth" is not a word. "Eightieth" is a numeral naming a specific year (480); the KJV corpus's own pattern for such ordinals ("hundredth," Genesis 7:11 etc.) offers no substitute that preserves the stated number. Any change to the numeral would alter the verse's stated content, which is outside the scope of a word-choice swap.
 
+### enmity
+- Genesis 3:15: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'enmity').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### espousals
 - Jeremiah 2:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Go and cry in the ears of Jerusalem, saying, Thus saith the Lord; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land that was not sown.
 
 ### evangelist
 - II Timothy 4:5: "Preacher" (singular, attested 11 times) does not fit this idiom, "do the work of a preacher," as naturally as it fits a personal title, and every witness (period and modern) either keeps "evangelist" or paraphrases with a full clause ("go on preaching the good news"), which would require inventing new surrounding text beyond a word-level swap. No safe single-word or short-phrase substitute is available.
+
+### excess
+- Leviticus 22:23: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'excess').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### executioner
 - Mark 6:27: No period witness offers a distinct single word for this office — Wycliffe, Geneva1599, and Tyndale all render it "hangman" (a different, harsher connotation that would change the sense), and modern witnesses either keep "executioner" or expand to a full clause ("a soldier of his guard"), which would require restructuring the sentence beyond a word-level swap.
@@ -4165,14 +4405,34 @@ zuzims
 - Ephesians 6:6: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;
 - Colossians 3:22: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:
 
+### faithfully
+- II Kings 12:15: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'faithfully').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### fallowdeer
 - I Kings 4:23: CUR "fallow" alone is nonsensical (bare adjective). Every period witness (Wycliffe "buglis," Geneva "bugles," DRC "buffles," Darby/YLT "fallow-deer") converges on this same class of deer/wild-ox game; no genuinely different, period-attested word names this specific referent without either duplicating an animal already listed (roebucks) or importing an anachronistic modern term (gazelle, absent from period witnesses in this sense). Flagging for owner review rather than proposing an inaccurate swap.
+
+### fan
+- Isaiah 30:24: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'fan').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### fathoms
 - Acts 27:28: "Fathoms" is a precise nautical unit of depth, attested in Geneva1599 and DRC at this very verse ("twentie fathoms"/"twenty fathoms") and in Tyndale as "feddoms." No genuinely different period-attested word names this specific unit of measure without converting to a modern unit (BBE's "feet," an anachronistic conversion for KJV voice). Flagging for owner review.
 
 ### fatling
 - Isaiah 11:6: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
+
+### feign
+- II Samuel 14:2: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'feign').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### feigned
+- II Samuel 14:2: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'feign').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### feignest
+- II Samuel 14:2: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'feign').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### felloes
 - I Kings 7:33: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, were all molten.
@@ -4183,6 +4443,10 @@ zuzims
 ### finisher
 - Hebrews 12:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.
 
+### fishers
+- Isaiah 19:8: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'fishers').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### foameth
 - Mark 9:18: CUR "foams" is merely a modernized spelling of the same verb, not a genuine swap. No period witness offers a distinct word for this specific medical symptom without altering the description. Flagging for owner review.
 - Luke 9:39: Same reasoning as Mark 9:18 above.
@@ -4190,9 +4454,33 @@ zuzims
 ### foaming
 - Mark 9:20: CUR is unchanged from OLD. Every witness renders this the same way ("foaming"/"fomynge"); no genuinely different, period-attested word names this specific symptom. Flagging for owner review.
 
+### foes
+- I Chronicles 21:12: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'foes').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### followers
+- I Corinthians 4:16: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'followers').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### foreknowledge
 - Acts 2:23: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Him, being delivered by the determinate counsel and foreknowledge of God, ye have taken, and by wicked hands have crucified and slain:
 - I Peter 1:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
+
+### forgiveness
+- Psalms 130:4: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'forgiveness').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### forgivenesses
+- Psalms 130:4: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'forgiveness').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### foul
+- Genesis 41:19: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'foul').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### fouled
+- Genesis 41:19: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'foul').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### fox
 - Nehemiah 4:3: CUR's "like" is a clear error with no sense at all. Every local witness (Wycliffe, Geneva, DRC, and all English revisions) keeps "fox" for this specific animal in Tobiah's taunt, and no alternative small climbing animal is attested anywhere in the KJV corpus (e.g. "jackal" does not occur; the KJV consistently uses "dragons" for that referent). Substituting a different animal would change the content of the taunt, not just its wording.
@@ -4213,8 +4501,16 @@ zuzims
 ### galbanum
 - Exodus 30:34: "Galbanum" is a specific transliterated spice name in a fixed list (stacte, onycha, galbanum, frankincense) with no true synonym; every witness keeps the word itself. Confirms the original note that no safe swap exists.
 
+### gallows
+- Esther 5:14: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'gallows').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### garlick
 - Numbers 11:5: CUR's "garlic" is merely a modernized spelling of the identical word, not a genuinely different word, which the rules forbid. No true synonym exists for this specific vegetable in a fixed list of Egyptian produce; every witness keeps the word itself. Confirms the original note that no safe swap exists.
+
+### gentle
+- Psalms 55:21: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'gentle').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### girdedst
 - John 21:18: CUR's bare "gird" breaks the past-tense narrative ("thou gird thyself...and walkedst") and, since it shares the same root as the flagged word, would not be a genuinely different word even if the tense were fixed. No witness offers an alternate verb for this specific self-girding action, and candidate substitutes ("clothedst," "dressedst," "arrayedst") are all unattested in the KJV corpus.
@@ -4250,13 +4546,29 @@ zuzims
 ### gutter
 - II Samuel 5:8: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, that are hated of David’s soul, he shall be chief and captain. Wherefore they said, The blind and the lame shall not come into the house.
 
+### hall
+- Matthew 27:27: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'hall').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### hare
 - Leviticus 11:6: "hare" names a specific animal (attested only 2x in KJV.db, both in this pair of dietary-law verses), not a general vocabulary item with synonyms. No witness offers an alternative English name, and "rabbit" (BSB's choice) is unattested anywhere in KJV.db (0 hits). There is no genuinely different, KJV-attested word for this referent.
 - Deuteronomy 14:7: Same as Leviticus 11:6 — "hare" names a specific animal with no attested KJV synonym.
 
+### harness
+- I Kings 20:11: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'harness').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### harnessed
+- I Kings 20:11: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'harness').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### harrows
 - II Samuel 12:31: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.
 - I Chronicles 20:3: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And he brought out the people that were in it, and cut them with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.
+
+### hastily
+- Genesis 41:14: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'hastily').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### hats
 - Daniel 3:21: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace.
@@ -4273,8 +4585,16 @@ zuzims
 ### herdman
 - Amos 7:14: CUR "husbandman" materially misrepresents the text — Amos identifies himself as a herdsman (a keeper of livestock), not a husbandman (a tiller of soil); these are different occupations in the underlying Hebrew and every witness (Wycliffe, Geneva1599, DRC, RWebster, Darby, ASV, UKJV, ACV, BBE) retains "herdman"/"herdsman." No witness offers a genuinely different word preserving the correct sense, and "herdman" is itself already attested in KJV.db (1x this verse; "herdmen" plural 5x in Genesis 13), so it is not being newly invented — only its specific singular inflection is rare. Recommend owner review rather than a swap that changes Amos's stated occupation.
 
+### herdmen
+- Genesis 13:7: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'herdmen').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### heretick
 - Titus 3:10: CUR "heretic" is only a modernized spelling of the same word, not a genuinely different lexeme, so it fails rule 3. ASV/ACV's "factious," BSB's "divisive," and YLT's "sectarian" are all unattested in KJV.db (0 hits each), so no witness-supported, KJV-attested alternative exists. Recommend owner review rather than inventing an unattested word.
+
+### heretofore
+- Exodus 4:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'heretofore').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### heron
 - Leviticus 11:19: "heron" names a specific bird; no witness offers a different English name for it (only the neighboring word "lapwing"/"hoopoe" varies, which is a separate flagged item, not this one). There is no genuinely different, KJV-attested word for this referent.
@@ -4325,6 +4645,22 @@ zuzims
 ### kettle
 - I Samuel 2:14: CUR's "basket" is the wrong kind of vessel entirely (a basket cannot hold boiling meat and broth, unlike the metal vessels the list names). Every witness, period and modern, keeps "kettle" or "cauldron"-type words, and the surrounding list already uses "pan," "caldron," and "pot" for the other three vessel-words, leaving no unused, genuinely different, attested vessel term for the fourth.
 
+### key
+- Judges 3:25: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'key').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### keys
+- Judges 3:25: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'key').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### kin
+- Leviticus 18:6: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'kin').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### kinsmen
+- Ruth 2:20: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'kinsmen').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### kite
 - Leviticus 11:14: "kite" names a specific bird species in a list that already includes the closely related "falcon" as a separate item in several witnesses; no genuinely different, attested word names this particular bird without collapsing the distinction the list draws.
 - Deuteronomy 14:13: Same reasoning as Leviticus 11:14 — "kite," "glede," and "vulture"/"falcon" are already three distinct birds named side by side in this list, leaving no unused synonym.
@@ -4345,6 +4681,10 @@ zuzims
 - Leviticus 11:19: "lapwing" names a specific bird species; the only witnesses offering a different word ("hoopoe" in Darby/ASV/ACV) represent a real but distinct identification of the underlying Hebrew bird, not a synonym for the same bird — substituting it would risk changing which species is named, which the rules forbid inventing.
 - Deuteronomy 14:18: Same reasoning as Leviticus 11:19.
 
+### lasciviousness
+- Mark 7:22: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'lasciviousness').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### leeks
 - Numbers 11:5: "grass" is a wrong referent entirely (leeks are a cultivated vegetable in a list of specific foods — cucumbers, melons, onions, garlic — not a fodder plant); no period witness offers any alternative to "leeks," which all thirteen witnesses retain unanimously. No safe period-authentic substitute exists for this specific vegetable name.
 
@@ -4358,8 +4698,24 @@ zuzims
 ### lizard
 - Leviticus 11:30: This is a specific unclean-animal name in a list where every witness (including Wycliffe's Latin loanwords "stellio," "lacerta") retains a lizard-type creature; no period-attested alternative word names this same specific referent. Flag for owner review.
 
+### lofty
+- Psalms 131:1: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'lofty').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### lowly
+- II Samuel 16:4: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'lowly').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### lukewarm
 - Revelation 3:16: Every witness (Wycliffe "lew," Tyndale "bitwene bothe," DRC, Geneva, and all modern witnesses) retains this exact temperature-metaphor sense with no attested period alternative to "lukewarm" itself. Flag for owner review.
+
+### maimed
+- Leviticus 21:19: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'maimed').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### malice
+- Ezekiel 25:6: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'malice').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### mallows
 - Job 30:4: Every witness retains a specific plant name (mallows, nettles, salt-wort) with no consensus alternative; this is a specific botanical referent with no well-attested period-KJV substitute. Flag for owner review.
@@ -4522,6 +4878,10 @@ zuzims
 - Acts 7:8: CUR "patriarches" is merely an alternate spelling of the same flagged word, not a genuine replacement. "patriarchs" is attested unanimously (Wycliffe "patriarkis," DRC "patriarchs") with no synonym. Restoring OLD's spelling.
 - Acts 7:9: Same reasoning as Acts 7:8 — CUR is merely a spelling variant, not a genuine replacement. Restoring OLD.
 
+### peaceable
+- Genesis 34:21: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'peaceable').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### peacemakers
 - Matthew 5:9: "peacemakers" is attested unanimously across witnesses (Tyndale, Geneva1599, DRC all read "peacemakers" identically), confirming it as genuine period vocabulary with no better synonym.
 
@@ -4534,6 +4894,18 @@ zuzims
 
 ### peeped
 - Isaiah 10:14: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And my hand hath found as a nest the riches of the people: and as one gathereth eggs that are left, have I gathered all the earth; and there was none that moved the wing, or opened the mouth, or peeped.
+
+### perdition
+- John 17:12: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'perdition').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### perils
+- II Corinthians 11:26: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'perils').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### persecutors
+- Nehemiah 9:11: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'persecutors').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### persuasion
 - Galatians 5:8: "persuasion" is attested unanimously across witnesses (Geneva1599 "perswasion," DRC, Webster, RWebster, ASV, UKJV, ACV, BSB), confirming it as genuine period vocabulary with no synonym. The King James agent's own note already found no safe swap.
@@ -4575,14 +4947,54 @@ zuzims
 ### poplars
 - Hosea 4:13: CUR's "poplar" is merely the singular of the flagged word, not a genuine substitute, and it also breaks the grammar ("under oaks and poplar and elms" needs a plural to match "oaks" and "elms"). No witness offers an alternate tree name; the referent has no true synonym.
 
+### profess
+- Deuteronomy 26:3: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'profess').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### professed
+- Deuteronomy 26:3: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'profess').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### professing
+- Deuteronomy 26:3: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'profess').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### prophetess
+- Exodus 15:20: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'prophetess').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### prosperous
+- Genesis 24:21: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'prosperous').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### pruning
 - Isaiah 18:5: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): For afore the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he shall both cut off the sprigs with pruning hooks, and take away and cut down the branches.
+
+### quake
+- Joel 2:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quake').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### quaked
+- Joel 2:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quake').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### quaking
+- Joel 2:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quake').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### quaternions
 - Acts 12:4: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
 
 ### quicksands
 - Acts 27:17: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven.
+
+### quiver
+- Genesis 27:3: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quiver').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### quivered
+- Genesis 27:3: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quiver').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### rainbow
 - Revelation 4:3: every witness (Wycliffe "reynbowe," Tyndale/Geneva "rayne bowe"/"rainbowe," DRC "rainbow") retains the same word; there is no genuinely different period-authentic term for this specific referent (an arc of light round the throne) that isn't itself "rainbow." CUR left the text unchanged from OLD, correctly signaling no safe swap exists.
@@ -4601,6 +5013,14 @@ zuzims
 - Matthew 19:28: every witness retains "regeneration" itself (Wycliffe "regeneracioun," Geneva/DRC/Webster/ASV/Darby "regeneration"); only BSB differs with "renewal," which has 0 KJV occurrences (rule 4 violation). No genuinely different, well-attested period term exists for this specific eschatological referent.
 - Titus 3:5: same reasoning as Matthew 19:28 above. Geneva/BBE read "new birth," but that phrase has 0 KJV occurrences (rule 4 violation); "renewal" likewise 0 hits. No genuinely different, well-attested period term exists for this referent.
 
+### reprobate
+- Jeremiah 6:30: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'reprobate').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### reprobates
+- Jeremiah 6:30: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'reprobate').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### rewarder
 - Hebrews 11:6: Every witness without exception, period and modern, keeps "rewarder" — there is no attested alternative agent-noun in any witness. No corpus-common synonym exists ("recompenser" returns zero hits). No safe swap is available without inventing a word.
 
@@ -4609,6 +5029,14 @@ zuzims
 
 ### ridges
 - Psalms 65:10: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.
+
+### righteously
+- Deuteronomy 1:16: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'righteously').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### rigour
+- Exodus 1:13: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'rigour').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### rudder
 - Acts 27:40: Every witness, period and modern, keeps "rudder"/"rudders" as the steering apparatus of the ship — no witness offers a different word for the device itself (only its plural form or the surrounding phrase varies). No safe swap exists without inventing a word.
@@ -4642,6 +5070,10 @@ zuzims
 ### scrabbled
 - I Samuel 21:13: CUR "scratched" is a genuinely different word from "scrabbled" and matches Darby's rendering of this exact verse, but it returns zero hits in the corpus, so it would cure one rare word with another. No other witness offers an attested alternative ("made marks" also returns zero hits). No safe swap exists.
 
+### scrip
+- I Samuel 17:40: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'scrip').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### scurvy
 - Leviticus 21:20: CUR "scab" duplicates the root of "scabbed" immediately following it in the same list ("or be scab, or scabbed"), which is forbidden. No witness offers a genuinely different, corpus-attested word for this skin condition ("eczema" is a modern medical term, zero hits in the corpus). No safe swap exists.
 - Leviticus 22:22: Same reasoning as Leviticus 21:20 — CUR "scab" duplicates "scabbed" immediately following, and no attested alternative exists.
@@ -4654,6 +5086,34 @@ zuzims
 
 ### seared
 - I Timothy 4:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Speaking lies in hypocrisy; having their conscience seared with a hot iron;
+
+### seduce
+- Mark 13:22: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'seduce').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### seduced
+- Mark 13:22: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'seduce').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### seduceth
+- Mark 13:22: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'seduce').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### seducing
+- Mark 13:22: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'seduce').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### shear
+- Genesis 31:19: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'shear').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### sheareth
+- Genesis 31:19: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'shear').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### shearing
+- Genesis 31:19: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'shear').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### shipwreck
 - II Corinthians 11:25: CUR is broken ("suffered shipwreck" becomes "suffered suffer," a nonsensical duplication). No witness offers an alternative to "shipwreck" itself — all period and modern witnesses keep the word. No attested KJV synonym for this specific nautical disaster was found (e.g. "wrecked" does not occur in the corpus), so a genuine, non-inventive replacement is not available.
@@ -4668,12 +5128,32 @@ zuzims
 ### shuttle
 - Job 7:6: "beam" (a weaver's beam, a large structural piece) is a poor referent for "swifter than"—the comparison is to something that moves swiftly, i.e. the shuttle passed rapidly through the loom, not the fixed beam; adopting CUR would blur the image. No period witness offers an alternative to "shuttle" (Wycliffe "web is kit doun," DRC "web is cut," Geneva "shittle" — none supply a distinct attested KJV word for the weaver's implement itself), so no genuine, non-inventive replacement was found.
 
+### sinful
+- Numbers 32:14: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'sinful').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### skilful
+- I Chronicles 5:18: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'skilful').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### smooth
+- Genesis 27:11: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'smooth').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### smootheth
+- Genesis 27:11: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'smooth').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
 ### sneezed
 - II Kings 4:35: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Then he returned, and walked in the house to and fro; and went up, and stretched himself upon him: and the child sneezed seven times, and the child opened his eyes.
 
 ### soap
 - Jeremiah 2:22: No witness supplies a genuinely distinct, KJV-attested name for this cleansing substance ("lye" and "sope" are 0-hit or same-lemma); the referent itself (soap) is what's named, and no safe alternative exists.
 - Malachi 3:2: Same problem as Jeremiah 2:22 — "lye" is 0-hit in KJV.db and no other witness offers a distinct, attested substitute.
+
+### softly
+- Genesis 33:14: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'softly').
+  - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### spindle
 - Proverbs 31:19: The verse's only other textile-tool word, "distaff," already appears alongside "spindle" in the same verse (witnesses even swap which word names which tool), leaving no genuinely different, attested noun available for this specific implement.

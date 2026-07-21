@@ -118,7 +118,7 @@
   - Tyndale: breaker, counted, couple, deed
   - Wycliffe: auoutresse, frend
 - Early Modern English synonyms: whore; harlot; strumpet
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: WHITE LIST
 
 #### <a name="affairs"></a>affairs — 8 uses
 - forms: affairs (8)
@@ -128,7 +128,7 @@
   - Geneva1599: affaires, mine, abednego, babel, charge
   - Wycliffe: ben, god, aboute, alle, abdenago
 - Early Modern English synonyms: business; matters
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="aforetime"></a>aforetime — 8 uses
 - forms: aforetime (8)
@@ -139,7 +139,7 @@
   - Tyndale: afore, comforte, learnynge, myght
   - Wycliffe: bifor, ayens, bifore, bigynnyng
 - Early Modern English synonyms: heretofore; beforetime; in time past
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="alien"></a>alien — 8 uses
 - forms: alien (4), aliens (4)
@@ -150,7 +150,7 @@
   - Tyndale: alientes, armyes, flyght, fyre
   - Wycliffe: ete, ether, hooli, hym
 - Early Modern English synonyms: stranger; foreigner
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: REPLACE with article as "an alien" with "a stranger" or "stranger" without article.
 
 #### <a name="alter"></a>alter — 8 uses
 - forms: alter (4), altered (2), altereth (2)
@@ -161,7 +161,7 @@
   - Tyndale: changed, countenaunce, facion, garment
   - Wycliffe: chaungid, comaundement, betere, chaungith, breke
 - Early Modern English synonyms: change; turn
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="ambush"></a>ambush — 8 uses
 - forms: ambush (7), ambushes (1)
@@ -171,7 +171,7 @@
   - Geneva1599: citie, lay, ioshua, betweene, lye
   - Wycliffe: buyschementis, citee, ayens, bitwixe
 - Early Modern English synonyms: liers in wait; ambushments
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: REPLACE lye in wait, rose in some cases.
 
 #### <a name="apply"></a>apply — 8 uses
 - forms: applied (4), apply (4)
@@ -182,7 +182,7 @@
   - Tyndale: agaynst, awne, beyonde, brethre
   - Wycliffe: herte, bowe, eere
 - Early Modern English synonyms: give; incline; set
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: REPLACE apply with give and Applied with gave
 
 #### <a name="astrologers"></a>astrologers — 8 uses
 - forms: astrologers (8)
@@ -192,7 +192,7 @@
   - Geneva1599: astrologians, caldeans, inchanters, declare, shewe
   - Wycliffe: astronomyens, auteris, caldeis
 - Early Modern English synonyms: soothsayers; stargazers; enchanters
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="awoke"></a>awoke — 8 uses
 - forms: awoke (8)
@@ -203,7 +203,7 @@
   - Tyndale: awaked, hym, sayinge
   - Wycliffe: hym, camen
 - Early Modern English synonyms: awaked; wakened
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: REPLACE awoke with arose
 
 #### <a name="bell"></a>bell — 8 uses
 - forms: bell (4), bells (4)
@@ -213,7 +213,7 @@
   - Geneva1599: skirtes, rounde, vpon, belles, betweene
   - Wycliffe: another, appil, belle, eft
 - Early Modern English synonyms: _keep — specific object, no synonym_ 
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="bent"></a>bent — 8 uses
 - forms: bent (8)
@@ -223,7 +223,7 @@
   - Geneva1599: bowe, drawen
   - Wycliffe: bowe, alle, bente, deleth, bouwe
 - Early Modern English synonyms: bowed; drawn
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="beryl"></a>beryl — 8 uses
 - forms: beryl (8)
@@ -234,7 +234,7 @@
   - Tyndale: amatist, ayght, berall, crysolite
   - Wycliffe: crisolitus, berille, fourthe, foure, licnesse
 - Early Modern English synonyms: _keep — specific gem referent_ 
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="boat"></a>boat — 8 uses
 - forms: boat (7), boats (1)
@@ -245,7 +245,7 @@
   - Tyndale: awaye, entred, bote
   - Wycliffe: boot
 - Early Modern English synonyms: ship; vessel; bark
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="bondman"></a>bondman — 8 uses
 - forms: bondman (8)
@@ -256,7 +256,7 @@
   - Tyndale: brethern, byde, goo, bond
   - Wycliffe: egipt, comaunde, ether, mynde
 - Early Modern English synonyms: servant; slave; bondservant
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="box"></a>box — 8 uses
 - forms: box (8)
@@ -267,7 +267,7 @@
   - Tyndale: alablaster, boxe
   - Wycliffe: alabastre, cam, hadde, heed
 - Early Modern English synonyms: vessel; cruse
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="byword"></a>byword — 8 uses
 - forms: byword (8)
@@ -277,7 +277,7 @@
   - Geneva1599: common, giuen, people, prouerbe, talke
   - Wycliffe: alle, hem, caste, fable
 - Early Modern English synonyms: proverb; reproach; taunt
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: ??? Need more research
 
 #### <a name="case"></a>case — 8 uses
 - forms: case (7), cases (1)
@@ -288,7 +288,7 @@
   - Tyndale: bene, diseased, iesus, knewe
   - Wycliffe: alle
 - Early Modern English synonyms: matter; state; condition
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: ??? Need more research
 
 #### <a name="caterpiller"></a>caterpiller — 8 uses
 - forms: caterpiller (5), caterpillers (3)
@@ -298,7 +298,7 @@
   - Geneva1599: grashopper, canker, palmer, enemie, lande
   - Wycliffe: bruke, ben, eet, locuste
 - Early Modern English synonyms: _keep — specific locust referent_ 
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="caul"></a>caul — 8 uses
 - forms: caul (7), cauls (1)
@@ -308,7 +308,7 @@
   - Geneva1599: kall, kidneis, liuer, couereth, inwardes
   - Wycliffe: calle, fatnesse, auter, fatnessis, entrailis
 - Early Modern English synonyms: _keep — specific anatomical referent_ 
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="certainty"></a>certainty — 8 uses
 - forms: certainty (8)
@@ -319,7 +319,7 @@
   - Tyndale: certayntie
   - Wycliffe: awei, sadnesse, schewe, certeyn
 - Early Modern English synonyms: truth; surety; verity
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="chance"></a>chance — 8 uses
 - forms: chance (7), chanceth (1)
@@ -330,7 +330,7 @@
   - Tyndale: certayne, chaunce, preste, same
   - Wycliffe: forsothe, cam
 - Early Modern English synonyms: befall; haply; light upon
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="choked"></a>choked — 8 uses
 - forms: choked (6), choke (2)
@@ -341,7 +341,7 @@
   - Tyndale: amonge, thornes, frute, entred, heerd
   - Wycliffe: fruyt, fel, thornes, doun, birre
 - Early Modern English synonyms: strangled; stifled
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="confident"></a>confident — 8 uses
 - forms: confident (8)
@@ -352,7 +352,7 @@
   - Tyndale: arte, belevest, blynde, darcknes
   - Wycliffe: ben, fro, hem, bodi, god
 - Early Modern English synonyms: assured; bold; sure
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: be confident replace with am certain. Otherwise replace confident with certain.
 
 #### <a name="darts"></a>darts — 8 uses
 - forms: darts (5), dart (3)
@@ -363,7 +363,7 @@
   - Tyndale: able, abyde, bene, darte
   - Wycliffe: another, brething, goith, ioyned
 - Early Modern English synonyms: arrows
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: REPLACE darts with spears and dart with spear
 
 #### <a name="dawning"></a>dawning — 8 uses
 - forms: dawning (5), dawn (2), dawned (1)
@@ -374,7 +374,7 @@
   - Tyndale: begone, darknes, deeth, greate
   - Wycliffe: derknessis, dai, abide, bigynnyng
 - Early Modern English synonyms: dayspring; daybreak
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="deadly"></a>deadly — 8 uses
 - forms: deadly (8)
@@ -385,7 +385,7 @@
   - Tyndale: dedly
   - Wycliffe: beeste, curid, deth, erthe, fro
 - Early Modern English synonyms: mortal; venomous
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with mortal or venomous depending on context
 
 #### <a name="defer"></a>defer — 8 uses
 - forms: defer (3), deferred (3), deferest (1), deferreth (1)
@@ -396,7 +396,7 @@
   - Tyndale: deferde
   - Wycliffe: make
 - Early Modern English synonyms: delay; tarry; put off
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with prolong
 
 #### <a name="deputy"></a>deputy — 8 uses
 - forms: deputy (5), deputies (3)
@@ -407,7 +407,7 @@
   - Tyndale: countre
   - Wycliffe: proconsul, ayens
 - Early Modern English synonyms: officer; ruler
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with ruler
 
 #### <a name="describe"></a>describe — 8 uses
 - forms: describe (4), described (2), describeth (2)
@@ -418,7 +418,7 @@
   - Tyndale: ascribeth, blessedfulnes, dedes, rihgtewesnes
   - Wycliffe: discryue, ayen, cumpasse, hym
 - Early Modern English synonyms: write; set forth; declare
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with declare
 
 #### <a name="destitute"></a>destitute — 8 uses
 - forms: destitute (8)
@@ -429,7 +429,7 @@
   - Tyndale: brothers, brought, ceasseth, deale
   - Wycliffe: fro
 - Early Modern English synonyms: forsaken; void; bereft
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="devoted"></a>devoted — 8 uses
 - forms: devoted (8)
@@ -440,7 +440,7 @@
   - Tyndale: appoynted, frutes, fyrst, housse
   - Wycliffe: halewid, ayenbouyt
 - Early Modern English synonyms: accursed; dedicated; consecrated
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="dissolved"></a>dissolved — 8 uses
 - forms: dissolved (8)
@@ -450,7 +450,7 @@
   - Geneva1599: dissolued, heauens
   - Wycliffe: doun, brokun, erthe
 - Early Modern English synonyms: melted; consumed
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="dough"></a>dough — 8 uses
 - forms: dough (8)
@@ -460,7 +460,7 @@
   - Geneva1599: leauened, euery, dowe, heaue, offring
   - Wycliffe: alle, firste, ben, fruytis
 - Early Modern English synonyms: _keep — specific food referent_ 
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="dross"></a>dross — 8 uses
 - forms: dross (8)
@@ -469,7 +469,7 @@
   - Geneva1599: drosse, siluer
   - Wycliffe: ben, dros, filthe, alle, ether
 - Early Modern English synonyms: refuse; scum
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with filth
 
 #### <a name="dunghill"></a>dunghill — 8 uses
 - forms: dunghill (7), dunghills (1)
@@ -480,7 +480,7 @@
   - Tyndale: donge, dores, eares, good
   - Wycliffe: erthe, fro, awei, forfetid, ben
 - Early Modern English synonyms: dung; filth
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="emerods"></a>emerods — 8 uses
 - forms: emerods (8)
@@ -490,7 +490,7 @@
   - Geneva1599: mise, citie, giue, philistims, similitudes
   - Wycliffe: alle, citee, ersis, buttokis, citees
 - Early Modern English synonyms: _keep — specific medical referent_ 
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with boils
 
 #### <a name="enmity"></a>enmity — 8 uses
 - forms: enmity (8)
@@ -501,7 +501,7 @@
   - Tyndale: betwene, hatred, heed, hele
   - Wycliffe: enemytees, enemye
 - Early Modern English synonyms: hatred; malice
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="excess"></a>excess — 8 uses
 - forms: excess (8)
@@ -512,7 +512,7 @@
   - Tyndale: daye, dronkennes, hede, hertes
   - Wycliffe: ben
 - Early Modern English synonyms: riot; superfluity
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="faithfully"></a>faithfully — 8 uses
 - forms: faithfully (8)
@@ -522,7 +522,7 @@
   - Geneva1599: deliuered
   - Wycliffe: feithfuli, feith, hem
 - Early Modern English synonyms: truly; surely
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="fan"></a>fan — 8 uses
 - forms: fan (8)
@@ -533,7 +533,7 @@
   - Tyndale: chaffe
   - Wycliffe: hem, berne, brenne
 - Early Modern English synonyms: winnow
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="feign"></a>feign — 8 uses
 - forms: feign (3), feigned (3), feignest (2)
@@ -544,7 +544,7 @@
   - Tyndale: auctorite, debite, delyvre, fayne
   - Wycliffe: ahia, feyned, hem
 - Early Modern English synonyms: dissemble; make as though
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="fishers"></a>fishers — 8 uses
 - forms: fishers (8)
@@ -555,7 +555,7 @@
   - Tyndale: fisshers, galile, nettes, sawe, folowe
   - Wycliffe: bisidis, fisscheris, aftir, castynge, hem
 - Early Modern English synonyms: fishermen
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="foes"></a>foes — 8 uses
 - forms: foes (8)
@@ -566,7 +566,7 @@
   - Tyndale: fooes
   - Wycliffe: enemyes, alle
 - Early Modern English synonyms: enemies; adversaries
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="followers"></a>followers — 8 uses
 - forms: followers (8)
@@ -577,7 +577,7 @@
   - Tyndale: folowe
   - Wycliffe: foleweris, ben, britheren, crist, hem
 - Early Modern English synonyms: disciples
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="forgat"></a>forgat — 8 uses
 - forms: forgat (8)
@@ -588,7 +588,7 @@
   - Tyndale: buttelar, chefe, hym, ioseph
   - Wycliffe: baalym, foryaten, men
 - Early Modern English synonyms: forgot; remembered not
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with forgetteth
 
 #### <a name="forgiveness"></a>forgiveness — 8 uses
 - forms: forgiveness (7), forgivenesses (1)
@@ -599,7 +599,7 @@
   - Tyndale: forgevenes
   - Wycliffe: fro, han, remyssioun, synnes
 - Early Modern English synonyms: pardon; remission
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="foul"></a>foul — 8 uses
 - forms: foul (7), fouled (1)
@@ -610,7 +610,7 @@
   - Tyndale: foule
   - Wycliffe: drunken, egipt
 - Early Modern English synonyms: unclean; filthy; impure
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="gallows"></a>gallows — 8 uses
 - forms: gallows (8)
@@ -620,7 +620,7 @@
   - Geneva1599: iewes, ester, hamans, hang, cubites
   - Wycliffe: aaman, hadde, answeride, hangid, comaundide
 - Early Modern English synonyms: tree
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="gentle"></a>gentle — 8 uses
 - forms: gentle (8)
@@ -630,7 +630,7 @@
   - Geneva1599: minde, euill
   - Wycliffe: alle, mylde, able
 - Early Modern English synonyms: meek; mild; courteous
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="hall"></a>hall — 8 uses
 - forms: hall (8)
@@ -641,7 +641,7 @@
   - Tyndale: iesus, agayne, arte
   - Wycliffe: halle, hym, eftsoone
 - Early Modern English synonyms: court; palace
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="harness"></a>harness — 8 uses
 - forms: harness (7), harnessed (1)
@@ -651,7 +651,7 @@
   - Geneva1599: betweene, brigandine, certaine, himselfe, bowe
   - Wycliffe: bitwixe, bowe, horsis
 - Early Modern English synonyms: armour; weapons
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="hastily"></a>hastily — 8 uses
 - forms: hastily (8)
@@ -662,7 +662,7 @@
   - Tyndale: chaunged, haste, ioseph, made
   - Wycliffe: brynge
 - Early Modern English synonyms: speedily; quickly
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="herdmen"></a>herdmen — 8 uses
 - forms: herdmen (8)
@@ -673,7 +673,7 @@
   - Tyndale: betwene
   - Wycliffe: bitwixe, ben
 - Early Modern English synonyms: herdsmen; shepherds
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="heretofore"></a>heretofore — 8 uses
 - forms: heretofore (8)
@@ -683,7 +683,7 @@
   - Geneva1599: bricke, past, bene, goe
   - Wycliffe: bifore, ben, hem, dai, alle
 - Early Modern English synonyms: aforetime; beforetime; in time past
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="hungred"></a>hungred — 8 uses
 - forms: hungred (8)
@@ -694,7 +694,7 @@
   - Tyndale: drinke, sayde, anhongred, herbourlesse, meate
   - Wycliffe: hungride, hym, dide, hem, dauid
 - Early Modern English synonyms: famished
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace an hungred with hungry.
 
 #### <a name="key"></a>key — 8 uses
 - forms: key (6), keys (2)
@@ -705,7 +705,7 @@
   - Tyndale: keye, angell, bottomlesse, erth
   - Wycliffe: aungel, erthe, depnesse, doun, fro
 - Early Modern English synonyms: _keep — specific object, no synonym_ 
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="kin"></a>kin — 8 uses
 - forms: kin (8)
@@ -716,7 +716,7 @@
   - Tyndale: amonge, awne, coutre, despysed
   - Wycliffe: ayenbie, filthe, answeride, ech, blood
 - Early Modern English synonyms: kindred; kinsfolk
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="kinsmen"></a>kinsmen — 8 uses
 - forms: kinsmen (8)
@@ -727,7 +727,7 @@
   - Tyndale: kynsmen, frendes
   - Wycliffe: cosyns, ben, crist, britheren
 - Early Modern English synonyms: kindred; kinsfolk
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="lasciviousness"></a>lasciviousness — 8 uses
 - forms: lasciviousness (8)
@@ -738,7 +738,7 @@
   - Tyndale: coveteousnes, diceyte, folysshnes, pryde
   - Wycliffe: hem, fleisch
 - Early Modern English synonyms: wantonness; lust; uncleanness
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="lawyers"></a>lawyers — 8 uses
 - forms: lawyers (5), lawyer (3)
@@ -749,7 +749,7 @@
   - Tyndale: lawears, sayinge
   - Wycliffe: lawe, hem, hym, farisees
 - Early Modern English synonyms: scribes
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with teachers
 
 #### <a name="lent"></a>lent — 8 uses
 - forms: lent (8)
@@ -760,7 +760,7 @@
   - Tyndale: beganne, bylt, certayne, copased
   - Wycliffe: alle, hym
 - Early Modern English synonyms: given; granted; dedicated
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace gave or given
 
 #### <a name="lofty"></a>lofty — 8 uses
 - forms: lofty (8)
@@ -770,7 +770,7 @@
   - Geneva1599: hie, hautie, euen, downe, shalbe
   - Wycliffe: hiy, doun, ben, iyen, enhaunsid
 - Early Modern English synonyms: high; exalted; haughty
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="lowly"></a>lowly — 8 uses
 - forms: lowly (8)
@@ -781,7 +781,7 @@
   - Tyndale: fynd, herte, lerne, meke
   - Wycliffe: mylde, men, schal, fynde, meke
 - Early Modern English synonyms: humble; base
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="maimed"></a>maimed — 8 uses
 - forms: maimed (8)
@@ -792,7 +792,7 @@
   - Tyndale: blynde, goo, fete, halt, havinge
   - Wycliffe: crokid, blynde, brokun, ethir, doumbe
 - Early Modern English synonyms: halt; lame; hurt
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="malice"></a>malice — 8 uses
 - forms: malice (8)
@@ -803,7 +803,7 @@
   - Tyndale: breed, daye, holy, kepe
   - Wycliffe: enuye, alle, awei, blasfemye
 - Early Modern English synonyms: spite; wickedness
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="manifold"></a>manifold — 8 uses
 - forms: manifold (8)
@@ -814,7 +814,7 @@
   - Tyndale: everlastinge, lyfe, moche, moore
   - Wycliffe: enemyes
 - Early Modern English synonyms: many; sundry; abundant
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with abundant
 
 #### <a name="mediator"></a>mediator — 8 uses
 - forms: mediator (8)
@@ -824,7 +824,7 @@
   - Tyndale: chaunsed, deeth, eternall, fyrst
   - Wycliffe: biheest, betere, mediatour
 - Early Modern English synonyms: daysman; intercessor
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with intercessor
 
 #### <a name="ministration"></a>ministration — 8 uses
 - forms: ministration (8)
@@ -835,7 +835,7 @@
   - Tyndale: assone, awne, fortuned, home
   - Wycliffe: glorie, mynystracioun, daies
 - Early Modern English synonyms: service; ministry; attendance
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with ministry
 
 #### <a name="needful"></a>needful — 8 uses
 - forms: needful (8)
@@ -846,7 +846,7 @@
   - Tyndale: became, brethre, concernynge, faythfull
   - Wycliffe: ben, britheren, comyn
 - Early Modern English synonyms: necessary; needed
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with needed
 
 #### <a name="obeisance"></a>obeisance — 8 uses
 - forms: obeisance (8)
@@ -857,7 +857,7 @@
   - Tyndale: beholde
   - Wycliffe: cam
 - Early Modern English synonyms: bowing; reverence
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with reverence
 
 #### <a name="odours"></a>odours — 8 uses
 - forms: odours (7), odour (1)
@@ -868,7 +868,7 @@
   - Tyndale: bestes
   - Wycliffe: beestis, bifore, doun, encense
 - Early Modern English synonyms: sweet savour; perfume; incense
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with incense
 
 #### <a name="ouches"></a>ouches — 8 uses
 - forms: ouches (8)
@@ -878,7 +878,7 @@
   - Geneva1599: golde, bosses, vpon, closed, onix
   - Wycliffe: chaynes, hem, hookis, cloth, either
 - Early Modern English synonyms: sockets; settings
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with settings
 
 #### <a name="outgoings"></a>outgoings — 8 uses
 - forms: outgoings (8)
@@ -888,7 +888,7 @@
   - Geneva1599: endes, iorden, goeth, border, downe
   - Wycliffe: ben, citees, doun, fro
 - Early Modern English synonyms: borders; coasts; limits
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with borders
 
 #### <a name="overturn"></a>overturn — 8 uses
 - forms: overturn (4), overturneth (3), overturned (1)
@@ -898,7 +898,7 @@
   - Geneva1599: beholde, mountaines, ouerthroweth
   - Wycliffe: distriede, fro, hillis
 - Early Modern English synonyms: overthrow; subvert
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with turn and turned
 
 #### <a name="overwhelmed"></a>overwhelmed — 8 uses
 - forms: overwhelmed (8)
@@ -909,7 +909,7 @@
   - Tyndale: abasshed, agonye, iames, iohn
   - Wycliffe: god, hym, drede
 - Early Modern English synonyms: covered; drowned; swallowed
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with swallowed
 
 #### <a name="pastors"></a>pastors — 8 uses
 - forms: pastors (8)
@@ -919,7 +919,7 @@
   - Geneva1599: feede, pastours
   - Wycliffe: floc, hem, scheepherdis, feede, schal
 - Early Modern English synonyms: shepherds; teachers
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with shepherds
 
 #### <a name="peaceable"></a>peaceable — 8 uses
 - forms: peaceable (8)
@@ -930,7 +930,7 @@
   - Tyndale: doughters, geue, lade, occupatio
   - Wycliffe: pees, ben, aftirward
 - Early Modern English synonyms: quiet; peaceful
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="peculiar"></a>peculiar — 8 uses
 - forms: peculiar (8)
@@ -940,7 +940,7 @@
   - Geneva1599: himselfe, aboue, precious, chiefe, vnto
   - Wycliffe: alle, ben, chees, hym, fro
 - Early Modern English synonyms: special; own; proper
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: Replace with tresured or own depending on context
 
 #### <a name="perdition"></a>perdition — 8 uses
 - forms: perdition (8)
@@ -951,7 +951,7 @@
   - Tyndale: ascende, begynnynge, beholde, best
   - Wycliffe: ben, beeste, erthe, hem, perdicioun
 - Early Modern English synonyms: destruction; damnation
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="perils"></a>perils — 8 uses
 - forms: perils (8)
@@ -961,7 +961,7 @@
   - Geneva1599: citie, gentiles, iourneying, nation
   - Wycliffe: britheren, citee, desert, floodis
 - Early Modern English synonyms: dangers; jeopardy
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="persecutors"></a>persecutors — 8 uses
 - forms: persecutors (8)
@@ -971,7 +971,7 @@
   - Geneva1599: persecuters
   - Wycliffe: fro
 - Early Modern English synonyms: pursuers; oppressors
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="privately"></a>privately — 8 uses
 - forms: privately (8)
@@ -982,7 +982,7 @@
   - Tyndale: axed, secretly, olivete
   - Wycliffe: hem, hym, disciplis, hise
 - Early Modern English synonyms: secretly; apart
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with away from
 
 #### <a name="profess"></a>profess — 8 uses
 - forms: profess (3), professing (3), professed (2)
@@ -993,7 +993,7 @@
   - Tyndale: departe, iniquite, knewe, knowlege
   - Wycliffe: hem, bifor, feith
 - Early Modern English synonyms: confess; acknowledge; declare
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="proof"></a>proof — 8 uses
 - forms: proof (7), proofs (1)
@@ -1004,7 +1004,7 @@
   - Tyndale: alyve, apperynge, dayes, fourty
   - Wycliffe: alle, knowe, crist, hem
 - Early Modern English synonyms: trial; evidence; experience
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with truth or truths
 
 #### <a name="prophetess"></a>prophetess — 8 uses
 - forms: prophetess (8)
@@ -1014,7 +1014,7 @@
   - Tyndale: doughter, greate, husbande, lyved
   - Wycliffe: clothis, dwellide, hir
 - Early Modern English synonyms: _keep — specific role referent_ 
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="prosperous"></a>prosperous — 8 uses
 - forms: prosperous (8)
@@ -1025,7 +1025,7 @@
   - Tyndale: felowe, lorde
   - Wycliffe: alle, hym
 - Early Modern English synonyms: flourishing; fruitful
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="provender"></a>provender — 8 uses
 - forms: provender (8)
@@ -1036,7 +1036,7 @@
   - Tyndale: litter, prauonder, fete, prauender
   - Wycliffe: assis, brouyte
 - Early Modern English synonyms: fodder; corn
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with fodder
 
 #### <a name="quake"></a>quake — 8 uses
 - forms: quake (4), quaked (2), quaking (2)
@@ -1047,7 +1047,7 @@
   - Tyndale: beholde, bottome, dyd, erth
   - Wycliffe: erthe, face
 - Early Modern English synonyms: tremble; shake
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="quiver"></a>quiver — 8 uses
 - forms: quiver (7), quivered (1)
@@ -1058,7 +1058,7 @@
   - Tyndale: bowe, feldes, gett, therfore
   - Wycliffe: caas, arowe, alle
 - Early Modern English synonyms: _keep — specific object, arrow-case_ 
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="reconciliation"></a>reconciliation — 8 uses
 - forms: reconciliation (8)
@@ -1069,7 +1069,7 @@
   - Tyndale: became, brethre, concernynge, faythfull
   - Wycliffe: brent, alle, auter, clense, hem
 - Early Modern English synonyms: atonement; propitiation
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: replace with atonement
 
 #### <a name="reprobate"></a>reprobate — 8 uses
 - forms: reprobate (5), reprobates (3)
@@ -1080,7 +1080,7 @@
   - Tyndale: aknowen, comly, delivered, good
   - Wycliffe: ben, feith, repreuable
 - Early Modern English synonyms: castaway; rejected; vile
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="righteously"></a>righteously — 8 uses
 - forms: righteously (8)
@@ -1090,7 +1090,7 @@
   - Geneva1599: iudge, hee
   - Wycliffe: deme, alle, hem, iustli
 - Early Modern English synonyms: justly; uprightly
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="rigour"></a>rigour — 8 uses
 - forms: rigour (8)
@@ -1101,7 +1101,7 @@
   - Tyndale: beholde, cotinue, els, hewen
   - Wycliffe: hem
 - Early Modern English synonyms: severity; cruelty
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="scrip"></a>scrip — 8 uses
 - forms: scrip (8)
@@ -1112,7 +1112,7 @@
   - Tyndale: nether, iorney, sayd, sayde, breed
   - Wycliffe: hem, cootis, nethir, sachel, breed
 - Early Modern English synonyms: _keep — specific wallet referent_ 
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="seduce"></a>seduce — 8 uses
 - forms: seduce (3), seduced (3), seduceth (1), seducing (1)
@@ -1123,7 +1123,7 @@
   - Tyndale: deceave
   - Wycliffe: disseyue, hem, disseyueden, fro
 - Early Modern English synonyms: deceive; beguile; entice
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="shear"></a>shear — 8 uses
 - forms: shear (4), shearing (3), sheareth (1)
@@ -1134,7 +1134,7 @@
   - Tyndale: shepe
   - Wycliffe: fadir, hir, scheep, hadde
 - Early Modern English synonyms: clip; cut
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="sinful"></a>sinful — 8 uses
 - forms: sinful (8)
@@ -1145,7 +1145,7 @@
   - Tyndale: sayinge
   - Wycliffe: ben, fro
 - Early Modern English synonyms: wicked; ungodly
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="skilful"></a>skilful — 8 uses
 - forms: skilful (8)
@@ -1155,7 +1155,7 @@
   - Geneva1599: able
   - Wycliffe: alle, ben, dekenes
 - Early Modern English synonyms: cunning; expert
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="smooth"></a>smooth — 8 uses
 - forms: smooth (7), smootheth (1)
@@ -1166,7 +1166,7 @@
   - Tyndale: crocked, fylled, hyll, lowe
   - Wycliffe: ben
 - Early Modern English synonyms: plain; even; slippery
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="softly"></a>softly — 8 uses
 - forms: softly (8)
@@ -1177,5 +1177,5 @@
   - Tyndale: accordynge, catell, childern, dryue
   - Wycliffe: cloth, doun
 - Early Modern English synonyms: gently; quietly
-- owner ruling: _____ (keep / replace with ___)
+- owner ruling: KEEP WHITE LIST
 
