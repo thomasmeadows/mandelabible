@@ -7765,15 +7765,15 @@ One auto-selected replacement per rare-word verse. Review workflow: edit the rep
 - OLD: For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
 - NEW: For I feared thee, because thou art a hard man: thou takest up that thou hast not laid down, and reapest that thou didst not sow.
 
-## leasing → falsehood — Psalms 4:2
-- source: Webster alignment (word in KJV same testament)
+## leasing → lies — Psalms 4:2
+- source: King James agent audit 2026-07-20 — Geneva 1599 reads "lyes" here; supersedes round-1 "falsehood" (Webster)
 - OLD: O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.
-- NEW: O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after falsehood? Selah.
+- NEW: O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after lies? Selah.
 
-## leasing → falsehood — Psalms 5:6
-- source: Webster alignment (word in KJV same testament)
+## leasing → lies — Psalms 5:6
+- source: King James agent audit 2026-07-20 — Geneva 1599 reads "lyes" here; supersedes round-1 "falsehood" (Webster)
 - OLD: Thou shalt destroy them that speak leasing: the Lord will abhor the bloody and deceitful man.
-- NEW: Thou shalt destroy them that speak falsehood: the Lord will abhor the bloody and deceitful man.
+- NEW: Thou shalt destroy them that speak lies: the Lord will abhor the bloody and deceitful man.
 
 ## leather → skin — II Kings 1:8
 - source: KJV parallel rendering (same testament, matches grammar)

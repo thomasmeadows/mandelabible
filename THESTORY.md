@@ -67,3 +67,9 @@ I also made a 2nd pass over the words to try to get even more rare words removed
 With all the data known about the mandela effect incorporated into the current exports, I now need to go over it and fix any damage.  Meditate on the new word, and see if anything needs to be changed.  Probably create a blog to let people know about the changes.  I also created a round 3 of rare words to review.  Many of which seem to be authentic KJV.  The time of reviewing outliers seems to be coming to a close.
 
 [Round 3 of rare words](./references/rare_word_round3_review.md)
+
+#### leasing → lies
+
+I had the agent check the KJV for middle english words that were in the KJV that were actually middle english and it found exactly 1 result.  Most of the verses used lie.  Ie. Those that lie in wait.  Only a handful of middle english sections used the term "leasing."  Whether this is genuine proof of the mandela effect is unlikely and more likely a KJV original oversite.  I have directed the AI to update it none the less. 
+
+[Round 3 of rare words](./references/middle_english_to_early_modern.md)

@@ -8157,10 +8157,10 @@
 - **lean** (Genesis 41:19; rare word, round 2) — Same reasoning as 41:4; using one consistent word across both occurrences preserves internal consistency within Pharaoh's single retelling of his dream.
   - decided by: AI agent (king-james), owner-approved
 
-#### <a name="leasing"></a>leasing → falsehood
-- **falsehood** (Psalms 4:2; rare word, round 1) — Webster alignment (word in KJV same testament)
+#### <a name="leasing"></a>leasing → lies
+- **lies** (Psalms 4:2; rare word, round 1) — King James agent audit 2026-07-20: Geneva 1599 reads "lyes" here; supersedes round-1 "falsehood" (Webster)
   - decided by: AI agent (king-james), owner-approved
-- **falsehood** (Psalms 5:6; rare word, round 1) — Webster alignment (word in KJV same testament)
+- **lies** (Psalms 5:6; rare word, round 1) — King James agent audit 2026-07-20: Geneva 1599 reads "lyes" here; supersedes round-1 "falsehood" (Webster)
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="leather"></a>leather → skin
