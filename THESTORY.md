@@ -39,8 +39,9 @@ I also created a list of famous verses and how different the output of this proj
 ## The Beginning
 
 ### Week 1
-I gathered every resource I could find.  Bibles of every translation, the lexicon, and Strong's concordance.  I gathered all blogs and video resources I could find relating to bible changes and the mandela effect.  I then imported all memories of what the bible had and my own.  I imported everything from two projects that already attempted to correct or show differences in the KJV and mandela effect.  I imported all memories and residuals from KJVrestore and thesupernaturalbiblechanges. I then image scanned all residuals and got a text version.  Every resource found and added to the /references folder of this project.
+I gathered every resource I could find.  Bibles of every translation, the lexicon, and Strong's concordance.  I gathered all blogs and video resources I could find relating to bible changes and the mandela effect.  I then imported all memories of what the bible had and my own.  I imported everything from two projects that already attempted to correct or show differences in the KJV and mandela effect.  I imported all memories and residuals from KJVrestore and thesupernaturalbiblechanges. I then image scanned all residuals and got a text version.  Every resource found and added to the /references folder of this project.  I then created a roadmap that I exhausted quickly.
 
+[Roadmap](./references/roadmap.md)
 [Sources](./references/sources.md)
 
 I then started with all memories as a base for changes and created an MVP export of the KJV and memories.  I then created an AI agent that kept early modern english text in memory as well as alternateve versions of the bible to allow it to advise on decisions early on.  I then searched for outliers, words that didn't belong in the KJV, and words with improper inflection.  One of the tell tale signs that the mandela effect has altered all existing bibles is that it now contains mixed inflections for both new English and Early Modern English.  The current English inflections simply do not belong in something written in 1611.
@@ -64,12 +65,13 @@ I also made a 2nd pass over the words to try to get even more rare words removed
 
 ### Week 2
 
-With all the data known about the mandela effect incorporated into the current exports, I now need to go over it and fix any damage.  Meditate on the new word, and see if anything needs to be changed.  Probably create a blog to let people know about the changes.  I also created a round 3 of rare words to review.  Many of which seem to be authentic KJV.  The time of reviewing outliers seems to be coming to a close.
+With all the data known about the mandela effect incorporated into the current exports, I now need to go over it and fix any damage.  Meditate on the new word, and see if anything needs to be changed.  Probably create a blog to let people know about the changes.  I also created a round 3 of rare words to review.  Many of which seem to be authentic KJV.  The time of reviewing outliers seems to be coming to a close.  I did another pass at the rare words and ellimiated some rare words and confirmed others.
 
-[Round 3 of rare words](./references/rare_word_round3_review.md)
+[Round 3 of rare words review](./references/rare_word_round3_review.md)
+[Round 3 of rare word replacements](./references/rare_word_round3_replacements.md)
+[Round 3 of rare words replace preview](./references/rare_word_round3_replace_preview.md)
+[Round 3 of rare words applied](./references/rare_word_round3_applied.md)
 
 #### leasing → lies
 
-I had the agent check the KJV for middle english words that were in the KJV that were actually middle english and it found exactly 1 result.  Most of the verses used lie.  Ie. Those that lie in wait.  Only a handful of middle english sections used the term "leasing."  Whether this is genuine proof of the mandela effect is unlikely and more likely a KJV original oversite.  I have directed the AI to update it none the less. 
-
-[Round 3 of rare words](./references/middle_english_to_early_modern.md)
+I had the agent check the KJV for middle english words that were in the KJV that were actually middle english and it found exactly 1 result.  Most of the verses used lie.  Ie. Those that lie in wait.  Only a handful of middle english sections used the term "leasing."  Whether this is genuine proof of the mandela effect is unlikely and more likely a KJV original oversite.  I have directed the AI to update it none the less.   I am still finding weird anomalies that I do not believe was ever in the KJV.

@@ -32,6 +32,7 @@ OUT = ROOT / "references" / "word_blacklist.md"
 R1 = ROOT / "references" / "rare_word_replacements.md"
 R2 = (ROOT / "references" / "rare_word_witness_batches_2" /
       "round2_ai_suggestions.md")
+R3 = ROOT / "references" / "rare_word_round3_replacements.md"
 
 AI = "AI agent (king-james), owner-approved"
 HUMAN = "Human (owner)"
@@ -83,6 +84,24 @@ def round2():
         elif cur is not None and line.startswith("- rationale:"):
             cur[3] = line[len("- rationale:"):].strip()
     return [(w, r, ref, why, AI, "rare word, round 2")
+            for w, r, ref, why in entries]
+
+
+def round3():
+    """Round-3 owner-ruled replacements (references/rare_word_round3_replacements.md).
+    Same per-verse `## old → new — Book C:V` format as round 1; owner-decided."""
+    if not R3.exists():
+        return []
+    entries, cur = [], None
+    for line in R3.read_text(encoding="utf-8").splitlines():
+        m = HDR.match(line)
+        if m:
+            cur = [m.group(1).strip(), m.group(2).strip(),
+                   f"{m.group(3)} {m.group(4)}:{m.group(5)}", ""]
+            entries.append(cur)
+        elif cur is not None and line.startswith("- source:"):
+            cur[3] = line[len("- source:"):].strip()
+    return [(w, r, ref, why or "round-3 owner ruling", HUMAN, "rare word, round 3")
             for w, r, ref, why in entries]
 
 
@@ -139,7 +158,7 @@ ALLOW_SHRINK = "--allow-shrink" in sys.argv
 
 
 def main():
-    rows = round1() + round2() + mixed_inflections() + manual_words() \
+    rows = round1() + round2() + round3() + mixed_inflections() + manual_words() \
         + names()
     by_word = defaultdict(list)
     for word, repl, ref, why, decider, source in rows:

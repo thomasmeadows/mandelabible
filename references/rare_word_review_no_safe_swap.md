@@ -1873,3 +1873,320 @@
 - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 - NEW: (no change — OLD text retained per owner ruling)
 
+
+# Round-3 replacement words (2026-07-21)
+
+*Words introduced as round-3 replacements (owner ruled 2026-07-21). Protected so later passes do not re-flag them.*
+
+## abundant → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## alone → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## arose → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## arrow → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## arrows → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## atonement → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## boils → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## borders → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## certain → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## declare → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## declared → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## declareth → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## destroy → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## ends → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## filth → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## fodder → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## forgetteth → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## gave → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## give → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## given → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## hungry → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## idols → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## incense → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## intercessor → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## ministry → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## mortal → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## needed → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## officers → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## plagues → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## prolong → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## prolonged → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## prolongest → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## prolongeth → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## reverence → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## rose → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## ruler → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## rulers → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## settings → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## shepherds → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## stranger → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## strangers → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## swallowed → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## teacher → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## teachers → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## treasured → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## truth → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## truths → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## turn → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## turned → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## turneth → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## venomous → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
+## wait → NO-SAFE-SWAP — round-3
+- verdict: NO-SAFE-SWAP
+- rationale: Round-3 replacement word; owner ruled keep + whitelist.
+- **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+- NEW: (no change — round-3 replacement word)
+
