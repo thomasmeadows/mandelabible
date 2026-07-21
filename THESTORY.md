@@ -4,8 +4,11 @@
 
 They need no introduction, the haters.  Starting with their glass half empty.  The elephant in the room.  Its unfatomable, its unprovable, its illogical, the word of god can't change, whatever your reason.  I ask you to just move on.  I don't want to fight with you and neither does anyone in our community.  If you don't believe in what is being done, that is fine.  I assure you we aren't aborting any babies or doing any human sacrifices to make things happen.  Go touch grass and play some pickleball at church and forget that this exist.  But those, with eyes to see and ears to hear...you may proceed beyond these words.
 
+Matthew 10:13 - And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you.
+Matthew 10:14 - And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.
+
 ### God's word cannot be changed, it is eternal and true
-I agree, 100%.  Here in lies the problem.  God did not promise to preseve his word unchangable with ink and pen.  God promises to presevere his word in our heart.
+I agree, 100%.  However, God did not promise to preseve his word unchangable with ink and pen.  God promises to presevere his word in our heart.
 
 II Corinthians 3:3 - Forasmuch as ye are plainly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tablets of stone, but in fleshly tablets of the heart.
 Psalms 119:11 - Thy word have I hid in mine heart, that I might not sin against thee.
