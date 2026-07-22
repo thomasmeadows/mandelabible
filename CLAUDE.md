@@ -124,6 +124,33 @@ membership and counts, and a second run of the migration proving it is a no-op.
 
 ---
 
+### Rare-Word Review List Protocol (owner directive 2026-07-22)
+**REQUIRED** whenever presenting the owner a review list of rare-word swap
+candidates (round-N rare-word reviews and any similar per-word ruling file).
+Every word entry MUST include:
+
+1. **A proposed new verse from the King James agent**
+   (`.claude/agents/king-james-middle-english-expert.md`) — the full verse
+   rewritten in authentic KJV voice with its suggested replacement, one
+   proposal per occurrence verse.
+2. **Alternate word or phrase suggestions** — other period-authentic
+   (EModE + biblical-era) options beyond the primary proposal, so the owner
+   can rule "revise to ___" without another lookup round.
+3. **WHITELIST advice for proper nouns** — if the word is (or is judged by
+   the King James agent to be) a proper noun — a person, place, people,
+   or transliterated name — the entry must carry the advice **WHITELIST**
+   instead of a swap proposal.
+4. **The verse in both comparison editions**, per occurrence:
+   - **Geneva 1599** (`bible_databases/formats/sqlite/Geneva1599.db`;
+     rows are duplicated — dedupe on `(book_id, chapter, verse)`; book ids
+     align with KJV; mark missing verses "(not in Geneva)"), and
+   - **Standard Oxford Edition** — the 1769 Blayney text, i.e. the base
+     `bible_databases/formats/sqlite/KJV.db` reading.
+
+The owner-ruling line stays blank for the owner. Builder scripts that
+regenerate a review file must not overwrite filled-in King James agent
+proposals without an explicit `--force` (Generated Artifacts are permanent).
+
 ### Clarification Protocol
 **CRITICAL**: Before beginning any task or making assumptions about requirements, Claude MUST ask clarifying questions when:
 

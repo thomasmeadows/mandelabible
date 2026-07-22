@@ -17,15 +17,26 @@ Also skips inflections of common words (a form whose stripped base occurs > 8x).
 Report only (no DB writes). Mirrors the round-4 builder; output:
 references/rare_word_round5_review.md. **src** flags base-KJV vs restoration-
 introduced.
+
+Per the Rare-Word Review List Protocol (CLAUDE.md, owner directive 2026-07-22)
+each entry also carries, per occurrence verse, the Geneva 1599 and Standard
+Oxford Edition (1769 base KJV) readings, plus pending fields — "KJ proposal",
+"alternates", "advice" — that the king-james-middle-english-expert agent fills
+in after generation. Because those filled fields are expensive owner-facing
+work, this script REFUSES to overwrite a file containing filled KJ proposals
+unless run with --force.
 """
 import re
 import sqlite3
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
+GENEVA = ROOT / "bible_databases" / "formats" / "sqlite" / "Geneva1599.db"
 OUT = ROOT / "references" / "rare_word_round5_review.md"
+PENDING = "(pending — King James agent)"
 COMMON = 8
 TOKEN = re.compile(r"[A-Za-z]+(?:['’–-][A-Za-z]+)*")
 
@@ -68,7 +79,30 @@ def base_candidates(word):
     return out
 
 
+def load_geneva():
+    """Geneva 1599 text per (book_id, chapter, verse). The sub-repo table holds
+    each verse ~7x over; dedupe on the lowest rowid. Book ids align with KJV."""
+    g = sqlite3.connect(GENEVA)
+    out = {}
+    for bid, ch, vs, text in g.execute(
+            "SELECT book_id, chapter, verse, text FROM Geneva1599_verses "
+            "GROUP BY book_id, chapter, verse HAVING id = MIN(id)"):
+        out[(bid, ch, vs)] = text
+    g.close()
+    return out
+
+
 def main():
+    if OUT.exists() and "--force" not in sys.argv:
+        old = OUT.read_text(encoding="utf-8")
+        filled = [ln for ln in old.splitlines()
+                  if ln.lstrip().startswith(("- KJ proposal:", "- alternates:",
+                                             "- advice:"))
+                  and PENDING not in ln]
+        if filled:
+            sys.exit(f"REFUSING to overwrite {OUT.name}: it contains "
+                     f"{len(filled)} filled-in King James agent lines. "
+                     "Re-run with --force to discard them.")
     con = sqlite3.connect(DB)
     resto = {}
     for vid, new in con.execute(
@@ -77,13 +111,14 @@ def main():
         resto[vid] = new
     bn = {i: n for i, n in con.execute("SELECT id, name FROM books WHERE translation='KJV'")}
     counts, occ, capcount, base_forms = Counter(), defaultdict(list), Counter(), set()
-    curtext = {}
+    curtext, oxtext = {}, {}
     for vid, bid, ch, vs, btext in con.execute(
             "SELECT id, book_id, chapter, verse, text FROM verses WHERE translation='KJV'"):
         for t in TOKEN.findall(btext):
             base_forms.add(fold(t))
         cur = resto.get(vid, btext)
         curtext[(bid, ch, vs)] = cur
+        oxtext[(bid, ch, vs)] = btext
         for t in TOKEN.findall(cur):
             f = fold(t); counts[f] += 1; occ[f].append((bid, ch, vs))
             if t[:1].isupper():
@@ -161,12 +196,16 @@ def main():
     def anchor(w):
         return re.sub(r"[^a-z0-9]+", "-", w.lower()).strip("-")
 
+    geneva = load_geneva()
     L = ["# Round 5 — Rare Word Review (rarest first)", "",
          "*The 100 rarest lemmas over the current output (base KJV + all approved "
          "restorations through the hail→greet pass). Inflections collapsed (EModE); "
          "whitelisted words, names, places, and always-capitalized proper nouns "
-         "skipped. For each word: its form counts, and every verse it appears in "
-         "with the current text, then a blank owner ruling. **src** flags whether "
+         "skipped. For each word: its form counts; every verse it appears in with "
+         "the current text plus the Geneva 1599 and Standard Oxford Edition (1769 "
+         "base KJV) readings; the King James agent's proposed replacement verse "
+         "and alternate word/phrase suggestions (advice **WHITELIST** where the "
+         "word is a proper noun); then a blank owner ruling. **src** flags whether "
          "the lemma is native to the base KJV or was introduced by a restoration. "
          "Nothing changed.*", "",
          f"**{len(top)} words (rarest first); {len(rows)} eligible lemmas total.**", "",
@@ -185,6 +224,11 @@ def main():
                 seen.append(k)
                 L.append(f"- **{bn[bid]} {ch}:{vs}**")
                 L.append(f"  - text: {curtext[k]}")
+                L.append(f"  - Geneva 1599: {geneva.get(k, '(not in Geneva)')}")
+                L.append(f"  - Oxford (KJV 1769): {oxtext[k]}")
+        L.append(f"- KJ proposal: {PENDING}")
+        L.append(f"- alternates: {PENDING}")
+        L.append(f"- advice: {PENDING}")
         L.append("- owner ruling: _____ (keep / whitelist / revise to ___)")
         L.append("")
     OUT.write_text("\n".join(L) + "\n", encoding="utf-8")

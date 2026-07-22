@@ -3091,3 +3091,685 @@
 - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 - NEW: (no change — round-4 protected word)
 
+# Round-5 review words (2026-07-22)
+
+*Words protected after the round-5 rare-word review (owner ruled 2026-07-22): WHITELIST-keep words, newly introduced readings, and the owner's explicitly named additions. Rewritten in full on each run of scripts/66_apply_round5.py.*
+
+## abundantly → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## adders → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## adorned → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## agreement → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## anchors → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## appointed → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## armoury → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## arrayed → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## aside → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## ate → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## awe → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## back → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## bakers → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## beg → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## beggar → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## belonged → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## betrayeth → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## bewitched → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## blameless → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## blasphemers → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## blasphemy → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## brow → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## caught → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## common → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## contention → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## contentions → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## crouch → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## cryings → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## day → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## didst → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## disciples → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## divisions → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## doleful → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## dwellings → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## elements → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## endureth → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## engravings → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## entrance → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## envying → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## ever → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## everlasting → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## exile → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## fellow → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## flee → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## flew → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## foolishly → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## foreigners → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## fowlers → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## freely → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## gleanings → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## glutton → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## gluttonous → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## gluttons → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## goest → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## got → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## greet → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## havens → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## holy → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## hunters → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## impart → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## knoweth → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## leave → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## lent → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## looking → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## love → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## lust → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## magicians → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## magnified → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## measured → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## measurings → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## men → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## mending → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## musicians → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## nights → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## nobles → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## pleasers → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## plucked → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## prophesyings → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## quickly → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## rebuketh → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## religion → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## reproof → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## rest → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## revilings → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## scabbed → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## scoffings → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## selfwill → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## selfwilled → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## seraphims → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## set → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## shaking → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## shewed → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## side → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## sinned → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## sneezed → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## sorceress → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## spit → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## sponge → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## stammering → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## stedfastness → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## storehouse → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## straight → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## strange → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## subtilly → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## swimmest → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## swimmeth → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## tribes → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## troubles → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## truth → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## vulture → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## witch → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## without → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+
+## witness → NO-SAFE-SWAP — round-5
+- verdict: NO-SAFE-SWAP
+- rationale: Round-5 owner ruling — keep + whitelist.
+- **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+- NEW: (no change — round-5 protected word)
+

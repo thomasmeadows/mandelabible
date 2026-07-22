@@ -144,5 +144,14 @@ Changed hail -> greet in many instances since the use of hail was also rare in t
 With those merged, it was time for round 5
 
 [Round 5 - re-review](./references/rare_word_round5_review.md)
+[Round 5 - replacements](./references/rare_word_round5_replacements.md)
 
-I realized on round 5....this is going to take forever. I need a break from this.
+I realized on round 5....this is going to take forever. I need a break from this.  I came across some outrageos verses and all I could do was laugh.
+
+**Ezekiel 21:27** - I will overturn, overturn, overturn, it: and it shall be no more, until he come whose right it is; and I will give it him.
+**Joel 3:14** - Multitudes, multitudes in the valley of decision: for the day of the Lord is near in the valley of decision.
+
+oh boy am I an in the valley of decisions now with multitudes upon multitudes of decisions to make.  This verse was made for me at this time lol.  Any ways, both of these verses are incredibly illogical and nonsensical.
+
+[Round 5 - apply preview](./references/rare_word_round5_apply_preview.md)
+[Round 5 - apply preview, owner annoted](./references/rare_word_round5_apply_preview_owner_annotated.md)
