@@ -40,7 +40,7 @@ I am not here to argue with you about flat or round earth beliefs, both have the
 
 I am not here to argue about revelations.  The book of revelation was not written by one of the 12 disciples of Jesus.  It has been argued that it should be thrown out of the bible like the book of Enoch.  It was written by **John of Patmos**, not **John the Baptist**.  I am not going to argue against the inclusion of revelation in the bible, but rather I would rather not discuss it like most modern preachers,  as it simply sows division.  There is a very good book about revelation and 4 authors with very different view points on the matter.  If your interested, I suggest you read the book [4 views on the book of revelation](https://www.amazon.com/Four-Views-Book-Revelation-Marvin/dp/0310210801).  All 4 authors are very compelling and the reason why most pastors and preachers prefer to stay away from the book.  Entire churches have been built around revelations and this why much of the church body is heavily divided into different denominations.
 
-Also, there is a LARGE group of people: christians; zionist; followers of Islam; and Jew supremecist, who have actively saught to fufuill the book of revelations for the past 100 years so they can bring about a stop to the reincarnation cycle.  This is 100% provable and there are people high up who have publically confirmed that this is the plan by people at the top.  They are searching for a capstone to fufill their works.  I know most people believe the book of revelation is about to happen, but I question whether people a re driving it to happen rather than it occuring naturally.
+Also, there is a LARGE group of people: Christians; Zionist; followers of Islam; and Jew supremacist, who have actively seek to fulfill the book of revelations for the past 100 years so they can bring about a stop to the reincarnation cycle, or whatever their religion believes is the messiah or last Imam.  This is 100% provable and there are people high up who have publically confirmed that this is the plan by people at the top.  They are searching for a capstone to fufill their works.  I know most people believe the book of revelation is about to happen, but I question whether people a re driving it to happen rather than it occuring naturally.
 
 ### The holy trinity
 
@@ -155,3 +155,7 @@ oh boy am I an in the valley of decisions now with multitudes upon multitudes of
 
 [Round 5 - apply preview](./references/rare_word_round5_apply_preview.md)
 [Round 5 - apply preview, owner annoted](./references/rare_word_round5_apply_preview_owner_annotated.md)
+
+I am getting exhausted, time for round 6.
+
+[Round 6 - review](./references/rare_word_round6_review.md)
