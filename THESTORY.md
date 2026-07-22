@@ -112,6 +112,10 @@ I had the agent check the KJV for middle English words that were in the KJV that
 
 Round 4 the AI misread what I wanted, but it gave me something I wanted to do anyways.  It displayed a list of rare word changes in the verses that were already modified in the output.  This allows a re-review of things that may not be accurate.
 
-[Round 4 - re-review](./references/rare_word_round4_restoration_review.md)
-[Round 4 - re-review](./references/rare_word_round4_review.md)
+[Round 4 - re-review](./references/rare_word_round4_restoration_review.md) | 
+[Round 4 - re-review](./references/rare_word_round4_review.md) | 
 [Round 4 - Apply Preview](./references/rare_word_round4_apply_preview.md)
+
+Corn clearly does not belong in the bible, it wasn't even known the be edible until the discovery of the Americas.  This should be difinitive proof that the mandela effect is real and words have been in altered in the bible.
+
+[Corn to Wheat](./references/verses_wheat.md)
