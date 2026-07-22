@@ -377,9 +377,6 @@
 ## prancings → galloping — Judges 5:22
 - source: round-4 owner ruling 2026-07-21
 
-## pressing → turning — Luke 6:1
-- source: round-4 owner ruling 2026-07-21
-
 ## pressing → turning — Mark 5:31
 - source: round-4 owner ruling 2026-07-21
 

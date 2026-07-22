@@ -124,3 +124,7 @@ Corn clearly does not belong in the bible, it wasn't even known the be edible un
 Changed hail -> greet in many instances since the use of hail was also rare in the KJV.  This originally replaced salute which was inaccurate as well.
 
 [Salute -> Hail -> Greet](./references/hail_review.md)
+
+With those merged, it was time for round 5
+
+[Round 5 - re-review](./references/rare_word_round5_review.md)

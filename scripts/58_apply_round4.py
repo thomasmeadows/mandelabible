@@ -91,7 +91,7 @@ def keep_words():
     """Words whose owner ruling is KEEP WHITE LIST (protect, no text change)."""
     out, cur = set(), None
     for ln in REVIEW.read_text(encoding="utf-8").splitlines():
-        m = re.match(r'^#### <a name="[^"]+"></a>(.+?) — \d+ uses$', ln)
+        m = re.match(r'^#### <a name="[^"]+"></a>(.+?) — \d+ uses?$', ln)
         if m:
             cur = m.group(1)
         elif cur and ln.startswith("- owner ruling:"):

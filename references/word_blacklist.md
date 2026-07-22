@@ -11053,8 +11053,6 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="pressing"></a>pressing → turning
-- **turning** (Luke 6:1; rare word, round 4) — round-4 owner ruling 2026-07-21
-  - decided by: Human (owner)
 - **turning** (Mark 5:31; rare word, round 4) — round-4 owner ruling 2026-07-21
   - decided by: Human (owner)
 - **turning** (Proverbs 30:33; rare word, round 4) — round-4 owner ruling 2026-07-21
