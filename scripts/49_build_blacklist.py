@@ -33,6 +33,8 @@ R1 = ROOT / "references" / "rare_word_replacements.md"
 R2 = (ROOT / "references" / "rare_word_witness_batches_2" /
       "round2_ai_suggestions.md")
 R3 = ROOT / "references" / "rare_word_round3_replacements.md"
+R4 = ROOT / "references" / "rare_word_round4_replacements.md"
+GLOBAL = ROOT / "references" / "global_word_swaps.md"
 
 AI = "AI agent (king-james), owner-approved"
 HUMAN = "Human (owner)"
@@ -105,6 +107,44 @@ def round3():
             for w, r, ref, why in entries]
 
 
+def round4():
+    """Round-4 re-review removals (references/rare_word_round4_replacements.md).
+    Same per-verse `## old → new — Book C:V` format as round 1/3; owner-decided
+    (includes the global girded->adorned directive)."""
+    if not R4.exists():
+        return []
+    entries, cur = [], None
+    for line in R4.read_text(encoding="utf-8").splitlines():
+        m = HDR.match(line)
+        if m:
+            cur = [m.group(1).strip(), m.group(2).strip(),
+                   f"{m.group(3)} {m.group(4)}:{m.group(5)}", ""]
+            entries.append(cur)
+        elif cur is not None and line.startswith("- source:"):
+            cur[3] = line[len("- source:"):].strip()
+    return [(w, r, ref, why or "round-4 owner ruling", HUMAN, "rare word, round 4")
+            for w, r, ref, why in entries]
+
+
+def global_swaps():
+    """Bible-wide single-word owner directives
+    (references/global_word_swaps.md, e.g. corn -> wheat). Same per-verse
+    `## old → new — Book C:V` format as the rare-word rounds; owner-decided."""
+    if not GLOBAL.exists():
+        return []
+    entries, cur = [], None
+    for line in GLOBAL.read_text(encoding="utf-8").splitlines():
+        m = HDR.match(line)
+        if m:
+            cur = [m.group(1).strip(), m.group(2).strip(),
+                   f"{m.group(3)} {m.group(4)}:{m.group(5)}", ""]
+            entries.append(cur)
+        elif cur is not None and line.startswith("- source:"):
+            cur[3] = line[len("- source:"):].strip()
+    return [(w, r, ref, why or "global owner directive", HUMAN, "global word swap")
+            for w, r, ref, why in entries]
+
+
 def mixed_inflections():
     mappings = extract_dict(
         ROOT / "scripts" / "44_apply_mixed_inflections.py", "MAPPINGS")
@@ -158,8 +198,8 @@ ALLOW_SHRINK = "--allow-shrink" in sys.argv
 
 
 def main():
-    rows = round1() + round2() + round3() + mixed_inflections() + manual_words() \
-        + names()
+    rows = round1() + round2() + round3() + round4() + global_swaps() \
+        + mixed_inflections() + manual_words() + names()
     by_word = defaultdict(list)
     for word, repl, ref, why, decider, source in rows:
         by_word[word.lower()].append((word, repl, ref, why, decider, source))

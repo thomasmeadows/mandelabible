@@ -149,42 +149,42 @@
   - base: And now abideth faith, hope, charity, these three; but the greatest of these is charity. 
   - now:  And now **abides** faith, hope, and love, but the greatest of these is love.
   - why:  TSBC memory testimony: 1 Corinthians 13:13 restored per documented public memory. Notes: As the residue suggests, it could be "abideth" or "abides".
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to abideth, keep the rest of the verse.  Add abide and abideth as a white list word and inflections thereof
 
 #### <a name="acted"></a>acted — 1 use
 - **Psalms 106:6**  (restoration #9257, `manual_verse_correction`)
   - base: We have sinned with our fathers, we have committed iniquity, we have done wickedly.
   - now:  We have sinned with our fathers: we have **acted** wickedly, have done wrongly.
   - why:  Owner-supplied full-verse correction (manual_verse_corrections.md, 2026-07-18)
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="alert"></a>alert — 1 use
 - **Genesis 1:26**  (restoration #3600, `tsbc_memory`)
   - base: And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
   - now:  And God said, "I will make man in my own image, and make him king over all my dominion.  He shall be more be more numerous than the birds of the air and the fishes of the sea.  He shall be as rugged as the mountains, as fearless and daring as the lion, as **alert** as the fox and as swift as the eagle."
   - why:  TSBC memory testimony: Genesis 1:26 restored per documented public memory. Notes: This editor does not recall the discussion of God saying "let us make man in my our image".  While
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="aloe"></a>aloe — 1 use
 - **Numbers 24:6**  (restoration #5916, `rare_word_swap`)
   - base: As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the Lord hath planted, and as cedar trees beside the waters.
   - now:  As the valleys are they spread forth, as gardens by the river's side, as the **aloe** trees which the Lord hath planted, and as cedar trees beside the waters.
   - why:  lign -> tree: CUR's "trees of tree aloes" repeats "tree" awkwardly. Geneva's simpler "the aloe trees" avoids the redundancy while keeping the same sense; a rephrase rather than one
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="arrow-s"></a>arrow's — 1 use
 - **Genesis 21:16**  (restoration #4454, `rare_word_swap`)
   - base: And she went, and sat her down over against him a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept.
   - now:  And she went, and sat her down over against him a good way off, as it were an **arrow's** flight: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept.
   - why:  bowshot -> an arrow's flight: "Bowshot" is a compound period distance-measure retained by every witness including pre-1611 Wycliffe's paraphrase. BBE attests "about an arrow flight
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="attainable"></a>attainable — 1 use
 - **Galatians 2:21**  (restoration #9743, `kjvrestore_fold`)
   - base: I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain. 
   - now:  I do not frustrate the grace of God: for if righteousness is **attainable** by the law, then Christ hath died in vain.
   - why:  kjvrestore.org restored reading for Galatians 2:21 folded in wholesale (owner directive 2026-07-19).
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise attainable -> "cometh"  - Attainable is modern and not period authentic and never used in Early Modern English or the KJV.  Likely a memory of a teaching.
 
 #### <a name="bearer"></a>bearer — 1 use
 - **Isaiah 10:18**  (restoration #3573, `word_substitution`)
@@ -198,7 +198,7 @@
   - base: Drink no longer water, but use a little wine for thy stomach’s sake and thine often infirmities.
   - now:  Drink no longer water, but use a little wine for thy **belly's** sake and thine often infirmities.
   - why:  stomach's -> belly's: CUR was left unchanged from OLD, never actually replacing the flagged word. "Belly" is a genuinely different, common KJV word (52x); the possessive form follo
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="blower"></a>blower — 1 use
 - **Jeremiah 6:29**  (restoration #5266, `rare_word_swap`)
@@ -212,7 +212,7 @@
   - base: Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not thy lips, and eat not the bread of men.
   - now:  Forbear to cry, make no mourning for the dead, bind the **bonnet** of thine head upon thee, and put on thy shoes upon thy feet, and cover not thy lips, and eat not the bread of men.
   - why:  tire -> beauty: "beauty" turns a headdress into an abstraction. "Bonnet" is the KJV's own word for this kind of headdress (Exodus 28:40, Leviticus 8:13) and matches YLT here.
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="bounding"></a>bounding — 1 use
 - **Nahum 3:2**  (restoration #5869, `rare_word_swap`)
@@ -233,14 +233,14 @@
   - base: He smote their vines also and their fig trees; and brake the trees of their coasts.
   - now:  And he smote their vines and their fig-trees, and **broke** the trees of their boundary.
   - why:  Owner-supplied full-verse correction (manual_verse_corrections.md, 2026-07-18)
-- owner ruling: revert to base, brake is common Early Modern English
+- owner ruling: revise to brake, brake is common Early Modern English
 
 #### <a name="broom"></a>broom — 1 use
 - **Isaiah 14:23**  (restoration #5087, `rare_word_swap`)
   - base: I will also make it a possession for the bittern, and pools of water: and I will sweep it with the besom of destruction, saith the Lord of hosts.
   - now:  I will also make it a possession for the bittern, and pools of water: and I will sweep it with the **broom** of destruction, saith the Lord of hosts.
   - why:  besom -> broom: CUR's "mire of destruction" wrongly substitutes a swampy image for the sweeping image the verse requires. ACV's and BSB's "broom of destruction" attest a genuinely 
-- owner ruling: KEEP WHITE LIST
+- owner ruling: KEEP WHITE LIST - While broom is a rare word, so is besom.  Broom is used by other translations and describes well what is happening here
 
 #### <a name="brows"></a>brows — 1 use
 - **Leviticus 14:9**  (restoration #5627, `rare_word_swap`)
@@ -254,7 +254,7 @@
   - base: As for Samaria, her king is cut off as the foam upon the water.
   - now:  As for Samaria, her king is cut off as the **chip** upon the water.
   - why:  foam -> chip: CUR "cut off as the wrath upon the water" is nonsensical — wrath cannot sit upon water. YLT and Darby read "chip"/"chips" — a genuinely different word with a sound im
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to "chip of wood" and add chip to white list.  A chip of wood is a twig or small piece of floating wood.  No early modern english word aside from chip of wood.
 
 #### <a name="citron"></a>citron — 1 use
 - **Revelation of John 18:12**  (restoration #3594, `word_substitution`)
@@ -268,28 +268,28 @@
   - base: Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
   - now:  I am the way, the truth and the life. No man **comes** to the Father except through me.
   - why:  BLEND (233_john_14_6.jpg): Owner Override 7/19/26: authentic memory.
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: Revise to cometh, keeps the KJV format of the inflection.
 
 #### <a name="commits"></a>commits — 1 use
 - **Matthew 5:32**  (restoration #3733, `tsbc_memory`)
   - base: But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
   - now:  But I say unto you, That whosoever shall put away his wife, save for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is put away **commits** adultery.
   - why:  TSBC memory testimony: Matthew 5:32 restored per documented public memory
-- owner ruling: revert to base, committeth is authentic KJV era wording, commit is only used one time. Add committeth to white list.
+- owner ruling: revise to committeth - authentic KJV era wording, commit is only used one time. Add committeth to white list.
 
 #### <a name="cooked"></a>cooked — 1 use
 - **Leviticus 2:7**  (restoration #5609, `rare_word_swap`)
   - base: And if thy oblation be a meat offering baken in the fryingpan, it shall be made of fine flour with oil.
   - now:  And if thy oblation be a meat offering **cooked** in a pot, it shall be made of fine flour with oil.
   - why:  fryingpan -> pan: "pan" is genuinely different, common in the corpus, and does not collide with any other word in this particular verse (unlike the parallel entry at Leviticus 7:9,
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: Revise "cooked in a pot" to "baken in a pan".  frying does not add clarity to this verse and fryingpan only appears twice in KJV.  A pot is inaccurate cause you would not put flour and oil in a pot, rather you would use a pan.  Cooked never appears in the KJV at all.
 
 #### <a name="cooking"></a>cooking — 1 use
 - **Leviticus 7:9**  (restoration #5613, `rare_word_swap`)
   - base: And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest’s that offereth it.
   - now:  And all the meat offering that is baked in the oven, and all that is dressed in the **cooking** pot, or in a pan, shall be the priest's that offers it.
   - why:  fryingpan -> caldron: This verse already uses "pan" for a second vessel, so CUR's proposed swap could not simply reuse that word without collision (the entry itself notes no safe o
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: Revise erase "cooking".  fryingpan and in the pan makes no sense here.  In the pot, or in the pan is a more logical flow and early modern english common phrase.  Cooking is modern and never used in the KJV.
 
 #### <a name="cricket"></a>cricket — 1 use
 - **Leviticus 11:22**  (restoration #5620, `rare_word_swap`)
@@ -324,14 +324,14 @@
   - base: Thy hands were not bound, nor thy feet put into fetters: as a man falleth before wicked men, so fellest thou. And all the people wept again over him.
   - now:  Thy hands were not bound, nor thy feet put into fetters: as a man falleth before wicked men, so **cruellest** thou. And all the people wept again over him.
   - why:  Era-audit anachronism [KJ-agent 2026-07-14]: 'fellest' flagged not-period; advised period alternate 'cruellest' (KJV's own rendering of the underlying word elsewhere). Check inflec
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: Revise "so cruellest thou" or "so fellest thou" to "so didst though fall"
 
 #### <a name="daring"></a>daring — 1 use
 - **Genesis 1:26**  (restoration #3600, `tsbc_memory`)
   - base: And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
   - now:  And God said, "I will make man in my own image, and make him king over all my dominion.  He shall be more be more numerous than the birds of the air and the fishes of the sea.  He shall be as rugged as  as the mountains, as fearless and **daring** as the lion, as alert as the fox and as swift as the eagle."
   - why:  TSBC memory testimony: Genesis 1:26 restored per documented public memory. Notes: This editor does not recall the discussion of God saying "let us make man in my our image".  While
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="darker"></a>darker — 1 use
 - **Lamentations 4:8**  (restoration #5604, `rare_word_swap`)
@@ -345,7 +345,7 @@
   - base: For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,
   - now:  For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing **deformed**,
   - why:  TSBC memory testimony: Leviticus 21:18 restored per documented public memory
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to crooked and add crooked to white list
 
 #### <a name="does"></a>does — 1 use
 - **Mark 2:7**  (restoration #3782, `tsbc_memory`)
@@ -359,7 +359,7 @@
   - base: Issachar is a strong ass couching down between two burdens:
   - now:  Issachar is a strong **donkey** crouching down between two burdens:
   - why:  TSBC memory testimony: Genesis 49:14 restored per documented public memory
-- owner ruling: REVERT TO BASE add ass to white list.  An ass is a KJV era word for donkey.
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="edged"></a>edged — 1 use
 - **Revelation of John 1:16**  (restoration #9805, `kjvrestore_fold`)
@@ -380,7 +380,7 @@
   - base: The north wind driveth away rain: so doth an angry countenance a backbiting tongue.
   - now:  The north wind driveth away rain: so doth an angry countenance an **evil-speaking** tongue.
   - why:  backbiting -> evil speaking: "Evil-speaking" mirrors the KJV's own compound idiom (compare "evil speakings" already present at II Corinthians 12:20 in this same word group) and pre
-- owner ruling: Revert, add backbiting to the White list, back biting is a famous verse
+- owner ruling: Revert, add backbiting to the White list, backbiting is a famous verse
 
 #### <a name="exult"></a>exult — 1 use
 - **Revelation of John 19:7**  (restoration #9223, `manual_verse_correction`)
@@ -471,7 +471,7 @@
   - base: And did eat up all the herbs in their land, and devoured the fruit of their ground.
   - now:  And they devoured all the **herbage** of their land, and devoured the fruit of their ground.
   - why:  Owner-supplied full-verse correction (manual_verse_corrections.md, 2026-07-18)
-- owner ruling: revert and add harbs to white list.
+- owner ruling: revert and add herbs to white list.
 
 #### <a name="hoes"></a>hoes — 1 use
 - **I Samuel 13:21**  (restoration #4734, `rare_word_swap`)
@@ -520,7 +520,7 @@
   - base: They were children of fools, yea, children of base men: they were viler than the earth.
   - now:  They were children of fools, yea, children of base men: they were **meaner** than the earth.
   - why:  viler -> meaner: CUR's "baser" shares its root with "base men" earlier in the same verse ("children of base men: they were baser than the earth"), a near-duplicate (rule 12). "mean
-- owner ruling: revert to base.  Add viler to white list
+- owner ruling: rewrite the verse.  "They were children of fools and vile: they were forced out of their land.""
 
 #### <a name="meddles"></a>meddles — 1 use
 - **Proverbs 18:1**  (restoration #6001, `rare_word_swap`)
@@ -541,14 +541,14 @@
   - base: Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:
   - now:  Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have now betrayed and **murdered**:
   - why:  betrayers -> betrayed: "betrayers" is a corpus hapax paired with "murderers"; recasting as parallel verbs "betrayed and murdered" preserves the accusation and both actions without 
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="napkins"></a>napkins — 1 use
 - **Acts 19:12**  (restoration #3961, `rare_word_swap`)
   - base: So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.
   - now:  So that from his body were brought unto the sick **napkins** or aprons, and the diseases departed from them, and the evil spirits went out of them.
   - why:  handkerchiefs -> napkins: "napkins" is genuinely different from "handkerchiefs", attested in KJV.db (John 11:44, 20:7), and matches Tyndale's "napkyns."
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="numerous"></a>numerous — 1 use
 - **Genesis 1:26**  (restoration #3600, `tsbc_memory`)
@@ -569,7 +569,7 @@
   - base: Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.
   - now:  Looking unto Jesus the author and **perfecter** of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.
   - why:  finisher -> perfecter: "perfecter" is genuinely different from "finisher" and matches YLT, ASV, and ACV exactly.
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="plowshare"></a>plowshare — 1 use
 - **I Samuel 13:20**  (restoration #4733, `rare_word_swap`)
@@ -611,7 +611,7 @@
   - base: To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men.
   - now:  To speak evil of no man, to be no **railers**, but gentle, shewing all meekness unto all men.
   - why:  brawlers -> railers: Consistent with I Timothy 3:3 above; "railers" is a genuinely different, common word for the same fault.
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revert, add brawlers to whitelist.
 
 #### <a name="relented"></a>relented — 1 use
 - **Jonah 3:10**  (restoration #9843, `residue_verse_proposal`)
@@ -639,7 +639,7 @@
   - base: And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, were all molten.
   - now:  And the work of the wheels was like the work of a chariot wheel: their axles, and their naves, and their **rims**, and their spokes, were all molten.
   - why:  axletrees -> axles: Same reasoning as 1 Kings 7:32 above (the immediately following verse) — "axles" matches RWebster's own rendering, with the same zero-corpus caveat noted there.
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="rugged"></a>rugged — 1 use
 - **Genesis 1:26**  (restoration #3600, `tsbc_memory`)
@@ -688,105 +688,105 @@
   - base: Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth.
   - now:  Now there was set a vessel full of vinegar: and they filled a **sponge** with vinegar, and put it upon hyssop, and put it to his mouth.
   - why:  TSBC memory testimony: John 19:29 restored per documented public memory. Notes: sponge not spunge
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="statues"></a>statues — 1 use
 - **Psalms 105:45**  (restoration #3686, `tsbc_memory`)
   - base: That they might observe his statutes, and keep his laws. Praise ye the Lord. 
   - now:  To the end that they might observe His **statues**, And keep His laws. Hallelujah!
   - why:  TSBC memory testimony: Psalms 105:45 restored per documented public memory
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="streaming"></a>streaming — 1 use
 - **Jude 1:13**  (restoration #5536, `rare_word_swap`)
   - base: Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.
   - now:  Raging waves of the sea, **streaming** out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.
   - why:  foaming -> streaming: CUR is unchanged from OLD. BBE reads "streaming with their shame" — a genuinely different word for this figurative use (unlike the medical sense at Mark 9:20/
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to crying
 
 #### <a name="tackle"></a>tackle — 1 use
 - **Isaiah 33:23**  (restoration #3592, `word_substitution`)
   - base: Thy tacklings are loosed; they could not well strengthen their mast, they could not spread the sail: then is the prey of a great spoil divided; the lame take the prey.
   - now:  Thy **tackle** are loosed; they could not well strengthen their mast, they could not spread the sail: then is the prey of a great spoil divided; the lame take the prey.
   - why:  Era-audit anachronism [KJ-agent 2026-07-14]: 'tacklings' flagged not-period; advised period alternate 'tackle' (KJV's own rendering of the underlying word elsewhere). Check inflect
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to ropes, add to whitelist.
 
 #### <a name="talebearers"></a>talebearers — 1 use
 - **I Timothy 5:13**  (restoration #4811, `rare_word_swap`)
   - base: And withal they learn to be idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.
   - now:  And withal they learn to be idle, wandering about from house to house; and not only idle, but **talebearers** also and curious in other men's matters, speaking things which they ought not.
   - why:  busybodies -> curious in other men's matters: Same reasoning as II Thessalonians 3:11, kept consistent for the parallel term; "meddlers" is unattested, and the "curious in other me
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="taskmaster"></a>taskmaster — 1 use
 - **Job 39:7**  (restoration #5456, `rare_word_swap`)
   - base: He scorneth the multitude of the city, neither regardeth he the crying of the driver.
   - now:  He scorneth the multitude of the city, neither regardeth he the crying of the **taskmaster**.
   - why:  driver -> taskmaster: CUR's "the crying of the oppressor" wrongly changes the sense in context (a driver who compels labor/beasts, not a general oppressor). "Taskmaster," attested 
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="tongued"></a>tongued — 1 use
 - **I Timothy 3:8**  (restoration #9696, `kjvrestore_fold`)
   - base: Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;
   - now:  Likewise must the deacons be grave, not double **tongued**, not given to much wine, not greedy of filthy lucre;
   - why:  kjvrestore.org restored reading for 1 Timothy 3:8 folded in wholesale (owner directive 2026-07-19).
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="tools"></a>tools — 1 use
 - **II Chronicles 34:6**  (restoration #4860, `rare_word_swap`)
   - base: And so did he in the cities of Manasseh, and Ephraim, and Simeon, even unto Naphtali, with their mattocks round about.
   - now:  And so did he in the cities of Manasseh, and Ephraim, and Simeon, even unto Naphtali, with their **tools** round about.
   - why:  mattocks -> swords: "swords" makes no sense in context (demolishing idolatrous altars, not fighting). Witnesses diverge widely here (some read "ruins," not a tool at all), but YLT'
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to temples
 
 #### <a name="towards"></a>towards — 1 use
 - **Genesis 43:30**  (restoration #4495, `rare_word_swap`)
   - base: And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there.
   - now:  And Joseph made haste; for his heart were moved **towards** his brother: and he sought where to weep; and he entered into his room, and wept there.
   - why:  yearn -> were moved: CUR's "his bowels did black upon his brother" is nonsensical. Following rule 2 (auxiliary must agree with the new word's part of speech), Wycliffe, YLT, and DR
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to upon.  Common KJV.
 
 #### <a name="trim"></a>trim — 1 use
 - **Deuteronomy 21:12**  (restoration #4138, `rare_word_swap`)
   - base: Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;
   - now:  Then thou shalt bring her home to thine house; and she shall shave her head, and **trim** her nails;
   - why:  pare -> trim: CUR "prepared her nails" is the wrong action (prepared ≠ cut/trim). UKJV/BSB independently read "trim her nails"; "trim" is genuinely different and attested in the KJ
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="various"></a>various — 1 use
 - **Psalms 105:31**  (restoration #9238, `manual_verse_correction`)
   - base: He spake, and there came divers sorts of flies, and lice in all their coasts.
   - now:  He spoke, and there came **various** insects, and gnats in all their boundary.
   - why:  Owner-supplied full-verse correction (manual_verse_corrections.md, 2026-07-18)
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to diverse and add to whitelist.
 
 #### <a name="veils"></a>veils — 1 use
 - **Isaiah 3:23**  (restoration #9068, `rare_word_swap2`)
   - base: The glasses, and the fine linen, and the hoods, and the vails.
   - now:  The glasses, and the fine linen, and the garments, and the **veils**.
   - why:  kerchiefs -> garments: Same reasoning as 3:22; keeping the replacement word identical across both occurrences preserves internal consistency of this single list of luxury items.
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="vexeth"></a>vexeth — 1 use
 - **Ecclesiastes 10:15**  (restoration #4182, `rare_word_swap`)
   - base: The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.
   - now:  The labour of the foolish **vexeth** every one of them, because he knoweth not how to go to the city.
   - why:  wearieth -> vexeth: CUR's "The labour... laboureth" repeats the same root as its own subject, an awkward duplication. "vexeth" is a common KJV verb (Judges, Psalms) conveying the s
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to adorned.  Wearieth and vexeth are too rarely used in KJV.  Adorned is more common.
 
 #### <a name="woodsman"></a>woodsman — 1 use
 - **Isaiah 14:8**  (restoration #5082, `rare_word_swap`)
   - base: Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.
   - now:  Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no **woodsman** is come up against us.
   - why:  feller -> woodsman: CUR "no cut is come up against us" is ungrammatical — "cut" cannot serve as a person here. RWebster reads "no woodsman is come up against us" — a genuinely diff
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="wrongly"></a>wrongly — 1 use
 - **Psalms 106:6**  (restoration #9257, `manual_verse_correction`)
   - base: We have sinned with our fathers, we have committed iniquity, we have done wickedly.
   - now:  We have sinned with our fathers: we have acted wickedly, have done **wrongly**.
   - why:  Owner-supplied full-verse correction (manual_verse_corrections.md, 2026-07-18)
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise have done wrongly to we have done wrongly
 
 #### <a name="awl"></a>awl — 2 uses
 - **Exodus 21:6**  (restoration #4257, `rare_word_swap`)
@@ -797,7 +797,7 @@
   - base: Then thou shalt take an aul, and thrust it through his ear unto the door, and he shall be thy servant for ever. And also unto thy maidservant thou shalt do likewise.
   - now:  Then thou shalt take an **awl**, and thrust it through his ear unto the door, and he shall be thy servant for ever. And also unto thy maidservant thou shalt do likewise.
   - why:  Era-audit anachronism [KJ-agent 2026-07-14]: 'aul' flagged not-period; advised period alternate 'awl' (KJV's own rendering of the underlying word elsewhere). Check inflection fit i
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise "an awl" to "a needle".  Needle and Needlework are more common in the KJV.
 
 #### <a name="axles"></a>axles — 2 uses
 - **I Kings 7:32**  (restoration #4675, `rare_word_swap`)
@@ -808,7 +808,7 @@
   - base: And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, were all molten.
   - now:  And the work of the wheels was like the work of a chariot wheel: their **axles**, and their naves, and their rims, and their spokes, were all molten.
   - why:  axletrees -> axles: Same reasoning as 1 Kings 7:32 above (the immediately following verse) — "axles" matches RWebster's own rendering, with the same zero-corpus caveat noted there.
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="badger"></a>badger — 2 uses
 - **Deuteronomy 14:7**  (restoration #4113, `rare_word_swap`)
@@ -819,7 +819,7 @@
   - base: And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.
   - now:  And the rock **badger**, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.
   - why:  coney -> rock badger: "shaphan" is a bare transliteration, not English. Darby's witness rendering "rock-badger" gives an authentic period-flavored alternative; "badger"/"badgers" i
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="blocks"></a>blocks — 2 uses
 - **Zephaniah 1:3**  (restoration #3588, `word_substitution`)
@@ -830,7 +830,7 @@
   - base: Therefore thus saith the Lord, Behold, I will lay stumblingblocks before this people, and the fathers and the sons together shall fall upon them; the neighbour and his friend shall perish.
   - now:  Therefore thus saith the Lord, Behold, I will lay stumbling **blocks** before this people, and the fathers and the sons together shall fall upon them; the neighbour and his friend shall perish.
   - why:  Era-audit anachronism [KJ-agent 2026-07-14]: 'stumblingblocks' flagged not-period; advised period alternate 'stumbling blocks' (KJV's own rendering of the underlying word elsewhere
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="boundary"></a>boundary — 2 uses
 - **Psalms 105:31**  (restoration #9238, `manual_verse_correction`)
@@ -841,7 +841,7 @@
   - base: He smote their vines also and their fig trees; and brake the trees of their coasts.
   - now:  And he smote their vines and their fig-trees, and broke the trees of their **boundary**.
   - why:  Owner-supplied full-verse correction (manual_verse_corrections.md, 2026-07-18)
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to borders.  Borders is more common and well attested in other translations and in the KJV
 
 #### <a name="bulwark"></a>bulwark — 2 uses
 - **Lamentations 2:8**  (restoration #5589, `rare_word_swap`)
@@ -852,7 +852,7 @@
   - base: Art thou better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?
   - now:  Art thou better than plenteous No, that was situate among the rivers, that had the waters round about it, whose **bulwark** was the sea, and her wall was from the sea?
   - why:  populous -> plenteous: Same reasoning as Deuteronomy 26:5 — "plenteous" is a genuinely different, attested KJV word conveying abundance, consistent with Geneva1599's "full of peopl
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: Revise to rampart, add rampart to whitelist
 
 #### <a name="chiefs"></a>chiefs — 2 uses
 - **Genesis 36:15**  (restoration #8975, `rare_word_swap2`)
@@ -863,14 +863,14 @@
   - base: These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations.
   - now:  These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve **chiefs** according to their tribes.
   - why:  settlements -> castles: "settlements" is corpus-unique and modern-flavored; "castles" clears the attestation bar and is directly attested as the reading for this exact verse in fou
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: Complete rewrite/revise of Genesis 36:15 per other translations "These were the sons of Esau: the sons of Eliphaz the firstborn son of Esau; Teman, Omar, Zepho, Kenaz," & Genesis 25:16 just erase "chiefs of"
 
 #### <a name="claw"></a>claw — 2 uses
 - **I Samuel 17:37**  (restoration #4747, `rare_word_swap`)
   - base: David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the Lord be with thee.
   - now:  David said moreover, The Lord that delivered me out of the **claw** of the lion, and out of the **claw** of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the Lord be with thee.
   - why:  paw -> claw: CUR "hand of the lion" collapses the deliberate distinction the verse draws between animal "paw" and the human "hand of this Philistine" later in the same sentence. BS
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="compelleth"></a>compelleth — 2 uses
 - **II Corinthians 5:14**  (restoration #4880, `rare_word_swap`)
@@ -881,7 +881,7 @@
   - base: For I am full of matter, the spirit within me constraineth me.
   - now:  For I am full of matter, the spirit within me **compelleth** me.
   - why:  constraineth -> compelleth: CUR's "keepeth" misses the sense of inward pressure/urging to speak. Geneva1599's witness reads "the spirite within me compelleth me" exactly; "compel" 
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="donkeys"></a>donkeys — 2 uses
 - **Genesis 44:3**  (restoration #3632, `tsbc_memory`)
@@ -892,7 +892,7 @@
   - base: And the man brought the men into Joseph’s house, and gave them water, and they washed their feet; and he gave their asses provender.
   - now:  And the man brought the men into Joseph's house, and gave them water, and they washed their feet; and he gave their **donkeys** fodder.
   - why:  Round-3 rare-word replacement (provender): owner-approved 2026-07-21 (references/rare_word_round3_review.md; edits in rare_word_round3_replace_preview.md). Merged onto current text
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to asses and white list.  asses
 
 #### <a name="exiled"></a>exiled — 2 uses
 - **II Samuel 14:13**  (restoration #4983, `rare_word_swap`)
@@ -903,7 +903,7 @@
   - base: For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither doth God respect any person: yet doth he devise means, that his banished be not expelled from him.
   - now:  For we must needs die, and are as water poured on the ground, which cannot be gathered up again; neither doth God respect any person: yet doth he devise means, that his **exiled** be not expelled from him.
   - why:  banished -> exiled: Owner Choice 7/17/26 - Match other exile changes to banishment - CUR's "or to cause" destroys the sense of a legal penalty. Wycliffe's "exilyng" attests the sam
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="falcon"></a>falcon — 2 uses
 - **Leviticus 11:14**  (restoration #5617, `rare_word_swap`)
@@ -914,7 +914,7 @@
   - base: And the glede, and the kite, and the vulture after his kind,
   - now:  And the hawk, and the kite, and the **falcon** after his kind,
   - why:  glede -> hawk: CUR's "vulture" duplicates the "vulture" already later in the same verse ("the vulture, and the kite, and the vulture" — nonsensical repetition). "hawk" is a genuine
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="fork"></a>fork — 2 uses
 - **I Samuel 2:13**  (restoration #4719, `rare_word_swap`)
@@ -925,7 +925,7 @@
   - base: And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.
   - now:  And he struck it into the pan, or kettle, or caldron, or pot; all that the **fork** brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.
   - why:  fleshhook -> fork: Paired with I Samuel 2:13 above; matches UKJV exactly ("all that the fork brought up").
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to hook
 
 #### <a name="gatherers"></a>gatherers — 2 uses
 - **Obadiah 1:5**  (restoration #5932, `rare_word_swap`)
@@ -936,7 +936,7 @@
   - base: If grapegatherers come to thee, would they not leave some gleaning grapes? if thieves by night, they will destroy till they have enough.
   - now:  If **gatherers** come to thee, would they not leave some gleaning grapes? if thieves by night, they will destroy till they have enough.
   - why:  grapegatherers -> gatherers: CUR's "walls" is nonsensical (walls do not gather grapes). YLT renders this clause "If gatherers have come in to thee"; "gatherers" is attested and gra
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="musician"></a>musician — 2 uses
 - **Habakkuk 3:19**  (restoration #4515, `rare_word_swap`)
@@ -947,7 +947,7 @@
   - base: And these are they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,
   - now:  And these are they that waited with their children. Of the sons of the Kohathites: Heman a **musician**, the son of Joel, the son of Shemuel,
   - why:  singer -> sing: CUR turns the noun into a bare verb ("Heman a sing" is ungrammatical). "musician" is well attested in KJV (55 verses, especially in the Psalm superscriptions' "chie
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="overthrowing"></a>overthrowing — 2 uses
 - **II Timothy 2:14**  (restoration #5018, `rare_word_swap`)
@@ -958,14 +958,14 @@
   - base: Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment:
   - now:  Forasmuch as we have heard, that certain which went out from us have troubled you with words, **overthrowing** your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment:
   - why:  subverting -> overthrowing: "overthrowing" is common in the KJV corpus and preserves the sense of unsettling/undermining the souls of the hearers.
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revert to subverting and add to whitelist
 
 #### <a name="prancings"></a>prancings — 2 uses
 - **Judges 5:22**  (restoration #3546, `word_substitution`)
   - base: Then were the horsehoofs broken by the means of the pransings, the pransings of their mighty ones.
   - now:  Then were the horses broken by the means of the **prancings**, the **prancings** of their mighty ones.
   - why:  Era-audit anachronism [KJ-agent 2026-07-14]: 'pransings' flagged not-period; advised period alternate 'prancings' (KJV's own rendering of the underlying word elsewhere). Check infl
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to galloping and whitelist galloping
 
 #### <a name="sea-mew"></a>sea-mew — 2 uses
 - **Leviticus 11:16**  (restoration #5618, `rare_word_swap`)
@@ -976,7 +976,7 @@
   - base: And the owl, and the night hawk, and the cuckow, and the hawk after his kind,
   - now:  And the owl, and the night hawk, and the **sea-mew**, and the hawk after his kind,
   - why:  cuckow -> sea-mew: Same word and same reasoning as Leviticus 11:16 — Geneva1599 ("semeaw") and ASV both attest "sea-mew" for this verse.
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to seagull and add seagull to whitelist
 
 #### <a name="smiter"></a>smiter — 2 uses
 - **Titus 1:7**  (restoration #6296, `rare_word_swap`)
@@ -987,7 +987,7 @@
   - base: Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;
   - now:  Not given to wine, no **smiter**, not greedy of filthy lucre; but patient, not a railer, not covetous;
   - why:  brawler -> railer: "Railer" is a genuinely different, common KJV-family word for a quarrelsome person (compare "a railer," 1 Corinthians 5:11) and fits the grammar without further 
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: Revert, add striker to whitelist
 
 #### <a name="spade"></a>spade — 2 uses
 - **Isaiah 7:25**  (restoration #5061, `rare_word_swap`)
@@ -998,7 +998,7 @@
   - base: But all the Israelites went down to the Philistines, to sharpen every man his share, and his coulter, and his axe, and his mattock.
   - now:  But all the Israelites went down to the Philistines, to whet every man his plowshare, and his hook, and his axe, and his **spade**.
   - why:  coulter -> hook: CUR "plowshares" duplicates the tool already named as "share" earlier in the same verse (share and plowshare being the same implement). Geneva1599's tool-list for 
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="spoke"></a>spoke — 2 uses
 - **Psalms 105:31**  (restoration #9238, `manual_verse_correction`)
@@ -1009,7 +1009,7 @@
   - base: He spake, and the locusts came, and caterpillers, and that without number,
   - now:  He **spoke**, and the locust came, and crickets; and that without number.
   - why:  Owner-supplied full-verse correction (manual_verse_corrections.md, 2026-07-18)
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to spake.  Spake is KJV authentic and revise various in Psalms 105:31 to diverse
 
 #### <a name="straights"></a>straights — 2 uses
 - **Job 20:22**  (restoration #9831, `strait_straight`)
@@ -1020,7 +1020,7 @@
   - base: Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.
   - now:  Judah is gone into captivity because of affliction, and because of great service: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the **straights**.
   - why:  strait -> straight (owner directive 2026-07-19; case-preserving, plural included).
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="unbeliever"></a>unbeliever — 2 uses
 - **I Timothy 5:8**  (restoration #4810, `rare_word_swap`)
@@ -1031,7 +1031,7 @@
   - base: And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?
   - now:  And what agreement hath Christ with Belial? or what part hath he that believeth with an **unbeliever**?
   - why:  concord -> agreement: No period witness diverges from "concord" here, but "agreement" is a genuinely different word, reasonably well attested in the corpus (42 hits), and captures 
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="curd"></a>curd — 3 uses
 - **I Samuel 17:18**  (restoration #4745, `rare_word_swap`)
@@ -1046,7 +1046,7 @@
   - base: Hast thou not poured me out as milk, and curdled me like cheese?
   - now:  Hast thou not poured me out as milk, and curdled me like **curd**?
   - why:  cheese -> curd: CUR's "curdled me like like" is a duplicated nonsense reading. "curd" (7 occurrences) is well attested and preserves the sense.
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revert to cheese and white list cheese.
 
 #### <a name="demon"></a>demon — 3 uses
 - **Mark 7:29**  (restoration #3795, `tsbc_memory`)
@@ -1061,7 +1061,7 @@
   - base: The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
   - now:  The woman was a Greek, a Syrophenician by nation; and she besought Him that He would cast forth the **demon** out of her daughter.
   - why:  TSBC memory testimony: Mark 7:26 restored per documented public memory
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="pressing"></a>pressing — 3 uses
 - **Mark 5:31**  (restoration #5766, `rare_word_swap`)
@@ -1076,7 +1076,7 @@
   - base: And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.
   - now:  And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, **pressing** them in their hands.
   - why:  rubbing -> pressing: "pressing" is genuinely different from "rubbing", common in the corpus (e.g. Luke 6:38 "pressed down"), and preserves the meaning of the disciples working the 
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to turning
 
 #### <a name="stained"></a>stained — 3 uses
 - **Jeremiah 22:14**  (restoration #5298, `rare_word_swap`)
@@ -1091,7 +1091,7 @@
   - base: And when Jehu was come to Jezreel, Jezebel heard of it; and she painted her face, and tired her head, and looked out at a window.
   - now:  And when Jehu was come to Jezreel, Jezebel heard of it; and she **stained** her face, and adorned her head, and looked out at a window.
   - why:  painted -> stained: CUR "anointed her face" wrongly imports religious/ceremonial anointing where the text describes cosmetic makeup — a real change of meaning. "stained" is genuine
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="threats"></a>threats — 3 uses
 - **Acts 4:29**  (restoration #3892, `rare_word_swap`)
@@ -1106,7 +1106,7 @@
   - base: And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
   - now:  And, ye masters, do the same things unto them, forbearing **threats**: knowing that your Master also is in heaven; neither is there respect of persons with him.
   - why:  threatening -> threats: CUR is a garbled non-word ("threateningeing"). BSB renders "threats," which is attested in the KJV corpus (Acts 4:29, 9:1 use the related plural "threatenin
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to grievances and add grievances and grievance to white list
 
 #### <a name="trimming"></a>trimming — 3 uses
 - **Exodus 37:23**  (restoration #3570, `word_substitution`)
@@ -1121,7 +1121,7 @@
   - base: And the tongs thereof, and the snuffdishes thereof, shall be of pure gold.
   - now:  And the tongs thereof, and the **trimming** dishes thereof, shall be of pure gold.
   - why:  Era-audit anachronism [KJ-agent 2026-07-14]: 'snuffdishes' flagged not-period; advised period alternate 'trimming dishes' (KJV's own rendering of the underlying word elsewhere). Ch
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="thyselves"></a>thyselves — 4 uses
 - **Romans 6:16**  (restoration #9822, `kjvrestore_fold`)
@@ -1140,7 +1140,7 @@
   - base: Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
   - now:  Wives, submit **thyselves** unto thy own husbands, as it is fit in the Lord.
   - why:  kjvrestore.org restored reading for Colossians 3:18 folded in wholesale (owner directive 2026-07-19).
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to "thine own self"
 
 #### <a name="denarius"></a>denarius — 5 uses
 - **Matthew 20:2**  (restoration #3763, `tsbc_memory`)
@@ -1163,7 +1163,7 @@
   - base: But he answered one of them, and said, Friend, I do thee no wrong: didst not thou agree with me for a penny?
   - now:  But he answered one of them, and said, Friend, I do thee no wrong: didst not thou agree with me for a **denarius**?
   - why:  TSBC memory testimony: Matthew 20:13 restored per documented public memory
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="floodgates"></a>floodgates — 5 uses
 - **Genesis 7:11**  (restoration #3086, `word_substitution`)
@@ -1186,7 +1186,7 @@
   - base: And that lord answered the man of God, and said, Now, behold, if the Lord should make windows in heaven, might such a thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.
   - now:  And that lord answered the man of God, and said, Now, behold, if the Lord should make **floodgates** in heaven, might such a thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.
   - why:  Memory-led substitution (Windows — "floodgates of heaven" for the sky; "opening" for ): rule(s) ['\\bwindows (of|in) heaven\\b', '\\bwindow\\b', '\\bwindows\\b'] applied to scope v
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="straps"></a>straps — 5 uses
 - **Exodus 39:4**  (restoration #3565, `word_substitution`)
@@ -1209,7 +1209,7 @@
   - base: And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose.
   - now:  And preached, saying, There cometh one mightier than I after me, the **straps** of whose shoes I am not worthy to stoop down and unloose.
   - why:  sandals -> shoes: "sandals" occurs nowhere else in the restored corpus while "shoes" (23) is the standard KJV word for this referent throughout the Gospels (cf. Mark 1:7 witnesses'
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="demons"></a>demons — 6 uses
 - **Matthew 7:22**  (restoration #3744, `tsbc_memory`)
@@ -1232,7 +1232,7 @@
   - base: And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,
   - now:  And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven **demons**,
   - why:  TSBC memory testimony: Luke 8:2 restored per documented public memory
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="collector"></a>collector — 7 uses
 - **Luke 18:11**  (restoration #6762, `manual_word_change`)
@@ -1263,7 +1263,7 @@
   - base: Two men went up into the temple to pray; the one a Pharisee, and the other a publican.
   - now:  Two men went up into the temple to pray; the one a Pharisee, and the other a tax **collector**.
   - why:  Owner manual list: publican -> tax collector
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="gprons"></a>gprons — 7 uses
 - **Revelation of John 15:6**  (restoration #6837, `manual_word_change`)
@@ -1294,7 +1294,7 @@
   - base: The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,
   - now:  The bonnets, and the ornaments of the legs, and the **gprons**, and the tablets, and the earrings,
   - why:  Owner manual list: girdles -> aprons
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to aprons.  It appears to be a typo.  White list aprons
 
 #### <a name="ring-streaked"></a>ring-streaked — 7 uses
 - **Genesis 30:39**  (restoration #3549, `word_substitution`)
@@ -1321,7 +1321,7 @@
   - base: And he removed that day the he goats that were ringstraked and spotted, and all the she goats that were speckled and spotted, and every one that had some white in it, and all the brown among the sheep, and gave them into the hand of his sons.
   - now:  And he removed that day the he goats that were **ring-streaked** and spotted, and all the she goats that were speckled and spotted, and every one that had some white in it, and all the brown among the sheep, and gave them into the hand of his sons.
   - why:  Era-audit anachronism [KJ-agent 2026-07-14]: 'ringstraked' flagged not-period; advised period alternate 'ring-streaked' (KJV's own rendering of the underlying word elsewhere). Chec
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to spotted except Genesis 30:35 revise to speckled.  Add speckled and spotted to white list.
 
 #### <a name="greeted"></a>greeted — 9 uses
 - **Acts 21:19**  (restoration #6770, `manual_word_change`)
@@ -1360,7 +1360,7 @@
   - base: And they turned thitherward, and came to the house of the young man the Levite, even unto the house of Micah, and saluted him.
   - now:  And they turned thitherward, and came to the house of the young man the Levite, even unto the house of Micah, and **greeted** him.
   - why:  Owner manual list: saluted -> greeted
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to greeteth.  Modern KJV inflection.  Add greet and inflections to white list.
 
 #### <a name="has"></a>has — 9 uses
 - **Mark 4:9**  (restoration #6844, `owner_memory_fix`)
@@ -1395,7 +1395,7 @@
   - base: If any man have ears to hear, let him hear.
   - now:  If any man **has** eyes to see and ears to hear.
   - why:  Memory #81, owner ruling 3d
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise has to hath
 
 #### <a name="apron"></a>apron — 11 uses
 - **Isaiah 3:24**  (restoration #6698, `manual_word_change`)
@@ -1442,7 +1442,7 @@
   - base: Let it be unto him as the garment which covereth him, and for a girdle wherewith he is girded continually.
   - now:  Let it be unto him as the garment which covereth him, and for an **apron** wherewith he is girded continually.
   - why:  Owner manual list: a girdle -> an apron
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="block"></a>block — 12 uses
 - **Romans 14:13**  (restoration #3583, `word_substitution`)
@@ -1493,7 +1493,7 @@
   - base: For every one of the house of Israel, or of the stranger that sojourneth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
   - now:  For every one of the house of Israel, or of the stranger that sojourneth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumbling **block** of his iniquity before his face, and cometh to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
   - why:  Era-audit anachronism [KJ-agent 2026-07-14]: 'stumblingblock' flagged not-period; advised period alternate 'stumbling block' (KJV's own rendering of the underlying word elsewhere).
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="collectors"></a>collectors — 17 uses
 - **Luke 19:2**  (restoration #6764, `manual_word_change`)
@@ -1560,7 +1560,7 @@
   - base: And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?
   - now:  And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with tax **collectors** and sinners?
   - why:  Owner manual list: publicans -> tax collectors
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="wineskins"></a>wineskins — 19 uses
 - **Matthew 9:17**  (restoration #3058, `word_substitution`)
@@ -1607,7 +1607,7 @@
   - base: And these bottles of wine, which we filled, were new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey.
   - now:  And these **wineskins** of wine, which we filled, were new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey.
   - why:  Memory-led substitution (Bottles shouldn't be in the bible): rule(s) ['\\bbottles\\b', '\\bbottle\\b', '\\bBottles\\b', '\\bBottle\\b'] applied to scope verse Joshua 9:13. Advisory
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="tax"></a>tax — 23 uses
 - **Luke 19:2**  (restoration #6764, `manual_word_change`)
@@ -1698,7 +1698,7 @@
   - base: Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alpheus, and Lebbeus, whose surname was Thaddeus;
   - now:  Philip, and Bartholomew; Thomas, and Matthew the **tax** collector; James the son of Alpheus, and Lebbeus, whose surname was Thaddeus;
   - why:  Owner manual list: publican -> tax collector
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: KEEP WHITE LIST
 
 #### <a name="gpron"></a>gpron — 26 uses
 - **Leviticus 16:4**  (restoration #6600, `manual_word_change`)
@@ -1789,5 +1789,5 @@
   - base: And Jonathan stripped himself of the robe that was upon him, and gave it to David, and his garments, even to his sword, and to his bow, and to his girdle.
   - now:  And Jonathan stripped himself of the robe that was upon him, and gave it to David, and his garments, even to his sword, and to his bow, and to his **gpron**.
   - why:  Owner manual list: girdle -> apron
-- owner ruling: _____ (keep / revise to ___ / revert to base)
+- owner ruling: revise to apron.  Likely a typo.
 

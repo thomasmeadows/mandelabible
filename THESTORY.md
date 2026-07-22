@@ -11,7 +11,9 @@ Matthew 10:14 - And whosoever shall not receive you, nor hear your words, when y
 
 The current scientific term for the Mandela Effect is a collective misremembering.  While sometimes, this is accurate, it does not appear to hold up under scrutiny. The KJV used to be widely known as the most perfect version of the bible, it barely contained any errors and was quoted as only known to having 3.  This project definitely proves that that testament no longer holds true.  The current KJV is riddled with grammatical errors, misspellings, nonsensical words, period inauthentic words, non modern English terms, and mixed inflection.  The aim is to correct those problems first and slowly revive the KJV for what it somewhat used to look like before the Mandela Effect altered it.
 
-However, peoples memories are not infallible and need of double checking.  The largest problem with what people remember in the KJV doesn't come from inauthentic memories but of the translation layer in our brains.  The KJV for many of us today reads as if it were a foreign language, when we read it, having learned how inflection works in both new modern and early modern English, our brain translates the verse into the new modern inflection.  For example.  'Does' is a word I failed to realize was out of period and not early modern English.  The real form of the word in modern English is "Doeth"  I simply forgot that the translation area of my brain automatically converted the word.  What I remembered as 'does' was actually what my brain translated and not what was actually in the verse.  There are many others; Show -> Shew; Yours -> Thyne; Your (insert object noun) -> Thy (insert object noun).  In addition, '-eth' was common for plurality instead of '-es'.  I.e.  Goes -> Goeth; Does -> Doeth; Says -> Sayeth; Written -> wrote, writ, wrate. 
+However, peoples memories are not infallible and need of double checking.  The largest problem with what people remember in the KJV doesn't come from inauthentic memories but of the translation layer in our brains.  The KJV for many of us today reads as if it were a foreign language, when we read it, having learned how inflection works in both new modern and early modern English, our brain translates the verse into the new modern inflection.  For example.  'Does' is a word I failed to realize was out of period and not early modern English.  The real form of the word in modern English is "Doeth"  I simply forgot that the translation area of my brain automatically converted the word.  What I remembered as 'does' was actually what my brain translated and not what was actually in the verse.  There are many others; Show -> Shew; Yours -> Thyne; Your (insert object noun) -> Thy (insert object noun).  In addition, '-eth' was common for plurality instead of '-es'.  I.e.  Goes -> Goeth; Does -> Doeth; Says -> Sayeth; Written -> wrote, writ, wrate; comes -> cometh.
+
+There is also a problem with what I would call memory merging.  It is something our brain does when presented with new facts.  IE. Many verses have devils or devil that Jesus would cast out.  Many people remember demons or demon.  I have memories of both, and to amplify the problem, both are well attested to by various translations and a quoting of either one can be equally found.  The same with donkeys and asses.  I knew ass and bastard were bad words as a child, but in church I remember both being used and I questioned my dad who told me that an ass was a donkey and a bastard was someone without a father.  Again, both words well attetesed in multiple translations but relatively having the same meaning.  These words are hard to debate adding or removing.
 
 ### God's word cannot be changed, it is eternal and true
 
@@ -22,6 +24,7 @@ Psalms 119:11 - Thy word have I hid in mine heart, that I might not sin against 
 Psalms 12:6 - The words of the Lord are pure words: as silver tried in a furnace of earth, purified seven times.
 Psalms 12:7 - Thou shalt keep them, O Lord, thou shalt preserve them from this generation for ever.
 Matthew 24:35 -  Heaven and earth shall pass away, but my words shall not pass away.
+I John 4:6 - We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit that maketh astray
 
 ### The shape of the earth
 I am not here to argue with you about flat or round earth beliefs, both have their arguments.  However, for the sake of this project, people believed the earth was flat for the most part when the KJV was written, so that is the perspective and leanings.  
@@ -31,7 +34,6 @@ I am not here to argue about revelations.  The book of revelation was not writte
 
 ### The holy trinity
 The second reason for great division among the church, is the catholic idea of the trinity.  There are three god's existing as one.  The Father, the song, and the holy spirit or holy ghost.  The Holy Spirit aka the Holy Ghost aka The Spirit of the God aka The Spirit of the Lord has been in existence throughout the old testament and new.  To call this a newly minted idea after Jesus came is inaccurate at best, and blasphemy at worse.  All churches believe something different.  I am not here to argue the truth or opposition of either.  However, it can be said beyond the shadow of a doubt that "Holy Spirit" and "Holy Ghost" are modern terms that do not belong in the KJV or any bible as a period testament and existence in Early Modern English.  These are newly minted modern terms with catholic backing.
-
 
 ### My colleagues
 If I am a heretic, I will join a long line of authors that converted the Bible from hebrew and greek into English.  Here is a comprehensive, comma-separated list of authors, scholars, and committees who translated the Bible into English from the original Hebrew and Greek texts, or who produced significant alternate versions and revisions:
@@ -112,3 +114,4 @@ Round 4 the AI misread what I wanted, but it gave me something I wanted to do an
 
 [Round 4 - re-review](./references/rare_word_round4_restoration_review.md)
 [Round 4 - re-review](./references/rare_word_round4_review.md)
+[Round 4 - Apply Preview](./references/rare_word_round4_apply_preview.md)
