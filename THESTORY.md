@@ -119,3 +119,8 @@ Round 4 the AI misread what I wanted, but it gave me something I wanted to do an
 Corn clearly does not belong in the bible, it wasn't even known the be edible until the discovery of the Americas.  This should be difinitive proof that the mandela effect is real and words have been in altered in the bible.
 
 [Corn to Wheat](./references/verses_wheat.md)
+[Additional wheat changes](./references/verses_wheat_apply.md)
+
+Changed hail -> greet in many instances since the use of hail was also rare in the KJV.  This originally replaced salute which was inaccurate as well.
+
+[Salute -> Hail -> Greet](./references/hail_review.md)
