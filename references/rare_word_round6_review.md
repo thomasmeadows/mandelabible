@@ -147,7 +147,7 @@
 - KJ proposal: Zephaniah 2:14 — (no change — matches Oxford exactly)
 - alternates: hedgehog (Geneva's own rendering, though it names a different creature), owl, porcupine
 - advice: WHITELIST — names a specific bird/creature with no safe one-word period synonym; Geneva itself renders the Hebrew qippōd variously (hedgehog/pelican/owl), showing translators judged it a unique, disputed referent rather than a common noun with an easy swap
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="blessedness"></a>blessedness — 3 uses  ·  src: base
 - forms: blessedness (3)
@@ -168,7 +168,7 @@
 - KJ proposal: Galatians 4:15 — Where is then the felicity ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me.
 - alternates: felicity, happiness, blessed estate
 - advice: keep — the word is core Pauline vocabulary in the current text and matches Oxford at Romans 4:6 and 4:9; Geneva's "felicitie" at Galatians 4:15 is offered above only as an alternate for that one occurrence, since it stands apart from the other two
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="blush"></a>blush — 3 uses  ·  src: base
 - forms: blush (3)
@@ -189,7 +189,7 @@
 - KJ proposal: Jeremiah 8:12 — (no change — matches Oxford)
 - alternates: be ashamed, redden, be confounded
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST - i can't find a better term
 
 #### <a name="bountiful"></a>bountiful — 3 uses  ·  src: base
 - forms: bountiful (3)
@@ -210,7 +210,7 @@
 - KJ proposal: Luke 22:25 — And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.
 - alternates: liberal, benefactors, munificent, free-giving
 - advice: keep at Proverbs 22:9 and Isaiah 32:5; swap to "benefactors" at Luke 22:25 to match Oxford's own reading of the Greek euergetai (a specific honorific title for civic patrons, not mere generosity)
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to noble
 
 #### <a name="brickkiln"></a>brickkiln — 3 uses  ·  src: base
 - forms: brickkiln (3)
@@ -231,7 +231,7 @@
 - KJ proposal: Nahum 3:14 — (no change — matches Oxford)
 - alternates: tile-kiln, kiln, furnace for brick
 - advice: keep — well-attested compound naming a real ancient Near Eastern industry (brickmaking is amply attested archaeologically in Egypt and Mesopotamia)
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to "brick furnaces"
 
 #### <a name="buffeted"></a>buffeted — 3 uses  ·  src: base
 - forms: buffeted (3)
@@ -252,7 +252,7 @@
 - KJ proposal: I Peter 2:20 — (no change — matches Oxford; Geneva attests "buffeted")
 - alternates: smitten, struck with the fist, beaten
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with stricken
 
 #### <a name="bunches"></a>bunches — 3 uses  ·  src: base
 - forms: bunches (3)
@@ -273,7 +273,7 @@
 - KJ proposal: Isaiah 30:6 — (no change — matches Oxford; Geneva attests "bounches" of camels)
 - alternates: clusters, heaps, humps (for the camel sense at Isaiah 30:6)
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to heaps
 
 #### <a name="bushel"></a>bushel — 3 uses  ·  src: base
 - forms: bushel (3)
@@ -294,7 +294,7 @@
 - KJ proposal: Luke 11:33 — (no change — matches Oxford; Geneva attests "bushell")
 - alternates: measure, corn-measure
 - advice: keep — names the Greek modios, a real dry-measure vessel of the period; "bushel" is the common Early Modern English name for that class of measure
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="buttocks"></a>buttocks — 3 uses  ·  src: base
 - forms: buttocks (3)
@@ -315,7 +315,7 @@
 - KJ proposal: Isaiah 20:4 — (no change — matches Oxford; Geneva attests "buttockes")
 - alternates: hinder parts, hips, loins
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="carelessly"></a>carelessly — 3 uses  ·  src: base
 - forms: carelessly (3)
@@ -357,7 +357,7 @@
 - KJ proposal: Revelation of John 17:7 — (no change — matches Oxford; Geneva reads "beareth" here, offered below as an alternate)
 - alternates: beareth, carrieth away, sweepeth away
 - advice: keep — ordinary, well-attested verb throughout the KJV corpus; noting Oxford's own "hurleth" variant at Job 27:21 above only as the base text's own reading, not a proposed swap
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="cassia"></a>cassia — 3 uses  ·  src: base
 - forms: cassia (3)
@@ -378,7 +378,7 @@
 - KJ proposal: Ezekiel 27:19 — (no change — matches Oxford; Geneva attests "cassia")
 - alternates: (none — proper botanical name, no period synonym)
 - advice: WHITELIST — names a specific spice-tree (Hebrew qiddah/qetsioth) known and traded in the ancient Near East; a transliterated botanical name, not a common noun with a safe swap
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="celebrate"></a>celebrate — 3 uses  ·  src: base
 - forms: celebrate (3)
@@ -399,7 +399,7 @@
 - KJ proposal: Isaiah 38:18 — (no change — matches Oxford; Geneva has "praise" here, offered below as an alternate for that sense)
 - alternates: keep (a feast), solemnize, praise, hallow
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to keep
 
 #### <a name="champion"></a>champion — 3 uses  ·  src: base
 - forms: champion (3)
@@ -420,7 +420,7 @@
 - KJ proposal: I Samuel 17:51 — (no change — matches Oxford)
 - alternates: man of the field, mighty man, warrior
 - advice: keep — names a real institution of ancient Near Eastern warfare (single combat before the armies), well attested and common in the KJV corpus's own vocabulary
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="chancellor"></a>chancellor — 3 uses  ·  src: base
 - forms: chancellor (3)
@@ -441,7 +441,7 @@
 - KJ proposal: Ezra 4:17 — (no change — matches Oxford; Geneva attests "Chauncelour")
 - alternates: (none proposed — see advice)
 - advice: WHITELIST — functions as a Persian court-office title for Rehum, a named official; though a common noun in form, it renders a specific administrative rank of the Achaemenid chancery and has no safe one-word period substitute
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST - effective title
 
 #### <a name="cheerful"></a>cheerful — 3 uses  ·  src: base
 - forms: cheerful (3)
@@ -462,7 +462,7 @@
 - KJ proposal: Zechariah 9:17 — (no change — matches Oxford)
 - alternates: merry, joyful, glad
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to joyful
 
 #### <a name="chiefly"></a>chiefly — 3 uses  ·  src: base
 - forms: chiefly (3)
@@ -483,7 +483,7 @@
 - KJ proposal: II Peter 2:10 — (no change — matches Oxford)
 - alternates: especially, principally, most of all
 - advice: keep — well-attested EModE adverb; noting Oxford's own "salute" at Philippians 4:22 above as the base text's variant, offered as the swap candidate for that verse only if the owner wishes to match Oxford exactly
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with especially
 
 #### <a name="clapped"></a>clapped — 3 uses  ·  src: base
 - forms: clapped (2), clappeth (1)
@@ -504,7 +504,7 @@
 - KJ proposal: Job 34:37 — (no change — matches Oxford; Geneva attests "clappeth")
 - alternates: smote (the hands together), struck
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST for lack of a better term or phrase
 
 #### <a name="clovenfooted"></a>clovenfooted — 3 uses  ·  src: base
 - forms: clovenfooted (3)
@@ -525,7 +525,7 @@
 - KJ proposal: Leviticus 11:26 — (no change — matches Oxford; Geneva attests "clouen footed")
 - alternates: parted in the hoof, hoof cloven
 - advice: keep — describes a real anatomical distinction (ungulate hoof structure) central to the Levitical dietary law, well attested in period spelling
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="coffer"></a>coffer — 3 uses  ·  src: base
 - forms: coffer (3)
@@ -546,7 +546,7 @@
 - KJ proposal: I Samuel 6:15 — (no change — matches Oxford; Geneva attests "coffer")
 - alternates: chest, box, casket
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="coffin"></a>coffin — 3 uses  ·  src: base
 - forms: coffin (3)
@@ -567,7 +567,7 @@
 - KJ proposal: Luke 7:14 — (no change — matches Geneva exactly at this verse; Oxford here reads "bier," offered as alternate)
 - alternates: chest (Genesis, an Egyptian mummy-case, per Geneva), bier (the funeral litter, per Oxford at II Samuel and Luke)
 - advice: swap — Axis-2 concern: at Genesis 50:26 the referent is an Egyptian embalming chest (Geneva's "chest"), and at II Samuel 3:31/Luke 7:14 the referent is a bier, an open funeral litter for carrying the dead to the grave, not a closed rigid box; "coffin" in its modern rigid-box sense risks naming a later burial custom foreign to these three distinct source-era referents — recommend restoring Oxford's own "chest"/"bier" readings
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="collection"></a>collection — 3 uses  ·  src: base
 - forms: collection (3)
@@ -588,7 +588,7 @@
 - KJ proposal: I Corinthians 16:1 — Now concerning the gathering for the saints, as I have given order to the churches of Galatia, even so do ye.
 - alternates: tax (II Chronicles, per Geneva's "taxe"), gathering (I Corinthians, per Geneva), contribution, alms
 - advice: swap — "collection" as an abstract noun for organized fund-raising reads modern in register; Geneva's period vocabulary ("taxe," "gathering") better fits both 1611 English usage and the ancient referents (Mosaic levy vs. apostolic alms-gathering)
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to gathering
 
 #### <a name="complete"></a>complete — 3 uses  ·  src: base
 - forms: complete (3)
@@ -609,7 +609,7 @@
 - KJ proposal: Colossians 4:12 — Epaphras, who is one of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God.
 - alternates: perfect, full, whole
 - advice: keep — attested in Geneva at Leviticus 23:15 and common in the KJV's own theological vocabulary
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: Leviticus 23:15 - perfect | Colossians 2:10 - made whole | Colossians 4:12 rewrite "Epaphras, who is one of you, a servant of Christ, greeteth you, always labouring earnestly for you in prayers, that ye may stand perfect in the will of God."
 
 #### <a name="comprehended"></a>comprehended — 3 uses  ·  src: base
 - forms: comprehended (3)
@@ -630,7 +630,7 @@
 - KJ proposal: Romans 13:9 — For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.
 - alternates: contained, gathered up, enclosed, taken in
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to understood
 
 #### <a name="conception"></a>conception — 3 uses  ·  src: base
 - forms: conception (3)
@@ -651,7 +651,7 @@
 - KJ proposal: Hosea 9:11 — (no change — matches Oxford; Geneva attests "conception")
 - alternates: conceiving, the womb's fruit, quickening
 - advice: keep — a plain period noun for a real biological referent common to the whole biblical corpus; the Ruth alternate above is offered only to mirror Geneva's periphrasis, not as a required swap
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to birth pain; 
 
 #### <a name="concupiscence"></a>concupiscence — 3 uses  ·  src: base
 - forms: concupiscence (3)
@@ -672,7 +672,7 @@
 - KJ proposal: I Thessalonians 4:5 — (no change — matches Oxford; Geneva attests "concupiscence")
 - alternates: lust, inordinate desire, covetous desire
 - advice: keep — well-attested theological term in both Geneva and Oxford at every occurrence
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to covetous desire
 
 #### <a name="confederacy"></a>confederacy — 3 uses  ·  src: base
 - forms: confederacy (3)
@@ -688,7 +688,7 @@
 - KJ proposal: Obadiah 1:7 — (no change — matches Oxford; Geneva attests "confederacie")
 - alternates: league, covenant of alliance, conspiracy
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to conspiracy
 
 #### <a name="confederate"></a>confederate — 3 uses  ·  src: base
 - forms: confederate (3)
@@ -709,7 +709,7 @@
 - KJ proposal: Isaiah 7:2 — (no change — matches Oxford; Geneva has "ioyned with" here, offered below as an alternate)
 - alternates: in league, joined in league, allied
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to "in conspiracy"
 
 #### <a name="constantly"></a>constantly — 3 uses  ·  src: base
 - forms: constantly (3)
@@ -730,7 +730,7 @@
 - KJ proposal: Titus 3:8 — (no change — matches Oxford)
 - alternates: continually, steadfastly, stedfastly, resolutely
 - advice: keep — swap noted at Proverbs 21:28 only to mirror Geneva's own "continually," a nuance the owner may prefer; otherwise well-attested
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to continually
 
 #### <a name="contrariwise"></a>contrariwise — 3 uses  ·  src: base
 - forms: contrariwise (3)
@@ -751,7 +751,7 @@
 - KJ proposal: I Peter 3:9 — (no change — matches Oxford; Geneva attests "contrarywise")
 - alternates: on the contrary, contrary, howbeit
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to otherwise
 
 #### <a name="copulation"></a>copulation — 3 uses  ·  src: base
 - forms: copulation (3)
@@ -772,7 +772,7 @@
 - KJ proposal: Leviticus 15:18 — (no change — matches Oxford)
 - alternates: carnal knowledge, coming together, issue of seed (Geneva's own periphrasis)
 - advice: keep — Geneva avoids the Latinate noun by paraphrasing ("issue of seede"), but "copulation" itself is attested Early Modern English and names the same real biological act in the priestly purity law; no better one-word swap exists without losing precision
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="crib"></a>crib — 3 uses  ·  src: base
 - forms: crib (3)
@@ -793,7 +793,7 @@
 - KJ proposal: Isaiah 1:3 — (no change — matches Oxford; Geneva attests "crib")
 - alternates: manger, stall, feeding-trough
 - advice: keep — "crib" itself (a feeding trough) is sound both axes; flagging separately that Job 39:9's current text reads "ox" where Oxford and Geneva read "unicorn" (re'em, the wild ox) — a different word, not this entry's concern, but worth the owner's notice
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to "feeding trough"
 
 #### <a name="crumbs"></a>crumbs — 3 uses  ·  src: base
 - forms: crumbs (3)
@@ -814,7 +814,7 @@
 - KJ proposal: Luke 16:21 — (no change — matches Oxford; Geneva has "crommes")
 - alternates: fragments, morsels, scraps
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="dagger"></a>dagger — 3 uses  ·  src: base
 - forms: dagger (3)
@@ -835,7 +835,7 @@
 - KJ proposal: Judges 3:22 — And the haft also went in after the blade; and the fat closed upon the blade, so that he could not draw the dagger out of his belly; and the dirt came out.
 - alternates: short sword, blade, knife
 - advice: keep — names a genuine Bronze/Iron Age Near Eastern weapon (a short double-edged blade), attested in Geneva at every occurrence
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="damned"></a>damned — 3 uses  ·  src: base
 - forms: damned (3)
@@ -856,7 +856,7 @@
 - KJ proposal: II Thessalonians 2:12 — (no change — matches Oxford; Geneva attests "damned")
 - alternates: condemned, judged, cast away
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to condemned
 
 #### <a name="deacons"></a>deacons — 3 uses  ·  src: base
 - forms: deacons (3)
@@ -877,7 +877,7 @@
 - KJ proposal: I Timothy 3:12 — (no change — matches Oxford; Geneva attests "Deacons")
 - alternates: (none — see advice)
 - advice: WHITELIST — a specific first-century church office title (Greek diakonoi), transliterated rather than translated; naming a unique ecclesiastical referent with no safe common-noun swap
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to servants.  Except Philippians 1:1 rewrite - "Paul and Timothy, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi,"
 
 #### <a name="decayeth"></a>decayeth — 3 uses  ·  src: base
 - forms: decayeth (3)
