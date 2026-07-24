@@ -21,7 +21,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SRC_DB = REPO_ROOT / "db" / "mandela.db"
-EXPORT_DIR = REPO_ROOT / "exports"
+EXPORT_DIR = REPO_ROOT / "db"
 OUT_DB = EXPORT_DIR / "MandelaProject.db"
 OUT_MD = EXPORT_DIR / "MandelaProject_schema.md"
 
