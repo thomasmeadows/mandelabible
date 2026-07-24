@@ -86,6 +86,44 @@ Anyone can create a github account and open issues.  Please follow the instructi
 6)  Do not submit your request on the first day (a full 24 hours) of finding a change that should be made.  Meditate on your verse throughout a full day. Meditate on what we have, and what you believe the verse should be.  Before going to bed, pray that the Lord guide you unto the correct wording and make sure you have a writing pencil, pen, or phone to gather the knowledge given to you by the spirit. Then, submit your spirit led verse on github or send on discord.
 
 
+### Database exports
+
+Two manual exports snapshot the working database (`db/mandela.db`) into
+portable SQLite files in [`exports/`](./exports/), each with a companion
+markdown describing its tables:
+
+- **`exports/MandelaKJV.db`** — the restored text (base KJV with all approved
+  restorations applied) in the exact
+  [scrollmapper `bible_databases`](./bible_databases/) format
+  (`MandelaKJV_books`, `MandelaKJV_verses`, `translations`), suitable for a
+  merge request upstream. Schema: `exports/MandelaKJV_schema.md`.
+- **`exports/MandelaProject.db`** — everything this project produced
+  (memories, restorations, anomalies, corruption scores, word-era verdicts,
+  residue imports, plus the `verses`/`books`/`translations` reference tables),
+  excluding only the bulk BibleForge imports, which are regenerable.
+  Schema: `exports/MandelaProject_schema.md`.
+
+**To export** (idempotent — each run rebuilds both output files from scratch):
+
+```bash
+python3 scripts/69_export_scrollmapper.py   # exports/MandelaKJV.db + schema md
+python3 scripts/70_export_project_db.py     # exports/MandelaProject.db + schema md
+```
+
+**To rebuild a working `db/mandela.db` from the exports:** yes, this is
+possible from `MandelaProject.db` — it contains every project table; the only
+tables it omits (`bf_words_en`, `bf_words_orig`, `lexicon_greek`,
+`lexicon_hebrew`) are re-parsed from the read-only `bible_forge_db/` dumps by
+script 09, which drops and rebuilds exactly those tables:
+
+```bash
+cp exports/MandelaProject.db db/mandela.db
+python3 scripts/09_convert_bibleforge.py    # restores the BibleForge word/lexicon tables
+```
+
+(`MandelaKJV.db` alone cannot seed a rebuild — it carries text only, none of
+the project's evidence tables.)
+
 ### Database
 
 Having the database is not necessary to contribute, you can contribute to white list or with memories and residuals.  However if you intend to use AI for validation or more research, the database is below
