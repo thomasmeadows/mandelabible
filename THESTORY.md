@@ -98,6 +98,7 @@ I then started with all memories as a base for changes and created an MVP export
 
 [First pass outliers](./references/uncleared_words.md) | 
 [Inflection in Early Modern English vs Current New English](./references/Inflection_English_vs_Early_Modern_English.md) | 
+[Commas, Colons, Semicolons, and Periods in Early Modern English](./references/colon_versus_semicolon.md) | 
 [Mixed Inflections with decisions made](./references/mixed_inflections.md)
 
 I found all cases of mixed inflection and standardized them across the entire bible.  For better or worse, it is a start.  I found all the rare words that only occurred 1-2 times and subtracted the proper names and locations of bible events.  This resulted in roughly 600 words that needed to be corrected on around 2000 verses.  I did not have time to go through each one by hand but I skimmed them and they mostly seemed correct by the AI.  It may not be perfect, but it is a good start.  I used an ocr scanner to scan all the residuals and compare them against existing bibles.  Most of the images were found to come from rephrases, study bibles, or other bible translations.  Only 1-2 images were confirmed to be true authentic KJV residuals.  A large portion of the psalms among them.  I exported everything to a MVP copy of the bible.  I collapsed all name variants into their modern usage, excluding Sampson which differs from the author Samson of the new testament. 

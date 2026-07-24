@@ -23,7 +23,7 @@ Key:
 **Irregular Verbs**: Change spelling entirely (e.g., sing → sang).
 **Apostrophe (')**: Indicates ownership, never used for simple plurals (e.g., "dog's" = owns; "dogs" = many).
 
-## Early Modern English (EMoD) Inflection 
+## Early Modern English (EModE) Inflection 
 
 | Category | Base Form | Rule (EME) | Inflected Form | Function |
 | :--- | :--- | :--- | :--- | :--- |
@@ -79,12 +79,12 @@ Most of the errors were corrected over the years, but the current edition still 
 
 #### Possessive Form
 
-’s appears thousands of times. It appears that oxford largely adjust from the EMoD ending "-es" in the 1611 KJV to NMoD "-'s" or "-’s"
+’s appears thousands of times. It appears that oxford largely adjust from the EModE ending "-es" in the 1611 KJV to NMoD "-'s" or "-’s"
 Kinges in 1611 KJV verses King's in KJV.  This appears to be constent across all translations after this period
 
 #### Present Tense Form
 
-The standard oxford addition seems to keep the EMoD Past form, but in reality there is a blend of both.  This varies across the bible appearing to be somewhat inconsistent.  You can find all of these, go, going, and goeth are examples, while goes does not exist and goeth appears in its place.
+The standard oxford addition seems to keep the EModE Past form, but in reality there is a blend of both.  This varies across the bible appearing to be somewhat inconsistent.  You can find all of these, go, going, and goeth are examples, while goes does not exist and goeth appears in its place.
 
 ### Inflection and the mandela effect
 
