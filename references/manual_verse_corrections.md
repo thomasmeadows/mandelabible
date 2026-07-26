@@ -22,3 +22,4 @@ Hebrews 9:7 - But into the second went the high priest alone once every year, no
 Hebrews 9:12 - Neither by the blood of goats and calves, but by his own blood he entered in once into the Holy of Holies, having obtained eternal redemption for us. 
 Hebrews 10:20 - By a new covenant, which he hath circumsized us, through the veil, that is to say, his flesh;
 I Peter 4:12–13
+John 16:33 - These things I have spoken unto you, that in me ye might have peace. In the world ye shall have great trials and tribulation: but be of good cheer; I have overcome the world.

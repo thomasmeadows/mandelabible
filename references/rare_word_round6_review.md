@@ -336,7 +336,7 @@
 - KJ proposal: Zephaniah 2:15 — (no change — matches Oxford; Geneva has "carelesse")
 - alternates: securely, safely, without fear, at ease
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to without fear
 
 #### <a name="carrieth"></a>carrieth — 3 uses  ·  src: base
 - forms: carrieth (3)
@@ -898,7 +898,7 @@
 - KJ proposal: Hebrews 8:13 — (no change — matches Oxford; Geneva has "disanulled and waxed olde" here, offered below as an alternate)
 - alternates: decayeth, goeth to decay, waxeth old, faileth
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to departeth
 
 #### <a name="deeply"></a>deeply — 3 uses  ·  src: base
 - forms: deeply (3)
@@ -919,7 +919,7 @@
 - KJ proposal: Mark 8:12 — (no change — matches Oxford; Geneva attests "deepely")
 - alternates: sore, greatly, grievously, to the depths
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to greatly
 
 #### <a name="deprived"></a>deprived — 3 uses  ·  src: base
 - forms: deprived (3)
@@ -940,7 +940,7 @@
 - KJ proposal: Isaiah 38:10 — (no change — matches Oxford; Geneva attests "depriued")
 - alternates: bereft, robbed, denied, stripped
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to denied
 
 #### <a name="descent"></a>descent — 3 uses  ·  src: base
 - forms: descent (3)
@@ -961,7 +961,7 @@
 - KJ proposal: Hebrews 7:6 — But he whose kindred is not counted from them received tithes of Abraham, and blessed him that had the promises.
 - alternates: going down (Luke, per Geneva), kindred, genealogy, lineage
 - advice: swap at Hebrews 7:3 and 7:6 — Geneva's "kinred"/"kindred" better names the ancient Near Eastern institution at issue (a priest's recorded genealogical line, central to Levitical priesthood law), while "descent" alone is a vaguer abstraction; keep at Luke 19:37, a purely topographical sense already well attested
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise Hebrews 7:3 and Hebrews 7:6 to children.  Luke 19:37 revise to path down and remove the follow "of"
 
 #### <a name="despiteful"></a>despiteful — 3 uses  ·  src: base
 - forms: despiteful (3)
@@ -982,7 +982,7 @@
 - KJ proposal: Romans 1:30 — (no change — matches Oxford)
 - alternates: spiteful, malicious, full of despite
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to wicked
 
 #### <a name="dirt"></a>dirt — 3 uses  ·  src: base
 - forms: dirt (3)
@@ -1003,7 +1003,7 @@
 - KJ proposal: Isaiah 57:20 — (no change — matches Oxford; Geneva attests "dirt")
 - alternates: mire, clay (per Geneva at Psalms 18:42), filth, dung
 - advice: keep — well-attested plain word throughout; the Psalms 18:42 alternate reading noted only to preserve Geneva's own image if the owner prefers it
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: Replace with dust; much more common in KJV
 
 #### <a name="disannul"></a>disannul — 3 uses  ·  src: base
 - forms: disannul (3)
@@ -1024,7 +1024,7 @@
 - KJ proposal: Galatians 3:17 — (no change — matches Oxford; Geneva attests "disanull")
 - alternates: annul, make void, abrogate, break
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with break
 
 #### <a name="disannulled"></a>disannulled — 3 uses  ·  src: base
 - forms: disannulled (1), disannulleth (1), disannulling (1)
@@ -1045,7 +1045,7 @@
 - KJ proposal: Hebrews 7:18 — For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof.
 - alternates: abrogated, made void, annulled, broken
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with broken or hath broken
 
 #### <a name="discreet"></a>discreet — 3 uses  ·  src: base
 - forms: discreet (3)
@@ -1066,7 +1066,7 @@
 - KJ proposal: Titus 2:5 — (no change — matches Oxford; Geneva has "temperate" here, offered below as an alternate)
 - alternates: prudent, wise, of understanding, temperate
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with temperate
 
 #### <a name="dismissed"></a>dismissed — 3 uses  ·  src: base
 - forms: dismissed (3)
@@ -1087,7 +1087,7 @@
 - KJ proposal: Acts 19:41 — And when he had thus spoken, he let the assembly depart.
 - alternates: discharged (II Chronicles, per Geneva), departed/sent away (Acts 15:30, per Geneva), let depart (Acts 19:41, per Geneva)
 - advice: swap — "dismissed" as a bare transitive is attested but reads slightly clerical-modern; Geneva's own period phrasings ("discharge the courses," "departed," "let the assembly depart") are closer to the KJV's own idiom and are already attested at all three verses
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with departed
 
 #### <a name="disorderly"></a>disorderly — 3 uses  ·  src: base
 - forms: disorderly (3)
@@ -1108,7 +1108,7 @@
 - KJ proposal: II Thessalonians 3:11 — For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.
 - alternates: inordinately (Geneva's own word at all three verses), unruly, out of order
 - advice: keep — attested via Geneva's cognate "inordinately" at every occurrence; the busybodies swap above only follows Oxford's own reading at 3:11, not this entry's headword
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with astray
 
 #### <a name="dissembled"></a>dissembled — 3 uses  ·  src: base
 - forms: dissembled (3)
@@ -1129,7 +1129,7 @@
 - KJ proposal: Galatians 2:13 — And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.
 - alternates: played the hypocrite (Geneva's own phrase at Galatians 2:13), feigned, dealt falsely
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: Revise to "defiled god"
 
 #### <a name="dissension"></a>dissension — 3 uses  ·  src: base
 - forms: dissension (3)
@@ -1150,7 +1150,7 @@
 - KJ proposal: Acts 23:10 — (no change — matches Oxford; Geneva attests "dissension")
 - alternates: disputation (Acts 15:2, per Geneva and Oxford), strife, division, contention
 - advice: keep — well-attested word at every occurrence; the Acts 15:2 note above only restores Oxford's own "disputation" in place of the current text's "contention," a minor wording match, not a swap of "dissension" itself
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with contention
 
 #### <a name="diversities"></a>diversities — 3 uses  ·  src: base
 - forms: diversities (3)
@@ -1171,7 +1171,7 @@
 - KJ proposal: I Corinthians 12:28 — (no change — attested verbatim in Oxford; Geneva's singular "diuersitie" confirms the root word, not a different one)
 - alternates: divers kinds, sundry sorts, differences
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replacec diversities of with diverse
 
 #### <a name="drawers"></a>drawers — 3 uses  ·  src: base
 - forms: drawers (3)
@@ -1192,7 +1192,7 @@
 - KJ proposal: Joshua 9:27 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: water-bearers, fetchers of water
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to porters
 
 #### <a name="dregs"></a>dregs — 3 uses  ·  src: base
 - forms: dregs (3)
@@ -1213,7 +1213,7 @@
 - KJ proposal: Isaiah 51:22 — (no change — attested in Geneva and Oxford)
 - alternates: lees, sediment, grounds
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with last
 
 #### <a name="drieth"></a>drieth — 3 uses  ·  src: base
 - forms: drieth (3)
@@ -1234,7 +1234,7 @@
 - KJ proposal: Nahum 1:4 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: withereth, parcheth, wasteth
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST - inflection change fro dry
 
 #### <a name="dromedaries"></a>dromedaries — 3 uses  ·  src: base
 - forms: dromedaries (3)
@@ -1255,7 +1255,7 @@
 - KJ proposal: Isaiah 60:6 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: swift camels, young camels
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with fast camels
 
 #### <a name="dulcimer"></a>dulcimer — 3 uses  ·  src: base
 - forms: dulcimer (3)
@@ -1276,7 +1276,7 @@
 - KJ proposal: Daniel 3:15 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: bagpipe (a rival period gloss for the same Aramaic word), sackbut (already present elsewhere in the list), symphony
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST - ancient instrument
 
 #### <a name="dwellers"></a>dwellers — 3 uses  ·  src: base
 - forms: dwellers (3)
@@ -1297,7 +1297,7 @@
 - KJ proposal: Acts 2:9 — (no change — attested verbatim in Oxford)
 - alternates: inhabitants (Geneva's word throughout), sojourners, denizens
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST - inflection change on dwellest/dwellings.
 
 #### <a name="eighty"></a>eighty — 3 uses  ·  src: base
 - forms: eighty (3)
@@ -1318,7 +1318,7 @@
 - KJ proposal: Genesis 5:28 — (no change — attested in Oxford and Geneva)
 - alternates: fourscore
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST - anumber
 
 #### <a name="eloquent"></a>eloquent — 3 uses  ·  src: base
 - forms: eloquent (3)
@@ -1340,7 +1340,7 @@
 - alternates: well-spoken, fair-spoken, of ready speech
 - advice: swap
 - note: at Isaiah 3:3 the current text doubles "eloquent...enchanter" oddly (see the enchanter entry below); Oxford there reads "cunning artificer, and the eloquent orator" — the two entries share a corrupted verse and should be reviewed together.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: noble except in acts 18:24 needs an article change to "a noble" from "an elloquent" Revise Isaiah 3:3 "The captain of fifty, and the honourable man, and the counsellor, and the cunning workman, and the noble sorcerer."
 
 #### <a name="embalmed"></a>embalmed — 3 uses  ·  src: base
 - forms: embalmed (3)
@@ -1362,7 +1362,7 @@
 - alternates: enbalmed (period spelling), spiced (Geneva's older gloss "enbaume" derives from balm/spice preparation), anointed with spices
 - advice: swap
 - note: Oxford's own reading at 50:2 is "to embalm his father" (verb) not "to anoint" — the current text's "anoint" is itself a variant; if the base spelling is the concern, "embalmed" as a noun/participle in 50:3 and 50:26 is already Oxford's own reading and should be kept there.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="enchanter"></a>enchanter — 3 uses  ·  src: base
 - forms: enchanter (3)
@@ -1379,7 +1379,7 @@
 - alternates: astrologer, magician, sorcerer, diviner
 - advice: swap
 - note: Isaiah 3:3's current text repeats "enchanter" as if it were two different words ("eloquent enchanter" duplicating enchanter twice per its own construction) where Oxford has "eloquent orator" — clearly corrupted; Daniel 2:10's current text also doubles "enchanter, or enchanter" where Oxford reads "magician, or astrologer" — flag as a duplication-pattern corruption, matching a known trap noted in project memory (duplicate-word traps in s/e-words).
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: Revise Daniel 2:10 "The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king's matter: therefore there is no king, lord, nor ruler, that asked such things at any sorcerer, or soothsayer, or Chaldean."  Revise Isaiah 3:3 "The captain of fifty, and the honourable man, and the counsellor, and the cunning workman, and the noble sorcerer."
 
 #### <a name="enjoined"></a>enjoined — 3 uses  ·  src: base
 - forms: enjoined (3)
@@ -1400,7 +1400,7 @@
 - KJ proposal: Hebrews 9:20 — (no change — attested verbatim in Oxford)
 - alternates: appointed (Geneva's word), commanded, charged, ordained
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace with joined
 
 #### <a name="errand"></a>errand — 3 uses  ·  src: base
 - forms: errand (3)
@@ -1421,7 +1421,7 @@
 - KJ proposal: II Kings 9:5 — (no change — attested verbatim in Oxford)
 - alternates: message, business, charge
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: replace word with message
 
 #### <a name="event"></a>event — 3 uses  ·  src: base
 - forms: event (3)
@@ -1442,7 +1442,7 @@
 - KJ proposal: Ecclesiastes 9:3 — (no change — attested verbatim in Oxford)
 - alternates: chance, condition (Geneva's word), lot, hap
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: Revise to affair, event is too modern.
 
 #### <a name="exchangers"></a>exchangers — 3 uses  ·  src: base
 - forms: exchangers (3)
@@ -1464,7 +1464,7 @@
 - alternates: money-changers, bankers
 - advice: swap
 - note: Oxford's own base reads "the bank" at Luke 19:23 and "changers" (not "exchangers") at John 2:14–15; this is the plainer, better-attested word and matches the money-changing tables of the Second Temple, a source-era-sound referent.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to "money changers" or "changers of money" the common memory.
 
 #### <a name="expressly"></a>expressly — 3 uses  ·  src: base
 - forms: expressly (3)
@@ -1485,7 +1485,7 @@
 - KJ proposal: I Timothy 4:1 — (no change — attested verbatim in Oxford)
 - alternates: plainly, evidently (Geneva's word at I Timothy 4:1), directly
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="fallow"></a>fallow — 3 uses  ·  src: base
 - forms: fallow (3)
@@ -1507,7 +1507,7 @@
 - alternates: unplowed, untilled
 - advice: keep
 - note: Deuteronomy 14:5's current text has dropped "pygarg" and doubled "wild goat" — Oxford's list is hart, roebuck, fallow deer, wild goat, pygarg, wild ox, chamois; this looks like a lost-word corruption distinct from the "fallow" question itself — flag to the owner.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: Revise Deuteronomy 14:5 - "The red deer, and the roe buck, and the spotted deer, and the wild goat, and the white tail deer, and the wild ox, and the mountain goat.", Revise Jeremiah 4:3 - "For thus saith the Lord to the men of Judah and Jerusalem, Break up your ground, and sow not among thorns.", Revise Hosea 10:12 - "Sow to yourselves in righteousness, reap in mercy; break up your ground: for it is time to seek the Lord, till he come and rain righteousness upon you."
 
 #### <a name="fare"></a>fare — 3 uses  ·  src: base
 - forms: fare (3)
@@ -1528,7 +1528,7 @@
 - KJ proposal: Acts 15:29 — (no change — attested verbatim in Oxford and Geneva; "Fare ye well" is the standard KJV valediction)
 - alternates: passage, toll (for the Jonah sense); prosper, do (for the I Samuel sense)
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="fearfulness"></a>fearfulness — 3 uses  ·  src: base
 - forms: fearfulness (3)
@@ -1549,7 +1549,7 @@
 - KJ proposal: Isaiah 33:14 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: fear, dread, terror, affright
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="flagons"></a>flagons — 3 uses  ·  src: base
 - forms: flagons (3)
@@ -1571,7 +1571,7 @@
 - alternates: bottles (Geneva's word at Hosea 3:1), wine-vessels, cups
 - advice: keep
 - note: same dual-era caveat as the canonical "bottles" ruling at Matthew 9:17 — Axis 1 (1611 English) is period-attested here; Axis 2 (source-era referent, rigid vs. skin vessel) needs a separate check against the underlying Hebrew if this word is escalated.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="flatteries"></a>flatteries — 3 uses  ·  src: base
 - forms: flatteries (3)
@@ -1592,7 +1592,7 @@
 - KJ proposal: Daniel 11:34 — (no change — attested verbatim in Oxford; Geneva's "fainedly" is a synonym adverb, not evidence against the noun)
 - alternates: smooth words, fair speeches, flattery
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="forbare"></a>forbare — 3 uses  ·  src: base
 - forms: forbare (3)
@@ -1613,7 +1613,7 @@
 - KJ proposal: Jeremiah 41:8 — (no change — attested verbatim in Oxford; Geneva's "stayed" is a synonym)
 - alternates: ceased, stayed (Geneva's word), refrained, held back
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="fords"></a>fords — 3 uses  ·  src: base
 - forms: fords (3)
@@ -1634,7 +1634,7 @@
 - KJ proposal: Isaiah 16:2 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: passages (Geneva's word), fordable places, crossings
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: Replace with passages
 
 #### <a name="foremost"></a>foremost — 3 uses  ·  src: base
 - forms: foremost (3)
@@ -1656,7 +1656,7 @@
 - alternates: formost (period spelling), first, foremost-going
 - advice: keep
 - note: at Genesis 33:2 the current text ends "...Rachel and Joseph last" where Oxford reads "hindermost" — flag this separately, distinct from the "foremost" question.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="forgettest"></a>forgettest — 3 uses  ·  src: base
 - forms: forgettest (2), forgetting (1)
@@ -1677,7 +1677,7 @@
 - KJ proposal: Philippians 3:13 — (no change — attested verbatim in Oxford; note the participle "forgetting" here is a distinct form from the second-person "forgettest" above and both are Oxford's own reading)
 - alternates: forgetst, dost forget, art unmindful of
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="fourfooted"></a>fourfooted — 3 uses  ·  src: base
 - forms: fourfooted (3)
@@ -1699,7 +1699,7 @@
 - alternates: four-footed (hyphenated period spelling), beasts of the field
 - advice: keep
 - note: Romans 1:23's current text reads "incorruptible God" where Oxford reads "uncorruptible God" — a separate, likely more significant word-substitution to flag alongside this entry.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="fray"></a>fray — 3 uses  ·  src: base
 - forms: fray (3)
@@ -1720,7 +1720,7 @@
 - KJ proposal: Zechariah 1:21 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: scare, frighten away, affray
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="freewoman"></a>freewoman — 3 uses  ·  src: base
 - forms: freewoman (3)
@@ -1741,7 +1741,7 @@
 - KJ proposal: Galatians 4:30 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: free woman (period two-word spelling), the free
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="friendly"></a>friendly — 3 uses  ·  src: base
 - forms: friendly (3)
@@ -1763,7 +1763,7 @@
 - alternates: kindly, lovingly, familiarly
 - advice: keep
 - note: Proverbs 18:24's current text ends "sticketh nearer" where Oxford reads "sticketh closer" — a separate corruption from the "friendly" question, flagged alongside.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to kindly
 
 #### <a name="frontlets"></a>frontlets — 3 uses  ·  src: base
 - forms: frontlets (3)
@@ -1784,7 +1784,7 @@
 - KJ proposal: Deuteronomy 11:18 — (no change — attested verbatim in Oxford; Geneva's singular "frontlet" is the same word)
 - alternates: bands, tokens, phylacteries (a later technical term, less period-safe)
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to foreheads
 
 #### <a name="frowardness"></a>frowardness — 3 uses  ·  src: base
 - forms: frowardness (3)
@@ -1806,7 +1806,7 @@
 - alternates: perversity, waywardness, crookedness
 - advice: keep
 - note: Proverbs 6:14's current text ends "he soweth strife" where Oxford reads "he soweth discord" — flag this word-swap separately from the "frowardness" question.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to perverseness
 
 #### <a name="glorieth"></a>glorieth — 3 uses  ·  src: base
 - forms: glorieth (3)
@@ -1827,7 +1827,7 @@
 - KJ proposal: II Corinthians 10:17 — (no change — attested verbatim in Oxford and Geneva synonym)
 - alternates: rejoiceth (Geneva's word), boasteth, vaunteth
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: Jeremiah 9:24 - change to gives.  I Corinthians 1:31 - gives glory .  II Corinthians 10:17 - gives glory
 
 #### <a name="govern"></a>govern — 3 uses  ·  src: base
 - forms: govern (3)
@@ -1848,7 +1848,7 @@
 - KJ proposal: Psalms 67:4 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: rule, guide, direct
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to ruleth
 
 #### <a name="gravel"></a>gravel — 3 uses  ·  src: base
 - forms: gravel (3)
@@ -1869,7 +1869,7 @@
 - KJ proposal: Lamentations 3:16 — (no change — attested verbatim in Oxford; Geneva's plain "stones" is a synonym paraphrase, but "gravel stones" is Oxford's own reading)
 - alternates: small stones, grit, shingle
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: Revise Proverbs 20:17 - "small stones", Isaiah 48:19 - "small stones", Lamentations 3:16 - "small"
 
 #### <a name="grayheaded"></a>grayheaded — 3 uses  ·  src: base
 - forms: grayheaded (3)
@@ -1891,7 +1891,7 @@
 - alternates: greyheaded (period spelling variant), hoary, ancient
 - advice: keep
 - note: I Samuel 12:2's current text ends "from my youth" where Oxford reads "from my childhood" — flag this word-swap separately from the "grayheaded" question.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to gray headed
 
 #### <a name="handbreadth"></a>handbreadth — 3 uses  ·  src: base
 - forms: handbreadth (3)
@@ -1912,7 +1912,7 @@
 - KJ proposal: Psalms 39:5 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: hand-breadth (period two-word spelling), a hand's breadth
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to "hand's measure".  Fix preceding article to a instead of an.
 
 #### <a name="handmaidens"></a>handmaidens — 3 uses  ·  src: base
 - forms: handmaidens (3)
@@ -1933,7 +1933,7 @@
 - KJ proposal: Acts 2:18 — (no change — attested verbatim in Oxford and Geneva synonym)
 - alternates: handmaids, maidservants, bondwomen
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="harmless"></a>harmless — 3 uses  ·  src: base
 - forms: harmless (3)
@@ -1954,7 +1954,7 @@
 - KJ proposal: Hebrews 7:26 — (no change — attested verbatim in Oxford; Geneva's "harmelesse" is the same word under period spelling)
 - alternates: innocent (Geneva's word), guileless, undefiled
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="haunt"></a>haunt — 3 uses  ·  src: base
 - forms: haunt (3)
@@ -1975,7 +1975,7 @@
 - KJ proposal: Ezekiel 26:17 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: resort, frequent, dwell (in the sense "wont to haunt")
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise I Samuel 23:22 - dwelling. I Samuel 30:31 - dwells.  Ezekiel 26:17 - dwells in
 
 #### <a name="hay"></a>hay — 3 uses  ·  src: base
 - forms: hay (3)
@@ -1996,7 +1996,7 @@
 - KJ proposal: I Corinthians 3:12 — (no change — attested verbatim in Oxford; Geneva's "haye" is the same word)
 - alternates: grass, dried grass, stubble
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to grass
 
 #### <a name="headlong"></a>headlong — 3 uses  ·  src: base
 - forms: headlong (3)
@@ -2017,7 +2017,7 @@
 - KJ proposal: Acts 1:18 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: hastily, rashly, precipitately
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to hastily
 
 #### <a name="hen"></a>hen — 3 uses  ·  src: base
 - forms: hen (3)
@@ -2038,7 +2038,7 @@
 - KJ proposal: Luke 13:34 — O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!
 - alternates: hen (Oxford's word for the bird sense), fowl
 - advice: WHITELIST — at Zechariah 6:14 "Hen son of Zephaniah" is a proper personal name (also possibly a title for Josiah, per some readings), so that occurrence must be whitelisted rather than swapped; the Matthew and Luke occurrences are the common bird-word and are dual-era sound (domestic hens known in the first-century Levant) — treat those as keep, but flag the file's own text drift from Oxford's "chickens"/"brood" separately.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="heresies"></a>heresies — 3 uses  ·  src: base
 - forms: heresies (3)
@@ -2060,7 +2060,7 @@
 - alternates: sects, factions, false doctrines
 - advice: keep
 - note: II Peter 2:1's current text reads "grievous heresies" and "swift destruction" where Oxford reads "damnable heresies" — the "heresies" word itself is fine; flag "grievous"/"damnable" as a separate word-swap.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST - verb tense of hereticks.
 
 #### <a name="highminded"></a>highminded — 3 uses  ·  src: base
 - forms: highminded (3)
@@ -2082,7 +2082,7 @@
 - alternates: high-minded (period two-word spelling), proud, lofty-minded
 - advice: keep
 - note: I Timothy 6:17 and II Timothy 3:4 each have separate word-drift from Oxford ("strange riches"/"abundantly" vs. "uncertain riches"/"richly"; "fierce" vs. "heady") — distinct from the "highminded" question, flag alongside.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to proud
 
 #### <a name="hindmost"></a>hindmost — 3 uses  ·  src: base
 - forms: hindmost (3)
@@ -2103,7 +2103,7 @@
 - KJ proposal: Joshua 10:19 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: rearmost, last, hindermost
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to back
 
 #### <a name="houghed"></a>houghed — 3 uses  ·  src: base
 - forms: houghed (3)
@@ -2124,7 +2124,7 @@
 - KJ proposal: I Chronicles 18:4 — (no change — attested verbatim in Oxford; Geneva's "destroyed" again paraphrases)
 - alternates: hocked, hamstrung, disabled
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="hundredth"></a>hundredth — 3 uses  ·  src: base
 - forms: hundredth (3)
@@ -2146,7 +2146,7 @@
 - alternates: hundreth (period spelling), one hundredth part, tithe (only where sense-appropriate)
 - advice: keep
 - note: Genesis 7:11's current text ends "floodgates of heaven" where Oxford reads "windows of heaven" — flag separately. Nehemiah 5:11's current text reads "the wheat" where Oxford reads "the corn" — flag separately, both distinct from the "hundredth" question.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: WHITELIST
 
 #### <a name="hurtful"></a>hurtful — 3 uses  ·  src: base
 - forms: hurtful (3)
@@ -2168,7 +2168,7 @@
 - alternates: noisome (Geneva's word), hurtful, pernicious
 - advice: keep
 - note: I Timothy 6:9's current text ends "sink men in destruction and perdition" where Oxford reads "drown men in destruction and perdition" — flag this verb-swap separately from the "hurtful" question.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise with wicked and replace sink in I Timothy 6:9 with swallows.
 
 #### <a name="ice"></a>ice — 3 uses  ·  src: base
 - forms: ice (3)
@@ -2190,7 +2190,7 @@
 - alternates: yce/yee (period spelling variants), frost, hoarfrost
 - advice: keep
 - note: Job 6:16's current text opens "Which are black" and Job 38:29 ends "who hath begotten it" where Oxford reads "blackish" and "gendered" — separate word-swaps from the "ice" question, flag alongside.
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to hailstones
 
 #### <a name="impoverished"></a>impoverished — 3 uses  ·  src: base
 - forms: impoverished (3)
@@ -2211,5 +2211,5 @@
 - KJ proposal: Malachi 1:4 — (no change — attested verbatim in Oxford and Geneva)
 - alternates: impouerished (period spelling), made poor, brought low
 - advice: keep
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to lacking
 
