@@ -36,7 +36,10 @@ reflects the current state of open vs. shipped work.
   `db/mandela.db` as `bf_words_en`, `bf_words_orig`, `lexicon_greek`,
   `lexicon_hebrew` (KJV word → Strong's → lexicon lookups all work locally).
 - `scripts/` — numbered, idempotent Python scripts, one per roadmap task
-  (created starting at roadmap Phase 0).
+  (created starting at roadmap Phase 0). Un-numbered `.py` files there are
+  shared modules, not tasks (`residuals.py`, `custom_export.py`).
+- `custom/` — settings files for reader-built custom editions
+  (`example-original.json`, `example-modern.json`); see "Custom Editions".
 - `db/mandela.db` — the single working SQLite database all scripts build.
 
 The full asset inventory with rationale lives in the roadmap's
@@ -63,6 +66,99 @@ The full asset inventory with rationale lives in the roadmap's
 - **Decisions**: significant choices are recorded in the roadmap's Decision
   Log with rationale — nothing is decided silently.
 - The two sub-repos are source material and must never be modified.
+
+## Publishing to the Website (owner directive 2026-07-26)
+
+**🚨 REQUIRED after ANY change that alters the text of the Bible** — a new or
+reverted restoration, an applied review round, a manual verse correction, a
+name normalization pass: anything that writes to `restorations` or `verses` in
+`db/mandela.db`. The published site must not sit on a stale text.
+
+The website hands out **two editions**, both generated through committed
+settings files so the published text can be re-steered at any time by editing
+JSON — never by editing a script:
+
+| Settings file | Edition | Published as |
+|---|---|---|
+| `custom/site-original.json` | The Mandela Bible Reconstructed KJV (1611 voice) | `docs/downloads/the-mandela-bible-reconstructed-kjv.{md,pdf}` |
+| `custom/site-modern.json` | Reconstructed KJV in Modern English | `docs/downloads/reconstructed-kjv-in-modern-english.{md,pdf}` |
+
+**The publish step** (idempotent; reads the database, never writes to it):
+
+```bash
+python3 scripts/17_export_full.py          # repo export, exports/MandelaBible-MVP.{md,pdf}
+python3 scripts/81_publish_site_editions.py  # both site editions + index.html buttons
+```
+
+`81` writes all four download files into `docs/downloads/` (tracked — GitHub
+Pages serves them) and rewrites the download buttons in `docs/index.html`
+between the `EDITIONS:START` / `EDITIONS:END` markers with the current page
+counts and file sizes. **Do not hand-edit anything between those markers**, and
+do not remove them — the script fails with an explanation if they are missing.
+
+**Then verify and finish the job:**
+
+1. Confirm the run reported both editions and `index.html: download buttons
+   updated` (or `already current`).
+2. Numbers written in the site's *prose* are NOT generated — the restoration
+   count in the "What is this?" paragraph, the "By the numbers" tiles, and the
+   "all 7,031 changes" note under the famous-verse table. Check them against
+   the run's reported restoration count and update them by hand when they have
+   moved.
+3. Commit `docs/downloads/`, `docs/index.html`, and the settings files
+   together, so the site and the text it claims to publish never diverge.
+
+**Changing what is published** is a settings edit, not a code edit: add rules
+to `GlobalReplacements` / `VerseReplacements` in the two site files (both ship
+with empty rule sets — the original edition is exactly the restored text) and
+re-run `81`. The settings-file reference is in the root `README.md` →
+"Build your own edition".
+
+## Custom Editions (owner request 2026-07-26)
+
+Anyone can build their own variation of the restored text from a JSON settings
+file — no script edits. Two exporters, one shared engine:
+
+- `scripts/custom_export.py` — the engine (settings parsing, the case-preserving
+  single-pass replacement compiler, book-name resolution, the built-in
+  modernization rules, markdown + PDF rendering). It **reads** `db/mandela.db`
+  and never writes to it; output goes to `exports/custom/<title-slug>.{md,pdf}`.
+  The PDF writer is a copy of `17_export_full.py`'s stdlib writer (Decision
+  Log #10) — 17 was deliberately left untouched.
+- `scripts/79_export_custom.py` — the "original version": restored Mandela text
+  (base KJV + every `status='approved'` restoration) + one settings file.
+- `scripts/80_export_custom_modern.py` — the same base and first settings file,
+  then the built-in Early Modern → Modern English layer with a second settings
+  file **merged into it** (so a settings file can override a built-in rule; a
+  later layer could not, because the built-in pass would already have consumed
+  the word). It re-derives the text rather than parsing script 79's output.
+- `scripts/81_publish_site_editions.py` — the published pair, built from the
+  committed `custom/site-*.json` into `docs/downloads/`. See "Publishing to the
+  Website"; 79/80 remain the general-purpose exporters for any other settings
+  file.
+
+Settings keys: `VersionTitle` (required), `BookIndex`, `BookLinks`,
+`ChangeAppendix`, `RestorationAppendix`, `CustomSettingAppendix`,
+`GlobalReplacements`, `VerseReplacements`. Verses carry two markers: `*` = a
+project restoration (Restoration Appendix, the same content
+`17_export_full.py` emits), `†` = changed by this edition's settings (Change
+Appendix). The full reference — including replacement semantics — is
+in the root `README.md` → "Build your own edition"; keep the two in sync when
+changing the engine.
+
+Rules worth preserving when editing the engine:
+
+- Replacements are compiled into **one alternation and applied in a single
+  pass** so they cannot cascade; explicit keys are ordered before the generic
+  `-eth`/`-est` pattern, which is what makes "map a word to itself" a working
+  way to switch a built-in rule off.
+- The automatic `-eth`/`-est` rule only fires when a base form of the word is
+  itself a word in the text; that guard (plus `ETH_BLOCKLIST` /
+  `EST_BLOCKLIST` for ordinals and superlatives) is what protects *priest*,
+  *harvest*, *forest*, *Nazareth*, *greatest*, *twentieth*. Loosening it
+  silently corrupts nouns and names.
+- Bad settings warn and skip (unknown book, unknown key); only a missing
+  `VersionTitle` or invalid JSON fails the run.
 
 ## Reverting a Change (Migration Pattern)
 

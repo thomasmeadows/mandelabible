@@ -63,6 +63,12 @@ typings/
 # Working database — rebuildable from scripts/ (roadmap Phase 0 decision)
 db/mandela.db
 
+# Reader-built custom editions — regenerated in seconds by
+# scripts/79_export_custom.py and scripts/80_export_custom_modern.py from the
+# settings files in custom/, which ARE tracked. The published MVP under
+# exports/ is unaffected.
+exports/custom/
+
 # Python
 __pycache__/
 *.pyc

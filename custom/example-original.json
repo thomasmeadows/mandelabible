@@ -1,0 +1,23 @@
+{
+    "VersionTitle": "Example Original Edition",
+    "BookIndex": "yes",
+    "BookLinks": "yes",
+    "ChangeAppendix": "yes",
+    "CustomSettingAppendix": "yes",
+    "GlobalReplacements": {
+        "trespasses": "betrayals",
+        "trespassed": "betrayed",
+        "trespass": "betrayal",
+        "backbiters": "backstabbers"
+    },
+    "VerseReplacements": {
+        "revelations": {
+            "1": {
+                "1": {
+                    "replacement": "The Revelation of Jesus Christ, which God gave unto him, to show unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:",
+                    "comment": "Example entry — the received reading with 'shew' spelled 'show'. Replace it with your own."
+                }
+            }
+        }
+    }
+}

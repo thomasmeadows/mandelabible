@@ -19,3 +19,34 @@ Conventions:
 - All scripts read source data from the read-only sub-repos
   (`bible_databases/`, `bible_forge_db/`) and write only to `db/mandela.db`,
   which is gitignored and fully rebuildable from these scripts.
+- **Un-numbered `.py` files are shared modules**, not tasks: `residuals.py`,
+  and `custom_export.py` (the engine behind the custom-edition exporters).
+
+## Custom editions
+
+Two exporters build a reader's own variation of the restored text from a JSON
+settings file, writing markdown + PDF to `exports/custom/`. They read the
+database and never write to it:
+
+```
+python3 scripts/79_export_custom.py custom/example-original.json
+python3 scripts/80_export_custom_modern.py custom/example-original.json \
+                                           custom/example-modern.json
+```
+
+Script 79 applies one settings file to the restored text; script 80 re-derives
+that same result and stacks the built-in Early Modern → Modern English rules
+plus a second settings file on top. Both share `custom_export.py`. The
+settings-file reference is in the root [`README.md`](../README.md) →
+"Build your own edition".
+
+The two editions published on the website are the same machinery pointed at the
+committed `custom/site-original.json` / `custom/site-modern.json`:
+
+```
+python3 scripts/81_publish_site_editions.py
+```
+
+It writes both editions into `docs/downloads/` and refreshes the download
+buttons in `docs/index.html`. **Run it after any database change that alters
+the text** — see [`CLAUDE.md`](../CLAUDE.md) → "Publishing to the Website".

@@ -574,6 +574,43 @@ CREATE TABLE restorations (
 
 ---
 
+## Custom Editions (owner request 2026-07-26)
+
+- [x] **DONE 2026-07-26** — Two settings-driven exporters so readers can build
+  their own variation of the restored text without editing scripts:
+  `scripts/79_export_custom.py` (the "original version": restored Mandela text
+  + one JSON settings file) and `scripts/80_export_custom_modern.py` (the same,
+  plus a built-in Early Modern → Modern English layer with a second settings
+  file merged into it), sharing `scripts/custom_export.py`. Settings keys:
+  `VersionTitle`, `BookIndex`, `BookLinks`, `ChangeAppendix`,
+  `CustomSettingAppendix`, `GlobalReplacements`, `VerseReplacements`
+  (replacement + comment). Replacements preserve the source text's
+  capitalization, match whole words (punctuation and phrases allowed), and are
+  applied in a single pass so they cannot cascade; verse replacements are
+  verbatim. Samples in `custom/`, output in `exports/custom/`, reference in the
+  root `README.md` → "Build your own edition". Neither script writes to
+  `db/mandela.db`. Verified: byte-identical re-runs, correct PDF contents page
+  numbers, and the modernization leaves *priest / harvest / forest / greatest /
+  twentieth / Nazareth* intact while converting 1,779 long-tail `-eth`/`-est`
+  forms beyond the curated table.
+- [x] **DONE 2026-07-26** — The website now publishes **two** editions, both
+  driven by committed settings files so the published text can be re-steered by
+  editing JSON: `custom/site-original.json` → "The Mandela Bible Reconstructed
+  KJV" (1611 voice) and `custom/site-modern.json` → "Reconstructed KJV in
+  Modern English". `scripts/81_publish_site_editions.py` builds all four files
+  into `docs/downloads/` and rewrites the download buttons in `docs/index.html`
+  between the `EDITIONS:START`/`EDITIONS:END` markers with live page counts and
+  sizes. Both site settings files ship with empty rule sets, so the original
+  edition is the restored text exactly. The custom exporter gained a
+  `RestorationAppendix` setting (on by default) so a published edition carries
+  the same 7,031-entry appendix as `17_export_full.py`; verses now carry two
+  markers, `*` (project restoration) and `†` (this edition's settings). The
+  standing protocol — re-run 17 + 81 after any database change that alters the
+  text — is in `CLAUDE.md` → "Publishing to the Website". The plain
+  `exports/MandelaBible-MVP.{md,pdf}` repo export is unchanged.
+
+---
+
 ## Backlog / Future Ideas (not scheduled)
 
 - Stylometric author fingerprinting and multi-author book separation (instructions.md Phases 3–4) — needs Phases 2–4 data first.

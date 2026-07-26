@@ -1,0 +1,10 @@
+{
+    "VersionTitle": "The Mandela Bible Reconstructed KJV",
+    "BookIndex": "yes",
+    "BookLinks": "yes",
+    "ChangeAppendix": "yes",
+    "RestorationAppendix": "yes",
+    "CustomSettingAppendix": "yes",
+    "GlobalReplacements": {},
+    "VerseReplacements": {}
+}

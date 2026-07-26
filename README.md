@@ -13,15 +13,27 @@ first, internal alteration artifacts second, all written texts advisory.
 **Website**: [mandelabible.com](https://mandelabible.com) ·
 **GitHub**: [github.com/thomasmeadows/mandelabible](https://github.com/thomasmeadows/mandelabible)
 
-## Download the MVP
+## Download
 
-The complete 66-book restored text — 7,031 owner-reviewed restorations, every
-changed verse marked, every original reading preserved in the appendix:
+Two published editions of the complete 66-book restored text — 7,031
+owner-reviewed restorations, every changed verse marked, every original reading
+preserved in the Restoration Appendix:
 
-- [PDF (2,054 pages)](./exports/MandelaBible-MVP.pdf)
-- [Markdown](./exports/MandelaBible-MVP.md)
+| Edition | Download |
+|---|---|
+| **Reconstructed KJV** — the restored text in its 1611 Early Modern English | [PDF](./docs/downloads/the-mandela-bible-reconstructed-kjv.pdf) · [Markdown](./docs/downloads/the-mandela-bible-reconstructed-kjv.md) |
+| **Reconstructed KJV in Modern English** — the same restorations, modernized | [PDF](./docs/downloads/reconstructed-kjv-in-modern-english.pdf) · [Markdown](./docs/downloads/reconstructed-kjv-in-modern-english.md) |
 
-Per-book exports with footnoted changes live in [`exports/`](./exports/).
+Both are also on [mandelabible.com](https://mandelabible.com), and both are
+generated from committed settings files (`custom/site-original.json`,
+`custom/site-modern.json`) by `scripts/81_publish_site_editions.py` — so what
+the site publishes can be changed by editing JSON, never by editing a script.
+See "Build your own edition" below.
+
+The plain repo export — the restored text with no settings layer at all — stays
+at [`exports/MandelaBible-MVP.{pdf,md}`](./exports/), rebuilt by
+`scripts/17_export_full.py`. Per-book exports with footnoted changes live in
+[`exports/`](./exports/) too.
 
 ## Project documentation
 
@@ -61,6 +73,148 @@ including the owner's review verdicts:
 
 Source data: [`bible_databases/`](./bible_databases/) (scrollmapper) and
 [`bible_forge_db/`](./bible_forge_db/) (BibleForge) — both read-only sub-repos.
+
+## Build your own edition
+
+You can produce your own variation of the restored text — your wording, your
+spelling, your whole-verse readings — without editing a single script. Two
+exporters read a JSON settings file and write a complete 66-book edition as
+markdown **and** PDF into `exports/custom/`:
+
+```bash
+# 1. your edition, in the King James voice (the "original version")
+python3 scripts/79_export_custom.py custom/example-original.json
+
+# 2. the same edition, automatically modernized on top of those changes
+python3 scripts/80_export_custom_modern.py custom/example-original.json \
+                                           custom/example-modern.json
+```
+
+Copy `custom/example-original.json` / `custom/example-modern.json`, edit them,
+and re-run. Both scripts are idempotent, take an optional `--out-dir`, and
+**never write to the database** — they only read it.
+
+The two editions published on mandelabible.com are exactly this mechanism
+pointed at committed settings files:
+
+```bash
+python3 scripts/81_publish_site_editions.py   # custom/site-*.json → docs/downloads/
+```
+
+That one command rebuilds both published editions and refreshes the site's
+download buttons. To change what the site publishes, edit
+`custom/site-original.json` / `custom/site-modern.json` and re-run it — both
+ship with empty rule sets, so the Reconstructed KJV edition is the restored
+text exactly as the project produced it.
+
+Both start from the same base: the restored Mandela text, i.e. the KJV with
+every owner-approved restoration already applied, so the memories are in your
+edition before your own changes are. Script 80 does not re-parse script 79's
+output — it re-derives the text and stacks the layers:
+
+```
+restored Mandela text
+  → your original settings file        (script 79 stops here)
+  → built-in modernization rules
+  → your modernization settings file   (overrides the built-in rules)
+```
+
+### The settings file
+
+```json
+{
+    "VersionTitle": "Billy Bob's Bible",
+    "BookIndex": "yes",
+    "BookLinks": "yes",
+    "ChangeAppendix": "yes",
+    "CustomSettingAppendix": "yes",
+    "GlobalReplacements": {
+        "thee": "you",
+        "thou": "you",
+        "thine": "your",
+        "ye": "you",
+        "trespassed": "betrayed",
+        "trespass": "betrayal",
+        "backbiters": "backstabbers",
+        ";": ",",
+        ":": "."
+    },
+    "VerseReplacements": {
+        "revelations": {
+            "1": {
+                "1": {
+                    "replacement": "In the beginning, God created the heaven and the earth.",
+                    "comment": "I remember it being heaven"
+                }
+            }
+        }
+    }
+}
+```
+
+| Setting | What it does |
+|---|---|
+| `VersionTitle` | **Required.** The edition's title, and its file name: `exports/custom/billy-bobs-bible.{md,pdf}` |
+| `BookIndex` | `yes` adds a Contents list of all 66 books — with page numbers in the PDF |
+| `BookLinks` | `yes` makes the markdown Contents entries clickable and puts an "↑ Contents" link on every book. Needs `BookIndex`; defaults to whatever `BookIndex` is |
+| `ChangeAppendix` | `yes` marks every verse your settings changed with `†` and appends a was/now list of them, with your comments |
+| `RestorationAppendix` | `yes` marks every project restoration with `*` and appends the was/now list of all 7,031 of them — the same appendix the repo export carries. Turn it off for a slimmer file |
+| `CustomSettingAppendix` | `yes` appends the settings themselves — every rule, where it came from, and how many times it fired |
+| `GlobalReplacements` | word/phrase → replacement, applied everywhere |
+| `VerseReplacements` | book → chapter → verse → `{ "replacement": "...", "comment": "..." }` (a plain string works too when you don't want a comment) |
+
+Flags accept `yes`/`no` (or `true`/`false`); anything omitted defaults to on.
+
+**How replacements behave**
+
+- **Capitalization is preserved from the text, not the rule.** `"thou": "you"`
+  turns *thou* into *you*, *Thou* into *You*, and *THOU* into *YOU*.
+- **Whole words only.** `"ye": "you"` will not touch *yea* or *eye*. Keys that
+  are punctuation (`";": ","`) are matched literally, and keys may be phrases
+  (`"forasmuch as": "since"`).
+- **One pass, no cascading.** All rules are applied simultaneously, so
+  `"thee": "you"` plus `"you": "ye"` cannot turn *thee* into *ye*. Longer keys
+  win over shorter ones.
+- **Verse replacements win and are taken verbatim** — global rules in the same
+  settings file are not applied to them. (In script 80, a verse you replace in
+  the *original* file still gets modernized by the later layer; that is the
+  point of stacking.)
+- Book names are forgiving: `revelations`, `Revelation`, `1 John`, `I John`,
+  `first john`, `song of songs` all resolve. An unknown book is reported as a
+  warning and skipped rather than failing the run.
+- Swapping punctuation across the whole Bible (`";": ","`) changes tens of
+  thousands of verses, so the Change Appendix — and the PDF — get very large.
+  Set `ChangeAppendix` to `no` if you don't want that.
+
+### The automatic modernization (script 80)
+
+Script 80 applies a built-in Early Modern → Modern English pass before your
+modernization settings:
+
+- pronouns — *thee/thou → you*, *thy/thine → your*, *ye → you*, *thyself →
+  yourself*
+- auxiliaries and irregulars — *hath → has*, *doth → does*, *art → are*,
+  *shalt → shall*, *saith → says*, *spake → spoke*, *wist → knew*
+- a curated table of ~260 archaic verb forms, plus an automatic `-eth`/`-est`
+  rule for the long tail: *restoreth → restores*, *preparest → prepare*,
+  *sitteth → sits*, *crieth → cries*. It only fires when a base form of the
+  word is itself a word in the text, which is what keeps *priest*, *harvest*,
+  *forest*, *request*, *tempest*, *Nazareth* and *Mephibosheth* intact;
+  ordinals (*twentieth*) and superlatives (*greatest*, *highest*) are
+  blocklisted on top of that.
+- archaic spelling and vocabulary — *shew → show*, *unto → to*, *verily →
+  truly*, *betwixt → between*, *peradventure → perhaps*
+
+**Your settings file always wins over a built-in rule.** Put the word in
+`GlobalReplacements` with the reading you want — and map a word to *itself*
+(`"burneth": "burneth"`, `"thee": "thee"`) to switch a built-in rule off for
+that word. Rare forms the automatic rule cannot verify (*aileth*, *availeth*)
+are deliberately left alone; add them to `GlobalReplacements` if you want them
+changed.
+
+The Custom Setting Appendix in the output lists every rule with its source
+(`built-in`, `settings`, or `settings (overrides built-in)`) and how many times
+it actually fired — the fastest way to see whether a rule did what you meant.
 
 ## Remember a verse differently?
 
