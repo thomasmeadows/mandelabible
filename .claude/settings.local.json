@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python3 -)"
+      "Bash(python3 -)",
+      "Bash(grep -n \"^- owner ruling: *$\" references/rare_word_round6_review.md)"
     ]
   }
 }

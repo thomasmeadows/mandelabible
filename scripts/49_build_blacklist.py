@@ -35,6 +35,7 @@ R2 = (ROOT / "references" / "rare_word_witness_batches_2" /
 R3 = ROOT / "references" / "rare_word_round3_replacements.md"
 R4 = ROOT / "references" / "rare_word_round4_replacements.md"
 R5 = ROOT / "references" / "rare_word_round5_replacements.md"
+R6 = ROOT / "references" / "rare_word_round6_replacements.md"
 GLOBAL = ROOT / "references" / "global_word_swaps.md"
 
 AI = "AI agent (king-james), owner-approved"
@@ -147,6 +148,26 @@ def round5():
             for w, r, ref, why in entries]
 
 
+def round6():
+    """Round-6 rare-word review removals
+    (references/rare_word_round6_replacements.md, written by
+    scripts/72_apply_round6.py). Same per-verse `## old → new — Book C:V`
+    format as rounds 1/3/4/5; owner-decided."""
+    if not R6.exists():
+        return []
+    entries, cur = [], None
+    for line in R6.read_text(encoding="utf-8").splitlines():
+        m = HDR.match(line)
+        if m:
+            cur = [m.group(1).strip(), m.group(2).strip(),
+                   f"{m.group(3)} {m.group(4)}:{m.group(5)}", ""]
+            entries.append(cur)
+        elif cur is not None and line.startswith("- source:"):
+            cur[3] = line[len("- source:"):].strip()
+    return [(w, r, ref, why or "round-6 owner ruling", HUMAN, "rare word, round 6")
+            for w, r, ref, why in entries]
+
+
 def global_swaps():
     """Bible-wide single-word owner directives
     (references/global_word_swaps.md, e.g. corn -> wheat). Same per-verse
@@ -219,8 +240,8 @@ ALLOW_SHRINK = "--allow-shrink" in sys.argv
 
 
 def main():
-    rows = round1() + round2() + round3() + round4() + round5() + global_swaps() \
-        + mixed_inflections() + manual_words() + names()
+    rows = round1() + round2() + round3() + round4() + round5() + round6() \
+        + global_swaps() + mixed_inflections() + manual_words() + names()
     by_word = defaultdict(list)
     for word, repl, ref, why, decider, source in rows:
         by_word[word.lower()].append((word, repl, ref, why, decider, source))

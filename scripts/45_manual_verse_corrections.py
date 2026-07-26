@@ -24,7 +24,7 @@ ROOT = Path(__file__).resolve().parent.parent
 MD_PATH = ROOT / "references" / "manual_verse_corrections.md"
 DB_PATH = ROOT / "db" / "mandela.db"
 
-LINE_RE = re.compile(r'^(.+?) (\d+):(\d+)\s*-\s*"(.*)"\s*$')
+LINE_RE = re.compile(r'^(.+?) (\d+):(\d+)\s*-\s*(.*)$')
 BOOK_ALIASES = {"Revelation": "Revelation of John"}
 
 EVIDENCE = (
@@ -65,7 +65,12 @@ def main():
             unparsed.append(raw.strip()[:60])
             continue
         book = BOOK_ALIASES.get(m.group(1).strip(), m.group(1).strip())
-        ch, vs, reading = int(m.group(2)), int(m.group(3)), m.group(4)
+        ch, vs, reading = int(m.group(2)), int(m.group(3)), m.group(4).strip()
+        if reading.startswith('"') and reading.endswith('"') and len(reading) > 1:
+            reading = reading[1:-1]
+        if not reading:
+            unparsed.append(f"no reading text: {raw.strip()[:60]}")
+            continue
         key = (books.get(book), ch, vs)
         if key not in vids:
             unparsed.append(f"ref not found: {raw.strip()[:60]}")
