@@ -36,6 +36,7 @@ R3 = ROOT / "references" / "rare_word_round3_replacements.md"
 R4 = ROOT / "references" / "rare_word_round4_replacements.md"
 R5 = ROOT / "references" / "rare_word_round5_replacements.md"
 R6 = ROOT / "references" / "rare_word_round6_replacements.md"
+CHIEF = ROOT / "references" / "chief_head_replacements.md"
 GLOBAL = ROOT / "references" / "global_word_swaps.md"
 
 AI = "AI agent (king-james), owner-approved"
@@ -168,6 +169,27 @@ def round6():
             for w, r, ref, why in entries]
 
 
+def chief_head():
+    """chief/chiefest word review removals
+    (references/chief_head_replacements.md, written by
+    scripts/76_apply_chief_head.py). Same per-verse `## old → new — Book C:V`
+    format as rounds 1/3/4/5/6; owner-decided."""
+    if not CHIEF.exists():
+        return []
+    entries, cur = [], None
+    for line in CHIEF.read_text(encoding="utf-8").splitlines():
+        m = HDR.match(line)
+        if m:
+            cur = [m.group(1).strip(), m.group(2).strip(),
+                   f"{m.group(3)} {m.group(4)}:{m.group(5)}", ""]
+            entries.append(cur)
+        elif cur is not None and line.startswith("- source:"):
+            cur[3] = line[len("- source:"):].strip()
+    return [(w, r, ref, why or "chief/chiefest word review, owner ruling",
+             HUMAN, "chief/chiefest word review")
+            for w, r, ref, why in entries]
+
+
 def global_swaps():
     """Bible-wide single-word owner directives
     (references/global_word_swaps.md, e.g. corn -> wheat). Same per-verse
@@ -222,6 +244,13 @@ def manual_words():
                 ".py); plural included; derived forms straitly/straitened/"
                 "straitness/straitest left pending a separate ruling",
                 HUMAN, "manual word change"))
+    swap_why = ("owner directive 2026-07-26 (scripts/75_pronoun_and_word_"
+                "swaps.py), sequential bible-wide pass; plural included "
+                "where applicable")
+    for a, b in [("pavement", "road"), ("you terror", "thine fear"),
+                 ("terror", "fear"), ("an error", "a sin"), ("error", "sin"),
+                 ("your", "thine"), ("you", "thee")]:
+        out.append((a, b, "bible-wide", swap_why, HUMAN, "manual word change"))
     return out
 
 
@@ -241,7 +270,8 @@ ALLOW_SHRINK = "--allow-shrink" in sys.argv
 
 def main():
     rows = round1() + round2() + round3() + round4() + round5() + round6() \
-        + global_swaps() + mixed_inflections() + manual_words() + names()
+        + chief_head() + global_swaps() + mixed_inflections() + manual_words() \
+        + names()
     by_word = defaultdict(list)
     for word, repl, ref, why, decider, source in rows:
         by_word[word.lower()].append((word, repl, ref, why, decider, source))

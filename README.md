@@ -15,10 +15,10 @@ first, internal alteration artifacts second, all written texts advisory.
 
 ## Download the MVP
 
-The complete 66-book restored text — 534 owner-reviewed restorations, every
+The complete 66-book restored text — 7,031 owner-reviewed restorations, every
 changed verse marked, every original reading preserved in the appendix:
 
-- [PDF (1,373 pages)](./exports/MandelaBible-MVP.pdf)
+- [PDF (2,054 pages)](./exports/MandelaBible-MVP.pdf)
 - [Markdown](./exports/MandelaBible-MVP.md)
 
 Per-book exports with footnoted changes live in [`exports/`](./exports/).
