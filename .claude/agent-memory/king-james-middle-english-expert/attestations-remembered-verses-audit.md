@@ -1,15 +1,15 @@
 ---
 name: attestations-remembered-verses-audit
-description: Word/phrase attestation rulings from the 2026-07-14 full audit of references/remembered_verses.md, with corpus citations
+description: Word/phrase attestation rulings from the 2026-07-14 full audit of references/evidence/remembered_verses.md, with corpus citations
 metadata:
   type: project
 ---
 
-Findings from a full period-authenticity audit of `references/remembered_verses.md` (2026-07-14), Capability 2. All rulings below were verified by direct query against `KJV.db`, `Geneva1599.db`, `Tyndale.db`, `Wycliffe.db` and the Middle English/Essayes reference texts — re-run the query before relying on a ruling if it becomes load-bearing for a Phase 6 restoration.
+Findings from a full period-authenticity audit of `references/evidence/remembered_verses.md` (2026-07-14), Capability 2. All rulings below were verified by direct query against `KJV.db`, `Geneva1599.db`, `Tyndale.db`, `Wycliffe.db` and the Middle English/Essayes reference texts — re-run the query before relying on a ruling if it becomes load-bearing for a Phase 6 restoration.
 
 > **Scope note (2026-07-14, main agent):** every ruling in this file is **Axis 1 only** (translation-era 1611 English) — recorded before the dual-era audit rule landed (roadmap Decision Log #4). None of them rules on Axis 2 (did the referent exist in the biblical source era, per the underlying Hebrew/Greek word?). Re-run Axis 2 before reusing any ruling below as a full authenticity verdict. Owner-supplied Axis 2 facts recorded so far: rigid **bottles** were rare/elite before 0 AD while **wineskins** were the heavily-used vessel of the period (Greek ἀσκός at Matt 9:17 names a skin vessel) — so "bottle(s): PERIOD" below is a 1611-English ruling only, not a clearance of the referent.
 
-> **Second scope note (2026-07-14, main agent — Premise Revision / Decision Log #5):** the premise now holds that the timeline alteration rewrote **every written text**, including all the corpora these rulings were verified against (TR, WLC, Wycliffe, Geneva, Tyndale, the Middle English texts, the Essayes). All verdicts in this file are therefore **advisory** — they describe the altered timeline's textual record and cannot clear a reading or veto a memory in `references/remembered_verses.md`. Memory testimony leads (corroborated memory > alteration artifacts > advisory texts); conflicts between these rulings and memories go to owner review. Owner rulings recorded since: 1 John 4:6 is remembered as conveying "led astray" rather than "error"; the "spirit of error" attestation chain (TR πλάνη, Wycliffe/Geneva "errour") is altered-timeline evidence, not a refutation.
+> **Second scope note (2026-07-14, main agent — Premise Revision / Decision Log #5):** the premise now holds that the timeline alteration rewrote **every written text**, including all the corpora these rulings were verified against (TR, WLC, Wycliffe, Geneva, Tyndale, the Middle English texts, the Essayes). All verdicts in this file are therefore **advisory** — they describe the altered timeline's textual record and cannot clear a reading or veto a memory in `references/evidence/remembered_verses.md`. Memory testimony leads (corroborated memory > alteration artifacts > advisory texts); conflicts between these rulings and memories go to owner review. Owner rulings recorded since: 1 John 4:6 is remembered as conveying "led astray" rather than "error"; the "spirit of error" attestation chain (TR πλάνη, Wycliffe/Geneva "errour") is altered-timeline evidence, not a refutation.
 
 ## bottles / wineskins (Matthew 9:17 etc.)
 - **"bottle(s)" — PERIOD.** Attested KJV 25x, Geneva1599 22x (spelled "bottel(s)"), Wycliffe 20x (spelled "botel(is)"), Tyndale 3x. Continuous use 1382→1611.

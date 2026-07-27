@@ -84,7 +84,7 @@ I also created a list of famous verses and how different the output of this proj
 
 [Black List](./references/word_blacklist.md) | 
 [White Liist](./references/word_whitelist.md) | 
-[Famous Verses](./references/verses_famous.md)
+[Famous Verses](./references/verses/verses_famous.md)
 
 ## The Beginning
 
@@ -96,32 +96,32 @@ I gathered every resource I could find.  Bibles of every translation, the lexico
 
 I then started with all memories as a base for changes and created an MVP export of the KJV and memories.  I then created an AI agent that kept early modern English text in memory as well as alternative versions of the bible to allow it to advise on decisions early on.  I then searched for outliers, words that didn't belong in the KJV, and words with improper inflection.  One of the tell tale signs that the Mandela Effect has altered all existing bibles is that it now contains mixed inflections for both new English and Early Modern English.  The current English inflections simply do not belong in something written in 1611.
 
-[First pass outliers](./references/uncleared_words.md) | 
-[Inflection in Early Modern English vs Current New English](./references/Inflection_English_vs_Early_Modern_English.md) | 
-[Commas, Colons, Semicolons, and Periods in Early Modern English](./references/colon_versus_semicolon.md) | 
-[Mixed Inflections with decisions made](./references/mixed_inflections.md)
+[First pass outliers](./references/word_lists/uncleared_words.md) | 
+[Inflection in Early Modern English vs Current New English](./references/language/Inflection_English_vs_Early_Modern_English.md) | 
+[Commas, Colons, Semicolons, and Periods in Early Modern English](./references/language/colon_versus_semicolon.md) | 
+[Mixed Inflections with decisions made](./references/word_reviews/mixed_inflections.md)
 
 I found all cases of mixed inflection and standardized them across the entire bible.  For better or worse, it is a start.  I found all the rare words that only occurred 1-2 times and subtracted the proper names and locations of bible events.  This resulted in roughly 600 words that needed to be corrected on around 2000 verses.  I did not have time to go through each one by hand but I skimmed them and they mostly seemed correct by the AI.  It may not be perfect, but it is a good start.  I used an ocr scanner to scan all the residuals and compare them against existing bibles.  Most of the images were found to come from rephrases, study bibles, or other bible translations.  Only 1-2 images were confirmed to be true authentic KJV residuals.  A large portion of the psalms among them.  I exported everything to a MVP copy of the bible.  I collapsed all name variants into their modern usage, excluding Sampson which differs from the author Samson of the new testament. 
 
-[OCR Scans of Residuals](./references/residuals_ocr.md) | 
-[OCR Proposals & Adoptions 1](./references/residue_verse_proposals_1.md) | 
-[OCR Proposals & Adoptions 2](./references/residue_verse_proposals_2.md) | 
-[Name Variants](./references/name_variants.md)
+[OCR Scans of Residuals](./references/residue/residuals_ocr.md) | 
+[OCR Proposals & Adoptions 1](./references/residue/residue_verse_proposals_1.md) | 
+[OCR Proposals & Adoptions 2](./references/residue/residue_verse_proposals_2.md) | 
+[Name Variants](./references/names/name_variants.md)
 
 I also made a 2nd pass over the words to try to get even more rare words removed and words from the first pass that were replaced with other rare words.  This batch took much longer and i needed to remove inflections and white list words from the first batch.  It took longer cause nearly every translation of the bible was added including the Geneva which was before the king James.
 
-[Round 2 of Rare Words](./references/rare_words_restored.md)
-[Round 2 AI Suggestions](./references/rare_word_witness_batches_2/round2_ai_suggestions.md)
-[Round 2 AI Whitelist Suggestions](./references/rare_word_witness_batches_2/round2_whitelist_and_no_safe_swap.md)
+[Round 2 of Rare Words](./references/word_lists/rare_words_restored.md)
+[Round 2 AI Suggestions](./references/rounds/round2/witness_batches/round2_ai_suggestions.md)
+[Round 2 AI Whitelist Suggestions](./references/rounds/round2/witness_batches/round2_whitelist_and_no_safe_swap.md)
 
 ### Week 2
 
 With all the data known about the Mandela Effect incorporated into the current exports, I now need to go over it and fix any damage.  Meditate on the new word, and see if anything needs to be changed.  Probably create a blog to let people know about the changes.  I also created a round 3 of rare words to review.  Many of which seem to be authentic KJV.  The time of reviewing outliers seems to be coming to a close.  I did another pass at the rare words and eliminated some rare words and confirmed others.
 
-[Round 3 of rare words review](./references/rare_word_round3_review.md)
-[Round 3 of rare word replacements](./references/rare_word_round3_replacements.md)
-[Round 3 of rare words replace preview](./references/rare_word_round3_replace_preview.md)
-[Round 3 of rare words applied](./references/rare_word_round3_applied.md)
+[Round 3 of rare words review](./references/rounds/round3/rare_word_round3_review.md)
+[Round 3 of rare word replacements](./references/rounds/round3/rare_word_round3_replacements.md)
+[Round 3 of rare words replace preview](./references/rounds/round3/rare_word_round3_replace_preview.md)
+[Round 3 of rare words applied](./references/rounds/round3/rare_word_round3_applied.md)
 
 #### leasing → lies
 
@@ -129,23 +129,23 @@ I had the agent check the KJV for middle English words that were in the KJV that
 
 Round 4 the AI misread what I wanted, but it gave me something I wanted to do anyways.  It displayed a list of rare word changes in the verses that were already modified in the output.  This allows a re-review of things that may not be accurate.
 
-[Round 4 - re-review](./references/rare_word_round4_restoration_review.md) | 
-[Round 4 - re-review](./references/rare_word_round4_review.md) | 
-[Round 4 - Apply Preview](./references/rare_word_round4_apply_preview.md)
+[Round 4 - re-review](./references/rounds/round4/rare_word_round4_restoration_review.md) | 
+[Round 4 - re-review](./references/rounds/round4/rare_word_round4_review.md) | 
+[Round 4 - Apply Preview](./references/rounds/round4/rare_word_round4_apply_preview.md)
 
 Corn clearly does not belong in the bible, it wasn't even known the be edible until the discovery of the Americas.  This should be difinitive proof that the mandela effect is real and words have been in altered in the bible.
 
-[Corn to Wheat](./references/verses_wheat.md)
-[Additional wheat changes](./references/verses_wheat_apply.md)
+[Corn to Wheat](./references/verses/verses_wheat.md)
+[Additional wheat changes](./references/verses/verses_wheat_apply.md)
 
 Changed hail -> greet in many instances since the use of hail was also rare in the KJV.  This originally replaced salute which was inaccurate as well.
 
-[Salute -> Hail -> Greet](./references/hail_review.md)
+[Salute -> Hail -> Greet](./references/word_reviews/hail_review.md)
 
 With those merged, it was time for round 5
 
-[Round 5 - re-review](./references/rare_word_round5_review.md)
-[Round 5 - replacements](./references/rare_word_round5_replacements.md)
+[Round 5 - re-review](./references/rounds/round5/rare_word_round5_review.md)
+[Round 5 - replacements](./references/rounds/round5/rare_word_round5_replacements.md)
 
 I realized on round 5....this is going to take forever. I need a break from this.  I came across some outrageos verses and all I could do was laugh.
 
@@ -154,12 +154,12 @@ I realized on round 5....this is going to take forever. I need a break from this
 
 oh boy am I an in the valley of decisions now with multitudes upon multitudes of decisions to make.  This verse was made for me at this time lol.  Any ways, both of these verses are incredibly illogical and nonsensical.
 
-[Round 5 - apply preview](./references/rare_word_round5_apply_preview.md)
-[Round 5 - apply preview, owner annoted](./references/rare_word_round5_apply_preview_owner_annotated.md)
+[Round 5 - apply preview](./references/rounds/round5/rare_word_round5_apply_preview.md)
+[Round 5 - apply preview, owner annoted](./references/rounds/round5/rare_word_round5_apply_preview_owner_annotated.md)
 
 I am getting exhausted, time for round 6.
 
-[Round 6 - review](./references/rare_word_round6_review.md)
+[Round 6 - review](./references/rounds/round6/rare_word_round6_review.md)
 
 #### Week 2 - Memory Anomalies
 

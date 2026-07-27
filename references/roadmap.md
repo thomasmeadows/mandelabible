@@ -38,7 +38,7 @@ Per `CLAUDE.md`, when a task is completed it must be checked off here. The origi
 - [x] Identify and circle back to other bible translations and compare them to KJV. *[orig #8]*
 
 ### Phase 5 — Memory Reconciliation
-- [x] Import `references/remembered_verses.md` into a structured `memories` table and cross-check each memory against the translation witnesses
+- [x] Import `references/evidence/remembered_verses.md` into a structured `memories` table and cross-check each memory against the translation witnesses
 
 ### Phase 6 — Reconstruction
 - [x] Start reconstructing the bible based on memories, outliers, and words that don't belong.  Document decisions and reasons made.  Every flaw should be documented such as missing letters, bad punctuation *[orig #9]* (machinery complete; owner review of the 62 proposals is the open loop — see Phase 6 tasks)
@@ -160,7 +160,7 @@ Decisions confirmed with the project owner on 2026-07-14:
 19. **`references/` filed into subfolders** (owner directive 2026-07-27).
    - Directive: *"Clean up references folder and place like items in subfolders. Rounds should have their own sub folder. Update all scripts to point to new file locations as needed."* 85 loose files and 8 folders sat flat at `references/`.
    - **`scripts/87_reorganize_references.py`** (idempotent; a re-run reports 0 moved / 84 already in place / 0 rewrites) moves the 84 mapped items with `git mv` where tracked, then rewrites both path spellings — the pathlib segment form `ROOT / "references" / "foo.md"` and the literal form `references/foo.md` — across `scripts/*.py`, `references/**/*.md`, `docs/*.html`, `.claude/agents` + `agent-memory`, `CLAUDE.md`, and `README.md`. Nothing is deleted; only moves and path updates. Paths were rewritten in **79 files**: 62 scripts, 12 reference markdown files, the King James agent definition and two of its memory notes, `CLAUDE.md`, and `README.md`.
-   - **Owner ruling on the root**: seven entry-point files stay at `references/` — `roadmap.md`, `instructions.md`, `general_references.md`, `sources.md`, `remembered_verses.md`, `word_whitelist.md`, `word_blacklist.md` (plus the untouched `removed_words/`). Rounds got **per-round folders** (`rounds/round1…round7/`, each with its own `witness_batches/` for rounds 1–2) rather than one flat rounds folder. Other groups: `word_lists/`, `word_reviews/`, `verses/`, `names/`, `language/`, `residue/`, `evidence/`, `source_texts/` — the full map is in `CLAUDE.md` → "Project Structure & Data Assets".
+   - **Owner ruling on the root**: five entry-point files stay at `references/` — `roadmap.md`, `instructions.md`, `sources.md`, `word_whitelist.md`, `word_blacklist.md` (plus the untouched `removed_words/`). `remembered_verses.md` and `general_references.md` were in that set at first; the owner moved them into `evidence/` right after the reorg, and script 87's map, the docs, and every path mention were updated to follow. Rounds got **per-round folders** (`rounds/round1…round7/`, each with its own `witness_batches/` for rounds 1–2) rather than one flat rounds folder. Other groups: `word_lists/`, `word_reviews/`, `verses/`, `names/`, `language/`, `residue/`, `evidence/`, `source_texts/` — the full map is in `CLAUDE.md` → "Project Structure & Data Assets".
    - Two indirection sites the regex could not see were patched by hand: `scripts/05_word_era.py` (`REFS` alias + the `TEXT_CORPORA` filename list → `source_texts/`) and `scripts/85_merge_kj_whitelist_suggestions.py` (f-string `kj_whitelist_suggestions_batch{n}.md` → `word_lists/`). Three pre-existing stale docstring paths in scripts 24/25 and the relative blog links in `sources.md` were corrected in the same pass.
    - **Verified**: every `references/...` path named in any script resolves on disk (automated sweep, 0 stale); all scripts compile; `29_build_whitelist.py` and `49_build_blacklist.py` re-run clean off the new paths and reproduce their outputs byte-for-byte. No Bible text changed, so no republish was required.
 
@@ -476,7 +476,7 @@ CREATE TABLE verse_diffs (
 New milestone (from `instructions.md` Phase 7): the remembered verses are witness testimony and must live in the database, not just in markdown.
 
 ### Decisions
-- `references/remembered_verses.md` stays the human-editable source of record; a script imports it, so re-running after new memories are added is the workflow.
+- `references/evidence/remembered_verses.md` stays the human-editable source of record; a script imports it, so re-running after new memories are added is the workflow.
 - Each memory gets typed: `word_substitution` (bottles→wineskins), `missing_letter` (couch→crouch, divers→diverse, tables→tablets), `punctuation` (Genesis 1:1 comma), `missing_phrase` (Lord's Prayer doxology), `phrase_change` (lion & lamb), `emoticon`.
 
 ### Schema

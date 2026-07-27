@@ -521,7 +521,7 @@ The one thing the alteration could not rewrite is human memory of the pre-change
 1. **No written text is ground truth.** Every corpus this project holds — the witness translations (Wycliffe, Tyndale, Geneva), the source languages (TR, WLC, Septuagint), the Middle English samples, King James's own writing, external dictionaries — is a product of the altered timeline. All of them are **advisory**: useful for style, phrasing, and internal-consistency analysis, but agreement with the KJV clears nothing, and none of them can veto a memory. This includes language dating: the Middle English samples may not be good enough to determine the truth, because a word's attestation history may itself have been rewritten.
 
 2. **Evidence hierarchy** (highest first):
-   1. **Corroborated memory** — a remembered reading (`references/remembered_verses.md`) supported by independent memory agreement (multiple unrelated rememberers) and/or by alteration artifacts at the same location.
+   1. **Corroborated memory** — a remembered reading (`references/evidence/remembered_verses.md`) supported by independent memory agreement (multiple unrelated rememberers) and/or by alteration artifacts at the same location.
    2. **Alteration artifacts** — the internal seams the corruption engine left behind: character-count-preserving substitutions, style and grammar breaks, awkward word choices, punctuation anomalies (Phase 8 above).
    3. **Advisory texts** — witness readings, era attestation, and source-language glosses, used to phrase restorations in a consistent voice and to notice internal inconsistencies — never to overrule a memory.
 

@@ -1,6 +1,6 @@
 # Residue Verse Proposals — Batch 1 (entries 1–32)
 
-*Prepared per owner directive 2026-07-19. Covers the first 32 "## VARIANT" entries in `references/residue/tsbc_residue_placements.md`, Matthew 15:22 (`121_matthew_15_22_28_pt2.png`) through Genesis 22:1 (`116_genesis_22_1_res3.png`). Cross-checked against `bible_databases/formats/sqlite/KJV.db`, the period witnesses, and `references/remembered_verses.md`. Per Decision Log #14, a residue matters only when it is a DRASTIC change, not version-attributable, and/or aligns with memory; single-word swaps are bandaids unless memory-backed.*
+*Prepared per owner directive 2026-07-19. Covers the first 32 "## VARIANT" entries in `references/residue/tsbc_residue_placements.md`, Matthew 15:22 (`121_matthew_15_22_28_pt2.png`) through Genesis 22:1 (`116_genesis_22_1_res3.png`). Cross-checked against `bible_databases/formats/sqlite/KJV.db`, the period witnesses, and `references/evidence/remembered_verses.md`. Per Decision Log #14, a residue matters only when it is a DRASTIC change, not version-attributable, and/or aligns with memory; single-word swaps are bandaids unless memory-backed.*
 
 ---
 

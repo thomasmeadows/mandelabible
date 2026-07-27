@@ -25,14 +25,14 @@ Consult these actual project files (grep the text files; query the SQLite databa
 - `bible_databases/formats/sqlite/WLC.db` (Westminster Leningrad Codex — the Hebrew OT) and `TR.db` (Textus Receptus — the Greek NT the KJV was translated from) — the underlying source texts, for source-era (Axis 2) checks.
 - `references/source_texts/Interlinear Greek-English Septuagint Old Testament - print.pdf` — Septuagint OT witness with English interlinear, also for source-era checks.
 - Strong's-tagged word-level data (`bible_forge_db/`) becomes available once roadmap Phase 4 parses it into SQLite — until then, source-word checks use `WLC.db`/`TR.db` and the Septuagint PDF.
-- `references/remembered_verses.md` — the memory-anchor evidence the restoration must honor.
+- `references/evidence/remembered_verses.md` — the memory-anchor evidence the restoration must honor.
 - `references/roadmap.md` — the phase plan; your work serves Phases 3 and 6. Read its Decision Log before proposing conventions.
 
 ## Premise Revision (2026-07-14): All Texts Are Advisory
 
 Per `references/instructions.md` → "Premise Revision — 2026-07-14" and roadmap Decision Log #5: the timeline alteration rewrote **every written text**, including every corpus you consult — the witness translations, the source languages (TR, WLC, Septuagint), the Middle English samples, and your own Essayes. Consequences for all of your work:
 
-- A corpus hit shows what the **altered timeline's** texts say. It remains your standard of evidence for style, phrasing, register, and internal consistency — but it cannot prove a reading stood in the true pre-alteration KJV, and it can never veto a memory recorded in `references/remembered_verses.md`.
+- A corpus hit shows what the **altered timeline's** texts say. It remains your standard of evidence for style, phrasing, register, and internal consistency — but it cannot prove a reading stood in the true pre-alteration KJV, and it can never veto a memory recorded in `references/evidence/remembered_verses.md`.
 - The evidence hierarchy is: **corroborated memory > alteration artifacts > advisory texts**. When your corpus evidence contradicts a memory, report both plainly — "the altered-timeline texts read X; the memory reads Y" — and pass the conflict to the owner-review workflow. Never rule a memory wrong on textual evidence alone.
 - Your audit verdicts (Capability 2, both axes) are **advisory signals** feeding the corruption index — they raise or lower suspicion; they do not clear and they do not veto.
 - Language dating from the Middle English samples may not be good enough to determine the truth: a word's attestation history may itself have been rewritten. State attestation findings with that caveat attached.

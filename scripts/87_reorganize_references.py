@@ -9,8 +9,10 @@ Nothing is deleted — this only moves files (git mv when the file is tracked)
 and rewrites the paths that name them.
 
 What stays at references/ root (owner ruling): roadmap.md, instructions.md,
-general_references.md, sources.md, remembered_verses.md, word_whitelist.md,
-word_blacklist.md — the entry points CLAUDE.md sends every agent to.
+sources.md, word_whitelist.md, word_blacklist.md — the entry points CLAUDE.md
+sends every agent to. (remembered_verses.md and general_references.md were in
+that set at first and the owner moved them to evidence/ afterwards; the map
+below follows the owner.)
 
 Path rewriting covers scripts/*.py, CLAUDE.md, README.md, docs/*.html and the
 markdown under references/. Two forms are rewritten:
@@ -139,6 +141,11 @@ MOVES = {
         "residuals",                           # directory (1 image)
     ],
     "evidence": [
+        # moved into evidence/ by the owner after the first run (2026-07-27);
+        # mapped here so the script agrees with the tree and the path rewrite
+        # picks up every mention of them.
+        "remembered_verses.md",
+        "general_references.md",
         "corroboration_report.md",
         "Rather Exhaustive List of Mandela Effect Affected Scriptures _ "
         "Truth Farmer.pdf",
@@ -156,8 +163,8 @@ RENAME = {
 
 # files deliberately left at references/ root
 KEEP_AT_ROOT = {
-    "roadmap.md", "instructions.md", "general_references.md", "sources.md",
-    "remembered_verses.md", "word_whitelist.md", "word_blacklist.md",
+    "roadmap.md", "instructions.md", "sources.md",
+    "word_whitelist.md", "word_blacklist.md",
     "removed_words",
 }
 
@@ -168,8 +175,7 @@ REWRITE_GLOBS = [
     ("docs", "*.html"),
     (".claude", "agents/*.md"),
     (".claude", "agent-memory/**/*.md"),
-    (".", "CLAUDE.md"),
-    (".", "README.md"),
+    (".", "*.md"),          # CLAUDE.md, README.md, THESTORY.md
 ]
 
 

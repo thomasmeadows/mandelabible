@@ -15,10 +15,9 @@ reflects the current state of open vs. shipped work.
 ## Project Structure & Data Assets
 
 - `references/` — filed into subfolders by kind (owner directive 2026-07-27,
-  `scripts/87_reorganize_references.py`). **Seven files stay at the root** —
-  the entry points: `roadmap.md`, `instructions.md`, `general_references.md`,
-  `sources.md`, `remembered_verses.md`, `word_whitelist.md`,
-  `word_blacklist.md`. Everything else lives in:
+  `scripts/87_reorganize_references.py`). **Five files stay at the root** —
+  the entry points: `roadmap.md`, `instructions.md`, `sources.md`,
+  `word_whitelist.md`, `word_blacklist.md`. Everything else lives in:
   - `rounds/round1…round7/` — one folder per rare-word round, holding that
     round's review, replacements, apply-preview, KJ suggestions, and (rounds
     1–2) its `witness_batches/` folder.
@@ -34,8 +33,10 @@ reflects the current state of open vs. shipped work.
     (inflection reference, ME→EModE, punctuation).
   - `residue/` — TSBC residue text, placements, OCR, proposals, and the
     residue image folders.
-  - `evidence/` — corroboration report, the Truth Farmer PDF, the kjvrestore
-    page cache and comparison, blog-search sweeps.
+  - `evidence/` — **`remembered_verses.md`** (the memory testimony at the top
+    of the evidence hierarchy) and `general_references.md`, plus the
+    corroboration report, the Truth Farmer PDF, the kjvrestore page cache and
+    comparison, and the blog-search sweeps.
   - `source_texts/` — period reference texts (Middle English works, King
     James's own writing sample, Septuagint interlinear PDF, Matthew's Bible).
   - `removed_words/` — triage artifacts (unchanged; permanent per the
@@ -78,7 +79,7 @@ The full asset inventory with rationale lives in the roadmap's
 - **Evidence hierarchy (Premise Revision 2026-07-14, Decision Log #5)**: the
   premise holds that the timeline alteration rewrote *every* written text, so
   no corpus in this project is ground truth. Memory testimony
-  (`references/remembered_verses.md`) leads; internal alteration artifacts
+  (`references/evidence/remembered_verses.md`) leads; internal alteration artifacts
   come second; all texts (witnesses, source languages, Middle English samples,
   the Essayes) are advisory — they inform style, phrasing, and suspicion
   scores, but they can never veto a memory. Full statement:
@@ -324,7 +325,7 @@ proposals without an explicit `--force` (Generated Artifacts are permanent).
 Before making ANY changes, Claude MUST read and follow:
 1. **This primary `CLAUDE.md` file** — for work protocols and project guidelines
 2. **`references/instructions.md`** — for project-specific instructions
-3. **`references/general_references.md`** — for the source and reference materials in use
+3. **`references/evidence/general_references.md`** — for the source and reference materials in use
 
 **Failure to read and follow the appropriate documentation files before work may result in:**
 - Inconsistent conventions

@@ -2,7 +2,7 @@
 """11_import_memories.py — Phase 5: import remembered_verses.md into `memories`
 and produce the corroboration report.
 
-`references/remembered_verses.md` stays the human-editable source of record;
+`references/evidence/remembered_verses.md` stays the human-editable source of record;
 this script re-imports it whenever new memories are added.
 
 Parsing: each `## ` heading is one memory. Within a section, text under a
@@ -40,7 +40,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = REPO_ROOT / "db" / "mandela.db"
-MD_PATH = REPO_ROOT / "references" / "remembered_verses.md"
+MD_PATH = REPO_ROOT / "references" / "evidence" / "remembered_verses.md"
 REPORT_PATH = REPO_ROOT / "references" / "evidence" / "corroboration_report.md"
 TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’–-][A-Za-z]+)*")
 
