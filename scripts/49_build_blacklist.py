@@ -57,7 +57,10 @@ NO_SAFE_SWAP = "no safe one-word swap found"
 def round1():
     """Blacklist rows from round 1 — excludes NO_SAFE_SWAP-flagged entries:
     those were never an actual accepted replacement (the word stayed as-is),
-    they belong on the whitelist instead (see 29_build_whitelist.py)."""
+    so they belong on neither list. (2026-07-20 → 2026-07-27 they were
+    mirrored onto the whitelist; that source was removed from
+    29_build_whitelist.py per owner directive. This exclusion is
+    independent of it and stands.)"""
     entries, cur = [], None
     for line in R1.read_text(encoding="utf-8").splitlines():
         m = HDR.match(line)
