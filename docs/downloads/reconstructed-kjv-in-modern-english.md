@@ -1,6 +1,6 @@
 # Reconstructed KJV in Modern English
 
-*A custom edition of The Mandela Bible. Base text: the restored King James Bible with 7032 owner-approved restorations applied. Layers on top of it: site settings (site-original.json) → modernization (built-in rules + site-modern.json). 18016 verses differ from the restored text. * marks a verse restored from the base King James text (Restoration Appendix).*
+*A custom edition of The Mandela Bible. Base text: the restored King James Bible with 7109 owner-approved restorations applied. Layers on top of it: site settings (site-original.json) → modernization (built-in rules + site-modern.json). 18035 verses differ from the restored text. * marks a verse restored from the base King James text (Restoration Appendix).*
 
 ## Contents
 
@@ -540,7 +540,7 @@
 **1** And the Lord appeared to him in the plains of Mamre: and he sat in the tent door in the heat of the day;
 **2** And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw them, he ran to meet them from the tent door, and bowed himself toward the ground,
 **3** And said, My Lord, if now I have found favour in your sight, pass not away, I pray you, from your servant:
-**4*** Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree:
+**4*** Let a little water, I pray you, be fetched, and wash your feet, and rest yourself under the tree:
 **5*** And I will fetch a morsel of bread, and comfort you your hearts; after that you shall pass on: for therefore are you come to your servant. And they said, So do, as you have said.
 **6*** And Abraham hastened into the tent to Sarah, and said, Make ready quickly three measures of fine meal, temper it, and make cakes upon the hearth.
 **7*** And Abraham ran to the herd, and brought a calf tender and good, and gave it to a young man; and he hasted to dress it.
@@ -1529,7 +1529,7 @@
 **2** And he wept aloud: and the Egyptians and the house of Pharaoh heard.
 **3** And Joseph said to his brethren, I am Joseph; does my father yet live? And his brethren could not answer him; for they were troubled at his presence.
 **4*** And Joseph said to his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom you sold into Egypt.
-**5*** Now therefore be not grieved, nor angry with yourselves, that you sold me here: for God did send me before you to preserve life.
+**5*** Now therefore be not grieved, nor angry with yourself, that you sold me here: for God did send me before you to preserve life.
 **6*** For these two years has the famine been in the land: and yet there are five years, in the which there shall neither be plowing nor harvest.
 **7*** And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
 **8*** So now it was not you that sent me here, but God: and he has made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
@@ -1544,7 +1544,7 @@
 **17*** And Pharaoh said to Joseph, Say to your brethren, This do you; lade your beasts, and go, get you to the land of Canaan;
 **18*** And take your father and your households, and come to me: and I will give you the good of the land of Egypt, and you shall eat the fat of the land.
 **19*** Now you are commanded, this do you; take you wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.
-**20*** Also regard not your stuff; for the good of all the land of Egypt is yours.
+**20*** Also regard not your stuff; for the good of all the land of Egypt is your.
 **21** And the children of Israel did so: and Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.
 **22** To all of them he gave each man changes of raiment; but to Benjamin he gave three hundred pieces of silver, and five changes of raiment.
 **23*** And to his father he sent after this manner; ten asses laden with the good things of Egypt, and ten she asses laden with wheat and bread and meat for his father by the way.
@@ -1648,8 +1648,8 @@
 **22** Moreover I have given to you one portion above your brethren, which I took out of the hand of the Amorite with my sword and with my bow. 
 ### Chapter 49
 
-**1*** And Jacob called to his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
-**2*** Gather yourselves together, and hear, you sons of Jacob; and listen to Israel your father.
+**1*** And Jacob called to his sons, and said, Gather yourself together, that I may tell you that which shall befall you in the last days.
+**2*** Gather yourself together, and hear, you sons of Jacob; and listen to Israel your father.
 **3** Reuben, you are my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:
 **4*** Unstable as water, you shall not excel; because you went up to your father's bed; then defiled you it: he went up to my bed.
 **5** Simeon and Levi are brethren; instruments of cruelty are in their habitations.
@@ -2257,7 +2257,7 @@
 **9** And the Lord said to Moses, Lo, I come to you in a thick cloud, that the people may hear when I speak with you, and believe you for ever. And Moses told the words of the people to the Lord.
 **10** And the Lord said to Moses, Go to the people, and sanctify them to day and to morrow, and let them wash their clothes,
 **11** And be ready against the third day: for the third day the Lord will come down in the sight of all the people upon mount Sinai.
-**12** And you shall set bounds to the people round about, saying, Take heed to yourselves, that you go not up into the mount, or touch the border of it: whosoever touches the mount shall be surely put to death:
+**12*** And you shall set bounds to the people round about, saying, Take heed to yourself, that you go not up into the mount, or touch the border of it: whosoever touches the mount shall be surely put to death:
 **13** There shall not an hand touch it, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live: when the trumpet sounds long, they shall come up to the mount.
 **14** And Moses went down from the mount to the people, and sanctified the people; and they washed their clothes.
 **15*** And he said to the people, Be ready against the third day: come not at your wives.
@@ -2660,7 +2660,7 @@
 **34*** And the Lord said to Moses, Take to you sweet spices, myrrh, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight:
 **35*** And you shall make it a perfume, wrought after the are of the apothecary, tempered together, pure and holy:
 **36*** And you shall beat some of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with you: it shall be to you most holy.
-**37*** And as for the perfume which you shall make, you shall not make to yourselves according to the making thereof: it shall be to you holy for the Lord.
+**37*** And as for the perfume which you shall make, you shall not make to yourself according to the making thereof: it shall be to you holy for the Lord.
 **38** Whosoever shall make like to that, to smell thereto, shall even be cut off from his people. 
 ### Chapter 31
 
@@ -2712,7 +2712,7 @@
 **26** Then Moses stood in the gate of the camp, and said, Who is on the Lord’s side? let him come to me. And all the sons of Levi gathered themselves together to him.
 **27** And he said to them, Thus says the Lord God of Israel, Put every man his sword by his side, and go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbour.
 **28** And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men.
-**29*** For Moses had said, Consecrate yourselves to day to the Lord, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.
+**29*** For Moses had said, Consecrate yourself to day to the Lord, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.
 **30*** And it came to pass on the morrow, that Moses said to the people, You have sinned a great sin: and now I will go up to the Lord; perhaps I shall make an atonement for your sin.
 **31** And Moses returned to the Lord, and said, Oh, this people have sinned a great sin, and have made them gods of gold.
 **32** Yet now, if you will forgive their sin—; and if not, blot me, I pray you, out of your book which you have written.
@@ -3328,8 +3328,8 @@
 **40** And he that eats of the carcase of it shall wash his clothes, and be unclean until the even: he also that bears the carcase of it shall wash his clothes, and be unclean until the even.
 **41** And every creeping thing that creeps upon the earth shall be an abomination; it shall not be eaten.
 **42** Whatsoever goes upon the belly, and whatsoever goes upon all four, or whatsoever has more feet among all creeping things that creep upon the earth, them you shall not eat; for they are an abomination.
-**43** You shall not make yourselves abominable with any creeping thing that creeps, neither shall you make yourselves unclean with them, that you should be defiled thereby.
-**44*** For I am the Lord your God: you shall therefore sanctify yourselves, and you shall be holy; for I am holy: neither shall you defile yourselves with any manner of creeping thing that creeps upon the earth.
+**43*** You shall not make yourself abominable with any creeping thing that creeps, neither shall you make yourself unclean with them, that you should be defiled thereby.
+**44*** For I am the Lord your God: you shall therefore sanctify yourself, and you shall be holy; for I am holy: neither shall you defile yourself with any manner of creeping thing that creeps upon the earth.
 **45*** For I am the Lord that brings you up out of the land of Egypt, to be your God: you shall therefore be holy, for I am holy.
 **46** This is the law of the beasts, and of the fowl, and of every living creature that moves in the waters, and of every creature that creeps upon the earth:
 **47** To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten. 
@@ -3577,19 +3577,19 @@
 **21** And you shall not let any of your seed pass through the fire to Molech, neither shall you profane the name of your God: I am the Lord.
 **22*** You shall not lie with mankind, as one lies with a woman: it is abomination.
 **23*** Neither shall you lie with any beast to defile yourself therewith: neither shall any woman stand before a beast to lie down thereto: it is confusion.
-**24*** Defile not you yourselves in any of these things: for in all these the nations are defiled which I cast out before you:
+**24*** Defile not you yourself in any of these things: for in all these the nations are defiled which I cast out before you:
 **25** And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomits out her inhabitants.
 **26*** You shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourns among you:
 **27*** For all these abominations have the men of the land done, which were before you, and the land is defiled;
 **28*** That the land spue not you out also, when you defile it, as it spued out the nations that were before you.
 **29** For whosoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people.
-**30*** Therefore shall you keep mine ordinance, that you commit not any one of these abominable customs, which were committed before you, and that you defile not yourselves therein: I am the Lord your God. 
+**30*** Therefore shall you keep mine ordinance, that you commit not any one of these abominable customs, which were committed before you, and that you defile not yourself therein: I am the Lord your God. 
 ### Chapter 19
 
 **1** And the Lord spoke to Moses, saying,
 **2*** Speak to all the congregation of the children of Israel, and say to them, You shall be holy: for I the Lord your God am holy.
 **3*** You shall fear every man his mother, and his father, and keep my sabbaths: I am the Lord your God.
-**4*** Turn you not to idols, nor make to yourselves molten gods: I am the Lord your God.
+**4*** Turn you not to idols, nor make to yourself molten gods: I am the Lord your God.
 **5*** And if you offer a sacrifice of peace offerings to the Lord, you shall offer it at your own will.
 **6** It shall be eaten the same day you offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.
 **7** And if it be eaten at all on the third day, it is abominable; it shall not be accepted.
@@ -3631,7 +3631,7 @@
 **4** And if the people of the land do any ways hide their eyes from the man, when he gives of his seed to Molech, and kill him not:
 **5** Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people.
 **6*** And the soul that turns after such as have familiar spirits, and after sorcerers, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people.
-**7*** Sanctify yourselves therefore, and be you holy: for I am the Lord your God.
+**7*** Sanctify yourself therefore, and be you holy: for I am the Lord your God.
 **8*** And you shall keep my statutes, and do them: I am the Lord which sanctify you.
 **9** For every one that curses his father or his mother shall be surely put to death: he has cursed his father or his mother; his blood shall be upon him.
 **10** And the man that commits adultery with another man’s wife, even he that commits adultery with his neighbour’s wife, the adulterer and the adulteress shall surely be put to death.
@@ -4389,7 +4389,7 @@
 **15*** And if you deal thus with me, kill me, I pray you, out of hand, if I have found favour in your sight; and let me not see my misery.
 **16** And the Lord said to Moses, Gather to me seventy men of the elders of Israel, whom you know to be the elders of the people, and officers over them; and bring them to the tabernacle of the congregation, that they may stand there with you.
 **17** And I will come down and talk with you there: and I will take of the spirit which is upon you, and will put it upon them; and they shall bear the burden of the people with you, that you bear it not yourself alone.
-**18*** And say you to the people, Sanctify yourselves against to morrow, and you shall eat flesh: for you have wept in the ears of the Lord, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore the Lord will give you flesh, and you shall eat.
+**18*** And say you to the people, Sanctify yourself against to morrow, and you shall eat flesh: for you have wept in the ears of the Lord, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore the Lord will give you flesh, and you shall eat.
 **19** You shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days;
 **20*** But even a whole month, until it come out at your nostrils, and it be loathsome to you: because that you have despised the Lord which is among you, and have wept before him, saying, Why came we forth out of Egypt?
 **21** And Moses said, The people, among whom I am, are six hundred thousand footmen; and you have said, I will give them flesh, that they may eat a whole month.
@@ -4554,7 +4554,7 @@
 
 **1** Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:
 **2** And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
-**3*** And they gathered themselves together against Moses and against Aaron, and said to them, You take too much upon you, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift you up yourselves above the congregation of the Lord?
+**3*** And they gathered themselves together against Moses and against Aaron, and said to them, You take too much upon you, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift you up yourself above the congregation of the Lord?
 **4** And when Moses heard it, he fell upon his face:
 **5** And he spoke to Korah and to all his company, saying, Even to morrow the Lord will show who are his, and who is holy; and will cause him to come near to him: even him whom he has chosen will he cause to come near to him.
 **6*** This do; Take you censers, Korah, and all his company;
@@ -4572,7 +4572,7 @@
 **18** And they took every man his censer, and put fire in them, and laid incense thereon, and stood in the door of the tabernacle of the congregation with Moses and Aaron.
 **19** And Korah gathered all the congregation against them to the door of the tabernacle of the congregation: and the glory of the Lord appeared to all the congregation.
 **20** And the Lord spoke to Moses and to Aaron, saying,
-**21** Separate yourselves from among this congregation, that I may consume them in a moment.
+**21*** Separate yourself from among this congregation, that I may consume them in a moment.
 **22** And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and will you be wroth with all the congregation?
 **23** And the Lord spoke to Moses, saying,
 **24*** Speak to the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram.
@@ -5054,7 +5054,7 @@
 
 **1** And the Lord spoke to Moses, saying,
 **2** Avenge the children of Israel of the Midianites: afterward shall you be gathered to your people.
-**3** And Moses spoke to the people, saying, Arm some of yourselves to the war, and let them go against the Midianites, and avenge the Lord of Midian.
+**3*** And Moses spoke to the people, saying, Arm some of yourself to the war, and let them go against the Midianites, and avenge the Lord of Midian.
 **4** Of every tribe a thousand, throughout all the tribes of Israel, shall you send to the war.
 **5** So there were delivered out of the thousands of Israel, a thousand of every tribe, twelve thousand armed for war.
 **6** And Moses sent them to the war, a thousand of every tribe, them and Phinehas the son of Eleazar the priest, to the war, with the holy instruments, and the trumpets to blow in his hand.
@@ -5069,8 +5069,8 @@
 **15** And Moses said to them, Have you saved all the women alive?
 **16** Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the Lord in the matter of Peor, and there was a plague among the congregation of the Lord.
 **17** Now therefore kill every male among the little ones, and kill every woman that has known man by lying with him.
-**18** But all the women children, that have not known a man by lying with him, keep alive for yourselves.
-**19*** And do you abide without the camp seven days: whosoever has killed any person, and whosoever has touched any slain, purify both yourselves and your captives on the third day, and on the seventh day.
+**18*** But all the women children, that have not known a man by lying with him, keep alive for yourself.
+**19*** And do you abide without the camp seven days: whosoever has killed any person, and whosoever has touched any slain, purify both yourself and your captives on the third day, and on the seventh day.
 **20*** And purify all your raiment, and all that is made of skins, and all work of goats’ hair, and all things made of wood.
 **21** And Eleazar the priest said to the men of war which went to the battle, This is the ordinance of the law which the Lord commanded Moses;
 **22** Only the gold, and the silver, the brass, the iron, the tin, and the lead,
@@ -5348,7 +5348,7 @@
 **1** Then we turned, and took our journey into the wilderness by the way of the Red sea, as the Lord spoke to me: and we compassed mount Seir many days.
 **2** And the Lord spoke to me, saying,
 **3*** You have compassed this mountain long enough: turn you northward.
-**4*** And command you the people, saying, You are to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take you good heed to yourselves therefore:
+**4*** And command you the people, saying, You are to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take you good heed to yourself therefore:
 **5*** Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir to Esau for a possession.
 **6** You shall buy meat of them for money, that you may eat; and you shall also buy water of them for money, that you may drink.
 **7** For the Lord your God has blessed you in all the works of your hand: he knows your walking through this great wilderness: these forty years the Lord your God has been with you; you have lacked nothing.
@@ -5429,17 +5429,17 @@
 **12*** And the Lord spoke to you out of the midst of the fire: you heard the voice of the words, but saw no similitude; only you heard a voice.
 **13*** And he declared to you his covenant, which he commanded you to perform, even ten commandments; and he wrote them upon two tables of stone.
 **14*** And the Lord commanded me at that time to teach you statutes and judgments, that you might do them in the land where you go over to possess it.
-**15*** Take you therefore good heed to yourselves; for you saw no manner of similitude on the day that the Lord spoke to you in Horeb out of the midst of the fire:
-**16*** Lest you corrupt yourselves, and make you a graven image, the similitude of any figure, the likeness of male or female,
+**15*** Take you therefore good heed to yourself; for you saw no manner of similitude on the day that the Lord spoke to you in Horeb out of the midst of the fire:
+**16*** Lest you corrupt yourself, and make you a graven image, the similitude of any figure, the likeness of male or female,
 **17** The likeness of any beast that is on the earth, the likeness of any winged fowl that flies in the air,
 **18** The likeness of any thing that creeps on the ground, the likeness of any fish that is in the waters beneath the earth:
 **19** And lest you lift up your eyes to heaven, and when you see the sun, and the moon, and the stars, even all the host of heaven, should be driven to worship them, and serve them, which the Lord your God has divided to all nations under the whole heaven.
 **20*** But the Lord has taken you, and brought you forth out of the iron furnace, even out of Egypt, to be to him a people of inheritance, as you are this day.
 **21*** Furthermore the Lord was angry with me for your sakes, and swore that I should not go over Jordan, and that I should not go in to that good land, which the Lord your God gives you for an inheritance:
 **22** But I must die in this land, I must not go over Jordan: but you shall go over, and possess that good land.
-**23*** Take heed to yourselves, lest you forget the covenant of the Lord your God, which he made with you, and make you a graven image, or the likeness of any thing, which the Lord your God has forbidden you.
+**23*** Take heed to yourself, lest you forget the covenant of the Lord your God, which he made with you, and make you a graven image, or the likeness of any thing, which the Lord your God has forbidden you.
 **24** For the Lord your God is a consuming fire, even a jealous God.
-**25** When you shall beget children, and children’s children, and you shall have remained long in the land, and shall corrupt yourselves, and make a graven image, or the likeness of any thing, and shall do evil in the sight of the Lord your God, to provoke him to anger:
+**25*** When you shall beget children, and children’s children, and you shall have remained long in the land, and shall corrupt yourself, and make a graven image, or the likeness of any thing, and shall do evil in the sight of the Lord your God, to provoke him to anger:
 **26*** I call heaven and earth to witness against you this day, that you shall soon utterly perish from off the land whereunto you go over Jordan to possess it; you shall not prolong your days upon it, but shall utterly be destroyed.
 **27*** And the Lord shall scatter you among the nations, and you shall be left few in number among the heathen, where the Lord shall lead you.
 **28** And there you shall serve gods, the work of men’s hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
@@ -5648,15 +5648,15 @@
 **13*** And it shall come to pass, if you shall listen diligently to my commandments which I command you this day, to love the Lord your God, and to serve him with all your heart and with all your soul,
 **14*** That I will give you the rain of your land in his due season, the first rain and the latter rain, that you may gather in your wheat, and your wine, and your oil.
 **15** And I will send grass in your fields for your cattle, that you may eat and be full.
-**16*** Take heed to yourselves, that your heart be not deceived, and you turn aside, and serve other gods, and worship them;
+**16*** Take heed to yourself, that your heart be not deceived, and you turn aside, and serve other gods, and worship them;
 **17*** And then the Lord’s wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and lest you perish quickly from off the good land which the Lord gives you.
 **18*** Therefore shall you lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as foreheads between your eyes.
 **19*** And you shall teach them your children, speaking of them when you sit in your house, and when you walk by the way, when you lie down, and when you rise up.
 **20** And you shall write them upon the door posts of your house, and upon your gates:
 **21*** That your days may be multiplied, and the days of your children, in the land which the Lord swore to your fathers to give them, as the days of heaven upon the earth.
 **22*** For if you shall diligently keep all these commandments which I command you, to do them, to love the Lord your God, to walk in all his ways, and to cleave to him;
-**23*** Then will the Lord drive out all these nations from before you, and you shall possess greater nations and mightier than yourselves.
-**24*** Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even to the uttermost sea shall your coast be.
+**23*** Then will the Lord drive out all these nations from before you, and you shall possess greater nations and mightier than yourself.
+**24*** Every place whereon the soles of your feet shall tread shall be your: from the wilderness and Lebanon, from the river, the river Euphrates, even to the uttermost sea shall your coast be.
 **25*** There shall no man be able to stand before you: for the Lord your God shall lay the fear of you and the dread of you upon all the land that you shall tread upon, as he has said to you.
 **26*** Behold, I set before you this day a blessing and a curse;
 **27*** A blessing, if you obey the commandments of the Lord your God, which I command you this day:
@@ -5721,7 +5721,7 @@
 **18** When you shall listen to the voice of the Lord your God, to keep all his commandments which I command you this day, to do that which is right in the eyes of the Lord your God. 
 ### Chapter 14
 
-**1*** You are the children of the Lord your God: you shall not cut yourselves, nor make any baldness between your eyes for the dead.
+**1*** You are the children of the Lord your God: you shall not cut yourself, nor make any baldness between your eyes for the dead.
 **2*** For you are an holy people to the Lord your God, and the Lord has chosen you to be a people to himself, above all the nations that are upon the earth.
 **3** You shall not eat any abominable thing.
 **4** These are the beasts which you shall eat: the ox, the sheep, and the goat,
@@ -6206,7 +6206,7 @@
 **11** When all Israel is come to appear before the Lord your God in the place which he shall choose, you shall read this law before all Israel in their hearing.
 **12*** Gather the people together, men, and women, and children, and your stranger that is within your gates, that they may hear, and that they may learn, and fear the Lord your God, and observe to do all the words of this law:
 **13*** And that their children, which have not known any thing, may hear, and learn to fear the Lord your God, as long as you live in the land where you go over Jordan to possess it.
-**14** And the Lord said to Moses, Behold, your days approach that you must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.
+**14*** And the Lord said to Moses, Behold, your days approach that you must die: call Joshua, and present yourself in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.
 **15** And the Lord appeared in the tabernacle in a pillar of a cloud: and the pillar of the cloud stood over the door of the tabernacle.
 **16** And the Lord said to Moses, Behold, you shall sleep with your fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, where they go to be among them, and will forsake me, and break my covenant which I have made with them.
 **17** Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall befall them; so that they will say in that day, Are not these evils come upon us, because our God is not among us?
@@ -6221,7 +6221,7 @@
 **26*** Take this book of the law, and put it in the side of the ark of the covenant of the Lord your God, that it may be there for a witness against you.
 **27*** For I know your rebellion, and your stiff neck: behold, while I am yet alive with you this day, you have been rebellious against the Lord; and how much more after my death?
 **28*** Gather to me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to record against them.
-**29*** For I know that after my death you will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because you will do evil in the sight of the Lord, to provoke him to anger through the work of your hands.
+**29*** For I know that after my death you will utterly corrupt yourself, and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because you will do evil in the sight of the Lord, to provoke him to anger through the work of your hands.
 **30** And Moses spoke in the ears of all the congregation of Israel the words of this song, until they were ended. 
 ### Chapter 32
 
@@ -6362,9 +6362,9 @@
 **11*** And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the Lord your God, he is God in heaven above, and in earth beneath.
 **12*** Now therefore, I pray you, swear to me by the Lord, since I have showed you kindness, that you will also show kindness to my father’s house, and give me a true token:
 **13** And that you will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.
-**14** And the men answered her, Our life for yours, if you utter not this our business. And it shall be, when the Lord has given us the land, that we will deal kindly and truly with you.
+**14*** And the men answered her, Our life for your, if you utter not this our business. And it shall be, when the Lord has given us the land, that we will deal kindly and truly with you.
 **15*** Then she let them down by a cord through the opening: for her house was upon the town wall, and she dwelt upon the wall.
-**16*** And she said to them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may you go your way.
+**16*** And she said to them, Get you to the mountain, lest the pursuers meet you; and hide yourself there three days, until the pursuers be returned: and afterward may you go your way.
 **17** And the men said to her, We will be blameless of this your oath which you have made us swear.
 **18*** Behold, when we come into the land, you shall bind this line of scarlet thread in the opening which you did let us down by: and you shall bring your father, and your mother, and your brethren, and all your father’s household, home to you.
 **19** And it shall be, that whosoever shall go out of the doors of your house into the street, his blood shall be upon his head, and we will be guiltless: and whosoever shall be with you in the house, his blood shall be on our head, if any hand be upon him.
@@ -6379,7 +6379,7 @@
 **2** And it came to pass after three days, that the officers went through the host;
 **3*** And they commanded the people, saying, When you see the ark of the covenant of the Lord your God, and the priests the Levites bearing it, then you shall remove from your place, and go after it.
 **4*** Yet there shall be a space between you and it, about two thousand cubits by measure: come not near to it, that you may know the way by which you must go: for you have not passed this way heretofore.
-**5*** And Joshua said to the people, Sanctify yourselves: for to morrow the Lord will do wonders among you.
+**5*** And Joshua said to the people, Sanctify yourself: for to morrow the Lord will do wonders among you.
 **6** And Joshua spoke to the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people.
 **7** And the Lord said to Joshua, This day will I begin to magnify you in the sight of all Israel, that they may know that, as I was with Moses, so I will be with you.
 **8** And you shall command the priests that bear the ark of the covenant, saying, When you are come to the brink of the water of Jordan, you shall stand still in Jordan.
@@ -6454,7 +6454,7 @@
 **15** And it came to pass on the seventh day, that they rose early about the dawning of the day, and compassed the city after the same manner seven times: only on that day they compassed the city seven times.
 **16*** And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said to the people, Shout; for the Lord has given you the city.
 **17** And the city shall be accursed, even it, and all that are therein, to the Lord: only Rahab the harlot shall live, she and all that are with her in the house, because she hid the messengers that we sent.
-**18** And you, in any wise keep yourselves from the accursed thing, lest you make yourselves accursed, when you take of the accursed thing, and make the camp of Israel a curse, and trouble it.
+**18*** And you, in any wise keep yourself from the accursed thing, lest you make yourself accursed, when you take of the accursed thing, and make the camp of Israel a curse, and trouble it.
 **19** But all the silver, and gold, and vessels of brass and iron, are consecrated to the Lord: they shall come into the treasury of the Lord.
 **20** So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
 **21** And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
@@ -6478,7 +6478,7 @@
 **10** And the Lord said to Joshua, Get you up; wherefore lie you thus upon your face?
 **11*** Israel has sinned, and they have also transgressed my covenant which I commanded them: For they have even taken of the accursed thing, and have also stolen, and defiled god, and they have put it even among their own stuff.
 **12*** Therefore the children of Israel could not stand before their enemies, but turned their backs before their enemies, because they were accursed: neither will I be with you any more, except you destroy the accursed from among you.
-**13*** Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus says the Lord God of Israel, There is an accursed thing in the midst of you, O Israel: you can not stand before your enemies, until you take away the accursed thing from among you.
+**13*** Up, sanctify the people, and say, Sanctify yourself against to morrow: for thus says the Lord God of Israel, There is an accursed thing in the midst of you, O Israel: you can not stand before your enemies, until you take away the accursed thing from among you.
 **14*** In the morning therefore you shall be brought according to your tribes: and it shall be, that the tribe which the Lord takes shall come according to the families thereof; and the family which the Lord shall take shall come by households; and the household which the Lord shall take shall come man by man.
 **15** And it shall be, that he that is taken with the accursed thing shall be burnt with fire, he and all that he has: because he has transgressed the covenant of the Lord, and because he has wrought folly in Israel.
 **16** So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:
@@ -6495,7 +6495,7 @@
 ### Chapter 8
 
 **1** And the Lord said to Joshua, Fear not, neither be you dismayed: take all the people of war with you, and arise, go up to Ai: see, I have given into your hand the king of Ai, and his people, and his city, and his land:
-**2*** And you shall do to Ai and her king as you did to Jericho and her king: only the spoil thereof, and the cattle thereof, shall you take for a prey to yourselves: lay you in wait for the city behind it.
+**2*** And you shall do to Ai and her king as you did to Jericho and her king: only the spoil thereof, and the cattle thereof, shall you take for a prey to yourself: lay you in wait for the city behind it.
 **3** So Joshua arose, and all the people of war, to go up against Ai: and Joshua chose out thirty thousand mighty men of valour, and sent them away by night.
 **4** And he commanded them, saying, Behold, you shall lie in wait against the city, even behind the city: go not very far from the city, but be you all ready:
 **5** And I, and all the people that are with me, will approach to the city: and it shall come to pass, when they come out against us, as at the first, that we will flee before them,
@@ -6988,16 +6988,16 @@
 **4*** Behold, I have divided to you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even to the great sea westward.
 **5*** And the Lord your God, he shall thrust them out from before you, and drive them from out of your sight; and you shall possess their land, as the Lord your God has promised to you.
 **6** Be you therefore very courageous to keep and to do all that is written in the book of the law of Moses, that you turn not aside therefrom to the right hand or to the left;
-**7*** That you come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow yourselves to them:
+**7*** That you come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow yourself to them:
 **8*** But cleave to the Lord your God, as you have done to this day.
 **9*** For the Lord has driven out from before you great nations and strong: but as for you, no man has been able to stand before you to this day.
 **10*** One man of you shall chase a thousand: for the Lord your God, he it is that fights for you, as he has promised you.
-**11*** Take good heed therefore to yourselves, that you love the Lord your God.
+**11*** Take good heed therefore to yourself, that you love the Lord your God.
 **12*** Else if you do in any wise go back, and cleave to the remnant of these nations, even these that remain among you, and shall make marriages with them, and go in to them, and they to you:
 **13*** Know for a certainty that the Lord your God will no more drive out any of these nations from before you; but they shall be snares and traps to you, and scourges in your sides, and thorns in your eyes, until you perish from off this good land which the Lord your God has given you.
 **14*** And, behold, this day I am going the way of all the earth: and you know in all your hearts and in all your souls, that not one thing has failed of all the good things which the Lord your God spoke concerning you; all are come to pass to you, and not one thing has failed thereof.
 **15*** Therefore it shall come to pass, that as all good things are come upon you, which the Lord your God promised you; so shall the Lord bring upon you all evil things, until he have destroyed you from off this good land which the Lord your God has given you.
-**16*** When you have transgressed the covenant of the Lord your God, which he commanded you, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the Lord be kindled against you, and you shall perish quickly from off the good land which he has given to you. 
+**16*** When you have transgressed the covenant of the Lord your God, which he commanded you, and have gone and served other gods, and bowed yourself to them; then shall the anger of the Lord be kindled against you, and you shall perish quickly from off the good land which he has given to you. 
 ### Chapter 24
 
 **1** And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God.
@@ -7021,7 +7021,7 @@
 **19*** And Joshua said to the people, You cannot serve the Lord: for he is an holy God; he is a jealous God; he will not forgive your transgressions nor your sins.
 **20*** If you forsake the Lord, and serve strange gods, then he will turn and do you hurt, and consume you, after that he has done you good.
 **21** And the people said to Joshua, No; but we will serve the Lord.
-**22*** And Joshua said to the people, You are witnesses against yourselves that you have chosen you the Lord, to serve him. And they said, We are witnesses.
+**22*** And Joshua said to the people, You are witnesses against yourself that you have chosen you the Lord, to serve him. And they said, We are witnesses.
 **23*** Now therefore put away, said he, the strange gods which are among you, and incline your heart to the Lord God of Israel.
 **24** And the people said to Joshua, The Lord our God will we serve, and his voice will we obey.
 **25** So Joshua made a covenant with the people that day, and set them a statute and an ordinance in Shechem.
@@ -7499,7 +7499,7 @@
 **9** Then the Philistines went up, and pitched in Judah, and spread themselves in Lehi.
 **10*** And the men of Judah said, Why are you come up against us? And they answered, To bind Sampson are we come up, to do to him as he has done to us.
 **11*** Then three thousand men of Judah went to the top of the rock Etam, and said to Sampson, Know you not that the Philistines are rulers over us? what is this that you have done to us? And he said to them, As they did to me, so have I done to them.
-**12*** And they said to him, We are come down to bind you, that we may deliver you into the hand of the Philistines. And Sampson said to them, Swear to me, that you will not fall upon me yourselves.
+**12*** And they said to him, We are come down to bind you, that we may deliver you into the hand of the Philistines. And Sampson said to them, Swear to me, that you will not fall upon me yourself.
 **13** And they spoke to him, saying, No; but we will bind you fast, and deliver you into their hand: but surely we will not kill you. And they bound him with two new cords, and brought him up from the rock.
 **14** And when he came to Lehi, the Philistines shouted against him: and the Spirit of the Lord came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.
 **15** And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith.
@@ -7861,7 +7861,7 @@
 **26** And the child Samuel grew on, and was in favour both with the Lord, and also with men.
 **27** And there came a man of God to Eli, and said to him, Thus says the Lord, Did I plainly appear to the house of your father, when they were in Egypt in Pharaoh’s house?
 **28** And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give to the house of your father all the offerings made by fire of the children of Israel?
-**29*** Wherefore kick you at my sacrifice and at mine offering, which I have commanded in my habitation; and honour your sons above me, to make yourselves fat with the greatest of all the offerings of Israel my people?
+**29*** Wherefore kick you at my sacrifice and at mine offering, which I have commanded in my habitation; and honour your sons above me, to make yourself fat with the greatest of all the offerings of Israel my people?
 **30** Wherefore the Lord God of Israel says, I said indeed that your house, and the house of your father, should walk before me for ever: but now the Lord says, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.
 **31** Behold, the days come, that I will cut off your arm, and the arm of your father’s house, that there shall not be an old man in your house.
 **32** And you shall see an enemy in my habitation, in all the wealth which God shall give Israel: and there shall not be an old man in your house for ever.
@@ -7902,7 +7902,7 @@
 **6** And when the Philistines heard the noise of the shout, they said, What means the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the Lord was come into the camp.
 **7** And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe to us! for there has not been such a thing heretofore.
 **8** Woe to us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness.
-**9*** Be strong, and quit yourselves like men, O you Philistines, that you be not servants to the Hebrews, as they have been to you: quit yourselves like men, and fight.
+**9*** Be strong, and quit yourself like men, O you Philistines, that you be not servants to the Hebrews, as they have been to you: quit yourself like men, and fight.
 **10** And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.
 **11** And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain.
 **12** And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head.
@@ -8045,7 +8045,7 @@
 **16** And Saul said to his uncle, He told us plainly that the asses were found. But of the matter of the kingdom, whereof Samuel spoke, he told him not.
 **17** And Samuel called the people together to the Lord to Mizpeh;
 **18*** And said to the children of Israel, Thus says the Lord God of Israel, I brought up Israel out of Egypt, and delivered you out of the hand of the Egyptians, and out of the hand of all kingdoms, and of them that oppressed you:
-**19*** And you have this day rejected your God, who himself saved you out of all your adversities and your tribulations; and you have said to him, No, but set a king over us. Now therefore present yourselves before the Lord by your tribes, and by your thousands.
+**19*** And you have this day rejected your God, who himself saved you out of all your adversities and your tribulations; and you have said to him, No, but set a king over us. Now therefore present yourself before the Lord by your tribes, and by your thousands.
 **20** And when Samuel had caused all the tribes of Israel to come near, the tribe of Benjamin was taken.
 **21** When he had caused the tribe of Benjamin to come near by their families, the family of Matri was taken, and Saul the son of Kish was taken: and when they sought him, he could not be found.
 **22** Therefore they enquired of the Lord further, if the man should yet come there. And the Lord answered, Behold, he has hid himself among the stuff.
@@ -8158,7 +8158,7 @@
 **31** And they smote the Philistines that day from Michmash to Aijalon: and the people were very faint.
 **32*** And the people fell upon the spoil, and took sheep, and oxen, and calves, and slew them on the ground: and the people did eat them with the blood.
 **33** Then they told Saul, saying, Behold, the people sin against the Lord, in that they eat with the blood. And he said, You have transgressed: roll a great stone to me this day.
-**34** And Saul said, Disperse yourselves among the people, and say to them, Bring me here every man his ox, and every man his sheep, and slay them here, and eat; and sin not against the Lord in eating with the blood. And all the people brought every man his ox with him that night, and slew them there.
+**34*** And Saul said, Disperse yourself among the people, and say to them, Bring me here every man his ox, and every man his sheep, and slay them here, and eat; and sin not against the Lord in eating with the blood. And all the people brought every man his ox with him that night, and slew them there.
 **35** And Saul built an altar to the Lord: the same was the first altar that he built to the Lord.
 **36** And Saul said, Let us go down after the Philistines by night, and spoil them until the morning light, and let us not leave a man of them. And they said, Do whatsoever seems good to you. Then said the priest, Let us draw near here to God.
 **37** And Saul asked counsel of God, Shall I go down after the Philistines? will you deliver them into the hand of Israel? But he answered him not that day.
@@ -8220,7 +8220,7 @@
 **2** And Samuel said, How can I go? if Saul hear it, he will kill me. And the Lord said, Take an heifer with you, and say, I am come to sacrifice to the Lord.
 **3** And call Jesse to the sacrifice, and I will show you what you shall do: and you shall anoint to me him whom I name to you.
 **4** And Samuel did that which the Lord spoke, and came to Beth–lehem. And the elders of the town trembled at his coming, and said, Come you peaceably?
-**5** And he said, Peaceably: I am come to sacrifice to the Lord: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.
+**5*** And he said, Peaceably: I am come to sacrifice to the Lord: sanctify yourself, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.
 **6** And it came to pass, when they were come, that he looked on Eliab, and said, Surely the Lord’s anointed is before him.
 **7** But the Lord said to Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the Lord sees not as man sees; for man looks on the outward appearance, but the Lord looks on the heart.
 **8** Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither has the Lord chosen this.
@@ -10110,7 +10110,7 @@
 **22** Then said Elijah to the people, I, even I only, remain a prophet of the Lord; but Baal’s prophets are four hundred and fifty men.
 **23** Let them therefore give us two bullocks; and let them choose one bullock for themselves, and cut it in pieces, and lay it on wood, and put no fire under: and I will dress the other bullock, and lay it on wood, and put no fire under:
 **24*** And call you on the name of your gods, and I will call on the name of the Lord: and the God that answers by fire, let him be God. And all the people answered and said, It is well spoken.
-**25*** And Elijah said to the prophets of Baal, Choose you one bullock for yourselves, and dress it first; for you are many; and call on the name of your gods, but put no fire under.
+**25*** And Elijah said to the prophets of Baal, Choose you one bullock for yourself, and dress it first; for you are many; and call on the name of your gods, but put no fire under.
 **26** And they took the bullock which was given them, and they dressed it, and called on the name of Baal from morning even until noon, saying, O Baal, hear us. But there was no voice, nor any that answered. And they leaped upon the altar which was made.
 **27** And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he is a god; either he is talking, or he is pursuing, or he is in a journey, or perhaps he sleeps, and must be awaked.
 **28*** And they cried aloud, and cut themselves after their manner with knives and swords, till the blood gushed out upon them.
@@ -10168,7 +10168,7 @@
 **9** Wherefore he said to the messengers of Ben–hadad, Tell my lord the king, All that you did send for to your servant at the first I will do: but this thing I may not do. And the messengers departed, and brought him word again.
 **10** And Ben–hadad sent to him, and said, The gods do so to me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me.
 **11** And the king of Israel answered and said, Tell him, Let not him that girds on his harness boast himself as he that puts it off.
-**12** And it came to pass, when Ben–hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said to his servants, Set yourselves in array. And they set themselves in array against the city.
+**12*** And it came to pass, when Ben–hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said to his servants, Set yourself in array. And they set themselves in array against the city.
 **13** And, behold, there came a prophet to Ahab king of Israel, saying, Thus says the Lord, Have you seen all this great multitude? behold, I will deliver it into your hand this day; and you shall know that I am the Lord.
 **14** And Ahab said, By whom? And he said, Thus says the Lord, Even by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, You.
 **15** Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, even all the children of Israel, being seven thousand.
@@ -10809,7 +10809,7 @@
 **32** So they feared the Lord, and made to themselves of the lowest of them priests of the high places, which sacrificed for them in the houses of the high places.
 **33** They feared the Lord, and served their own gods, after the manner of the nations whom they carried away from thence.
 **34** To this day they do after the former manners: they fear not the Lord, neither do they after their statutes, or after their ordinances, or after the law and commandment which the Lord commanded the children of Jacob, whom he named Israel;
-**35** With whom the Lord had made a covenant, and charged them, saying, You shall not fear other gods, nor bow yourselves to them, nor serve them, nor sacrifice to them:
+**35*** With whom the Lord had made a covenant, and charged them, saying, You shall not fear other gods, nor bow yourself to them, nor serve them, nor sacrifice to them:
 **36*** But the Lord, who brought you up out of the land of Egypt with great power and a stretched out arm, him shall you fear, and him shall you worship, and to him shall you do sacrifice.
 **37*** And the statutes, and the ordinances, and the law, and the commandment, which he wrote for you, you shall observe to do for evermore; and you shall not fear other gods.
 **38*** And the covenant that I have made with you you shall not forget; neither shall you fear other gods.
@@ -11645,7 +11645,7 @@
 **9*** Of the sons of Hebron; Eliel the head, and his brethren fourscore:
 **10*** Of the sons of Uzziel; Amminadab the head, and his brethren an hundred and twelve.
 **11** And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,
-**12*** And said to them, You are the head of the house of the fathers of the Levites: sanctify yourselves, both you and your brethren, that you may bring up the ark of the Lord God of Israel to the place that I have prepared for it.
+**12*** And said to them, You are the head of the house of the fathers of the Levites: sanctify yourself, both you and your brethren, that you may bring up the ark of the Lord God of Israel to the place that I have prepared for it.
 **13** For because you did it not at the first, the Lord our God made a breach upon us, for that we sought him not after the due order.
 **14** So the priests and the Levites sanctified themselves to bring up the ark of the Lord God of Israel.
 **15** And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the Lord.
@@ -12517,9 +12517,9 @@
 **12** O our God, will you not judge them? for we have no might against this great company that comes against us; neither know we what to do: but our eyes are upon you.
 **13** And all Judah stood before the Lord, with their little ones, their wives, and their children.
 **14** Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the Lord in the midst of the congregation;
-**15*** And he said, Listen you, all Judah, and you inhabitants of Jerusalem, and you king Jehoshaphat, Thus says the Lord to you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s.
+**15*** And he said, Listen you, all Judah, and you inhabitants of Jerusalem, and you king Jehoshaphat, Thus says the Lord to you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not your, but God’s.
 **16** To morrow go you down against them: behold, they come up by the cliff of Ziz; and you shall find them at the end of the brook, before the wilderness of Jeruel.
-**17*** You shall not need to fight in this battle: set yourselves, stand you still, and see the salvation of the Lord with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the Lord will be with you.
+**17*** You shall not need to fight in this battle: set yourself, stand you still, and see the salvation of the Lord with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the Lord will be with you.
 **18** And Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before the Lord, worshipping the Lord.
 **19** And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the Lord God of Israel with a loud voice on high.
 **20*** And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and you inhabitants of Jerusalem; Believe in the Lord your God, so shall you be established; believe his prophets, so shall you prosper.
@@ -12729,7 +12729,7 @@
 **2** And he did that which was right in the sight of the Lord, according to all that David his father had done.
 **3** He in the first year of his reign, in the first month, opened the doors of the house of the Lord, and repaired them.
 **4** And he brought in the priests and the Levites, and gathered them together into the east street,
-**5*** And said to them, Hear me, you Levites, sanctify now yourselves, and sanctify the house of the Lord God of your fathers, and carry forth the filthiness out of the holy place.
+**5*** And said to them, Hear me, you Levites, sanctify now yourself, and sanctify the house of the Lord God of your fathers, and carry forth the filthiness out of the holy place.
 **6** For our fathers have trespassed, and done that which was evil in the eyes of the Lord our God, and have forsaken him, and have turned away their faces from the habitation of the Lord, and turned their backs.
 **7** Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy place to the God of Israel.
 **8*** Wherefore the wrath of the Lord was upon Judah and Jerusalem, and he has delivered them to trouble, to astonishment, and to hissing, as you see with your eyes.
@@ -12755,7 +12755,7 @@
 **28** And all the congregation worshipped, and the singers sang, and the trumpeters sounded: and all this continued until the burnt offering was finished.
 **29** And when they had made an end of offering, the king and all that were present with him bowed themselves, and worshipped.
 **30** Moreover Hezekiah the king and the princes commanded the Levites to sing praise to the Lord with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped.
-**31** Then Hezekiah answered and said, Now you have consecrated yourselves to the Lord, come near and bring sacrifices and thank offerings into the house of the Lord. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings.
+**31*** Then Hezekiah answered and said, Now you have consecrated yourself to the Lord, come near and bring sacrifices and thank offerings into the house of the Lord. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings.
 **32** And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, and two hundred lambs: all these were for a burnt offering to the Lord.
 **33** And the consecrated things were six hundred oxen and three thousand sheep.
 **34** But the priests were too few, so that they could not flay all the burnt offerings: wherefore their brethren the Levites did help them, till the work was ended, and until the other priests had sanctified themselves: for the Levites were more upright in heart to sanctify themselves than the priests.
@@ -12770,7 +12770,7 @@
 **5** So they established a decree to make proclamation throughout all Israel, from Beer–sheba even to Dan, that they should come to keep the passover to the Lord God of Israel at Jerusalem: for they had not done it of a long time in such sort as it was written.
 **6*** So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, You children of Israel, turn again to the Lord God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria.
 **7*** And be not you like your fathers, and like your brethren, which trespassed against the Lord God of their fathers, who therefore gave them up to desolation, as you see.
-**8*** Now be you not stiffnecked, as your fathers were, but yield yourselves to the Lord, and enter into his sanctuary, which he has sanctified for ever: and serve the Lord your God, that the fierceness of his wrath may turn away from you.
+**8*** Now be you not stiffnecked, as your fathers were, but yield yourself to the Lord, and enter into his sanctuary, which he has sanctified for ever: and serve the Lord your God, that the fierceness of his wrath may turn away from you.
 **9*** For if you turn again to the Lord, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the Lord your God is gracious and merciful, and will not turn away his face from you, if you return to him.
 **10** So the posts passed from city to city through the country of Ephraim and Manasseh even to Zebulun: but they laughed them to scorn, and mocked them.
 **11*** Nevertheless diverse of Asher and Manasseh and of Zebulun humbled themselves, and came to Jerusalem.
@@ -12825,7 +12825,7 @@
 **8** With him is an arm of flesh; but with us is the Lord our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah.
 **9*** After this did Sennacherib king of Assyria send his servants to Jerusalem, but he himself laid siege against Lachish, and all his power with him, to Hezekiah king of Judah, and to all Judah that were at Jerusalem, saying,
 **10** Thus says Sennacherib king of Assyria, Whereon do you trust, that you abide in the siege in Jerusalem?
-**11*** Does not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The Lord our God shall deliver us out of the hand of the king of Assyria?
+**11*** Does not Hezekiah persuade you to give over yourself to die by famine and by thirst, saying, The Lord our God shall deliver us out of the hand of the king of Assyria?
 **12** Has not the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, You shall worship before one altar, and burn incense upon it?
 **13** Know you not what I and my fathers have done to all the people of other lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand?
 **14*** Who was there among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that your God should be able to deliver you out of mine hand?
@@ -12915,9 +12915,9 @@
 **1** Moreover Josiah kept a passover to the Lord in Jerusalem: and they killed the passover on the fourteenth day of the first month.
 **2** And he set the priests in their charges, and encouraged them to the service of the house of the Lord,
 **3*** And said to the Levites that taught all Israel, which were holy to the Lord, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the Lord your God, and his people Israel,
-**4*** And prepare yourselves by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
+**4*** And prepare yourself by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
 **5*** And stand in the holy place according to the divisions of the families of the fathers of your brethren the people, and after the division of the families of the Levites.
-**6*** So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the Lord by the hand of Moses.
+**6*** So kill the passover, and sanctify yourself, and prepare your brethren, that they may do according to the word of the Lord by the hand of Moses.
 **7** And Josiah gave to the people, of the flock, lambs and kids, all for the passover offerings, for all that were present, to the number of thirty thousand, and three thousand bullocks: these were of the king’s substance.
 **8** And his princes gave willingly to the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave to the priests for the passover offerings two thousand and six hundred small cattle, and three hundred oxen.
 **9*** Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, head of the Levites, gave to the Levites for passover offerings five thousand small cattle, and five hundred oxen.
@@ -13235,7 +13235,7 @@
 **8*** And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be taken away, and himself separated from the congregation of those that had been carried away.
 **9** Then all the men of Judah and Benjamin gathered themselves together to Jerusalem within three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.
 **10** And Ezra the priest stood up, and said to them, You have transgressed, and have taken strange wives, to increase the trespass of Israel.
-**11*** Now therefore make confession to the Lord God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.
+**11*** Now therefore make confession to the Lord God of your fathers, and do his pleasure: and separate yourself from the people of the land, and from the strange wives.
 **12** Then all the congregation answered and said with a loud voice, As you have said, so must we do.
 **13** But the people are many, and it is a time of much rain, and we are not able to stand without, neither is this a work of one day or two: for we are many that have transgressed in this thing.
 **14** Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us.
@@ -13699,7 +13699,7 @@
 **22** And I commanded the Levites that they should cleanse themselves, and that they should come and keep the gates, to sanctify the sabbath day. Remember me, O my God, concerning this also, and spare me according to the greatness of your mercy.
 **23** In those days also saw I Jews that had married wives of Ashdod, of Ammon, and of Moab:
 **24** And their children spoke half in the speech of Ashdod, and could not speak in the Jews’ language, but according to the language of each people.
-**25*** And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, You shall not give your daughters to their sons, nor take their daughters to your sons, or for yourselves.
+**25*** And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, You shall not give your daughters to their sons, nor take their daughters to your sons, or for yourself.
 **26*** Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did strange women cause to sin.
 **27*** Shall we then listen to you to do all this great evil, to transgress against our God in marrying strange wives?
 **28** And one of the sons of Joiada, the son of Eliashib the high priest, was son in law to Sanballat the Horonite: therefore I chased him from me.
@@ -14371,9 +14371,9 @@
 
 **1** Then Job answered and said,
 **2** How long will you vex my soul, and break me in pieces with words?
-**3** These ten times have you reproached me: you are not ashamed that you make yourselves strange to me.
+**3*** These ten times have you reproached me: you are not ashamed that you make yourself strange to me.
 **4*** And be it indeed that I have erred, mine sin remains with myself.
-**5** If indeed you will magnify yourselves against me, and plead against me my reproach:
+**5*** If indeed you will magnify yourself against me, and plead against me my reproach:
 **6** Know now that God has overthrown me, and has compassed me with his net.
 **7** Behold, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.
 **8** He has fenced up my way that I cannot pass, and he has set darkness in my paths.
@@ -14580,7 +14580,7 @@
 **9** Will God hear his cry when trouble comes upon him?
 **10** Will he delight himself in the Almighty? will he always call upon God?
 **11*** I will teach you by the hand of God: that which is with the Almighty will I not conceal.
-**12** Behold, all you yourselves have seen it; why then are you thus altogether vain?
+**12*** Behold, all you yourself have seen it; why then are you thus altogether vain?
 **13** This is the portion of a wicked man with God, and the heritage of oppressors, which they shall receive of the Almighty.
 **14** If his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread.
 **15** Those that remain of him shall be buried in death: and his widows shall not weep.
@@ -15047,7 +15047,7 @@
 **5** I have heard of you by the hearing of the ear: but now mine eye sees you.
 **6** Wherefore I abhor myself, and repent in dust and ashes.
 **7** And it was so, that after the Lord had spoken these words to Job, the Lord said to Eliphaz the Temanite, My wrath is kindled against you, and against your two friends: for you have not spoken of me the thing that is right, as my servant Job has.
-**8*** Therefore take to you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that you have not spoken of me the thing which is right, like my servant Job.
+**8*** Therefore take to you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourself a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that you have not spoken of me the thing which is right, like my servant Job.
 **9** So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the Lord commanded them: the Lord also accepted Job.
 **10** And the Lord turned the captivity of Job, when he prayed for his friends: also the Lord gave Job twice as much as he had before.
 **11** Then came there to him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the Lord had brought upon him: every man also gave him a piece of money, and every one an earring of gold.
@@ -19376,7 +19376,7 @@
 **6** Since this people refuses the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah’s son;
 **7** Now therefore, behold, the Lord brings up upon them the waters of the river, strong and many, even the king of Assyria, and all his glory: and he shall come up over all his channels, and go over all his banks:
 **8** And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breadth of your land, O Immanuel.
-**9** Associate yourselves, O you people, and you shall be broken in pieces; and give ear, all you of far countries: gird yourselves, and you shall be broken in pieces; gird yourselves, and you shall be broken in pieces.
+**9*** Associate yourself, O you people, and you shall be broken in pieces; and give ear, all you of far countries: gird yourself, and you shall be broken in pieces; gird yourself, and you shall be broken in pieces.
 **10** Take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us.
 **11** For the Lord spoke thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
 **12*** Say you not, A conspiracy, to all them to whom this people shall say, A conspiracy; neither fear you their fear, nor be afraid.
@@ -19804,7 +19804,7 @@
 **6** You shall be visited of the Lord of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.
 **7*** And the multitude of all the nations that fight against Ariel, even all that fight against her and her fortress, and that distress her, shall be as a dream of a night vision.
 **8** It shall even be as when an hungry man dreams, and, behold, he eats; but he awakes, and his soul is empty: or as when a thirsty man dreams, and, behold, he drinks; but he awakes, and, behold, he is faint, and his soul has appetite: so shall the multitude of all the nations be, that fight against mount Zion.
-**9** Stay yourselves, and wonder; cry you out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
+**9*** Stay yourself, and wonder; cry you out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
 **10*** For the Lord has poured out upon you the spirit of deep sleep, and has closed your eyes: the prophets and your rulers, the seers has he covered.
 **11*** And the vision of all is become to you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray you: and he says, I cannot; for it is sealed:
 **12** And the book is delivered to him that is not learned, saying, Read this, I pray you: and he says, I am not learned.
@@ -20215,7 +20215,7 @@
 **17** But Israel shall be saved in the Lord with an everlasting salvation: you shall not be ashamed nor confounded world without end.
 **18** For thus says the Lord that created the heavens; God himself that formed the earth and made it; he has established it, he created it not in vain, he formed it to be inhabited: I am the Lord; and there is none else.
 **19** I have not spoken in secret, in a dark place of the earth: I said not to the seed of Jacob, Seek you me in vain: I the Lord speak righteousness, I declare things that are right.
-**20** Assemble yourselves and come; draw near together, you that are escaped of the nations: they have no knowledge that set up the wood of their graven image, and pray to a god that cannot save.
+**20*** Assemble yourself and come; draw near together, you that are escaped of the nations: they have no knowledge that set up the wood of their graven image, and pray to a god that cannot save.
 **21** Tell you, and bring them near; yes, let them take counsel together: who has declared this from ancient time? who has told it from that time? have not I the Lord? and there is no God else beside me; a just God and a Saviour; there is none beside me.
 **22** Look to me, and be you saved, all the ends of the earth: for I am God, and there is none else.
 **23** I have sworn by myself, the word is gone out of my mouth in righteousness, and shall not return, That to me every knee shall bow, every tongue shall swear.
@@ -20230,7 +20230,7 @@
 **5** To whom will you liken me, and make me equal, and compare me, that we may be like?
 **6*** They despise gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he makes it a god: they fall down, yes, they worship.
 **7** They bear him upon the shoulder, they carry him, and set him in his place, and he stands; from his place shall he not remove: yes, one shall cry to him, yet can he not answer, nor save him out of his trouble.
-**8** Remember this, and show yourselves men: bring it again to mind, O you transgressors.
+**8*** Remember this, and show yourself men: bring it again to mind, O you transgressors.
 **9** Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,
 **10** Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
 **11** Calling a ravenous bird from the east, the man that executes my counsel from a far country: yes, I have spoken it, I will also bring it to pass; I have purposed it, I will also do it.
@@ -20268,7 +20268,7 @@
 **11** For mine own sake, even for mine own sake, will I do it: for how should my name be polluted? and I will not give my glory to another.
 **12** Listen to me, O Jacob and Israel, my called; I am he; I am the first, I also am the last.
 **13*** Mine hand also has laid the foundation of the earth, and my right hand has measured the heavens: when I call to them, they stand up together.
-**14** All you, assemble yourselves, and hear; which among them has declared these things? The Lord has loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.
+**14*** All you, assemble yourself, and hear; which among them has declared these things? The Lord has loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.
 **15** I, even I, have spoken; yes, I have called him: I have brought him, and he shall make his way prosperous.
 **16** Come you near to me, hear you this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord God, and his Spirit, has sent me.
 **17** Thus says the Lord, your Redeemer, the Holy One of Israel; I am the Lord your God which teaches you to profit, which leads you by the way that you should go.
@@ -20287,7 +20287,7 @@
 **6** And he said, It is a light thing that you should be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give you for a light to the Gentiles, that you may be my salvation to the end of the earth.
 **7** Thus says the Lord, the Redeemer of Israel, and his Holy One, to him whom man despises, to him whom the nation abhors, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the Lord that is faithful, and the Holy One of Israel, and he shall choose you.
 **8** Thus says the Lord, In an acceptable time have I heard you, and in a day of salvation have I helped you: and I will preserve you, and give you for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;
-**9** That you may say to the prisoners, Go forth; to them that are in darkness, Show yourselves. They shall feed in the ways, and their pastures shall be in all high places.
+**9*** That you may say to the prisoners, Go forth; to them that are in darkness, Show yourself. They shall feed in the ways, and their pastures shall be in all high places.
 **10** They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that has mercy on them shall lead them, even by the springs of water shall he guide them.
 **11** And I will make all my mountains a way, and my highways shall be exalted.
 **12** Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.
@@ -20307,7 +20307,7 @@
 **26** And I will feed them that oppress you with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the Lord am your Saviour and your Redeemer, the mighty One of Jacob. 
 ### Chapter 50
 
-**1*** Thus says the Lord, Where is the bill of your mother’s divorce, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have you sold yourselves, and for your transgressions is your mother put away.
+**1*** Thus says the Lord, Where is the bill of your mother’s divorce, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have you sold yourself, and for your transgressions is your mother put away.
 **2** Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinks, because there is no water, and dies for thirst.
 **3** I clothe the heavens with blackness, and I make sackcloth their covering.
 **4*** The Lord God has given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he stirs morning by morning, he stirs mine ear to hear as the learned.
@@ -20317,7 +20317,7 @@
 **8** He is near that justifies me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.
 **9** Behold, the Lord God will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.
 **10*** Who is among you that fears the Lord, that obeys the voice of his servant, that walks in darkness, and has no light? let him trust in the name of the Lord, and stay upon his God.
-**11*** Behold, all you that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire, and in the sparks that you have kindled. This shall you have of mine hand; you shall lie down in sorrow. 
+**11*** Behold, all you that kindle a fire, that compass yourself about with sparks: walk in the light of your fire, and in the sparks that you have kindled. This shall you have of mine hand; you shall lie down in sorrow. 
 ### Chapter 51
 
 **1** Listen to me, you that follow after righteousness, you that seek the Lord: look to the rock where you are hewn, and to the hole of the pit where you are digged.
@@ -20347,7 +20347,7 @@
 
 **1** Awake, awake; put on your strength, O Zion; put on your beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into you the uncircumcised and the unclean.
 **2** Shake yourself from the dust; arise, and sit down, O Jerusalem: loose yourself from the bands of your neck, O captive daughter of Zion.
-**3** For thus says the Lord, You have sold yourselves for nought; and you shall be redeemed without money.
+**3*** For thus says the Lord, You have sold yourself for nought; and you shall be redeemed without money.
 **4** For thus says the Lord God, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.
 **5** Now therefore, what have I here, says the Lord, that my people is taken away for nought? they that rule over them make them to howl, says the Lord; and my name continually every day is blasphemed.
 **6** Therefore my people shall know my name: therefore they shall know in that day that I am he that does speak: behold, it is I.
@@ -20427,8 +20427,8 @@
 **1** The righteous perishes, and no man lays it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come.
 **2** He shall enter into peace: they shall rest in their beds, each one walking in his uprightness.
 **3*** But draw near here, you sons of the witch, the seed of the adulterer and the whore.
-**4** Against whom do you sport yourselves? against whom make you a wide mouth, and draw out the tongue? are you not children of transgression, a seed of falsehood,
-**5*** Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the tops of the rocks?
+**4*** Against whom do you sport yourself? against whom make you a wide mouth, and draw out the tongue? are you not children of transgression, a seed of falsehood,
+**5*** Enflaming yourself with idols under every green tree, slaying the children in the valleys under the tops of the rocks?
 **6** Among the smooth stones of the stream is your portion; they, they are your lot: even to them have you poured a drink offering, you have offered a meat offering. Should I receive comfort in these?
 **7** Upon a lofty and high mountain have you set your bed: even there went you up to offer sacrifice.
 **8*** Behind the doors also and the posts have you set up your remembrance: for you have discovered yourself to another than me, and are gone up; you have enlarged your bed, and made you a covenant with them; you did love their bed where you saw it.
@@ -20515,7 +20515,7 @@
 **3** To appoint to them that mourn in Zion, to give to them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
 **4** And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.
 **5*** And strangers shall stand and feed your flocks, and the sons of the stranger shall be your husbandmen and your vinedressers.
-**6*** But you shall be named the Priests of the Lord: men shall call you the Ministers of our God: you shall eat the riches of the Gentiles, and in their glory shall you boast yourselves.
+**6*** But you shall be named the Priests of the Lord: men shall call you the Ministers of our God: you shall eat the riches of the Gentiles, and in their glory shall you boast yourself.
 **7*** For your shame you shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be to them.
 **8** For I the Lord love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.
 **9** And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the Lord has blessed.
@@ -20720,8 +20720,8 @@
 **1** If you will return, O Israel, says the Lord, return to me: and if you will put away your abominations out of my sight, then shall you not remove.
 **2** And you shall swear, The Lord lives, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory.
 **3*** For thus says the Lord to the men of Judah and Jerusalem, Break up your ground, and sow not among thorns.
-**4*** Circumcise yourselves to the Lord, and take away the foreskins of your heart, you men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench it, because of the evil of your doings.
-**5** Declare you in Judah, and publish in Jerusalem; and say, Blow you the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities.
+**4*** Circumcise yourself to the Lord, and take away the foreskins of your heart, you men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench it, because of the evil of your doings.
+**5*** Declare you in Judah, and publish in Jerusalem; and say, Blow you the trumpet in the land: cry, gather together, and say, Assemble yourself, and let us go into the defenced cities.
 **6*** Set up the standard toward Zion: flee, stay not: for I will bring evil from the north, and a great destruction.
 **7*** The lion is come up from his den, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make your land desolate; and your cities shall be laid waste, without an inhabitant.
 **8*** For this gird you with sackcloth, lament and howl: for the fierce anger of the Lord is not turned back from us.
@@ -20768,7 +20768,7 @@
 **16** Their quiver is as an open sepulchre, they are all mighty men.
 **17*** And they shall eat up your harvest, and your bread, which your sons and your daughters should eat: they shall eat up your flocks and your herds: they shall eat up your vines and your fig trees: they shall destroy your fenced cities, wherein you trusted, with the sword.
 **18*** Nevertheless in those days, says the Lord, I will not make a full end with you.
-**19*** And it shall come to pass, when you shall say, Wherefore does the Lord our God all these things to us? then shall you answer them, Like as you have forsaken me, and served strange gods in your land, so shall you serve strangers in a land that is not yours.
+**19*** And it shall come to pass, when you shall say, Wherefore does the Lord our God all these things to us? then shall you answer them, Like as you have forsaken me, and served strange gods in your land, so shall you serve strangers in a land that is not your.
 **20** Declare this in the house of Jacob, and publish it in Judah, saying,
 **21** Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not:
 **22*** Fear you not me? says the Lord: will you not tremble at my presence, which have placed the sand for the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof rage, yet can they not prevail; though they roar, yet can they not pass over it?
@@ -20783,7 +20783,7 @@
 **31** The prophets prophesy falsely, and the priests bear rule by their means; and my people love to have it so: and what will you do in the end thereof? 
 ### Chapter 6
 
-**1** O you children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Beth–haccerem: for evil appears out of the north, and great destruction.
+**1*** O you children of Benjamin, gather yourself to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Beth–haccerem: for evil appears out of the north, and great destruction.
 **2** I have likened the daughter of Zion to a comely and delicate woman.
 **3** The shepherds with their flocks shall come to her; they shall pitch their tents against her round about; they shall feed every one in his place.
 **4** Prepare you war against her; arise, and let us go up at noon. Woe to us! for the day goes away, for the shadows of the evening are stretched out.
@@ -20864,7 +20864,7 @@
 **11*** For they have healed the hurt of the daughter of my people lightly, saying, Peace, peace; when there is no peace.
 **12** Were they ashamed when they had committed abomination? no, they were not at all ashamed, neither could they blush: therefore shall they fall among them that fall: in the time of their visitation they shall be cast down, says the Lord.
 **13** I will surely consume them, says the Lord: there shall be no grapes on the vine, nor figs on the fig tree, and the leaf shall fade; and the things that I have given them shall pass away from them.
-**14** Why do we sit still? assemble yourselves, and let us enter into the defenced cities, and let us be silent there: for the Lord our God has put us to silence, and given us water of gall to drink, because we have sinned against the Lord.
+**14*** Why do we sit still? assemble yourself, and let us enter into the defenced cities, and let us be silent there: for the Lord our God has put us to silence, and given us water of gall to drink, because we have sinned against the Lord.
 **15** We looked for peace, but no good came; and for a time of health, and behold trouble!
 **16*** The gnashing of his horses was heard from Dan: the whole land trembled at the sound of the neighing of his strong ones; for they are come, and have devoured the land, and all that is in it; the city, and those that dwell therein.
 **17*** For, behold, I will send serpents, cockatrices, among you, which will not be subdued, and they shall bite you, says the Lord.
@@ -20991,7 +20991,7 @@
 **15** Hear you, and give ear; be not proud: for the Lord has spoken.
 **16*** Give glory to the Lord your God, before he cause darkness, and before your feet stumble upon the dark mountains, and, while you look for light, he turn it into the shadow of death, and make it gross darkness.
 **17*** But if you will not hear it, my soul shall weep in secret places for your pride; and mine eye shall weep sore, and run down with tears, because the Lord’s flock is carried away captive.
-**18*** Say to the king and to the queen, Humble yourselves, sit down: for your principalities shall come down, even the crown of your glory.
+**18*** Say to the king and to the queen, Humble yourself, sit down: for your principalities shall come down, even the crown of your glory.
 **19** The cities of the south shall be shut up, and none shall open them: Judah shall be carried away captive all of it, it shall be wholly carried away captive.
 **20*** Lift up your eyes, and behold them that come from the north: where is the flock that was given you, your beautiful flock?
 **21*** What will you say when he shall punish you? for you have taught them to be captains, and as head over you: shall not sorrows take you, as a woman in travail?
@@ -21093,7 +21093,7 @@
 **18** Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction.
 **19** Thus said the Lord to me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;
 **20** And say to them, Hear you the word of the Lord, you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:
-**21** Thus says the Lord; Take heed to yourselves, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;
+**21*** Thus says the Lord; Take heed to yourself, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;
 **22*** Neither carry forth a burden out of your houses on the sabbath day, neither do you any work, but hallow you the sabbath day, as I commanded your fathers.
 **23** But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction.
 **24** And it shall come to pass, if you diligently listen to me, says the Lord, to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day, to do no work therein;
@@ -21299,7 +21299,7 @@
 **31** A noise shall come even to the ends of the earth; for the Lord has a controversy with the nations, he will plead with all flesh; he will give them that are wicked to the sword, says the Lord.
 **32** Thus says the Lord of hosts, Behold, evil shall go forth from nation to nation, and a great whirlwind shall be raised up from the coasts of the earth.
 **33** And the slain of the Lord shall be at that day from one end of the earth even to the other end of the earth: they shall not be lamented, neither gathered, nor buried; they shall be dung upon the ground.
-**34*** Howl, you shepherds, and cry; and wallow yourselves in the ashes, you principal of the flock: for the days of your slaughter and of your dispersed are accomplished; and you shall fall like a pleasant vessel.
+**34*** Howl, you shepherds, and cry; and wallow yourself in the ashes, you principal of the flock: for the days of your slaughter and of your dispersed are accomplished; and you shall fall like a pleasant vessel.
 **35** And the shepherds shall have no way to flee, nor the principal of the flock to escape.
 **36** A voice of the cry of the shepherds, and an howling of the principal of the flock, shall be heard: for the Lord has spoiled their pasture.
 **37** And the peaceable habitations are cut down because of the fierce anger of the Lord.
@@ -21320,7 +21320,7 @@
 **12** Then spoke Jeremiah to all the princes and to all the people, saying, The Lord sent me to prophesy against this house and against this city all the words that you have heard.
 **13*** Therefore now amend your ways and your doings, and obey the voice of the Lord your God; and the Lord will repent him of the evil that he has pronounced against you.
 **14*** As for me, behold, I am in your hand: do with me as seems good and meet to you.
-**15*** But know you for certain, that if you put me to death, you shall surely bring innocent blood upon yourselves, and upon this city, and upon the inhabitants thereof: for of a truth the Lord has sent me to you to speak all these words in your ears.
+**15*** But know you for certain, that if you put me to death, you shall surely bring innocent blood upon yourself, and upon this city, and upon the inhabitants thereof: for of a truth the Lord has sent me to you to speak all these words in your ears.
 **16** Then said the princes and all the people to the priests and to the prophets; This man is not worthy to die: for he has spoken to us in the name of the Lord our God.
 **17** Then rose up certain of the elders of the land, and spoke to all the assembly of the people, saying,
 **18** Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spoke to all the people of Judah, saying, Thus says the Lord of hosts; Zion shall be plowed like a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest.
@@ -21638,7 +21638,7 @@
 **6** Then came the word of the Lord to the prophet Jeremiah, saying,
 **7*** Thus says the Lord, the God of Israel; Thus shall you say to the king of Judah, that sent you to me to enquire of me; Behold, Pharaoh’s army, which is come forth to help you, shall return to Egypt into their own land.
 **8** And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.
-**9** Thus says the Lord; Deceive not yourselves, saying, The Chaldeans shall surely depart from us: for they shall not depart.
+**9*** Thus says the Lord; Deceive not yourself, saying, The Chaldeans shall surely depart from us: for they shall not depart.
 **10*** For though you had smitten the whole army of the Chaldeans that fight against you, and there remained but wounded men among them, yet should they rise up every man in his tent, and burn this city with fire.
 **11** And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh’s army,
 **12** Then Jeremiah went forth out of Jerusalem to go into the land of Benjamin, to separate himself thence in the midst of the people.
@@ -21787,7 +21787,7 @@
 **5** But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense to other gods.
 **6** Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted and desolate, as at this day.
 **7*** Therefore now thus says the Lord, the God of hosts, the God of Israel; Wherefore commit you this great evil against your souls, to cut off from you man and woman, child and suckling, out of Judah, to leave you none to remain;
-**8*** In that you provoke me to wrath with the works of your hands, burning incense to other gods in the land of Egypt, where you be gone to dwell, that you might cut yourselves off, and that you might be a curse and a reproach among all the nations of the earth?
+**8*** In that you provoke me to wrath with the works of your hands, burning incense to other gods in the land of Egypt, where you be gone to dwell, that you might cut yourself off, and that you might be a curse and a reproach among all the nations of the earth?
 **9*** Have you forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?
 **10*** They are not humbled even to this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers.
 **11*** Therefore thus says the Lord of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah.
@@ -21961,7 +21961,7 @@
 **11*** Because you were glad, because you rejoiced, O you destroyers of mine heritage, because you are grown fat as the heifer at grass, and cry as oxen;
 **12*** Your mother shall be sore confounded; she that bare you shall be ashamed: behold, the last of the nations shall be a wilderness, a dry land, and a desert.
 **13** Because of the wrath of the Lord it shall not be inhabited, but it shall be wholly desolate: every one that goes by Babylon shall be astonished, and hiss at all her plagues.
-**14** Put yourselves in array against Babylon round about: all you that bend the bow, shoot at her, spare no arrows: for she has sinned against the Lord.
+**14*** Put yourself in array against Babylon round about: all you that bend the bow, shoot at her, spare no arrows: for she has sinned against the Lord.
 **15** Shout against her round about: she has given her hand: her foundations are fallen, her walls are thrown down: for it is the vengeance of the Lord: take vengeance upon her; as she has done, do to her.
 **16** Cut off the sower from Babylon, and him that handles the sickle in the time of harvest: for fear of the oppressing sword they shall turn every one to his people, and they shall flee every one to his own land.
 **17** Israel is a scattered sheep; the lions have driven him away: first the king of Assyria has devoured him; and last this Nebuchadrezzar king of Babylon has broken his bones.
@@ -22570,7 +22570,7 @@
 **3*** Son of man, these men have set up their idols in their heart, and put the stumbling block of their iniquity before their face: should I be enquired of at all by them?
 **4*** Therefore speak to them, and say to them, Thus says the Lord God; Every man of the house of Israel that sets up his idols in his heart, and puts the stumbling block of his iniquity before his face, and comes to the prophet; I the Lord will answer him that comes according to the multitude of his idols;
 **5** That I may take the house of Israel in their own heart, because they are all estranged from me through their idols.
-**6*** Therefore say to the house of Israel, Thus says the Lord God; Repent, and turn yourselves from your idols; and turn away your faces from all your abominations.
+**6*** Therefore say to the house of Israel, Thus says the Lord God; Repent, and turn yourself from your idols; and turn away your faces from all your abominations.
 **7*** For every one of the house of Israel, or of the stranger that sojourns in Israel, which separates himself from me, and sets up his idols in his heart, and puts the stumbling block of his iniquity before his face, and comes to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
 **8** And I will set my face against that man, and will make him a sign and a proverb, and I will cut him off from the midst of my people; and you shall know that I am the Lord.
 **9** And if the prophet be deceived when he has spoken a thing, I the Lord have deceived that prophet, and I will stretch out my hand upon him, and will destroy him from the midst of my people Israel.
@@ -22720,9 +22720,9 @@
 **27** Again, when the wicked man turns away from his wickedness that he has committed, and does that which is lawful and right, he shall save his soul alive.
 **28** Because he considers, and turns away from all his transgressions that he has committed, he shall surely live, he shall not die.
 **29*** Yet says the house of Israel, The way of the Lord is not equal. O house of Israel, are not my ways equal? are not your ways unjust?
-**30*** Therefore I will judge you, O house of Israel, every one according to his ways, says the Lord God. Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.
+**30*** Therefore I will judge you, O house of Israel, every one according to his ways, says the Lord God. Repent, and turn yourself from all your transgressions; so iniquity shall not be your ruin.
 **31*** Cast away from you all your transgressions, whereby you have transgressed; and make you a new heart and a new spirit: for why will you die, O house of Israel?
-**32** For I have no pleasure in the death of him that dies, says the Lord God: wherefore turn yourselves, and live you. 
+**32*** For I have no pleasure in the death of him that dies, says the Lord God: wherefore turn yourself, and live you. 
 ### Chapter 19
 
 **1** Moreover take you up a lamentation for the princes of Israel,
@@ -22747,7 +22747,7 @@
 **4** Will you judge them, son of man, will you judge them? cause them to know the abominations of their fathers:
 **5*** And say to them, Thus says the Lord God; In the day when I chose Israel, and lifted up mine hand to the seed of the house of Jacob, and made myself known to them in the land of Egypt, when I lifted up mine hand to them, saying, I am the Lord your God;
 **6*** In the day that I lifted up mine hand to them, to bring them forth of the land of Egypt into a land that I had searched out for them, flowing with milk and honey, which is the glory of all lands:
-**7*** Then said I to them, Cast you away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I am the Lord your God.
+**7*** Then said I to them, Cast you away every man the abominations of his eyes, and defile not yourself with the idols of Egypt: I am the Lord your God.
 **8** But they rebelled against me, and would not listen to me: they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt: then I said, I will pour out my fury upon them, to accomplish my anger against them in the midst of the land of Egypt.
 **9** But I wrought for my name’s sake, that it should not be polluted before the heathen, among whom they were, in whose sight I made myself known to them, in bringing them forth out of the land of Egypt.
 **10** Wherefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness.
@@ -22758,7 +22758,7 @@
 **15** Yet also I lifted up my hand to them in the wilderness, that I would not bring them into the land which I had given them, flowing with milk and honey, which is the glory of all lands;
 **16** Because they despised my judgments, and walked not in my statutes, but polluted my sabbaths: for their heart went after their idols.
 **17** Nevertheless mine eye spared them from destroying them, neither did I make an end of them in the wilderness.
-**18*** But I said to their children in the wilderness, Walk you not in the statutes of your fathers, neither observe their judgments, nor defile yourselves with their idols:
+**18*** But I said to their children in the wilderness, Walk you not in the statutes of your fathers, neither observe their judgments, nor defile yourself with their idols:
 **19*** I am the Lord your God; walk in my statutes, and keep my judgments, and do them;
 **20*** And hallow my sabbaths; and they shall be a sign between me and you, that you may know that I am the Lord your God.
 **21** Notwithstanding the children rebelled against me: they walked not in my statutes, neither kept my judgments to do them, which if a man do, he shall even live in them; they polluted my sabbaths: then I said, I would pour out my fury upon them, to accomplish my anger against them in the wilderness.
@@ -22771,7 +22771,7 @@
 **28** For when I had brought them into the land, for the which I lifted up mine hand to give it to them, then they saw every high hill, and all the thick trees, and they offered there their sacrifices, and there they presented the provocation of their offering: there also they made their sweet savour, and poured out there their drink offerings.
 **29** Then I said to them, What is the high place whereunto you go? And the name thereof is called Bamah to this day.
 **30*** Wherefore say to the house of Israel, Thus says the Lord God; Are you polluted after the manner of your fathers? and commit you whoredom after their abominations?
-**31*** For when you offer your gifts, when you make your sons to pass through the fire, you pollute yourselves with all your idols, even to this day: and shall I be enquired of by you, O house of Israel? As I live, says the Lord God, I will not be enquired of by you.
+**31*** For when you offer your gifts, when you make your sons to pass through the fire, you pollute yourself with all your idols, even to this day: and shall I be enquired of by you, O house of Israel? As I live, says the Lord God, I will not be enquired of by you.
 **32*** And that which comes into your mind shall not be at all, that you say, We will be as the heathen, as the families of the countries, to serve wood and stone.
 **33*** As I live, says the Lord God, surely with a mighty hand, and with a stretched out arm, and with fury poured out, will I rule over you:
 **34*** And I will bring you out from the people, and will gather you out of the countries wherein you are scattered, with a mighty hand, and with a stretched out arm, and with fury poured out.
@@ -22783,7 +22783,7 @@
 **40*** For in mine holy mountain, in the mountain of the height of Israel, says the Lord God, there shall all the house of Israel, all of them in the land, serve me: there will I accept them, and there will I require your offerings, and the firstfruits of your oblations, with all your holy things.
 **41*** I will accept you with your sweet savour, when I bring you out from the people, and gather you out of the countries wherein you have been scattered; and I will be sanctified in you before the heathen.
 **42*** And you shall know that I am the Lord, when I shall bring you into the land of Israel, into the country for the which I lifted up mine hand to give it to your fathers.
-**43*** And there shall you remember your ways, and all your doings, wherein you have been defiled; and you shall lothe yourselves in your own sight for all your evils that you have committed.
+**43*** And there shall you remember your ways, and all your doings, wherein you have been defiled; and you shall lothe yourself in your own sight for all your evils that you have committed.
 **44*** And you shall know that I am the Lord, when I have wrought with you for my name’s sake, not according to your wicked ways, nor according to your corrupt doings, O you house of Israel, says the Lord God.
 **45** Moreover the word of the Lord came to me, saying,
 **46** Son of man, set your face toward the south, and drop your word toward the south, and prophesy against the forest of the south field;
@@ -23267,7 +23267,7 @@
 **28*** And you shall dwell in the land that I gave to your fathers; and you shall be my people, and I will be your God.
 **29*** I will also save you from all your uncleannesses: and I will call for the wheat, and will increase it, and lay no famine upon you.
 **30** And I will multiply the fruit of the tree, and the increase of the field, that you shall receive no more reproach of famine among the heathen.
-**31*** Then shall you remember your own evil ways, and your doings that were not good, and shall lothe yourselves in your own sight for your iniquities and for your abominations.
+**31*** Then shall you remember your own evil ways, and your doings that were not good, and shall lothe yourself in your own sight for your iniquities and for your abominations.
 **32*** Not for your sakes do I this, says the Lord God, be it known to you: be ashamed and confounded for your own ways, O house of Israel.
 **33*** Thus says the Lord God; In the day that I shall have cleansed you from all your iniquities I will also cause you to dwell in the cities, and the wastes shall be built.
 **34** And the desolate land shall be tilled, whereas it lay desolate in the sight of all that passed by.
@@ -23348,7 +23348,7 @@
 **14*** And they shall sever out men of continual labour, passing through the land to bury with the passengers those that remain upon the face of the earth, to cleanse it: after the end of seven months shall they search.
 **15*** And the passengers that pass through the land, when any sees a man's bone, then shall he set up a sign by it, till they that bury it have buried it in the valley of Hamon–gog.
 **16** And also the name of the city shall be Hamonah. Thus shall they cleanse the land.
-**17*** And, you son of man, thus says the Lord God; Speak to every winged fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for you, even a great sacrifice upon the mountains of Israel, that you may eat flesh, and drink blood.
+**17*** And, you son of man, thus says the Lord God; Speak to every winged fowl, and to every beast of the field, Assemble yourself, and come; gather yourself on every side to my sacrifice that I do sacrifice for you, even a great sacrifice upon the mountains of Israel, that you may eat flesh, and drink blood.
 **18** You shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bullocks, all of them fatlings of Bashan.
 **19*** And you shall eat fat till you be full, and drink blood till you be drunken, of my sacrifice which I have sacrificed for you.
 **20** Thus you shall be filled at my table with horses and chariots, with mighty men, and with all men of war, says the Lord God.
@@ -23500,7 +23500,7 @@
 **5** And the Lord said to me, Son of man, mark well, and behold with your eyes, and hear with your ears all that I say to you concerning all the ordinances of the house of the Lord, and all the laws thereof; and mark well the entering in of the house, with every going forth of the sanctuary.
 **6*** And you shall say to the rebellious, even to the house of Israel, Thus says the Lord God; O you house of Israel, let it suffice you of all your abominations,
 **7*** In that you have brought into my sanctuary strangers, uncircumcised in heart, and uncircumcised in flesh, to be in my sanctuary, to pollute it, even my house, when you offer my bread, the fat and the blood, and they have broken my covenant because of all your abominations.
-**8** And you have not kept the charge of mine holy things: but you have set keepers of my charge in my sanctuary for yourselves.
+**8*** And you have not kept the charge of mine holy things: but you have set keepers of my charge in my sanctuary for yourself.
 **9** Thus says the Lord God; No stranger, uncircumcised in heart, nor uncircumcised in flesh, shall enter into my sanctuary, of any stranger that is among the children of Israel.
 **10** And the Levites that are gone away far from me, when Israel went astray, which went astray away from me after their idols; they shall even bear their iniquity.
 **11** Yet they shall be ministers in my sanctuary, having charge at the gates of the house, and ministering to the house: they shall slay the burnt offering and the sacrifice for the people, and they shall stand before them to minister to them.
@@ -24192,7 +24192,7 @@
 **9** O Israel, you have sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.
 **10** It is in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows.
 **11*** And Ephraim is as an heifer that is taught, and loves to tread out the wheat; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods.
-**12*** Sow to yourselves in righteousness, reap in mercy; break up your ground: for it is time to seek the Lord, till he come and rain righteousness upon you.
+**12*** Sow to yourself in righteousness, reap in mercy; break up your ground: for it is time to seek the Lord, till he come and rain righteousness upon you.
 **13** You have plowed wickedness, you have reaped iniquity; you have eaten the fruit of lies: because you did trust in your way, in the multitude of your mighty men.
 **14** Therefore shall a tumult arise among your people, and all your fortresses shall be spoiled, as Shalman spoiled Beth–arbel in the day of battle: the mother was dashed in pieces upon her children.
 **15*** So shall Beth–el do to you because of your great wickedness: in a morning shall the king of Israel utterly be cut off. 
@@ -24274,7 +24274,7 @@
 **10*** The field is wasted, the land mourns; for the wheat is wasted: the new wine is dried up, the oil languishes.
 **11** Be you ashamed, O you husbandmen; howl, O you vinedressers, for the wheat and for the barley; because the harvest of the field is perished.
 **12** The vine is dried up, and the fig tree languishes; the pomegranate tree, the palm tree also, and the apple tree, even all the trees of the field, are withered: because joy is withered away from the sons of men.
-**13*** Gird yourselves, and lament, you priests: howl, you ministers of the altar: come, lie all night in sackcloth, you ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.
+**13*** Gird yourself, and lament, you priests: howl, you ministers of the altar: come, lie all night in sackcloth, you ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.
 **14*** Sanctify you a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the Lord your God, and cry to the Lord,
 **15** Alas for the day! for the day of the Lord is at hand, and as a destruction from the Almighty shall it come.
 **16** Is not the meat cut off before our eyes, yes, joy and gladness from the house of our God?
@@ -24328,7 +24328,7 @@
 **8*** And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the Lord has spoken it.
 **9** Proclaim you this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:
 **10*** Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong.
-**11** Assemble yourselves, and come, all you heathen, and gather yourselves together round about: there cause your mighty ones to come down, O Lord.
+**11*** Assemble yourself, and come, all you heathen, and gather yourself together round about: there cause your mighty ones to come down, O Lord.
 **12*** Let the heathen be stirred up, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.
 **13*** Put you in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.
 **14*** Multitudes, multitudes in the valley of threshing: for the day of the Lord is near in the valley of threshing.
@@ -24389,7 +24389,7 @@
 **6** Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the Lord has not done it?
 **7** Surely the Lord God will do nothing, but he reveals his secret to his servants the prophets.
 **8** The lion has roared, who will not fear? the Lord God has spoken, who can but prophesy?
-**9** Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.
+**9*** Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourself upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.
 **10** For they know not to do right, says the Lord, who store up violence and robbery in their palaces.
 **11** Therefore thus says the Lord God; An adversary there shall be even round about the land; and he shall bring down your strength from you, and your palaces shall be spoiled.
 **12** Thus says the Lord; As the shepherd takes out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus in a couch.
@@ -24438,7 +24438,7 @@
 **23*** Take you away from me the noise of your songs; for I will not hear the melody of your harps.
 **24** But let judgment run down as waters, and righteousness as a mighty stream.
 **25** Have you offered to me sacrifices and offerings in the wilderness forty years, O house of Israel?
-**26*** But you have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which you made to yourselves.
+**26*** But you have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which you made to yourself.
 **27*** Therefore will I cause you to go into captivity beyond Damascus, says the Lord, whose name is The God of hosts. 
 ### Chapter 6
 
@@ -24873,7 +24873,7 @@
 **18*** Neither their silver nor their gold shall be able to deliver them in the day of the Lord's wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a sudden end of all them that dwell in the land.
 ### Chapter 2
 
-**1** Gather yourselves together, yes, gather together, O nation not desired;
+**1*** Gather yourself together, yes, gather together, O nation not desired;
 **2*** Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord’s anger come upon you.
 **3** Seek you the Lord, all you meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be you shall be hid in the day of the Lord’s anger.
 **4** For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up.
@@ -25065,7 +25065,7 @@
 **3** And to speak to the priests which were in the house of the Lord of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?
 **4** Then came the word of the Lord of hosts to me, saying,
 **5** Speak to all the people of the land, and to the priests, saying, When you fasted and mourned in the fifth and seventh month, even those seventy years, did you at all fast to me, even to me?
-**6** And when you did eat, and when you did drink, did not you eat for yourselves, and drink for yourselves?
+**6*** And when you did eat, and when you did drink, did not you eat for yourself, and drink for yourself?
 **7** Should you not hear the words which the Lord has cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when men inhabited the south and the plain?
 **8** And the word of the Lord came to Zechariah, saying,
 **9** Thus speaks the Lord of hosts, saying, Execute true judgment, and show mercy and compassions every man to his brother:
@@ -25336,7 +25336,7 @@
 **6** And were baptized of him in Jordan, confessing their sins.
 **7*** But when he saw many of the Pharisees and Sadducees come to his baptism, he said to them, O generation of vipers, who has warned you to flee from the wrath to come?
 **8*** Bring forth therefore fruits worthy of repentance:
-**9*** And think not to say within yourselves, We have Abraham to our father: for I say to you, that God is able of these stones to raise up children to Abraham.
+**9*** And think not to say within yourself, We have Abraham to our father: for I say to you, that God is able of these stones to raise up children to Abraham.
 **10** And now also the axe is laid to the root of the trees: therefore every tree which brings not forth good fruit is hewn down, and cast into the fire.
 **11*** I indeed baptize you with water to repentance: but he that comes after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the spirit of the Lord, and with fire:
 **12*** Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the storehouse; but he will burn up the chaff with everlasting fire.
@@ -25442,8 +25442,8 @@
 **16*** Moreover when you fast, be not, as the hypocrites, of a sad countenance: for they mar their faces, that they may appear to men to fast. Truly I say to you, They have their reward.
 **17** But you, when you fast, anoint your head, and wash your face;
 **18** That you appear not to men to fast, but to your Father which is in secret: and your Father, which sees in secret, shall reward you openly.
-**19** Lay not up for yourselves treasures upon earth, where moth and rust does corrupt, and where thieves break through and steal:
-**20** But lay up for yourselves treasures in heaven, where neither moth nor rust does corrupt, and where thieves do not break through nor steal:
+**19*** Lay not up for yourself treasures upon earth, where moth and rust does corrupt, and where thieves break through and steal:
+**20*** But lay up for yourself treasures in heaven, where neither moth nor rust does corrupt, and where thieves do not break through nor steal:
 **21*** For where your treasure is, there will your heart be also.
 **22*** The light of the body is the eye: if therefore your eye be sound, your whole body shall be full of light.
 **23** But if your eye be evil, your whole body shall be full of darkness. If therefore the light that is in you be darkness, how great is that darkness!
@@ -25841,7 +25841,7 @@
 **5** And when his disciples were come to the other side, they had forgotten to take bread.
 **6** Then Jesus said to them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.
 **7** And they reasoned among themselves, saying, It is because we have taken no bread.
-**8** Which when Jesus perceived, he said to them, O you of little faith, why reason you among yourselves, because you have brought no bread?
+**8*** Which when Jesus perceived, he said to them, O you of little faith, why reason you among yourself, because you have brought no bread?
 **9** Do you not yet understand, neither remember the five loaves of the five thousand, and how many baskets you took up?
 **10** Neither the seven loaves of the four thousand, and how many baskets you took up?
 **11*** How is it that you do not understand that I spoke it not to you concerning bread, that you should beware of the leaven of the Pharisees and of the Sadducees?
@@ -26106,9 +26106,9 @@
 **10*** Neither be you called masters: for one is your Master, even Christ.
 **11*** But he that is greatest among you shall be your servant.
 **12** And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.
-**13*** But woe to you, scribes and Pharisees, hypocrites! for you shut up the kingdom of heaven against men: for you neither go in yourselves, neither suffer you them that are entering to go in.
+**13*** But woe to you, scribes and Pharisees, hypocrites! for you shut up the kingdom of heaven against men: for you neither go in yourself, neither suffer you them that are entering to go in.
 **14*** Woe to you, scribes and Pharisees, hypocrites! for you devour widows’ houses, and for a pretence make long prayer: therefore you shall receive the greater damnation.
-**15*** Woe to you, scribes and Pharisees, hypocrites! for you compass sea and land to make one convert, and when he is made, you make him double more the child of hell than yourselves.
+**15*** Woe to you, scribes and Pharisees, hypocrites! for you compass sea and land to make one convert, and when he is made, you make him double more the child of hell than yourself.
 **16*** Woe to you, you blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!
 **17** You fools and blind: for whether is greater, the gold, or the temple that sanctifies the gold?
 **18** And, Whosoever shall swear by the altar, it is nothing; but whosoever swears by the gift that is upon it, he is guilty.
@@ -26124,7 +26124,7 @@
 **28*** Even so you also appear righteous to men on the outside, but within you are full of hypocrisy and iniquity.
 **29*** Woe to you, scribes and Pharisees, hypocrites! because you build the tombs of the prophets, and adorn the sepulchres of the righteous,
 **30** And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
-**31** Wherefore you be witnesses to yourselves, that you are the children of them which killed the prophets.
+**31*** Wherefore you be witnesses to yourself, that you are the children of them which killed the prophets.
 **32*** Fill you up then the measure of your fathers.
 **33** You serpents, you generation of vipers, how can you escape the damnation of hell?
 **34*** Wherefore, behold, I send to you prophets, and wise men, and scribes: and some of them you shall kill and crucify; and some of them shall you scourge in your synagogues, and persecute them from city to city:
@@ -26196,7 +26196,7 @@
 **6** And at midnight there was a cry made, Behold, the bridegroom comes; go you out to meet him.
 **7*** Then all those virgins arose, and prepared their lamps.
 **8*** And the foolish said to the wise, Give us of your oil; for our lamps are gone out.
-**9*** But the wise answered, saying, Not so; lest there be not enough for us and you: but go you rather to them that sell, and buy for yourselves.
+**9*** But the wise answered, saying, Not so; lest there be not enough for us and you: but go you rather to them that sell, and buy for yourself.
 **10** And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.
 **11** Afterward came also the other virgins, saying, Lord, Lord, open to us.
 **12*** But he answered and said, Truly I say to you, I know you not.
@@ -26640,7 +26640,7 @@
 **28** And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother.
 **29*** And when his disciples heard of it, they came and took up his body, and laid it in a tomb.
 **30** And the apostles gathered themselves together to Jesus, and told him all things, both what they had done, and what they had taught.
-**31*** And he said to them, Come you yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no time so much as to eat.
+**31*** And he said to them, Come you yourself apart into a desert place, and rest a while: for there were many coming and going, and they had no time so much as to eat.
 **32*** And they departed into a desert place by ship alone.
 **33*** And the people saw them departing, and many knew him, and ran on foot there out of all cities, and went before them, and came together to him.
 **34** And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.
@@ -26779,7 +26779,7 @@
 **30** And they departed thence, and passed through Galilee; and he would not that any man should know it. 
 **31** For he taught his disciples, and said to them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.
 **32** But they understood not that saying, and were afraid to ask him.
-**33** And he came to Capernaum: and being in the house he asked them, What was it that you disputed among yourselves by the way?
+**33*** And he came to Capernaum: and being in the house he asked them, What was it that you disputed among yourself by the way?
 **34** But they held their peace: for by the way they had disputed among themselves, who should be the greatest.
 **35** And he sat down, and called the twelve, and says to them, If any man desire to be first, the same shall be last of all, and servant of all.
 **36** And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said to them,
@@ -26796,7 +26796,7 @@
 **47** And if your eye offend you, pluck it out: it is better for you to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:
 **48** Where their worm dies not, and the fire is not quenched.
 **49** For every one shall be salted with fire, and every sacrifice shall be salted with salt.
-**50*** Salt is good: but if the salt have lost its savour, how shall it be restored? Have salt in yourselves, and have peace one with another.
+**50*** Salt is good: but if the salt have lost its savour, how shall it be restored? Have salt in yourself, and have peace one with another.
 ### Chapter 10
 
 **1*** And he arose from thence, and comes into the coasts of Judea by the further side of Jordan: and the people resort to him again; and, as he was wont, he taught them again.
@@ -26942,7 +26942,7 @@
 **6** For many shall come in my name, saying, I am Christ; and shall deceive many.
 **7** And when you shall hear of wars and rumours of wars, be you not troubled: for such things must needs be; but the end shall not be yet.
 **8*** For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in diverse places, and there shall be famines and troubles: these are the beginnings of sorrows.
-**9*** But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues you shall be beaten: and you shall be brought before rulers and kings for my sake, for a testimony against them.
+**9*** But take heed to yourself: for they shall deliver you up to councils; and in the synagogues you shall be beaten: and you shall be brought before rulers and kings for my sake, for a testimony against them.
 **10** And the gospel must first be published among all nations.
 **11*** But when they shall lead you, and deliver you up, take no thought beforehand what you shall speak, neither do you imagine: but whatsoever shall be given you in that hour, that speak you: for it is not you that speak, but the spirit of the Lord.
 **12** Now the brother shall betray the brother to death, and the father the son; and children shall rise up against their parents, and shall cause them to be put to death.
@@ -27266,7 +27266,7 @@
 **5** Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth;
 **6** And all flesh shall see the salvation of God.
 **7*** Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who has warned you to flee from the wrath to come?
-**8*** Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say to you, That God is able of these stones to raise up children to Abraham.
+**8*** Bring forth therefore fruits worthy of repentance, and begin not to say within yourself, We have Abraham to our father: for I say to you, That God is able of these stones to raise up children to Abraham.
 **9** And now also the axe is laid to the root of the trees: every tree therefore which brings not forth good fruit is hewn down, and cast into the fire.
 **10** And the people asked him, saying, What shall we do then?
 **11*** He answers and says to them, He that has two coats, let him give to him that has none; and he that has meat, let him do likewise.
@@ -27405,7 +27405,7 @@
 **17** And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
 **18** And they that were vexed with unclean spirits: and they were healed.
 **19** And the whole multitude sought to touch him: for there went virtue out of him, and healed them all.
-**20** And he lifted up his eyes on his disciples, and said, Blessed be you poor: for yours is the kingdom of God.
+**20*** And he lifted up his eyes on his disciples, and said, Blessed be you poor: for your is the kingdom of God.
 **21** Blessed are you that hunger now: for you shall be filled. Blessed are you that weep now: for you shall laugh.
 **22*** Blessed are you, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake.
 **23*** Rejoice you in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers to the prophets.
@@ -27700,13 +27700,13 @@
 **43*** Woe to you, Pharisees! for you love the uppermost seats in the synagogues, and greetings in the markets.
 **44*** Woe to you, scribes and Pharisees, hypocrites! for you are as graves which appear not, and the men that walk over them are not aware of them.
 **45*** Then answered one of the teachers, and said to him, Master, thus saying you reproach us also.
-**46*** And he said, Woe to you also, you teachers! for you lade men with burdens grievous to be borne, and you yourselves touch not the burdens with one of your fingers.
+**46*** And he said, Woe to you also, you teachers! for you lade men with burdens grievous to be borne, and you yourself touch not the burdens with one of your fingers.
 **47*** Woe to you! for you build the sepulchres of the prophets, and your fathers killed them.
 **48*** Truly you bear witness that you allow the deeds of your fathers: for they indeed killed them, and you build their sepulchres.
 **49** Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute:
 **50** That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;
 **51*** From the blood of Abel to the blood of Zechariah, which perished between the altar and the temple: truly I say to you, It shall be required of this generation.
-**52*** Woe to you, teachers! for you have taken away the key of knowledge: you entered not in yourselves, and them that were entering in you hindered.
+**52*** Woe to you, teachers! for you have taken away the key of knowledge: you entered not in yourself, and them that were entering in you hindered.
 **53*** And as he said these things to them, the scribes and the Pharisees began to press him vehemently, and to provoke him to speak of many things:
 **54** Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him. 
 ### Chapter 12
@@ -27743,10 +27743,10 @@
 **30*** For all these things do the nations of the world seek after: and your Father knows that you have need of these things.
 **31*** But rather seek you the kingdom of God; and all these things shall be added to you.
 **32*** Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom.
-**33** Sell that you have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that fails not, where no thief approaches, neither moth corrupts.
+**33*** Sell that you have, and give alms; provide yourself bags which wax not old, a treasure in the heavens that fails not, where no thief approaches, neither moth corrupts.
 **34*** For where your treasure is, there will your heart be also.
 **35*** Let your loins be adorned about, and your lights burning;
-**36** And you yourselves like to men that wait for their lord, when he will return from the wedding; that when he comes and knocks, they may open to him immediately.
+**36*** And you yourself like to men that wait for their lord, when he will return from the wedding; that when he comes and knocks, they may open to him immediately.
 **37*** Blessed are those servants, whom the lord when he comes shall find watching: truly I say to you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.
 **38** And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants.
 **39** And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through.
@@ -27767,7 +27767,7 @@
 **54** And he said also to the people, When you see a cloud rise out of the west, immediately you say, There comes a shower; and so it is.
 **55** And when you see the south wind blow, you say, There will be heat; and it comes to pass.
 **56** You hypocrites, you can discern the face of the sky and of the earth; but how is it that you do not discern this time?
-**57** Yes, and why even of yourselves judge you not what is right?
+**57*** Yes, and why even of yourself judge you not what is right?
 **58*** When you go with your adversary to the ruler, as you are in the way, give diligence that you may be delivered from him; lest he draw you to the judge, and the judge deliver you to the officer, and the officer cast you into prison.
 **59** I tell you, you shall not depart thence, till you have paid the very last mite. 
 ### Chapter 13
@@ -27799,7 +27799,7 @@
 **25*** When once the master of the house is risen up, and has shut to the door, and you begin to stand without, and to knock at the door, saying, Lord, Lord, open to us; and he shall answer and say to you, I know you not where you are:
 **26*** Then shall you begin to say, We have eaten and drank in your presence, and you have taught in our streets.
 **27*** But he shall say, I tell you, I know you not where you are; depart from me, all you workers of iniquity.
-**28*** There shall be weeping and gnashing of teeth, when you shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out.
+**28*** There shall be weeping and gnashing of teeth, when you shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourself thrust out.
 **29** And they shall come from the east, and from the west, and from the north, and from the south, and shall sit down in the kingdom of God.
 **30** And, behold, there are last which shall be first, and there are first which shall be last.
 **31** The same day there came certain of the Pharisees, saying to him, Get you out, and depart hence: for Herod will kill you.
@@ -27888,13 +27888,13 @@
 **6** And he said, An hundred measures of oil. And he said to him, Take your bill, and sit down quickly, and write fifty.
 **7** Then said he to another, And how much owe you? And he said, An hundred measures of wheat. And he said to him, Take your bill, and write fourscore.
 **8** And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light.
-**9*** And I say to you, Make to yourselves friends of the mammon of unrighteousness; that, when you fail, they may receive you into everlasting habitations.
+**9*** And I say to you, Make to yourself friends of the mammon of unrighteousness; that, when you fail, they may receive you into everlasting habitations.
 **10** He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.
 **11*** If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?
 **12*** And if you have not been faithful in that which is another man’s, who shall give you that which is your own?
 **13** No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. You cannot serve God and mammon.
 **14*** And the Pharisees also, who were covetous, heard all these things: and they mocked him.
-**15*** And he said to them, You are they which justify yourselves before men; but God knows your hearts: for that which is highly esteemed among men is abomination in the sight of God.
+**15*** And he said to them, You are they which justify yourself before men; but God knows your hearts: for that which is highly esteemed among men is abomination in the sight of God.
 **16** The law and the prophets were until John: since that time the kingdom of God is preached, and every man presses into it.
 **17*** And it is easier for heaven and earth to pass, than one point of the law to fail.
 **18** Whosoever puts away his wife, and marries another, commits adultery: and whosoever marries her that is put away from her husband commits adultery.
@@ -27915,7 +27915,7 @@
 
 **1** Then said he to the disciples, It is impossible but that offences will come: but woe to him, through whom they come!
 **2** It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones.
-**3** Take heed to yourselves: If your brother trespass against you, rebuke him; and if he repent, forgive him.
+**3*** Take heed to yourself: If your brother trespass against you, rebuke him; and if he repent, forgive him.
 **4** And if he trespass against you seven times in a day, and seven times in a day turn again to you, saying, I repent; you shall forgive him.
 **5** And the apostles said to the Lord, Increase our faith.
 **6*** And the Lord said, If you had faith as a grain of mustard seed, you might say to this mulberry tree, Be you plucked up by the root, and be you planted in the sea; and it should obey you.
@@ -27926,7 +27926,7 @@
 **11** And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.
 **12** And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:
 **13** And they lifted up their voices, and said, Jesus, Master, have mercy on us.
-**14** And when he saw them, he said to them, Go show yourselves to the priests. And it came to pass, that, as they went, they were cleansed.
+**14*** And when he saw them, he said to them, Go show yourself to the priests. And it came to pass, that, as they went, they were cleansed.
 **15** And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,
 **16** And fell down on his face at his feet, giving him thanks: and he was a Samaritan.
 **17** And Jesus answering said, Were there not ten cleansed? but where are the nine?
@@ -28129,7 +28129,7 @@
 **31** So likewise you, when you see these things come to pass, know you that the kingdom of God is near at hand.
 **32*** Truly I say to you, This generation shall not pass away, till all be fulfilled.
 **33** Heaven and earth shall pass away: but my words shall not pass away.
-**34*** And take heed to yourselves, lest at any time your hearts be laden with excess, and drunkenness, and cares of this life, and so that day come upon you unawares.
+**34*** And take heed to yourself, lest at any time your hearts be laden with excess, and drunkenness, and cares of this life, and so that day come upon you unawares.
 **35** For as a snare shall it come on all them that dwell on the face of the whole earth.
 **36** Watch you therefore, and pray always, that you may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
 **37** And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives.
@@ -28152,7 +28152,7 @@
 **14** And when the hour was come, he sat down, and the twelve apostles with him.
 **15*** And he said to them, With desire I have desired to eat this passover with you before I suffer:
 **16*** For I say to you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.
-**17** And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:
+**17*** And he took the cup, and gave thanks, and said, Take this, and divide it among yourself:
 **18*** For I say to you, I will not drink of the fruit of the vine, until the kingdom of God shall come.
 **19*** And he took bread, and gave thanks, and broke it, and gave to them, saying, This is my body which is given for you: this do in remembrance of me.
 **20*** Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.
@@ -28236,7 +28236,7 @@
 **25** And he released to them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will.
 **26** And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus.
 **27** And there followed him a great company of people, and of women, which also bewailed and lamented him.
-**28*** But Jesus turning to them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.
+**28*** But Jesus turning to them said, Daughters of Jerusalem, weep not for me, but weep for yourself, and for your children.
 **29** For, behold, the days are coming, in the which they shall say, Blessed are the barren, and the wombs that never bare, and the paps which never gave suck.
 **30** Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us.
 **31** For if they do these things in a green tree, what shall be done in the dry?
@@ -28434,7 +28434,7 @@
 **25** Then there arose a question between some of John’s disciples and the Jews about purifying.
 **26** And they came to John, and said to him, Rabbi, he that was with you beyond Jordan, to whom you bare witness, behold, the same baptizes, and all men come to him.
 **27** John answered and said, A man can receive nothing, except it be given him from heaven.
-**28** You yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.
+**28*** You yourself bear me witness, that I said, I am not the Christ, but that I am sent before him.
 **29** He that has the bride is the bridegroom: but the friend of the bridegroom, which stands and hears him, rejoices greatly because of the bridegroom’s voice: this my joy therefore is fulfilled.
 **30*** He must increase, but I must diminish.
 **31** He that comes from above is above all: he that is of the earth is earthly, and speaks of the earth: he that comes from heaven is above all.
@@ -28592,7 +28592,7 @@
 **40** And this is the will of him that sent me, that every one which sees the Son, and believes on him, may have everlasting life: and I will raise him up at the last day.
 **41** The Jews then murmured at him, because he said, I am the bread which came down from heaven.
 **42** And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he says, I came down from heaven?
-**43** Jesus therefore answered and said to them, Murmur not among yourselves.
+**43*** Jesus therefore answered and said to them, Murmur not among yourself.
 **44** No man can come to me, except the Father which has sent me draw him: and I will raise him up at the last day.
 **45** It is written in the prophets, And they shall be all taught of God. Every man therefore that has heard, and has learned of the Father, comes to me.
 **46** Not that any man has seen the Father, save he which is of God, he has seen the Father.
@@ -29029,7 +29029,7 @@
 **17*** These things I command you, that you love one another.
 **18*** If the world hate you, you know that it hated me before it hated you.
 **19*** If you were of the world, the world would love his own: but because you are not of the world, but I have chosen you out of the world, therefore the world hates you.
-**20*** Remember the word that I said to you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
+**20*** Remember the word that I said to you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep your also.
 **21*** But all these things will they do to you for my name’s sake, because they know not him that sent me.
 **22*** If I had not come and spoken to them, they had not had sin: but now they have no cloke for their sin.
 **23** He that hates me hates my Father also.
@@ -29057,7 +29057,7 @@
 **16** A little while, and you shall not see me: and again, a little while, and you shall see me, because I go to the Father.
 **17** Then said some of his disciples among themselves, What is this that he says to us, A little while, and you shall not see me: and again, a little while, and you shall see me: and, Because I go to the Father?
 **18** They said therefore, What is this that he says, A little while? we cannot tell what he says.
-**19** Now Jesus knew that they were desirous to ask him, and said to them, Do you enquire among yourselves of that I said, A little while, and you shall not see me: and again, a little while, and you shall see me?
+**19*** Now Jesus knew that they were desirous to ask him, and said to them, Do you enquire among yourself of that I said, A little while, and you shall not see me: and again, a little while, and you shall see me?
 **20*** Truly, truly, I say to you, That you shall weep and lament, but the world shall rejoice: and you shall be sorrowful, but your sorrow shall be turned into joy.
 **21** A woman when she is in travail has sorrow, because her hour is come: but as soon as she is delivered of the child, she remembers no more the anguish, for joy that a man is born into the world.
 **22*** And you now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man takes from you.
@@ -29302,7 +29302,7 @@
 **19** And I will show wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:
 **20*** The sun shall be turned into darkness, and the moon into blood, before that great and terrible day of the Lord come:
 **21** And it shall come to pass, that whosoever shall call on the name of the Lord shall be saved.
-**22*** You men of Israel, hear these words; Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as you yourselves also know:
+**22*** You men of Israel, hear these words; Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as you yourself also know:
 **23*** Him, being delivered by the purposed counsel and purpose of God, you have taken, and by wicked hands have crucified and slain:
 **24*** Whom God has raised up, having loosed the pains of death: because it was not possible that he should be held of it.
 **25*** For David speaks concerning him, I saw the Lord always before my face, for he is on my right hand, that I should not be moved:
@@ -29320,7 +29320,7 @@
 **37*** Now when they heard this, they were pierced in their heart, and said to Peter and to the rest of the apostles, Men and brethren, what shall we do?
 **38*** Then Peter said to them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and you shall receive the gift of the spirit of the Lord.
 **39*** For the promise is to you, and to your children, and to all that are afar off, even as many as the Lord our God shall call.
-**40*** And with many other words did he testify and exhort, saying, Save yourselves from this perverse generation.
+**40*** And with many other words did he testify and exhort, saying, Save yourself from this perverse generation.
 **41** Then they that gladly received his word were baptized: and the same day there were added to them about three thousand souls.
 **42** And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.
 **43** And fear came upon every soul: and many wonders and signs were done by the apostles.
@@ -29431,7 +29431,7 @@
 **32*** And we are his witnesses of these things; and so is also the spirit of the Lord, whom God has given to them that obey him.
 **33** When they heard that, they were cut to the heart, and took counsel to slay them.
 **34*** Then stood there up one in the council, a Pharisee, named Gamaliel, a teacher of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;
-**35** And said to them, You men of Israel, take heed to yourselves what you intend to do as touching these men.
+**35*** And said to them, You men of Israel, take heed to yourself what you intend to do as touching these men.
 **36*** For before these days rose up Theudas, boasting himself to be some man; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.
 **37*** After this man rose up Judas of Galilee in the days of the numbering, and drew away much people after him: he also perished; and all, even as many as obeyed him, were dispersed.
 **38*** And now I say to you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:
@@ -29761,7 +29761,7 @@
 **43*** Now when the congregation was broken up, many of the Jews and devout converts followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God.
 **44** And the next sabbath day came almost the whole city together to hear the word of God.
 **45*** But when the Jews saw the multitudes, they were filled with envy, and spoke against those things which were spoken by Paul, gainsaying and blaspheming.
-**46*** Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing you put it from you, and judge yourselves not worthy of everlasting life, lo, we turn to the Gentiles.
+**46*** Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing you put it from you, and judge yourself not worthy of everlasting life, lo, we turn to the Gentiles.
 **47** For so has the Lord commanded us, saying, I have set you to be a light of the Gentiles, that you should be for salvation to the ends of the earth.
 **48** And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
 **49** And the word of the Lord was published throughout all the region.
@@ -29828,7 +29828,7 @@
 **26*** Men that have given up their lives for the name of our Lord Jesus Christ.
 **27*** We have sent therefore Judas and Silas, who shall also tell you the same things by mouth.
 **28*** For it seemed good to the spirit of the Lord, and to us, to lay upon you no greater burden than these necessary things;
-**29** That you abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if you keep yourselves, you shall do well. Fare you well.
+**29*** That you abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if you keep yourself, you shall do well. Fare you well.
 **30*** So when they parted, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:
 **31** Which when they had read, they rejoiced for the consolation.
 **32** And Judas and Silas, being prophets also themselves, exhorted the brethren with many words, and confirmed them. 
@@ -30003,7 +30003,7 @@
 **7** And upon the first day of the week, when the disciples came together to break bread, Paul preached to them, ready to depart on the morrow; and continued his speech until midnight.
 **8** And there were many lights in the upper chamber, where they were gathered together.
 **9*** And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third chamber, and was taken up dead.
-**10** And Paul went down, and fell on him, and embracing him said, Trouble not yourselves; for his life is in him.
+**10*** And Paul went down, and fell on him, and embracing him said, Trouble not yourself; for his life is in him.
 **11** When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed.
 **12** And they brought the young man alive, and were not a little comforted.
 **13*** And we went before to ship, and sailed to Assos, there intending to take in Paul: for so had he appointed, minding himself to go on foot.
@@ -30021,13 +30021,13 @@
 **25** And now, behold, I know that you all, among whom I have gone preaching the kingdom of God, shall see my face no more.
 **26*** Wherefore I take you to record this day, that I am pure from the blood of all men. 
 **27*** For I have not kept back to declare to you the whole counsel of God.
-**28*** Take heed therefore to yourselves, and to all the flock, over the which the spirit of the Lord has made you overseers, to feed the church of God, which he has purchased with his own blood.
+**28*** Take heed therefore to yourself, and to all the flock, over the which the spirit of the Lord has made you overseers, to feed the church of God, which he has purchased with his own blood.
 **29*** For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
 **30*** Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 **31** Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
 **32*** And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.
 **33** I have coveted no man’s silver, or gold, or apparel.
-**34** Yes, you yourselves know, that these hands have ministered to my necessities, and to them that were with me.
+**34*** Yes, you yourself know, that these hands have ministered to my necessities, and to them that were with me.
 **35*** I have showed you all things, how that so labouring you ought to help the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 **36** And when he had thus spoken, he kneeled down, and prayed with them all.
 **37** And they all wept sore, and fell on Paul’s neck, and kissed him,
@@ -30673,10 +30673,10 @@
 **13** Distributing to the necessity of saints; given to hospitality.
 **14*** Bless them which persecute you: bless, and curse not.
 **15** Rejoice with them that do rejoice, and weep with them that weep.
-**16*** Be of the same mind one toward another. Mind not high things, but make yourselves equal to men of low estate. Be not wise in your own eyes.
+**16*** Be of the same mind one toward another. Mind not high things, but make yourself equal to men of low estate. Be not wise in your own eyes.
 **17** Recompense to no man evil for evil. Provide things honest in the sight of all men.
 **18*** If it be possible, as much as lies in you, live peaceably with all men.
-**19** Dearly beloved, avenge not yourselves, but rather give place to wrath: for it is written, Vengeance is mine; I will repay, says the Lord.
+**19*** Dearly beloved, avenge not yourself, but rather give place to wrath: for it is written, Vengeance is mine; I will repay, says the Lord.
 **20** Therefore if your enemy hunger, feed him; if he thirst, give him drink: for in so doing you shall heap coals of fire on his head.
 **21** Be not overcome of evil, but overcome evil with good. 
 ### Chapter 13
@@ -30862,8 +30862,8 @@
 **18*** Let no man deceive himself. If any man among you seems to be wise in this world, let him become a fool, that he may be wise.
 **19** For the wisdom of this world is foolishness with God. For it is written, He takes the wise in their own craftiness.
 **20** And again, The Lord knows the thoughts of the wise, that they are vain.
-**21** Therefore let no man glory in men. For all things are yours;
-**22** Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
+**21*** Therefore let no man glory in men. For all things are your;
+**22*** Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are your;
 **23** And you are Christ’s; and Christ is God’s. 
 ### Chapter 4
 
@@ -30902,7 +30902,7 @@
 **10** Yet not altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must you needs go out of the world.
 **11*** But now I have written to you not to keep company, if any man that is called a brother be a whoremonger, or covetous, or a worshipper of idols, or a scorner, or a drunkard, or an extortioner; with such an one no not to eat.
 **12** For what have I to do to judge them also that are without? do not you judge them that are within?
-**13** But them that are without God judges. Therefore put away from among yourselves that wicked person. 
+**13*** But them that are without God judges. Therefore put away from among yourself that wicked person. 
 ### Chapter 6
 
 **1*** Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
@@ -30911,7 +30911,7 @@
 **4** If then you have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.
 **5*** I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
 **6** But brother goes to law with brother, and that before the unbelievers.
-**7*** Now therefore there is utterly a fault among you, because you go to law one with another. Why do you not rather take wrong? why do you not rather suffer yourselves to be defrauded?
+**7*** Now therefore there is utterly a fault among you, because you go to law one with another. Why do you not rather take wrong? why do you not rather suffer yourself to be defrauded?
 **8*** No, you do wrong, and defraud, and that your brethren.
 **9*** Know you not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor soft, nor them which defile themselves with mankind,
 **10*** Nor thieves, nor covetous, nor drunkards, nor backbiters, nor extortioners, shall inherit the kingdom of God.
@@ -30931,7 +30931,7 @@
 **2** Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband.
 **3*** Let the husband render to the wife her due: and likewise also the wife to the husband.
 **4** The wife has not power of her own body, but the husband: and likewise also the husband has not power of his own body, but the wife.
-**5*** Defraud you not one the other, except it be with consent for a time, that you may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your excess.
+**5*** Defraud you not one the other, except it be with consent for a time, that you may give yourself to fasting and prayer; and come together again, that Satan tempt you not for your excess.
 **6*** But I speak this by leave, and not of commandment.
 **7** For I would that all men were even as I myself. But every man has his proper gift of God, one after this manner, and another after that.
 **8** I say therefore to the unmarried and widows, It is good for them if they abide even as I.
@@ -30977,7 +30977,7 @@
 **6** But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him.
 **7** However there is not in every man that knowledge: for some with conscience of the idol to this hour eat it as a thing offered to an idol; and their conscience being weak is defiled.
 **8** But meat commends us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse.
-**9*** But take heed lest by any means this liberty of yours become a stumbling block to them that are weak.
+**9*** But take heed lest by any means this liberty of your become a stumbling block to them that are weak.
 **10*** For if any man see you which have knowledge sit at meat in the idol's temple, shall not the conscience of him which is weak be strengthened to eat those things which are offered to idols;
 **11** And through your knowledge shall the weak brother perish, for whom Christ died?
 **12** But when you sin so against the brethren, and wound their weak conscience, you sin against Christ.
@@ -31060,7 +31060,7 @@
 **10** For this cause ought the woman to have power on her head because of the angels.
 **11** Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.
 **12** For as the woman is of the man, even so is the man also by the woman; but all things of God.
-**13** Judge in yourselves: is it comely that a woman pray to God uncovered?
+**13*** Judge in yourself: is it comely that a woman pray to God uncovered?
 **14*** Does not even nature itself teach you, that, if a man have long hair, it is a shame to him?
 **15** But if a woman have long hair, it is a glory to her: for her hair is given her for a covering.
 **16** But if any man seem to be contentious, we have no such custom, neither the churches of God.
@@ -31249,9 +31249,9 @@
 **13*** Watch you, stand fast in the faith, quit you like men, be strong.
 **14*** Let all your things be done with love.
 **15*** I beseech you, brethren, you know the house of Stephanas, that it is the firstfruits of Achaia, and that they have devoted themselves to the ministry of the saints,
-**16** That you submit yourselves to such, and to every one that helps with us, and labours.
+**16*** That you submit yourself to such, and to every one that helps with us, and labours.
 **17*** I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.
-**18** For they have refreshed my spirit and yours: therefore acknowledge you them that are such.
+**18*** For they have refreshed my spirit and your: therefore acknowledge you them that are such.
 **19*** The churches of Asia greet you. Aquila and Priscilla greet you much in the Lord, with the church that is in their house.
 **20*** All the brethren greet you. Greet you one another with an holy kiss.
 **21*** The greeting of me Paul with mine own hand.
@@ -31403,7 +31403,7 @@
 **8*** For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle has made you sorry, though it were but for a season.
 **9** Now I rejoice, not that you were made sorry, but that you sorrowed to repentance: for you were made sorry after a godly manner, that you might receive damage by us in nothing.
 **10** For godly sorrow works repentance to salvation not to be repented of: but the sorrow of the world works death.
-**11*** For behold this selfsame thing, that you sorrowed after a godly sort, what carefulness it wrought in you, yes, what clearing of yourselves, yes, what indignation, yes, what fear, yes, what vehement desire, yes, what zeal, yes, what revenge! In all things you have approved yourselves to be clear in this matter.
+**11*** For behold this selfsame thing, that you sorrowed after a godly sort, what carefulness it wrought in you, yes, what clearing of yourself, yes, what indignation, yes, what fear, yes, what vehement desire, yes, what zeal, yes, what revenge! In all things you have approved yourself to be clear in this matter.
 **12*** Wherefore, though I wrote to you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear to you.
 **13*** Therefore we were comforted in your comfort: yes, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.
 **14*** For if I have boasted any thing to him of you, I am not ashamed; but as we spoke all things to you in truth, even so our boasting, which I made before Titus, is found a truth.
@@ -31492,7 +31492,7 @@
 **16** I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.
 **17** That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting.
 **18** Seeing that many glory after the flesh, I will glory also.
-**19** For you suffer fools gladly, seeing you yourselves are wise.
+**19*** For you suffer fools gladly, seeing you yourself are wise.
 **20*** For you suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man smite you on the face.
 **21*** I speak as concerning reproach, as though we had been weak. However wherein any is bold, I speak foolishly, I am bold also.
 **22** Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.
@@ -31522,7 +31522,7 @@
 **11*** I am become a fool in glorying; you have compelled me: for I ought to have been commended of you: for in nothing am I behind the very greatest apostles, though I be nothing.
 **12*** Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
 **13*** For what is it wherein you were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.
-**14*** Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.
+**14*** Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not your, but you: for the children ought not to lay up for the parents, but the parents for the children.
 **15*** And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.
 **16*** But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.
 **17*** Did I make a gain of you by any of them whom I sent to you?
@@ -31536,7 +31536,7 @@
 **2*** I told you before, and tell you before, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:
 **3*** Since you seek a truth of Christ speaking in me, which to you-ward is not weak, but is mighty in you.
 **4*** For though he was crucified through weakness, yet he lives by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
-**5*** Examine yourselves, whether you be in the faith; prove your own selves. Know you not your own selves, how that Jesus Christ is in you, except you be reprobates?
+**5*** Examine yourself, whether you be in the faith; prove your own selves. Know you not your own selves, how that Jesus Christ is in you, except you be reprobates?
 **6** But I trust that you shall know that we are not reprobates.
 **7** Now I pray to God that you do no evil; not that we should appear approved, but that you should do that which is honest, though we be as reprobates.
 **8** For we can do nothing against the truth, but for the truth.
@@ -31751,7 +31751,7 @@
 **5*** Even when we were dead in sins, has quickened us together with Christ, by grace you are saved;
 **6** And has raised us up together, and made us sit together in heavenly places in Christ Jesus:
 **7** That in the ages to come he might show the exceeding riches of his grace in his kindness toward us through Christ Jesus.
-**8** For by grace are you saved through faith; and that not of yourselves: it is the gift of God:
+**8*** For by grace are you saved through faith; and that not of yourself: it is the gift of God:
 **9** Not of works, lest any man should boast.
 **10** For we are his workmanship, created in Christ Jesus to good works, which God has before ordained that we should walk in them.
 **11** Wherefore remember, that you being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
@@ -31843,10 +31843,10 @@
 **16** Redeeming the time, because the days are evil.
 **17** Wherefore be you not unwise, but understanding what the will of the Lord is. 
 **18*** And be not drank with wine, wherein is excess; but be filled with the Spirit;
-**19*** Speaking to yourselves in psalms and praises and spiritual songs, singing and making melody in your heart to the Lord;
+**19*** Speaking to yourself in psalms and praises and spiritual songs, singing and making melody in your heart to the Lord;
 **20** Giving thanks always for all things to God and the Father in the name of our Lord Jesus Christ;
-**21** Submitting yourselves one to another in the fear of God.
-**22*** Wives, submit yourselves to your own husbands, as to the Lord.
+**21*** Submitting yourself one to another in the fear of God.
+**22*** Wives, submit yourself to your own husbands, as to the Lord.
 **23** For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
 **24** Therefore as the church is subject to Christ, so let the wives be to their own husbands in every thing.
 **25*** Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
@@ -32128,7 +32128,7 @@
 **10** And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come. 
 ### Chapter 2
 
-**1*** For yourselves, brethren, know our entrance in to you, that it was not in vain:
+**1*** For yourself, brethren, know our entrance in to you, that it was not in vain:
 **2*** But even after that we had suffered before, and were shamefully entreated, as you know, at Philippi, we were bold in our God to speak to you the gospel of God with much contention.
 **3** For our exhortation was not of deceit, nor of uncleanness, nor in guile:
 **4** But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which tries our hearts.
@@ -32152,7 +32152,7 @@
 
 **1** Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;
 **2*** And sent Timothy, our brother, and minister of God, and our helper in the gospel of Christ, to establish you, and to comfort you concerning your faith:
-**3** That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.
+**3*** That no man should be moved by these afflictions: for yourself know that we are appointed thereunto.
 **4*** For truly, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and you know.
 **5*** For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the wicked one have tempted you, and our labour be in vain.
 **6*** But now when Timothy came from you to us, and brought us good tidings of your faith and love, and that you have good remembrance of us always, desiring greatly to see us, as we also to see you:
@@ -32173,7 +32173,7 @@
 **6*** That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have warned you and testified.
 **7** For God has not called us to uncleanness, but to holiness.
 **8*** He therefore that despises, despises not man, but God, who has also given to us the spirit of the Lord.
-**9*** But as touching brotherly love you need not that I write to you: for you yourselves are taught of God to love one another.
+**9*** But as touching brotherly love you need not that I write to you: for you yourself are taught of God to love one another.
 **10*** And indeed you do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that you increase more and more;
 **11*** And that you study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;
 **12** That you may walk honestly toward them that are without, and that you may have lack of nothing.
@@ -32186,7 +32186,7 @@
 ### Chapter 5
 
 **1*** But of the times and the seasons, brethren, you have no need that I write to you.
-**2** For yourselves know perfectly that the day of the Lord so comes as a thief in the night.
+**2*** For yourself know perfectly that the day of the Lord so comes as a thief in the night.
 **3** For when they shall say, Peace and safety; then sudden destruction comes upon them, as travail upon a woman with child; and they shall not escape.
 **4*** But you, brethren, are not in darkness, that that day should overtake you as a thief.
 **5** You are all the children of light, and the children of the day: we are not of the night, nor of darkness.
@@ -32195,11 +32195,11 @@
 **8** But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.
 **9** For God has not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,
 **10** Who died for us, that, whether we wake or sleep, we should live together with him.
-**11** Wherefore comfort yourselves together, and edify one another, even as also you do.
+**11*** Wherefore comfort yourself together, and edify one another, even as also you do.
 **12*** And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;
-**13** And to esteem them very highly in love for their work’s sake. And be at peace among yourselves.
+**13*** And to esteem them very highly in love for their work’s sake. And be at peace among yourself.
 **14*** Now we exhort you, brethren, warn them that are unruly, comfort the fainthearted, help the weak, be patient toward all men.
-**15** See that none render evil for evil to any man; but ever follow that which is good, both among yourselves, and to all men. 
+**15*** See that none render evil for evil to any man; but ever follow that which is good, both among yourself, and to all men. 
 **16** Rejoice evermore.
 **17** Pray without ceasing.
 **18*** In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
@@ -32258,8 +32258,8 @@
 **3*** But the Lord is faithful, who shall stablish you, and keep you from evil.
 **4*** And we have confidence in the Lord touching you, that you both do and will do the things which we command you.
 **5*** And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.
-**6*** Now we command you, brethren, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother that walks astray, and not after the tradition which he received of us.
-**7*** For yourselves know how you ought to follow us: for we behaved not ourselves astray among you;
+**6*** Now we command you, brethren, in the name of our Lord Jesus Christ, that you withdraw yourself from every brother that walks astray, and not after the tradition which he received of us.
+**7*** For yourself know how you ought to follow us: for we behaved not ourselves astray among you;
 **8*** Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
 **9*** Not because we have not power, but to make ourselves an ensample to you to follow us.
 **10*** For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
@@ -32814,7 +32814,7 @@
 **31*** It is a terrible thing to fall into the hands of the living God.
 **32*** But call to remembrance the former days, in which, after you were light, you endured a great fight of afflictions;
 **33*** Partly, whilst you were made an open show both by reproaches and afflictions; and partly, whilst you became companions of them that were so used.
-**34*** For you had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that you have in heaven a better and an enduring substance.
+**34*** For you had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourself that you have in heaven a better and an enduring substance.
 **35*** Cast not away therefore your confidence, which has great recompence of reward.
 **36** For you have need of patience, that, after you have done the will of God, you might receive the promise.
 **37** For yet a little while, and he that shall come will come, and will not tarry.
@@ -32897,7 +32897,7 @@
 
 **1** Let brotherly love continue.
 **2*** Forget not to lodge strangers: for thereby some have lodged angels unawares.
-**3** Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.
+**3*** Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourself also in the body.
 **4** Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.
 **5*** Let your conversation be without covetousness; and be content with such things as you have: for he has said, I will never leave you, nor forsake you.
 **6** So that we may boldly say, The Lord is my helper, and I will not fear what man shall do to me.
@@ -32911,7 +32911,7 @@
 **14** For here have we no continuing city, but we seek one to come.
 **15** By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.
 **16** But to do good and to communicate forget not: for with such sacrifices God is well pleased.
-**17*** Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.
+**17*** Obey them that have the rule over you, and submit yourself: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.
 **18** Pray for us: for we trust we have a good conscience, in all things willing to live honestly.
 **19*** But I beseech you the rather to do this, that I may be restored to you more quickly.
 **20** Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,
@@ -32959,7 +32959,7 @@
 **1** My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.
 **2*** For if there come to your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;
 **3*** And you have respect to him that wears the fine apparel, and say to him, Sit you here in a good place; and say to the poor, Stand you there, or sit here by my footstool:
-**4*** Do you not then make a difference among yourselves, and are become judges of evil thoughts?
+**4*** Do you not then make a difference among yourself, and are become judges of evil thoughts?
 **5** Listen, my beloved brethren, Has not God chosen the poor of this world rich in faith, and heirs of the kingdom which he has promised to them that love him?
 **6*** But you have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?
 **7** Do not they blaspheme that worthy name by the which you are called?
@@ -33010,10 +33010,10 @@
 **4*** You adulterers and adulteresses, know you not that to be a friend of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
 **5** Do you think that the scripture says in vain, The spirit that dwells in us lusts to envy?
 **6** But he gives more grace. Wherefore he says, God resists the proud, but gives grace to the humble.
-**7*** Submit yourselves therefore to God. Resist the devil, and he will flee from you.
+**7*** Submit yourself therefore to God. Resist the devil, and he will flee from you.
 **8*** Draw near to God, and he will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double minded.
 **9*** Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness.
-**10*** Humble yourselves in the sight of the Lord, and he shall lift you up.
+**10*** Humble yourself in the sight of the Lord, and he shall lift you up.
 **11** Speak not evil one of another, brethren. He that speaks evil of his brother, and judges his brother, speaks evil of the law, and judges the law: but if you judge the law, you are not a doer of the law, but a judge.
 **12** There is one lawgiver, who is able to save and to destroy: who are you that judge another?
 **13** Go to now, you that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:
@@ -33063,7 +33063,7 @@
 **11** Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 **12*** To whom it was revealed, that not to themselves, but to us they did minister the things, which are now reported to you by them that have preached the gospel to you with the spirit of the Lord sent down from heaven; which things the angels desire to look into.
 **13*** Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought to you at the revelation of Jesus Christ;
-**14*** As obedient children, not fashioning yourselves according to the former lusts in your ignorance:
+**14*** As obedient children, not fashioning yourself according to the former lusts in your ignorance:
 **15*** But as he which has called you is holy, so be you holy in all manner of conversation;
 **16** Because it is written, Be you holy; for I am holy.
 **17*** And if you call on the Father, who without respect of persons judges according to every man’s work, pass the time of your sojourning here in fear:
@@ -33089,7 +33089,7 @@
 **10** Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.
 **11*** Dearly beloved, I beseech you as strangers and sojourners, abstain from fleshly lusts, which war against the soul;
 **12*** Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation.
-**13*** Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as the highest;
+**13*** Submit yourself to every ordinance of man for the Lord's sake: whether it be to the king, as the highest;
 **14** Or to governors, as to them that are sent by him for the punishment of evildoers, and for the praise of them that do well.
 **15** For so is the will of God, that with well doing you may put to silence the ignorance of foolish men:
 **16*** As free, and not using your liberty for a cloke of wickedness, but as the servants of God.
@@ -33128,14 +33128,14 @@
 **22** Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject to him. 
 ### Chapter 4
 
-**1** Forasmuch then as Christ has suffered for us in the flesh, arm yourselves likewise with the same mind: for he that has suffered in the flesh has ceased from sin;
+**1*** Forasmuch then as Christ has suffered for us in the flesh, arm yourself likewise with the same mind: for he that has suffered in the flesh has ceased from sin;
 **2** That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.
 **3*** For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, rioting, feasts, and abominable idolatries:
 **4*** Wherein they think it strange that you run not with them to the same excess of riot, speaking evil of you: 
 **5** Who shall give account to him that is ready to judge the quick and the dead.
 **6** For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.
 **7** But the end of all things is at hand: be you therefore sober, and watch to prayer.
-**8*** And above all things have fervent love among yourselves: for love shall cover the multitude of sins.
+**8*** And above all things have fervent love among yourself: for love shall cover the multitude of sins.
 **9** Use hospitality one to another without grudging.
 **10*** As every man has received the gift, even so minister the same one to another, as good stewards of the abundant grace of God.
 **11** If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.
@@ -33153,8 +33153,8 @@
 **2*** Feed the flock of God which is among you, taking the oversight thereof, not by necessity, but willingly; not for filthy lucre, but of a ready mind;
 **3** Neither as being lords over God’s heritage, but being ensamples to the flock.
 **4*** And when the head Shepherd shall appear, you shall receive a crown of glory that fades not away.
-**5*** Likewise, you younger, submit yourselves to the elder. Yes, all of you be subject one to another, and be clothed with humility: for God resists the proud, and gives grace to the humble.
-**6*** Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
+**5*** Likewise, you younger, submit yourself to the elder. Yes, all of you be subject one to another, and be clothed with humility: for God resists the proud, and gives grace to the humble.
+**6*** Humble yourself therefore under the mighty hand of God, that he may exalt you in due time:
 **7*** Casting all your cares upon Him, for He cares for you.
 **8*** Be sober, and watch; because your adversary the devil, as a roaring lion, walks about, seeking whom he may devour:
 **9*** Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.
@@ -33354,7 +33354,7 @@
 **18** We know that whosoever is born of God sins not; but he that is begotten of God keeps himself, and that wicked one touches him not.
 **19** And we know that we are of God, and the whole world lies in wickedness.
 **20** And we know that the Son of God is come, and has given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
-**21** Little children, keep yourselves from idols. Amen.  
+**21*** Little children, keep yourself from idols. Amen.  
 
 ## II John
 
@@ -33369,7 +33369,7 @@
 **5** And now I beseech you, lady, not as though I wrote a new commandment to you, but that which we had from the beginning, that we love one another.
 **6** And this is love, that we walk after his commandments. This is the commandment, That, as you have heard from the beginning, you should walk in it.
 **7** For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
-**8** Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.
+**8*** Look to yourself, that we lose not those things which we have wrought, but that we receive a full reward.
 **9** Whosoever transgresses, and abides not in the doctrine of Christ, has not God. He that abides in the doctrine of Christ, he has both the Father and the Son.
 **10*** If there come any to you, and bring not this doctrine, receive him not into your house, neither bid him God speed:
 **11** For he that bids him God speed is partaker of his evil deeds.
@@ -33422,8 +33422,8 @@
 **17** But, beloved, remember you the words which were spoken before of the apostles of our Lord Jesus Christ;
 **18*** How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.
 **19*** These be they who separate themselves, natural, having not the Spirit.
-**20*** But you, beloved, building up yourselves on your most holy faith, praying in the spirit of the Lord,
-**21** Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ to eternal life.
+**20*** But you, beloved, building up yourself on your most holy faith, praying in the spirit of the Lord,
+**21*** Keep yourself in the love of God, looking for the mercy of our Lord Jesus Christ to eternal life.
 **22** And of some have compassion, making a difference:
 **23** And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.
 **24*** Now to him that is able to keep you from falling, and to present you blameless before the presence of his glory with exceeding joy,
@@ -33807,7 +33807,7 @@
 **14** And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean.
 **15** And out of his mouth goes a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treads the winepress of the fierceness and wrath of Almighty God.
 **16** And he has on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.
-**17** And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together to the supper of the great God;
+**17*** And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourself together to the supper of the great God;
 **18** That you may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great.
 **19** And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army.
 **20** And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
@@ -34198,6 +34198,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 18:4** (#19201)
   - was: Let a little water, I pray thee, be fetched, and wash thine feet, and rest yourselves under the tree:
   - now: Let a little water, I pray thee, be fetched, and wash thy feet, and rest yourselves under the tree:
+- **Genesis 18:4** (#20423)
+  - was: Let a little water, I pray thee, be fetched, and wash thy feet, and rest yourselves under the tree:
+  - now: Let a little water, I pray thee, be fetched, and wash thy feet, and rest thyself under the tree:
 - **Genesis 18:5** (#14830)
   - was: And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said.
   - now: And I will fetch a morsel of bread, and comfort ye thine hearts; after that ye shall pass on: for therefore are ye come to thine servant. And they said, So do, as thou hast said.
@@ -34948,6 +34951,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 45:5** (#14882)
   - was: Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life.
   - now: Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before thee to preserve life.
+- **Genesis 45:5** (#20424)
+  - was: Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before thee to preserve life.
+  - now: Now therefore be not grieved, nor angry with thyself, that ye sold me hither: for God did send me before thee to preserve life.
 - **Genesis 45:6** (#3634)
   - was: For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be earing nor harvest.
   - now: For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be plowing nor harvest.
@@ -34987,6 +34993,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 45:20** (#19238)
   - was: Also regard not thine stuff; for the good of all the land of Egypt is yours.
   - now: Also regard not thy stuff; for the good of all the land of Egypt is yours.
+- **Genesis 45:20** (#20425)
+  - was: Also regard not thy stuff; for the good of all the land of Egypt is yours.
+  - now: Also regard not thy stuff; for the good of all the land of Egypt is thine.
 - **Genesis 45:23** (#11135)
   - was: And to his father he sent after this manner; ten asses laden with the good things of Egypt, and ten she asses laden with corn and bread and meat for his father by the way.
   - now: And to his father he sent after this manner; ten asses laden with the good things of Egypt, and ten she asses laden with wheat and bread and meat for his father by the way.
@@ -35041,12 +35050,18 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 49:1** (#14896)
   - was: And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
   - now: And Jacob called unto his sons, and said, Gather yourselves together, that I may tell thee that which shall befall thee in the last days.
+- **Genesis 49:1** (#20426)
+  - was: And Jacob called unto his sons, and said, Gather yourselves together, that I may tell thee that which shall befall thee in the last days.
+  - now: And Jacob called unto his sons, and said, Gather thyself together, that I may tell thee that which shall befall thee in the last days.
 - **Genesis 49:2** (#14897)
   - was: Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.
   - now: Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel thine father.
 - **Genesis 49:2** (#19243)
   - was: Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel thine father.
   - now: Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel thy father.
+- **Genesis 49:2** (#20427)
+  - was: Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel thy father.
+  - now: Gather thyself together, and hear, ye sons of Jacob; and hearken unto Israel thy father.
 - **Genesis 49:4** (#3635)
   - was: Unstable as water, thou shalt not excel; because thou wentest up to thy father’s bed; then defiledst thou it: he went up to my couch.
   - now: Unstable as water, thou shalt not excel; because thou wentest up to thy father's bed; then defiled thou it: he went up to my bed.
@@ -35605,6 +35620,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 19:5** (#10551)
   - was: Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:
   - now: Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a treasure unto me above all people: for all the earth is mine:
+- **Exodus 19:12** (#20428)
+  - was: And thou shalt set bounds unto the people round about, saying, Take heed to yourselves, that ye go not up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:
+  - now: And thou shalt set bounds unto the people round about, saying, Take heed to thyself, that ye go not up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:
 - **Exodus 19:15** (#14974)
   - was: And he said unto the people, Be ready against the third day: come not at your wives.
   - now: And he said unto the people, Be ready against the third day: come not at thine wives.
@@ -35938,6 +35956,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 30:37** (#4283)
   - was: And as for the perfume which thou shalt make, ye shall not make to yourselves according to the composition thereof: it shall be unto thee holy for the Lord.
   - now: And as for the perfume which thou shalt make, ye shall not make to yourselves according to the making thereof: it shall be unto thee holy for the Lord.
+- **Exodus 30:37** (#20429)
+  - was: And as for the perfume which thou shalt make, ye shall not make to yourselves according to the making thereof: it shall be unto thee holy for the Lord.
+  - now: And as for the perfume which thou shalt make, ye shall not make to thyself according to the making thereof: it shall be unto thee holy for the Lord.
 - **Exodus 31:5** (#4284)
   - was: And in cutting of stones, to set them, and in carving of timber, to work in all manner of workmanship.
   - now: And in cutting of stones, to set them, and in graving of timber, to work in all manner of workmanship.
@@ -35980,6 +36001,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 32:29** (#14998)
   - was: For Moses had said, Consecrate yourselves to day to the Lord, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.
   - now: For Moses had said, Consecrate yourselves to day to the Lord, even every man upon his son, and upon his brother; that he may bestow upon thee a blessing this day.
+- **Exodus 32:29** (#20430)
+  - was: For Moses had said, Consecrate yourselves to day to the Lord, even every man upon his son, and upon his brother; that he may bestow upon thee a blessing this day.
+  - now: For Moses had said, Consecrate thyself to day to the Lord, even every man upon his son, and upon his brother; that he may bestow upon thee a blessing this day.
 - **Exodus 32:30** (#14999)
   - was: And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the Lord; peradventure I shall make an atonement for your sin.
   - now: And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the Lord; peradventure I shall make an atonement for thine sin.
@@ -36385,12 +36409,18 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 11:38** (#15035)
   - was: But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto you.
   - now: But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto thee.
+- **Leviticus 11:43** (#20431)
+  - was: Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.
+  - now: Ye shall not make thyself abominable with any creeping thing that creepeth, neither shall ye make thyself unclean with them, that ye should be defiled thereby.
 - **Leviticus 11:44** (#15036)
   - was: For I am the Lord your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.
   - now: For I am the Lord thine God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.
 - **Leviticus 11:44** (#19302)
   - was: For I am the Lord thine God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.
   - now: For I am the Lord thy God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.
+- **Leviticus 11:44** (#20432)
+  - was: For I am the Lord thy God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.
+  - now: For I am the Lord thy God: ye shall therefore sanctify thyself, and ye shall be holy; for I am holy: neither shall ye defile thyself with any manner of creeping thing that creepeth upon the earth.
 - **Leviticus 11:45** (#15037)
   - was: For I am the Lord that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy.
   - now: For I am the Lord that bringeth thee up out of the land of Egypt, to be thine God: ye shall therefore be holy, for I am holy.
@@ -36523,6 +36553,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 18:24** (#15053)
   - was: Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:
   - now: Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before thee:
+- **Leviticus 18:24** (#20433)
+  - was: Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before thee:
+  - now: Defile not ye thyself in any of these things: for in all these the nations are defiled which I cast out before thee:
 - **Leviticus 18:26** (#15054)
   - was: Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:
   - now: Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of thine own nation, nor any stranger that sojourneth among thee:
@@ -36541,6 +36574,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 18:30** (#19311)
   - was: Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before thee, and that ye defile not yourselves therein: I am the Lord thine God. 
   - now: Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before thee, and that ye defile not yourselves therein: I am the Lord thy God. 
+- **Leviticus 18:30** (#20434)
+  - was: Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before thee, and that ye defile not yourselves therein: I am the Lord thy God. 
+  - now: Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before thee, and that ye defile not thyself therein: I am the Lord thy God. 
 - **Leviticus 19:2** (#15058)
   - was: Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the Lord your God am holy.
   - now: Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the Lord thine God am holy.
@@ -36559,6 +36595,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 19:4** (#19314)
   - was: Turn ye not unto idols, nor make to yourselves molten gods: I am the Lord thine God.
   - now: Turn ye not unto idols, nor make to yourselves molten gods: I am the Lord thy God.
+- **Leviticus 19:4** (#20435)
+  - was: Turn ye not unto idols, nor make to yourselves molten gods: I am the Lord thy God.
+  - now: Turn ye not unto idols, nor make to thyself molten gods: I am the Lord thy God.
 - **Leviticus 19:5** (#15061)
   - was: And if ye offer a sacrifice of peace offerings unto the Lord, ye shall offer it at your own will.
   - now: And if ye offer a sacrifice of peace offerings unto the Lord, ye shall offer it at thine own will.
@@ -36643,6 +36682,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 20:7** (#19323)
   - was: Sanctify yourselves therefore, and be ye holy: for I am the Lord thine God.
   - now: Sanctify yourselves therefore, and be ye holy: for I am the Lord thy God.
+- **Leviticus 20:7** (#20436)
+  - was: Sanctify yourselves therefore, and be ye holy: for I am the Lord thy God.
+  - now: Sanctify thyself therefore, and be ye holy: for I am the Lord thy God.
 - **Leviticus 20:8** (#15073)
   - was: And ye shall keep my statutes, and do them: I am the Lord which sanctify you.
   - now: And ye shall keep my statutes, and do them: I am the Lord which sanctify thee.
@@ -37270,6 +37312,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 11:18** (#15165)
   - was: And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the Lord, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore the Lord will give you flesh, and ye shall eat.
   - now: And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the Lord, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore the Lord will give thee flesh, and ye shall eat.
+- **Numbers 11:18** (#20437)
+  - was: And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the Lord, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore the Lord will give thee flesh, and ye shall eat.
+  - now: And say thou unto the people, Sanctify thyself against to morrow, and ye shall eat flesh: for ye have wept in the ears of the Lord, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore the Lord will give thee flesh, and ye shall eat.
 - **Numbers 11:20** (#15166)
   - was: But even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the Lord which is among you, and have wept before him, saying, Why came we forth out of Egypt?
   - now: But even a whole month, until it come out at thine nostrils, and it be loathsome unto thee: because that ye have despised the Lord which is among thee, and have wept before him, saying, Why came we forth out of Egypt?
@@ -37432,6 +37477,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 16:3** (#15191)
   - was: And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift ye up yourselves above the congregation of the Lord?
   - now: And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon thee, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift ye up yourselves above the congregation of the Lord?
+- **Numbers 16:3** (#20438)
+  - was: And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon thee, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift ye up yourselves above the congregation of the Lord?
+  - now: And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon thee, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift ye up thyself above the congregation of the Lord?
 - **Numbers 16:6** (#15192)
   - was: This do; Take you censers, Korah, and all his company;
   - now: This do; Take thee censers, Korah, and all his company;
@@ -37447,6 +37495,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 16:17** (#15196)
   - was: And take every man his censer, and put incense in them, and bring ye before the Lord every man his censer, two hundred and fifty censers; thou also, and Aaron, each of you his censer.
   - now: And take every man his censer, and put incense in them, and bring ye before the Lord every man his censer, two hundred and fifty censers; thou also, and Aaron, each of thee his censer.
+- **Numbers 16:21** (#20439)
+  - was: Separate yourselves from among this congregation, that I may consume them in a moment.
+  - now: Separate thyself from among this congregation, that I may consume them in a moment.
 - **Numbers 16:24** (#15197)
   - was: Speak unto the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram.
   - now: Speak unto the congregation, saying, Get thee up from about the tabernacle of Korah, Dathan, and Abiram.
@@ -37675,12 +37726,21 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 30:5** (#5920)
   - was: But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the Lord shall forgive her, because her father disallowed her.
   - now: But if her father withstand her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the Lord shall forgive her, because her father disallowed her.
+- **Numbers 31:3** (#20440)
+  - was: And Moses spake unto the people, saying, Arm some of yourselves unto the war, and let them go against the Midianites, and avenge the Lord of Midian.
+  - now: And Moses spake unto the people, saying, Arm some of thyself unto the war, and let them go against the Midianites, and avenge the Lord of Midian.
+- **Numbers 31:18** (#20441)
+  - was: But all the women children, that have not known a man by lying with him, keep alive for yourselves.
+  - now: But all the women children, that have not known a man by lying with him, keep alive for thyself.
 - **Numbers 31:19** (#15228)
   - was: And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and your captives on the third day, and on the seventh day.
   - now: And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and thine captives on the third day, and on the seventh day.
 - **Numbers 31:19** (#19402)
   - was: And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and thine captives on the third day, and on the seventh day.
   - now: And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and thy captives on the third day, and on the seventh day.
+- **Numbers 31:19** (#20442)
+  - was: And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and thy captives on the third day, and on the seventh day.
+  - now: And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both thyself and thy captives on the third day, and on the seventh day.
 - **Numbers 31:20** (#15229)
   - was: And purify all your raiment, and all that is made of skins, and all work of goats’ hair, and all things made of wood.
   - now: And purify all thine raiment, and all that is made of skins, and all work of goats’ hair, and all things made of wood.
@@ -38074,6 +38134,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 2:4** (#19440)
   - was: And command thou the people, saying, Ye are to pass through the coast of thine brethren the children of Esau, which dwell in Seir; and they shall be afraid of thee: take ye good heed unto yourselves therefore:
   - now: And command thou the people, saying, Ye are to pass through the coast of thy brethren the children of Esau, which dwell in Seir; and they shall be afraid of thee: take ye good heed unto yourselves therefore:
+- **Deuteronomy 2:4** (#20443)
+  - was: And command thou the people, saying, Ye are to pass through the coast of thy brethren the children of Esau, which dwell in Seir; and they shall be afraid of thee: take ye good heed unto yourselves therefore:
+  - now: And command thou the people, saying, Ye are to pass through the coast of thy brethren the children of Esau, which dwell in Seir; and they shall be afraid of thee: take ye good heed unto thyself therefore:
 - **Deuteronomy 2:5** (#15289)
   - was: Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau for a possession.
   - now: Meddle not with them; for I will not give thee of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau for a possession.
@@ -38194,9 +38257,15 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 4:15** (#15308)
   - was: Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the Lord spake unto you in Horeb out of the midst of the fire:
   - now: Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the Lord spake unto thee in Horeb out of the midst of the fire:
+- **Deuteronomy 4:15** (#20444)
+  - was: Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the Lord spake unto thee in Horeb out of the midst of the fire:
+  - now: Take ye therefore good heed unto thyself; for ye saw no manner of similitude on the day that the Lord spake unto thee in Horeb out of the midst of the fire:
 - **Deuteronomy 4:16** (#15309)
   - was: Lest ye corrupt yourselves, and make you a graven image, the similitude of any figure, the likeness of male or female,
   - now: Lest ye corrupt yourselves, and make thee a graven image, the similitude of any figure, the likeness of male or female,
+- **Deuteronomy 4:16** (#20445)
+  - was: Lest ye corrupt yourselves, and make thee a graven image, the similitude of any figure, the likeness of male or female,
+  - now: Lest ye corrupt thyself, and make thee a graven image, the similitude of any figure, the likeness of male or female,
 - **Deuteronomy 4:20** (#15310)
   - was: But the Lord hath taken you, and brought you forth out of the iron furnace, even out of Egypt, to be unto him a people of inheritance, as ye are this day.
   - now: But the Lord hath taken thee, and brought thee forth out of the iron furnace, even out of Egypt, to be unto him a people of inheritance, as ye are this day.
@@ -38212,6 +38281,12 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 4:23** (#19453)
   - was: Take heed unto yourselves, lest ye forget the covenant of the Lord thine God, which he made with thee, and make thee a graven image, or the likeness of any thing, which the Lord thy God hath forbidden thee.
   - now: Take heed unto yourselves, lest ye forget the covenant of the Lord thy God, which he made with thee, and make thee a graven image, or the likeness of any thing, which the Lord thy God hath forbidden thee.
+- **Deuteronomy 4:23** (#20446)
+  - was: Take heed unto yourselves, lest ye forget the covenant of the Lord thy God, which he made with thee, and make thee a graven image, or the likeness of any thing, which the Lord thy God hath forbidden thee.
+  - now: Take heed unto thyself, lest ye forget the covenant of the Lord thy God, which he made with thee, and make thee a graven image, or the likeness of any thing, which the Lord thy God hath forbidden thee.
+- **Deuteronomy 4:25** (#20447)
+  - was: When thou shalt beget children, and children’s children, and ye shall have remained long in the land, and shall corrupt yourselves, and make a graven image, or the likeness of any thing, and shall do evil in the sight of the Lord thy God, to provoke him to anger:
+  - now: When thou shalt beget children, and children’s children, and ye shall have remained long in the land, and shall corrupt thyself, and make a graven image, or the likeness of any thing, and shall do evil in the sight of the Lord thy God, to provoke him to anger:
 - **Deuteronomy 4:26** (#15313)
   - was: I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong your days upon it, but shall utterly be destroyed.
   - now: I call heaven and earth to witness against thee this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong thine days upon it, but shall utterly be destroyed.
@@ -38497,6 +38572,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 11:16** (#15362)
   - was: Take heed to yourselves, that your heart be not deceived, and ye turn aside, and serve other gods, and worship them;
   - now: Take heed to yourselves, that thine heart be not deceived, and ye turn aside, and serve other gods, and worship them;
+- **Deuteronomy 11:16** (#20448)
+  - was: Take heed to yourselves, that thine heart be not deceived, and ye turn aside, and serve other gods, and worship them;
+  - now: Take heed to thyself, that thine heart be not deceived, and ye turn aside, and serve other gods, and worship them;
 - **Deuteronomy 11:17** (#15363)
   - was: And then the Lord’s wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and lest ye perish quickly from off the good land which the Lord giveth you.
   - now: And then the Lord’s wrath be kindled against thee, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and lest ye perish quickly from off the good land which the Lord giveth thee.
@@ -38530,12 +38608,18 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 11:23** (#15368)
   - was: Then will the Lord drive out all these nations from before you, and ye shall possess greater nations and mightier than yourselves.
   - now: Then will the Lord drive out all these nations from before thee, and ye shall possess greater nations and mightier than yourselves.
+- **Deuteronomy 11:23** (#20449)
+  - was: Then will the Lord drive out all these nations from before thee, and ye shall possess greater nations and mightier than yourselves.
+  - now: Then will the Lord drive out all these nations from before thee, and ye shall possess greater nations and mightier than thyself.
 - **Deuteronomy 11:24** (#15369)
   - was: Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be.
   - now: Every place whereon the soles of thine feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall thine coast be.
 - **Deuteronomy 11:24** (#19481)
   - was: Every place whereon the soles of thine feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall thine coast be.
   - now: Every place whereon the soles of thy feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall thy coast be.
+- **Deuteronomy 11:24** (#20450)
+  - was: Every place whereon the soles of thy feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall thy coast be.
+  - now: Every place whereon the soles of thy feet shall tread shall be thine: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall thy coast be.
 - **Deuteronomy 11:25** (#15370)
   - was: There shall no man be able to stand before you: for the Lord your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath said unto you.
   - now: There shall no man be able to stand before thee: for the Lord thine God shall lay the fear of thee and the dread of thee upon all the land that ye shall tread upon, as he hath said unto thee.
@@ -38668,6 +38752,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 14:1** (#19497)
   - was: Ye are the children of the Lord thine God: ye shall not cut yourselves, nor make any baldness between thine eyes for the dead.
   - now: Ye are the children of the Lord thy God: ye shall not cut yourselves, nor make any baldness between thine eyes for the dead.
+- **Deuteronomy 14:1** (#20451)
+  - was: Ye are the children of the Lord thy God: ye shall not cut yourselves, nor make any baldness between thine eyes for the dead.
+  - now: Ye are the children of the Lord thy God: ye shall not cut thyself, nor make any baldness between thine eyes for the dead.
 - **Deuteronomy 14:2** (#10553)
   - was: For thou art an holy people unto the Lord thy God, and the Lord hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth.
   - now: For thou art an holy people unto the Lord thy God, and the Lord hath chosen thee to be a people unto himself, above all the nations that are upon the earth.
@@ -39112,6 +39199,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 31:13** (#19508)
   - was: And that their children, which have not known any thing, may hear, and learn to fear the Lord thine God, as long as ye live in the land whither ye go over Jordan to possess it.
   - now: And that their children, which have not known any thing, may hear, and learn to fear the Lord thy God, as long as ye live in the land whither ye go over Jordan to possess it.
+- **Deuteronomy 31:14** (#20452)
+  - was: And the Lord said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.
+  - now: And the Lord said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present thyself in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.
 - **Deuteronomy 31:19** (#15440)
   - was: Now therefore write ye this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.
   - now: Now therefore write ye this song for thee, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.
@@ -39133,6 +39223,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 31:29** (#15444)
   - was: For I know that after my death ye will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because ye will do evil in the sight of the Lord, to provoke him to anger through the work of your hands.
   - now: For I know that after my death ye will utterly corrupt yourselves, and turn aside from the way which I have commanded thee; and evil will befall thee in the latter days; because ye will do evil in the sight of the Lord, to provoke him to anger through the work of thine hands.
+- **Deuteronomy 31:29** (#20453)
+  - was: For I know that after my death ye will utterly corrupt yourselves, and turn aside from the way which I have commanded thee; and evil will befall thee in the latter days; because ye will do evil in the sight of the Lord, to provoke him to anger through the work of thine hands.
+  - now: For I know that after my death ye will utterly corrupt thyself, and turn aside from the way which I have commanded thee; and evil will befall thee in the latter days; because ye will do evil in the sight of the Lord, to provoke him to anger through the work of thine hands.
 - **Deuteronomy 32:2** (#4161)
   - was: My doctrine shall drop as the rain, my speech shall distil as the dew, as the small rain upon the tender herb, and as the showers upon the grass:
   - now: My doctrine shall drop as the rain, my speech shall flow down as the dew, as the small rain upon the tender herb, and as the showers upon the grass:
@@ -39268,6 +39361,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 2:12** (#15460)
   - was: Now therefore, I pray you, swear unto me by the Lord, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token:
   - now: Now therefore, I pray thee, swear unto me by the Lord, since I have shewed thee kindness, that ye will also shew kindness unto my father’s house, and give me a true token:
+- **Joshua 2:14** (#20454)
+  - was: And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the Lord hath given us the land, that we will deal kindly and truly with thee.
+  - now: And the men answered her, Our life for thine, if ye utter not this our business. And it shall be, when the Lord hath given us the land, that we will deal kindly and truly with thee.
 - **Joshua 2:15** (#3095)
   - was: Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall.
   - now: Then she let them down by a cord through the opening: for her house was upon the town wall, and she dwelt upon the wall.
@@ -39277,6 +39373,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 2:16** (#19523)
   - was: And she said unto them, Get thee to the mountain, lest the pursuers meet thee; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go thine way.
   - now: And she said unto them, Get thee to the mountain, lest the pursuers meet thee; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go thy way.
+- **Joshua 2:16** (#20455)
+  - was: And she said unto them, Get thee to the mountain, lest the pursuers meet thee; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go thy way.
+  - now: And she said unto them, Get thee to the mountain, lest the pursuers meet thee; and hide thyself there three days, until the pursuers be returned: and afterward may ye go thy way.
 - **Joshua 2:18** (#3096)
   - was: Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.
   - now: Behold, when we come into the land, thou shalt bind this line of scarlet thread in the opening which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.
@@ -39301,6 +39400,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 3:5** (#15465)
   - was: And Joshua said unto the people, Sanctify yourselves: for to morrow the Lord will do wonders among you.
   - now: And Joshua said unto the people, Sanctify yourselves: for to morrow the Lord will do wonders among thee.
+- **Joshua 3:5** (#20456)
+  - was: And Joshua said unto the people, Sanctify yourselves: for to morrow the Lord will do wonders among thee.
+  - now: And Joshua said unto the people, Sanctify thyself: for to morrow the Lord will do wonders among thee.
 - **Joshua 3:9** (#15466)
   - was: And Joshua said unto the children of Israel, Come hither, and hear the words of the Lord your God.
   - now: And Joshua said unto the children of Israel, Come hither, and hear the words of the Lord thine God.
@@ -39382,6 +39484,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 6:16** (#15480)
   - was: And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said unto the people, Shout; for the Lord hath given you the city.
   - now: And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said unto the people, Shout; for the Lord hath given thee the city.
+- **Joshua 6:18** (#20457)
+  - was: And ye, in any wise keep yourselves from the accursed thing, lest ye make yourselves accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it.
+  - now: And ye, in any wise keep thyself from the accursed thing, lest ye make thyself accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it.
 - **Joshua 7:9** (#5523)
   - was: For the Canaanites and all the inhabitants of the land shall hear of it, and shall environ us round, and cut off our name from the earth: and what wilt thou do unto thy great name?
   - now: For the Canaanites and all the inhabitants of the land shall hear of it, and shall compass us round, and cut off our name from the earth: and what wilt thou do unto thy great name?
@@ -39394,6 +39499,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 7:13** (#15482)
   - was: Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the Lord God of Israel, There is an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among you.
   - now: Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the Lord God of Israel, There is an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among thee.
+- **Joshua 7:13** (#20458)
+  - was: Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the Lord God of Israel, There is an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among thee.
+  - now: Up, sanctify the people, and say, Sanctify thyself against to morrow: for thus saith the Lord God of Israel, There is an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among thee.
 - **Joshua 7:14** (#15483)
   - was: In the morning therefore ye shall be brought according to your tribes: and it shall be, that the tribe which the Lord taketh shall come according to the families thereof; and the family which the Lord shall take shall come by households; and the household which the Lord shall take shall come man by man.
   - now: In the morning therefore ye shall be brought according to thine tribes: and it shall be, that the tribe which the Lord taketh shall come according to the families thereof; and the family which the Lord shall take shall come by households; and the household which the Lord shall take shall come man by man.
@@ -39403,6 +39511,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 8:2** (#10351)
   - was: And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee an ambush for the city behind it.
   - now: And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee in wait for the city behind it.
+- **Joshua 8:2** (#20459)
+  - was: And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee in wait for the city behind it.
+  - now: And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto thyself: lay thee in wait for the city behind it.
 - **Joshua 8:6** (#3245)
   - was: (For they will come out after us) till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them.
   - now: For they will come out after us till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them.
@@ -39694,6 +39805,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 23:7** (#15517)
   - was: That ye come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow yourselves unto them:
   - now: That ye come not among these nations, these that remain among thee; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow yourselves unto them:
+- **Joshua 23:7** (#20460)
+  - was: That ye come not among these nations, these that remain among thee; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow yourselves unto them:
+  - now: That ye come not among these nations, these that remain among thee; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow thyself unto them:
 - **Joshua 23:8** (#15518)
   - was: But cleave unto the Lord your God, as ye have done unto this day.
   - now: But cleave unto the Lord thine God, as ye have done unto this day.
@@ -39715,6 +39829,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 23:11** (#19555)
   - was: Take good heed therefore unto yourselves, that ye love the Lord thine God.
   - now: Take good heed therefore unto yourselves, that ye love the Lord thy God.
+- **Joshua 23:11** (#20461)
+  - was: Take good heed therefore unto yourselves, that ye love the Lord thy God.
+  - now: Take good heed therefore unto thyself, that ye love the Lord thy God.
 - **Joshua 23:12** (#15522)
   - was: Else if ye do in any wise go back, and cleave unto the remnant of these nations, even these that remain among you, and shall make marriages with them, and go in unto them, and they to you:
   - now: Else if ye do in any wise go back, and cleave unto the remnant of these nations, even these that remain among thee, and shall make marriages with them, and go in unto them, and they to thee:
@@ -39742,6 +39859,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 23:16** (#19559)
   - was: When ye have transgressed the covenant of the Lord thine God, which he commanded thee, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the Lord be kindled against thee, and ye shall perish quickly from off the good land which he hath given unto thee. 
   - now: When ye have transgressed the covenant of the Lord thy God, which he commanded thee, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the Lord be kindled against thee, and ye shall perish quickly from off the good land which he hath given unto thee. 
+- **Joshua 23:16** (#20462)
+  - was: When ye have transgressed the covenant of the Lord thy God, which he commanded thee, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the Lord be kindled against thee, and ye shall perish quickly from off the good land which he hath given unto thee. 
+  - now: When ye have transgressed the covenant of the Lord thy God, which he commanded thee, and have gone and served other gods, and bowed thyself to them; then shall the anger of the Lord be kindled against thee, and ye shall perish quickly from off the good land which he hath given unto thee. 
 - **Joshua 24:2** (#7281)
   - was: And Joshua said unto all the people, Thus saith the Lord God of Israel, Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nachor: and they served other gods.
   - now: And Joshua said unto all the people, Thus saith the Lord God of Israel, Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nahor: and they served other gods.
@@ -39817,6 +39937,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 24:22** (#15542)
   - was: And Joshua said unto the people, Ye are witnesses against yourselves that ye have chosen you the Lord, to serve him. And they said, We are witnesses.
   - now: And Joshua said unto the people, Ye are witnesses against yourselves that ye have chosen thee the Lord, to serve him. And they said, We are witnesses.
+- **Joshua 24:22** (#20463)
+  - was: And Joshua said unto the people, Ye are witnesses against yourselves that ye have chosen thee the Lord, to serve him. And they said, We are witnesses.
+  - now: And Joshua said unto the people, Ye are witnesses against thyself that ye have chosen thee the Lord, to serve him. And they said, We are witnesses.
 - **Joshua 24:23** (#15543)
   - was: Now therefore put away, said he, the strange gods which are among you, and incline your heart unto the Lord God of Israel.
   - now: Now therefore put away, said he, the strange gods which are among thee, and incline thine heart unto the Lord God of Israel.
@@ -40210,6 +40333,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 15:12** (#7584)
   - was: And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Samson said unto them, Swear unto me, that ye will not fall upon me yourselves.
   - now: And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Sampson said unto them, Swear unto me, that ye will not fall upon me yourselves.
+- **Judges 15:12** (#20464)
+  - was: And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Sampson said unto them, Swear unto me, that ye will not fall upon me yourselves.
+  - now: And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Sampson said unto them, Swear unto me, that ye will not fall upon me thyself.
 - **Judges 15:16** (#7585)
   - was: And Samson said, With the jawbone of an ass, heaps upon heaps, with the jaw of an ass have I slain a thousand men.
   - now: And Sampson said, With the jawbone of an ass, heaps upon heaps, with the jaw of an ass have I slain a thousand men.
@@ -40513,6 +40639,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 2:29** (#18021)
   - was: Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?
   - now: Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the greatest of all the offerings of Israel my people?
+- **I Samuel 2:29** (#20465)
+  - was: Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the greatest of all the offerings of Israel my people?
+  - now: Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make thyself fat with the greatest of all the offerings of Israel my people?
 - **I Samuel 2:36** (#4723)
   - was: And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests’ offices, that I may eat a piece of bread. 
   - now: And it shall come to pass, that every one that is left in thine house shall come and bow down to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread.
@@ -40525,6 +40654,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 4:9** (#15593)
   - was: Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.
   - now: Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to thee: quit yourselves like men, and fight.
+- **I Samuel 4:9** (#20466)
+  - was: Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to thee: quit yourselves like men, and fight.
+  - now: Be strong, and quit thyself like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to thee: quit thyself like men, and fight.
 - **I Samuel 4:13** (#4725)
   - was: And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told it, all the city cried out.
   - now: And when he came, lo, Eli sat upon a seat by the way watching: for his heart trembled for the ark of God. And when the man came into the city, and told it, all the city cried out.
@@ -40675,6 +40807,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 10:19** (#19591)
   - was: And ye have this day rejected thine God, who himself saved thee out of all thine adversities and thine tribulations; and ye have said unto him, Nay, but set a king over us. Now therefore present yourselves before the Lord by thine tribes, and by thine thousands.
   - now: And ye have this day rejected thy God, who himself saved thee out of all thine adversities and thy tribulations; and ye have said unto him, Nay, but set a king over us. Now therefore present yourselves before the Lord by thy tribes, and by thy thousands.
+- **I Samuel 10:19** (#20467)
+  - was: And ye have this day rejected thy God, who himself saved thee out of all thine adversities and thy tribulations; and ye have said unto him, Nay, but set a king over us. Now therefore present yourselves before the Lord by thy tribes, and by thy thousands.
+  - now: And ye have this day rejected thy God, who himself saved thee out of all thine adversities and thy tribulations; and ye have said unto him, Nay, but set a king over us. Now therefore present thyself before the Lord by thy tribes, and by thy thousands.
 - **I Samuel 11:2** (#9017)
   - was: And Nahash the Ammonite answered them, On this condition will I make a covenant with you, that I may thrust out all your right eyes, and lay it for a reproach upon all Israel.
   - now: And Nahash the Ammonite answered them, Thus will I make a covenant with you, that I may thrust out all your right eyes, and lay it for a reproach upon all Israel.
@@ -40831,6 +40966,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 14:32** (#4738)
   - was: And the people flew upon the spoil, and took sheep, and oxen, and calves, and slew them on the ground: and the people did eat them with the blood.
   - now: And the people fell upon the spoil, and took sheep, and oxen, and calves, and slew them on the ground: and the people did eat them with the blood.
+- **I Samuel 14:34** (#20468)
+  - was: And Saul said, Disperse yourselves among the people, and say unto them, Bring me hither every man his ox, and every man his sheep, and slay them here, and eat; and sin not against the Lord in eating with the blood. And all the people brought every man his ox with him that night, and slew them there.
+  - now: And Saul said, Disperse thyself among the people, and say unto them, Bring me hither every man his ox, and every man his sheep, and slay them here, and eat; and sin not against the Lord in eating with the blood. And all the people brought every man his ox with him that night, and slew them there.
 - **I Samuel 14:38** (#18023)
   - was: And Saul said, Draw ye near hither, all the chief of the people: and know and see wherein this sin hath been this day.
   - now: And Saul said, Draw ye near hither, all the ruler of the people: and know and see wherein this sin hath been this day.
@@ -40849,6 +40987,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 15:23** (#4741)
   - was: For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king.
   - now: For rebellion is as the sin of witchcraft, and hardness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king.
+- **I Samuel 16:5** (#20469)
+  - was: And he said, Peaceably: I am come to sacrifice unto the Lord: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.
+  - now: And he said, Peaceably: I am come to sacrifice unto the Lord: sanctify thyself, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.
 - **I Samuel 16:16** (#4742)
   - was: Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on an harp: and it shall come to pass, when the evil spirit from God is upon thee, that he shall play with his hand, and thou shalt be well.
   - now: Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning harper on an harp: and it shall come to pass, when the evil spirit from God is upon thee, that he shall play with his hand, and thou shalt be well.
@@ -41785,6 +41926,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Kings 18:25** (#19617)
   - was: And Elijah said unto the prophets of Baal, Choose thee one bullock for yourselves, and dress it first; for ye are many; and call on the name of thine gods, but put no fire under.
   - now: And Elijah said unto the prophets of Baal, Choose thee one bullock for yourselves, and dress it first; for ye are many; and call on the name of thy gods, but put no fire under.
+- **I Kings 18:25** (#20470)
+  - was: And Elijah said unto the prophets of Baal, Choose thee one bullock for yourselves, and dress it first; for ye are many; and call on the name of thy gods, but put no fire under.
+  - now: And Elijah said unto the prophets of Baal, Choose thee one bullock for thyself, and dress it first; for ye are many; and call on the name of thy gods, but put no fire under.
 - **I Kings 18:28** (#4691)
   - was: And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.
   - now: And they cried aloud, and cut themselves after their manner with knives and swords, till the blood gushed out upon them.
@@ -41803,6 +41947,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Kings 20:7** (#15687)
   - was: Then the king of Israel called all the elders of the land, and said, Mark, I pray you, and see how this man seeketh mischief: for he sent unto me for my wives, and for my children, and for my silver, and for my gold; and I denied him not.
   - now: Then the king of Israel called all the elders of the land, and said, Mark, I pray thee, and see how this man seeketh mischief: for he sent unto me for my wives, and for my children, and for my silver, and for my gold; and I denied him not.
+- **I Kings 20:12** (#20471)
+  - was: And it came to pass, when Ben–hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said unto his servants, Set yourselves in array. And they set themselves in array against the city.
+  - now: And it came to pass, when Ben–hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said unto his servants, Set thyself in array. And they set themselves in array against the city.
 - **I Kings 20:16** (#8599)
   - was: And they went out at noon. But Ben–hadad was drinking himself drunk in the pavilions, he and the kings, the thirty and two kings that helped him.
   - now: And they went out at noon. But Ben–hadad was drinking himself drank in the pavilions, he and the kings, the thirty and two kings that helped him.
@@ -42070,6 +42217,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 17:21** (#8604)
   - was: For he rent Israel from the house of David; and they made Jeroboam the son of Nebat king: and Jeroboam drave Israel from following the Lord, and made them sin a great sin.
   - now: For he rent Israel from the house of David; and they made Jeroboam the son of Nebat king: and Jeroboam drove Israel from following the Lord, and made them sin a great sin.
+- **II Kings 17:35** (#20472)
+  - was: With whom the Lord had made a covenant, and charged them, saying, Ye shall not fear other gods, nor bow yourselves to them, nor serve them, nor sacrifice to them:
+  - now: With whom the Lord had made a covenant, and charged them, saying, Ye shall not fear other gods, nor bow thyself to them, nor serve them, nor sacrifice to them:
 - **II Kings 17:36** (#15710)
   - was: But the Lord, who brought you up out of the land of Egypt with great power and a stretched out arm, him shall ye fear, and him shall ye worship, and to him shall ye do sacrifice.
   - now: But the Lord, who brought thee up out of the land of Egypt with great power and a stretched out arm, him shall ye fear, and him shall ye worship, and to him shall ye do sacrifice.
@@ -42370,6 +42520,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Chronicles 15:12** (#19629)
   - was: And said unto them, Ye are the head of the house of the fathers of the Levites: sanctify yourselves, both ye and thine brethren, that ye may bring up the ark of the Lord God of Israel unto the place that I have prepared for it.
   - now: And said unto them, Ye are the head of the house of the fathers of the Levites: sanctify yourselves, both ye and thy brethren, that ye may bring up the ark of the Lord God of Israel unto the place that I have prepared for it.
+- **I Chronicles 15:12** (#20473)
+  - was: And said unto them, Ye are the head of the house of the fathers of the Levites: sanctify yourselves, both ye and thy brethren, that ye may bring up the ark of the Lord God of Israel unto the place that I have prepared for it.
+  - now: And said unto them, Ye are the head of the house of the fathers of the Levites: sanctify thyself, both ye and thy brethren, that ye may bring up the ark of the Lord God of Israel unto the place that I have prepared for it.
 - **I Chronicles 15:16** (#17990)
   - was: And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.
   - now: And David spake to the head of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.
@@ -42808,9 +42961,15 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 20:15** (#15749)
   - was: And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the Lord unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s.
   - now: And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the Lord unto thee, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s.
+- **II Chronicles 20:15** (#20474)
+  - was: And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the Lord unto thee, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s.
+  - now: And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the Lord unto thee, Be not afraid nor dismayed by reason of this great multitude; for the battle is not thine, but God’s.
 - **II Chronicles 20:17** (#15750)
   - was: Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the Lord with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the Lord will be with you.
   - now: Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the Lord with thee, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the Lord will be with thee.
+- **II Chronicles 20:17** (#20475)
+  - was: Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the Lord with thee, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the Lord will be with thee.
+  - now: Ye shall not need to fight in this battle: set thyself, stand ye still, and see the salvation of the Lord with thee, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the Lord will be with thee.
 - **II Chronicles 20:20** (#15751)
   - was: And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the Lord your God, so shall ye be established; believe his prophets, so shall ye prosper.
   - now: And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the Lord thine God, so shall ye be established; believe his prophets, so shall ye prosper.
@@ -42910,6 +43069,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 29:5** (#19647)
   - was: And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the Lord God of thine fathers, and carry forth the filthiness out of the holy place.
   - now: And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the Lord God of thy fathers, and carry forth the filthiness out of the holy place.
+- **II Chronicles 29:5** (#20476)
+  - was: And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the Lord God of thy fathers, and carry forth the filthiness out of the holy place.
+  - now: And said unto them, Hear me, ye Levites, sanctify now thyself, and sanctify the house of the Lord God of thy fathers, and carry forth the filthiness out of the holy place.
 - **II Chronicles 29:8** (#15759)
   - was: Wherefore the wrath of the Lord was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes.
   - now: Wherefore the wrath of the Lord was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with thine eyes.
@@ -42922,6 +43084,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 29:24** (#10582)
   - was: And the priests killed them, and they made reconciliation with their blood upon the altar, to make an atonement for all Israel: for the king commanded that the burnt offering and the sin offering should be made for all Israel.
   - now: And the priests killed them, and they made atonement with their blood upon the altar, to make an atonement for all Israel: for the king commanded that the burnt offering and the sin offering should be made for all Israel.
+- **II Chronicles 29:31** (#20477)
+  - was: Then Hezekiah answered and said, Now ye have consecrated yourselves unto the Lord, come near and bring sacrifices and thank offerings into the house of the Lord. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings.
+  - now: Then Hezekiah answered and said, Now ye have consecrated thyself unto the Lord, come near and bring sacrifices and thank offerings into the house of the Lord. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings.
 - **II Chronicles 30:3** (#4853)
   - was: For they could not keep it at that time, because the priests had not sanctified themselves sufficiently, neither had the people gathered themselves together to Jerusalem.
   - now: For they could not keep it at that time, because the priests had not sanctified themselves enough, neither had the people gathered themselves together to Jerusalem.
@@ -42940,6 +43105,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 30:8** (#19649)
   - was: Now be ye not stiffnecked, as thine fathers were, but yield yourselves unto the Lord, and enter into his sanctuary, which he hath sanctified for ever: and serve the Lord thine God, that the fierceness of his wrath may turn away from thee.
   - now: Now be ye not stiffnecked, as thy fathers were, but yield yourselves unto the Lord, and enter into his sanctuary, which he hath sanctified for ever: and serve the Lord thy God, that the fierceness of his wrath may turn away from thee.
+- **II Chronicles 30:8** (#20478)
+  - was: Now be ye not stiffnecked, as thy fathers were, but yield yourselves unto the Lord, and enter into his sanctuary, which he hath sanctified for ever: and serve the Lord thy God, that the fierceness of his wrath may turn away from thee.
+  - now: Now be ye not stiffnecked, as thy fathers were, but yield thyself unto the Lord, and enter into his sanctuary, which he hath sanctified for ever: and serve the Lord thy God, that the fierceness of his wrath may turn away from thee.
 - **II Chronicles 30:9** (#15764)
   - was: For if ye turn again unto the Lord, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the Lord your God is gracious and merciful, and will not turn away his face from you, if ye return unto him.
   - now: For if ye turn again unto the Lord, thine brethren and thine children shall find compassion before them that lead them captive, so that they shall come again into this land: for the Lord thine God is gracious and merciful, and will not turn away his face from thee, if ye return unto him.
@@ -42967,6 +43135,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 32:11** (#15765)
   - was: Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The Lord our God shall deliver us out of the hand of the king of Assyria?
   - now: Doth not Hezekiah persuade thee to give over yourselves to die by famine and by thirst, saying, The Lord our God shall deliver us out of the hand of the king of Assyria?
+- **II Chronicles 32:11** (#20479)
+  - was: Doth not Hezekiah persuade thee to give over yourselves to die by famine and by thirst, saying, The Lord our God shall deliver us out of the hand of the king of Assyria?
+  - now: Doth not Hezekiah persuade thee to give over thyself to die by famine and by thirst, saying, The Lord our God shall deliver us out of the hand of the king of Assyria?
 - **II Chronicles 32:14** (#15766)
   - was: Who was there among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that your God should be able to deliver you out of mine hand?
   - now: Who was there among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that thine God should be able to deliver thee out of mine hand?
@@ -43048,6 +43219,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 35:4** (#19655)
   - was: And prepare yourselves by the houses of thine fathers, after thine courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
   - now: And prepare yourselves by the houses of thy fathers, after thy courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
+- **II Chronicles 35:4** (#20480)
+  - was: And prepare yourselves by the houses of thy fathers, after thy courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
+  - now: And prepare thyself by the houses of thy fathers, after thy courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
 - **II Chronicles 35:5** (#15773)
   - was: And stand in the holy place according to the divisions of the families of the fathers of your brethren the people, and after the division of the families of the Levites.
   - now: And stand in the holy place according to the divisions of the families of the fathers of thine brethren the people, and after the division of the families of the Levites.
@@ -43060,6 +43234,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 35:6** (#19657)
   - was: So kill the passover, and sanctify yourselves, and prepare thine brethren, that they may do according to the word of the Lord by the hand of Moses.
   - now: So kill the passover, and sanctify yourselves, and prepare thy brethren, that they may do according to the word of the Lord by the hand of Moses.
+- **II Chronicles 35:6** (#20481)
+  - was: So kill the passover, and sanctify yourselves, and prepare thy brethren, that they may do according to the word of the Lord by the hand of Moses.
+  - now: So kill the passover, and sanctify thyself, and prepare thy brethren, that they may do according to the word of the Lord by the hand of Moses.
 - **II Chronicles 35:9** (#18042)
   - was: Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand small cattle, and five hundred oxen.
   - now: Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, head of the Levites, gave unto the Levites for passover offerings five thousand small cattle, and five hundred oxen.
@@ -43288,6 +43465,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezra 10:11** (#19664)
   - was: Now therefore make confession unto the Lord God of thine fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.
   - now: Now therefore make confession unto the Lord God of thy fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.
+- **Ezra 10:11** (#20482)
+  - was: Now therefore make confession unto the Lord God of thy fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.
+  - now: Now therefore make confession unto the Lord God of thy fathers, and do his pleasure: and separate thyself from the people of the land, and from the strange wives.
 - **Ezra 10:15** (#4410)
   - was: Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them.
   - now: Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were appointed about this matter: and Meshullam and Shabbethai the Levite helped them.
@@ -43543,6 +43723,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Nehemiah 13:25** (#19672)
   - was: And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, Ye shall not give thine daughters unto their sons, nor take their daughters unto thine sons, or for yourselves.
   - now: And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, Ye shall not give thy daughters unto their sons, nor take their daughters unto thy sons, or for yourselves.
+- **Nehemiah 13:25** (#20483)
+  - was: And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, Ye shall not give thy daughters unto their sons, nor take their daughters unto thy sons, or for yourselves.
+  - now: And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, Ye shall not give thy daughters unto their sons, nor take their daughters unto thy sons, or for thyself.
 - **Nehemiah 13:26** (#5890)
   - was: Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did outlandish women cause to sin.
   - now: Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did strange women cause to sin.
@@ -43975,9 +44158,15 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 18:19** (#5411)
   - was: He shall neither have son nor nephew among his people, nor any remaining in his dwellings.
   - now: He shall neither have son nor son's son among his people, nor any remaining in his dwellings.
+- **Job 19:3** (#20484)
+  - was: These ten times have ye reproached me: ye are not ashamed that ye make yourselves strange to me.
+  - now: These ten times have ye reproached me: ye are not ashamed that ye make thyself strange to me.
 - **Job 19:4** (#15828)
   - was: And be it indeed that I have erred, mine error remaineth with myself.
   - now: And be it indeed that I have erred, mine sin remaineth with myself.
+- **Job 19:5** (#20485)
+  - was: If indeed ye will magnify yourselves against me, and plead against me my reproach:
+  - now: If indeed ye will magnify thyself against me, and plead against me my reproach:
 - **Job 19:14** (#5412)
   - was: My kinsfolk have failed, and my familiar friends have forgotten me.
   - now: My kinsmen have failed, and my familiar friends have forgotten me.
@@ -44056,6 +44245,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 27:11** (#15836)
   - was: I will teach you by the hand of God: that which is with the Almighty will I not conceal.
   - now: I will teach thee by the hand of God: that which is with the Almighty will I not conceal.
+- **Job 27:12** (#20486)
+  - was: Behold, all ye yourselves have seen it; why then are ye thus altogether vain?
+  - now: Behold, all ye thyself have seen it; why then are ye thus altogether vain?
 - **Job 27:18** (#5421)
   - was: He buildeth his house as a moth, and as a booth that the keeper maketh.
   - now: He buildeth his house as a moth, and as a lodge that the keeper maketh.
@@ -44359,6 +44551,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 42:8** (#19687)
   - was: Therefore take unto thee now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for thee: for him will I accept: lest I deal with thee after thine folly, in that ye have not spoken of me the thing which is right, like my servant Job.
   - now: Therefore take unto thee now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for thee: for him will I accept: lest I deal with thee after thy folly, in that ye have not spoken of me the thing which is right, like my servant Job.
+- **Job 42:8** (#20487)
+  - was: Therefore take unto thee now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for thee: for him will I accept: lest I deal with thee after thy folly, in that ye have not spoken of me the thing which is right, like my servant Job.
+  - now: Therefore take unto thee now seven bullocks and seven rams, and go to my servant Job, and offer up for thyself a burnt offering; and my servant Job shall pray for thee: for him will I accept: lest I deal with thee after thy folly, in that ye have not spoken of me the thing which is right, like my servant Job.
 - **Psalms 3:3** (#6057)
   - was: But thou, O Lord, art a shield for me; my glory, and the lifter up of mine head.
   - now: But thou, O Lord, art a shield for me; my glory, and he that lifteth up mine head.
@@ -46066,6 +46261,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 7:25** (#5061)
   - was: And on all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns: but it shall be for the sending forth of oxen, and for the treading of lesser cattle. 
   - now: And on all hills that shall be digged with the spade, there shall not come thither the fear of briers and thorns: but it shall be for the sending forth of oxen, and for the treading of lesser cattle.
+- **Isaiah 8:9** (#20488)
+  - was: Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces.
+  - now: Associate thyself, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird thyself, and ye shall be broken in pieces; gird thyself, and ye shall be broken in pieces.
 - **Isaiah 8:12** (#11917)
   - was: Say ye not, A confederacy, to all them to whom this people shall say, A confederacy; neither fear ye their fear, nor be afraid.
   - now: Say ye not, A conspiracy, to all them to whom this people shall say, A conspiracy; neither fear ye their fear, nor be afraid.
@@ -46450,6 +46648,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 29:7** (#5129)
   - was: And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.
   - now: And the multitude of all the nations that fight against Ariel, even all that fight against her and her fortress, and that distress her, shall be as a dream of a night vision.
+- **Isaiah 29:9** (#20489)
+  - was: Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
+  - now: Stay thyself, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
 - **Isaiah 29:10** (#15917)
   - was: For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
   - now: For the Lord hath poured out upon thee the spirit of deep sleep, and hath closed thine eyes: the prophets and thine rulers, the seers hath he covered.
@@ -46807,6 +47008,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 45:7** (#3693)
   - was: I form the light, and create darkness: I make peace, and create evil: I the Lord do all these things.
   - now: I form the light, and create darkness: I make peace, and I create calamity: I the Lord do all these things.
+- **Isaiah 45:20** (#20490)
+  - was: Assemble yourselves and come; draw near together, ye that are escaped of the nations: they have no knowledge that set up the wood of their graven image, and pray unto a god that cannot save.
+  - now: Assemble thyself and come; draw near together, ye that are escaped of the nations: they have no knowledge that set up the wood of their graven image, and pray unto a god that cannot save.
 - **Isaiah 46:1** (#5170)
   - was: Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages were heavy loaden; they are a burden to the weary beast.
   - now: Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages were heavily burdened; they are a burden to the weary beast.
@@ -46822,6 +47026,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 46:6** (#3523)
   - was: They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.
   - now: They despise gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.
+- **Isaiah 46:8** (#20491)
+  - was: Remember this, and shew yourselves men: bring it again to mind, O ye transgressors.
+  - now: Remember this, and shew thyself men: bring it again to mind, O ye transgressors.
 - **Isaiah 46:12** (#5171)
   - was: Hearken unto me, ye stouthearted, that are far from righteousness:
   - now: Hearken unto me, ye that are stubborn in heart, that are far from righteousness:
@@ -46846,9 +47053,15 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 48:13** (#11592)
   - was: Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.
   - now: Mine hand also hath laid the foundation of the earth, and my right hand hath measured the heavens: when I call unto them, they stand up together.
+- **Isaiah 48:14** (#20492)
+  - was: All ye, assemble yourselves, and hear; which among them hath declared these things? The Lord hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.
+  - now: All ye, assemble thyself, and hear; which among them hath declared these things? The Lord hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.
 - **Isaiah 48:19** (#11930)
   - was: Thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof; his name should not have been cut off nor destroyed from before me.
   - now: Thy seed also had been as the sand, and the offspring of thy bowels like the small stones thereof; his name should not have been cut off nor destroyed from before me.
+- **Isaiah 49:9** (#20493)
+  - was: That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places.
+  - now: That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew thyself. They shall feed in the ways, and their pastures shall be in all high places.
 - **Isaiah 49:20** (#9834)
   - was: The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell.
   - now: The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too straight for me: give place to me that I may dwell.
@@ -46861,6 +47074,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 50:1** (#19726)
   - was: Thus saith the Lord, Where is the bill of thine mother’s divorce, whom I have put away? or which of my creditors is it to whom I have sold thee? Behold, for thine iniquities have ye sold yourselves, and for thine transgressions is thine mother put away.
   - now: Thus saith the Lord, Where is the bill of thy mother’s divorce, whom I have put away? or which of my creditors is it to whom I have sold thee? Behold, for thine iniquities have ye sold yourselves, and for thy transgressions is thy mother put away.
+- **Isaiah 50:1** (#20494)
+  - was: Thus saith the Lord, Where is the bill of thy mother’s divorce, whom I have put away? or which of my creditors is it to whom I have sold thee? Behold, for thine iniquities have ye sold yourselves, and for thy transgressions is thy mother put away.
+  - now: Thus saith the Lord, Where is the bill of thy mother’s divorce, whom I have put away? or which of my creditors is it to whom I have sold thee? Behold, for thine iniquities have ye sold thyself, and for thy transgressions is thy mother put away.
 - **Isaiah 50:4** (#5175)
   - was: The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.
   - now: The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he stirreth morning by morning, he stirreth mine ear to hear as the learned.
@@ -46879,6 +47095,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 50:11** (#19727)
   - was: Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of thine fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow. 
   - now: Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of thy fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow. 
+- **Isaiah 50:11** (#20495)
+  - was: Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of thy fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow. 
+  - now: Behold, all ye that kindle a fire, that compass thyself about with sparks: walk in the light of thy fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow. 
 - **Isaiah 51:2** (#15957)
   - was: Look unto Abraham your father, and unto Sarah that bare you: for I called him alone, and blessed him, and increased him.
   - now: Look unto Abraham thine father, and unto Sarah that bare thee: for I called him alone, and blessed him, and increased him.
@@ -46909,6 +47128,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 51:22** (#11932)
   - was: Thus saith thy Lord the Lord, and thy God that pleadeth the cause of his people, Behold, I have taken out of thine hand the cup of trembling, even the dregs of the cup of my fury; thou shalt no more drink it again:
   - now: Thus saith thy Lord the Lord, and thy God that pleadeth the cause of his people, Behold, I have taken out of thine hand the cup of trembling, even the last of the cup of my fury; thou shalt no more drink it again:
+- **Isaiah 52:3** (#20496)
+  - was: For thus saith the Lord, Ye have sold yourselves for nought; and ye shall be redeemed without money.
+  - now: For thus saith the Lord, Ye have sold thyself for nought; and ye shall be redeemed without money.
 - **Isaiah 52:12** (#15960)
   - was: For ye shall not go out with haste, nor go by flight: for the Lord will go before you; and the God of Israel will be your rereward.
   - now: For ye shall not go out with haste, nor go by flight: for the Lord will go before thee; and the God of Israel will be thine rereward.
@@ -46981,9 +47203,15 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 57:3** (#5186)
   - was: But draw near hither, ye sons of the sorceress, the seed of the adulterer and the whore.
   - now: But draw near hither, ye sons of the witch, the seed of the adulterer and the whore.
+- **Isaiah 57:4** (#20497)
+  - was: Against whom do ye sport yourselves? against whom make ye a wide mouth, and draw out the tongue? are ye not children of transgression, a seed of falsehood,
+  - now: Against whom do ye sport thyself? against whom make ye a wide mouth, and draw out the tongue? are ye not children of transgression, a seed of falsehood,
 - **Isaiah 57:5** (#5187)
   - was: Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clifts of the rocks?
   - now: Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the tops of the rocks?
+- **Isaiah 57:5** (#20498)
+  - was: Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the tops of the rocks?
+  - now: Enflaming thyself with idols under every green tree, slaying the children in the valleys under the tops of the rocks?
 - **Isaiah 57:8** (#5188)
   - was: Behind the doors also and the posts hast thou set up thy remembrance: for thou hast discovered thyself to another than me, and art gone up; thou hast enlarged thy bed, and made thee a covenant with them; thou lovedst their bed where thou sawest it.
   - now: Behind the doors also and the posts hast thou set up thy remembrance: for thou hast discovered thyself to another than me, and art gone up; thou hast enlarged thy bed, and made thee a covenant with them; thou didst love their bed where thou sawest it.
@@ -47080,6 +47308,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 61:6** (#15972)
   - was: But ye shall be named the Priests of the Lord: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.
   - now: But ye shall be named the Priests of the Lord: men shall call thee the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.
+- **Isaiah 61:6** (#20499)
+  - was: But ye shall be named the Priests of the Lord: men shall call thee the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.
+  - now: But ye shall be named the Priests of the Lord: men shall call thee the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast thyself.
 - **Isaiah 61:7** (#15973)
   - was: For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.
   - now: For thine shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.
@@ -47293,6 +47524,12 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 4:4** (#19752)
   - was: Circumcise yourselves to the Lord, and take away the foreskins of thine heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench it, because of the evil of thine doings.
   - now: Circumcise yourselves to the Lord, and take away the foreskins of thine heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench it, because of the evil of thy doings.
+- **Jeremiah 4:4** (#20500)
+  - was: Circumcise yourselves to the Lord, and take away the foreskins of thine heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench it, because of the evil of thy doings.
+  - now: Circumcise thyself to the Lord, and take away the foreskins of thine heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench it, because of the evil of thy doings.
+- **Jeremiah 4:5** (#20501)
+  - was: Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities.
+  - now: Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble thyself, and let us go into the defenced cities.
 - **Jeremiah 4:6** (#5248)
   - was: Set up the standard toward Zion: retire, stay not: for I will bring evil from the north, and a great destruction.
   - now: Set up the standard toward Zion: flee, stay not: for I will bring evil from the north, and a great destruction.
@@ -47353,6 +47590,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 5:19** (#19753)
   - was: And it shall come to pass, when ye shall say, Wherefore doeth the Lord our God all these things unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in thine land, so shall ye serve strangers in a land that is not yours.
   - now: And it shall come to pass, when ye shall say, Wherefore doeth the Lord our God all these things unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in thy land, so shall ye serve strangers in a land that is not yours.
+- **Jeremiah 5:19** (#20502)
+  - was: And it shall come to pass, when ye shall say, Wherefore doeth the Lord our God all these things unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in thy land, so shall ye serve strangers in a land that is not yours.
+  - now: And it shall come to pass, when ye shall say, Wherefore doeth the Lord our God all these things unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in thy land, so shall ye serve strangers in a land that is not thine.
 - **Jeremiah 5:22** (#5259)
   - was: Fear ye not me? saith the Lord: will ye not tremble at my presence, which have placed the sand for the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?
   - now: Fear ye not me? saith the Lord: will ye not tremble at my presence, which have placed the sand for the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof rage, yet can they not prevail; though they roar, yet can they not pass over it?
@@ -47368,6 +47608,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 5:28** (#5261)
   - was: They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge.
   - now: They are waxen fat, they shine: yea, they exceed the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge.
+- **Jeremiah 6:1** (#20503)
+  - was: O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Beth–haccerem: for evil appeareth out of the north, and great destruction.
+  - now: O ye children of Benjamin, gather thyself to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Beth–haccerem: for evil appeareth out of the north, and great destruction.
 - **Jeremiah 6:9** (#5262)
   - was: Thus saith the Lord of hosts, They shall throughly glean the remnant of Israel as a vine: turn back thine hand as a grapegatherer into the baskets.
   - now: Thus saith the Lord of hosts, They shall throughly glean the remnant of Israel as a vine: turn back thine hand as a gatherer into the baskets.
@@ -47479,6 +47722,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 8:11** (#5270)
   - was: For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace.
   - now: For they have healed the hurt of the daughter of my people lightly, saying, Peace, peace; when there is no peace.
+- **Jeremiah 8:14** (#20504)
+  - was: Why do we sit still? assemble yourselves, and let us enter into the defenced cities, and let us be silent there: for the Lord our God hath put us to silence, and given us water of gall to drink, because we have sinned against the Lord.
+  - now: Why do we sit still? assemble thyself, and let us enter into the defenced cities, and let us be silent there: for the Lord our God hath put us to silence, and given us water of gall to drink, because we have sinned against the Lord.
 - **Jeremiah 8:16** (#5271)
   - was: The snorting of his horses was heard from Dan: the whole land trembled at the sound of the neighing of his strong ones; for they are come, and have devoured the land, and all that is in it; the city, and those that dwell therein.
   - now: The gnashing of his horses was heard from Dan: the whole land trembled at the sound of the neighing of his strong ones; for they are come, and have devoured the land, and all that is in it; the city, and those that dwell therein.
@@ -47626,6 +47872,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 13:18** (#19773)
   - was: Say unto the king and to the queen, Humble yourselves, sit down: for thine principalities shall come down, even the crown of thine glory.
   - now: Say unto the king and to the queen, Humble yourselves, sit down: for thy principalities shall come down, even the crown of thy glory.
+- **Jeremiah 13:18** (#20505)
+  - was: Say unto the king and to the queen, Humble yourselves, sit down: for thy principalities shall come down, even the crown of thy glory.
+  - now: Say unto the king and to the queen, Humble thyself, sit down: for thy principalities shall come down, even the crown of thy glory.
 - **Jeremiah 13:20** (#16024)
   - was: Lift up your eyes, and behold them that come from the north: where is the flock that was given thee, thy beautiful flock?
   - now: Lift up thine eyes, and behold them that come from the north: where is the flock that was given thee, thy beautiful flock?
@@ -47716,6 +47965,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 17:17** (#16034)
   - was: Be not a terror unto me: thou art my hope in the day of evil.
   - now: Be not a fear unto me: thou art my hope in the day of evil.
+- **Jeremiah 17:21** (#20506)
+  - was: Thus saith the Lord; Take heed to yourselves, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;
+  - now: Thus saith the Lord; Take heed to thyself, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;
 - **Jeremiah 17:22** (#16035)
   - was: Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers.
   - now: Neither carry forth a burden out of thine houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded thine fathers.
@@ -47854,6 +48106,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 25:34** (#19785)
   - was: Howl, ye shepherds, and cry; and wallow yourselves in the ashes, ye principal of the flock: for the days of thine slaughter and of thine dispersed are accomplished; and ye shall fall like a pleasant vessel.
   - now: Howl, ye shepherds, and cry; and wallow yourselves in the ashes, ye principal of the flock: for the days of thy slaughter and of thy dispersed are accomplished; and ye shall fall like a pleasant vessel.
+- **Jeremiah 25:34** (#20507)
+  - was: Howl, ye shepherds, and cry; and wallow yourselves in the ashes, ye principal of the flock: for the days of thy slaughter and of thy dispersed are accomplished; and ye shall fall like a pleasant vessel.
+  - now: Howl, ye shepherds, and cry; and wallow thyself in the ashes, ye principal of the flock: for the days of thy slaughter and of thy dispersed are accomplished; and ye shall fall like a pleasant vessel.
 - **Jeremiah 26:4** (#16059)
   - was: And thou shalt say unto them, Thus saith the Lord; If ye will not hearken to me, to walk in my law, which I have set before you,
   - now: And thou shalt say unto them, Thus saith the Lord; If ye will not hearken to me, to walk in my law, which I have set before thee,
@@ -47875,6 +48130,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 26:15** (#16064)
   - was: But know ye for certain, that if ye put me to death, ye shall surely bring innocent blood upon yourselves, and upon this city, and upon the inhabitants thereof: for of a truth the Lord hath sent me unto you to speak all these words in your ears.
   - now: But know ye for certain, that if ye put me to death, ye shall surely bring innocent blood upon yourselves, and upon this city, and upon the inhabitants thereof: for of a truth the Lord hath sent me unto thee to speak all these words in thine ears.
+- **Jeremiah 26:15** (#20508)
+  - was: But know ye for certain, that if ye put me to death, ye shall surely bring innocent blood upon yourselves, and upon this city, and upon the inhabitants thereof: for of a truth the Lord hath sent me unto thee to speak all these words in thine ears.
+  - now: But know ye for certain, that if ye put me to death, ye shall surely bring innocent blood upon thyself, and upon this city, and upon the inhabitants thereof: for of a truth the Lord hath sent me unto thee to speak all these words in thine ears.
 - **Jeremiah 26:19** (#5302)
   - was: Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the Lord, and besought the Lord, and the Lord repented him of the evil which he had pronounced against them? Thus might we procure great evil against our souls.
   - now: Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the Lord, and besought the Lord, and the Lord repented him of the evil which he had pronounced against them? Thus might we commit great evil against our souls.
@@ -48112,6 +48370,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 37:7** (#16097)
   - was: Thus saith the Lord, the God of Israel; Thus shall ye say to the king of Judah, that sent you unto me to enquire of me; Behold, Pharaoh’s army, which is come forth to help you, shall return to Egypt into their own land.
   - now: Thus saith the Lord, the God of Israel; Thus shall ye say to the king of Judah, that sent thee unto me to enquire of me; Behold, Pharaoh’s army, which is come forth to help thee, shall return to Egypt into their own land.
+- **Jeremiah 37:9** (#20509)
+  - was: Thus saith the Lord; Deceive not yourselves, saying, The Chaldeans shall surely depart from us: for they shall not depart.
+  - now: Thus saith the Lord; Deceive not thyself, saying, The Chaldeans shall surely depart from us: for they shall not depart.
 - **Jeremiah 37:10** (#16098)
   - was: For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained but wounded men among them, yet should they rise up every man in his tent, and burn this city with fire.
   - now: For though ye had smitten the whole army of the Chaldeans that fight against thee, and there remained but wounded men among them, yet should they rise up every man in his tent, and burn this city with fire.
@@ -48235,6 +48496,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 44:8** (#16119)
   - was: In that ye provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?
   - now: In that ye provoke me unto wrath with the works of thine hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?
+- **Jeremiah 44:8** (#20510)
+  - was: In that ye provoke me unto wrath with the works of thine hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?
+  - now: In that ye provoke me unto wrath with the works of thine hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut thyself off, and that ye might be a curse and a reproach among all the nations of the earth?
 - **Jeremiah 44:9** (#16120)
   - was: Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?
   - now: Have ye forgotten the wickedness of thine fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and thine own wickedness, and the wickedness of thine wives, which they have committed in the land of Judah, and in the streets of Jerusalem?
@@ -48394,6 +48658,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 50:12** (#19820)
   - was: Thine mother shall be sore confounded; she that bare thee shall be ashamed: behold, the last of the nations shall be a wilderness, a dry land, and a desert.
   - now: Thy mother shall be sore confounded; she that bare thee shall be ashamed: behold, the last of the nations shall be a wilderness, a dry land, and a desert.
+- **Jeremiah 50:14** (#20511)
+  - was: Put yourselves in array against Babylon round about: all ye that bend the bow, shoot at her, spare no arrows: for she hath sinned against the Lord.
+  - now: Put thyself in array against Babylon round about: all ye that bend the bow, shoot at her, spare no arrows: for she hath sinned against the Lord.
 - **Jeremiah 50:24** (#5345)
   - was: I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast not aware: thou art found, and also caught, because thou hast striven against the Lord.
   - now: I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast not aware: thou art found, and also caught, because thou hast contended against the Lord.
@@ -48817,6 +49084,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 14:6** (#19836)
   - was: Therefore say unto the house of Israel, Thus saith the Lord God; Repent, and turn yourselves from thine idols; and turn away thine faces from all thine abominations.
   - now: Therefore say unto the house of Israel, Thus saith the Lord God; Repent, and turn yourselves from thine idols; and turn away thy faces from all thine abominations.
+- **Ezekiel 14:6** (#20512)
+  - was: Therefore say unto the house of Israel, Thus saith the Lord God; Repent, and turn yourselves from thine idols; and turn away thy faces from all thine abominations.
+  - now: Therefore say unto the house of Israel, Thus saith the Lord God; Repent, and turn thyself from thine idols; and turn away thy faces from all thine abominations.
 - **Ezekiel 14:7** (#3581)
   - was: For every one of the house of Israel, or of the stranger that sojourneth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
   - now: For every one of the house of Israel, or of the stranger that sojourneth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumbling block of his iniquity before his face, and cometh to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
@@ -48943,12 +49213,18 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 18:30** (#19841)
   - was: Therefore I will judge thee, O house of Israel, every one according to his ways, saith the Lord God. Repent, and turn yourselves from all thine transgressions; so iniquity shall not be thine ruin.
   - now: Therefore I will judge thee, O house of Israel, every one according to his ways, saith the Lord God. Repent, and turn yourselves from all thy transgressions; so iniquity shall not be thy ruin.
+- **Ezekiel 18:30** (#20513)
+  - was: Therefore I will judge thee, O house of Israel, every one according to his ways, saith the Lord God. Repent, and turn yourselves from all thy transgressions; so iniquity shall not be thy ruin.
+  - now: Therefore I will judge thee, O house of Israel, every one according to his ways, saith the Lord God. Repent, and turn thyself from all thy transgressions; so iniquity shall not be thy ruin.
 - **Ezekiel 18:31** (#16181)
   - was: Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?
   - now: Cast away from thee all thine transgressions, whereby ye have transgressed; and make thee a new heart and a new spirit: for why will ye die, O house of Israel?
 - **Ezekiel 18:31** (#19842)
   - was: Cast away from thee all thine transgressions, whereby ye have transgressed; and make thee a new heart and a new spirit: for why will ye die, O house of Israel?
   - now: Cast away from thee all thy transgressions, whereby ye have transgressed; and make thee a new heart and a new spirit: for why will ye die, O house of Israel?
+- **Ezekiel 18:32** (#20514)
+  - was: For I have no pleasure in the death of him that dieth, saith the Lord God: wherefore turn yourselves, and live ye. 
+  - now: For I have no pleasure in the death of him that dieth, saith the Lord God: wherefore turn thyself, and live ye. 
 - **Ezekiel 19:2** (#3531)
   - was: And say, What is thy mother? A lioness: she lay down among lions, she nourished her whelps among young lions.
   - now: And say, What is thy mother? A lion: she lay down among lions, she nourished her whelps among young lions.
@@ -48970,12 +49246,18 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 20:7** (#19844)
   - was: Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I am the Lord thine God.
   - now: Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I am the Lord thy God.
+- **Ezekiel 20:7** (#20515)
+  - was: Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I am the Lord thy God.
+  - now: Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not thyself with the idols of Egypt: I am the Lord thy God.
 - **Ezekiel 20:18** (#16185)
   - was: But I said unto their children in the wilderness, Walk ye not in the statutes of your fathers, neither observe their judgments, nor defile yourselves with their idols:
   - now: But I said unto their children in the wilderness, Walk ye not in the statutes of thine fathers, neither observe their judgments, nor defile yourselves with their idols:
 - **Ezekiel 20:18** (#19845)
   - was: But I said unto their children in the wilderness, Walk ye not in the statutes of thine fathers, neither observe their judgments, nor defile yourselves with their idols:
   - now: But I said unto their children in the wilderness, Walk ye not in the statutes of thy fathers, neither observe their judgments, nor defile yourselves with their idols:
+- **Ezekiel 20:18** (#20516)
+  - was: But I said unto their children in the wilderness, Walk ye not in the statutes of thy fathers, neither observe their judgments, nor defile yourselves with their idols:
+  - now: But I said unto their children in the wilderness, Walk ye not in the statutes of thy fathers, neither observe their judgments, nor defile thyself with their idols:
 - **Ezekiel 20:19** (#16186)
   - was: I am the Lord your God; walk in my statutes, and keep my judgments, and do them;
   - now: I am the Lord thine God; walk in my statutes, and keep my judgments, and do them;
@@ -49006,6 +49288,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 20:31** (#19850)
   - was: For when ye offer thine gifts, when ye make thine sons to pass through the fire, ye pollute yourselves with all thine idols, even unto this day: and shall I be enquired of by thee, O house of Israel? As I live, saith the Lord God, I will not be enquired of by thee.
   - now: For when ye offer thy gifts, when ye make thy sons to pass through the fire, ye pollute yourselves with all thine idols, even unto this day: and shall I be enquired of by thee, O house of Israel? As I live, saith the Lord God, I will not be enquired of by thee.
+- **Ezekiel 20:31** (#20517)
+  - was: For when ye offer thy gifts, when ye make thy sons to pass through the fire, ye pollute yourselves with all thine idols, even unto this day: and shall I be enquired of by thee, O house of Israel? As I live, saith the Lord God, I will not be enquired of by thee.
+  - now: For when ye offer thy gifts, when ye make thy sons to pass through the fire, ye pollute thyself with all thine idols, even unto this day: and shall I be enquired of by thee, O house of Israel? As I live, saith the Lord God, I will not be enquired of by thee.
 - **Ezekiel 20:32** (#16191)
   - was: And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
   - now: And that which cometh into thine mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
@@ -49060,6 +49345,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 20:43** (#19856)
   - was: And there shall ye remember thine ways, and all thine doings, wherein ye have been defiled; and ye shall lothe yourselves in thine own sight for all thine evils that ye have committed.
   - now: And there shall ye remember thy ways, and all thy doings, wherein ye have been defiled; and ye shall lothe yourselves in thine own sight for all thine evils that ye have committed.
+- **Ezekiel 20:43** (#20518)
+  - was: And there shall ye remember thy ways, and all thy doings, wherein ye have been defiled; and ye shall lothe yourselves in thine own sight for all thine evils that ye have committed.
+  - now: And there shall ye remember thy ways, and all thy doings, wherein ye have been defiled; and ye shall lothe thyself in thine own sight for all thine evils that ye have committed.
 - **Ezekiel 20:44** (#16203)
   - was: And ye shall know that I am the Lord, when I have wrought with you for my name’s sake, not according to your wicked ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord God.
   - now: And ye shall know that I am the Lord, when I have wrought with thee for my name’s sake, not according to thine wicked ways, nor according to thine corrupt doings, O ye house of Israel, saith the Lord God.
@@ -49513,6 +49801,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 36:31** (#19875)
   - was: Then shall ye remember thine own evil ways, and thine doings that were not good, and shall lothe yourselves in thine own sight for thine iniquities and for thine abominations.
   - now: Then shall ye remember thine own evil ways, and thy doings that were not good, and shall lothe yourselves in thine own sight for thine iniquities and for thine abominations.
+- **Ezekiel 36:31** (#20519)
+  - was: Then shall ye remember thine own evil ways, and thy doings that were not good, and shall lothe yourselves in thine own sight for thine iniquities and for thine abominations.
+  - now: Then shall ye remember thine own evil ways, and thy doings that were not good, and shall lothe thyself in thine own sight for thine iniquities and for thine abominations.
 - **Ezekiel 36:32** (#16257)
   - was: Not for your sakes do I this, saith the Lord God, be it known unto you: be ashamed and confounded for your own ways, O house of Israel.
   - now: Not for thine sakes do I this, saith the Lord God, be it known unto thee: be ashamed and confounded for thine own ways, O house of Israel.
@@ -49588,6 +49879,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 39:17** (#16266)
   - was: And, thou son of man, thus saith the Lord God; Speak unto every winged fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for you, even a great sacrifice upon the mountains of Israel, that ye may eat flesh, and drink blood.
   - now: And, thou son of man, thus saith the Lord God; Speak unto every winged fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for thee, even a great sacrifice upon the mountains of Israel, that ye may eat flesh, and drink blood.
+- **Ezekiel 39:17** (#20520)
+  - was: And, thou son of man, thus saith the Lord God; Speak unto every winged fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for thee, even a great sacrifice upon the mountains of Israel, that ye may eat flesh, and drink blood.
+  - now: And, thou son of man, thus saith the Lord God; Speak unto every winged fowl, and to every beast of the field, Assemble thyself, and come; gather thyself on every side to my sacrifice that I do sacrifice for thee, even a great sacrifice upon the mountains of Israel, that ye may eat flesh, and drink blood.
 - **Ezekiel 39:19** (#16267)
   - was: And ye shall eat fat till ye be full, and drink blood till ye be drunken, of my sacrifice which I have sacrificed for you.
   - now: And ye shall eat fat till ye be full, and drink blood till ye be drunken, of my sacrifice which I have sacrificed for thee.
@@ -49630,6 +49924,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 44:7** (#16273)
   - was: In that ye have brought into my sanctuary strangers, uncircumcised in heart, and uncircumcised in flesh, to be in my sanctuary, to pollute it, even my house, when ye offer my bread, the fat and the blood, and they have broken my covenant because of all your abominations.
   - now: In that ye have brought into my sanctuary strangers, uncircumcised in heart, and uncircumcised in flesh, to be in my sanctuary, to pollute it, even my house, when ye offer my bread, the fat and the blood, and they have broken my covenant because of all thine abominations.
+- **Ezekiel 44:8** (#20521)
+  - was: And ye have not kept the charge of mine holy things: but ye have set keepers of my charge in my sanctuary for yourselves.
+  - now: And ye have not kept the charge of mine holy things: but ye have set keepers of my charge in my sanctuary for thyself.
 - **Ezekiel 44:30** (#16274)
   - was: And the first of all the firstfruits of all things, and every oblation of all, of every sort of your oblations, shall be the priest’s: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house.
   - now: And the first of all the firstfruits of all things, and every oblation of all, of every sort of thine oblations, shall be the priest’s: ye shall also give unto the priest the first of thine dough, that he may cause the blessing to rest in thine house.
@@ -50005,6 +50302,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Hosea 10:12** (#19895)
   - was: Sow to yourselves in righteousness, reap in mercy; break up thine ground: for it is time to seek the Lord, till he come and rain righteousness upon thee.
   - now: Sow to yourselves in righteousness, reap in mercy; break up thy ground: for it is time to seek the Lord, till he come and rain righteousness upon thee.
+- **Hosea 10:12** (#20522)
+  - was: Sow to yourselves in righteousness, reap in mercy; break up thy ground: for it is time to seek the Lord, till he come and rain righteousness upon thee.
+  - now: Sow to thyself in righteousness, reap in mercy; break up thy ground: for it is time to seek the Lord, till he come and rain righteousness upon thee.
 - **Hosea 10:15** (#16300)
   - was: So shall Beth–el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off. 
   - now: So shall Beth–el do unto thee because of thine great wickedness: in a morning shall the king of Israel utterly be cut off. 
@@ -50059,6 +50359,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joel 1:13** (#19900)
   - was: Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of thine God.
   - now: Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of thy God.
+- **Joel 1:13** (#20523)
+  - was: Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of thy God.
+  - now: Gird thyself, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of thy God.
 - **Joel 1:14** (#16306)
   - was: Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the Lord your God, and cry unto the Lord,
   - now: Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the Lord thine God, and cry unto the Lord,
@@ -50173,6 +50476,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joel 3:10** (#19912)
   - was: Beat thine plowshares into swords, and thine pruninghooks into spears: let the weak say, I am strong.
   - now: Beat thy plowshares into swords, and thy pruninghooks into spears: let the weak say, I am strong.
+- **Joel 3:11** (#20524)
+  - was: Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O Lord.
+  - now: Assemble thyself, and come, all ye heathen, and gather thyself together round about: thither cause thy mighty ones to come down, O Lord.
 - **Joel 3:12** (#5481)
   - was: Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.
   - now: Let the heathen be stirred up, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.
@@ -50221,6 +50527,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Amos 3:2** (#16328)
   - was: You only have I known of all the families of the earth: therefore I will punish you for all your iniquities.
   - now: Thee only have I known of all the families of the earth: therefore I will punish thee for all thine iniquities.
+- **Amos 3:9** (#20525)
+  - was: Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.
+  - now: Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble thyself upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.
 - **Amos 4:2** (#4029)
   - was: The Lord God hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks.
   - now: The Lord God hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with angles.
@@ -50320,6 +50629,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Amos 5:26** (#19924)
   - was: But ye have borne the tabernacle of thine Moloch and Chiun thine images, the star of thine god, which ye made to yourselves.
   - now: But ye have borne the tabernacle of thy Moloch and Chiun thine images, the star of thy god, which ye made to yourselves.
+- **Amos 5:26** (#20526)
+  - was: But ye have borne the tabernacle of thy Moloch and Chiun thine images, the star of thy god, which ye made to yourselves.
+  - now: But ye have borne the tabernacle of thy Moloch and Chiun thine images, the star of thy god, which ye made to thyself.
 - **Amos 5:27** (#16345)
   - was: Therefore will I cause you to go into captivity beyond Damascus, saith the Lord, whose name is The God of hosts. 
   - now: Therefore will I cause thee to go into captivity beyond Damascus, saith the Lord, whose name is The God of hosts. 
@@ -50647,6 +50959,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Zephaniah 1:18** (#6322)
   - was: Neither their silver nor their gold shall be able to deliver them in the day of the Lord’s wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land. 
   - now: Neither their silver nor their gold shall be able to deliver them in the day of the Lord's wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a sudden end of all them that dwell in the land.
+- **Zephaniah 2:1** (#20527)
+  - was: Gather yourselves together, yea, gather together, O nation not desired;
+  - now: Gather thyself together, yea, gather together, O nation not desired;
 - **Zephaniah 2:2** (#16360)
   - was: Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord’s anger come upon you.
   - now: Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon thee, before the day of the Lord’s anger come upon thee.
@@ -50803,6 +51118,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Zechariah 6:15** (#19939)
   - was: And they that are far off shall come and build in the temple of the Lord, and ye shall know that the Lord of hosts hath sent me unto thee. And this shall come to pass, if ye will diligently obey the voice of the Lord thine God. 
   - now: And they that are far off shall come and build in the temple of the Lord, and ye shall know that the Lord of hosts hath sent me unto thee. And this shall come to pass, if ye will diligently obey the voice of the Lord thy God. 
+- **Zechariah 7:6** (#20528)
+  - was: And when ye did eat, and when ye did drink, did not ye eat for yourselves, and drink for yourselves?
+  - now: And when ye did eat, and when ye did drink, did not ye eat for thyself, and drink for thyself?
 - **Zechariah 7:10** (#16385)
   - was: And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.
   - now: And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of thee imagine evil against his brother in thine heart.
@@ -51124,6 +51442,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 3:9** (#16420)
   - was: And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham.
   - now: And think not to say within yourselves, We have Abraham to our father: for I say unto thee, that God is able of these stones to raise up children unto Abraham.
+- **Matthew 3:9** (#20529)
+  - was: And think not to say within yourselves, We have Abraham to our father: for I say unto thee, that God is able of these stones to raise up children unto Abraham.
+  - now: And think not to say within thyself, We have Abraham to our father: for I say unto thee, that God is able of these stones to raise up children unto Abraham.
 - **Matthew 3:11** (#3378)
   - was: I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:
   - now: I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the spirit of the Lord, and with fire:
@@ -51376,6 +51697,12 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 6:16** (#16445)
   - was: Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they mar their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.
   - now: Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they mar their faces, that they may appear unto men to fast. Verily I say unto thee, They have their reward.
+- **Matthew 6:19** (#20530)
+  - was: Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
+  - now: Lay not up for thyself treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
+- **Matthew 6:20** (#20531)
+  - was: But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
+  - now: But lay up for thyself treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
 - **Matthew 6:21** (#16446)
   - was: For where your treasure is, there will your heart be also.
   - now: For where thine treasure is, there will thine heart be also.
@@ -51805,6 +52132,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 16:4** (#7339)
   - was: A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed.
   - now: A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonah. And he left them, and departed.
+- **Matthew 16:8** (#20532)
+  - was: Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?
+  - now: Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among thyself, because ye have brought no bread?
 - **Matthew 16:11** (#16503)
   - was: How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?
   - now: How is it that ye do not understand that I spake it not to thee concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?
@@ -52099,6 +52429,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 23:13** (#16539)
   - was: But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.
   - now: But woe unto thee, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.
+- **Matthew 23:13** (#20533)
+  - was: But woe unto thee, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.
+  - now: But woe unto thee, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in thyself, neither suffer ye them that are entering to go in.
 - **Matthew 23:14** (#16540)
   - was: Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.
   - now: Woe unto thee, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.
@@ -52108,6 +52441,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 23:15** (#16541)
   - was: Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one convert, and when he is made, ye make him double more the child of hell than yourselves.
   - now: Woe unto thee, scribes and Pharisees, hypocrites! for ye compass sea and land to make one convert, and when he is made, ye make him double more the child of hell than yourselves.
+- **Matthew 23:15** (#20534)
+  - was: Woe unto thee, scribes and Pharisees, hypocrites! for ye compass sea and land to make one convert, and when he is made, ye make him double more the child of hell than yourselves.
+  - now: Woe unto thee, scribes and Pharisees, hypocrites! for ye compass sea and land to make one convert, and when he is made, ye make him double more the child of hell than thyself.
 - **Matthew 23:16** (#16542)
   - was: Woe unto you, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!
   - now: Woe unto thee, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!
@@ -52138,6 +52474,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 23:29** (#16546)
   - was: Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and adorn the sepulchres of the righteous,
   - now: Woe unto thee, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and adorn the sepulchres of the righteous,
+- **Matthew 23:31** (#20535)
+  - was: Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.
+  - now: Wherefore ye be witnesses unto thyself, that ye are the children of them which killed the prophets.
 - **Matthew 23:32** (#16547)
   - was: Fill ye up then the measure of your fathers.
   - now: Fill ye up then the measure of thine fathers.
@@ -52234,6 +52573,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 25:9** (#16564)
   - was: But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.
   - now: But the wise answered, saying, Not so; lest there be not enough for us and thee: but go ye rather to them that sell, and buy for yourselves.
+- **Matthew 25:9** (#20536)
+  - was: But the wise answered, saying, Not so; lest there be not enough for us and thee: but go ye rather to them that sell, and buy for yourselves.
+  - now: But the wise answered, saying, Not so; lest there be not enough for us and thee: but go ye rather to them that sell, and buy for thyself.
 - **Matthew 25:12** (#16565)
   - was: But he answered and said, Verily I say unto you, I know you not.
   - now: But he answered and said, Verily I say unto thee, I know thee not.
@@ -52606,6 +52948,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 6:31** (#5770)
   - was: And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.
   - now: And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no time so much as to eat.
+- **Mark 6:31** (#20537)
+  - was: And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no time so much as to eat.
+  - now: And he said unto them, Come ye thyself apart into a desert place, and rest a while: for there were many coming and going, and they had no time so much as to eat.
 - **Mark 6:32** (#10560)
   - was: And they departed into a desert place by ship privately.
   - now: And they departed into a desert place by ship alone.
@@ -52723,6 +53068,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 9:28** (#10561)
   - was: And when he was come into the house, his disciples asked him privately, Why could not we cast him out?
   - now: And when he was come into the house, his disciples asked him alone, Why could not we cast him out?
+- **Mark 9:33** (#20538)
+  - was: And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?
+  - now: And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among thyself by the way?
 - **Mark 9:40** (#3796)
   - was: For he that is not against us is on our part.
   - now: For he that is not against us is with us.
@@ -52741,6 +53089,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 9:50** (#9154)
   - was: Salt is good: but if the salt have lost its flavour, how shall it be restored? Have salt in yourselves, and have peace one with another.
   - now: Salt is good: but if the salt have lost its savour, how shall it be restored? Have salt in yourselves, and have peace one with another.
+- **Mark 9:50** (#20539)
+  - was: Salt is good: but if the salt have lost its savour, how shall it be restored? Have salt in yourselves, and have peace one with another.
+  - now: Salt is good: but if the salt have lost its savour, how shall it be restored? Have salt in thyself, and have peace one with another.
 - **Mark 10:1** (#5778)
   - was: And he arose from thence, and cometh into the coasts of Judea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
   - now: And he arose from thence, and cometh into the coasts of Judea by the further side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
@@ -52876,6 +53227,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 13:9** (#16619)
   - was: But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
   - now: But take heed to yourselves: for they shall deliver thee up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
+- **Mark 13:9** (#20540)
+  - was: But take heed to yourselves: for they shall deliver thee up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
+  - now: But take heed to thyself: for they shall deliver thee up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
 - **Mark 13:11** (#3385)
   - was: But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.
   - now: But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the spirit of the Lord.
@@ -53245,6 +53599,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 3:8** (#16642)
   - was: Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham.
   - now: Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto thee, That God is able of these stones to raise up children unto Abraham.
+- **Luke 3:8** (#20541)
+  - was: Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto thee, That God is able of these stones to raise up children unto Abraham.
+  - now: Bring forth therefore fruits worthy of repentance, and begin not to say within thyself, We have Abraham to our father: for I say unto thee, That God is able of these stones to raise up children unto Abraham.
 - **Luke 3:11** (#5670)
   - was: He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.
   - now: He answereth and saith unto them, He that hath two coats, let him give to him that hath none; and he that hath meat, let him do likewise.
@@ -53416,6 +53773,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 6:16** (#5680)
   - was: And Judas the brother of James, and Judas Iscariot, which also was the traitor.
   - now: And Judas the brother of James, and Judas Iscariot, which also betrayed him.
+- **Luke 6:20** (#20542)
+  - was: And he lifted up his eyes on his disciples, and said, Blessed be ye poor: for yours is the kingdom of God.
+  - now: And he lifted up his eyes on his disciples, and said, Blessed be ye poor: for thine is the kingdom of God.
 - **Luke 6:22** (#16652)
   - was: Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake.
   - now: Blessed are ye, when men shall hate thee, and when they shall separate thee from their company, and shall reproach thee, and cast out thine name as evil, for the Son of man’s sake.
@@ -53803,6 +54163,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 11:46** (#20021)
   - was: And he said, Woe unto thee also, ye teachers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of thine fingers.
   - now: And he said, Woe unto thee also, ye teachers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of thy fingers.
+- **Luke 11:46** (#20543)
+  - was: And he said, Woe unto thee also, ye teachers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of thy fingers.
+  - now: And he said, Woe unto thee also, ye teachers! for ye lade men with burdens grievous to be borne, and ye thyself touch not the burdens with one of thy fingers.
 - **Luke 11:47** (#16705)
   - was: Woe unto you! for ye build the sepulchres of the prophets, and your fathers killed them.
   - now: Woe unto thee! for ye build the sepulchres of the prophets, and thine fathers killed them.
@@ -53827,6 +54190,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 11:52** (#16708)
   - was: Woe unto you, teachers! for ye have taken away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered.
   - now: Woe unto thee, teachers! for ye have taken away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered.
+- **Luke 11:52** (#20544)
+  - was: Woe unto thee, teachers! for ye have taken away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered.
+  - now: Woe unto thee, teachers! for ye have taken away the key of knowledge: ye entered not in thyself, and them that were entering in ye hindered.
 - **Luke 11:53** (#5700)
   - was: And as he said these things unto them, the scribes and the Pharisees began to urge him vehemently, and to provoke him to speak of many things:
   - now: And as he said these things unto them, the scribes and the Pharisees began to press him vehemently, and to provoke him to speak of many things:
@@ -53908,6 +54274,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 12:32** (#20026)
   - was: Fear not, little flock; for it is thine Father’s good pleasure to give thee the kingdom.
   - now: Fear not, little flock; for it is thy Father’s good pleasure to give thee the kingdom.
+- **Luke 12:33** (#20545)
+  - was: Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.
+  - now: Sell that ye have, and give alms; provide thyself bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.
 - **Luke 12:34** (#16723)
   - was: For where your treasure is, there will your heart be also.
   - now: For where thine treasure is, there will thine heart be also.
@@ -53923,6 +54292,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 12:35** (#20028)
   - was: Let thine loins be adorned about, and thine lights burning;
   - now: Let thy loins be adorned about, and thy lights burning;
+- **Luke 12:36** (#20546)
+  - was: And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.
+  - now: And ye thyself like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.
 - **Luke 12:37** (#16725)
   - was: Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.
   - now: Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto thee, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.
@@ -53935,6 +54307,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 12:51** (#16727)
   - was: Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather a sword:
   - now: Suppose ye that I am come to give peace on earth? I tell thee, Nay; but rather a sword:
+- **Luke 12:57** (#20547)
+  - was: Yea, and why even of yourselves judge ye not what is right?
+  - now: Yea, and why even of thyself judge ye not what is right?
 - **Luke 12:58** (#5706)
   - was: When thou goest with thine adversary to the magistrate, as thou art in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.
   - now: When thou goest with thine adversary to the ruler, as thou art in the way, give diligence that thou mayest be delivered from him; lest he draw thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.
@@ -53971,6 +54346,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 13:28** (#16734)
   - was: There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out.
   - now: There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and thee yourselves thrust out.
+- **Luke 13:28** (#20548)
+  - was: There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and thee yourselves thrust out.
+  - now: There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and thee thyself thrust out.
 - **Luke 13:34** (#5709)
   - was: O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!
   - now: O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her chickens under her wings, and ye would not!
@@ -54043,6 +54421,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 16:9** (#16743)
   - was: And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations.
   - now: And I say unto thee, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive thee into everlasting habitations.
+- **Luke 16:9** (#20549)
+  - was: And I say unto thee, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive thee into everlasting habitations.
+  - now: And I say unto thee, Make to thyself friends of the mammon of unrighteousness; that, when ye fail, they may receive thee into everlasting habitations.
 - **Luke 16:11** (#16744)
   - was: If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?
   - now: If therefore ye have not been faithful in the unrighteous mammon, who will commit to thine trust the true riches?
@@ -54058,6 +54439,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 16:15** (#16746)
   - was: And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
   - now: And he said unto them, Ye are they which justify yourselves before men; but God knoweth thine hearts: for that which is highly esteemed among men is abomination in the sight of God.
+- **Luke 16:15** (#20550)
+  - was: And he said unto them, Ye are they which justify yourselves before men; but God knoweth thine hearts: for that which is highly esteemed among men is abomination in the sight of God.
+  - now: And he said unto them, Ye are they which justify thyself before men; but God knoweth thine hearts: for that which is highly esteemed among men is abomination in the sight of God.
 - **Luke 16:17** (#5717)
   - was: And it is easier for heaven and earth to pass, than one tittle of the law to fail.
   - now: And it is easier for heaven and earth to pass, than one point of the law to fail.
@@ -54082,6 +54466,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 16:26** (#16747)
   - was: And beside all this, between us and you there is a great space fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence.
   - now: And beside all this, between us and thee there is a great space fixed: so that they which would pass from hence to thee cannot; neither can they pass to us, that would come from thence.
+- **Luke 17:3** (#20551)
+  - was: Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.
+  - now: Take heed to thyself: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.
 - **Luke 17:6** (#5722)
   - was: And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you.
   - now: And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this mulberry tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you.
@@ -54097,6 +54484,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 17:10** (#16750)
   - was: So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do.
   - now: So likewise ye, when ye shall have done all those things which are commanded thee, say, We are unprofitable servants: we have done that which was our duty to do.
+- **Luke 17:14** (#20552)
+  - was: And when he saw them, he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed.
+  - now: And when he saw them, he said unto them, Go shew thyself unto the priests. And it came to pass, that, as they went, they were cleansed.
 - **Luke 17:20** (#5724)
   - was: And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:
   - now: And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with shew:
@@ -54286,6 +54676,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 21:34** (#16775)
   - was: And take heed to yourselves, lest at any time your hearts be laden with excess, and drunkenness, and cares of this life, and so that day come upon you unawares.
   - now: And take heed to yourselves, lest at any time thine hearts be laden with excess, and drunkenness, and cares of this life, and so that day come upon thee unawares.
+- **Luke 21:34** (#20553)
+  - was: And take heed to yourselves, lest at any time thine hearts be laden with excess, and drunkenness, and cares of this life, and so that day come upon thee unawares.
+  - now: And take heed to thyself, lest at any time thine hearts be laden with excess, and drunkenness, and cares of this life, and so that day come upon thee unawares.
 - **Luke 22:2** (#18087)
   - was: And the chief priests and scribes sought how they might kill him; for they feared the people.
   - now: And the head priests and scribes sought how they might kill him; for they feared the people.
@@ -54310,6 +54703,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 22:16** (#16779)
   - was: For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.
   - now: For I say unto thee, I will not any more eat thereof, until it be fulfilled in the kingdom of God.
+- **Luke 22:17** (#20554)
+  - was: And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:
+  - now: And he took the cup, and gave thanks, and said, Take this, and divide it among thyself:
 - **Luke 22:18** (#16780)
   - was: For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.
   - now: For I say unto thee, I will not drink of the fruit of the vine, until the kingdom of God shall come.
@@ -54409,6 +54805,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 23:28** (#20032)
   - was: But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for thine children.
   - now: But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for thy children.
+- **Luke 23:28** (#20555)
+  - was: But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for thy children.
+  - now: But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for thyself, and for thy children.
 - **Luke 23:35** (#5744)
   - was: And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God.
   - now: And the people stood beholding. And the rulers also with them mocked him, saying, He saved others; let him save himself, if he be Christ, the chosen of God.
@@ -54532,6 +54931,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 3:16** (#3828)
   - was: For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
   - now: For God so loved the world that He gave His only begotten Son, that whosoever believeth in Him shall not perish, but have everlasting life.
+- **John 3:28** (#20556)
+  - was: Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.
+  - now: Ye thyself bear me witness, that I said, I am not the Christ, but that I am sent before him.
 - **John 3:30** (#5488)
   - was: He must increase, but I must decrease.
   - now: He must increase, but I must diminish.
@@ -54607,6 +55009,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 6:36** (#16815)
   - was: But I said unto you, That ye also have seen me, and believe not.
   - now: But I said unto thee, That ye also have seen me, and believe not.
+- **John 6:43** (#20557)
+  - was: Jesus therefore answered and said unto them, Murmur not among yourselves.
+  - now: Jesus therefore answered and said unto them, Murmur not among thyself.
 - **John 6:47** (#16816)
   - was: Verily, verily, I say unto you, He that believeth on me hath everlasting life.
   - now: Verily, verily, I say unto thee, He that believeth on me hath everlasting life.
@@ -55108,6 +55513,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 15:20** (#16903)
   - was: Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
   - now: Remember the word that I said unto thee, The servant is not greater than his lord. If they have persecuted me, they will also persecute thee; if they have kept my saying, they will keep yours also.
+- **John 15:20** (#20558)
+  - was: Remember the word that I said unto thee, The servant is not greater than his lord. If they have persecuted me, they will also persecute thee; if they have kept my saying, they will keep yours also.
+  - now: Remember the word that I said unto thee, The servant is not greater than his lord. If they have persecuted me, they will also persecute thee; if they have kept my saying, they will keep thine also.
 - **John 15:21** (#16904)
   - was: But all these things will they do unto you for my name’s sake, because they know not him that sent me.
   - now: But all these things will they do unto thee for my name’s sake, because they know not him that sent me.
@@ -55165,6 +55573,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 16:15** (#16916)
   - was: All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you.
   - now: All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto thee.
+- **John 16:19** (#20559)
+  - was: Now Jesus knew that they were desirous to ask him, and said unto them, Do ye enquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?
+  - now: Now Jesus knew that they were desirous to ask him, and said unto them, Do ye enquire among thyself of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?
 - **John 16:20** (#16917)
   - was: Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.
   - now: Verily, verily, I say unto thee, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but thine sorrow shall be turned into joy.
@@ -55405,6 +55816,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 2:22** (#16941)
   - was: Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as ye yourselves also know:
   - now: Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among thee by miracles and wonders and signs, which God did by him in the midst of thee, as ye yourselves also know:
+- **Acts 2:22** (#20560)
+  - was: Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among thee by miracles and wonders and signs, which God did by him in the midst of thee, as ye yourselves also know:
+  - now: Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among thee by miracles and wonders and signs, which God did by him in the midst of thee, as ye thyself also know:
 - **Acts 2:23** (#3882)
   - was: Him, being delivered by the determinate counsel and foreknowledge of God, ye have taken, and by wicked hands have crucified and slain:
   - now: Him, being delivered by the purposed counsel and purpose of God, ye have taken, and by wicked hands have crucified and slain:
@@ -55438,6 +55852,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 2:40** (#3885)
   - was: And with many other words did he testify and exhort, saying, Save yourselves from this untoward generation.
   - now: And with many other words did he testify and exhort, saying, Save yourselves from this perverse generation.
+- **Acts 2:40** (#20561)
+  - was: And with many other words did he testify and exhort, saying, Save yourselves from this perverse generation.
+  - now: And with many other words did he testify and exhort, saying, Save thyself from this perverse generation.
 - **Acts 3:5** (#3886)
   - was: And he gave heed unto them, expecting to receive something of them.
   - now: And he gave heed unto them, looking to receive something of them.
@@ -55552,6 +55969,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 5:34** (#3897)
   - was: Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;
   - now: Then stood there up one in the council, a Pharisee, named Gamaliel, a teacher of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;
+- **Acts 5:35** (#20562)
+  - was: And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men.
+  - now: And said unto them, Ye men of Israel, take heed to thyself what ye intend to do as touching these men.
 - **Acts 5:36** (#3898)
   - was: For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.
   - now: For before these days rose up Theudas, boasting himself to be some man; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.
@@ -55867,6 +56287,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 13:46** (#16969)
   - was: Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves not worthy of everlasting life, lo, we turn to the Gentiles.
   - now: Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to thee: but seeing ye put it from thee, and judge yourselves not worthy of everlasting life, lo, we turn to the Gentiles.
+- **Acts 13:46** (#20563)
+  - was: Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to thee: but seeing ye put it from thee, and judge yourselves not worthy of everlasting life, lo, we turn to the Gentiles.
+  - now: Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to thee: but seeing ye put it from thee, and judge thyself not worthy of everlasting life, lo, we turn to the Gentiles.
 - **Acts 13:50** (#17892)
   - was: But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts.
   - now: But the Jews stirred up the devout and honourable women, and the head of the house of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts.
@@ -55948,6 +56371,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 15:28** (#16974)
   - was: For it seemed good to the spirit of the Lord, and to us, to lay upon you no greater burden than these necessary things;
   - now: For it seemed good to the spirit of the Lord, and to us, to lay upon thee no greater burden than these necessary things;
+- **Acts 15:29** (#20564)
+  - was: That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well.
+  - now: That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep thyself, ye shall do well. Fare ye well.
 - **Acts 15:30** (#11833)
   - was: So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:
   - now: So when they parted, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:
@@ -56200,6 +56626,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 20:9** (#3971)
   - was: And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third loft, and was taken up dead.
   - now: And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third chamber, and was taken up dead.
+- **Acts 20:10** (#20565)
+  - was: And Paul went down, and fell on him, and embracing him said, Trouble not yourselves; for his life is in him.
+  - now: And Paul went down, and fell on him, and embracing him said, Trouble not thyself; for his life is in him.
 - **Acts 20:13** (#3972)
   - was: And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot.
   - now: And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go on foot.
@@ -56236,6 +56665,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 20:28** (#16989)
   - was: Take heed therefore unto yourselves, and to all the flock, over the which the spirit of the Lord hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
   - now: Take heed therefore unto yourselves, and to all the flock, over the which the spirit of the Lord hath made thee overseers, to feed the church of God, which he hath purchased with his own blood.
+- **Acts 20:28** (#20566)
+  - was: Take heed therefore unto yourselves, and to all the flock, over the which the spirit of the Lord hath made thee overseers, to feed the church of God, which he hath purchased with his own blood.
+  - now: Take heed therefore unto thyself, and to all the flock, over the which the spirit of the Lord hath made thee overseers, to feed the church of God, which he hath purchased with his own blood.
 - **Acts 20:29** (#16990)
   - was: For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
   - now: For I know this, that after my departing shall grievous wolves enter in among thee, not sparing the flock.
@@ -56245,6 +56677,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 20:32** (#16992)
   - was: And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.
   - now: And now, brethren, I commend thee to God, and to the word of his grace, which is able to build thee up, and to give thee an inheritance among all them which are sanctified.
+- **Acts 20:34** (#20567)
+  - was: Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.
+  - now: Yea, ye thyself know, that these hands have ministered unto my necessities, and to them that were with me.
 - **Acts 20:35** (#3976)
   - was: I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
   - now: I have shewed you all things, how that so labouring ye ought to help the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
@@ -57049,9 +57484,15 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Romans 12:16** (#17020)
   - was: Be of the same mind one toward another. Mind not high things, but make yourselves equal to men of low estate. Be not wise in your own eyes.
   - now: Be of the same mind one toward another. Mind not high things, but make yourselves equal to men of low estate. Be not wise in thine own eyes.
+- **Romans 12:16** (#20568)
+  - was: Be of the same mind one toward another. Mind not high things, but make yourselves equal to men of low estate. Be not wise in thine own eyes.
+  - now: Be of the same mind one toward another. Mind not high things, but make thyself equal to men of low estate. Be not wise in thine own eyes.
 - **Romans 12:18** (#17021)
   - was: If it be possible, as much as lieth in you, live peaceably with all men.
   - now: If it be possible, as much as lieth in thee, live peaceably with all men.
+- **Romans 12:19** (#20569)
+  - was: Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.
+  - now: Dearly beloved, avenge not thyself, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.
 - **Romans 13:3** (#17022)
   - was: For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
   - now: For rulers are not a fear to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
@@ -57376,6 +57817,12 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 3:18** (#17065)
   - was: Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.
   - now: Let no man deceive himself. If any man among thee seemeth to be wise in this world, let him become a fool, that he may be wise.
+- **I Corinthians 3:21** (#20570)
+  - was: Therefore let no man glory in men. For all things are yours;
+  - now: Therefore let no man glory in men. For all things are thine;
+- **I Corinthians 3:22** (#20571)
+  - was: Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
+  - now: Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are thine;
 - **I Corinthians 4:3** (#17066)
   - was: But with me it is a very small thing that I should be judged of you, or of man’s judgment: yea, I judge not mine own self.
   - now: But with me it is a very small thing that I should be judged of thee, or of man’s judgment: yea, I judge not mine own self.
@@ -57469,6 +57916,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 5:11** (#17080)
   - was: But now I have written unto you not to keep company, if any man that is called a brother be a whoremonger, or covetous, or a worshipper of idols, or a scorner, or a drunkard, or an extortioner; with such an one no not to eat.
   - now: But now I have written unto thee not to keep company, if any man that is called a brother be a whoremonger, or covetous, or a worshipper of idols, or a scorner, or a drunkard, or an extortioner; with such an one no not to eat.
+- **I Corinthians 5:13** (#20572)
+  - was: But them that are without God judgeth. Therefore put away from among yourselves that wicked person. 
+  - now: But them that are without God judgeth. Therefore put away from among thyself that wicked person. 
 - **I Corinthians 6:1** (#17081)
   - was: Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
   - now: Dare any of thee, having a matter against another, go to law before the unjust, and not before the saints?
@@ -57487,6 +57937,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 6:7** (#17084)
   - was: Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?
   - now: Now therefore there is utterly a fault among thee, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?
+- **I Corinthians 6:7** (#20573)
+  - was: Now therefore there is utterly a fault among thee, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?
+  - now: Now therefore there is utterly a fault among thee, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer thyself to be defrauded?
 - **I Corinthians 6:8** (#17085)
   - was: Nay, ye do wrong, and defraud, and that your brethren.
   - now: Nay, ye do wrong, and defraud, and that thine brethren.
@@ -57535,6 +57988,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 7:5** (#17090)
   - was: Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your excess.
   - now: Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt thee not for thine excess.
+- **I Corinthians 7:5** (#20574)
+  - was: Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt thee not for thine excess.
+  - now: Defraud ye not one the other, except it be with consent for a time, that ye may give thyself to fasting and prayer; and come together again, that Satan tempt thee not for thine excess.
 - **I Corinthians 7:6** (#4621)
   - was: But I speak this by permission, and not of commandment.
   - now: But I speak this by leave, and not of commandment.
@@ -57574,6 +58030,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 8:9** (#3585)
   - was: But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak.
   - now: But take heed lest by any means this liberty of yours become a stumbling block to them that are weak.
+- **I Corinthians 8:9** (#20575)
+  - was: But take heed lest by any means this liberty of yours become a stumbling block to them that are weak.
+  - now: But take heed lest by any means this liberty of thine become a stumbling block to them that are weak.
 - **I Corinthians 8:10** (#4625)
   - was: For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
   - now: For if any man see thee which hast knowledge sit at meat in the idol's temple, shall not the conscience of him which is weak be strengthened to eat those things which are offered to idols;
@@ -57631,6 +58090,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 11:3** (#17103)
   - was: But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.
   - now: But I would have thee know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.
+- **I Corinthians 11:13** (#20576)
+  - was: Judge in yourselves: is it comely that a woman pray unto God uncovered?
+  - now: Judge in thyself: is it comely that a woman pray unto God uncovered?
 - **I Corinthians 11:14** (#17104)
   - was: Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?
   - now: Doth not even nature itself teach thee, that, if a man have long hair, it is a shame unto him?
@@ -57937,12 +58399,18 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 16:15** (#17141)
   - was: I beseech you, brethren, ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have devoted themselves to the ministry of the saints,
   - now: I beseech thee, brethren, ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have devoted themselves to the ministry of the saints,
+- **I Corinthians 16:16** (#20577)
+  - was: That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth.
+  - now: That ye submit thyself unto such, and to every one that helpeth with us, and laboureth.
 - **I Corinthians 16:17** (#17142)
   - was: I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.
   - now: I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on thine part they have supplied.
 - **I Corinthians 16:17** (#20108)
   - was: I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on thine part they have supplied.
   - now: I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on thy part they have supplied.
+- **I Corinthians 16:18** (#20578)
+  - was: For they have refreshed my spirit and yours: therefore acknowledge ye them that are such.
+  - now: For they have refreshed my spirit and thine: therefore acknowledge ye them that are such.
 - **I Corinthians 16:19** (#6794)
   - was: The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.
   - now: The churches of Asia hail you. Aquila and Priscilla hail you much in the Lord, with the church that is in their house.
@@ -58225,6 +58693,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 7:11** (#17187)
   - was: For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.
   - now: For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in thee, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.
+- **II Corinthians 7:11** (#20579)
+  - was: For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in thee, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.
+  - now: For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in thee, yea, what clearing of thyself, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved thyself to be clear in this matter.
 - **II Corinthians 7:12** (#17188)
   - was: Wherefore, though I wrote unto you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you.
   - now: Wherefore, though I wrote unto thee, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for thee in the sight of God might appear unto thee.
@@ -58510,6 +58981,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 11:13** (#4901)
   - was: For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
   - now: For such are false apostles, deceitful workers, fashioning themselves into the apostles of Christ.
+- **II Corinthians 11:19** (#20580)
+  - was: For ye suffer fools gladly, seeing ye yourselves are wise.
+  - now: For ye suffer fools gladly, seeing ye thyself are wise.
 - **II Corinthians 11:20** (#17231)
   - was: For ye suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man smite you on the face.
   - now: For ye suffer, if a man bring thee into bondage, if a man devour thee, if a man take of thee, if a man exalt himself, if a man smite thee on the face.
@@ -58573,6 +59047,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 12:14** (#17235)
   - was: Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.
   - now: Behold, the third time I am ready to come to thee; and I will not be burdensome to thee: for I seek not yours, but thee: for the children ought not to lay up for the parents, but the parents for the children.
+- **II Corinthians 12:14** (#20581)
+  - was: Behold, the third time I am ready to come to thee; and I will not be burdensome to thee: for I seek not yours, but thee: for the children ought not to lay up for the parents, but the parents for the children.
+  - now: Behold, the third time I am ready to come to thee; and I will not be burdensome to thee: for I seek not thine, but thee: for the children ought not to lay up for the parents, but the parents for the children.
 - **II Corinthians 12:15** (#17236)
   - was: And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.
   - now: And I will very gladly spend and be spent for thee; though the more abundantly I love thee, the less I be loved.
@@ -58624,6 +59101,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 13:5** (#17247)
   - was: Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
   - now: Examine yourselves, whether ye be in the faith; prove thine own selves. Know ye not thine own selves, how that Jesus Christ is in thee, except ye be reprobates?
+- **II Corinthians 13:5** (#20582)
+  - was: Examine yourselves, whether ye be in the faith; prove thine own selves. Know ye not thine own selves, how that Jesus Christ is in thee, except ye be reprobates?
+  - now: Examine thyself, whether ye be in the faith; prove thine own selves. Know ye not thine own selves, how that Jesus Christ is in thee, except ye be reprobates?
 - **II Corinthians 13:9** (#17248)
   - was: For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.
   - now: For we are glad, when we are weak, and ye are strong: and this also we wish, even thine perfection.
@@ -58927,6 +59407,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ephesians 2:5** (#3209)
   - was: Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)
   - now: Even when we were dead in sins, hath quickened us together with Christ, by grace ye are saved;
+- **Ephesians 2:8** (#20583)
+  - was: For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
+  - now: For by grace are ye saved through faith; and that not of thyself: it is the gift of God:
 - **Ephesians 2:12** (#4190)
   - was: That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
   - now: That at that time ye were without Christ, being aliens from the birthright of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
@@ -59098,9 +59581,18 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ephesians 5:19** (#17308)
   - was: Speaking to yourselves in psalms and praises and spiritual songs, singing and making melody in your heart to the Lord;
   - now: Speaking to yourselves in psalms and praises and spiritual songs, singing and making melody in thine heart to the Lord;
+- **Ephesians 5:19** (#20584)
+  - was: Speaking to yourselves in psalms and praises and spiritual songs, singing and making melody in thine heart to the Lord;
+  - now: Speaking to thyself in psalms and praises and spiritual songs, singing and making melody in thine heart to the Lord;
+- **Ephesians 5:21** (#20585)
+  - was: Submitting yourselves one to another in the fear of God.
+  - now: Submitting thyself one to another in the fear of God.
 - **Ephesians 5:22** (#17309)
   - was: Wives, submit yourselves unto your own husbands, as unto the Lord.
   - now: Wives, submit yourselves unto thine own husbands, as unto the Lord.
+- **Ephesians 5:22** (#20586)
+  - was: Wives, submit yourselves unto thine own husbands, as unto the Lord.
+  - now: Wives, submit thyself unto thine own husbands, as unto the Lord.
 - **Ephesians 5:25** (#17310)
   - was: Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
   - now: Husbands, love thine wives, even as Christ also loved the church, and gave himself for it;
@@ -59818,6 +60310,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Thessalonians 2:1** (#17379)
   - was: For yourselves, brethren, know our entrance in unto you, that it was not in vain:
   - now: For yourselves, brethren, know our entrance in unto thee, that it was not in vain:
+- **I Thessalonians 2:1** (#20587)
+  - was: For yourselves, brethren, know our entrance in unto thee, that it was not in vain:
+  - now: For thyself, brethren, know our entrance in unto thee, that it was not in vain:
 - **I Thessalonians 2:2** (#17380)
   - was: But even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention.
   - now: But even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto thee the gospel of God with much contention.
@@ -59890,6 +60385,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Thessalonians 3:2** (#20172)
   - was: And sent Timothy, our brother, and minister of God, and our helper in the gospel of Christ, to establish thee, and to comfort thee concerning thine faith:
   - now: And sent Timothy, our brother, and minister of God, and our helper in the gospel of Christ, to establish thee, and to comfort thee concerning thy faith:
+- **I Thessalonians 3:3** (#20588)
+  - was: That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.
+  - now: That no man should be moved by these afflictions: for thyself know that we are appointed thereunto.
 - **I Thessalonians 3:4** (#17393)
   - was: For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and ye know.
   - now: For verily, when we were with thee, we told thee before that we should suffer tribulation; even as it came to pass, and ye know.
@@ -59974,6 +60472,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Thessalonians 4:9** (#17407)
   - was: But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.
   - now: But as touching brotherly love ye need not that I write unto thee: for ye yourselves are taught of God to love one another.
+- **I Thessalonians 4:9** (#20589)
+  - was: But as touching brotherly love ye need not that I write unto thee: for ye yourselves are taught of God to love one another.
+  - now: But as touching brotherly love ye need not that I write unto thee: for ye thyself are taught of God to love one another.
 - **I Thessalonians 4:10** (#17408)
   - was: And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;
   - now: And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech thee, brethren, that ye increase more and more;
@@ -59992,18 +60493,30 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Thessalonians 5:1** (#17412)
   - was: But of the times and the seasons, brethren, ye have no need that I write unto you.
   - now: But of the times and the seasons, brethren, ye have no need that I write unto thee.
+- **I Thessalonians 5:2** (#20590)
+  - was: For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.
+  - now: For thyself know perfectly that the day of the Lord so cometh as a thief in the night.
 - **I Thessalonians 5:4** (#17413)
   - was: But ye, brethren, are not in darkness, that that day should overtake you as a thief.
   - now: But ye, brethren, are not in darkness, that that day should overtake thee as a thief.
+- **I Thessalonians 5:11** (#20591)
+  - was: Wherefore comfort yourselves together, and edify one another, even as also ye do.
+  - now: Wherefore comfort thyself together, and edify one another, even as also ye do.
 - **I Thessalonians 5:12** (#17414)
   - was: And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;
   - now: And we beseech thee, brethren, to know them which labour among thee, and are over thee in the Lord, and admonish thee;
+- **I Thessalonians 5:13** (#20592)
+  - was: And to esteem them very highly in love for their work’s sake. And be at peace among yourselves.
+  - now: And to esteem them very highly in love for their work’s sake. And be at peace among thyself.
 - **I Thessalonians 5:14** (#4784)
   - was: Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men. 
   - now: Now we exhort you, brethren, warn them that are unruly, comfort the fainthearted, help the weak, be patient toward all men.
 - **I Thessalonians 5:14** (#17415)
   - was: Now we exhort you, brethren, warn them that are unruly, comfort the fainthearted, help the weak, be patient toward all men.
   - now: Now we exhort thee, brethren, warn them that are unruly, comfort the fainthearted, help the weak, be patient toward all men.
+- **I Thessalonians 5:15** (#20593)
+  - was: See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men. 
+  - now: See that none render evil for evil unto any man; but ever follow that which is good, both among thyself, and to all men. 
 - **I Thessalonians 5:18** (#17416)
   - was: In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
   - now: In every thing give thanks: for this is the will of God in Christ Jesus concerning thee.
@@ -60127,12 +60640,18 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Thessalonians 3:6** (#17439)
   - was: Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh astray, and not after the tradition which he received of us.
   - now: Now we command thee, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh astray, and not after the tradition which he received of us.
+- **II Thessalonians 3:6** (#20594)
+  - was: Now we command thee, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh astray, and not after the tradition which he received of us.
+  - now: Now we command thee, brethren, in the name of our Lord Jesus Christ, that ye withdraw thyself from every brother that walketh astray, and not after the tradition which he received of us.
 - **II Thessalonians 3:7** (#11911)
   - was: For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;
   - now: For yourselves know how ye ought to follow us: for we behaved not ourselves astray among you;
 - **II Thessalonians 3:7** (#17440)
   - was: For yourselves know how ye ought to follow us: for we behaved not ourselves astray among you;
   - now: For yourselves know how ye ought to follow us: for we behaved not ourselves astray among thee;
+- **II Thessalonians 3:7** (#20595)
+  - was: For yourselves know how ye ought to follow us: for we behaved not ourselves astray among thee;
+  - now: For thyself know how ye ought to follow us: for we behaved not ourselves astray among thee;
 - **II Thessalonians 3:8** (#17441)
   - was: Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
   - now: Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of thee:
@@ -60940,6 +61459,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Hebrews 10:34** (#20187)
   - was: For ye had compassion of me in my bonds, and took joyfully the spoiling of thine goods, knowing in yourselves that ye have in heaven a better and an enduring substance.
   - now: For ye had compassion of me in my bonds, and took joyfully the spoiling of thy goods, knowing in yourselves that ye have in heaven a better and an enduring substance.
+- **Hebrews 10:34** (#20596)
+  - was: For ye had compassion of me in my bonds, and took joyfully the spoiling of thy goods, knowing in yourselves that ye have in heaven a better and an enduring substance.
+  - now: For ye had compassion of me in my bonds, and took joyfully the spoiling of thy goods, knowing in thyself that ye have in heaven a better and an enduring substance.
 - **Hebrews 10:35** (#17468)
   - was: Cast not away therefore your confidence, which hath great recompence of reward.
   - now: Cast not away therefore thine confidence, which hath great recompence of reward.
@@ -61042,6 +61564,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Hebrews 13:2** (#4562)
   - was: Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.
   - now: Forget not to lodge strangers: for thereby some have lodged angels unawares.
+- **Hebrews 13:3** (#20597)
+  - was: Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.
+  - now: Remember them that are in bonds, as bound with them; and them which suffer adversity, as being thyself also in the body.
 - **Hebrews 13:5** (#17474)
   - was: Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
   - now: Let thine conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
@@ -61060,6 +61585,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Hebrews 13:17** (#20192)
   - was: Obey them that have the rule over thee, and submit yourselves: for they watch for thine souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for thee.
   - now: Obey them that have the rule over thee, and submit yourselves: for they watch for thy souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for thee.
+- **Hebrews 13:17** (#20598)
+  - was: Obey them that have the rule over thee, and submit yourselves: for they watch for thy souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for thee.
+  - now: Obey them that have the rule over thee, and submit thyself: for they watch for thy souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for thee.
 - **Hebrews 13:19** (#4563)
   - was: But I beseech you the rather to do this, that I may be restored to you the sooner.
   - now: But I beseech you the rather to do this, that I may be restored to you more quickly.
@@ -61168,6 +61696,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **James 2:4** (#9089)
   - was: Are ye not then respecters of persons among yourselves, and are become judges of evil thoughts?
   - now: Do ye not then make a difference among yourselves, and are become judges of evil thoughts?
+- **James 2:4** (#20599)
+  - was: Do ye not then make a difference among yourselves, and are become judges of evil thoughts?
+  - now: Do ye not then make a difference among thyself, and are become judges of evil thoughts?
 - **James 2:6** (#17488)
   - was: But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?
   - now: But ye have despised the poor. Do not rich men oppress thee, and draw thee before the judgment seats?
@@ -61231,6 +61762,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **James 4:7** (#17494)
   - was: Submit yourselves therefore to God. Resist the devil, and he will flee from you.
   - now: Submit yourselves therefore to God. Resist the devil, and he will flee from thee.
+- **James 4:7** (#20600)
+  - was: Submit yourselves therefore to God. Resist the devil, and he will flee from thee.
+  - now: Submit thyself therefore to God. Resist the devil, and he will flee from thee.
 - **James 4:8** (#17495)
   - was: Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.
   - now: Draw nigh to God, and he will draw nigh to thee. Cleanse thine hands, ye sinners; and purify thine hearts, ye double minded.
@@ -61243,6 +61777,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **James 4:10** (#17497)
   - was: Humble yourselves in the sight of the Lord, and he shall lift you up.
   - now: Humble yourselves in the sight of the Lord, and he shall lift thee up.
+- **James 4:10** (#20601)
+  - was: Humble yourselves in the sight of the Lord, and he shall lift thee up.
+  - now: Humble thyself in the sight of the Lord, and he shall lift thee up.
 - **James 4:14** (#17498)
   - was: Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.
   - now: Whereas ye know not what shall be on the morrow. For what is thine life? It is even a vapour, that appeareth for a little time, and then vanisheth away.
@@ -61375,6 +61912,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Peter 1:14** (#17520)
   - was: As obedient children, not fashioning yourselves according to the former lusts in your ignorance:
   - now: As obedient children, not fashioning yourselves according to the former lusts in thine ignorance:
+- **I Peter 1:14** (#20602)
+  - was: As obedient children, not fashioning yourselves according to the former lusts in thine ignorance:
+  - now: As obedient children, not fashioning thyself according to the former lusts in thine ignorance:
 - **I Peter 1:15** (#17521)
   - was: But as he which hath called you is holy, so be ye holy in all manner of conversation;
   - now: But as he which hath called thee is holy, so be ye holy in all manner of conversation;
@@ -61447,6 +61987,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Peter 2:13** (#4701)
   - was: Submit yourselves to every ordinance of man for the Lord’s sake: whether it be to the king, as supreme;
   - now: Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as the highest;
+- **I Peter 2:13** (#20603)
+  - was: Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as the highest;
+  - now: Submit thyself to every ordinance of man for the Lord's sake: whether it be to the king, as the highest;
 - **I Peter 2:16** (#4702)
   - was: As free, and not using your liberty for a cloke of maliciousness, but as the servants of God.
   - now: As free, and not using your liberty for a cloke of wickedness, but as the servants of God.
@@ -61549,6 +62092,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Peter 3:21** (#3372)
   - was: The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
   - now: The like figure whereunto even baptism doth also now save us not the putting away of the filth of the flesh, but the answer of a good conscience toward God, by the resurrection of Jesus Christ:
+- **I Peter 4:1** (#20604)
+  - was: Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;
+  - now: Forasmuch then as Christ hath suffered for us in the flesh, arm thyself likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;
 - **I Peter 4:3** (#4712)
   - was: For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
   - now: For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, rioting, feasts, and abominable idolatries:
@@ -61558,6 +62104,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Peter 4:8** (#6828)
   - was: And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.
   - now: And above all things have fervent love among yourselves: for love shall cover the multitude of sins.
+- **I Peter 4:8** (#20605)
+  - was: And above all things have fervent love among yourselves: for love shall cover the multitude of sins.
+  - now: And above all things have fervent love among thyself: for love shall cover the multitude of sins.
 - **I Peter 4:10** (#10474)
   - was: As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.
   - now: As every man hath received the gift, even so minister the same one to another, as good stewards of the abundant grace of God.
@@ -61594,9 +62143,15 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Peter 5:5** (#17550)
   - was: Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
   - now: Likewise, ye younger, submit yourselves unto the elder. Yea, all of thee be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
+- **I Peter 5:5** (#20606)
+  - was: Likewise, ye younger, submit yourselves unto the elder. Yea, all of thee be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
+  - now: Likewise, ye younger, submit thyself unto the elder. Yea, all of thee be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
 - **I Peter 5:6** (#17551)
   - was: Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
   - now: Humble yourselves therefore under the mighty hand of God, that he may exalt thee in due time:
+- **I Peter 5:6** (#20607)
+  - was: Humble yourselves therefore under the mighty hand of God, that he may exalt thee in due time:
+  - now: Humble thyself therefore under the mighty hand of God, that he may exalt thee in due time:
 - **I Peter 5:7** (#3869)
   - was: Casting all your care upon him; for he careth for you.
   - now: Casting all your cares upon Him, for He careth for you.
@@ -61885,9 +62440,15 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I John 5:13** (#17592)
   - was: These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
   - now: These things have I written unto thee that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
+- **I John 5:21** (#20608)
+  - was: Little children, keep yourselves from idols. Amen.  
+  - now: Little children, keep thyself from idols. Amen.  
 - **II John 1:3** (#17593)
   - was: Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
   - now: Grace be with thee, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
+- **II John 1:8** (#20609)
+  - was: Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.
+  - now: Look to thyself, that we lose not those things which we have wrought, but that we receive a full reward.
 - **II John 1:10** (#17594)
   - was: If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:
   - now: If there come any unto thee, and bring not this doctrine, receive him not into thine house, neither bid him God speed:
@@ -61981,6 +62542,12 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jude 1:20** (#20230)
   - was: But ye, beloved, building up yourselves on thine most holy faith, praying in the spirit of the Lord,
   - now: But ye, beloved, building up yourselves on thy most holy faith, praying in the spirit of the Lord,
+- **Jude 1:20** (#20610)
+  - was: But ye, beloved, building up yourselves on thy most holy faith, praying in the spirit of the Lord,
+  - now: But ye, beloved, building up thyself on thy most holy faith, praying in the spirit of the Lord,
+- **Jude 1:21** (#20611)
+  - was: Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
+  - now: Keep thyself in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
 - **Jude 1:24** (#5540)
   - was: Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,
   - now: Now unto him that is able to keep you from falling, and to present you blameless before the presence of his glory with exceeding joy,
@@ -62218,6 +62785,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Revelation of John 19:7** (#11464)
   - was: Let us rejoice and exult and give him glory, for the marriage of the Lamb has come, and his Bride has made herself ready.
   - now: Let us rejoice and give him glory, for the marriage of the Lamb hath come, and his Bride hath made herself ready.
+- **Revelation of John 19:17** (#20612)
+  - was: And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;
+  - now: And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather thyself together unto the supper of the great God;
 - **Revelation of John 21:21** (#6219)
   - was: And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.
   - now: And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were clear glass.
@@ -62474,13 +63044,13 @@ The settings this edition was built from.
 | `tellest` | `tell` | 1 | built-in |
 | `telleth` | `tells` | 7 | built-in |
 | `thee` | `you` | 6440 | built-in |
-| `thine` | `your` | 1332 | built-in |
+| `thine` | `your` | 1344 | built-in |
 | `thinkest` | `think` | 9 | built-in |
 | `thinketh` | `thinks` | 8 | built-in |
 | `thither` | `there` | 95 | built-in |
 | `thou` | `you` | 5479 | built-in |
 | `thy` | `your` | 5991 | built-in |
-| `thyself` | `yourself` | 212 | built-in |
+| `thyself` | `yourself` | 400 | built-in |
 | `tookest` | `took` | 2 | built-in |
 | `toucheth` | `touches` | 40 | built-in |
 | `trustest` | `trust` | 6 | built-in |
