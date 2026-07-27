@@ -1295,7 +1295,7 @@
 
 # Round-3 owner keeps (2026-07-20)
 
-*Words the owner ruled KEEP (whitelist) in the round-3 rare-word review (references/rare_word_round3_review.md). Each inflected form is protected. Folded into the whitelist by scripts/29_build_whitelist.py.*
+*Words the owner ruled KEEP (whitelist) in the round-3 rare-word review (references/rounds/round3/rare_word_round3_review.md). Each inflected form is protected. Folded into the whitelist by scripts/29_build_whitelist.py.*
 
 ## adulteress → NO-SAFE-SWAP — Leviticus 20:10
 - verdict: NO-SAFE-SWAP

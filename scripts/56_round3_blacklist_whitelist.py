@@ -4,12 +4,12 @@ blacklist (words replaced) and whitelist (words replacing them). Owner directive
 2026-07-21: "all replaced words -> blacklist; all words replacing them -> whitelist."
 
 - Blacklist: writes the round-3 replacements to a builder source,
-  references/rare_word_round3_replacements.md (per-verse `## old → new — ref`
+  references/rounds/round3/rare_word_round3_replacements.md (per-verse `## old → new — ref`
   format), which scripts/49_build_blacklist.py now reads (round3()) and folds
   into references/word_blacklist.md — integrated alphabetically and durably,
   exactly like the whitelist path.
 - Whitelist: appends the round-3 replacement words to the owner-reviewed source
-  references/rare_word_review_no_safe_swap.md so scripts/29_build_whitelist.py
+  references/word_lists/rare_word_review_no_safe_swap.md so scripts/29_build_whitelist.py
   folds them into references/word_whitelist.md durably.
 
 Idempotent. After running:
@@ -21,10 +21,10 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-REVIEW = ROOT / "references" / "rare_word_round3_review.md"
-RECORD = ROOT / "references" / "rare_word_round3_applied.md"
-BL_SRC = ROOT / "references" / "rare_word_round3_replacements.md"
-NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
+REVIEW = ROOT / "references" / "rounds" / "round3" / "rare_word_round3_review.md"
+RECORD = ROOT / "references" / "rounds" / "round3" / "rare_word_round3_applied.md"
+BL_SRC = ROOT / "references" / "rounds" / "round3" / "rare_word_round3_replacements.md"
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
 NSS_MARK = "# Round-3 replacement words (2026-07-21)"
 STOP = set("a an and the that this those these i thou he she it we ye you they me him "
            "her us them my thy his its our your their of to in on for with by at from "

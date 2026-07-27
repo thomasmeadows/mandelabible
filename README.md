@@ -42,12 +42,12 @@ at [`exports/MandelaBible-MVP.{pdf,md}`](./exports/), rebuilt by
 | [`references/instructions.md`](./references/instructions.md) | The mission, the ten-phase methodology, and the Premise Revision (evidence hierarchy) |
 | [`references/roadmap.md`](./references/roadmap.md) | Phased plan, task tracking, and the **Decision Log** — every significant choice, with rationale |
 | [`references/remembered_verses.md`](./references/remembered_verses.md) | The memory evidence: every remembered reading, with current text and advisory context |
-| [`references/corroboration_report.md`](./references/corroboration_report.md) | Generated: each memory's corroboration status (artifacts, public documentation, witness readings) |
-| [`references/word_review_report.md`](./references/word_review_report.md) | Generated: the era audit's flagged words with advised period alternates |
-| [`references/uncleared_words.md`](./references/uncleared_words.md) | Generated: KJV words unattested in the local pre-1611 corpora |
+| [`references/evidence/corroboration_report.md`](./references/evidence/corroboration_report.md) | Generated: each memory's corroboration status (artifacts, public documentation, witness readings) |
+| [`references/word_reviews/word_review_report.md`](./references/word_reviews/word_review_report.md) | Generated: the era audit's flagged words with advised period alternates |
+| [`references/word_lists/uncleared_words.md`](./references/word_lists/uncleared_words.md) | Generated: KJV words unattested in the local pre-1611 corpora |
 | [`references/word_reviews/`](./references/word_reviews/) | The raw agent review verdicts (first pass, second opinion, owner rulings) |
 | [`references/sources.md`](./references/sources.md) | **Comprehensive source list** — every data set, reference text, and public Mandela-effect-Bible source catalogued so far |
-| [`references/blog_search_references/`](./references/blog_search_references/) | Raw multi-engine blog/website search results (public memory literature) |
+| [`references/evidence/blog_search_references/`](./references/evidence/blog_search_references/) | Raw multi-engine blog/website search results (public memory literature) |
 | [`references/general_references.md`](./references/general_references.md) | External sources and links |
 | [`CLAUDE.md`](./CLAUDE.md) | Working conventions for the AI tooling |
 

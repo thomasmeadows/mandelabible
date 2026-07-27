@@ -25,7 +25,7 @@ translations second):
   5. If nothing plausible is found, the entry is emitted with NEW == OLD and
      tagged NO-REPLACEMENT-FOUND for manual attention.
 
-Output: references/rare_word_replacements.md (generated — hand-editing the
+Output: references/rounds/round1/rare_word_replacements.md (generated — hand-editing the
 NEW lines / deleting entries is the expected review workflow).
 """
 
@@ -37,7 +37,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = REPO_ROOT / "db" / "mandela.db"
-OUT = REPO_ROOT / "references" / "rare_word_replacements.md"
+OUT = REPO_ROOT / "references" / "rounds" / "round1" / "rare_word_replacements.md"
 TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’–-][A-Za-z]+)*")
 # translations verse-aligned with the KJV (same 31,102-verse scheme),
 # in preference order: KJV revisions first (closest wording), YLT last

@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """25_uncleared_inflection_triage.py — move inflection-only words out of
-references/uncleared_words.md (owner directive 2026-07-17).
+references/word_lists/uncleared_words.md (owner directive 2026-07-17).
 
 A word on the uncleared list (attested in no pre-1611 corpus) whose base word
 IS cleared and common in the KJV is uncleared only by inflection — plural,
 possessive, tense, past tense, progressive, past participle, comparative,
 superlative — not a genuinely undated vocabulary item. Those rows move to
-references/uncleared_words_inflection_only.md, annotated "Inflection
+references/removed_words/uncleared_words_inflection_only.md, annotated "Inflection
 Deviation" with the base word and its KJV count. Derivational forms (-ness,
 -ly, -tion, ...) do not qualify. Ambiguous -er/-en forms (agent noun /
 verbification vs. comparative / past participle) are listed for owner review,
@@ -25,7 +25,7 @@ mod = importable("24_extract_inflection_only")
 base_candidates = mod.base_candidates
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / "references" / "uncleared_words.md"
+SRC = ROOT / "references" / "word_lists" / "uncleared_words.md"
 OUT = ROOT / "references" / "removed_words" / "uncleared_words_inflection_only.md"
 DB_PATH = ROOT / "db" / "mandela.db"
 COMMON_THRESHOLD = 2

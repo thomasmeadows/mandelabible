@@ -21,7 +21,7 @@ majority form, a recommendation (minority -> majority), and the verse refs
 of the minority form(s). Whitelisted words are still listed but marked
 "whitelisted — do not change" (the whitelist protects them).
 
-Output: references/mixed_inflections.md (report only — no text is changed).
+Output: references/word_reviews/mixed_inflections.md (report only — no text is changed).
 Refuses to overwrite an existing report with fewer groups unless
 --allow-shrink is passed (generated-artifact guard).
 
@@ -38,7 +38,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "db" / "mandela.db"
 WHITELIST = ROOT / "references" / "word_whitelist.md"
-OUT_PATH = ROOT / "references" / "mixed_inflections.md"
+OUT_PATH = ROOT / "references" / "word_reviews" / "mixed_inflections.md"
 
 TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’–-][A-Za-z]+)*")
 

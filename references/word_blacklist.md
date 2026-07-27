@@ -2672,7 +2672,7 @@
 ## Entries
 
 #### <a name="a-girdle"></a>a girdle → an apron
-- **an apron** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **an apron** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="abasing"></a>abasing → lowering
@@ -2690,7 +2690,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="abia"></a>Abia → Abijah
-- **Abijah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Abijah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="abides"></a>abides → abideth
@@ -2824,7 +2824,7 @@
   - decided by: Human (owner)
 
 #### <a name="achaz"></a>Achaz → Ahaz
-- **Ahaz** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Ahaz** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="acknowledgement"></a>acknowledgement → knowledge
@@ -3026,7 +3026,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="agar"></a>Agar → Hagar
-- **Hagar** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Hagar** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="agone"></a>agone → ago
@@ -3176,7 +3176,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="aminadab"></a>Aminadab → Amminadab
-- **Amminadab** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Amminadab** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="amongst"></a>amongst → midst
@@ -3394,7 +3394,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="aser"></a>Aser → Asher
-- **Asher** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Asher** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="asp"></a>asp → adder
@@ -3598,7 +3598,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="balac"></a>Balac → Balak
-- **Balak** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Balak** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="balancings"></a>balancings → balance
@@ -3708,7 +3708,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="begun"></a>begun → began
-- **began** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **began** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="behoved"></a>behoved → owed
@@ -3970,7 +3970,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="booz"></a>Booz → Boaz
-- **Boaz** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Boaz** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="bore"></a>bore → curse
@@ -3990,7 +3990,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="bosor"></a>Bosor → Beor
-- **Beor** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Beor** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="bosses"></a>bosses → bodies
@@ -4238,7 +4238,7 @@
   - decided by: Human (owner)
 
 #### <a name="builded"></a>builded → built
-- **built** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **built** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="buildedst"></a>buildedst → build / didst not build
@@ -4258,7 +4258,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="bulls"></a>bulls → oxen
-- **oxen** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **oxen** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="bulrush"></a>bulrush → rush
@@ -4346,7 +4346,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="calledst"></a>calledst → called
-- **called** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **called** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="calve"></a>calve → pain
@@ -4486,7 +4486,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="chanaan"></a>Chanaan → Canaan
-- **Canaan** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Canaan** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="changeable"></a>changeable → apparel
@@ -4534,7 +4534,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="charity"></a>charity → love
-- **love** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **love** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="charmed"></a>charmed → enchanted
@@ -4556,7 +4556,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="charran"></a>Charran → Haran
-- **Haran** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Haran** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="chatter"></a>chatter → peep
@@ -5270,7 +5270,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="cis"></a>Cis → Kish
-- **Kish** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Kish** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="citizens"></a>citizens → family / subjects
@@ -5434,7 +5434,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="commandedst"></a>commandedst → commanded
-- **commanded** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **commanded** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="commander"></a>commander → command
@@ -5908,7 +5908,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="core"></a>Core → Korah
-- **Korah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Korah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="coriander"></a>coriander → like
@@ -6702,7 +6702,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="deliveredst"></a>deliveredst → delivered
-- **delivered** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **delivered** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="delivery"></a>delivery → bare
@@ -7246,7 +7246,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="divers"></a>divers → diverse
-- **diverse** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **diverse** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="diversities"></a>diversities → diverse
@@ -7262,7 +7262,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="divorcement"></a>divorcement → divorce
-- **divorce** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **divorce** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="doctor"></a>doctor → teacher
@@ -7280,7 +7280,7 @@
   - decided by: Human (owner)
 
 #### <a name="doest"></a>doest → dost
-- **dost** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **dost** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="doleful"></a>doleful → creature / grievous
@@ -7434,7 +7434,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="drunk"></a>drunk → drank
-- **drank** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **drank** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="dryshod"></a>dryshod → shoe
@@ -7488,15 +7488,15 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="elias"></a>Elias → Elijah
-- **Elijah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Elijah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="elisabeth"></a>Elisabeth → Elizabeth
-- **Elizabeth** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Elizabeth** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="eliseus"></a>Eliseus → Elisha
-- **Elisha** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Elisha** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="elms"></a>elms → trees
@@ -7688,7 +7688,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="enos"></a>Enos → Enosh
-- **Enosh** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Enosh** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="enquiry"></a>enquiry → inquisition / search
@@ -7802,7 +7802,7 @@
   - decided by: Human (owner)
 
 #### <a name="esaias"></a>Esaias → Isaiah
-- **Isaiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Isaiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="eschew"></a>eschew → way
@@ -7836,7 +7836,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="esrom"></a>Esrom → Hezron
-- **Hezron** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Hezron** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="establishment"></a>establishment → truth
@@ -8062,7 +8062,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="ezekias"></a>Ezekias → Hezekiah
-- **Hezekiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Hezekiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="fain"></a>fain → fled
@@ -8884,7 +8884,7 @@
 #### <a name="gat"></a>gat → got
 - **got** (Lamentations 5:9; rare word, round 5) — round-5 owner ruling 2026-07-22
   - decided by: Human (owner)
-- **got** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **got** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="gatherer"></a>gatherer → dresser
@@ -8912,7 +8912,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="gedeon"></a>Gedeon → Gideon
-- **Gideon** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Gideon** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="gender"></a>gender → begat
@@ -9032,11 +9032,11 @@
   - decided by: Human (owner)
 
 #### <a name="girdle"></a>girdle → apron
-- **apron** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **apron** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="girdles"></a>girdles → aprons
-- **aprons** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **aprons** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="girl"></a>girl → damsel
@@ -9126,7 +9126,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="gomorrha"></a>Gomorrha → Gomorrah
-- **Gomorrah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Gomorrah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="goodlier"></a>goodlier → better
@@ -9162,7 +9162,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="gotten"></a>gotten → got
-- **got** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **got** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="govern"></a>govern → rule / ruleth
@@ -9612,7 +9612,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="henoch"></a>Henoch → Enoch
-- **Enoch** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Enoch** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="herbage"></a>herbage → herbs in
@@ -9694,7 +9694,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="holden"></a>holden → held
-- **held** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **held** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="holier"></a>holier → sanctify
@@ -9706,7 +9706,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="holpen"></a>holpen → helped
-- **helped** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **helped** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="holyday"></a>holyday → feast / holy day
@@ -10168,7 +10168,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="jechonias"></a>Jechonias → Jeconiah
-- **Jeconiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Jeconiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="jeoparded"></a>jeoparded → put...in danger
@@ -10176,15 +10176,15 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="jephthae"></a>Jephthae → Jephthah
-- **Jephthah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Jephthah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="jeremias"></a>Jeremias → Jeremiah
-- **Jeremiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Jeremiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="jeremy"></a>Jeremy → Jeremiah
-- **Jeremiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Jeremiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="jesting"></a>jesting → mocking
@@ -10192,7 +10192,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="joatham"></a>Joatham → Jotham
-- **Jotham** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Jotham** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="joint-heirs"></a>joint-heirs → heirs
@@ -10200,15 +10200,15 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="jonas"></a>Jonas → Jonah
-- **Jonah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Jonah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="josaphat"></a>Josaphat → Jehoshaphat
-- **Jehoshaphat** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Jehoshaphat** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="josias"></a>Josias → Josiah
-- **Josiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Josiah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="jot"></a>jot → stroke
@@ -10222,7 +10222,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="juda"></a>Juda → Judah
-- **Judah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Judah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="juice"></a>juice → drink / mingled wine / wine
@@ -10476,7 +10476,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="lien"></a>lien → lain
-- **lain** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **lain** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="lifter"></a>lifter → high
@@ -10654,7 +10654,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="lucas"></a>Lucas → Luke
-- **Luke** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Luke** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="lunatick"></a>lunatick → mad
@@ -10674,7 +10674,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="madian"></a>Madian → Midian
-- **Midian** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Midian** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="magician"></a>magician → magicians
@@ -10712,7 +10712,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="maleleel"></a>Maleleel → Mahalaleel
-- **Mahalaleel** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Mahalaleel** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="malicious"></a>malicious → evils
@@ -10736,7 +10736,7 @@
   - decided by: Human (owner)
 
 #### <a name="manasses"></a>Manasses → Manasseh
-- **Manasseh** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Manasseh** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="maneh"></a>maneh → pound
@@ -10780,7 +10780,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="marcus"></a>Marcus → Mark
-- **Mark** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Mark** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="marshes"></a>marshes → pools
@@ -10814,7 +10814,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="mathusala"></a>Mathusala → Methuselah
-- **Methuselah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Methuselah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="mattock"></a>mattock → spade
@@ -10892,7 +10892,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="melchisedec"></a>Melchisedec → Melchizedek
-- **Melchizedek** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Melchizedek** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="men"></a>men → fools and vile / head of the house / heads / heads of the house
@@ -11268,11 +11268,11 @@
   - decided by: Human (owner)
 
 #### <a name="naasson"></a>Naasson → Nahshon
-- **Nahshon** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Nahshon** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="nachor"></a>Nachor → Nahor
-- **Nahor** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Nahor** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="narrower"></a>narrower → bound
@@ -11352,7 +11352,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="nephthalim"></a>Nephthalim → Naphtali
-- **Naphtali** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Naphtali** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="nethermost"></a>nethermost → nether
@@ -11372,7 +11372,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="nineve"></a>Nineve → Nineveh
-- **Nineveh** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Nineveh** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="nitre"></a>nitre → thee
@@ -11382,7 +11382,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="noe"></a>Noe → Noah
-- **Noah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Noah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="non"></a>non → nun
@@ -11628,11 +11628,11 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="osee"></a>Osee → Hosea
-- **Hosea** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Hosea** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="oshea"></a>Oshea → Joshua
-- **Joshua** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Joshua** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="ostrich"></a>ostrich → feathers
@@ -11832,7 +11832,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="ozias"></a>Ozias → Uzziah
-- **Uzziah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Uzziah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="paces"></a>paces → steps
@@ -12134,15 +12134,15 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="phalec"></a>Phalec → Peleg
-- **Peleg** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Peleg** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="phares"></a>Phares → Perez
-- **Perez** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Perez** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="pharez"></a>Pharez → Perez
-- **Perez** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Perez** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="pick"></a>pick → put
@@ -12594,7 +12594,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="promisedst"></a>promisedst → promised
-- **promised** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **promised** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="promotion"></a>promotion → high
@@ -12694,11 +12694,11 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="publican"></a>publican → tax collector
-- **tax collector** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **tax collector** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="publicans"></a>publicans → tax collectors
-- **tax collectors** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **tax collectors** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="publick"></a>publick → example
@@ -12776,7 +12776,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="rachab"></a>Rachab → Rahab
-- **Rahab** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Rahab** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="rafters"></a>rafters → beams
@@ -12790,7 +12790,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="ragau"></a>Ragau → Reu
-- **Reu** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Reu** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="ragged"></a>ragged → stoned
@@ -12814,7 +12814,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="rama"></a>Rama → Ramah
-- **Ramah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Ramah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="rampart"></a>rampart → host
@@ -12882,7 +12882,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="rebecca"></a>Rebecca → Rebekah
-- **Rebekah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Rebekah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="rebuker"></a>rebuker → instruction
@@ -13236,7 +13236,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="roboam"></a>Roboam → Rehoboam
-- **Rehoboam** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Rehoboam** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="roebuck"></a>roebuck → roe buck
@@ -13326,7 +13326,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="sadoc"></a>Sadoc → Zadok
-- **Zadok** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Zadok** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="safeguard"></a>safeguard → charge
@@ -13338,11 +13338,11 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="sala"></a>Sala → Salah
-- **Salah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Salah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="salathiel"></a>Salathiel → Shealtiel
-- **Shealtiel** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Shealtiel** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="saltness"></a>saltness → savour
@@ -13350,19 +13350,19 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="salutation-s-"></a>salutation(s) → greeting(s)
-- **greeting(s)** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **greeting(s)** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="salute"></a>salute → hail
-- **hail** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **hail** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="saluted"></a>saluted → greeted
-- **greeted** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **greeted** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="saluteth"></a>saluteth → greeteth
-- **greeteth** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **greeteth** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="sandals"></a>sandals → shoes
@@ -13384,15 +13384,15 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="sara"></a>Sara → Sarah
-- **Sarah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Sarah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="sarepta"></a>Sarepta → Zarephath
-- **Zarephath** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Zarephath** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="saruch"></a>Saruch → Serug
-- **Serug** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Serug** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="satiate"></a>satiate → full
@@ -13598,7 +13598,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="sem"></a>Sem → Shem
-- **Shem** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Shem** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="senate"></a>senate → elders
@@ -13862,7 +13862,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="shone"></a>shone → shined
-- **shined** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **shined** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="shooters"></a>shooters → archers
@@ -13886,7 +13886,7 @@
 #### <a name="show"></a>show → shew
 - **shew** (Isaiah 5:26; rare word, round 4) — round-4 owner ruling 2026-07-21
   - decided by: Human (owner)
-- **shew** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **shew** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="shrank"></a>shrank → withered
@@ -13944,7 +13944,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="sina"></a>Sina → Sinai
-- **Sinai** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Sinai** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="sincere"></a>sincere → pure
@@ -13974,7 +13974,7 @@
   - decided by: Human (owner)
 
 #### <a name="sion"></a>Sion → Zion
-- **Zion** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Zion** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="sith"></a>sith → since
@@ -14210,7 +14210,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="sodoma"></a>Sodoma → Sodom
-- **Sodom** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Sodom** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="sodomite"></a>sodomite → unclean
@@ -14476,7 +14476,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="stainedst"></a>stainedst → stained
-- **stained** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **stained** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="stakes"></a>stakes → pins
@@ -14698,7 +14698,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="stricken"></a>stricken → struck
-- **struck** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **struck** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="striker"></a>striker → smiter
@@ -14846,7 +14846,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="sung"></a>sung → sang
-- **sang** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **sang** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="superfluity"></a>superfluity → abundance
@@ -15162,7 +15162,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="thara"></a>Thara → Terah
-- **Terah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Terah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="thee-ward"></a>thee-ward → sore
@@ -15256,7 +15256,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="threshingfloor"></a>threshingfloor → threshing floor
-- **threshing floor** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **threshing floor** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="threshingplace"></a>threshingplace → threshingfloor
@@ -15312,7 +15312,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="timotheus"></a>Timotheus → Timothy
-- **Timothy** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Timothy** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="tire"></a>tire → beauty
@@ -15542,7 +15542,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="trustedst"></a>trustedst → trusted
-- **trusted** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **trusted** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="trustworthy"></a>trustworthy → true men
@@ -15596,7 +15596,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="tyrus"></a>Tyrus → Tyre
-- **Tyre** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Tyre** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="unaccustomed"></a>unaccustomed → seed
@@ -15722,11 +15722,11 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="unicorn"></a>unicorn → ox
-- **ox** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **ox** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="unicorns"></a>unicorns → oxen
-- **oxen** (bible-wide; manual word change) — owner directive (references/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
+- **oxen** (bible-wide; manual word change) — owner directive (references/verses/manual_word_changes_flagged.md): the modern/remembered form replaces the altered one
   - decided by: Human (owner)
 
 #### <a name="unite"></a>unite → joined
@@ -15948,7 +15948,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="urias"></a>Urias → Uriah
-- **Uriah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Uriah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="usurer"></a>usurer → exact / him that lendeth upon usury
@@ -16702,7 +16702,7 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="wringed"></a>wringed → wrung
-- **wrung** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/mixed_inflections.md)
+- **wrung** (bible-wide; mixed inflection) — mixed inflection: the corpus used two inflections of the same word; the minority form is unified onto the corpus-majority form (references/word_reviews/mixed_inflections.md)
   - decided by: AI detector recommendation, owner-approved
 
 #### <a name="wrinkles"></a>wrinkles → furrows
@@ -16766,19 +16766,19 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="zabulon"></a>Zabulon → Zebulun
-- **Zebulun** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Zebulun** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="zacharias"></a>Zacharias → Zechariah
-- **Zechariah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Zechariah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="zara"></a>Zara → Zerah
-- **Zerah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Zerah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="zarah"></a>Zarah → Zerah
-- **Zerah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Zerah** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="zealously"></a>zealously → earnestly
@@ -16788,10 +16788,10 @@
   - decided by: AI agent (king-james), owner-approved
 
 #### <a name="zidon"></a>Zidon → Sidon
-- **Sidon** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Sidon** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 
 #### <a name="zorobabel"></a>Zorobabel → Zerubbabel
-- **Zerubbabel** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/name_normalization.md)
+- **Zerubbabel** (bible-wide; name normalization) — name normalization (Decision Log #13): KJV-internal variant spellings unified onto the most common modern form (references/names/name_normalization.md)
   - decided by: AI recommendation, owner-approved (Decision Log #13)
 

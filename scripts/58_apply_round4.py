@@ -13,9 +13,9 @@ What it touches (same layers as the round-3 apply, owner directive 2026-07-21):
      restoration (flaw_type='round4_review'); reverts are written as a
      restoration whose proposed_text IS the base KJV reading. Idempotent: all
      round4_review rows are deleted and re-inserted each run.
-  2. references/rare_word_round4_replacements.md — blacklist source (removed
+  2. references/rounds/round4/rare_word_round4_replacements.md — blacklist source (removed
      word -> new word, per verse) read by scripts/49_build_blacklist.py round4().
-  3. references/rare_word_review_no_safe_swap.md — whitelist source; a rewritten
+  3. references/word_lists/rare_word_review_no_safe_swap.md — whitelist source; a rewritten
      round-4 section protects every KEEP-white-list word, every newly introduced
      word, and the owner's explicit additions.
 
@@ -32,9 +32,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-REVIEW = ROOT / "references" / "rare_word_round4_restoration_review.md"
-BL_SRC = ROOT / "references" / "rare_word_round4_replacements.md"
-NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
+REVIEW = ROOT / "references" / "rounds" / "round4" / "rare_word_round4_restoration_review.md"
+BL_SRC = ROOT / "references" / "rounds" / "round4" / "rare_word_round4_replacements.md"
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
 NSS_MARK = "# Round-4 review words (2026-07-21)"
 FLAW = "round4_review"
 
@@ -144,7 +144,7 @@ def main():
         vid = vidmap[ref]
         is_revert = m57.EDITS.get(ref, (None,))[0] == "revert"
         rationale = ("Round-4 re-review (owner-approved 2026-07-21; "
-                     "references/rare_word_round4_restoration_review.md + "
+                     "references/rounds/round4/rare_word_round4_restoration_review.md + "
                      "rare_word_round4_apply_preview.md); global girded->adorned. "
                      + ("Reverted to base KJV reading." if is_revert else
                         "Merged onto current text."))

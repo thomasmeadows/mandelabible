@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""31_manual_word_changes.py — apply references/manual_word_changes_flagged.md
+"""31_manual_word_changes.py — apply references/verses/manual_word_changes_flagged.md
 (roadmap task, owner list; applied 2026-07-18).
 
 Corpus-wide word changes: threshingfloor→threshing floor, girdle(s)→apron(s)
@@ -67,7 +67,7 @@ RULES = [
 UNICORN_EXPECTED = 9
 
 EVIDENCE = (
-    "Owner manual word-change list (references/manual_word_changes_flagged.md, "
+    "Owner manual word-change list (references/verses/manual_word_changes_flagged.md, "
     "applied 2026-07-18): inconsistent archaic forms, era-inappropriate words, "
     "and emoticon punctuation artifacts corrected corpus-wide. If you have a "
     "better replacement recommendation, create a GitHub issue with your "

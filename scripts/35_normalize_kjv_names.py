@@ -5,7 +5,7 @@ The KJV spells the same person/place multiple ways (OT "Elijah" vs NT
 "Elias"; "Hagar" vs Galatians' "Agar"; "Zion" vs "Sion"). Owner directive
 2026-07-18: conform every such name to its most common modern spelling
 (which for these pairs matches the dominant KJV form — see
-`references/name_variants.md` for the witness-spelling evidence).
+`references/names/name_variants.md` for the witness-spelling evidence).
 
 Mechanics (same composition rules as scripts 32/34): each affected verse
 gets an approved restoration (flaw_type `name_normalization`) whose text is
@@ -21,9 +21,9 @@ Trap cases handled:
 
 Ambiguous pairs (Aram/Ram, Heber/Eber, Bosor/Beor, Sarepta/Zarephath,
 Enos/Enosh, Oshea, Jona, Elisabeth) are NOT applied; they are listed in
-`references/name_normalization.md` for owner ruling.
+`references/names/name_normalization.md` for owner ruling.
 
-Output: `references/name_normalization.md` — every mapping with verse
+Output: `references/names/name_normalization.md` — every mapping with verse
 counts plus the deferred list. Refuses to overwrite with an emptier file.
 """
 import re
@@ -32,7 +32,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "db" / "mandela.db"
-OUT_PATH = ROOT / "references" / "name_normalization.md"
+OUT_PATH = ROOT / "references" / "names" / "name_normalization.md"
 
 # variant (KJV spelling) -> canonical modern spelling (also a KJV spelling)
 MAPPING = {
@@ -98,7 +98,7 @@ DEFERRED = []  # all 8 formerly-deferred pairs applied per owner ruling
 
 EVIDENCE = (
     "KJV-internal name-spelling unification (owner directive 2026-07-18; "
-    "witness evidence in references/name_variants.md). If you have "
+    "witness evidence in references/names/name_variants.md). If you have "
     "evidence for a different reading, create a GitHub issue with your "
     "sources: https://github.com/thomasmeadows/mandelabible/issues/new"
 )
@@ -163,7 +163,7 @@ def main():
         "2026-07-18). Each variant spelling below was replaced with its "
         "most common modern form in every affected verse (approved "
         "restorations, flaw_type `name_normalization`). Witness-spelling "
-        f"evidence: `references/name_variants.md`. **{n_verses} verses "
+        f"evidence: `references/names/name_variants.md`. **{n_verses} verses "
         "changed.**", "",
         "## Applied", "",
         "| Variant | Canonical | Verses | Example |",

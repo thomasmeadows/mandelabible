@@ -9,7 +9,7 @@ ruling.
 
 Unlike the round-N rarest-lemma reviews, this is not a rarity-ranked batch —
 it is every occurrence of one word the owner named directly. Output:
-references/word_review_chief_head.md (skeleton; KJ proposals filled in by a
+references/word_reviews/word_review_chief_head.md (skeleton; KJ proposals filled in by a
 follow-up pass, same as scripts/68/71's merge step).
 """
 import re
@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
 GENEVA = ROOT / "bible_databases" / "formats" / "sqlite" / "Geneva1599.db"
 OXFORD = ROOT / "bible_databases" / "formats" / "sqlite" / "KJV.db"
-OUT = ROOT / "references" / "word_review_chief_head.md"
+OUT = ROOT / "references" / "word_reviews" / "word_review_chief_head.md"
 
 WORD_RE = re.compile(r"\bchief\w*", re.I)
 

@@ -1,6 +1,6 @@
 # King James agent — whitelist suggestions, batch 1 (items 1-484)
 
-Reviewed against `references/kj_whitelist_review_remaining.md` rows 1-479
+Reviewed against `references/word_lists/kj_whitelist_review_remaining.md` rows 1-479
 (item numbers 1 through 484, `circumsized` through `mischievous`), per the
 owner's 2026-07-26 whitelist-expansion directive. Per the binding memory rule
 `kjv-not-authenticity-evidence.md`, the KJV itself was never used as

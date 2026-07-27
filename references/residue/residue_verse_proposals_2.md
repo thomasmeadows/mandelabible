@@ -2,7 +2,7 @@
 
 Owner directive 2026-07-19. Covers John 3:16 (`67_j316-alt.png`) through Romans 8:28
 (`33_Screenshot_2019-12-28-08-34-18.png`), the tail of the `## VARIANT` section in
-`references/tsbc_residue_placements.md`. Per Decision Log #14: residue matters when
+`references/residue/tsbc_residue_placements.md`. Per Decision Log #14: residue matters when
 DRASTIC, NOT attributable to another version, and/or memory-aligned; single-word
 swaps are bandaids and default to KEEP-CURRENT. The owner decides; these are
 recommendations only.

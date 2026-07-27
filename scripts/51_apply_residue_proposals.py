@@ -39,7 +39,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "db" / "mandela.db"
 
 EVIDENCE = (
-    "references/residue_verse_proposals_1.md and _2.md (TSBC residue "
+    "references/residue/residue_verse_proposals_1.md and _2.md (TSBC residue "
     "placements review, owner directive 2026-07-19/20): BLEND/ADOPT-RESIDUE "
     "entries applied using the SUGGESTED verse text verbatim."
 )

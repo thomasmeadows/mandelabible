@@ -17,7 +17,7 @@ The differences:
 - read-only — it does not write `word_counts` / `word_forms`; script 36 owns
   those rows under translation `KJV_restored`.
 
-Output: `references/token_list_full.md`. Refuses to overwrite an existing
+Output: `references/word_lists/token_list_full.md`. Refuses to overwrite an existing
 report with fewer entries (generated-artifact guard).
 """
 import re
@@ -30,7 +30,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "db" / "mandela.db"
 WHITELIST = ROOT / "references" / "word_whitelist.md"
-OUT_PATH = ROOT / "references" / "token_list_full.md"
+OUT_PATH = ROOT / "references" / "word_lists" / "token_list_full.md"
 
 TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’–-][A-Za-z]+)*")
 REF_MAX = 8          # list verse refs for groups no more common than this

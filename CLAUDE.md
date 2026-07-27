@@ -14,10 +14,32 @@ reflects the current state of open vs. shipped work.
 
 ## Project Structure & Data Assets
 
-- `references/` — mission instructions (`instructions.md`), the roadmap
-  (`roadmap.md`), remembered-verse evidence (`remembered_verses.md`), and
-  period-language reference texts (Middle English works, King James's own
-  writing sample, Septuagint interlinear PDF).
+- `references/` — filed into subfolders by kind (owner directive 2026-07-27,
+  `scripts/87_reorganize_references.py`). **Seven files stay at the root** —
+  the entry points: `roadmap.md`, `instructions.md`, `general_references.md`,
+  `sources.md`, `remembered_verses.md`, `word_whitelist.md`,
+  `word_blacklist.md`. Everything else lives in:
+  - `rounds/round1…round7/` — one folder per rare-word round, holding that
+    round's review, replacements, apply-preview, KJ suggestions, and (rounds
+    1–2) its `witness_batches/` folder.
+  - `word_lists/` — whitelist/blacklist *sources* and token inventories
+    (`rare_word_review_no_safe_swap.md`, `token_list_full.md`,
+    `uncleared_words.md`, `rare_words_restored.md`, the `kj_whitelist_*`
+    review and suggestion files).
+  - `word_reviews/` — per-word review passes and their TSV batches
+    (chief/head, global swaps, hail, mixed inflections, anachronisms, rescan).
+  - `verses/` — verse-level work (`verses_famous.md`, the wheat pass, manual
+    verse corrections, flagged word changes, parenthesis review).
+  - `names/`, `language/` — name normalization/variants; era-language notes
+    (inflection reference, ME→EModE, punctuation).
+  - `residue/` — TSBC residue text, placements, OCR, proposals, and the
+    residue image folders.
+  - `evidence/` — corroboration report, the Truth Farmer PDF, the kjvrestore
+    page cache and comparison, blog-search sweeps.
+  - `source_texts/` — period reference texts (Middle English works, King
+    James's own writing sample, Septuagint interlinear PDF, Matthew's Bible).
+  - `removed_words/` — triage artifacts (unchanged; permanent per the
+    Generated Artifacts rule).
 - `.claude/agents/king-james-middle-english-expert.md` — the "King James"
   subagent: the project's linguistic authority for Early Modern English
   (KJV 1611). Delegate to it for modern→1611 conversion, dual-era authenticity
@@ -189,17 +211,17 @@ consistent. Follow the existing example: `scripts/52_revert_john_14_2_mansions.p
    `SELECT id, status FROM restorations WHERE verse_id=?`.) Never delete the
    row — `'reverted'` preserves the audit trail.
 2. **The change's *source* file**, so a future rebuild agrees with the DB:
-   - rare words round 1 → `references/rare_word_replacements.md`: change the
+   - rare words round 1 → `references/rounds/round1/rare_word_replacements.md`: change the
      entry's `- source:` line to a revert note that **contains the exact
      phrase `no safe one-word swap found`** — that is the flag
      `49_build_blacklist.py` keys on to *exclude* a word from the blacklist,
      and `29_build_whitelist.py` uses to route it toward the whitelist.
-   - rare words round 2 → `references/rare_word_witness_batches_2/round2_ai_suggestions.md`.
+   - rare words round 2 → `references/rounds/round2/witness_batches/round2_ai_suggestions.md`.
    - manual/name/inflection passes → the corresponding
      `scripts/31/35/44…` mapping or `references/manual_*` file.
 3. **Protect the word (if the base reading is the correct/remembered one):**
    add it to the owner-reviewed whitelist source
-   `references/rare_word_review_no_safe_swap.md` as an
+   `references/word_lists/rare_word_review_no_safe_swap.md` as an
    `## word → NO-SAFE-SWAP — Book C:V` entry carrying an
    `**OWNER RULING <date>: DO NOT CHANGE — …**` line (the "DO NOT CHANGE"
    wording is what `29_build_whitelist.py` matches to keep, vs. exclude).
@@ -214,7 +236,7 @@ consistent. Follow the existing example: `scripts/52_revert_john_14_2_mansions.p
 **Then propagate downstream** (outside the migration, so the heavy rebuild is
 explicit): `python3 scripts/17_export_full.py` rebuilds
 `exports/MandelaBible-MVP.{md,pdf}`; regenerate any curated lists that read the
-DB (e.g. `references/verses_famous.md`).
+DB (e.g. `references/verses/verses_famous.md`).
 
 **Verify** every layer after running: the export text, the whitelist/blacklist
 membership and counts, and a second run of the migration proving it is a no-op.

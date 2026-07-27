@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """65_round5_preview.py — build a was/now PREVIEW of the round-5 rare-word
-rulings (references/rare_word_round5_review.md), owner rulings 2026-07-22.
+rulings (references/rounds/round5/rare_word_round5_review.md), owner rulings 2026-07-22.
 NO DATABASE WRITES.
 
 Round 5 reviewed the 100 rarest lemmas over the current output. Rulings are a
@@ -24,7 +24,7 @@ preview for the owner's eye):
   - searchings (Judges 5:16): ruled 'revise to divisions' (2026-07-22) —
     applied, but the doubled 'divisions ... divisions of heart' is flagged.
 
-Output: references/rare_word_round5_apply_preview.md (owner reviews wording,
+Output: references/rounds/round5/rare_word_round5_apply_preview.md (owner reviews wording,
 then a scripts/66 apply step writes the DB + blacklist/whitelist + export).
 """
 import re
@@ -33,7 +33,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-OUT = ROOT / "references" / "rare_word_round5_apply_preview.md"
+OUT = ROOT / "references" / "rounds" / "round5" / "rare_word_round5_apply_preview.md"
 
 
 def load_current(con):
@@ -285,7 +285,7 @@ EDITS = {
 }
 
 # Owner answers folded in 2026-07-22 (annotated preview preserved at
-# references/rare_word_round5_apply_preview_owner_annotated.md):
+# references/rounds/round5/rare_word_round5_apply_preview_owner_annotated.md):
 #   Judges 5:16 tribes/divisions; Isaiah 50:6 spit; Acts 26:5 owner rewrite;
 #   Jeremiah 4:30 'adorned'; John 6:24 'took leave' confirmed;
 #   Colossians 1:22 single 'blameless' and Psalms 106:6 'sinned' stand.

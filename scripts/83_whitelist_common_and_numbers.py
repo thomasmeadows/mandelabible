@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """83_whitelist_common_and_numbers.py — owner directive 2026-07-26.
 
-Two whitelist additions, both driven by references/token_list_full.md (the
+Two whitelist additions, both driven by references/word_lists/token_list_full.md (the
 full inflection-grouped token list of the restored text, script 82):
 
   A. **Every group occurring more than 88 times counting inflections** —
@@ -21,7 +21,7 @@ Every form of a whitelisted group is protected, not just the group label.
 
 Mechanics follow the Reverting/whitelist pattern in CLAUDE.md: this script
 writes to the owner-reviewed whitelist SOURCE
-(references/rare_word_review_no_safe_swap.md) as
+(references/word_lists/rare_word_review_no_safe_swap.md) as
 `## word → NO-SAFE-SWAP — <tag>` blocks carrying an `OWNER RULING ... DO NOT
 CHANGE` line, which is what scripts/29_build_whitelist.py keys on. It is
 idempotent: a word already carrying an entry (from any round) is skipped, and
@@ -35,8 +35,8 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-TOKENS = ROOT / "references" / "token_list_full.md"
-NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
+TOKENS = ROOT / "references" / "word_lists" / "token_list_full.md"
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
 DATE = "2026-07-26"
 THRESHOLD = 88
 

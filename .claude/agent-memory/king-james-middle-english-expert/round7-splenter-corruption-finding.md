@@ -21,7 +21,7 @@ metadata:
   the verse's hyperbole. This is a case where Axis 1 (no attestation) and
   Axis 2 (referent-scale sense breaks the source-era proverbial structure)
   point the same direction — strong flag for owner review, output as "swap to
-  beam" in `references/kj_round7_suggestions_51_100.md`.
+  beam" in `references/rounds/round7/kj_round7_suggestions_51_100.md`.
 - Recommended check before finalizing: consult `references/remembered_verses.md`
   for any competing memory of this verse before treating "beam" as final — per
   Premise Revision this King James-agent verdict is advisory only, it cannot

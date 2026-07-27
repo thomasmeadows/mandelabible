@@ -4,7 +4,7 @@
 rulings sprang -> sprung and drave -> drove; girdedst removed from the
 whitelist and changed to girded).
 
-Every minority form from references/mixed_inflections.md is replaced by its
+Every minority form from references/word_reviews/mixed_inflections.md is replaced by its
 majority form bible-wide, on the composed restored text (same composition as
 scripts 36/38). Rows are flaw_type `mixed_inflection`, approved —
 highest-id wins in script 17, so prior rows are superseded, never deleted.
@@ -53,7 +53,7 @@ MAPPINGS = {
 
 EVIDENCE = (
     "Mixed-inflection unification (owner ruling 2026-07-18, "
-    "references/mixed_inflections.md): the corpus used two inflections of "
+    "references/word_reviews/mixed_inflections.md): the corpus used two inflections of "
     "the same word; the minority form is unified onto the majority form. "
     "If you have evidence for a different reading, create a GitHub issue: "
     "https://github.com/thomasmeadows/mandelabible/issues/new"

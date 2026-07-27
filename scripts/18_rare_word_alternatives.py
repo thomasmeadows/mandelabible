@@ -17,7 +17,7 @@ For each word the report lists:
   - witness alternatives: words the other bibles use at the same verse that
     the KJV does not (from verse_diffs), per witness.
 
-Output: references/rare_word_alternatives.md (generated — do not hand-edit).
+Output: references/rounds/round1/rare_word_alternatives.md (generated — do not hand-edit).
 """
 
 import re
@@ -27,7 +27,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = REPO_ROOT / "db" / "mandela.db"
-OUT = REPO_ROOT / "references" / "rare_word_alternatives.md"
+OUT = REPO_ROOT / "references" / "rounds" / "round1" / "rare_word_alternatives.md"
 TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’–-][A-Za-z]+)*")
 WITNESSES = ["Geneva1599", "Tyndale", "Wycliffe", "Webster", "YLT", "DRC"]
 

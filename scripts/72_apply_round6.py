@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """72_apply_round6.py — APPLY the round-6 rare-word rulings (owner rulings
-2026-07-26 in references/rare_word_round6_review.md; final wording taken
-directly from the owner-edited references/rare_word_round6_apply_preview.md,
+2026-07-26 in references/rounds/round6/rare_word_round6_review.md; final wording taken
+directly from the owner-edited references/rounds/round6/rare_word_round6_apply_preview.md,
 which the owner hand-corrected after scripts/71_round6_preview.py generated
 it — several entries differ from a literal application of the review-file
 ruling, e.g. Genesis 40:20 also swaps "chief" -> "head", I Kings 21:7 fixes
@@ -16,10 +16,10 @@ Layers touched (same as the round-5 apply, scripts/66):
      EXCLUDES this script's own flaw_type (else a re-run reads its own output
      back in, sees no change, and the DELETE wipes the rows — the scripts/55
      trap).
-  2. references/rare_word_round6_replacements.md — blacklist source (removed
+  2. references/rounds/round6/rare_word_round6_replacements.md — blacklist source (removed
      word -> new reading, per verse) read by scripts/49_build_blacklist.py
      round6().
-  3. references/rare_word_review_no_safe_swap.md — whitelist source; a
+  3. references/word_lists/rare_word_review_no_safe_swap.md — whitelist source; a
      round-6 section (after the round-5 one) is rewritten in full each run:
      WHITELIST-ruled keep words from the review file, plus newly introduced
      readings from the applied edits.
@@ -36,10 +36,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-REVIEW = ROOT / "references" / "rare_word_round6_review.md"
-PREVIEW = ROOT / "references" / "rare_word_round6_apply_preview.md"
-BL_SRC = ROOT / "references" / "rare_word_round6_replacements.md"
-NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
+REVIEW = ROOT / "references" / "rounds" / "round6" / "rare_word_round6_review.md"
+PREVIEW = ROOT / "references" / "rounds" / "round6" / "rare_word_round6_apply_preview.md"
+BL_SRC = ROOT / "references" / "rounds" / "round6" / "rare_word_round6_replacements.md"
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
 NSS_MARK = "# Round-6 review words (2026-07-26)"
 FLAW = "round6_review"
 
@@ -142,7 +142,7 @@ def main():
             "VALUES (?,?,?,?,?,?,?,?)",
             (vidmap[ref], FLAW, was, final,
              "Round-6 rare-word review (owner-ruled 2026-07-26; "
-             "references/rare_word_round6_review.md, final wording per the "
+             "references/rounds/round6/rare_word_round6_review.md, final wording per the "
              "owner-edited rare_word_round6_apply_preview.md). "
              "Merged onto current text.",
              "Round-6 owner per-word rulings.", 0.9, "approved"))

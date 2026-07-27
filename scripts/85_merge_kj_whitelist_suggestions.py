@@ -3,7 +3,7 @@
 
 Consolidates the five King James agent batch files
 (references/kj_whitelist_suggestions_batch{1..5}.md) into one owner-review
-file, references/kj_whitelist_suggestions.md:
+file, references/word_lists/kj_whitelist_suggestions.md:
 
   - all WHITELIST recommendations in one table, sorted by category then word,
     each carrying a blank owner-ruling cell;
@@ -18,14 +18,14 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "references" / "kj_whitelist_suggestions.md"
+OUT = ROOT / "references" / "word_lists" / "kj_whitelist_suggestions.md"
 ROW = re.compile(r"^\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*([a-z-]+)\s*\|\s*([^|]*?)\s*\|\s*(.*?)\s*\|?\s*$")
 
 
 def main():
     recs, borderline = [], []
     for n in range(1, 6):
-        p = ROOT / "references" / f"kj_whitelist_suggestions_batch{n}.md"
+        p = ROOT / "references" / "word_lists" / f"kj_whitelist_suggestions_batch{n}.md"
         if not p.exists():
             print(f"missing {p.name} — skipping")
             continue

@@ -12,17 +12,17 @@ locations**, and recommend whitelisting for those that are **not verbs**.
 Verbs are excluded from the recommendation by owner directive — a verb is
 ordinary vocabulary and stays reviewable.
 
-Report only: reads references/token_list_full.md plus the current
+Report only: reads references/word_lists/token_list_full.md plus the current
 references/word_whitelist.md (to drop anything script 83 already protected)
-and writes references/kj_whitelist_review_remaining.md. No DB writes.
+and writes references/word_lists/kj_whitelist_review_remaining.md. No DB writes.
 """
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-TOKENS = ROOT / "references" / "token_list_full.md"
+TOKENS = ROOT / "references" / "word_lists" / "token_list_full.md"
 WHITELIST = ROOT / "references" / "word_whitelist.md"
-OUT = ROOT / "references" / "kj_whitelist_review_remaining.md"
+OUT = ROOT / "references" / "word_lists" / "kj_whitelist_review_remaining.md"
 THRESHOLD = 88
 
 ROW = re.compile(r"^\| (\d+) \| (\S+) \| (\d+) \| (.*?) \|(.*)$")

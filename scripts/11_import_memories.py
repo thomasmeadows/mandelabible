@@ -29,7 +29,7 @@ Status: 'corroborated' if any artifact signal AND any memory-side signal;
 'artifact-supported' if artifacts only; 'unconfirmed' otherwise.
 
 Outputs: `memories` + `memory_signals` tables, and
-`references/corroboration_report.md` (generated — do not hand-edit).
+`references/evidence/corroboration_report.md` (generated — do not hand-edit).
 
 Idempotent: rebuilds both tables and the report each run.
 """
@@ -41,7 +41,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = REPO_ROOT / "db" / "mandela.db"
 MD_PATH = REPO_ROOT / "references" / "remembered_verses.md"
-REPORT_PATH = REPO_ROOT / "references" / "corroboration_report.md"
+REPORT_PATH = REPO_ROOT / "references" / "evidence" / "corroboration_report.md"
 TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’–-][A-Za-z]+)*")
 
 TITLE_TYPES = [  # (title keyword, memory_type) — first match wins

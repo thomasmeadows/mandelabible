@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """23_rare_word_witnesses.py — gather local witness renderings for rare-word verses.
 
-For every entry in references/rare_word_replacements.md after the owner-audited
+For every entry in references/rounds/round1/rare_word_replacements.md after the owner-audited
 line (default 132), fetch the same verse from the local English witness
 translations in bible_databases/formats/sqlite/ and store the renderings in
 db/mandela.db (table rare_word_witnesses). Then export markdown batches for
@@ -23,10 +23,10 @@ import sqlite3
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-MD_PATH = ROOT / "references" / "rare_word_replacements.md"
+MD_PATH = ROOT / "references" / "rounds" / "round1" / "rare_word_replacements.md"
 DB_PATH = ROOT / "db" / "mandela.db"
 SQLITE_DIR = ROOT / "bible_databases" / "formats" / "sqlite"
-BATCH_DIR = ROOT / "references" / "rare_word_witness_batches"
+BATCH_DIR = ROOT / "references" / "rounds" / "round1" / "witness_batches"
 
 # Order matters in the export: period witnesses first, then literal/revision
 # lines, then modern public-domain renderings.

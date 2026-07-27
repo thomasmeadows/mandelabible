@@ -1,6 +1,6 @@
 # King James agent — whitelist suggestions, batch 4
 
-Covers `references/kj_whitelist_review_remaining.md` table rows 1439–1917
+Covers `references/word_lists/kj_whitelist_review_remaining.md` table rows 1439–1917
 (item numbers **1456 "although" through 1949 "disease"**), per owner
 directive 2026-07-26. 479 rows present in this range were reviewed (some
 item numbers are absent from the source table — already resolved by earlier

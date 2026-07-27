@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """30_apply_rare_word_suggestions.py — apply the owner-approved AI suggestions
-(references/rare_word_ai_suggestions.md) as restorations (owner directive
+(references/rounds/round1/rare_word_ai_suggestions.md) as restorations (owner directive
 2026-07-17).
 
 Per verse: every suggestion's changed span (diff of the verse's original KJV
 text vs the suggestion's NEW text) is MERGED onto one evolving verse text —
 multi-entry verses (e.g. Deuteronomy 18:11) never overwrite each other's
 changes. Overlapping/conflicting spans are NOT applied; they are written to
-references/rare_word_merge_conflicts.md for owner resolution.
+references/rounds/round1/rare_word_merge_conflicts.md for owner resolution.
 
 Each restoration row stores:
 - rationale: the per-word AI footnotes ("word -> proposed: rationale")
@@ -26,9 +26,9 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / "references" / "rare_word_ai_suggestions.md"
+SRC = ROOT / "references" / "rounds" / "round1" / "rare_word_ai_suggestions.md"
 DB_PATH = ROOT / "db" / "mandela.db"
-CONFLICTS = ROOT / "references" / "rare_word_merge_conflicts.md"
+CONFLICTS = ROOT / "references" / "rounds" / "round1" / "rare_word_merge_conflicts.md"
 
 STANDARD_NOTE = (
     "The word was replaced because it was unlikely to be both accurate for "

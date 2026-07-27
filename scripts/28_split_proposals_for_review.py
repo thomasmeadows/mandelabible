@@ -2,10 +2,10 @@
 """28_split_proposals_for_review.py — split all batch proposals into two
 owner-review files (owner directive 2026-07-17).
 
-1. references/rare_word_review_no_safe_swap.md — every NO-SAFE-SWAP entry
+1. references/word_lists/rare_word_review_no_safe_swap.md — every NO-SAFE-SWAP entry
    (needs owner ruling; owner accepts ~90-95% as factual, i.e. the flagged
    word stays because no alternative exists).
-2. references/rare_word_ai_suggestions.md — every KEEP/REVISE entry: the
+2. references/rounds/round1/rare_word_ai_suggestions.md — every KEEP/REVISE entry: the
    AI-suggested change with rationale and NEW text.
 
 Owner-ruled exceptions (2026-07-17) are annotated inline where found:
@@ -24,9 +24,9 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BATCH_DIR = ROOT / "references" / "rare_word_witness_batches"
-OUT_NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
-OUT_AI = ROOT / "references" / "rare_word_ai_suggestions.md"
+BATCH_DIR = ROOT / "references" / "rounds" / "round1" / "witness_batches"
+OUT_NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
+OUT_AI = ROOT / "references" / "rounds" / "round1" / "rare_word_ai_suggestions.md"
 
 OWNER_RULINGS = {
     ("grandmother", "II Timothy 1:5"):

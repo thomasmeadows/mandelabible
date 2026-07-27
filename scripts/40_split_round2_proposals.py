@@ -2,7 +2,7 @@
 """40_split_round2_proposals.py — split round-2 batch proposals into two
 owner-review files (same split as round 1, script 28).
 
-Reads references/rare_word_witness_batches_2/batch_NNNN_proposals_v2.md
+Reads references/rounds/round2/witness_batches/batch_NNNN_proposals_v2.md
 (the revised-rules run: every entry carries a mandatory replacement
 suggestion + NEW text, and optionally a whitelist-case argument that may
 not cite the KJV as authentic; a plain batch_NNNN_proposals.md is used
@@ -23,7 +23,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BATCH_DIR = ROOT / "references" / "rare_word_witness_batches_2"
+BATCH_DIR = ROOT / "references" / "rounds" / "round2" / "witness_batches"
 OUT_AI = BATCH_DIR / "round2_ai_suggestions.md"
 OUT_WL = BATCH_DIR / "round2_whitelist_and_no_safe_swap.md"
 

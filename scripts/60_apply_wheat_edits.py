@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """60_apply_wheat_edits.py — apply the owner's hand-edited final wording for the
-wheat verses (references/verses_wheat_apply.md, owner directive 2026-07-21).
+wheat verses (references/verses/verses_wheat_apply.md, owner directive 2026-07-21).
 
 These are owner full-verse corrections refining the global corn->wheat output:
 ears->heads, a few wheat->grain (to remove the "wheat...wheat" duplications
@@ -11,7 +11,7 @@ a superseding, owner-approved restoration (flaw_type='wheat_verse_edit'); no
 blacklist/whitelist churn (the corn->wheat swap is already recorded by
 scripts/59 / global_word_swaps.md, which is left intact).
 
-Source of truth: references/verses_wheat_apply.md (the file on disk is the
+Source of truth: references/verses/verses_wheat_apply.md (the file on disk is the
 verdict; applied verbatim). Idempotent: rows are deleted and re-inserted each
 run, and the loader EXCLUDES this flaw_type (scripts/55 & 58 idempotency trap).
 
@@ -23,7 +23,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-SRC = ROOT / "references" / "verses_wheat_apply.md"
+SRC = ROOT / "references" / "verses" / "verses_wheat_apply.md"
 FLAW = "wheat_verse_edit"
 
 REF_LINE = re.compile(r"^(.+? \d+:\d+)\s+-\s+(.*)$")
@@ -91,7 +91,7 @@ def main():
             "VALUES (?,?,?,?,?,?,?,?)",
             (vidmap[ref], FLAW, curmap[ref], final,
              "Owner full-verse wheat edit 2026-07-21 "
-             "(references/verses_wheat_apply.md): ears->heads / wheat->grain / "
+             "(references/verses/verses_wheat_apply.md): ears->heads / wheat->grain / "
              "shocks->sheaves / trimmed clauses. Applied verbatim, merged onto "
              "current text.",
              "Owner-supplied verse wording.", 0.95, "approved"))

@@ -10,9 +10,9 @@ Same layers as the girded->adorned / round-4 pass:
      row must contain the full cumulative text). Idempotent: all corn_to_wheat
      rows are deleted and re-inserted each run, and the base loader EXCLUDES this
      flaw_type (see load_pre — the scripts/55 & 58 idempotency trap).
-  2. references/global_word_swaps.md — blacklist source (corn -> wheat, per
+  2. references/word_reviews/global_word_swaps.md — blacklist source (corn -> wheat, per
      verse) read by scripts/49_build_blacklist.py global_swaps().
-  3. references/rare_word_review_no_safe_swap.md — whitelist: a self-contained
+  3. references/word_lists/rare_word_review_no_safe_swap.md — whitelist: a self-contained
      "Global word swaps" section (spliced BEFORE the round-4 marker so a re-run
      of scripts/58 leaves it intact) protects 'wheat'.
 
@@ -27,8 +27,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-BL_SRC = ROOT / "references" / "global_word_swaps.md"
-NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
+BL_SRC = ROOT / "references" / "word_reviews" / "global_word_swaps.md"
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
 NSS_MARK = "# Global word swaps — whitelist (2026-07-21)"
 R4_MARK = "# Round-4 review words (2026-07-21)"
 FLAW = "corn_to_wheat"
@@ -113,7 +113,7 @@ def main():
     NSS.write_text(head + sep + tail if sep else head, encoding="utf-8")
 
     print(f"corn_to_wheat restorations: {len(changed)} verses")
-    print(f"blacklist source: references/global_word_swaps.md ({len(changed)} entries)")
+    print(f"blacklist source: references/word_reviews/global_word_swaps.md ({len(changed)} entries)")
     print("whitelist: 'wheat' protected in rare_word_review_no_safe_swap.md")
     print("Now run: python3 scripts/49_build_blacklist.py && "
           "python3 scripts/29_build_whitelist.py && python3 scripts/17_export_full.py")

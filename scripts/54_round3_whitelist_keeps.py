@@ -2,10 +2,10 @@
 """54_round3_whitelist_keeps.py — move the round-3 "KEEP WHITE LIST" words
 (and every inflected form) into the whitelist (owner review 2026-07-20).
 
-The owner reviewed references/rare_word_round3_review.md and ruled 66 lemmas
+The owner reviewed references/rounds/round3/rare_word_round3_review.md and ruled 66 lemmas
 "KEEP WHITE LIST". This migration records each lemma and each of its inflected
 forms as an owner-reviewed DO-NOT-CHANGE entry in the whitelist's owner-reviewed
-source (references/rare_word_review_no_safe_swap.md), under a clearly-labelled
+source (references/word_lists/rare_word_review_no_safe_swap.md), under a clearly-labelled
 round-3 section, so scripts/29_build_whitelist.py folds them into
 references/word_whitelist.md on the next build.
 
@@ -17,8 +17,8 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-REVIEW = ROOT / "references" / "rare_word_round3_review.md"
-NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
+REVIEW = ROOT / "references" / "rounds" / "round3" / "rare_word_round3_review.md"
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
 SECTION = "# Round-3 owner keeps (2026-07-20)"
 
 
@@ -57,7 +57,7 @@ def main():
     entries = parse_review()
     blocks = [SECTION, "",
               "*Words the owner ruled KEEP (whitelist) in the round-3 rare-word "
-              "review (references/rare_word_round3_review.md). Each inflected form "
+              "review (references/rounds/round3/rare_word_round3_review.md). Each inflected form "
               "is protected. Folded into the whitelist by scripts/29_build_whitelist.py.*",
               ""]
     n_lemmas = n_forms = 0

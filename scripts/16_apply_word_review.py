@@ -14,7 +14,7 @@ Updates `word_era`: verdict (typo stored as 'typo'), first_use_source
 here if missing). Only rows still carrying verdict 'suspect' are touched —
 the corpus-attested and proper-noun verdicts from script 05 stand.
 
-Emits references/word_review_report.md: every word the agent holds a strong
+Emits references/word_reviews/word_review_report.md: every word the agent holds a strong
 belief against, with its advised alternate.
 
 Idempotent: re-applies the TSVs and regenerates the report each run.
@@ -33,7 +33,7 @@ def fold(form: str) -> str:
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = REPO_ROOT / "db" / "mandela.db"
 REVIEW_DIR = REPO_ROOT / "references" / "word_reviews"
-REPORT = REPO_ROOT / "references" / "word_review_report.md"
+REPORT = REPO_ROOT / "references" / "word_reviews" / "word_review_report.md"
 SOURCE = "KJ-agent 2026-07-14"
 VALID = {"period", "suspect", "typo"}
 

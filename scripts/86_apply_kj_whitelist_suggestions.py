@@ -3,9 +3,9 @@
 with all the suggestions made."
 
 Folds the 141 King James agent whitelist recommendations
-(references/kj_whitelist_suggestions.md, consolidated by scripts/85 from the
+(references/word_lists/kj_whitelist_suggestions.md, consolidated by scripts/85 from the
 five batch files) into the owner-reviewed whitelist SOURCE,
-references/rare_word_review_no_safe_swap.md, so scripts/29_build_whitelist.py
+references/word_lists/rare_word_review_no_safe_swap.md, so scripts/29_build_whitelist.py
 picks them up.
 
 Each recommendation covers a token GROUP, whose `word` cell may list several
@@ -29,8 +29,8 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SUGG = ROOT / "references" / "kj_whitelist_suggestions.md"
-NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
+SUGG = ROOT / "references" / "word_lists" / "kj_whitelist_suggestions.md"
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
 DATE = "2026-07-27"
 CATEGORIES = {"proper-noun", "genealogy", "animal", "plant", "location"}
 

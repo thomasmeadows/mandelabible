@@ -21,7 +21,7 @@ Idempotent — re-running makes no further changes.
 
   1. db/mandela.db: restorations #6058, #6059 proposed_text falsehood -> lies
      (+ updated rationale/evidence/confidence).
-  2. references/rare_word_replacements.md: the two "leasing → falsehood"
+  2. references/rounds/round1/rare_word_replacements.md: the two "leasing → falsehood"
      entries -> "leasing → lies" (round-1 source the blacklist builds from).
   3. references/word_blacklist.md: the generated "leasing → falsehood" entry.
 
@@ -33,7 +33,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-R1 = ROOT / "references" / "rare_word_replacements.md"
+R1 = ROOT / "references" / "rounds" / "round1" / "rare_word_replacements.md"
 BL = ROOT / "references" / "word_blacklist.md"
 
 RIDS = {6058: "Psalms 4:2", 6059: "Psalms 5:6"}

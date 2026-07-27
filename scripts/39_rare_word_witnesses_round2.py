@@ -3,11 +3,11 @@
 
 Round 2 of the rare-word review (owner directive 2026-07-18): the 336 rare
 groups found by re-tokenizing the restored text (scripts/36, listed in
-references/rare_words_restored.md) are exported as witness batches for the
+references/word_lists/rare_words_restored.md) are exported as witness batches for the
 king-james agent, one entry per group, each occurrence showing the CURRENT
 restored verse text plus every local witness rendering.
 
-Batches are written to references/rare_word_witness_batches_2/ (the round-2
+Batches are written to references/rounds/round2/witness_batches/ (the round-2
 folder — round-1 files in rare_word_witness_batches/ are never touched).
 Refuses to overwrite an existing batch file with a smaller one
 (generated-artifact guard).
@@ -22,10 +22,10 @@ import sqlite3
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-MD_PATH = ROOT / "references" / "rare_words_restored.md"
+MD_PATH = ROOT / "references" / "word_lists" / "rare_words_restored.md"
 DB_PATH = ROOT / "db" / "mandela.db"
 SQLITE_DIR = ROOT / "bible_databases" / "formats" / "sqlite"
-BATCH_DIR = ROOT / "references" / "rare_word_witness_batches_2"
+BATCH_DIR = ROOT / "references" / "rounds" / "round2" / "witness_batches"
 
 WITNESSES = [
     "Wycliffe", "Tyndale", "Geneva1599", "DRC",

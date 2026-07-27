@@ -15,11 +15,11 @@ Actions
   1. db/mandela.db: restoration #5506 status 'approved' -> 'reverted'
      (the exporter applies only status='approved', so the export now reads
      "mansions" again).
-  2. references/rare_word_replacements.md: mark the mansions entry reverted so
+  2. references/rounds/round1/rare_word_replacements.md: mark the mansions entry reverted so
      scripts/49_build_blacklist.py excludes it (it skips "no safe one-word
      swap found" sources) and scripts/29_build_whitelist.py won't double-list
      it (already covered by the owner-reviewed source below).
-  3. references/rare_word_review_no_safe_swap.md: append a mansions
+  3. references/word_lists/rare_word_review_no_safe_swap.md: append a mansions
      OWNER RULING: DO NOT CHANGE entry (the owner-reviewed whitelist source).
   4. references/word_whitelist.md: add "mansions" to the reviewed list + a
      description block.
@@ -35,8 +35,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-R1 = ROOT / "references" / "rare_word_replacements.md"
-NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
+R1 = ROOT / "references" / "rounds" / "round1" / "rare_word_replacements.md"
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
 WL = ROOT / "references" / "word_whitelist.md"
 BL = ROOT / "references" / "word_blacklist.md"
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """57_round4_preview.py — build a was/now PREVIEW of the round-4 restoration
-re-review rulings (references/rare_word_round4_restoration_review.md), owner
+re-review rulings (references/rounds/round4/rare_word_round4_restoration_review.md), owner
 directive 2026-07-21. NO DATABASE WRITES.
 
 Round 4 re-reviewed every restoration-introduced, non-whitelisted word. Most
@@ -17,7 +17,7 @@ Owner clarifications (2026-07-21):
   - Rev 19:7: DROP 'exult' ("Let us rejoice and give him glory...").
   - Gen 25:16: erase 'chiefs' ("...twelve according to their tribes.").
 
-Output: references/rare_word_round4_apply_preview.md (owner reviews wording,
+Output: references/rounds/round4/rare_word_round4_apply_preview.md (owner reviews wording,
 then scripts/58 applies to the DB + blacklist/whitelist + rebuilds the export).
 
 Anchoring: every edit is applied to the ACTUAL current DB text (base KJV + the
@@ -30,7 +30,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-OUT = ROOT / "references" / "rare_word_round4_apply_preview.md"
+OUT = ROOT / "references" / "rounds" / "round4" / "rare_word_round4_apply_preview.md"
 
 
 def load_current(con):

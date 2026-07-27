@@ -21,7 +21,7 @@ Outputs:
     bible-wide (validated signal: "matrix" appears exactly 5x). Words whose
     every surface form is capitalized are treated as proper nouns and
     skipped (names are legitimately rare).
-  - `references/uncleared_words.md` — the generated list for manual dating.
+  - `references/word_lists/uncleared_words.md` — the generated list for manual dating.
 
 Idempotent: rebuilds word_era and its anomaly rows each run.
 """
@@ -44,13 +44,13 @@ def fold(form: str) -> str:
 WITNESS_DBS = ["Wycliffe", "Tyndale", "Geneva1599"]  # oldest first
 TEXT_CORPORA = {
     "KJ-Essayes": [
-        "King James Writing Sample - The Essayes of a Prentise in the Divine Art of Poesie.txt"
+        "source_texts/King James Writing Sample - The Essayes of a Prentise in the Divine Art of Poesie.txt"
     ],
     "MiddleEnglish": [
-        "Middle English - The Canterbury Tales.txt",
-        "Middle English - The Book of Quinte Essence or the Fifth Being.txt",
-        "Middle English - The Wright's Chaste Wife.txt",
-        "Understand Middle English - A middle English Reader.txt",
+        "source_texts/Middle English - The Canterbury Tales.txt",
+        "source_texts/Middle English - The Book of Quinte Essence or the Fifth Being.txt",
+        "source_texts/Middle English - The Wright's Chaste Wife.txt",
+        "source_texts/Understand Middle English - A middle English Reader.txt",
     ],
 }
 
@@ -181,11 +181,11 @@ def main() -> None:
             "|------|-----------|",
         ]
         lines += [f"| {w} | {c} |" for w, c in sorted(uncleared, key=lambda x: -x[1])]
-        (REFS / "uncleared_words.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+        (REFS / "word_lists" / "uncleared_words.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
         print(f"word_era: {len(kjv)} words; proper nouns {n_proper}, "
               f"cleared {len(kjv)-len(uncleared)-n_proper}, "
-              f"uncleared {len(uncleared)} -> references/uncleared_words.md")
+              f"uncleared {len(uncleared)} -> references/word_lists/uncleared_words.md")
         print(f"rare_word anomalies: {n_rare_rows} rows "
               f"({len(rare)} distinct rare non-proper-noun words)")
         row = con.execute(

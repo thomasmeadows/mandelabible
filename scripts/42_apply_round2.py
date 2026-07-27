@@ -5,7 +5,7 @@ accurate. Fold the no-safe-words into the whitelist and update the
 replacement verses.").
 
 1. Whitelist fold: every word in
-   references/rare_word_witness_batches_2/round2_whitelist_and_no_safe_swap.md
+   references/rounds/round2/witness_batches/round2_whitelist_and_no_safe_swap.md
    (both WHITELIST and NO-SAFE-SWAP verdicts) is appended to
    references/word_whitelist.md as a new "Round-2 reviewed words" section,
    with per-word reasons (the agent's whitelist-case argument where given,
@@ -18,7 +18,7 @@ replacement verses.").
    CUR (composed restored) text, so spans are diffed against that same
    base; multi-entry verses span-merge onto one evolving text, and
    overlapping spans with differing text are NOT applied — they go to
-   references/rare_word_witness_batches_2/round2_merge_conflicts.md.
+   references/rounds/round2/witness_batches/round2_merge_conflicts.md.
 
 Idempotent: rare_word_swap2 rows are rebuilt each run; the whitelist
 section is replaced in place if it already exists (never shrinking the
@@ -31,7 +31,7 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BATCH_DIR = ROOT / "references" / "rare_word_witness_batches_2"
+BATCH_DIR = ROOT / "references" / "rounds" / "round2" / "witness_batches"
 SRC_AI = BATCH_DIR / "round2_ai_suggestions.md"
 SRC_WL = BATCH_DIR / "round2_whitelist_and_no_safe_swap.md"
 WHITELIST = ROOT / "references" / "word_whitelist.md"

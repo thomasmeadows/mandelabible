@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """68_merge_kj_round6.py — merge the King James agent's suggestion files into
-references/rare_word_round6_review.md (Rare-Word Review List Protocol,
+references/rounds/round6/rare_word_round6_review.md (Rare-Word Review List Protocol,
 CLAUDE.md, owner directive 2026-07-22).
 
 Usage:
@@ -25,7 +25,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-REVIEW = ROOT / "references" / "rare_word_round6_review.md"
+REVIEW = ROOT / "references" / "rounds" / "round6" / "rare_word_round6_review.md"
 PENDING = "(pending — King James agent)"
 
 

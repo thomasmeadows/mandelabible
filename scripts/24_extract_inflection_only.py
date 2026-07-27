@@ -6,12 +6,12 @@ Owner directive 2026-07-17:
 1. A flagged word that is merely an *inflected* form (plural, possessive,
    tense, past tense, progressive, past participle, comparative, superlative)
    of a base word common in the KJV is not genuinely rare. Move those entries
-   out of references/rare_word_replacements.md into
-   references/rare_word_inflection_only.md, each annotated
+   out of references/rounds/round1/rare_word_replacements.md into
+   references/removed_words/rare_word_inflection_only.md, each annotated
    "Removed: Inflection Deviation" with the base word and its KJV frequency.
    Derivational forms (-ness, -ly, -tion, -ment, ...) do NOT qualify.
 2. Proper nouns (people/places) excluded from the rare list by script 05 are
-   exported to references/rare_word_proper_nouns_research.md for research.
+   exported to references/removed_words/rare_word_proper_nouns_research.md for research.
 
 Only entries AFTER the owner-audited line (132) are moved; qualifying entries
 inside the audited region are listed in the new file under a "not moved"
@@ -24,7 +24,7 @@ import sqlite3
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-MD_PATH = ROOT / "references" / "rare_word_replacements.md"
+MD_PATH = ROOT / "references" / "rounds" / "round1" / "rare_word_replacements.md"
 OUT_INFLECTION = ROOT / "references" / "removed_words" / "rare_word_inflection_only.md"
 OUT_PROPER = ROOT / "references" / "removed_words" / "rare_word_proper_nouns_research.md"
 DB_PATH = ROOT / "db" / "mandela.db"

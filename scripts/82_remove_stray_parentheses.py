@@ -4,7 +4,7 @@ the restored text (owner rulings 2026-07-26).
 
 The global parenthesis/emoticon removal (owner ruling 2026-07-14, scripts
 13/15) swept 221 verses. A full scan of the current restored text
-(references/parenthesis_review.md) found exactly two survivors:
+(references/verses/parenthesis_review.md) found exactly two survivors:
 
   Romans 1:13  "(but was let hitherto,)"
       Restoration #3338 (punctuation) already removed these parentheses, but
@@ -38,7 +38,7 @@ DB = ROOT / "db" / "mandela.db"
 FLAW = "punctuation"
 RATIONALE = (
     "Stray-bracket sweep (owner ruling 2026-07-26; "
-    "references/parenthesis_review.md). The 2026-07-14 global "
+    "references/verses/parenthesis_review.md). The 2026-07-14 global "
     "parenthesis-removal ruling left these two verses bracketed; wording per "
     "the King James agent's primary proposal as ruled by the owner. "
     "Merged onto current text."

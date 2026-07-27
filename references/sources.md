@@ -3,7 +3,7 @@
 Every source used or catalogued by the project so far. Compiled 2026-07-15.
 Sections I–III are the project's working data and evidence; IV–VIII catalogue
 the public Mandela-effect-Bible literature gathered by the multi-engine blog
-sweep in `references/blog_search_references/` (chatgpt, chatgpt-wayback,
+sweep in `references/evidence/blog_search_references/` (chatgpt, chatgpt-wayback,
 claude, grok, leo). Inclusion documents public memory testimony and research
 leads — it does not endorse a source's theology or conclusions.
 
@@ -68,7 +68,7 @@ leads — it does not endorse a source's theology or conclusions.
 - MandelaEffect.com (Fiona Broome, 2009–2023) + comment archives; WordPress mirror https://mandelaeffectsite.wordpress.com
 - AlteredBible.com yearly captures 2017–2025; pre-rebrand WakeUpOrElse pages
 - Bible-Changes.com captures; EYA companion pages
-- Defunct Blogspot/WordPress blogs (2016–2019) — search recipes and phrase list in `blog_search_references/chatgptwaybackmachine.md` §V–VIII
+- Defunct Blogspot/WordPress blogs (2016–2019) — search recipes and phrase list in `evidence/blog_search_references/chatgptwaybackmachine.md` §V–VIII
 
 ## VIII. Video channels (from `general_references.md`)
 
@@ -91,5 +91,5 @@ leads — it does not endorse a source's theology or conclusions.
 
 GotQuestions "What is the Mandela Effect?", LetterPile, Messianic Evangelicals,
 Now the End Begins (CERN piece), Christianity Beliefs, lovefastliveslow.com —
-listed in `blog_search_references/claudeblogsearch.md` and
-`leoblogsearch.md`; excluded from evidence use per the sweep's criteria.
+listed in `evidence/blog_search_references/claudeblogsearch.md` and
+`evidence/blog_search_references/leoblogsearch.md`; excluded from evidence use per the sweep's criteria.

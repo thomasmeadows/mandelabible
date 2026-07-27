@@ -2,7 +2,7 @@
 """45_manual_verse_corrections.py — apply the owner's manual verse
 corrections (owner directive 2026-07-18).
 
-1. references/manual_verse_corrections.md — owner-supplied full-verse
+1. references/verses/manual_verse_corrections.md — owner-supplied full-verse
    readings (`Book C:V - "text"`), applied as approved restorations,
    flaw_type `manual_verse_correction`. These are owner memory rulings and
    supersede ALL earlier rows for the verse (highest-id wins in script 17)
@@ -21,7 +21,7 @@ import sqlite3
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-MD_PATH = ROOT / "references" / "manual_verse_corrections.md"
+MD_PATH = ROOT / "references" / "verses" / "manual_verse_corrections.md"
 DB_PATH = ROOT / "db" / "mandela.db"
 
 LINE_RE = re.compile(r'^(.+?) (\d+):(\d+)\s*-\s*(.*)$')
@@ -29,7 +29,7 @@ BOOK_ALIASES = {"Revelation": "Revelation of John"}
 
 EVIDENCE = (
     "Owner-ruled memory correction (2026-07-18), "
-    "references/manual_verse_corrections.md. If you have evidence for a "
+    "references/verses/manual_verse_corrections.md. If you have evidence for a "
     "different reading, create a GitHub issue with your sources: "
     "https://github.com/thomasmeadows/mandelabible/issues/new"
 )

@@ -394,7 +394,7 @@ def main() -> None:
                      "(KJV's own rendering of the underlying word elsewhere). "
                      "Check inflection fit in context at review.",
                      f"word_era '{word}' (owner ruling 2026-07-14); anachronism "
-                     "anomaly; see references/word_review_report.md",
+                     "anomaly; see references/word_reviews/word_review_report.md",
                      0.55, st))
                 n_rows += 1
         con.commit()

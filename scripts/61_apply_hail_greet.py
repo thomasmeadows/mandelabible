@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """61_apply_hail_greet.py — apply the owner-approved "hail -> greet" review
-(references/hail_review.md, Group A; owner directive 2026-07-21: "apply all
+(references/word_reviews/hail_review.md, Group A; owner directive 2026-07-21: "apply all
 suggestions").
 
 Context: an earlier manual pass turned KJV *salute* into *hail* everywhere. The
@@ -19,7 +19,7 @@ Each changed verse becomes a superseding, owner-approved restoration
 the verse. No blacklist/whitelist churn: greet/greets/greeteth are already
 whitelisted, and *hail* remains valid (Groups B/C) so it is not blacklisted.
 
-Source of truth: the Group A table in references/hail_review.md (file on disk is
+Source of truth: the Group A table in references/word_reviews/hail_review.md (file on disk is
 the verdict). Idempotent: rows deleted + re-inserted each run; the loader
 EXCLUDES this flaw_type (scripts/55 & 58 idempotency trap).
 
@@ -31,7 +31,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-REVIEW = ROOT / "references" / "hail_review.md"
+REVIEW = ROOT / "references" / "word_reviews" / "hail_review.md"
 FLAW = "hail_greet"
 
 REF = re.compile(r"^(.+) (\d+):(\d+)$")
@@ -115,7 +115,7 @@ def main():
             "proposed_text, rationale, evidence, confidence, status) "
             "VALUES (?,?,?,?,?,?,?,?)",
             (vidmap[ref], FLAW, was, final,
-             f"Owner hail-review ruling 2026-07-21 (references/hail_review.md): "
+             f"Owner hail-review ruling 2026-07-21 (references/word_reviews/hail_review.md): "
              f"interpersonal greeting hail -> {tgt}. Merged onto current text.",
              "Owner per-verse hail/greet ruling.", 0.95, "approved"))
         applied.append((ref, tgt))

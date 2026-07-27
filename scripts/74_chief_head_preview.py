@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """74_chief_head_preview.py — build a was/now PREVIEW of the owner rulings on
-`references/word_review_chief_head.md` (277 "chief"/"chiefest" occurrences,
+`references/word_reviews/word_review_chief_head.md` (277 "chief"/"chiefest" occurrences,
 owner rulings 2026-07-26). NO DATABASE WRITES.
 
 Unlike round 5/6 (rarity rounds with a handful of distinct words), this is a
@@ -35,7 +35,7 @@ than hand-typed. Ruling shapes:
     delete-chief-style edit against the verse's ACTUAL text ("...and of the
     chief women not a few." -> "...and of women not a few."), hardcoded below.
 
-Output: references/word_review_chief_head_apply_preview.md (owner reviews
+Output: references/word_reviews/word_review_chief_head_apply_preview.md (owner reviews
 wording, then a future apply step writes the DB + blacklist/whitelist +
 export, mirroring 71_round6_preview.py -> a future 75_apply script).
 """
@@ -45,8 +45,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-SRC = ROOT / "references" / "word_review_chief_head.md"
-OUT = ROOT / "references" / "word_review_chief_head_apply_preview.md"
+SRC = ROOT / "references" / "word_reviews" / "word_review_chief_head.md"
+OUT = ROOT / "references" / "word_reviews" / "word_review_chief_head_apply_preview.md"
 
 
 def load_current(con):
@@ -67,7 +67,7 @@ def load_current(con):
 
 
 # ---------------------------------------------------------------------------
-# Parse references/word_review_chief_head.md into entries.
+# Parse references/word_reviews/word_review_chief_head.md into entries.
 # ---------------------------------------------------------------------------
 FIELD_RE = re.compile(r'^-\s*([\w \(\)\.]+?):\s*(.*)$')
 

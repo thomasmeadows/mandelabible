@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """76_apply_chief_head.py — APPLY the chief/chiefest word review rulings
-(owner rulings 2026-07-26 in references/word_review_chief_head.md; final
+(owner rulings 2026-07-26 in references/word_reviews/word_review_chief_head.md; final
 wording taken directly from the owner-edited
-references/word_review_chief_head_apply_preview.md — the owner hand-
+references/word_reviews/word_review_chief_head_apply_preview.md — the owner hand-
 corrected the 3 flagged verses directly in the preview, same pattern as
 scripts/72_apply_round6.py: the preview file's "now" text is authoritative,
 not a re-derivation).
@@ -12,10 +12,10 @@ Layers touched (same as the round-6 apply, scripts/72):
      restoration (flaw_type='chief_head_review'). Idempotent: this script's
      own rows are deleted and re-inserted each run, and the current-text
      loader EXCLUDES this script's own flaw_type (the scripts/55 trap).
-  2. references/chief_head_replacements.md — blacklist source (removed word
+  2. references/word_reviews/chief_head_replacements.md — blacklist source (removed word
      -> new reading, per verse) read by scripts/49_build_blacklist.py
      chief_head().
-  3. references/rare_word_review_no_safe_swap.md — whitelist source; not
+  3. references/word_lists/rare_word_review_no_safe_swap.md — whitelist source; not
      used here (all 277 rulings were swap/override/delete, none WHITELIST).
 
 After running:
@@ -30,8 +30,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-PREVIEW = ROOT / "references" / "word_review_chief_head_apply_preview.md"
-BL_SRC = ROOT / "references" / "chief_head_replacements.md"
+PREVIEW = ROOT / "references" / "word_reviews" / "word_review_chief_head_apply_preview.md"
+BL_SRC = ROOT / "references" / "word_reviews" / "chief_head_replacements.md"
 FLAW = "chief_head_review"
 
 STOP = set("a an and the that this those these i thou he she it we ye you they me him "
@@ -129,7 +129,7 @@ def main():
             "VALUES (?,?,?,?,?,?,?,?)",
             (vidmap[ref], FLAW, was, final,
              "chief/chiefest word review (owner-ruled 2026-07-26; "
-             "references/word_review_chief_head.md, final wording per the "
+             "references/word_reviews/word_review_chief_head.md, final wording per the "
              "owner-edited word_review_chief_head_apply_preview.md). "
              "Merged onto current text.",
              "Owner per-verse rulings on the chief->head review.", 0.9, "approved"))

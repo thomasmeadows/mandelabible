@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """63_round5_whitelist_gems.py — Round 5 owner ruling 2026-07-21: "materials and
 gems should probably be whitelisted in most cases." Whitelists the material/gem
-names surfaced by the round-5 rare-word review (references/rare_word_round5_review.md)
+names surfaced by the round-5 rare-word review (references/rounds/round5/rare_word_round5_review.md)
 so later passes never flag them; the owner reviews the remaining round-5 items.
 
 Words (all specific biblical substances with no better period/EModE equivalent):
@@ -9,7 +9,7 @@ Words (all specific biblical substances with no better period/EModE equivalent):
   algum / almug (the transliterated Hebrew almug-wood, spelled both ways).
 
 Adds them to the owner-reviewed whitelist source
-references/rare_word_review_no_safe_swap.md as a self-contained "Round-5" section
+references/word_lists/rare_word_review_no_safe_swap.md as a self-contained "Round-5" section
 spliced BEFORE the round-4 marker (so a re-run of scripts/58 — which rewrites the
 file from its round-4 marker to EOF — leaves this section intact). Idempotent:
 the section is removed and rewritten on each run.
@@ -19,7 +19,7 @@ After running:  python3 scripts/29_build_whitelist.py
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
 MY_MARK = "# Round-5 reviewed words — materials & gems (2026-07-21)"
 R4_MARK = "# Round-4 review words (2026-07-21)"
 

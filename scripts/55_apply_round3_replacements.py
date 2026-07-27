@@ -2,7 +2,7 @@
 """55_apply_round3_replacements.py — apply the owner-approved round-3 word
 replacements (owner directive 2026-07-21).
 
-Source of truth: references/rare_word_round3_replace_preview.md, which the owner
+Source of truth: references/rounds/round3/rare_word_round3_replace_preview.md, which the owner
 reviewed and edited (context choices, article fixes, deletions). This migration
 reads the final ("now:" / context) text for every verse, MERGES verses that
 receive more than one change onto the current post-fix base, applies the one
@@ -15,7 +15,7 @@ approved restorations), so each final text already incorporates prior changes;
 the new restoration (highest id) supersedes and therefore contains everything.
 
 Idempotent: all round-3 rows (flaw_type='rare_word_swap3') are deleted and
-re-inserted on each run. Emits references/rare_word_round3_applied.md (durable
+re-inserted on each run. Emits references/rounds/round3/rare_word_round3_applied.md (durable
 record) and a machine map for the blacklist/whitelist step (script 56).
 
 After running:  python3 scripts/17_export_full.py
@@ -26,8 +26,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-PREVIEW = ROOT / "references" / "rare_word_round3_replace_preview.md"
-RECORD = ROOT / "references" / "rare_word_round3_applied.md"
+PREVIEW = ROOT / "references" / "rounds" / "round3" / "rare_word_round3_replace_preview.md"
+RECORD = ROOT / "references" / "rounds" / "round3" / "rare_word_round3_applied.md"
 MAPOUT = ROOT / "scripts" / "__pycache__" / "round3_replacement_map.json"
 ARTICLE_FIX = {"Deuteronomy 14:21": ("an stranger", "a stranger")}
 FLAW = "rare_word_swap3"
@@ -142,7 +142,7 @@ def main():
     for ref, b, final, words in applied:
         vid = vidmap[parse_ref(ref)]
         rationale = (f"Round-3 rare-word replacement ({', '.join(sorted(set(words)))}): "
-                     f"owner-approved 2026-07-21 (references/rare_word_round3_review.md; "
+                     f"owner-approved 2026-07-21 (references/rounds/round3/rare_word_round3_review.md; "
                      f"edits in rare_word_round3_replace_preview.md). Merged onto current text.")
         con.execute(
             "INSERT INTO restorations (verse_id, flaw_type, current_text, proposed_text, "

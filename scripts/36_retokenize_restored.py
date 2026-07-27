@@ -22,7 +22,7 @@ word_counts/word_forms under translation 'KJV_restored' (per-book rows +
 bible-wide NULL rows, tokenizer_version 2); rows for that translation are
 replaced on each run (idempotent).
 
-Output: `references/rare_words_restored.md` — groups whose total count <= 2
+Output: `references/word_lists/rare_words_restored.md` — groups whose total count <= 2
 (the rare-word workstream's threshold), alphabetical, with surface forms
 and verse references. Refuses to overwrite with a report that has fewer
 entries (generated-artifact guard).
@@ -35,7 +35,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "db" / "mandela.db"
 WHITELIST = ROOT / "references" / "word_whitelist.md"
-OUT_PATH = ROOT / "references" / "rare_words_restored.md"
+OUT_PATH = ROOT / "references" / "word_lists" / "rare_words_restored.md"
 
 TRANSLATION = "KJV_restored"
 TOKENIZER_VERSION = 2

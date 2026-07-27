@@ -3,7 +3,7 @@
 (roadmap task + owner directive 2026-07-17).
 
 Sources:
-1. references/rare_word_review_no_safe_swap.md (owner-reviewed): every
+1. references/word_lists/rare_word_review_no_safe_swap.md (owner-reviewed): every
    NO-SAFE-SWAP word stays as-is — no attested alternative exists, or the
    flag itself is spurious. Entries carrying an inline OWNER RULING that
    prescribes a replacement (grandmother, horseleach) are EXCLUDED from the
@@ -29,7 +29,7 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-NSS = ROOT / "references" / "rare_word_review_no_safe_swap.md"
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
 DB_PATH = ROOT / "db" / "mandela.db"
 OUT = ROOT / "references" / "word_whitelist.md"
 

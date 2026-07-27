@@ -5,8 +5,8 @@ passes, with the replacement, the reason, and whether the decision was made
 by a human (the owner) or an AI agent (always owner-approved before apply).
 
 Sources aggregated (never modified):
-  1. references/rare_word_replacements.md          (round-1 rare words)
-  2. references/rare_word_witness_batches_2/round2_ai_suggestions.md
+  1. references/rounds/round1/rare_word_replacements.md          (round-1 rare words)
+  2. references/rounds/round2/witness_batches/round2_ai_suggestions.md
                                                    (round-2 rare words)
   3. scripts/44_apply_mixed_inflections.py MAPPINGS (mixed inflections)
   4. scripts/31_manual_word_changes.py RULES        (owner word directives)
@@ -29,15 +29,15 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "references" / "word_blacklist.md"
-R1 = ROOT / "references" / "rare_word_replacements.md"
-R2 = (ROOT / "references" / "rare_word_witness_batches_2" /
+R1 = ROOT / "references" / "rounds" / "round1" / "rare_word_replacements.md"
+R2 = (ROOT / "references" / "rounds" / "round2" / "witness_batches" /
       "round2_ai_suggestions.md")
-R3 = ROOT / "references" / "rare_word_round3_replacements.md"
-R4 = ROOT / "references" / "rare_word_round4_replacements.md"
-R5 = ROOT / "references" / "rare_word_round5_replacements.md"
-R6 = ROOT / "references" / "rare_word_round6_replacements.md"
-CHIEF = ROOT / "references" / "chief_head_replacements.md"
-GLOBAL = ROOT / "references" / "global_word_swaps.md"
+R3 = ROOT / "references" / "rounds" / "round3" / "rare_word_round3_replacements.md"
+R4 = ROOT / "references" / "rounds" / "round4" / "rare_word_round4_replacements.md"
+R5 = ROOT / "references" / "rounds" / "round5" / "rare_word_round5_replacements.md"
+R6 = ROOT / "references" / "rounds" / "round6" / "rare_word_round6_replacements.md"
+CHIEF = ROOT / "references" / "word_reviews" / "chief_head_replacements.md"
+GLOBAL = ROOT / "references" / "word_reviews" / "global_word_swaps.md"
 
 AI = "AI agent (king-james), owner-approved"
 HUMAN = "Human (owner)"
@@ -96,7 +96,7 @@ def round2():
 
 
 def round3():
-    """Round-3 owner-ruled replacements (references/rare_word_round3_replacements.md).
+    """Round-3 owner-ruled replacements (references/rounds/round3/rare_word_round3_replacements.md).
     Same per-verse `## old → new — Book C:V` format as round 1; owner-decided."""
     if not R3.exists():
         return []
@@ -114,7 +114,7 @@ def round3():
 
 
 def round4():
-    """Round-4 re-review removals (references/rare_word_round4_replacements.md).
+    """Round-4 re-review removals (references/rounds/round4/rare_word_round4_replacements.md).
     Same per-verse `## old → new — Book C:V` format as round 1/3; owner-decided
     (includes the global girded->adorned directive)."""
     if not R4.exists():
@@ -134,7 +134,7 @@ def round4():
 
 def round5():
     """Round-5 rare-word review removals
-    (references/rare_word_round5_replacements.md, written by
+    (references/rounds/round5/rare_word_round5_replacements.md, written by
     scripts/66_apply_round5.py). Same per-verse `## old → new — Book C:V`
     format as rounds 1/3/4; owner-decided."""
     if not R5.exists():
@@ -154,7 +154,7 @@ def round5():
 
 def round6():
     """Round-6 rare-word review removals
-    (references/rare_word_round6_replacements.md, written by
+    (references/rounds/round6/rare_word_round6_replacements.md, written by
     scripts/72_apply_round6.py). Same per-verse `## old → new — Book C:V`
     format as rounds 1/3/4/5; owner-decided."""
     if not R6.exists():
@@ -174,7 +174,7 @@ def round6():
 
 def chief_head():
     """chief/chiefest word review removals
-    (references/chief_head_replacements.md, written by
+    (references/word_reviews/chief_head_replacements.md, written by
     scripts/76_apply_chief_head.py). Same per-verse `## old → new — Book C:V`
     format as rounds 1/3/4/5/6; owner-decided."""
     if not CHIEF.exists():
@@ -195,7 +195,7 @@ def chief_head():
 
 def global_swaps():
     """Bible-wide single-word owner directives
-    (references/global_word_swaps.md, e.g. corn -> wheat). Same per-verse
+    (references/word_reviews/global_word_swaps.md, e.g. corn -> wheat). Same per-verse
     `## old → new — Book C:V` format as the rare-word rounds; owner-decided."""
     if not GLOBAL.exists():
         return []
@@ -225,7 +225,7 @@ def mixed_inflections():
         else:
             why = ("mixed inflection: the corpus used two inflections of "
                    "the same word; the minority form is unified onto the "
-                   "corpus-majority form (references/mixed_inflections.md)")
+                   "corpus-majority form (references/word_reviews/mixed_inflections.md)")
             decider = "AI detector recommendation, owner-approved"
         out.append((w, r, "bible-wide", why, decider, "mixed inflection"))
     return out
@@ -235,7 +235,7 @@ def manual_words():
     src = (ROOT / "scripts" / "31_manual_word_changes.py").read_text(
         encoding="utf-8")
     pairs = re.findall(r'\("([^"]+?) -> ([^"]+?)"', src)
-    why = ("owner directive (references/manual_word_changes_flagged.md): "
+    why = ("owner directive (references/verses/manual_word_changes_flagged.md): "
            "the modern/remembered form replaces the altered one")
     out = [(a, b, "bible-wide", why, HUMAN, "manual word change")
            for a, b in pairs if "emoji" not in a]
@@ -262,7 +262,7 @@ def names():
         ROOT / "scripts" / "35_normalize_kjv_names.py", "MAPPING")
     why = ("name normalization (Decision Log #13): KJV-internal variant "
            "spellings unified onto the most common modern form "
-           "(references/name_normalization.md)")
+           "(references/names/name_normalization.md)")
     return [(w, r, "bible-wide", why,
              "AI recommendation, owner-approved (Decision Log #13)",
              "name normalization") for w, r in mapping.items()]

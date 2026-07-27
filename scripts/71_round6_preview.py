@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """71_round6_preview.py — build a was/now PREVIEW of the round-6 rare-word
-rulings (references/rare_word_round6_review.md), owner rulings 2026-07-26.
+rulings (references/rounds/round6/rare_word_round6_review.md), owner rulings 2026-07-26.
 NO DATABASE WRITES.
 
 Round 6 reviewed the 100 rarest lemmas over the current output. Rulings are a
@@ -44,7 +44,7 @@ for the owner's eye, applied literally to the owner's own wording):
   - eloquent / enchanter (Isaiah 3:3): both entries name the same verse and
     the same owner rewrite text; merged into one "set" edit.
 
-Output: references/rare_word_round6_apply_preview.md (owner reviews wording,
+Output: references/rounds/round6/rare_word_round6_apply_preview.md (owner reviews wording,
 then a future apply step writes the DB + blacklist/whitelist + export).
 """
 import sqlite3
@@ -52,7 +52,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
-OUT = ROOT / "references" / "rare_word_round6_apply_preview.md"
+OUT = ROOT / "references" / "rounds" / "round6" / "rare_word_round6_apply_preview.md"
 
 
 def load_current(con):

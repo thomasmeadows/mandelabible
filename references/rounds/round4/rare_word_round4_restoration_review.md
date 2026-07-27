@@ -891,7 +891,7 @@
 - **Genesis 43:24**  (restoration #10576, `rare_word_swap3`)
   - base: And the man brought the men into Joseph’s house, and gave them water, and they washed their feet; and he gave their asses provender.
   - now:  And the man brought the men into Joseph's house, and gave them water, and they washed their feet; and he gave their **donkeys** fodder.
-  - why:  Round-3 rare-word replacement (provender): owner-approved 2026-07-21 (references/rare_word_round3_review.md; edits in rare_word_round3_replace_preview.md). Merged onto current text
+  - why:  Round-3 rare-word replacement (provender): owner-approved 2026-07-21 (references/rounds/round3/rare_word_round3_review.md; edits in rare_word_round3_replace_preview.md). Merged onto current text
 - owner ruling: revise to asses and white list.  asses
 
 #### <a name="exiled"></a>exiled — 2 uses
@@ -1196,11 +1196,11 @@
 - **Exodus 28:25**  (restoration #10516, `rare_word_swap3`)
   - base: And the other two ends of the two wreathen chains thou shalt fasten in the two ouches, and put them on the shoulderpieces of the ephod before it.
   - now:  And the other two ends of the two wreathen chains thou shalt fasten in the two settings, and put them on the shoulder **straps** of the ephod before it.
-  - why:  Round-3 rare-word replacement (ouches): owner-approved 2026-07-21 (references/rare_word_round3_review.md; edits in rare_word_round3_replace_preview.md). Merged onto current text.
+  - why:  Round-3 rare-word replacement (ouches): owner-approved 2026-07-21 (references/rounds/round3/rare_word_round3_review.md; edits in rare_word_round3_replace_preview.md). Merged onto current text.
 - **Exodus 39:18**  (restoration #10520, `rare_word_swap3`)
   - base: And the two ends of the two wreathen chains they fastened in the two ouches, and put them on the shoulderpieces of the ephod, before it.
   - now:  And the two ends of the two wreathen chains they fastened in the two settings, and put them on the shoulder **straps** of the ephod, before it.
-  - why:  Round-3 rare-word replacement (ouches): owner-approved 2026-07-21 (references/rare_word_round3_review.md; edits in rare_word_round3_replace_preview.md). Merged onto current text.
+  - why:  Round-3 rare-word replacement (ouches): owner-approved 2026-07-21 (references/rounds/round3/rare_word_round3_review.md; edits in rare_word_round3_replace_preview.md). Merged onto current text.
 - **Exodus 28:7**  (restoration #3563, `word_substitution`)
   - base: It shall have the two shoulderpieces thereof joined at the two edges thereof; and so it shall be joined together.
   - now:  It shall have the two shoulder **straps** thereof joined at the two edges thereof; and so it shall be joined together.

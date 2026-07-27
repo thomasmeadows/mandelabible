@@ -15,7 +15,7 @@ from three sources:
 
 Also skips inflections of common words (a form whose stripped base occurs > 8x).
 Report only (no DB writes). Mirrors the round-4 builder; output:
-references/rare_word_round5_review.md. **src** flags base-KJV vs restoration-
+references/rounds/round5/rare_word_round5_review.md. **src** flags base-KJV vs restoration-
 introduced.
 
 Per the Rare-Word Review List Protocol (CLAUDE.md, owner directive 2026-07-22)
@@ -35,7 +35,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / "db" / "mandela.db"
 GENEVA = ROOT / "bible_databases" / "formats" / "sqlite" / "Geneva1599.db"
-OUT = ROOT / "references" / "rare_word_round5_review.md"
+OUT = ROOT / "references" / "rounds" / "round5" / "rare_word_round5_review.md"
 PENDING = "(pending — King James agent)"
 COMMON = 8
 TOKEN = re.compile(r"[A-Za-z]+(?:['’–-][A-Za-z]+)*")

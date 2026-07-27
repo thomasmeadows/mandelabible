@@ -7,7 +7,7 @@ metadata:
 
 - **2026-07-20 audit** (owner question: does the KJV itself contain true Middle
   English holdovers, distinct from the 203-form Wycliffe→KJV mapping in
-  `references/middle_english_to_early_modern.md`, which only found coincidental
+  `references/language/middle_english_to_early_modern.md`, which only found coincidental
   homographs). Method: a word only counts as a genuine ME survival if it is (a)
   the KJV's actual word at that verse, (b) Wycliffe's dominant/live word for the
   concept (not a one-off), and (c) absent from BOTH Tyndale.db and Geneva1599.db
@@ -17,7 +17,7 @@ metadata:
   Continues Wycliffe's "leesyng/leesing" (609 occurrences total in Wycliffe.db —
   Wycliffe's ordinary word for "lie/falsehood," from OE lēasung). The Middle
   English Reader glossary itself lists it as an OE-derived ME headword (line
-  37624 of `references/Understand Middle English - A middle English Reader.txt`).
+  37624 of `references/source_texts/Understand Middle English - A middle English Reader.txt`).
   Zero occurrences anywhere in Tyndale.db or Geneva1599.db. Decisive: Geneva 1599
   translates the identical Hebrew (kazab) at these exact two verses as "lyes,"
   not "leasing" — proof the Geneva translators, the KJV's own primary working

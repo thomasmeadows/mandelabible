@@ -3,7 +3,7 @@
 (owner directive 2026-07-19: "Fold in all kjvrestore_comparison.md items in
 the file, make sure to remove the stars **").
 
-Parses references/kjvrestore_comparison.md and applies each DIVERGES entry's
+Parses references/evidence/kjvrestore_comparison.md and applies each DIVERGES entry's
 "their verse" reading as an approved restoration. DIVERGES only (repair
 2026-07-19): the file the owner actually reviewed and curated contained only
 the DIVERGES section — the first fold wrongly regenerated the report over
@@ -25,7 +25,7 @@ import sqlite3
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-REPORT = ROOT / "references" / "kjvrestore_comparison.md"
+REPORT = ROOT / "references" / "evidence" / "kjvrestore_comparison.md"
 DB_PATH = ROOT / "db" / "mandela.db"
 
 DB_BOOK_ALIASES = {"Revelation": "Revelation of John"}
@@ -39,7 +39,7 @@ EVIDENCE = (
     "restoration effort active since October 2020, marks this reading as "
     "restored pre-change text (yellow highlight on the source page). Folded "
     "in wholesale by owner directive 2026-07-19 from "
-    "references/kjvrestore_comparison.md. Advisory corroboration per the "
+    "references/evidence/kjvrestore_comparison.md. Advisory corroboration per the "
     "Premise Revision; superseded, never deleted, if a later ruling differs."
 )
 

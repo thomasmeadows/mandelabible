@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """41_fold_back_proposals.py — fold the approved witness-pass proposals back
-into references/rare_word_replacements.md (roadmap Phase item, Decision Log
+into references/rounds/round1/rare_word_replacements.md (roadmap Phase item, Decision Log
 #12; owner directive 2026-07-17: MERGE multi-entry verses, never overwrite).
 
-Source of truth: references/rare_word_ai_suggestions.md (the owner-reviewed
+Source of truth: references/rounds/round1/rare_word_ai_suggestions.md (the owner-reviewed
 split of the batch proposals — the same file script 30 applied to the db).
 For each verse, every suggestion's changed span (diff of the verse's original
 KJV text vs the suggestion's NEW) is merged onto ONE evolving verse text —
 identical logic to script 30 — so multi-entry verses (up to 6 proposals)
 compose instead of clobbering each other. Overlapping spans with differing
 text are NOT applied; they are listed in
-references/rare_word_fold_back_conflicts.md for owner resolution.
+references/rounds/round1/rare_word_fold_back_conflicts.md for owner resolution.
 
 The md is edited conservatively: ONLY the content of `- NEW:` lines changes
 (one line stays one line), so header lines, line numbers (referenced by the
@@ -29,10 +29,10 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-MD_PATH = ROOT / "references" / "rare_word_replacements.md"
-SRC = ROOT / "references" / "rare_word_ai_suggestions.md"
+MD_PATH = ROOT / "references" / "rounds" / "round1" / "rare_word_replacements.md"
+SRC = ROOT / "references" / "rounds" / "round1" / "rare_word_ai_suggestions.md"
 DB_PATH = ROOT / "db" / "mandela.db"
-CONFLICTS = ROOT / "references" / "rare_word_fold_back_conflicts.md"
+CONFLICTS = ROOT / "references" / "rounds" / "round1" / "rare_word_fold_back_conflicts.md"
 BACKUP = (ROOT / "references" / "removed_words" / "pre_triage_backups" /
           "rare_word_replacements_pre_foldback_2026-07-18.md")
 

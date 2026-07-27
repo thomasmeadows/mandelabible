@@ -14,7 +14,7 @@ API (POST, JSON, same origin):
 
 Tables created (raw JSON kept alongside extracted columns so nothing from
 the source is lost): tsbc_changes, tsbc_memories, tsbc_residue.
-Residue files are downloaded to references/tsbc_residue/ when a fetchable
+Residue files are downloaded to references/residue/tsbc_residue/ when a fetchable
 URL/path is present. Idempotent: rows upserted by source ID, downloads
 skipped when the file already exists.
 """
@@ -28,7 +28,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = REPO_ROOT / "db" / "mandela.db"
-RESIDUE_DIR = REPO_ROOT / "references" / "tsbc_residue"
+RESIDUE_DIR = REPO_ROOT / "references" / "residue" / "tsbc_residue"
 BASE = "https://search.thesupernaturalbiblechanges.com"
 MAX_CHANGE_ID = 800          # metrics say 355 changes; ids are sparse < ~400
 PAUSE = 0.15                 # be polite to a small ministry server

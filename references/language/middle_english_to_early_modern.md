@@ -1,6 +1,6 @@
 # Middle English → Early Modern English — Round-3 Witness Forms
 
-*Every Middle English (Wycliffe, 1382–1395) word-form surfaced in the round-3 rare-word witness data (`references/rare_word_round3_review.md`), mapped by the King James agent to its Early Modern English (KJV 1611) equivalent and classified. Occurrence counts are each form counted in **its own corpus** — the Middle English form in the Wycliffe text, the Early Modern English form in the KJV — with cross-corpus counts shown so you can see where a spelling survives in both.*
+*Every Middle English (Wycliffe, 1382–1395) word-form surfaced in the round-3 rare-word witness data (`references/rounds/round3/rare_word_round3_review.md`), mapped by the King James agent to its Early Modern English (KJV 1611) equivalent and classified. Occurrence counts are each form counted in **its own corpus** — the Middle English form in the Wycliffe text, the Early Modern English form in the KJV — with cross-corpus counts shown so you can see where a spelling survives in both.*
 
 **203 forms total** — 18 lexical, 147 spelling, 10 name, 28 function.
 

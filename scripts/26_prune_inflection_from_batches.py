@@ -5,7 +5,7 @@ of the witness batch files (owner directive 2026-07-17).
 Entries moved to references/removed_words/rare_word_inflection_only.md need no
 replacement, so their witness-batch entries are dead weight for the agent
 pass. This script removes them from
-references/rare_word_witness_batches/batch_NNNN.md and appends them (with
+references/rounds/round1/witness_batches/batch_NNNN.md and appends them (with
 batch provenance) to
 references/removed_words/batch_entries_inflection_only.md — moved, never
 deleted, per the preservation rule.
@@ -21,7 +21,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 INFLECTION = ROOT / "references" / "removed_words" / "rare_word_inflection_only.md"
-BATCH_DIR = ROOT / "references" / "rare_word_witness_batches"
+BATCH_DIR = ROOT / "references" / "rounds" / "round1" / "witness_batches"
 ARCHIVE = ROOT / "references" / "removed_words" / "batch_entries_inflection_only.md"
 
 

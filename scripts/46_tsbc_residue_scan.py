@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """46_tsbc_residue_scan.py — place the owner's OCR'd TSBC residue images
-(references/tsbc_residue.md, owner directive 2026-07-18) against the
+(references/residue/tsbc_residue.md, owner directive 2026-07-18) against the
 restored text and check for collisions with existing memories/restorations.
 
 For each `## <image>.png` block:
@@ -28,7 +28,7 @@ DRASTIC-CHANGE measure — the fraction of the verse's words changed
 (c) the memory-alignment count. VARIANTs are sorted candidates-first:
 unattributed + drastic on top.
 
-Output: references/tsbc_residue_placements.md (report only — nothing is
+Output: references/residue/tsbc_residue_placements.md (report only — nothing is
 applied; VARIANT entries are owner-review candidates). Overwrite guard:
 refuses to write a report with fewer placed blocks than an existing one
 unless --allow-shrink is passed.
@@ -40,9 +40,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / "references" / "tsbc_residue.md"
+SRC = ROOT / "references" / "residue" / "tsbc_residue.md"
 DB_PATH = ROOT / "db" / "mandela.db"
-OUT = ROOT / "references" / "tsbc_residue_placements.md"
+OUT = ROOT / "references" / "residue" / "tsbc_residue_placements.md"
 
 BOOK_TOKENS = {
     "genesis": "Genesis", "exodus": "Exodus", "leviticus": "Leviticus",

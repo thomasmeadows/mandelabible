@@ -8,7 +8,7 @@ rendered, restored readings marked <span style="background-color: #ffff00;">).
 Stages (all idempotent):
 1. CRAWL — discover page_ids by BFS from the homepage nav (plus any ids
    linked from fetched pages) and cache each page's raw HTML in
-   references/kjvrestore_pages/page_<id>.html. Cached files are permanent
+   references/evidence/kjvrestore_pages/page_<id>.html. Cached files are permanent
    generated artifacts: never deleted, never re-fetched if present.
    The server rejects short User-Agents (406), so a full browser UA is sent;
    1s politeness delay between fetches.
@@ -20,7 +20,7 @@ Stages (all idempotent):
      kjvr_verses(page_id, book, chapter, verse, text)   -- text w/o markers
      kjvr_highlights(book, chapter, verse, phrase)      -- their restorations
    Tables are rebuilt each run from the caches.
-3. REPORT — references/kjvrestore_comparison.md: every highlighted phrase
+3. REPORT — references/evidence/kjvrestore_comparison.md: every highlighted phrase
    compared against our KJV base text and our composed restored text, plus
    verse-ref collisions with `memories`. Advisory corroboration only — never
    a veto (Premise Revision). Overwrite guard: refuses to replace an
@@ -37,8 +37,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CACHE = ROOT / "references" / "kjvrestore_pages"
-REPORT = ROOT / "references" / "kjvrestore_comparison.md"
+CACHE = ROOT / "references" / "evidence" / "kjvrestore_pages"
+REPORT = ROOT / "references" / "evidence" / "kjvrestore_comparison.md"
 DB_PATH = ROOT / "db" / "mandela.db"
 BASE = "https://kjvrestore.org/?page_id={}"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "

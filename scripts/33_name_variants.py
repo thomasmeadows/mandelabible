@@ -5,7 +5,7 @@ For every proper noun in the KJV (word_era verdict='proper_noun', the script
 05 heuristic), scan the same verse in each English witness translation and
 collect capitalized tokens whose spelling is close but not identical
 (difflib ratio >= 0.72) — e.g. KJV "Hagar" vs Geneva "Agar". Output:
-`references/name_variants.md`, alphabetical, one section per KJV name with
+`references/names/name_variants.md`, alphabetical, one section per KJV name with
 its per-witness variant spellings, counts, and an example reference.
 
 Advisory data only (Premise Revision): witness spellings inform the Decision
@@ -22,7 +22,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "db" / "mandela.db"
-OUT_PATH = ROOT / "references" / "name_variants.md"
+OUT_PATH = ROOT / "references" / "names" / "name_variants.md"
 
 WITNESSES = ["Geneva1599", "Tyndale", "Wycliffe", "KJVPCE", "AKJV",
              "RNKJV", "UKJV", "Webster", "YLT", "DRC"]

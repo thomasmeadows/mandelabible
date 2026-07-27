@@ -5,7 +5,7 @@ out of the batch *proposal* files (owner directive 2026-07-17).
 Companion to script 26 (which prunes the batch source files). Proposal entries
 for words triaged as Inflection Deviation are moot — those verses keep their
 original KJV wording — so they are moved (never deleted) from
-references/rare_word_witness_batches/batch_NNNN_proposals.md to
+references/rounds/round1/witness_batches/batch_NNNN_proposals.md to
 references/removed_words/proposal_entries_inflection_only.md with provenance.
 
 Proposal headers are "## rareword → proposed — Book C:V" where *proposed*
@@ -19,7 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 INFLECTION = ROOT / "references" / "removed_words" / "rare_word_inflection_only.md"
-BATCH_DIR = ROOT / "references" / "rare_word_witness_batches"
+BATCH_DIR = ROOT / "references" / "rounds" / "round1" / "witness_batches"
 ARCHIVE = ROOT / "references" / "removed_words" / "proposal_entries_inflection_only.md"
 
 HEADER_RE = re.compile(r"^## (.+?) → .*? — (.+)$")
