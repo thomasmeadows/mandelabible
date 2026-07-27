@@ -2,7 +2,7 @@
 
 *A Memory-Led Restoration of the King James Bible — MVP Edition*
 
-Restored from the corrupted base text by memory-led textual criticism. Memory testimony first; internal alteration artifacts second; all written witnesses advisory. 7031 owner-approved restorations applied — every change is listed in the appendix.
+Restored from the corrupted base text by memory-led textual criticism. Memory testimony first; internal alteration artifacts second; all written witnesses advisory. 7032 owner-approved restorations applied — every change is listed in the appendix.
 
 
 ## Genesis
@@ -31223,7 +31223,7 @@ Restored from the corrupted base text by memory-led textual criticism. Memory te
 **10*** Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto thee.
 **11*** For I long to see thee, that I may impart unto thee some spiritual gift, to the end ye may be established;
 **12*** That is, that I may be comforted together with thee by the common faith both of thou and me.
-**13*** Now I would not have thee ignorant, brethren, that oftentimes I purposed to come unto thee, (but was let hitherto,) that I might have some fruit among thee also, even as among other Gentiles.
+**13*** Now I would not have thee ignorant, brethren, that oftentimes I purposed to come unto thee, but was let hitherto, that I might have some fruit among thee also, even as among other Gentiles.
 **14** I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.
 **15*** So, as much as in me is, I am ready to preach the gospel to them that are at Rome also.
 **16** For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
@@ -34246,7 +34246,7 @@ Restored from the corrupted base text by memory-led textual criticism. Memory te
 **20*** But ye have an anointing from the Holy One, and ye know all things.
 **21*** I have not written unto thee because ye know not the truth, but because ye know it, and that no lie is of the truth.
 **22** Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.
-**23** Whosoever denieth the Son, the same hath not the Father: [but] he that acknowledgeth the Son hath the Father also.
+**23*** Whosoever denieth the Son, the same hath not the Father: but he that acknowledgeth the Son hath the Father also.
 **24*** Let that therefore abide in thee, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in thee, ye also shall continue in the Son, and in the Father.
 **25** And this is the promise that he hath promised us, even eternal life.
 **26*** These things have I written unto thee concerning them that seduce thee.
@@ -55021,6 +55021,9 @@ Every verse marked with * differs from the base text.
 - **Romans 1:13** (#9816)
   - was: Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, but was let hitherto, that I might have some fruit among you also, even as among other Gentiles.
   - now: Now I would not have thee ignorant, brethren, that oftentimes I purposed to come unto thee, (but was let hitherto,) that I might have some fruit among thee also, even as among other Gentiles.
+- **Romans 1:13** (#18165)
+  - was: Now I would not have thee ignorant, brethren, that oftentimes I purposed to come unto thee, (but was let hitherto,) that I might have some fruit among thee also, even as among other Gentiles.
+  - now: Now I would not have thee ignorant, brethren, that oftentimes I purposed to come unto thee, but was let hitherto, that I might have some fruit among thee also, even as among other Gentiles.
 - **Romans 1:15** (#9817)
   - was: So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.
   - now: So, as much as in me is, I am ready to preach the gospel to them that are at Rome also.
@@ -59743,6 +59746,9 @@ Every verse marked with * differs from the base text.
 - **I John 2:21** (#17585)
   - was: I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.
   - now: I have not written unto thee because ye know not the truth, but because ye know it, and that no lie is of the truth.
+- **I John 2:23** (#18166)
+  - was: Whosoever denieth the Son, the same hath not the Father: [but] he that acknowledgeth the Son hath the Father also.
+  - now: Whosoever denieth the Son, the same hath not the Father: but he that acknowledgeth the Son hath the Father also.
 - **I John 2:24** (#17586)
   - was: Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.
   - now: Let that therefore abide in thee, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in thee, ye also shall continue in the Son, and in the Father.

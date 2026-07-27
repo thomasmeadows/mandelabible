@@ -139,6 +139,11 @@ Decisions confirmed with the project owner on 2026-07-14:
    - Fix: `scripts/49_build_blacklist.py`'s `round1()` now excludes any row carrying that boilerplate (249 rows / 184 words dropped: 2,619→2,435 words, 3,576→3,327 entries; re-run with the new `--allow-shrink` flag, since a legitimate correction can shrink the count). `scripts/29_build_whitelist.py` gained a third source — orphaned round-1 no-safe-swap flags not already in the owner-reviewed `rare_word_review_no_safe_swap.md` — added under a distinct "Orphaned round-1 no-safe-swap flags" heading (165 reviewed + **95 orphaned** + 3,602 proper nouns).
    - Of the 196 no-safe-swap words found: 101 were exact duplicates of words already on the whitelist (pure noise, dropped); 95 had never been owner-reviewed anywhere and are now whitelisted with their round-1 OLD-verse-text as evidence, pending owner spot-check.
 
+16. **The last two bracketed passages removed** (owner rulings 2026-07-26).
+   - A full scan of the restored text found exactly two survivors of the 2026-07-14 global parenthesis-removal ruling (which swept 221 verses). **Romans 1:13** `(but was let hitherto,)` — restoration #3338 had already stripped it, but restoration #9816 (the you→thee `kjvrestore_fold` pass) composed *after* it and was rebuilt from the base Oxford text, carrying the parentheses back in. **I John 2:23** `[but]` — square brackets, so never in scope of a sweep that matched `(` and `)` only; the only square bracket in the whole text.
+   - Review file: `references/parenthesis_review.md` (King James agent proposals with Geneva 1599 / Oxford 1769 / Tyndale / Wycliffe / TR comparisons per the Rare-Word Review List Protocol). Owner ruled both to the agent's primary proposal: brackets dropped, wording otherwise untouched. The agent's adjacent flag on Romans 1:13 — that "thee" addresses plural "brethren" — was **not** ruled for change; thee/thine stands.
+   - Applied by `scripts/82_remove_stray_parentheses.py` (idempotent migration, composes on top of #9816; the builder scripts were not edited). Restoration count 7,031 → 7,032; text republished and the site's prose counts updated by hand. Zero parentheses, brackets, braces, or angle brackets now remain in the scripture text — the appendix `was:` lines still show them, which is the intended audit trail.
+
 ---
 
 ## Data Asset Inventory
