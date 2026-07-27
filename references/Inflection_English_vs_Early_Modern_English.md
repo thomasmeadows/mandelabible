@@ -85,12 +85,3 @@ Kinges in 1611 KJV verses King's in KJV.  This appears to be constent across all
 #### Present Tense Form
 
 The standard oxford addition seems to keep the EModE Past form, but in reality there is a blend of both.  This varies across the bible appearing to be somewhat inconsistent.  You can find all of these, go, going, and goeth are examples, while goes does not exist and goeth appears in its place.
-
-### Inflection and the mandela effect
-
-Many of the memories of bible verses before the mandela contain improper inflection for the KJV.  One example I am struggling with is someone's memory of the following: 
-
-And God said, "I will make man in my own image, and make him king over all my dominion.  He shall be more be more numerous than the birds of the air and the fishes of the sea.  He shall be as rugged as as the mountains, as fearless and daring as the lion, as alert as the fox and as swift as the eagle."
-
-While I agree with the first part, I do remember "I will make man in my own image, and make him king over all my dominion."  The 2nd part sounds familiar but wrong.  Almost as if it is a mix of different verses and is much longer than a verse normally is during that chapter.  It also contains alert which would be the only time the words alert, numerous, and rugged ever appear in the bible.  Innumerable is usually used for an uncountable number.
-
