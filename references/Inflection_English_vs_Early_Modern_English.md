@@ -268,22 +268,43 @@ The modern edition therefore contains **0** instances of *thee, thou, thy,
 thine, ye, thyself* in its scripture text (the Restoration Appendix still shows
 them in its `was:` lines, which is the intended audit trail).
 
-### Known limitation — the absolute possessive in the modern edition
+### The absolute possessive — fixed 2026-07-26
 
-The modernization map is word-for-word and cannot see context, so it renders
-*thine* as *your* in **all** positions. In the 37 verses where *thine* is the
-**absolute** possessive, Present-Day English requires ***yours***, and the
-modern edition currently reads *your*:
+*thine* is two different words, and only one of them modernizes to *your*:
 
-- Luke 22:42 — "not my will, but **your**, be done" → should be *but **yours***
-- I Chronicles 29:11 — "**Your**, O Lord, is the greatness" → ***Yours**, O Lord*
-- I Corinthians 3:21 — "For all things are **your**" → *are **yours***
-- John 17:10 — "all mine are **your**, and **your** are mine" → *are **yours**… **yours** are mine*
-- Matthew 6:13 — "For **Your** is the kingdom" → *For **Yours** is the kingdom*
+| use | example | modern |
+| :--- | :--- | :--- |
+| **attributive** — modifies a noun | thine eyes, thine heart | your |
+| **absolute** — a pronoun in its own right | "for thine is the kingdom" | **yours** |
 
-This does not affect the original-voice edition, where the absolute *thine* is
-correct as it stands. Fixing it needs a context-sensitive rule in the engine —
-"*thine* not followed by a word it modifies → *yours*", the same absolute test
-already used by `83_thine_to_thy_before_consonants.py` — because a settings
-`GlobalReplacements` entry maps a word to a word and cannot make the
-distinction. **Open; not yet ruled.**
+The word-for-word map could not tell them apart and rendered both as *your*,
+so 37 verses read ungrammatically: *"not my will, but **your**, be done"*,
+*"**Your**, O Lord, is the greatness"*, *"For all things are **your**"*.
+
+`scripts/custom_export.py` now carries a single **context-sensitive** rule,
+`CONTEXT_RULES`, tried before the literal word keys. The absolute *thine* is
+the one that is followed by **no word at all** (punctuation or the end of the
+verse — 43 places) or by a **verb or function word that can only follow a
+pronoun** — *is, are, was, were, be, with, for, to, they, of, also* — 16
+places. **59 in total**, every one verified against the restored text:
+Gen 31:32, Num 18:9, Deut 15:3, Deut 30:4, II Sam 16:4, I Chr 12:18,
+I Chr 21:24, I Chr 29:11, Jer 32:7, Matt 6:13, Matt 20:14, Luke 6:20,
+Luke 11:4, John 15:20, John 17:6, John 17:10, plus the 43 punctuation cases.
+
+This is the same absolute test `83_thine_to_thy_before_consonants.py` uses to
+decide which *thine* to leave alone in the original-voice edition, so the two
+editions now draw the attributive/absolute line in the same place.
+
+Result in the modern edition: *"For **Yours** is the kingdom"* (Matt 6:13),
+*"**Yours**, O Lord, is the greatness"* (I Chr 29:11), *"all mine are
+**yours**, and **yours** are mine"* (John 17:10), *"not my will, but
+**yours**, be done"* (Luke 22:42) — 59 *yours*, and **0** remaining *your* in
+absolute position. Attributive forms are untouched: *"with all **your**
+heart"* (Deut 6:5), *"**your** eyes shall be opened"* (Gen 3:5).
+
+The rule honours the same override contract as every built-in: a settings file
+that states its own `"thine"` rule in `GlobalReplacements` switches the
+context rule off with it, so a custom edition is never overruled by it.
+
+The original-voice edition was never affected — the absolute *thine* is correct
+there as it stands.

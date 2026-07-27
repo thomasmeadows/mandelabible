@@ -192,7 +192,12 @@ Script 80 applies a built-in Early Modern → Modern English pass before your
 modernization settings:
 
 - pronouns — *thee/thou → you*, *thy/thine → your*, *ye → you*, *thyself →
-  yourself*
+  yourself*. The **absolute** *thine* — the one that is a pronoun rather than a
+  modifier — becomes *yours* instead: *"for thine is the kingdom" → "for yours
+  is the kingdom"*, *"not my will, but thine, be done" → "but yours, be done"*.
+  This is the one rule that looks at context (59 places in the text), because a
+  word-for-word map cannot tell *thine eyes* from *thine is the kingdom*.
+  Setting your own `"thine"` rule switches it off along with the built-in.
 - auxiliaries and irregulars — *hath → has*, *doth → does*, *art → are*,
   *shalt → shall*, *saith → says*, *spake → spoke*, *wist → knew*
 - a curated table of ~260 archaic verb forms, plus an automatic `-eth`/`-est`

@@ -463,7 +463,7 @@
 **20** And blessed be the most high God, which has delivered your enemies into your hand. And he gave him tithes of all.
 **21** And the king of Sodom said to Abram, Give me the persons, and take the goods to yourself.
 **22*** And Abram said to the king of Sodom, I have lift up mine hand to the Lord, the most high God, the maker of heaven and earth,
-**23*** That I will not take from a thread even to a latchet of a shoe, and that I will not take any thing that is your, lest you should say, I have made Abram rich:
+**23*** That I will not take from a thread even to a latchet of a shoe, and that I will not take any thing that is yours, lest you should say, I have made Abram rich:
 **24** Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion. 
 ### Chapter 15
 
@@ -618,7 +618,7 @@
 **4** But Abimelech had not come near her: and he said, Lord, will you slay also a righteous nation?
 **5** Said he not to me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this.
 **6** And God said to him in a dream, Yes, I know that you did this in the integrity of your heart; for I also withheld you from sinning against me: therefore suffered I you not to touch her.
-**7** Now therefore restore the man his wife; for he is a prophet, and he shall pray for you, and you shall live: and if you restore her not, know you that you shall surely die, you, and all that are your.
+**7** Now therefore restore the man his wife; for he is a prophet, and he shall pray for you, and you shall live: and if you restore her not, know you that you shall surely die, you, and all that are yours.
 **8** Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid.
 **9** Then Abimelech called Abraham, and said to him, What have you done to us? and what have I offended you, that you have brought on me and on my kingdom a great sin? you have done deeds to me that ought not to be done.
 **10** And Abimelech said to Abraham, What saw you, that you have done this thing?
@@ -1043,7 +1043,7 @@
 **29*** It is in the power of my hand to do you hurt: but the God of your father spoke to me yesternight, saying, Take you heed that you speak not to Jacob either good or bad.
 **30*** And now, though you would needs be gone, because you did sore long after your father's house, yet wherefore have you stolen my gods?
 **31** And Jacob answered and said to Laban, Because I was afraid: for I said, Perhaps you would take by force your daughters from me.
-**32** With whomsoever you find your gods, let him not live: before our brethren discern you what is your with me, and take it to you. For Jacob knew not that Rachel had stolen them.
+**32** With whomsoever you find your gods, let him not live: before our brethren discern you what is yours with me, and take it to you. For Jacob knew not that Rachel had stolen them.
 **33** And Laban went into Jacob’s tent, and into Leah’s tent, and into the two maidservants’ tents; but he found them not. Then went he out of Leah’s tent, and entered into Rachel’s tent.
 **34*** Now Rachel had taken the idols, and put them in the camel's saddle, and sat upon them. And Laban searched all the tent, but found them not.
 **35** And she said to her father, Let it not displease my lord that I cannot rise up before you; for the custom of women is upon me. And he searched, but found not the images.
@@ -1544,7 +1544,7 @@
 **17*** And Pharaoh said to Joseph, Say to your brethren, This do you; lade your beasts, and go, get you to the land of Canaan;
 **18*** And take your father and your households, and come to me: and I will give you the good of the land of Egypt, and you shall eat the fat of the land.
 **19*** Now you are commanded, this do you; take you wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.
-**20*** Also regard not your stuff; for the good of all the land of Egypt is your.
+**20*** Also regard not your stuff; for the good of all the land of Egypt is yours.
 **21** And the children of Israel did so: and Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.
 **22** To all of them he gave each man changes of raiment; but to Benjamin he gave three hundred pieces of silver, and five changes of raiment.
 **23*** And to his father he sent after this manner; ten asses laden with the good things of Egypt, and ten she asses laden with wheat and bread and meat for his father by the way.
@@ -1629,7 +1629,7 @@
 **3** And Jacob said to Joseph, God Almighty appeared to me at Luz in the land of Canaan, and blessed me,
 **4** And said to me, Behold, I will make you fruitful, and multiply you, and I will make of you a multitude of people; and will give this land to your seed after you for an everlasting possession.
 **5** And now your two sons, Ephraim and Manasseh, which were born to you in the land of Egypt before I came to you into Egypt, are mine; as Reuben and Simeon, they shall be mine.
-**6** And your issue, which you beget after them, shall be your, and shall be called after the name of their brethren in their inheritance.
+**6** And your issue, which you beget after them, shall be yours, and shall be called after the name of their brethren in their inheritance.
 **7** And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come to Ephrath: and I buried her there in the way of Ephrath; the same is Beth–lehem.
 **8** And Israel beheld Joseph’s sons, and said, Who are these?
 **9** And Joseph said to his father, They are my sons, whom God has given me in this place. And he said, Bring them, I pray you, to me, and I will bless them.
@@ -3278,7 +3278,7 @@
 **12** And Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons that were left, Take the meat offering that remains of the offerings of the Lord made by fire, and eat it without leaven beside the altar: for it is most holy:
 **13** And you shall eat it in the holy place, because it is your due, and your sons’ due, of the sacrifices of the Lord made by fire: for so I am commanded.
 **14** And the wave breast and heave shoulder shall you eat in a clean place; you, and your sons, and your daughters with you: for they be your due, and your sons’ due, which are given out of the sacrifices of peace offerings of the children of Israel.
-**15** The heave shoulder and the wave breast shall they bring with the offerings made by fire of the fat, to wave it for a wave offering before the Lord; and it shall be your, and your sons’ with you, by a statute for ever; as the Lord has commanded.
+**15** The heave shoulder and the wave breast shall they bring with the offerings made by fire of the fat, to wave it for a wave offering before the Lord; and it shall be yours, and your sons’ with you, by a statute for ever; as the Lord has commanded.
 **16** And Moses diligently sought the goat of the sin offering, and, behold, it was burnt: and he was angry with Eleazar and Ithamar, the sons of Aaron which were left alive, saying,
 **17*** Wherefore have you not eaten the sin offering in the holy place, seeing it is most holy, and God has given it you to bear the iniquity of the congregation, to make atonement for them before the Lord?
 **18** Behold, the blood of it was not brought in within the holy place: you should indeed have eaten it in the holy place, as I commanded.
@@ -4627,16 +4627,16 @@
 **6*** And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are given as a gift for the Lord, to do the service of the tabernacle of the congregation.
 **7*** Therefore you and your sons with you shall keep your priest’s office for every thing of the altar, and within the vail; and you shall serve: I have given your priest’s office to you as a service of gift: and the stranger that comes near shall be put to death.
 **8** And the Lord spoke to Aaron, Behold, I also have given you the charge of mine heave offerings of all the hallowed things of the children of Israel; to you have I given them by reason of the anointing, and to your sons, by an ordinance for ever.
-**9** This shall be your of the most holy things, reserved from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs, which they shall render to me, shall be most holy for you and for your sons.
+**9** This shall be yours of the most holy things, reserved from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs, which they shall render to me, shall be most holy for you and for your sons.
 **10** In the most holy place shall you eat it; every male shall eat it: it shall be holy to you.
-**11** And this is your; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them to you, and to your sons and to your daughters with you, by a statute for ever: every one that is clean in your house shall eat of it.
+**11** And this is yours; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them to you, and to your sons and to your daughters with you, by a statute for ever: every one that is clean in your house shall eat of it.
 **12** All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer to the Lord, them have I given you.
-**13** And whatsoever is first ripe in the land, which they shall bring to the Lord, shall be your; every one that is clean in your house shall eat of it.
-**14** Every thing devoted in Israel shall be your.
-**15*** Every thing that opens the womb in all flesh, which they bring to the Lord, whether it be of men or beasts, shall be your: nevertheless the firstborn of man shall you surely redeem, and the firstling of unclean beasts shall you redeem.
+**13** And whatsoever is first ripe in the land, which they shall bring to the Lord, shall be yours; every one that is clean in your house shall eat of it.
+**14** Every thing devoted in Israel shall be yours.
+**15*** Every thing that opens the womb in all flesh, which they bring to the Lord, whether it be of men or beasts, shall be yours: nevertheless the firstborn of man shall you surely redeem, and the firstling of unclean beasts shall you redeem.
 **16** And those that are to be redeemed from a month old shall you redeem, according to your estimation, for the money of five shekels, after the shekel of the sanctuary, which is twenty gerahs.
 **17** But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, you shall not redeem; they are holy: you shall sprinkle their blood upon the altar, and shall burn their fat for an offering made by fire, for a sweet savour to the Lord.
-**18** And the flesh of them shall be your, as the wave breast and as the right shoulder are your.
+**18** And the flesh of them shall be yours, as the wave breast and as the right shoulder are yours.
 **19** All the heave offerings of the holy things, which the children of Israel offer to the Lord, have I given you, and your sons and your daughters with you, by a statute for ever: it is a covenant of salt for ever before the Lord to you and to your seed with you.
 **20** And the Lord spoke to Aaron, You shall have no inheritance in their land, neither shall you have any part among them: I am your part and your inheritance among the children of Israel.
 **21** And, behold, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, even the service of the tabernacle of the congregation.
@@ -5656,7 +5656,7 @@
 **21*** That your days may be multiplied, and the days of your children, in the land which the Lord swore to your fathers to give them, as the days of heaven upon the earth.
 **22*** For if you shall diligently keep all these commandments which I command you, to do them, to love the Lord your God, to walk in all his ways, and to cleave to him;
 **23*** Then will the Lord drive out all these nations from before you, and you shall possess greater nations and mightier than yourself.
-**24*** Every place whereon the soles of your feet shall tread shall be your: from the wilderness and Lebanon, from the river, the river Euphrates, even to the uttermost sea shall your coast be.
+**24*** Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even to the uttermost sea shall your coast be.
 **25*** There shall no man be able to stand before you: for the Lord your God shall lay the fear of you and the dread of you upon all the land that you shall tread upon, as he has said to you.
 **26*** Behold, I set before you this day a blessing and a curse;
 **27*** A blessing, if you obey the commandments of the Lord your God, which I command you this day:
@@ -5754,7 +5754,7 @@
 
 **1** At the end of every seven years you shall make a release.
 **2** And this is the manner of the release: Every creditor that lends ought to his neighbour shall release it; he shall not exact it of his neighbour, or of his brother; because it is called the Lord’s release.
-**3*** Of a stranger you may exact it again: but that which is your with your brother your hand shall release;
+**3*** Of a stranger you may exact it again: but that which is yours with your brother your hand shall release;
 **4*** Save when there shall be no poor among you; for the Lord shall greatly bless you in the land which the Lord your God gives you for an inheritance to possess it:
 **5** Only if you carefully listen to the voice of the Lord your God, to observe to do all these commandments which I command you this day.
 **6** For the Lord your God blesses you, as he promised you: and you shall lend to many nations, but you shall not borrow; and you shall reign over many nations, but they shall not reign over you.
@@ -6174,7 +6174,7 @@
 **1** And it shall come to pass, when all these things are come upon you, the blessing and the curse, which I have set before you, and you shall call them to mind among all the nations, where the Lord your God has driven you,
 **2** And shall return to the Lord your God, and shall obey his voice according to all that I command you this day, you and your children, with all your heart, and with all your soul;
 **3** That then the Lord your God will turn your captivity, and have compassion upon you, and will return and gather you from all the nations, where the Lord your God has scattered you.
-**4** If any of your be driven out to the outmost parts of heaven, from thence will the Lord your God gather you, and from thence will he fetch you:
+**4** If any of yours be driven out to the outmost parts of heaven, from thence will the Lord your God gather you, and from thence will he fetch you:
 **5** And the Lord your God will bring you into the land which your fathers possessed, and you shall possess it; and he will do you good, and multiply you above your fathers.
 **6** And the Lord your God will circumcise your heart, and the heart of your seed, to love the Lord your God with all your heart, and with all your soul, that you may live.
 **7** And the Lord your God will put all these curses upon your enemies, and on them that hate you, which persecuted you.
@@ -6362,7 +6362,7 @@
 **11*** And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the Lord your God, he is God in heaven above, and in earth beneath.
 **12*** Now therefore, I pray you, swear to me by the Lord, since I have showed you kindness, that you will also show kindness to my father’s house, and give me a true token:
 **13** And that you will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.
-**14*** And the men answered her, Our life for your, if you utter not this our business. And it shall be, when the Lord has given us the land, that we will deal kindly and truly with you.
+**14*** And the men answered her, Our life for yours, if you utter not this our business. And it shall be, when the Lord has given us the land, that we will deal kindly and truly with you.
 **15*** Then she let them down by a cord through the opening: for her house was upon the town wall, and she dwelt upon the wall.
 **16*** And she said to them, Get you to the mountain, lest the pursuers meet you; and hide yourself there three days, until the pursuers be returned: and afterward may you go your way.
 **17** And the men said to her, We will be blameless of this your oath which you have made us swear.
@@ -6802,7 +6802,7 @@
 **15** And Joshua answered them, If you be a great people, then get you up to the wood country, and cut down for yourself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for you.
 **16** And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, both they who are of Beth–shean and her towns, and they who are of the valley of Jezreel.
 **17** And Joshua spoke to the house of Joseph, even to Ephraim and to Manasseh, saying, You are a great people, and have great power: you shall not have one lot only:
-**18*** But the mountain shall be your; for it is a wood, and you shall cut it down: and the borders of it shall be your: for you shall drive out the Canaanites, though they have iron chariots, and though they be strong. 
+**18*** But the mountain shall be yours; for it is a wood, and you shall cut it down: and the borders of it shall be yours: for you shall drive out the Canaanites, though they have iron chariots, and though they be strong. 
 ### Chapter 18
 
 **1** And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.
@@ -7865,7 +7865,7 @@
 **30** Wherefore the Lord God of Israel says, I said indeed that your house, and the house of your father, should walk before me for ever: but now the Lord says, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.
 **31** Behold, the days come, that I will cut off your arm, and the arm of your father’s house, that there shall not be an old man in your house.
 **32** And you shall see an enemy in my habitation, in all the wealth which God shall give Israel: and there shall not be an old man in your house for ever.
-**33** And the man of your, whom I shall not cut off from mine altar, shall be to consume your eyes, and to grieve your heart: and all the increase of your house shall die in the flower of their age.
+**33** And the man of yours, whom I shall not cut off from mine altar, shall be to consume your eyes, and to grieve your heart: and all the increase of your house shall die in the flower of their age.
 **34** And this shall be a sign to you, that shall come upon your two sons, on Hophni and Phinehas; in one day they shall die both of them.
 **35** And I will raise me up a faithful priest, that shall do according to that which is in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever.
 **36*** And it shall come to pass, that every one that is left in your house shall come and bow down to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray you, into one of the priests' offices, that I may eat a piece of bread.
@@ -8206,7 +8206,7 @@
 **25** Now therefore, I pray you, pardon my sin, and turn again with me, that I may worship the Lord.
 **26** And Samuel said to Saul, I will not return with you: for you have rejected the word of the Lord, and the Lord has rejected you from being king over Israel.
 **27** And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent.
-**28** And Samuel said to him, The Lord has rent the kingdom of Israel from you this day, and has given it to a neighbour of your, that is better than you.
+**28** And Samuel said to him, The Lord has rent the kingdom of Israel from you this day, and has given it to a neighbour of yours, that is better than you.
 **29** And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent.
 **30** Then he said, I have sinned: yet honour me now, I pray you, before the elders of my people, and before Israel, and turn again with me, that I may worship the Lord your God.
 **31** So Samuel turned again after Saul; and Saul worshipped the Lord.
@@ -9117,7 +9117,7 @@
 **1*** And when David was a little past the top of the hill, behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred loaves of bread, and an hundred heaps of raisins, and an hundred of summer fruits, and a bottle of wine.
 **2** And the king said to Ziba, What mean you by these? And Ziba said, The asses be for the king’s household to ride on; and the bread and summer fruit for the young men to eat; and the wine, that such as be faint in the wilderness may drink.
 **3** And the king said, And where is your master’s son? And Ziba said to the king, Behold, he abides at Jerusalem: for he said, To day shall the house of Israel restore me the kingdom of my father.
-**4*** Then said the king to Ziba, Behold, your are all that pertained to Mephibosheth. And Ziba said, I lowly beseech you that I may find grace in your sight, my lord, O king.
+**4*** Then said the king to Ziba, Behold, yours are all that pertained to Mephibosheth. And Ziba said, I lowly beseech you that I may find grace in your sight, my lord, O king.
 **5** And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.
 **6** And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men were on his right hand and on his left.
 **7** And thus said Shimei when he cursed, Come out, come out, you bloody man, and you man of Belial:
@@ -9556,7 +9556,7 @@
 **23** Then said the king, The one says, This is my son that lives, and your son is the dead: and the other says, No; but your son is the dead, and my son is the living.
 **24** And the king said, Bring me a sword. And they brought a sword before the king.
 **25** And the king said, Divide the living child in two, and give half to the one, and half to the other.
-**26*** Then spoke the woman whose the living child was to the king, for her bowels were kindled upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor your, but divide it.
+**26*** Then spoke the woman whose the living child was to the king, for her bowels were kindled upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor yours, but divide it.
 **27** Then the king answered and said, Give her the living child, and in no wise slay it: she is the mother thereof.
 **28** And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God was in him, to do judgment. 
 ### Chapter 4
@@ -10160,7 +10160,7 @@
 **1** And Ben–hadad the king of Syria gathered all his host together: and there were thirty and two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it.
 **2** And he sent messengers to Ahab king of Israel into the city, and said to him, Thus says Ben–hadad,
 **3*** Your silver and your gold is mine; your wives also and your children, even the best, are mine.
-**4** And the king of Israel answered and said, My lord, O king, according to your saying, I am your, and all that I have.
+**4** And the king of Israel answered and said, My lord, O king, according to your saying, I am yours, and all that I have.
 **5** And the messengers came again, and said, Thus speaks Ben–hadad, saying, Although I have sent to you, saying, You shall deliver me your silver, and your gold, and your wives, and your children;
 **6** Yet I will send my servants to you to morrow about this time, and they shall search your house, and the houses of your servants; and it shall be, that whatsoever is pleasant in your eyes, they shall put it in their hand, and take it away.
 **7*** Then the king of Israel called all the elders of the land, and said, Mark, I pray you, and see how this man seeks mischief: for he sent to me for my wives, and for my children, and for my silver, and for my gold; and I denied him not.
@@ -10220,7 +10220,7 @@
 **16** And it came to pass, when Ahab heard that Naboth was dead, that Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it.
 **17** And the word of the Lord came to Elijah the Tishbite, saying,
 **18** Arise, go down to meet Ahab king of Israel, which is in Samaria: behold, he is in the vineyard of Naboth, where he is gone down to possess it.
-**19** And you shall speak to him, saying, Thus says the Lord, Have you killed, and also taken possession? And you shall speak to him, saying, Thus says the Lord, In the place where dogs licked the blood of Naboth shall dogs lick your blood, even your.
+**19** And you shall speak to him, saying, Thus says the Lord, Have you killed, and also taken possession? And you shall speak to him, saying, Thus says the Lord, In the place where dogs licked the blood of Naboth shall dogs lick your blood, even yours.
 **20** And Ahab said to Elijah, Have you found me, O mine enemy? And he answered, I have found you: because you have sold yourself to work evil in the sight of the Lord.
 **21** Behold, I will bring evil upon you, and will take away your posterity, and will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel,
 **22** And will make your house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith you have provoked me to anger, and made Israel to sin.
@@ -11574,7 +11574,7 @@
 **15** These are they that went over Jordan in the first month, when it had overflown all his banks; and they put to flight all them of the valleys, both toward the east, and toward the west.
 **16** And there came of the children of Benjamin and Judah to the hold to David.
 **17*** And David went out to meet them, and answered and said to them, If you be come peaceably to me to help me, mine heart shall be knit to you: but if you be come to betray me to mine enemies, seeing there is no wrong in mine hands, the God of our fathers look thereon, and rebuke it.
-**18*** Then the spirit came upon Amasai, who was head of the captains, and he said, Your are we, David, and on your side, you son of Jesse: peace, peace be to you, and peace be to your helpers; for your God helps you. Then David received them, and made them captains of the band.
+**18*** Then the spirit came upon Amasai, who was head of the captains, and he said, Yours are we, David, and on your side, you son of Jesse: peace, peace be to you, and peace be to your helpers; for your God helps you. Then David received them, and made them captains of the band.
 **19*** And there fell some of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not: for the lords of the Philistines upon counsel sent him away, saying, He will fall to his master Saul to the jeopardy of our heads.
 **20** As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of the thousands that were of Manasseh.
 **21*** And they helped David against the band of the spoilers: for they were all mighty men of valour, and were captains in the host.
@@ -11812,7 +11812,7 @@
 **21*** And as David came to Ornan, Ornan looked and saw David, and went out of the threshing floor, and bowed himself to David with his face to the ground.
 **22*** Then David said to Ornan, Grant me the place of this threshing floor, that I may build an altar therein to the Lord: you shall grant it me for the full price: that the plague may be stayed from the people.
 **23** And Ornan said to David, Take it to you, and let my lord the king do that which is good in his eyes: lo, I give you the oxen also for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.
-**24** And king David said to Ornan, No; but I will truly buy it for the full price: for I will not take that which is your for the Lord, nor offer burnt offerings without cost.
+**24** And king David said to Ornan, No; but I will truly buy it for the full price: for I will not take that which is yours for the Lord, nor offer burnt offerings without cost.
 **25** So David gave to Ornan for the place six hundred shekels of gold by weight.
 **26** And David built there an altar to the Lord, and offered burnt offerings and peace offerings, and called upon the Lord; and he answered him from heaven by fire upon the altar of burnt offering.
 **27** And the Lord commanded the angel; and he put up his sword again into the sheath thereof.
@@ -12045,7 +12045,7 @@
 **8** And they with whom precious stones were found gave them to the treasure of the house of the Lord, by the hand of Jehiel the Gershonite.
 **9** Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to the Lord: and David the king also rejoiced with great joy.
 **10** Wherefore David blessed the Lord before all the congregation: and David said, Blessed be you, Lord God of Israel our father, for ever and ever.
-**11** Your, O Lord, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is your; your is the kingdom, O Lord, and you are exalted as head above all.
+**11** Yours, O Lord, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is yours; yours is the kingdom, O Lord, and you are exalted as head above all.
 **12** Both riches and honour come of you, and you reign over all; and in your hand is power and might; and in your hand it is to make great, and to give strength to all.
 **13** Now therefore, our God, we thank you, and praise your glorious name.
 **14** But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of you, and of your own have we given you.
@@ -12517,7 +12517,7 @@
 **12** O our God, will you not judge them? for we have no might against this great company that comes against us; neither know we what to do: but our eyes are upon you.
 **13** And all Judah stood before the Lord, with their little ones, their wives, and their children.
 **14** Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the Lord in the midst of the congregation;
-**15*** And he said, Listen you, all Judah, and you inhabitants of Jerusalem, and you king Jehoshaphat, Thus says the Lord to you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not your, but God’s.
+**15*** And he said, Listen you, all Judah, and you inhabitants of Jerusalem, and you king Jehoshaphat, Thus says the Lord to you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s.
 **16** To morrow go you down against them: behold, they come up by the cliff of Ziz; and you shall find them at the end of the brook, before the wilderness of Jeruel.
 **17*** You shall not need to fight in this battle: set yourself, stand you still, and see the salvation of the Lord with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the Lord will be with you.
 **18** And Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before the Lord, worshipping the Lord.
@@ -16334,7 +16334,7 @@
 **13** You did divide the sea by your strength: you brake the heads of the dragons in the waters.
 **14** You brake the heads of leviathan in pieces, and gave him to be meat to the people inhabiting the wilderness.
 **15*** You did cleave the fountain and the flood: you made mighty rivers dry.
-**16** The day is your, the night also is your: you have prepared the light and the sun.
+**16** The day is yours, the night also is yours: you have prepared the light and the sun.
 **17** You have set all the borders of the earth: you have made summer and winter.
 **18** Remember this, that the enemy has reproached, O Lord, and that the foolish people have blasphemed your name.
 **19** O deliver not the soul of your turtledove to the multitude of the wicked: forget not the congregation of your poor for ever.
@@ -16637,7 +16637,7 @@
 **8** O Lord God of hosts, who is a strong Lord like to you? or to your faithfulness round about you?
 **9** You rule the raging of the sea: when the waves thereof arise, you still them.
 **10** You have broken Rahab in pieces, as one that is slain; you have scattered your enemies with your strong arm.
-**11** The heavens are your, the earth also is your: as for the world and the fulness thereof, you have founded them.
+**11** The heavens are yours, the earth also is yours: as for the world and the fulness thereof, you have founded them.
 **12** The north and the south you have created them: Tabor and Hermon shall rejoice in your name.
 **13** You have a mighty arm: strong is your hand, and high is your right hand.
 **14** Justice and judgment are the habitation of your throne: mercy and truth shall go before your face.
@@ -17352,7 +17352,7 @@
 **91** They continue this day according to your ordinances: for all are your servants.
 **92** Unless your law had been my delights, I should then have perished in mine affliction.
 **93** I will never forget your precepts: for with them you have quickened me.
-**94** I am your, save me; for I have sought your precepts.
+**94** I am yours, save me; for I have sought your precepts.
 **95** The wicked have waited for me to destroy me: but I will consider your testimonies.
 **96** I have seen an end of all perfection: but your commandment is exceeding broad.
 **97**  O how love I your law! it is my meditation all the day.
@@ -20209,7 +20209,7 @@
 **11** Thus says the Lord, the Holy One of Israel, and his Maker, Ask me of things to come concerning my sons, and concerning the work of my hands command you me.
 **12** I have made the earth, and created man upon it: I, even my hands, have stretched out the heavens, and all their host have I commanded.
 **13** I have raised him up in righteousness, and I will direct all his ways: he shall build my city, and he shall let go my captives, not for price nor reward, says the Lord of hosts.
-**14** Thus says the Lord, The labour of Egypt, and merchandise of Ethiopia and of the Sabeans, men of stature, shall come over to you, and they shall be your: they shall come after you; in chains they shall come over, and they shall fall down to you, they shall make supplication to you, saying, Surely God is in you; and there is none else, there is no God.
+**14** Thus says the Lord, The labour of Egypt, and merchandise of Ethiopia and of the Sabeans, men of stature, shall come over to you, and they shall be yours: they shall come after you; in chains they shall come over, and they shall fall down to you, they shall make supplication to you, saying, Surely God is in you; and there is none else, there is no God.
 **15** Truly you are a God that hide yourself, O God of Israel, the Saviour.
 **16** They shall be ashamed, and also confounded, all of them: they shall go to confusion together that are makers of idols.
 **17** But Israel shall be saved in the Lord with an everlasting salvation: you shall not be ashamed nor confounded world without end.
@@ -20555,7 +20555,7 @@
 **16** Doubtless you are our father, though Abraham be ignorant of us, and Israel acknowledge us not: you, O Lord, are our father, our redeemer; your name is from everlasting.
 **17** O Lord, why have you made us to err from your ways, and hardened our heart from your fear? Return for your servants’ sake, the tribes of your inheritance.
 **18** The people of your holiness have possessed it but a little while: our adversaries have trodden down your sanctuary.
-**19** We are your: you never bare rule over them; they were not called by your name. 
+**19** We are yours: you never bare rule over them; they were not called by your name. 
 ### Chapter 64
 
 **1** Oh that you would rend the heavens, that you would come down, that the mountains might flow down at your presence,
@@ -20768,7 +20768,7 @@
 **16** Their quiver is as an open sepulchre, they are all mighty men.
 **17*** And they shall eat up your harvest, and your bread, which your sons and your daughters should eat: they shall eat up your flocks and your herds: they shall eat up your vines and your fig trees: they shall destroy your fenced cities, wherein you trusted, with the sword.
 **18*** Nevertheless in those days, says the Lord, I will not make a full end with you.
-**19*** And it shall come to pass, when you shall say, Wherefore does the Lord our God all these things to us? then shall you answer them, Like as you have forsaken me, and served strange gods in your land, so shall you serve strangers in a land that is not your.
+**19*** And it shall come to pass, when you shall say, Wherefore does the Lord our God all these things to us? then shall you answer them, Like as you have forsaken me, and served strange gods in your land, so shall you serve strangers in a land that is not yours.
 **20** Declare this in the house of Jacob, and publish it in Judah, saying,
 **21** Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not:
 **22*** Fear you not me? says the Lord: will you not tremble at my presence, which have placed the sand for the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof rage, yet can they not prevail; though they roar, yet can they not pass over it?
@@ -21483,8 +21483,8 @@
 **4** And Zedekiah king of Judah shall not escape out of the hand of the Chaldeans, but shall surely be delivered into the hand of the king of Babylon, and shall speak with him mouth to mouth, and his eyes shall behold his eyes;
 **5** And he shall lead Zedekiah to Babylon, and there shall he be until I visit him, says the Lord: though you fight with the Chaldeans, you shall not prosper.
 **6** And Jeremiah said, The word of the Lord came to me, saying,
-**7** Behold, Hanameel the son of Shallum your uncle shall come to you, saying, Buy you my field that is in Anathoth: for the right of redemption is your to buy it.
-**8** So Hanameel mine uncle’s son came to me in the court of the prison according to the word of the Lord, and said to me, Buy my field, I pray you, that is in Anathoth, which is in the country of Benjamin: for the right of inheritance is your, and the redemption is your; buy it for yourself. Then I knew that this was the word of the Lord.
+**7** Behold, Hanameel the son of Shallum your uncle shall come to you, saying, Buy you my field that is in Anathoth: for the right of redemption is yours to buy it.
+**8** So Hanameel mine uncle’s son came to me in the court of the prison according to the word of the Lord, and said to me, Buy my field, I pray you, that is in Anathoth, which is in the country of Benjamin: for the right of inheritance is yours, and the redemption is yours; buy it for yourself. Then I knew that this was the word of the Lord.
 **9** And I bought the field of Hanameel my uncle’s son, that was in Anathoth, and weighed him the money, even seventeen shekels of silver.
 **10*** And I signed the evidence, and sealed it, and took witnesses, and weighed him the money in the balances.
 **11** So I took the evidence of the purchase, both that which was sealed according to the law and custom, and that which was open:
@@ -25436,7 +25436,7 @@
 **10*** Your kingdom come. Your will be done on earth, as it is in heaven.
 **11** Give us this day our daily bread.
 **12*** And forgive us our trespasses, as we forgive them that trespass against us.
-**13*** And lead us not into temptation, but deliver us from evil: For Your is the kingdom, and the power, and the glory, for ever. Amen.
+**13*** And lead us not into temptation, but deliver us from evil: For Yours is the kingdom, and the power, and the glory, for ever. Amen.
 **14*** For if you forgive men their trespasses, your heavenly Father will also forgive you:
 **15*** But if you forgive not men their trespasses, neither will your Father forgive your trespasses.
 **16*** Moreover when you fast, be not, as the hypocrites, of a sad countenance: for they mar their faces, that they may appear to men to fast. Truly I say to you, They have their reward.
@@ -25975,7 +25975,7 @@
 **11** And when they had received it, they murmured against the goodman of the house,
 **12** Saying, These last have wrought but one hour, and you have made them equal to us, which have borne the burden and heat of the day.
 **13*** But he answered one of them, and said, Friend, I do you no wrong: did not you agree with me for a denarius?
-**14** Take that your is, and go your way: I will give to this last, even as to you.
+**14** Take that yours is, and go your way: I will give to this last, even as to you.
 **15** Is it not lawful for me to do what I will with mine own? Is your eye evil, because I am good?
 **16** So the last shall be first, and the first last: for many be called, but few chosen.
 **17** And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said to them,
@@ -26212,7 +26212,7 @@
 **22*** He also that had received two talents came and said, Lord, you delivered to me two talents: behold, I have gained two other talents beside them.
 **23** His lord said to him, Well done, good and faithful servant; you have been faithful over a few things, I will make you ruler over many things: enter you into the joy of your lord.
 **24** Then he which had received the one talent came and said, Lord, I knew you that you are an hard man, reaping where you have not sown, and gathering where you have not strawed:
-**25** And I was afraid, and went and hid your talent in the earth: lo, there you have that is your.
+**25** And I was afraid, and went and hid your talent in the earth: lo, there you have that is yours.
 **26** His lord answered and said to him, You wicked and slothful servant, you knew that I reap where I sowed not, and gather where I have not strawed:
 **27*** You ought therefore to have put my money to the tables, and then at my coming I should have received mine own with usury.
 **28** Take therefore the talent from him, and give it to him which has ten talents.
@@ -27305,7 +27305,7 @@
 **4** And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.
 **5** And the devil, taking him up into an high mountain, showed to him all the kingdoms of the world in a moment of time.
 **6** And the devil said to him, All this power will I give you, and the glory of them: for that is delivered to me; and to whomsoever I will I give it.
-**7** If you therefore will worship me, all shall be your.
+**7** If you therefore will worship me, all shall be yours.
 **8** And Jesus answered and said to him, Get you behind me, Satan: for it is written, You shall worship the Lord your God, and him only shall you serve.
 **9*** And he brought him to Jerusalem, and set him on the edge of the temple, and said to him, If you be the Son of God, cast yourself down from hence:
 **10** For it is written, He shall give his angels charge over you, to keep you:
@@ -27405,7 +27405,7 @@
 **17** And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
 **18** And they that were vexed with unclean spirits: and they were healed.
 **19** And the whole multitude sought to touch him: for there went virtue out of him, and healed them all.
-**20*** And he lifted up his eyes on his disciples, and said, Blessed be you poor: for your is the kingdom of God.
+**20*** And he lifted up his eyes on his disciples, and said, Blessed be you poor: for yours is the kingdom of God.
 **21** Blessed are you that hunger now: for you shall be filled. Blessed are you that weep now: for you shall laugh.
 **22*** Blessed are you, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake.
 **23*** Rejoice you in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers to the prophets.
@@ -27658,7 +27658,7 @@
 **1** And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said to him, Lord, teach us to pray, as John also taught his disciples.
 **2*** And he said to them, When you pray, say, Our Father who are in heaven, Hallowed be your name. Your kingdom come. Your will be done, on earth, as it is in heaven.
 **3*** Give us this day our daily bread.
-**4*** And forgive us our trespasses; as we forgive those that trespass against us. And lead us not into temptation; but deliver us from evil. for your is the kingdom, and the power, and the glory forever. Amen.
+**4*** And forgive us our trespasses; as we forgive those that trespass against us. And lead us not into temptation; but deliver us from evil. for yours is the kingdom, and the power, and the glory forever. Amen.
 **5*** And he said to them, Which of you shall have a friend, and shall go to him at midnight, and say to him, Friend, lend me three loaves;
 **6** For a friend of mine in his journey is come to me, and I have nothing to set before him?
 **7** And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give you.
@@ -27876,7 +27876,7 @@
 **28** And he was angry, and would not go in: therefore came his father out, and intreated him.
 **29** And he answering said to his father, Lo, these many years do I serve you, neither transgressed I at any time your commandment: and yet you never gave me a kid, that I might make merry with my friends:
 **30** But as soon as this your son was come, which has devoured your living with harlots, you have killed for him the fatted calf.
-**31** And he said to him, Son, you are ever with me, and all that I have is your.
+**31** And he said to him, Son, you are ever with me, and all that I have is yours.
 **32** It was meet that we should make merry, and be glad: for this your brother was dead, and is alive again; and was lost, and is found. 
 ### Chapter 16
 
@@ -28177,7 +28177,7 @@
 **39** And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.
 **40** And when he was at the place, he said to them, Pray that you enter not into temptation.
 **41** And he was withdrawn from them about a stone’s cast, and kneeled down, and prayed,
-**42** Saying, Father, if you be willing, remove this cup from me: nevertheless not my will, but your, be done.
+**42** Saying, Father, if you be willing, remove this cup from me: nevertheless not my will, but yours, be done.
 **43** And there appeared an angel to him from heaven, strengthening him.
 **44*** And being in anguish he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.
 **45** And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,
@@ -29029,7 +29029,7 @@
 **17*** These things I command you, that you love one another.
 **18*** If the world hate you, you know that it hated me before it hated you.
 **19*** If you were of the world, the world would love his own: but because you are not of the world, but I have chosen you out of the world, therefore the world hates you.
-**20*** Remember the word that I said to you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep your also.
+**20*** Remember the word that I said to you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
 **21*** But all these things will they do to you for my name’s sake, because they know not him that sent me.
 **22*** If I had not come and spoken to them, they had not had sin: but now they have no cloke for their sin.
 **23** He that hates me hates my Father also.
@@ -29079,11 +29079,11 @@
 **3** And this is life eternal, that they might know you the only true God, and Jesus Christ, whom you have sent.
 **4** I have glorified you on the earth: I have finished the work which you gave me to do.
 **5** And now, O Father, glorify you me with your own self with the glory which I had with you before the world was.
-**6** I have manifested your name to the men which you gave me out of the world: your they were, and you gave them me; and they have kept your word.
+**6** I have manifested your name to the men which you gave me out of the world: yours they were, and you gave them me; and they have kept your word.
 **7** Now they have known that all things whatsoever you have given me are of you.
 **8** For I have given to them the words which you gave me; and they have received them, and have known surely that I came out from you, and they have believed that you did send me.
-**9** I pray for them: I pray not for the world, but for them which you have given me; for they are your.
-**10** And all mine are your, and your are mine; and I am glorified in them.
+**9** I pray for them: I pray not for the world, but for them which you have given me; for they are yours.
+**10** And all mine are yours, and yours are mine; and I am glorified in them.
 **11** And now I am no more in the world, but these are in the world, and I come to you. Holy Father, keep through your own name those whom you have given me, that they may be one, as we are.
 **12** While I was with them in the world, I kept them in your name: those that you gave me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
 **13** And now come I to you; and these things I speak in the world, that they might have my joy fulfilled in themselves.
@@ -30862,8 +30862,8 @@
 **18*** Let no man deceive himself. If any man among you seems to be wise in this world, let him become a fool, that he may be wise.
 **19** For the wisdom of this world is foolishness with God. For it is written, He takes the wise in their own craftiness.
 **20** And again, The Lord knows the thoughts of the wise, that they are vain.
-**21*** Therefore let no man glory in men. For all things are your;
-**22*** Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are your;
+**21*** Therefore let no man glory in men. For all things are yours;
+**22*** Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
 **23** And you are Christ’s; and Christ is God’s. 
 ### Chapter 4
 
@@ -31251,7 +31251,7 @@
 **15*** I beseech you, brethren, you know the house of Stephanas, that it is the firstfruits of Achaia, and that they have devoted themselves to the ministry of the saints,
 **16*** That you submit yourself to such, and to every one that helps with us, and labours.
 **17*** I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.
-**18*** For they have refreshed my spirit and your: therefore acknowledge you them that are such.
+**18*** For they have refreshed my spirit and yours: therefore acknowledge you them that are such.
 **19*** The churches of Asia greet you. Aquila and Priscilla greet you much in the Lord, with the church that is in their house.
 **20*** All the brethren greet you. Greet you one another with an holy kiss.
 **21*** The greeting of me Paul with mine own hand.
@@ -31522,7 +31522,7 @@
 **11*** I am become a fool in glorying; you have compelled me: for I ought to have been commended of you: for in nothing am I behind the very greatest apostles, though I be nothing.
 **12*** Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
 **13*** For what is it wherein you were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.
-**14*** Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not your, but you: for the children ought not to lay up for the parents, but the parents for the children.
+**14*** Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.
 **15*** And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.
 **16*** But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.
 **17*** Did I make a gain of you by any of them whom I sent to you?
@@ -63044,7 +63044,7 @@ The settings this edition was built from.
 | `tellest` | `tell` | 1 | built-in |
 | `telleth` | `tells` | 7 | built-in |
 | `thee` | `you` | 6440 | built-in |
-| `thine` | `your` | 1344 | built-in |
+| `thine` | `your` | 1285 | built-in |
 | `thinkest` | `think` | 9 | built-in |
 | `thinketh` | `thinks` | 8 | built-in |
 | `thither` | `there` | 95 | built-in |

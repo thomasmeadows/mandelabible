@@ -65,6 +65,31 @@ MARK_CUSTOM = "†"      # differs from the restored text: this edition's settin
 # so only attested verb forms are listed. Every entry here can be overridden
 # or removed by the modernization settings file's GlobalReplacements.
 # --------------------------------------------------------------------------
+# Context-sensitive rules, tried BEFORE the literal word keys below.
+#
+# "thine" is two different words. Attributive, it modifies a noun and
+# modernizes to "your" (thine eyes → your eyes). Absolute, it is a pronoun in
+# its own right and modernizes to "yours" ("for thine is the kingdom" → "for
+# yours is the kingdom"; "not my will, but thine, be done" → "but yours").
+# A word-for-word map cannot tell them apart, so the absolute case gets a
+# pattern: "thine" followed by no word at all (punctuation or end of verse), or
+# by one of the verbs/function words that can only follow a pronoun. Verified
+# against the restored text: 59 absolute instances, 43 of the first shape and
+# 16 of the second — Gen 31:32, Num 18:9, Deut 15:3, Deut 30:4, II Sam 16:4,
+# I Chr 12:18, I Chr 21:24, I Chr 29:11, Jer 32:7, Matt 6:13, Matt 20:14,
+# Luke 6:20, Luke 11:4, John 15:20, John 17:6, John 17:10.
+#
+# A settings file that sets its own "thine" rule switches this off, the same
+# way it can override any other built-in (see modernization_layer).
+ABSOLUTE_THINE_FOLLOWERS = ("is", "are", "was", "were", "be", "with", "for",
+                            "to", "they", "of", "also")
+CONTEXT_RULES = [(
+    "absolute_thine",
+    r"thine\b(?:(?!\s+[A-Za-z])|(?=\s+(?:"
+    + "|".join(ABSOLUTE_THINE_FOLLOWERS) + r")\b))",
+    "yours",
+)]
+
 MODERN_RULES = {
     # pronouns and possessives
     "thee": "you", "thou": "you", "thy": "your", "thine": "your",
@@ -349,13 +374,19 @@ def match_case(src: str, repl: str) -> str:
     return repl
 
 
-def compile_replacements(mapping, generic=None):
+def compile_replacements(mapping, generic=None, context=None):
     """Build one case-insensitive regex over every key.
 
     A single alternation means replacements are applied in ONE pass, so they
     cannot cascade into each other (thee→you followed by you→ye would
     otherwise turn "thee" into "ye"). Longest keys are tried first, and
     word-ish keys get \\b boundaries while punctuation keys stay literal.
+
+    `context` is an optional list of (name, pattern, replacement) tried FIRST,
+    for rules a word-for-word map cannot express because they depend on what
+    surrounds the word (the absolute "thine" → "yours"). They are prepended so
+    they win over the literal key for the same word; each carries a named group
+    so `apply_replacements` can tell which one fired.
 
     `generic` is an optional pattern appended LAST, so an explicit key always
     wins over it — that is what lets a settings file override (or switch off,
@@ -367,9 +398,14 @@ def compile_replacements(mapping, generic=None):
         if not key.strip():
             continue
         entries[key.lower()] = str(val)
-    if not entries and not generic:
-        return None, {}
+    context = list(context or [])
+    if not entries and not generic and not context:
+        return None, {}, {}
     parts = []
+    ctx = {}
+    for name, pattern, replacement in context:
+        ctx[name] = replacement
+        parts.append(f"(?P<{name}>{pattern})")
     for key in sorted(entries, key=len, reverse=True):
         pat = re.escape(key)
         if re.match(r"^[0-9A-Za-z]", key):
@@ -379,26 +415,29 @@ def compile_replacements(mapping, generic=None):
         parts.append(pat)
     if generic:
         parts.append(r"\b" + generic)
-    return re.compile("|".join(parts), re.IGNORECASE), entries
+    return re.compile("|".join(parts), re.IGNORECASE), entries, ctx
 
 
 def apply_replacements(text, compiled, counts=None, handler=None):
-    rx, entries = compiled
+    rx, entries, ctx = compiled
     if rx is None:
         return text
 
     def _sub(m):
         src = m.group(0)
-        repl = entries.get(src.lower())
-        if repl is None:                       # matched the generic pattern
-            if handler is None:
-                return src
-            repl = handler(src)
-            if repl is None:
-                return src
-            key = GENERIC_COUNT_KEY
+        if m.lastgroup in ctx:                 # matched a context rule
+            repl, key = ctx[m.lastgroup], f"({m.lastgroup} rule)"
         else:
-            key = src.lower()
+            repl = entries.get(src.lower())
+            if repl is None:                   # matched the generic pattern
+                if handler is None:
+                    return src
+                repl = handler(src)
+                if repl is None:
+                    return src
+                key = GENERIC_COUNT_KEY
+            else:
+                key = src.lower()
         if counts is not None:
             counts[key] = counts.get(key, 0) + 1
         return match_case(src, repl)
@@ -443,13 +482,15 @@ class Layer:
     """One stacked transformation: global replacements + verse replacements."""
 
     def __init__(self, label, mapping, verse_replacements=None, settings=None,
-                 sources=None):
+                 sources=None, context=None):
         self.label = label
         self.settings = settings
         self.mapping = dict(mapping)
         # optional provenance for a merged mapping: lowercased key -> origin
         self.sources = dict(sources or {})
-        self.compiled = compile_replacements(self.mapping)
+        # context-sensitive rules (see CONTEXT_RULES); only script 80's layer
+        self.context = list(context or [])
+        self.compiled = compile_replacements(self.mapping, context=self.context)
         self.raw_verses = verse_replacements or {}
         self.verses = {}       # (book_id, chapter, verse) -> (text, comment)
         self.counts = {}       # lowercased key -> times replaced
@@ -460,7 +501,8 @@ class Layer:
     def enable_verb_rule(self, vocab):
         """Turn on the automatic -eth/-est rule, guarded by `vocab`."""
         self.verb_rule = make_archaic_verb_rule(vocab)
-        self.compiled = compile_replacements(self.mapping, ARCHAIC_VERB_PATTERN)
+        self.compiled = compile_replacements(
+            self.mapping, ARCHAIC_VERB_PATTERN, context=self.context)
 
     def resolve(self, books):
         self.verses = {}
@@ -524,15 +566,21 @@ def modernization_layer(settings=None):
     sources = {k.lower(): "built-in" for k in mapping}
     label = "built-in modernization"
     verses = None
+    overridden = set()
     if settings:
         for key, val in settings.global_replacements.items():
             sources[key.lower()] = (
                 "settings (overrides built-in)" if key.lower() in sources
                 else "settings")
             mapping[key] = val
+            overridden.add(key.lower())
         verses = settings.verse_replacements
         label = f"modernization (built-in rules + {settings.path.name})"
-    layer = Layer(label, mapping, verses, settings, sources)
+    # A settings file that states its own "thine" rule switches the
+    # context-sensitive absolute-possessive rule off, the same way it can
+    # override any other built-in.
+    context = [] if "thine" in overridden else CONTEXT_RULES
+    layer = Layer(label, mapping, verses, settings, sources, context)
     layer.wants_verb_rule = True
     return layer
 

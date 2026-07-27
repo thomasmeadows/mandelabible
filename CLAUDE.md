@@ -152,6 +152,16 @@ Rules worth preserving when editing the engine:
   pass** so they cannot cascade; explicit keys are ordered before the generic
   `-eth`/`-est` pattern, which is what makes "map a word to itself" a working
   way to switch a built-in rule off.
+- `CONTEXT_RULES` are context-sensitive patterns compiled into that **same**
+  alternation, ahead of the literal keys (named groups tell `apply_replacements`
+  which one fired), so the no-cascade guarantee still holds. There is one:
+  the **absolute** `thine` → `yours` (a pronoun, not a modifier — "for thine is
+  the kingdom"), which a word-for-word map cannot distinguish from "thine
+  eyes". It uses the same absolute test as
+  `scripts/83_thine_to_thy_before_consonants.py`, so both editions draw the
+  attributive/absolute line in the same place. A settings file that states its
+  own `"thine"` rule switches the context rule off with it — keep that
+  override contract if you add more context rules.
 - The automatic `-eth`/`-est` rule only fires when a base form of the word is
   itself a word in the text; that guard (plus `ETH_BLOCKLIST` /
   `EST_BLOCKLIST` for ordinals and superlatives) is what protects *priest*,
