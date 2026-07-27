@@ -4581,3 +4581,10497 @@
 - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 - NEW: (no change — round-6 protected word)
 
+
+## double → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "double", 32 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## doubled → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "double", 32 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## eight → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eight", 80 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## eighteen → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eighteen", 22 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## eighteenth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eighteenth", 11 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## eighth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eighth", 39 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## eleven → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eleven", 24 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## eleventh → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eleventh", 20 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fifteen → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fifteen", 24 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fifteenth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fifteenth", 18 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fifth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fifth", 61 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fifties → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fifty", 165 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fiftieth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fiftieth", 4 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fifty → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fifty", 165 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## first → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "first", 436 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## five → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "five", 345 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fortieth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fortieth", 4 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## forty → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "forty", 158 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## forty's → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "forty", 158 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## four → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "four", 330 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fourscore → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fourscore", 36 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fourteen → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fourteen", 26 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fourteenth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fourteenth", 25 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## fourth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fourth", 84 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## half → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "half", 136 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## hundred → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "hundred", 620 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## hundredfold → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "hundredfold", 7 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## hundreds → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "hundred", 620 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## nine → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "nine", 50 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## nineteen → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "nineteen", 3 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## nineteenth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "nineteenth", 4 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## ninety → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "ninety", 24 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## ninth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "ninth", 32 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## once → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "once", 59 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## one → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "one", 1981 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## one's → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "one", 1981 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## quarter → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "quarter", 19 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## quarters → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "quarter", 19 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## second → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "second", 175 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## seven → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seven", 465 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## sevenfold → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "sevenfold", 6 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## sevens → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seven", 465 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## seventeen → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seventeen", 10 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## seventeenth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seventeenth", 6 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## seventh → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seventh", 120 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## seventy → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seventy", 61 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## six → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "six", 202 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## sixteen → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "sixteen", 23 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## sixteenth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "sixteenth", 3 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## sixth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "sixth", 47 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## sixty → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "sixty", 16 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## ten → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "ten", 253 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## ten's → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "ten", 253 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## tens → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "ten", 253 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## tenth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "tenth", 81 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## third → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "third", 182 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## thirteen → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thirteen", 15 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## thirteenth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thirteenth", 11 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## thirtieth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thirtieth", 9 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## thirty → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thirty", 176 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## thousand → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thousand", 583 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## thousands → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thousand", 583 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## three → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "three", 483 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## threescore → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "threescore", 93 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## thrice → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thrice", 15 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## twain → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twain", 17 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## twelfth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twelfth", 23 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## twelve → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twelve", 188 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## twentieth → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twentieth", 36 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## twenty → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twenty", 296 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## twenty's → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twenty", 296 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## twice → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twice", 17 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## two → NO-SAFE-SWAP — numbers
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "two", 835 uses.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+- NEW: (no change — whitelisted number)
+
+## a → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "a", 8200 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8200 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## able → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "able", 162 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (162 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## abomination → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "abomination", 152 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## abominations → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "abomination", 152 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## about → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "about", 633 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (633 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## above → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "above", 225 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (225 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## accord → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "accord", 810 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (810 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## according → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "accord", 810 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (810 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## afflict → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "afflict", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## afflicted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "afflict", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## afflictest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "afflict", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## affliction → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "affliction", 89 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## afflictions → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "affliction", 89 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## afraid → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "afraid", 195 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## after → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "after", 1181 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1181 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## again → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "again", 672 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (672 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## against → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "against", 1673 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1673 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## all → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "all", 5615 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (5615 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## also → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "also", 1766 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1766 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## altar → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "altar", 433 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (433 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## altars → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "altar", 433 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (433 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## am → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "am", 953 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (953 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## amen → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "am", 953 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (953 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## among → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "among", 916 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (916 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## and → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "and", 51697 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (51697 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## angel → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "angel", 297 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (297 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## angel's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "angel", 297 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (297 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## angels → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "angel", 297 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (297 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## anger → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anger", 236 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (236 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## angered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anger", 236 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (236 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## anoint → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anoint", 165 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## anointed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anoint", 165 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## anointest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anoint", 165 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## anointing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anoint", 165 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## another → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "another", 454 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (454 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## another's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "another", 454 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (454 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## answer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## answered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## answerest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## answereth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## answering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## answers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## any → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "any", 918 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (918 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## appear → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "appear", 140 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## appeared → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "appear", 140 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## appeareth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "appear", 140 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## appearing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "appear", 140 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## are → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "are", 2947 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2947 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ark → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ark", 229 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (229 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## arm → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "arm", 128 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (128 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## armed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "arm", 128 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (128 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## armies → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "army", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## arms → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "arm", 128 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (128 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## army → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "army", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## art → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "art", 495 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (495 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## arts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "art", 495 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (495 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## as → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "as", 3534 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3534 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ashamed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ashamed", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ask → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ask", 253 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## asked → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ask", 253 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## askest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ask", 253 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## asketh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ask", 253 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## asking → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ask", 253 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## away → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "away", 925 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (925 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bare → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bare", 190 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## barest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bare", 190 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## battle → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "battle", 176 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (176 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## battles → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "battle", 176 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (176 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beast → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beast", 338 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beast's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beast", 338 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beasts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beast", 338 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## became → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "became", 108 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (108 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## becamest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "became", 108 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (108 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## because → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "because", 1208 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1208 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## become → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "become", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## becometh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "become", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## before → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "before", 1803 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1803 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## began → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "began", 192 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## begat → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "begat", 225 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (225 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## begin → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "begin", 138 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (138 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beginnest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "begin", 138 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (138 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beginning → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "begin", 138 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (138 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beginnings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "begin", 138 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (138 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## behold → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "behold", 1350 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1350 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beholdest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "behold", 1350 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1350 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beholdeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "behold", 1350 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1350 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beholding → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "behold", 1350 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1350 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## believe → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "believe", 320 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## believed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "believe", 320 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## believest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "believe", 320 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## believeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "believe", 320 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## believing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "believe", 320 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beloved → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beloved", 115 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (115 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beloved's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beloved", 115 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (115 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## beside → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beside", 140 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## besides → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beside", 140 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## better → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "better", 118 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bettered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "better", 118 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## between → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "between", 233 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (233 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bless → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## blessed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## blessest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## blesseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## blessing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## blessings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## blood → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "blood", 449 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (449 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bodies → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "body", 210 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (210 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## body → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "body", 210 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (210 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## body's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "body", 210 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (210 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bone → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bone", 117 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (117 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bones → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bone", 117 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (117 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## book → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "book", 199 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## books → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "book", 199 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## born → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "born", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## both → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "both", 360 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (360 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bow → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bow", 204 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bowed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bow", 204 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## boweth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bow", 204 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bowing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bow", 204 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bows → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bow", 204 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## branch → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "branch", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## branches → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "branch", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## brass → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "brass", 127 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bread → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bread", 361 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (361 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## breadth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "breadth", 91 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## brethren → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "brethren", 565 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (565 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## brethren's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "brethren", 565 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (565 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bring → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bring", 839 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (839 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bringest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bring", 839 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (839 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bringeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bring", 839 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (839 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bringing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bring", 839 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (839 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## broth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "broth", 406 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## brother → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "broth", 406 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## brother's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "broth", 406 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## brothers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "broth", 406 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## build → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## builder → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## builders → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## buildest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## buildeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## building → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## buildings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## built → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "built", 220 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bullock → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bullock", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bullock's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bullock", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bullocks → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bullock", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## burden → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burden", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## burdened → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burden", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## burdens → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burden", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## buried → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bury", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## burn → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burn", 321 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## burned → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burn", 321 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## burneth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burn", 321 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## burning → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burn", 321 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## burnings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burn", 321 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## burnt → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burnt", 366 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (366 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## bury → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bury", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## burying → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bury", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## but → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "but", 3993 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3993 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## by → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "by", 2633 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2633 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## call → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "call", 886 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (886 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## called → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "call", 886 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (886 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## callest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "call", 886 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (886 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## calleth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "call", 886 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (886 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## calling → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "call", 886 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (886 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## came → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "came", 2121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## camest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "came", 2121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## camp → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "camp", 144 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## camped → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "camp", 144 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## camps → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "camp", 144 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## can → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "can", 234 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (234 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cannot → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cannot", 185 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (185 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## captain → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "captain", 260 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (260 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## captains → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "captain", 260 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (260 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## captive → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "captive", 102 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (102 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## captives → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "captive", 102 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (102 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## captivity → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "captivity", 129 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (129 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## carried → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "carry", 242 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (242 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## carry → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "carry", 242 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (242 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## carrying → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "carry", 242 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (242 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cast → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cast", 544 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (544 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## castest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cast", 544 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (544 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## casteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cast", 544 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (544 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## casting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cast", 544 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (544 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cattle → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cattle", 152 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cause → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## caused → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## causes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## causest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## causeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## causing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cease → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cease", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ceased → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cease", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ceaseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cease", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ceasing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cease", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## chamber → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chamber", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## chambering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chamber", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## chambers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chamber", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## charge → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## charged → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## charger → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## chargers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## charges → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## chargest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## charging → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## chariot → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chariot", 177 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (177 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## chariots → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chariot", 177 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (177 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## child → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "child", 205 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (205 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## child's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "child", 205 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (205 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## chose → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chose", 152 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## chosen → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chose", 152 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## church → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "church", 117 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (117 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## churches → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "church", 117 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (117 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cities → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "city", 1319 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1319 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## city → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "city", 1319 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1319 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## clean → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "clean", 133 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (133 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cleanse → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cleanse", 89 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cleansed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cleanse", 89 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cleanseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cleanse", 89 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cleansing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cleanse", 89 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cloth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## clothed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## clothes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## clothest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## clothing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cloths → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cloud → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloud", 157 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## clouds → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloud", 157 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## coast → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "coast", 111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## coasts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "coast", 111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## comfort → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## comforted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## comforter → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## comforters → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## comforteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## comforts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## command → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "command", 572 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (572 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## commanded → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "command", 572 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (572 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## commandest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "command", 572 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (572 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## commandeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "command", 572 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (572 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## commanding → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "command", 572 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (572 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## commandment → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "commandment", 348 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (348 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## commandments → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "commandment", 348 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (348 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## companied → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "company", 104 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## companies → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "company", 104 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## company → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "company", 104 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## compass → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "compass", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## compassed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "compass", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## compassest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "compass", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## compasseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "compass", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## compassing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "compass", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## concerning → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "concerning", 241 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (241 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## congregation → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "congregation", 367 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (367 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## congregations → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "congregation", 367 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (367 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## consider → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consider", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## considered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consider", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## considerest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consider", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## considereth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consider", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## considering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consider", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## consume → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consume", 160 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (160 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## consumed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consume", 160 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (160 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## consumeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consume", 160 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (160 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## consuming → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consume", 160 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (160 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## could → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "could", 172 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (172 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## couldest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "could", 172 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (172 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## counsel → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "counsel", 164 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (164 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## counselled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "counsel", 164 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (164 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## counsels → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "counsel", 164 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (164 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## countries → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "country", 234 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (234 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## country → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "country", 234 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (234 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## court → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "court", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## courts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "court", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cover → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## covered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## coverest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## covereth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## covering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## coverings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## covers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cubit → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cubit", 258 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (258 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cubits → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cubit", 258 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (258 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## curse → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cursed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## curses → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cursest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## curseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cursing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cursings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cut → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cut", 346 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (346 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cuttest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cut", 346 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (346 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cutteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cut", 346 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (346 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cutting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cut", 346 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (346 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## cuttings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cut", 346 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (346 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## darkness → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "darkness", 162 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (162 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## daughter → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "daughter", 581 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (581 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## daughter's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "daughter", 581 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (581 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## daughters → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "daughter", 581 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (581 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dead → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dead", 364 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (364 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## deal → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deal", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dealest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deal", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dealeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deal", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dealing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deal", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## deals → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deal", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## death → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "death", 379 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (379 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## deaths → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "death", 379 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (379 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## deliver → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## delivered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## deliverer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## deliverest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## delivereth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## delivering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## desolate → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "desolate", 148 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (148 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## despise → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "despise", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## despised → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "despise", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## despisest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "despise", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## despiseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "despise", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## despising → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "despise", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## destruction → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "destruction", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## destructions → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "destruction", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## devil → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devil", 109 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## devils → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devil", 109 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## devour → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devour", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## devoured → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devour", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## devourest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devour", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## devoureth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devour", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## devouring → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devour", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## did → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "did", 1004 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1004 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## die → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "die", 556 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (556 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## died → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "die", 556 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (556 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## diest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "die", 556 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (556 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dieth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "die", 556 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (556 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## do → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## doer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## doers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## doest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## doeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## doing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## doings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## done → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "done", 567 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (567 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## door → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "door", 261 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## doors → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "door", 261 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dost → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dost", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## doth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "doth", 206 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## down → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "down", 1138 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1138 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## draw → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "draw", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## draweth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "draw", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## drawing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "draw", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dream → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dream", 121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dreamed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dream", 121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dreamer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dream", 121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dreameth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dream", 121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dreams → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dream", 121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dried → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dry", 112 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## drink → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drink", 410 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (410 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## drinketh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drink", 410 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (410 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## drinking → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drink", 410 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (410 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## drinks → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drink", 410 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (410 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## drive → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drive", 118 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## driven → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drive", 118 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## driveth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drive", 118 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## driving → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drive", 118 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dry → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dry", 112 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## dwelt → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dwelt", 227 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (227 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ear → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## eared → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## earing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## earring → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## earrings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ears → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## earth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "earth", 994 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (994 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## earthen → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "earth", 994 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (994 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## elder → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "elder", 202 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (202 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## elders → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "elder", 202 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (202 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## enemies → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enemy", 379 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (379 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## enemy → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enemy", 379 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (379 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## enemy's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enemy", 379 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (379 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## enter → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enter", 325 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## entered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enter", 325 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## entereth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enter", 325 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## entering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enter", 325 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## escape → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "escape", 124 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (124 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## escaped → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "escape", 124 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (124 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## escapeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "escape", 124 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (124 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## escaping → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "escape", 124 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (124 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## establish → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "establish", 123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## established → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "establish", 123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## establisheth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "establish", 123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## every → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "every", 1236 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1236 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## evil → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "evil", 622 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (622 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## evils → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "evil", 622 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (622 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## exalt → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "exalt", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## exalted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "exalt", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## exaltest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "exalt", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## exalteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "exalt", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## eye → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "eye", 630 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (630 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## eye's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "eye", 630 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (630 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## eyed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "eye", 630 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (630 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## eyes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "eye", 630 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (630 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## face → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "face", 489 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (489 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## faces → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "face", 489 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (489 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fail → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fail", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## failed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fail", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## faileth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fail", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## failing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fail", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## faith → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "faith", 252 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (252 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## families → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "family", 298 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (298 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## family → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "family", 298 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (298 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## famine → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "famine", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## famines → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "famine", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## far → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "far", 172 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (172 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fared → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "far", 172 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (172 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fat → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fat", 149 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (149 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## father → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "father", 1683 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1683 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## father's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "father", 1683 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1683 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fathers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "father", 1683 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1683 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fats → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fat", 149 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (149 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fatted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fat", 149 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (149 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fattest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fat", 149 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (149 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## feast → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "feast", 166 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (166 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## feasted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "feast", 166 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (166 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## feasting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "feast", 166 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (166 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## feasts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "feast", 166 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (166 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## feet → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "feet", 258 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (258 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fell → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fell", 246 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (246 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## felled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fell", 246 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (246 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## felling → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fell", 246 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (246 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## field → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "field", 355 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (355 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fields → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "field", 355 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (355 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fight → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fight", 115 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (115 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fighteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fight", 115 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (115 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fighting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fight", 115 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (115 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fill → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fill", 223 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## filled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fill", 223 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fillest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fill", 223 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## filleth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fill", 223 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## filling → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fill", 223 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## find → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "find", 196 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## findest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "find", 196 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## findeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "find", 196 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## finding → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "find", 196 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fine → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fine", 119 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## finest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fine", 119 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fining → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fine", 119 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fire → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fire", 551 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (551 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fires → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fire", 551 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (551 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## firstborn → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "firstborn", 118 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fled", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## flesh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "flesh", 423 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (423 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## flock → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "flock", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## flocks → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "flock", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## follow → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "follow", 253 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## followed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "follow", 253 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## followeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "follow", 253 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## following → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "follow", 253 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fool → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fool", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fool's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fool", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fools → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fool", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## foot → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "foot", 97 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (97 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## for → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "for", 9015 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (9015 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "for", 9015 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (9015 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forests → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "for", 9015 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (9015 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forgive → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forgive", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forgiven → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forgive", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forgiveth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forgive", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forgiving → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forgive", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## form → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "form", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## formed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "form", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## former → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "form", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## formeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "form", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forms → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "form", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forsake → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forsake", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forsaken → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forsake", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forsaketh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forsake", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## forsaking → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forsake", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## found → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "found", 423 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (423 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## founded → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "found", 423 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (423 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## founder → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "found", 423 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (423 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## foundest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "found", 423 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (423 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## friend → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "friend", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## friends → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "friend", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## from → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "from", 3661 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3661 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fruit → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fruit", 250 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (250 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fruits → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fruit", 250 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (250 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fulfil → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fulfil", 112 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fulfilled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fulfil", 112 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## fulfilling → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fulfil", 112 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## garment → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "garment", 196 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## garments → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "garment", 196 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## gate → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gate", 416 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (416 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## gates → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gate", 416 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (416 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## generation → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "generation", 225 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (225 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## generations → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "generation", 225 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (225 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## get → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "get", 133 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (133 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## getteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "get", 133 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (133 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## getting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "get", 133 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (133 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## gift → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gift", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## gifts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gift", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## gold → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gold", 483 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (483 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## golden → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gold", 483 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (483 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## gone → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gone", 213 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (213 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## good → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "good", 765 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (765 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## goods → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "good", 765 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (765 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## gospel → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gospel", 105 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## gospel's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gospel", 105 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## grace → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grace", 171 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (171 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## grave → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## grave's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## graved → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## graven → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## graves → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## graveth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## graving → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## great → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "great", 1083 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1083 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## greater → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "great", 1083 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1083 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## greatest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "great", 1083 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1083 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ground → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ground", 199 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## grounded → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ground", 199 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## had → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "had", 2027 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2027 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hang → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hang", 91 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hanged → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hang", 91 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hangeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hang", 91 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hanging → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hang", 91 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hangings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hang", 91 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hard → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hard", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## harden → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hard", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hardened → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hard", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hardeneth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hard", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## harder → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hard", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hast → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hasted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hasten → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hastened → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hasteneth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hasteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hasting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hate → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hate", 188 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hated → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hate", 188 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hatest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hate", 188 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hateth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hate", 188 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hath → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hath", 2272 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2272 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hating → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hate", 188 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heal → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heal", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## healed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heal", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## healeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heal", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## healing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heal", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## healings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heal", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hear → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heard → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heard", 656 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (656 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heardest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heard", 656 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (656 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hearer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hearers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hearest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heareth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hearing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hearken → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hearken", 237 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (237 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hearkened → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hearken", 237 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (237 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hearkeneth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hearken", 237 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (237 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hearkening → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hearken", 237 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (237 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heart → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heart", 961 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (961 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heart's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heart", 961 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (961 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hearted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heart", 961 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (961 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hearts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heart", 961 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (961 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heathen → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heathen", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heave → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heave", 747 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (747 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heaved → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heave", 747 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (747 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heaven → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heave", 747 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (747 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heaven's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heave", 747 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (747 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## heavens → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heave", 747 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (747 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## help → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## helped → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## helper → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## helpers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## helpeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## helping → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## helps → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## here → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "here", 162 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (162 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hid → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hid", 158 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (158 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hidest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hid", 158 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (158 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hideth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hid", 158 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (158 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hiding → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hid", 158 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (158 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## high → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "high", 457 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (457 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## higher → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "high", 457 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (457 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## highest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "high", 457 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (457 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hill → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hill", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hill's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hill", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hills → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hill", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## him → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "him", 6662 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6662 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## himself → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "himself", 527 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (527 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## his → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "his", 8466 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8466 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hissing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "his", 8466 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8466 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hold → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hold", 232 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (232 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## holdest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hold", 232 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (232 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## holdeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hold", 232 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (232 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## holding → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hold", 232 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (232 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## holds → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hold", 232 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (232 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## honour → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "honour", 168 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## honoured → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "honour", 168 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## honourest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "honour", 168 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## honoureth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "honour", 168 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## honours → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "honour", 168 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hope → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hope", 146 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hope's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hope", 146 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hoped → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hope", 146 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hopeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hope", 146 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hoping → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hope", 146 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## horn → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "horn", 104 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## horns → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "horn", 104 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## horse → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "horse", 155 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## horses → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "horse", 155 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## host → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "host", 493 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (493 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hosts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "host", 493 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (493 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hour → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hour", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## hours → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hour", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## house → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "house", 2203 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2203 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## houses → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "house", 2203 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2203 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## how → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "how", 544 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (544 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## husband → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "husband", 145 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (145 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## husband's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "husband", 145 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (145 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## husbands → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "husband", 145 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (145 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## if → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "if", 1595 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1595 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## image → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "image", 174 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## image's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "image", 174 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## images → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "image", 174 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## in → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "in", 12688 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (12688 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## increase → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "increase", 155 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## increased → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "increase", 155 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## increasest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "increase", 155 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## increaseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "increase", 155 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## increasing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "increase", 155 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## inhabitant → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "inhabitant", 238 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (238 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## inhabitants → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "inhabitant", 238 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (238 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## inheritance → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "inheritance", 241 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (241 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## inheritances → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "inheritance", 241 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (241 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## iniquities → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "iniquity", 333 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (333 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## iniquity → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "iniquity", 333 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (333 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## into → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "into", 2016 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2016 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## iron → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "iron", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## is → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "is", 6988 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6988 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## it → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "it", 6149 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6149 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## its → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "it", 6149 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6149 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## journey → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "journey", 109 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## journeyed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "journey", 109 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## journeying → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "journey", 109 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## journeys → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "journey", 109 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## joy → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "joy", 170 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (170 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## joyed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "joy", 170 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (170 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## joying → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "joy", 170 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (170 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## judge → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## judged → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## judges → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## judgest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## judgeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## judging → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## judgment → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judgment", 424 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (424 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## judgments → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judgment", 424 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (424 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## just → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "just", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## kept → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kept", 176 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (176 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## kill → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kill", 220 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## killed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kill", 220 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## killest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kill", 220 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## killeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kill", 220 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## killing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kill", 220 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## kindle → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kindle", 90 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (90 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## kindled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kindle", 90 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (90 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## kindleth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kindle", 90 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (90 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## king → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "king", 2874 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2874 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## king's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "king", 2874 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2874 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## kingdom → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kingdom", 401 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (401 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## kingdoms → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kingdom", 401 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (401 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## kings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "king", 2874 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2874 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## knew → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "knew", 182 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (182 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## knewest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "knew", 182 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (182 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## knowledge → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "knowledge", 175 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## known → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "known", 224 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (224 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## labour → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "labour", 131 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (131 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## laboured → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "labour", 131 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (131 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## laboureth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "labour", 131 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (131 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## labouring → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "labour", 131 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (131 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## labours → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "labour", 131 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (131 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## laid → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "laid", 282 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (282 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## law → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "law", 543 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (543 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## laws → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "law", 543 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (543 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lay → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lay", 275 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (275 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## layest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lay", 275 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (275 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## layeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lay", 275 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (275 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## laying → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lay", 275 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (275 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## left → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "left", 351 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (351 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## leftest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "left", 351 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (351 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lest", 241 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (241 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## let → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "let", 1512 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1512 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lettest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "let", 1512 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1512 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## letteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "let", 1512 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1512 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## letting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "let", 1512 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1512 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lie → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lie", 278 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (278 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lied → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lie", 278 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (278 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lies → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lie", 278 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (278 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## liest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lie", 278 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (278 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lieth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lie", 278 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (278 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## life → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "life", 450 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (450 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lift → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lift", 288 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (288 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lifted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lift", 288 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (288 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## liftest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lift", 288 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (288 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lifteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lift", 288 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (288 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lifting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lift", 288 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (288 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## light → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lighted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lighten → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lightened → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lighteneth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lighter → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lightest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lighteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lighting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lights → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## like → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## liked → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## liken → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## likened → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## liketh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## likewise → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "likewise", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## liking → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## line → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "line", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## linen → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "line", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lines → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "line", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lion → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lion", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lion's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lion", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lions → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lion", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lip → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lip", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lips → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lip", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## little → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "little", 244 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (244 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## live → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lived → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## liver → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lives → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## livest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## liveth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## living → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lo → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lo", 159 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (159 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## long → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "long", 245 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## longed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "long", 245 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## longer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "long", 245 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## longeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "long", 245 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## longing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "long", 245 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lord → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lord", 8099 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8099 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lord's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lord", 8099 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8099 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## lords → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lord", 8099 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8099 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## man → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "man", 2744 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2744 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## man's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "man", 2744 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2744 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## manner → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "manner", 203 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (203 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## manners → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "manner", 203 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (203 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## many → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "many", 556 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (556 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## matter → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "matter", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## matters → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "matter", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## may → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "may", 1142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mayest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "may", 1142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## meat → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meat", 297 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (297 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## meats → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meat", 297 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (297 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## meet → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meet", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## meetest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meet", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## meeteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meet", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## meeting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meet", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mercies → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mercy", 321 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mercy → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mercy", 321 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## messenger → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "messenger", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## messengers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "messenger", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## midst → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "midst", 366 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (366 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## might → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "might", 494 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (494 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mightest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "might", 494 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (494 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mightier → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mighty", 302 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (302 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mighty → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mighty", 302 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (302 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mind → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mind", 126 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## minded → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mind", 126 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## minding → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mind", 126 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## minds → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mind", 126 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mine → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mine", 651 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (651 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## minister → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "minister", 181 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (181 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ministered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "minister", 181 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (181 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ministereth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "minister", 181 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (181 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ministering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "minister", 181 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (181 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ministers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "minister", 181 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (181 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## month → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "month", 309 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (309 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## months → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "month", 309 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (309 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## more → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "more", 693 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (693 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## moreover → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "moreover", 171 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (171 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## morning → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "morning", 227 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (227 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## morrow → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "morrow", 103 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (103 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## most → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "most", 128 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (128 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## moth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "moth", 340 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (340 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mother → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "moth", 340 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (340 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mother's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "moth", 340 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (340 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mothers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "moth", 340 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (340 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mount → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mount", 268 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mounted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mount", 268 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mounting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mount", 268 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mounts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mount", 268 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mourn → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mourn", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mourned → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mourn", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mourneth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mourn", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mourning → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mourn", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mouth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mouth", 442 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (442 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## mouths → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mouth", 442 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (442 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## move → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "move", 105 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## moved → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "move", 105 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## moveth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "move", 105 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## moving → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "move", 105 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## much → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "much", 286 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (286 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## multiplied → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "multiply", 92 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (92 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## multiply → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "multiply", 92 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (92 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## multiplying → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "multiply", 92 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (92 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## multitude → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "multitude", 268 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## multitudes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "multitude", 268 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## must → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "must", 132 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (132 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## my → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "my", 4367 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (4367 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## myself → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "myself", 118 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## name → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "name", 1111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## name's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "name", 1111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## named → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "name", 1111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## names → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "name", 1111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## nameth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "name", 1111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## nation → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nation", 482 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (482 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## nations → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nation", 482 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (482 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## near → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "near", 212 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (212 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## nearer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "near", 212 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (212 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## neighbour → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "neighbour", 157 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## neighbour's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "neighbour", 157 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## neighbours → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "neighbour", 157 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## neither → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "neither", 878 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (878 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## nevertheless → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nevertheless", 97 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (97 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## new → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "new", 152 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## news → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "new", 152 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## nigh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nigh", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## no → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "no", 1393 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1393 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## noise → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "noise", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## noised → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "noise", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## none → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "none", 360 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (360 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## nor → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nor", 757 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (757 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## north → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "north", 134 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (134 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## not → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "not", 6606 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6606 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## noted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "not", 6606 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6606 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## nothing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nothing", 226 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (226 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## now → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "now", 1359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## number → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "number", 315 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## numbered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "number", 315 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## numberest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "number", 315 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## numbering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "number", 315 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## numbers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "number", 315 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## obey → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "obey", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## obeyed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "obey", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## obeyeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "obey", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## obeying → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "obey", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## of → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "of", 34764 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (34764 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## oil → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "oil", 204 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## oiled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "oil", 204 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## old → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "old", 381 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (381 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## on → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "on", 2094 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2094 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ones → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "on", 2094 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2094 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## only → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "only", 253 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## open → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## opened → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## openest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## openeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## opening → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## openings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## other → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "other", 536 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (536 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## others → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "other", 536 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (536 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ought → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ought", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## oughtest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ought", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## our → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "our", 1176 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1176 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ours → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "our", 1176 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1176 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## out → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "out", 2790 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2790 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## outer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "out", 2790 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2790 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## over → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "over", 1007 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1007 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ox → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ox", 188 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## oxen → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ox", 188 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pass → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pass", 1051 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1051 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## passed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pass", 1051 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1051 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## passest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pass", 1051 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1051 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## passeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pass", 1051 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1051 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## passing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pass", 1051 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1051 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## peace → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "peace", 429 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (429 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## people → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "people", 2145 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2145 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## people's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "people", 2145 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2145 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## peoples → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "people", 2145 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2145 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## perish → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "perish", 157 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## perished → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "perish", 157 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## perisheth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "perish", 157 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## perishing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "perish", 157 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## person → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "person", 112 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## persons → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "person", 112 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## piece → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "piece", 167 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (167 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pieces → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "piece", 167 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (167 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pillar → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pillar", 137 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (137 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pillars → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pillar", 137 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (137 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pit → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pit", 96 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (96 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pitch → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pitch", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pitched → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pitch", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pitcher → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pitch", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pitchers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pitch", 122 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pits → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pit", 96 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (96 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## place → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "place", 939 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (939 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## placed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "place", 939 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (939 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## places → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "place", 939 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (939 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## plain → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plain", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## plains → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plain", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## plant → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plant", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## planted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plant", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## planteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plant", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## planting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plant", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## plants → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plant", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## please → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "please", 120 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (120 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pleased → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "please", 120 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (120 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pleaseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "please", 120 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (120 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pleasing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "please", 120 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (120 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## poor → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "poor", 207 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## poorest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "poor", 207 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## portion → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "portion", 126 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## portions → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "portion", 126 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## possess → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possess", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## possessed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possess", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## possessest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possess", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## possesseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possess", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## possessing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possess", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## possession → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possession", 119 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## possessions → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possession", 119 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pour → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pour", 165 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## poured → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pour", 165 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## poureth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pour", 165 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pouring → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pour", 165 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## power → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "power", 289 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (289 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## powers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "power", 289 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (289 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## praise → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "praise", 312 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (312 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## praised → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "praise", 312 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (312 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## praises → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "praise", 312 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (312 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## praiseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "praise", 312 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (312 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## praising → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "praise", 312 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (312 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pray → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prayed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prayer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prayers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prayest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prayeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## praying → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## preach → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## preached → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## preacher → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## preachest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## preacheth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## preaching → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prepare → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prepare", 193 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prepared → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prepare", 193 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## preparest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prepare", 193 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prepareth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prepare", 193 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## preparing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prepare", 193 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## presence → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "presence", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## present → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "present", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## presented → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "present", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## presenting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "present", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## presents → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "present", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## priest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "priest", 944 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (944 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## priest's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "priest", 944 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (944 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## priests → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "priest", 944 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (944 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prince → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prince", 377 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (377 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prince's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prince", 377 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (377 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## princes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prince", 377 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (377 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prison → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prison", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prisoner → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prison", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prisoners → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prison", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prisons → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prison", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## promise → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "promise", 119 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## promised → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "promise", 119 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## promises → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "promise", 119 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## promising → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "promise", 119 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prophet → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prophet", 482 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (482 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prophet's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prophet", 482 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (482 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## prophets → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prophet", 482 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (482 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## pure → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pure", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## purer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pure", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## put → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "put", 970 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (970 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## puttest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "put", 970 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (970 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## putteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "put", 970 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (970 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## putting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "put", 970 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (970 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## rain → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rain", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## rained → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rain", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## raise → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "raise", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## raised → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "raise", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## raiseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "raise", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## raising → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "raise", 156 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ram → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ram", 178 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (178 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ram's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ram", 178 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (178 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## rams → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ram", 178 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (178 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ready → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ready", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reason → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reason", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reasoned → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reason", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reasoning → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reason", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reasons → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reason", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## receive → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "receive", 383 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (383 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## received → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "receive", 383 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (383 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## receiveth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "receive", 383 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (383 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## receiving → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "receive", 383 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (383 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## redeem → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "redeem", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## redeemed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "redeem", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## redeemer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "redeem", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## redeemeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "redeem", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## redeeming → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "redeem", 142 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reign → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reign", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reigned → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reign", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reignest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reign", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reigneth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reign", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reigning → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reign", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## remain → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remain", 184 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (184 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## remained → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remain", 184 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (184 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## remainest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remain", 184 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (184 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## remaineth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remain", 184 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (184 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## remaining → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remain", 184 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (184 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## remnant → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remnant", 92 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (92 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## remove → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remove", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## removed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remove", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## removeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remove", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## removing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remove", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reproach → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reproach", 123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reproached → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reproach", 123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reproaches → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reproach", 123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reproachest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reproach", 123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## reproacheth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reproach", 123 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## return → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "return", 461 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (461 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## returned → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "return", 461 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (461 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## returneth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "return", 461 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (461 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## returning → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "return", 461 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (461 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## right → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "right", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## righteous → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "righteous", 239 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (239 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## righteousness → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "righteousness", 308 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (308 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## righteousnesses → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "righteousness", 308 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (308 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## rise → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rise", 249 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## risen → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rise", 249 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## risest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rise", 249 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## riseth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rise", 249 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## rising → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rise", 249 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## river → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "river", 256 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (256 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## river's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "river", 256 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (256 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## rivers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "river", 256 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (256 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## rock → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rock", 146 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## rocks → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rock", 146 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## rod → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rod", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## rods → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rod", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## round → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "round", 320 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## run → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "run", 111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## runnest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "run", 111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## runneth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "run", 111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## running → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "run", 111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sabbath → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sabbath", 171 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (171 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sabbaths → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sabbath", 171 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (171 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sacrifice → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sacrifice", 339 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sacrificed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sacrifice", 339 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sacrifices → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sacrifice", 339 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sacrificeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sacrifice", 339 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sacrificing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sacrifice", 339 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## said → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "said", 3998 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3998 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## saint → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saint", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## saints → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saint", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sake → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sake", 176 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (176 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sakes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sake", 176 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (176 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## salvation → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "salvation", 164 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (164 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## same → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "same", 331 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (331 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sanctified → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sanctify", 132 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (132 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sanctify → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sanctify", 132 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (132 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sanctuaries → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sanctuary", 143 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (143 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sanctuary → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sanctuary", 143 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (143 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sat → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sat", 193 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## satest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sat", 193 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## save → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "save", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## saved → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "save", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## savest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "save", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## saveth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "save", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## saving → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "save", 359 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## saw → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saw", 574 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (574 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sawed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saw", 574 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (574 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sawest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saw", 574 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (574 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## saws → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saw", 574 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (574 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## say → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "say", 2567 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2567 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sayest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "say", 2567 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2567 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## saying → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "say", 2567 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2567 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sayings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "say", 2567 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2567 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## scatter → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scatter", 127 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## scattered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scatter", 127 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## scattereth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scatter", 127 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## scattering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scatter", 127 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## scribe → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scribe", 127 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## scribe's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scribe", 127 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## scribes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scribe", 127 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sea → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sea", 426 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (426 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seas → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sea", 426 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (426 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## see → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seed's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seeds → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seeing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seek → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "seek", 311 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (311 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seekest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "seek", 311 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (311 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seeketh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "seek", 311 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (311 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seeking → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "seek", 311 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (311 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seen → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seer's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## seething → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## send → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "send", 267 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sendest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "send", 267 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sendeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "send", 267 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sending → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "send", 267 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sent → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sent", 690 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (690 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sentest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sent", 690 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (690 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## serve → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "serve", 301 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (301 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## served → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "serve", 301 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (301 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## servest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "serve", 301 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (301 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## serveth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "serve", 301 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (301 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## service → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "service", 136 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (136 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## serving → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "serve", 301 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (301 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## shall → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shall", 9836 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (9836 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## shalt → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shalt", 1617 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1617 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sheep → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sheep", 190 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sheep's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sheep", 190 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## shekel → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shekel", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## shekels → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shekel", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ship → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ship", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ships → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ship", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## should → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "should", 918 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (918 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## shoulder → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "should", 918 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (918 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## shoulders → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "should", 918 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (918 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## shouldest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "should", 918 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (918 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## shut → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shut", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## shutteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shut", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## shutting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shut", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sight → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sight", 337 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (337 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sights → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sight", 337 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (337 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sign → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sign", 144 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## signed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sign", 144 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## signs → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sign", 144 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## silver → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "silver", 322 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## singed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## singer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## singers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## singeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## singing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sister → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sister", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sister's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sister", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sisters → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sister", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sit → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sit", 207 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sittest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sit", 207 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sitteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sit", 207 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sitting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sit", 207 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## skin → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "skin", 107 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## skins → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "skin", 107 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## slain → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slain", 183 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (183 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## slay → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slay", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## slayer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slay", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## slayeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slay", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## slaying → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slay", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sleep → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sleep", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sleeper → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sleep", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sleepest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sleep", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sleepeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sleep", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sleeping → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sleep", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## slew → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slew", 199 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## slewest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slew", 199 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## smite → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smite", 148 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (148 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## smitest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smite", 148 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (148 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## smiteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smite", 148 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (148 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## smiting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smite", 148 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (148 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## smote → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smote", 231 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## smotest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smote", 231 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## so → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "so", 1690 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1690 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## some → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "some", 234 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (234 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## son → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "son", 3491 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3491 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## son's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "son", 3491 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3491 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sons → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "son", 3491 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3491 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sore → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sore", 104 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sores → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sore", 104 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sorrow → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sorrow", 98 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sorrowed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sorrow", 98 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sorroweth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sorrow", 98 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sorrowing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sorrow", 98 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sorrows → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sorrow", 98 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sought → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sought", 127 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## soul → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "soul", 538 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (538 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## soul's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "soul", 538 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (538 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## souls → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "soul", 538 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (538 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sound → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sound", 121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sounded → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sound", 121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## soundeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sound", 121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sounding → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sound", 121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sounds → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sound", 121 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## south → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "south", 144 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## speak → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "speak", 673 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (673 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## speakest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "speak", 673 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (673 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## speaketh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "speak", 673 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (673 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## speaking → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "speak", 673 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (673 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## speakings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "speak", 673 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (673 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spirit → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spirit", 640 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (640 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spirits → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spirit", 640 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (640 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spoil → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spoiled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spoiler → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spoilers → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spoilest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spoileth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spoiling → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spoils → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spoken → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoken", 287 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (287 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spread → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spread", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spreadest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spread", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spreadeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spread", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## spreading → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spread", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stand → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stand", 371 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (371 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## standest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stand", 371 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (371 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## standeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stand", 371 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (371 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## standing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stand", 371 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (371 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## statute → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "statute", 167 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (167 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## statutes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "statute", 167 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (167 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stead → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stead", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## steads → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stead", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## still → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "still", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stilled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "still", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stillest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "still", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stilleth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "still", 106 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stood → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stood", 342 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (342 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stoodest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stood", 342 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (342 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## street → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "street", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## streets → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "street", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## strength → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strength", 325 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## strengthen → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strength", 325 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## strengthened → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strength", 325 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## strengtheneth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strength", 325 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## strengthening → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strength", 325 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stretch → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stretch", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stretched → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stretch", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stretchest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stretch", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stretcheth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stretch", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stretching → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stretch", 135 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## strong → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strong", 283 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (283 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## stronger → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strong", 283 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (283 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## strongest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strong", 283 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (283 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## suburbs → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suburbs", 110 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (110 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## such → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "such", 249 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## suffer → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## suffered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sufferest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## suffereth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## suffering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sufferings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sun → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sun", 160 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (160 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## surely → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "surely", 284 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (284 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sweet → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sweet", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sweeter → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sweet", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## sword → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sword", 450 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (450 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## swords → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sword", 450 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (450 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tabernacle → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tabernacle", 358 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (358 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tabernacles → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tabernacle", 358 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (358 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## table → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "table", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tables → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "table", 125 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## take → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "take", 1329 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1329 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## taken → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "take", 1329 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1329 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## takest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "take", 1329 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1329 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## taketh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "take", 1329 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1329 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## taking → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "take", 1329 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1329 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tell → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tell", 231 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tellest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tell", 231 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## telleth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tell", 231 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## telling → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tell", 231 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tent → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tent", 165 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tents → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tent", 165 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## testimonies → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "testimony", 111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## testimony → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "testimony", 111 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## than → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "than", 480 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (480 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thank → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thank", 107 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thanked → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thank", 107 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thanking → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thank", 107 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thanks → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thank", 107 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## that → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "that", 12955 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (12955 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## the → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "the", 67943 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (67943 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## their → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "their", 3958 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3958 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## theirs → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "their", 3958 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3958 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## them → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "them", 6447 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6447 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## themselves → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "themselves", 404 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (404 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## then → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "the", 67943 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (67943 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thence → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thence", 147 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## there → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "there", 2297 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2297 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## therefore → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "therefore", 1237 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1237 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## therein → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "therein", 230 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (230 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thereof → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thereof", 907 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (907 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## these → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "these", 1223 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1223 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## they → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "they", 7382 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (7382 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "the", 67943 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (67943 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## things → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "the", 67943 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (67943 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## this → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "this", 2790 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2790 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thither → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thither", 95 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## those → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "those", 469 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (469 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thou → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thou", 5479 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (5479 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## though → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "though", 233 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (233 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thought → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thought", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thoughtest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thought", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thoughts → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thought", 141 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## throne → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "throne", 185 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (185 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thrones → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "throne", 185 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (185 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## through → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "through", 466 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (466 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## throughout → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "throughout", 162 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (162 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thus → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thus", 738 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (738 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thy → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thy", 4634 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (4634 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## thyself → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thyself", 212 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (212 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## till → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "till", 174 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tilled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "till", 174 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tillest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "till", 174 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tilleth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "till", 174 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## time → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "time", 773 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (773 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## times → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "time", 773 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (773 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## to → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "to", 13600 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (13600 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## toes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "to", 13600 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (13600 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## together → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "together", 487 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (487 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## told → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "told", 283 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (283 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## took → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "took", 753 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (753 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tookest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "took", 753 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (753 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## top → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "top", 104 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tops → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "top", 104 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## touch → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "touch", 168 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## touched → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "touch", 168 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## toucheth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "touch", 168 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## touching → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "touch", 168 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## toward → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "toward", 348 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (348 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## transgression → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "transgression", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## transgressions → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "transgression", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## tree → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tree", 360 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (360 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trees → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tree", 360 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (360 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trespass → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trespass", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trespassed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trespass", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trespasses → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trespass", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trespassing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trespass", 116 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trumpet → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trumpet", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trumpets → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trumpet", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trust → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trust", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trusted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trust", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trustest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trust", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trusteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trust", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## trusting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trust", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## unclean → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "unclean", 195 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## under → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "under", 390 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (390 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## understand → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "understand", 267 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## understandest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "understand", 267 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## understandeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "understand", 267 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## understanding → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "understand", 267 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## until → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "until", 366 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (366 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## unto → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "unto", 9000 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (9000 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## up → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "up", 2385 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2385 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## upon → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "upon", 2753 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2753 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## us → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## used → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## uses → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## usest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## useth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## using → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## utterly → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "utterly", 101 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vain → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vain", 113 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## valley → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "valley", 169 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (169 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## valleys → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "valley", 169 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (169 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vanities → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vanity", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vanity → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vanity", 99 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## verily → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "verily", 140 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## very → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "very", 257 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (257 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vessel → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vessel", 209 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vessels → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vessel", 209 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vineyard → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vineyard", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vineyards → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vineyard", 114 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vision → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vision", 103 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (103 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## visions → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vision", 103 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (103 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## voice → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "voice", 520 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## voices → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "voice", 520 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vow → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vow", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vowed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vow", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vowest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vow", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## voweth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vow", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## vows → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vow", 93 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## walk → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "walk", 412 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (412 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## walked → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "walk", 412 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (412 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## walkest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "walk", 412 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (412 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## walketh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "walk", 412 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (412 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## walking → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "walk", 412 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (412 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wall → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wall", 249 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## walled → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wall", 249 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## walls → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wall", 249 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## war → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wares → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## warred → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## warreth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## warring → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wars → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## was → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "was", 4532 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (4532 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wash → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wash", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## washed → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wash", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## washest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wash", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## washing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wash", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## washings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wash", 150 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wast → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wast", 98 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wasted → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wast", 98 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wastes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wast", 98 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wasteth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wast", 98 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wasting → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wast", 98 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## water → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## watered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## waterest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## watereth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## watering → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## waters → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## way → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "way", 870 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (870 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## ways → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "way", 870 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (870 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## we → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "we", 2009 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2009 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## weep → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "weep", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## weepest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "weep", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## weepeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "weep", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## weeping → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "weep", 100 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## well → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "well", 276 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (276 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## well's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "well", 276 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (276 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wells → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "well", 276 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (276 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## went → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "went", 1423 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1423 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wentest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "went", 1423 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1423 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## were → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "were", 2773 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2773 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## west → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "we", 2009 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2009 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## what → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "what", 985 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (985 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## whatsoever → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whatsoever", 151 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## when → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "when", 2836 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2836 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## where → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "where", 401 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (401 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wherefore → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wherefore", 348 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (348 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wherein → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wherein", 168 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wherewith → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wherewith", 109 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## whether → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whether", 171 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (171 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## which → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "which", 4406 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (4406 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## while → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "while", 223 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## whiles → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "while", 223 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## whither → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whither", 124 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (124 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## who → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "who", 981 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (981 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## whom → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whom", 764 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (764 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## whose → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whose", 315 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## whosoever → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whosoever", 185 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (185 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## why → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "why", 282 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (282 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wickedness → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wickedness", 130 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wife → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wife", 406 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wife's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wife", 406 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wilderness → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wilderness", 304 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (304 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## will → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "will", 3873 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3873 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## willeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "will", 3873 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3873 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## willing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "will", 3873 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3873 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wilt → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wilt", 245 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wind → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wind", 152 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## winding → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wind", 152 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## winds → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wind", 152 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wine → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wine", 236 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (236 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wines → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wine", 236 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (236 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "we", 2009 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2009 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## winged → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "we", 2009 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2009 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "we", 2009 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2009 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wisdom → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wisdom", 236 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (236 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wise → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wise", 257 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (257 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wiser → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wise", 257 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (257 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## with → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "with", 6056 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6056 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wither → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "with", 6056 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6056 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## withered → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "with", 6056 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6056 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## withereth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "with", 6056 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6056 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## within → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "within", 187 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (187 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## withs → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "with", 6056 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6056 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wives → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wives", 133 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (133 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## woe → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "woe", 107 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## woes → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "woe", 107 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## woman → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "woman", 368 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (368 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## woman's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "woman", 368 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (368 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## women → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "women", 179 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (179 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## women's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "women", 179 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (179 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## word → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "word", 1247 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1247 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## word's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "word", 1247 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1247 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## words → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "word", 1247 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1247 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## work → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "work", 718 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (718 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## work's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "work", 718 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (718 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## worketh → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "work", 718 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (718 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## working → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "work", 718 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (718 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## works → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "work", 718 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (718 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## world → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "world", 289 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (289 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## world's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "world", 289 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (289 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## worlds → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "world", 289 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (289 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## worship → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "worship", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## worshipped → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "worship", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## worshippeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "worship", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## worshipping → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "worship", 191 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## would → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "would", 486 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (486 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wouldest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "would", 486 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (486 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wrath → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wrath", 199 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## write → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "write", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## writest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "write", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## writeth → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "write", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## writing → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "write", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## writings → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "write", 139 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## written → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "written", 292 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (292 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wrought → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wrought", 108 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (108 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## wroughtest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wrought", 108 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (108 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## yea → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "yea", 339 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## year → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "year", 908 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (908 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## year's → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "year", 908 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (908 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## years → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "year", 908 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (908 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## yet → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "yet", 682 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (682 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## young → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "young", 357 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (357 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## younger → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "young", 357 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (357 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## youngest → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "young", 357 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (357 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## yourselves → NO-SAFE-SWAP — common-88
+- verdict: NO-SAFE-SWAP
+- rationale: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "yourselves", 188 uses with inflections.)
+- **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+- NEW: (no change — whitelisted common word)
+
+## asps → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: serpent; Geneva 1599 Deuteronomy 32:33 reads "the cruel gall of aspes"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #169), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## beeves → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: archaic plural of "beef"/cattle as livestock (Lev 22:19-21, Num 31:28-44); creature type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #725), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## bird → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: a general creature-type name (fowl); forms (bird, bird's, birds) are nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #2246), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## calf → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: young cattle (Ex 32:4 "molten calf"; I Sam 28:24) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1820), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## calf's → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: young cattle (Ex 32:4 "molten calf"; I Sam 28:24) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1820), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## calves → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: young cattle (Ex 32:8; Hos 14:2 "calves of our lips") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1466), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## cankerworm → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: a locust-type insect (Joel 1:4, 2:25; Nahum 3:15-16); creature type-name, closed-class
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #581), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## cherub → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: a named class of celestial creature (Ex 25:19, 37:8) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1821), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## cock → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: rooster (Matt 26:34,74-75; Mark 14:30,68,72; Luke 22:34,60-61; John 13:38, 18:27)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1208), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## cockatrice → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: creature type-name (mythic serpent); Geneva 1599 Isaiah 14:29 reads "a cockatrise"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #6), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## colt → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: young ass/horse (Zech 9:9 "colt the foal of an ass") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1469), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## colts → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: young ass/horse (Zech 9:9 "colt the foal of an ass") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1469), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## cormorant → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: bird; Geneva 1599 Leviticus 11:17 reads "the connorant" (spelling variant of the same referent)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #195), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## cow → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: the animal cow (Lev 22:28, Num 18:17, Job 21:10, Isa 7:21, 11:7, Amos 4:3, Ezek 4:15); creature type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #748), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## dam → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: technical husbandry term naming the animal mother, distinct from human "mother"; Geneva 1599 Exodus 22:30 reads "it shall bee with his damme"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #423), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## dog → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: a named creature; all forms (dog, dog's, dogs) are nominal
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #2026), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## dove → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: bird (Gen 8:8-12; Matt 3:16) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1857), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## dove's → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: bird (Gen 8:8-12; Matt 3:16) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1857), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## doves → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: bird (Gen 8:8-12; Matt 3:16) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1857), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## dragon → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: a named creature (Hebrew tannin/tannim); KJV's dragon-imagery creature-name, not a verb
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1967), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## eagle → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: bird (Ex 19:4; Job 39:27) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1928), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## eagle's → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: bird (Ex 19:4; Job 39:27) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1928), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## eagles → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: bird (Ex 19:4; Job 39:27) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1928), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## ewe → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: female sheep, livestock type-name (Gen 21:28-30, 2 Sam 12:3-6)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1017), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## fatlings → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: fattened young animals for slaughter; Geneva 1599 Matthew 22:4 reads "mine oxen and my fatlings are killed"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #439), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## foal → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: young ass/horse; Geneva 1599 Genesis 49:11 reads "Asse foale", Tyndale reads "fole" — cross-translation agreement on the referent
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #234), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## giant → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: named class of beings/creatures (Gen 6:4 "giants in the earth"; Num 13:33) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1589), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## giants → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: named class of beings/creatures (Gen 6:4 "giants in the earth"; Num 13:33) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1589), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## grasshopper → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: insect type-name (Lev 11:22, Num 13:33, Eccl 12:5)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1027), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## hart → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: male deer, a clean beast (Deut 12:15, Ps 42:1, Song 2:9,17)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1030), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## hawk → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: the bird of prey (Lev 11:16, Deut 14:13-15, Job 39:26); Geneva1599 independently agrees ("hawk")
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #631), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## heifer → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: young cow (Num 19:2, Deut 21:3) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1554), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## heifer's → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: young cow (Num 19:2, Deut 21:3) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1554), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## kid → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: a named creature (young goat); forms (kid, kids) are nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #2154), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## kine → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: archaic plural of cow (Gen 41:2 "seven well favoured kine") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1676), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## leopard → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: the animal leopard (Isa 11:6, Jer 5:6, 13:23, Dan 7:6, Hos 13:7, Rev 13:2, Song 4:8, Hab 1:8); Geneva1599 independently agrees ("leopard")
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #855), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## leviathan → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: named sea-creature; Geneva 1599 Psalms 74:14, 104:26, and Isaiah 27:1 all read "Liuiathan" (Job 41:1 Geneva does not name it directly, using pronouns instead — flagged for completeness)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #475), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## lice → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: creature/plague-insect; Geneva 1599 Exodus 8:16 reads "turned to lyce"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #476), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## locust → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: insect (Ex 10:4; Joel 1:4) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1829), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## locusts → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: insect (Ex 10:4; Joel 1:4) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1829), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## mice → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: creature; Geneva 1599 I Samuel 6:4 reads "fiue golden mise"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #281), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## mule → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: animal (II Sam 13:29; I Kings 1:33) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1593), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## mules → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: animal (II Sam 13:29; I Kings 1:33) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1593), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## owl → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: bird named in the unclean-bird lists and desolation oracles (Lev 11:16-17, Deut 14:15-16, Isa 34:11-15)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1395), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## palmerworm → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: insect/locust-type creature (Joel 1:4, 2:25; Amos 4:9), closed-class taxonomic name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #54), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## peacocks → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: creature; Geneva 1599 I Kings 10:22 reads "apes and peacockes"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #55), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## pelican → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: bird; Geneva 1599 Leviticus 11:18 reads "the pelicane"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #56), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## pigeons → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: sacrificial bird type-name (Gen 15:9, Lev 1:14, 5:7, 12:6)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1051), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## quails → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: bird; Geneva 1599 Exodus 16:13 reads "the quailes came"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #308), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## roebuck → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: creature (deer-kind); Geneva 1599 Deuteronomy 12:15 reads "the roe bucke"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #316), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## scapegoat → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: ritual referent is a literal goat (Leviticus 16:8,10,26); noun only, not a verb
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #321), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## serpent → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: a named creature; Geneva 1599 also renders "serpent" for the same referent
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #2197), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## sparrows → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: the bird sparrow (Matt 10:29-31, Luke 12:6-24); creature type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #521), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## spider's → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: creature (arachnid); Geneva 1599 Job 8:14 reads "the house of a spyder"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #5), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## stork → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: the bird stork (Lev 11:19, Deut 14:18, Ps 104:17, Jer 8:7, Zech 5:9); Geneva1599 independently agrees ("stork")
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #525), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## swine → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: animal (Matt 8:30-32 "herd of swine") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1603), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## swine's → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: animal (Matt 8:30-32 "herd of swine") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1603), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## turtledove → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: sacrificial bird, a species of dove (Gen 15:9, Lev 1:14, 5:7, 12:6, Song 2:12, Luke 2:24)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1364), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## viper → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: the venomous snake (Isa 30:6, 59:5, Acts 28:3, Job 20:16, Matt 3:7, 12:34, 23:33, Luke 3:7); Geneva1599 and Tyndale independently agree ("viper")
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #878), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## whelp → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: young lion (Gen 49:9, Deut 33:22, Job 4:11, Ezek 19:2-3)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1260), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## wolf → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: creature; Geneva 1599 Genesis 49:27 reads "as a wolfe", Tyndale reads "a raueshynge wolfe"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #376), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## wolves → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: the animal wolf (Ezek 22:27, Hab 1:8, Zeph 3:3, Matt 7:15, 10:16, Luke 10:3, Acts 20:29); creature type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #845), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## worm → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: creature (Job 25:6 "man... a worm"; Isa 66:24) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1740), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## worms → NO-SAFE-SWAP — King James whitelist review (animal)
+- verdict: NO-SAFE-SWAP
+- rationale: creature (Job 25:6 "man... a worm"; Isa 66:24) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1740), owner approved all suggestions.**
+- NEW: (no change — whitelisted animal)
+
+## birthright → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: inheritance-right bound to birth order/lineage (Gen 25:31-34, 27:36, Heb 12:16)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1083), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## eldest → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: birth-order/lineage term for the firstborn among siblings (Gen 27:1, 43:33, 44:12, 1 Sam 17:13-14)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1275), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## firstling → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: kinship/lineage "firstborn"-type term for animal offspring (Ex 13:12; Gen 4:4) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1550), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## firstlings → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: kinship/lineage "firstborn"-type term for animal offspring (Ex 13:12; Gen 4:4) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1550), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## genealogy → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: the category word itself — lineage records (I Chron 5:1, Neh 7:5) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1673), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## genealogies → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: the category word itself — lineage records (I Chron 5:1, Neh 7:5) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1673), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## heir → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: inheritance/succession term, lineage vocabulary (Gen 21:10; Rom 8:17 "heirs of God") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1863), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## heirs → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: inheritance/succession term, lineage vocabulary (Gen 21:10; Rom 8:17 "heirs of God") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1863), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## kindred → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: core lineage/descent term named in the genealogy category itself ("kindred, kindreds"), purely nominal
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1990), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## kinsman → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: kinship vocabulary (Ruth 2:1 "a kinsman... of Elimelech") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1557), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## kinsman's → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: kinship vocabulary (Ruth 2:1 "a kinsman... of Elimelech") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1557), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## kinswoman → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: kinship term (a father's-side female relative); Geneva 1599 Leviticus 18:12 reads "thy fathers kinswoman"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #470), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## offspring → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: descendants/lineage term (Job 5:25, 21:8, 27:14, Isa 22:24, 34:1, 44:3)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1177), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## parents → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: basic kinship term (Luke 2:27, 18:29) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1654), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## posterity → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: kinship/lineage term for one's descendants (used of continuing seed/line); kindred-type word, not a verb
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #948), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## stock → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: lineage term — "stock of the stranger's family" (Lev 25:47), "of the stock of Israel" (Phil 3:5); the word also names a tree-trunk and the punishment device "the stocks" elsewhere, but the genealogical sense is independently attested in the same corpus
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1445), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## uncle → NO-SAFE-SWAP — King James whitelist review (genealogy)
+- verdict: NO-SAFE-SWAP
+- rationale: kinship term (Lev 10:4, 25:49, 1 Sam 10:14-16, Jer 32:7-12)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1451), owner approved all suggestions.**
+- NEW: (no change — whitelisted genealogy)
+
+## bank → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: river bank, a natural geographic feature (Gen 41:17 "bank of the river"; Josh 3:15 "banks" of Jordan) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1463), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## banks → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: river bank, a natural geographic feature (Gen 41:17 "bank of the river"; Josh 3:15 "banks" of Jordan) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1463), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## brook → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: a named watercourse/geographic feature (e.g. brook Kidron, brook Cherith); nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2193), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## cave → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: a natural geographic feature (dwelling/hiding place, e.g. cave of Machpelah, cave of Adullam); forms are nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1962), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## den → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: natural cave/lair as a geographic feature (Dan 6:16 "den of lions"; Judg 6:2 "dens which are in the mountains") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1771), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## dens → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: natural cave/lair as a geographic feature (Dan 6:16 "den of lions"; Judg 6:2 "dens which are in the mountains") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1771), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## desert → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: a named terrain/region (wilderness-type place); forms (desert, deserts) are nominal only in this text
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2124), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## fountain → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: a natural water-source place (geographic feature); nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2167), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## garden → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: a named cultivated place (garden of Eden, garden of Gethsemane); nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2302), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## grove → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: a place/stand of trees named as such (e.g. grove at Beersheba), physical geographic feature
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2030), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## island → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: coastland/geographic feature, "the isles/islands" of the nations and sea (Isa 11:11, 41:1, 42:15; Acts 27)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1336), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## isle → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: island, a geographic feature (Isa 20:6; Gen 10:5 "isles of the Gentiles") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1881), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## isles → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: island, a geographic feature (Isa 20:6; Gen 10:5 "isles of the Gentiles") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1881), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## lake → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: natural body of water named as such, "the lake of Gennesaret" (Luke 5:1) and "the lake" (Luke 8:22-33) — geographic feature
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1042), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## paradise → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: named place (Eden/heaven); Geneva 1599 and Tyndale both read "Paradise"/"Paradyse" at Luke 23:43
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #295), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## pasture → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: a type of land/place (grazing ground); forms (pasture, pastures) are nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2032), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## pool → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: natural/artificial body of water as a geographic feature (II Sam 2:13 "pool of Gibeon"; Eccl 2:6) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1832), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## pools → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: natural/artificial body of water as a geographic feature (II Sam 2:13 "pool of Gibeon"; Eccl 2:6) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1832), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## province → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: a named administrative region/place; nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2233), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## region → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: literal geographic region (Deut 3:4 "region of Argob"; Acts 8:1 "regions of Judea") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1520), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## regions → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: literal geographic region (Deut 3:4 "region of Argob"; Acts 8:1 "regions of Judea") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1520), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## shore → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: natural coastline (Josh 15:2, Judg 5:17, Matt 13:2,48, Acts 27:39-40)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1442), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## town → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: a named settlement-type place; nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2244), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## vale → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: valley named as a specific biblical place — "vale of Siddim" (Gen 14:3,8,10), "vale of Hebron" (Gen 37:14) — a geographic feature named as such
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #984), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## village → NO-SAFE-SWAP — King James whitelist review (location)
+- verdict: NO-SAFE-SWAP
+- rationale: a named settlement-type place; nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2423), owner approved all suggestions.**
+- NEW: (no change — whitelisted location)
+
+## apple → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: fruit / fruit tree — "apple tree" and "apples" as literal fruit (Song 2:3,5, Joel 1:12); most occurrences are the idiom "apple of the eye," but the literal plant sense is independently attested in the same corpus
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1080), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## balm → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: the resin/spice of Gilead (Gen 37:25, Jer 8:22 etc.); Geneva1599 and Wycliffe both independently render "balm"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #568), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## barley → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: crop (Ruth 1:22; John 6:9 "barley loaves") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1945), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## bramble → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: thornbush; Geneva 1599 Judges 9:14 reads "the bramble"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #397), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## brier → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: thorny plant (Isa 5:6, 7:23-25, 9:18, 10:17, 27:4, 55:13; Ezek 28:24; Mic 7:4)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1317), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## bush → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: shrub (Ex 3:2 "burning bush") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1465), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## bushes → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: shrub (Ex 3:2 "burning bush") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1465), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## calamus → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: aromatic reed/spice; Geneva 1599 Exodus 30:23 and Song of Solomon 4:14 both read "calamus"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #401), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## cedar → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: a named tree (cedar of Lebanon); nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2369), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## cinnamon → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: spice; Geneva 1599 Exodus 30:23 and Song of Solomon 4:14 both read "cinamon"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #187), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## cummin → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: spice/herb; Geneva 1599 Isaiah 28:25 and Matthew 23:23 both read "cummin"/"cummyn"; Tyndale Matthew 23:23 reads "comen"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #199), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## fig → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: a named fruit/tree (fig tree, figs); nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2301), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## fir → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: tree species (I Kings 5:8, 5:10 "fir trees") — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1614), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## fitches → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: herb/vetch crop; Geneva 1599 Isaiah 28:25 reads "sowe the fitches"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #442), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## flags → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: reed/rush plant (Exodus 2:3,5; Isaiah 19:6; Jonah 2:5), noun only in these refs
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #229), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## flax → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: fiber crop (Ex 9:31, Josh 2:6, Prov 31:13, Isa 42:3)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1104), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## frankincense → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: aromatic tree-resin/spice (Ex 30:34, Lev 2:1-2, Song 3:6, 4:6,14, Matt 2:11)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1424), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## gall → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: bitter root/plant, paired with wormwood in most occurrences (Deut 29:18 "root that beareth gall and wormwood," Deut 32:32 "grapes of gall," Ps 69:21, Lam 3:19); the word also covers bile/venom elsewhere in the corpus, but the plant sense is independently attested
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1386), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## gourd → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: Jonah's gourd plant (Jonah 4:6-10) and the wild gourd (II Kings 4:39); plant type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #625), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## grape → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: fruit of the vine; forms (grape, grapes) are nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2084), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## hyssop → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: herb used in purification rites (Ex 12:22, Lev 14:4, Ps 51:7, John 19:29)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1173), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## juniper → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: tree; Geneva 1599 I Kings 19:4 and Wycliffe both read "iuniper"/"iunypere tre"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #264), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## lentiles → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: crop; Geneva 1599 Genesis 25:34 reads "pottage of lentiles" (Tyndale diverges, reading "redde ryse" for the same referent — Geneva alone suffices under the cross-translation exception)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #273), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## lily → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: flower (1 Kings 7:19-26, Song 2:1-2,16, Hos 14:5, Matt 6:28)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1338), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## mandrakes → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: the mandrake plant/fruit (Gen 30:14-16, Song 7:13); Geneva1599 independently agrees ("mandrakes")
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #643), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## mulberry → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: mulberry tree (II Sam 5:23-24); Geneva1599 agrees with "mulberie trees" (spelling variant of the same referent)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #485), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## mustard → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: mustard seed/plant (parable of the mustard seed, Matt 13:31 etc.); closed-class plant type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #486), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## myrrh → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: aromatic resin/spice plant (Gen 37:25; Song 1:13) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1562), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## myrtle → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: the myrtle tree (Neh 8:15, Isa 41:19, 55:13, Zech 1:8-11); plant type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #651), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## nettles → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: the weed nettle (Job 30:7, Prov 24:31, Isa 34:13, Hos 9:6, Zeph 2:9); plant type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #487), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## oak → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: tree species (Gen 35:4 "oak"; Isa 1:30) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1594), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## oaks → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: tree species (Gen 35:4 "oak"; Isa 1:30) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1594), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## olive → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: a named tree/fruit (olive tree, mount of Olives, olive branch); nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2212), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## palm → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: palm tree (e.g. Elim's threescore and ten palm trees, city of palm trees); note the same word-group also covers "palm of the hand" in some verses — a polysemy caveat, not a verb issue
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2071), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## pomegranate → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: fruit/tree (Ex 28:33; Num 13:23) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1882), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## pomegranates → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: fruit/tree (Ex 28:33; Num 13:23) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1882), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## pulse → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: crop/food term (legumes), Daniel 1:12,16; noun throughout, not a verb
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #78), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## raisins → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: dried-grape foodstuff; Geneva 1599 I Samuel 25:18 reads "frailes of raisins"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #312), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## reed → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: a named plant (marsh/river reed, reed as measuring rod); nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2102), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## shittim → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: acacia wood, tree-species material named throughout the tabernacle instructions (Ex 25:5, 25:10 "shittim wood") — noun only; note this same word also denotes the place-name Shittim (Num 25:1) in a minority of occurrences, but the forms recorded here are overwhelmingly the timber sense
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1873), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## spice → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: plant-product/aromatic term (spices, sweet spices, myrrh, cinnamon etc.); only non-plain form is the participial "spiced" (spiced wine), not a finite verb
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2000), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## spikenard → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: the spice/ointment plant nard (Song 1:12, Mark 14:3, John 12:3); Geneva1599 independently reads "spikenard" (35 hits, same rendering)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #522), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## stubble → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: dried grain-stalk residue, a specific harvest referent distinct from plain "straw" (Ex 5:12; Job 21:18) — noun only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1495), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## sycomore → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: the sycamore/fig-mulberry tree (I Kings 10:27, I Chron 27:28, II Chron 1:15, 9:27, Ps 78:47, Amos 7:14, Luke 19:4, Isa 9:10); plant type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #863), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## tare → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: weed of the parable of the wheat and tares (Matt 13:25-40)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1250), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## thistle → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: the weed thistle (II Kings 14:9, II Chron 25:18, Hos 10:8, Gen 3:18, Job 31:40, Matt 7:16); plant type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #866), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## thorn → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: a named plant/bush type (thorn, thorns, crown of thorns); nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2236), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## vine → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: a named plant (grapevine); nominal only
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2364), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## willows → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: the willow tree (Lev 23:40, Job 40:22, Ps 137:2, Isa 15:7, Isa 44:4); plant type-name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #554), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## wormwood → NO-SAFE-SWAP — King James whitelist review (plant)
+- verdict: NO-SAFE-SWAP
+- rationale: bitter plant named repeatedly (Deut 29:18, Prov 5:4, Jer 9:15, Amos 5:7, Rev 8:11)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1074), owner approved all suggestions.**
+- NEW: (no change — whitelisted plant)
+
+## antichrist → NO-SAFE-SWAP — King James whitelist review (proper-noun)
+- verdict: NO-SAFE-SWAP
+- rationale: theological title/name; Geneva 1599 I John 2:18 reads "Antichrist shall come, euen now are there many Antichrists"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #382), owner approved all suggestions.**
+- NEW: (no change — whitelisted proper-noun)
+
+## cherubims → NO-SAFE-SWAP — King James whitelist review (proper-noun)
+- verdict: NO-SAFE-SWAP
+- rationale: transliterated Hebrew term (k'ruvim) for a class of heavenly being; Geneva 1599 independently uses the identical rendering "Cherubims"/"Cherub"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #2300), owner approved all suggestions.**
+- NEW: (no change — whitelisted proper-noun)
+
+## creator → NO-SAFE-SWAP — King James whitelist review (proper-noun)
+- verdict: NO-SAFE-SWAP
+- rationale: deity-title for God (Ecclesiastes 12:1; Isaiah 40:28; Romans 1:25; I Peter 4:19)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #416), owner approved all suggestions.**
+- NEW: (no change — whitelisted proper-noun)
+
+## goddess → NO-SAFE-SWAP — King James whitelist review (proper-noun)
+- verdict: NO-SAFE-SWAP
+- rationale: deity-title for Diana/Artemis; Geneva 1599 Acts 19:35 reads "the great goddesse Diana" (Tyndale reads "goddas Diana")
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #455), owner approved all suggestions.**
+- NEW: (no change — whitelisted proper-noun)
+
+## legion → NO-SAFE-SWAP — King James whitelist review (proper-noun)
+- verdict: NO-SAFE-SWAP
+- rationale: self-given name of the demon-possessed man, Mark 5:9/Luke 8:30 ("My name is Legion"), confirmed in Geneva 1599 and Tyndale both reading "Legion"; elsewhere used as an ordinary military-unit noun, but this occurrence is a proper name
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #272), owner approved all suggestions.**
+- NEW: (no change — whitelisted proper-noun)
+
+## mammon → NO-SAFE-SWAP — King James whitelist review (proper-noun)
+- verdict: NO-SAFE-SWAP
+- rationale: personified rival-master entity ("ye cannot serve God and mammon"); Tyndale Matthew 6:24 reads "mammon" (Geneva instead reads "riches" at that verse — flagging the split for the owner, since only one witness preserves the name)
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #276), owner approved all suggestions.**
+- NEW: (no change — whitelisted proper-noun)
+
+## saviour → NO-SAFE-SWAP — King James whitelist review (proper-noun)
+- verdict: NO-SAFE-SWAP
+- rationale: deity-title for God/Christ; Geneva 1599 uses the same rendering "Saviour" for the referent
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #1999), owner approved all suggestions.**
+- NEW: (no change — whitelisted proper-noun)
+
+## sodomites → NO-SAFE-SWAP — King James whitelist review (proper-noun)
+- verdict: NO-SAFE-SWAP
+- rationale: demonym/people-group name derived from the place-name Sodom
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #331), owner approved all suggestions.**
+- NEW: (no change — whitelisted proper-noun)
+
+## teraphim → NO-SAFE-SWAP — King James whitelist review (proper-noun)
+- verdict: NO-SAFE-SWAP
+- rationale: transliterated Hebrew term for household idol-figures (Judg 17:5, 18:14-20; Hos 3:4); Geneva1599 independently retains the same transliterated form "teraphim"
+- **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #691), owner approved all suggestions.**
+- NEW: (no change — whitelisted proper-noun)

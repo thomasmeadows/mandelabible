@@ -4,12 +4,20 @@
 
 ## Alphabetical list
 
-### Reviewed no-safe-swap words (692)
+### Reviewed no-safe-swap words (2441)
 
+[a](#a),
 [abide](#abide),
 [abideth](#abideth),
+[able](#able),
+[abomination](#abomination),
+[abominations](#abominations),
+[about](#about),
+[above](#above),
 [abundant](#abundant),
 [abundantly](#abundantly),
+[accord](#accord),
+[according](#according),
 [acted](#acted),
 [adders](#adders),
 [adorned](#adorned),
@@ -17,44 +25,103 @@
 [adulteresses](#adulteresses),
 [affair](#affair),
 [affairs](#affairs),
+[afflict](#afflict),
+[afflicted](#afflicted),
+[afflictest](#afflictest),
+[affliction](#affliction),
+[afflictions](#afflictions),
 [aforetime](#aforetime),
+[afraid](#afraid),
+[after](#after),
+[again](#again),
+[against](#against),
 [agreement](#agreement),
 [alabaster](#alabaster),
 [alert](#alert),
 [algum](#algum),
+[all](#all),
 [almond](#almond),
 [almug](#almug),
 [aloe](#aloe),
 [alone](#alone),
+[also](#also),
+[altar](#altar),
+[altars](#altars),
 [alter](#alter),
 [altered](#altered),
 [altereth](#altereth),
+[am](#am),
 [amber](#amber),
+[amen](#amen),
 [amethyst](#amethyst),
+[among](#among),
 [anchors](#anchors),
+[and](#and),
+[angel](#angel),
+[angel's](#angel-s),
+[angels](#angels),
+[anger](#anger),
+[angered](#angered),
 [anise](#anise),
+[anoint](#anoint),
+[anointed](#anointed),
+[anointest](#anointest),
+[anointing](#anointing),
+[another](#another),
+[another's](#another-s),
+[answer](#answer),
+[answered](#answered),
+[answerest](#answerest),
+[answereth](#answereth),
+[answering](#answering),
+[answers](#answers),
 [ant](#ant),
+[antichrist](#antichrist),
 [ants](#ants),
 [anvil](#anvil),
+[any](#any),
 [apes](#apes),
+[appear](#appear),
+[appeared](#appeared),
+[appeareth](#appeareth),
+[appearing](#appearing),
+[apple](#apple),
 [appointed](#appointed),
 [apron](#apron),
 [aprons](#aprons),
 [archer](#archer),
+[are](#are),
 [arise](#arise),
+[ark](#ark),
+[arm](#arm),
+[armed](#armed),
+[armies](#armies),
 [armoury](#armoury),
+[arms](#arms),
+[army](#army),
 [arose](#arose),
 [arrayed](#arrayed),
 [arrow](#arrow),
 [arrow's](#arrow-s),
 [arrows](#arrows),
+[art](#art),
+[arts](#arts),
+[as](#as),
+[ashamed](#ashamed),
 [aside](#aside),
+[ask](#ask),
+[asked](#asked),
+[askest](#askest),
+[asketh](#asketh),
+[asking](#asking),
+[asps](#asps),
 [assembly](#assembly),
 [asses](#asses),
 [astray](#astray),
 [astrologers](#astrologers),
 [ate](#ate),
 [atonement](#atonement),
+[away](#away),
 [awe](#awe),
 [axles](#axles),
 [back](#back),
@@ -63,70 +130,223 @@
 [baken](#baken),
 [bakers](#bakers),
 [ball](#ball),
+[balm](#balm),
+[bank](#bank),
+[banks](#banks),
+[bare](#bare),
+[barest](#barest),
+[barley](#barley),
 [bastard](#bastard),
 [bastards](#bastards),
 [bat](#bat),
 [bats](#bats),
+[battle](#battle),
+[battles](#battles),
 [beans](#beans),
 [bearer](#bearer),
+[beast](#beast),
+[beast's](#beast-s),
+[beasts](#beasts),
+[became](#became),
+[becamest](#becamest),
+[because](#because),
+[become](#become),
+[becometh](#becometh),
 [bee](#bee),
+[beeves](#beeves),
+[before](#before),
 [beg](#beg),
+[began](#began),
+[begat](#begat),
 [beggar](#beggar),
+[begin](#begin),
+[beginnest](#beginnest),
+[beginning](#beginning),
+[beginnings](#beginnings),
 [behemoth](#behemoth),
+[behold](#behold),
+[beholdest](#beholdest),
+[beholdeth](#beholdeth),
+[beholding](#beholding),
+[believe](#believe),
+[believed](#believed),
+[believest](#believest),
+[believeth](#believeth),
+[believing](#believing),
 [bell](#bell),
 [bellows](#bellows),
 [bells](#bells),
 [belly's](#belly-s),
 [belonged](#belonged),
+[beloved](#beloved),
+[beloved's](#beloved-s),
 [bent](#bent),
 [beryl](#beryl),
+[beside](#beside),
+[besides](#besides),
 [betrayeth](#betrayeth),
+[better](#better),
+[bettered](#bettered),
+[between](#between),
 [bewitched](#bewitched),
+[bird](#bird),
 [birth](#birth),
+[birthright](#birthright),
 [bittern](#bittern),
 [blacker](#blacker),
 [blameless](#blameless),
 [blasphemers](#blasphemers),
 [blasphemy](#blasphemy),
+[bless](#bless),
+[blessed](#blessed),
 [blessedness](#blessedness),
+[blessest](#blessest),
+[blesseth](#blesseth),
+[blessing](#blessing),
+[blessings](#blessings),
 [block](#block),
 [blocks](#blocks),
+[blood](#blood),
 [blush](#blush),
 [boat](#boat),
 [boats](#boats),
+[bodies](#bodies),
+[body](#body),
+[body's](#body-s),
 [boils](#boils),
 [bondman](#bondman),
+[bone](#bone),
+[bones](#bones),
 [bonnet](#bonnet),
+[book](#book),
+[books](#books),
 [borders](#borders),
+[born](#born),
+[both](#both),
 [bounding](#bounding),
+[bow](#bow),
+[bowed](#bowed),
+[boweth](#boweth),
+[bowing](#bowing),
+[bows](#bows),
 [box](#box),
 [brake](#brake),
+[bramble](#bramble),
+[branch](#branch),
+[branches](#branches),
+[brass](#brass),
 [brawlers](#brawlers),
+[bread](#bread),
+[breadth](#breadth),
 [break](#break),
 [breaketh](#breaketh),
 [breaking](#breaking),
 [breedeth](#breedeth),
+[brethren](#brethren),
+[brethren's](#brethren-s),
 [brick](#brick),
+[brier](#brier),
+[bring](#bring),
+[bringest](#bringest),
+[bringeth](#bringeth),
+[bringing](#bringing),
 [broken](#broken),
+[brook](#brook),
 [broom](#broom),
+[broth](#broth),
+[brother](#brother),
+[brother's](#brother-s),
+[brothers](#brothers),
 [brought](#brought),
 [brow](#brow),
 [brows](#brows),
 [buck](#buck),
+[build](#build),
+[builder](#builder),
+[builders](#builders),
+[buildest](#buildest),
+[buildeth](#buildeth),
+[building](#building),
+[buildings](#buildings),
+[built](#built),
+[bullock](#bullock),
+[bullock's](#bullock-s),
+[bullocks](#bullocks),
+[burden](#burden),
+[burdened](#burdened),
+[burdens](#burdens),
+[buried](#buried),
+[burn](#burn),
+[burned](#burned),
+[burneth](#burneth),
+[burning](#burning),
+[burnings](#burnings),
+[burnt](#burnt),
+[bury](#bury),
+[burying](#burying),
+[bush](#bush),
 [bushel](#bushel),
+[bushes](#bushes),
+[but](#but),
 [buttocks](#buttocks),
+[by](#by),
 [cab](#cab),
+[calamus](#calamus),
+[calf](#calf),
+[calf's](#calf-s),
+[call](#call),
+[called](#called),
+[callest](#callest),
+[calleth](#calleth),
+[calling](#calling),
+[calves](#calves),
+[came](#came),
 [camels](#camels),
+[camest](#camest),
+[camp](#camp),
+[camped](#camped),
+[camps](#camps),
+[can](#can),
+[cankerworm](#cankerworm),
+[cannot](#cannot),
+[captain](#captain),
+[captains](#captains),
+[captive](#captive),
+[captives](#captives),
+[captivity](#captivity),
+[carried](#carried),
 [carrieth](#carrieth),
+[carry](#carry),
+[carrying](#carrying),
 [cassia](#cassia),
+[cast](#cast),
+[castest](#castest),
+[casteth](#casteth),
+[casting](#casting),
 [caterpiller](#caterpiller),
 [caterpillers](#caterpillers),
+[cattle](#cattle),
 [caught](#caught),
 [caul](#caul),
 [cauls](#cauls),
+[cause](#cause),
+[caused](#caused),
+[causes](#causes),
+[causest](#causest),
+[causeth](#causeth),
+[causing](#causing),
+[cave](#cave),
+[cease](#cease),
+[ceased](#ceased),
+[ceaseth](#ceaseth),
+[ceasing](#ceasing),
+[cedar](#cedar),
 [certain](#certain),
 [certainty](#certainty),
 [chalcedony](#chalcedony),
+[chamber](#chamber),
+[chambering](#chambering),
+[chambers](#chambers),
 [chameleon](#chameleon),
 [chamois](#chamois),
 [champion](#champion),
@@ -135,30 +355,102 @@
 [chanceth](#chanceth),
 [changers](#changers),
 [changers'](#changers),
+[charge](#charge),
+[charged](#charged),
+[charger](#charger),
+[chargers](#chargers),
+[charges](#charges),
+[chargest](#chargest),
+[charging](#charging),
+[chariot](#chariot),
+[chariots](#chariots),
 [cheese](#cheese),
 [cheeses](#cheeses),
+[cherub](#cherub),
+[cherubims](#cherubims),
+[child](#child),
+[child's](#child-s),
 [children](#children),
 [chip](#chip),
 [choke](#choke),
 [choked](#choked),
+[chose](#chose),
+[chosen](#chosen),
 [chrysolite](#chrysolite),
 [chrysoprasus](#chrysoprasus),
+[church](#church),
+[churches](#churches),
+[cinnamon](#cinnamon),
+[cities](#cities),
 [citron](#citron),
+[city](#city),
 [clapped](#clapped),
 [claw](#claw),
+[clean](#clean),
+[cleanse](#cleanse),
+[cleansed](#cleansed),
+[cleanseth](#cleanseth),
+[cleansing](#cleansing),
 [cliff](#cliff),
+[cloth](#cloth),
+[clothed](#clothed),
+[clothes](#clothes),
+[clothest](#clothest),
+[clothing](#clothing),
+[cloths](#cloths),
+[cloud](#cloud),
+[clouds](#clouds),
 [clovenfooted](#clovenfooted),
+[coast](#coast),
+[coasts](#coasts),
+[cock](#cock),
+[cockatrice](#cockatrice),
 [cockcrowing](#cockcrowing),
 [coffer](#coffer),
 [coffin](#coffin),
 [collector](#collector),
 [collectors](#collectors),
+[colt](#colt),
+[colts](#colts),
 [cometh](#cometh),
+[comfort](#comfort),
+[comforted](#comforted),
+[comforter](#comforter),
+[comforters](#comforters),
+[comforteth](#comforteth),
+[comforts](#comforts),
+[command](#command),
+[commanded](#commanded),
+[commandest](#commandest),
+[commandeth](#commandeth),
+[commanding](#commanding),
+[commandment](#commandment),
+[commandments](#commandments),
 [committeth](#committeth),
 [common](#common),
+[companied](#companied),
+[companies](#companies),
+[company](#company),
+[compass](#compass),
+[compassed](#compassed),
+[compassest](#compassest),
+[compasseth](#compasseth),
+[compassing](#compassing),
 [compelleth](#compelleth),
+[concerning](#concerning),
 [condemned](#condemned),
+[congregation](#congregation),
+[congregations](#congregations),
+[consider](#consider),
+[considered](#considered),
+[considerest](#considerest),
+[considereth](#considereth),
+[considering](#considering),
 [conspiracy](#conspiracy),
+[consume](#consume),
+[consumed](#consumed),
+[consumeth](#consumeth),
+[consuming](#consuming),
 [contention](#contention),
 [contentions](#contentions),
 [continually](#continually),
@@ -168,9 +460,28 @@
 [cor](#cor),
 [coral](#coral),
 [coriander](#coriander),
+[cormorant](#cormorant),
+[could](#could),
+[couldest](#couldest),
+[counsel](#counsel),
+[counselled](#counselled),
+[counsels](#counsels),
+[countries](#countries),
+[country](#country),
+[court](#court),
+[courts](#courts),
 [covenant](#covenant),
+[cover](#cover),
+[covered](#covered),
+[coverest](#coverest),
+[covereth](#covereth),
+[covering](#covering),
+[coverings](#coverings),
+[covers](#covers),
 [covetous](#covetous),
+[cow](#cow),
 [crane](#crane),
+[creator](#creator),
 [cricket](#cricket),
 [crickets](#crickets),
 [crooked](#crooked),
@@ -180,46 +491,141 @@
 [crumbs](#crumbs),
 [crying](#crying),
 [cryings](#cryings),
+[cubit](#cubit),
+[cubits](#cubits),
 [cucumbers](#cucumbers),
 [cumi](#cumi),
+[cummin](#cummin),
 [curdled](#curdled),
+[curse](#curse),
+[cursed](#cursed),
 [cursedst](#cursedst),
+[curses](#curses),
+[cursest](#cursest),
+[curseth](#curseth),
+[cursing](#cursing),
+[cursings](#cursings),
+[cut](#cut),
+[cuttest](#cuttest),
+[cutteth](#cutteth),
+[cutting](#cutting),
+[cuttings](#cuttings),
 [cymbal](#cymbal),
 [cypress](#cypress),
 [dagger](#dagger),
+[dam](#dam),
 [dandled](#dandled),
 [daring](#daring),
+[darkness](#darkness),
+[daughter](#daughter),
+[daughter's](#daughter-s),
+[daughters](#daughters),
 [dawn](#dawn),
 [dawned](#dawned),
 [dawning](#dawning),
 [day](#day),
+[dead](#dead),
+[deal](#deal),
+[dealest](#dealest),
+[dealeth](#dealeth),
+[dealing](#dealing),
+[deals](#deals),
+[death](#death),
+[deaths](#deaths),
 [declare](#declare),
 [declared](#declared),
 [declareth](#declareth),
 [deer](#deer),
 [defiled](#defiled),
 [delicateness](#delicateness),
+[deliver](#deliver),
+[delivered](#delivered),
+[deliverer](#deliverer),
+[deliverest](#deliverest),
+[delivereth](#delivereth),
+[delivering](#delivering),
 [demon](#demon),
 [demons](#demons),
+[den](#den),
 [denarius](#denarius),
 [denied](#denied),
+[dens](#dens),
 [departeth](#departeth),
+[desert](#desert),
 [desire](#desire),
+[desolate](#desolate),
+[despise](#despise),
+[despised](#despised),
+[despisest](#despisest),
+[despiseth](#despiseth),
+[despising](#despising),
 [destitute](#destitute),
 [destroy](#destroy),
+[destruction](#destruction),
+[destructions](#destructions),
+[devil](#devil),
+[devils](#devils),
 [devoted](#devoted),
+[devour](#devour),
+[devoured](#devoured),
+[devourest](#devourest),
+[devoureth](#devoureth),
+[devouring](#devouring),
+[did](#did),
 [didst](#didst),
+[die](#die),
+[died](#died),
+[diest](#diest),
+[dieth](#dieth),
 [disciples](#disciples),
 [dissolved](#dissolved),
 [distaff](#distaff),
 [diverse](#diverse),
 [divider](#divider),
 [divisions](#divisions),
+[do](#do),
+[doer](#doer),
+[doers](#doers),
+[doest](#doest),
+[doeth](#doeth),
+[dog](#dog),
+[doing](#doing),
+[doings](#doings),
 [doleful](#doleful),
+[done](#done),
 [donkey](#donkey),
+[door](#door),
+[doors](#doors),
+[dost](#dost),
+[doth](#doth),
+[double](#double),
+[doubled](#doubled),
 [dough](#dough),
+[dove](#dove),
+[dove's](#dove-s),
+[doves](#doves),
+[down](#down),
+[dragon](#dragon),
+[draw](#draw),
+[draweth](#draweth),
+[drawing](#drawing),
+[dream](#dream),
+[dreamed](#dreamed),
+[dreamer](#dreamer),
+[dreameth](#dreameth),
+[dreams](#dreams),
+[dried](#dried),
 [drieth](#drieth),
+[drink](#drink),
+[drinketh](#drinketh),
+[drinking](#drinking),
+[drinks](#drinks),
+[drive](#drive),
+[driven](#driven),
+[driveth](#driveth),
+[driving](#driving),
 [dropsy](#dropsy),
+[dry](#dry),
 [dulcimer](#dulcimer),
 [dunghill](#dunghill),
 [dunghills](#dunghills),
@@ -229,90 +635,269 @@
 [dwelling](#dwelling),
 [dwellings](#dwellings),
 [dwells](#dwells),
+[dwelt](#dwelt),
+[eagle](#eagle),
+[eagle's](#eagle-s),
+[eagles](#eagles),
+[ear](#ear),
+[eared](#eared),
+[earing](#earing),
+[earring](#earring),
+[earrings](#earrings),
+[ears](#ears),
+[earth](#earth),
+[earthen](#earthen),
 [eat](#eat),
 [ebony](#ebony),
 [edged](#edged),
 [egg](#egg),
+[eight](#eight),
+[eighteen](#eighteen),
+[eighteenth](#eighteenth),
+[eighth](#eighth),
 [eightieth](#eightieth),
 [eighty](#eighty),
+[elder](#elder),
+[elders](#elders),
+[eldest](#eldest),
 [elements](#elements),
+[eleven](#eleven),
+[eleventh](#eleventh),
 [embalmed](#embalmed),
 [ends](#ends),
 [endureth](#endureth),
+[enemies](#enemies),
+[enemy](#enemy),
+[enemy's](#enemy-s),
 [engravings](#engravings),
 [enmity](#enmity),
+[enter](#enter),
+[entered](#entered),
+[entereth](#entereth),
+[entering](#entering),
 [entrance](#entrance),
 [envying](#envying),
+[escape](#escape),
+[escaped](#escaped),
+[escapeth](#escapeth),
+[escaping](#escaping),
 [especially](#especially),
+[establish](#establish),
+[established](#established),
+[establisheth](#establisheth),
 [evangelist](#evangelist),
 [ever](#ever),
 [everlasting](#everlasting),
+[every](#every),
+[evil](#evil),
+[evils](#evils),
+[ewe](#ewe),
+[exalt](#exalt),
+[exalted](#exalted),
+[exaltest](#exaltest),
+[exalteth](#exalteth),
 [excess](#excess),
 [executioner](#executioner),
 [exile](#exile),
 [exiled](#exiled),
 [expressly](#expressly),
+[eye](#eye),
+[eye's](#eye-s),
+[eyed](#eyed),
+[eyes](#eyes),
+[face](#face),
+[faces](#faces),
+[fail](#fail),
+[failed](#failed),
+[faileth](#faileth),
+[failing](#failing),
+[faith](#faith),
 [faithfully](#faithfully),
 [falcon](#falcon),
 [fall](#fall),
 [fallowdeer](#fallowdeer),
+[families](#families),
+[family](#family),
+[famine](#famine),
+[famines](#famines),
 [fan](#fan),
+[far](#far),
 [fare](#fare),
+[fared](#fared),
 [fast](#fast),
+[fat](#fat),
+[father](#father),
+[father's](#father-s),
+[fathers](#fathers),
 [fathoms](#fathoms),
+[fatlings](#fatlings),
+[fats](#fats),
+[fatted](#fatted),
+[fattest](#fattest),
 [fear](#fear),
 [fearfulness](#fearfulness),
 [fearless](#fearless),
+[feast](#feast),
+[feasted](#feasted),
+[feasting](#feasting),
+[feasts](#feasts),
 [feeding](#feeding),
+[feet](#feet),
 [feign](#feign),
 [feigned](#feigned),
 [feignest](#feignest),
+[fell](#fell),
+[felled](#felled),
+[felling](#felling),
 [fellow](#fellow),
+[field](#field),
+[fields](#fields),
+[fifteen](#fifteen),
+[fifteenth](#fifteenth),
+[fifth](#fifth),
+[fifties](#fifties),
+[fiftieth](#fiftieth),
+[fifty](#fifty),
+[fig](#fig),
 [fig-trees](#fig-trees),
+[fight](#fight),
+[fighteth](#fighteth),
+[fighting](#fighting),
 [file](#file),
+[fill](#fill),
+[filled](#filled),
+[fillest](#fillest),
+[filleth](#filleth),
+[filling](#filling),
 [filth](#filth),
+[find](#find),
+[findest](#findest),
+[findeth](#findeth),
+[finding](#finding),
+[fine](#fine),
+[finest](#finest),
+[fining](#fining),
+[fir](#fir),
+[fire](#fire),
+[fires](#fires),
+[first](#first),
+[firstborn](#firstborn),
+[firstling](#firstling),
+[firstlings](#firstlings),
 [fishers](#fishers),
+[fitches](#fitches),
+[five](#five),
 [flagons](#flagons),
+[flags](#flags),
 [flatteries](#flatteries),
+[flax](#flax),
+[fled](#fled),
 [flee](#flee),
+[flesh](#flesh),
 [flew](#flew),
+[flock](#flock),
+[flocks](#flocks),
 [floodgates](#floodgates),
+[foal](#foal),
 [foameth](#foameth),
 [foaming](#foaming),
 [fodder](#fodder),
 [foes](#foes),
+[follow](#follow),
+[followed](#followed),
 [followers](#followers),
+[followeth](#followeth),
+[following](#following),
+[fool](#fool),
+[fool's](#fool-s),
 [foolishly](#foolishly),
+[fools](#fools),
+[foot](#foot),
+[for](#for),
 [forbare](#forbare),
 [forced](#forced),
 [foreheads](#foreheads),
 [foreigners](#foreigners),
 [foremost](#foremost),
+[forest](#forest),
+[forests](#forests),
 [forever](#forever),
 [forgettest](#forgettest),
 [forgetteth](#forgetteth),
+[forgive](#forgive),
+[forgiven](#forgiven),
 [forgiveness](#forgiveness),
 [forgivenesses](#forgivenesses),
+[forgiveth](#forgiveth),
+[forgiving](#forgiving),
+[form](#form),
+[formed](#formed),
+[former](#former),
+[formeth](#formeth),
+[forms](#forms),
+[forsake](#forsake),
+[forsaken](#forsaken),
+[forsaketh](#forsaketh),
+[forsaking](#forsaking),
 [forth](#forth),
+[fortieth](#fortieth),
+[forty](#forty),
+[forty's](#forty-s),
 [foul](#foul),
 [fouled](#fouled),
+[found](#found),
+[founded](#founded),
+[founder](#founder),
+[foundest](#foundest),
+[fountain](#fountain),
+[four](#four),
 [fourfooted](#fourfooted),
+[fourscore](#fourscore),
+[fourteen](#fourteen),
+[fourteenth](#fourteenth),
+[fourth](#fourth),
 [fowlers](#fowlers),
 [fox](#fox),
+[frankincense](#frankincense),
 [fray](#fray),
 [freely](#freely),
 [freeman](#freeman),
 [freewoman](#freewoman),
+[friend](#friend),
+[friends](#friends),
 [frog](#frog),
+[from](#from),
+[fruit](#fruit),
+[fruits](#fruits),
+[fulfil](#fulfil),
+[fulfilled](#fulfilled),
+[fulfilling](#fulfilling),
 [furnaces](#furnaces),
 [gainsayings](#gainsayings),
 [galbanum](#galbanum),
+[gall](#gall),
 [galloping](#galloping),
 [gallows](#gallows),
+[garden](#garden),
 [garlick](#garlick),
+[garment](#garment),
+[garments](#garments),
+[gate](#gate),
+[gates](#gates),
 [gatherers](#gatherers),
 [gave](#gave),
+[genealogies](#genealogies),
+[genealogy](#genealogy),
+[generation](#generation),
+[generations](#generations),
 [gentle](#gentle),
+[get](#get),
+[getteth](#getteth),
+[getting](#getting),
+[giant](#giant),
+[giants](#giants),
+[gift](#gift),
+[gifts](#gifts),
 [girdedst](#girdedst),
 [give](#give),
 [given](#given),
@@ -329,10 +914,32 @@
 [goat](#goat),
 [goatskins](#goatskins),
 [god](#god),
+[goddess](#goddess),
 [goest](#goest),
+[gold](#gold),
+[golden](#golden),
+[gone](#gone),
+[good](#good),
+[goods](#goods),
+[gospel](#gospel),
+[gospel's](#gospel-s),
 [got](#got),
+[gourd](#gourd),
+[grace](#grace),
+[grape](#grape),
 [grass](#grass),
+[grasshopper](#grasshopper),
+[grave](#grave),
+[grave's](#grave-s),
+[graved](#graved),
+[graven](#graven),
+[graves](#graves),
+[graveth](#graveth),
+[graving](#graving),
 [gray](#gray),
+[great](#great),
+[greater](#greater),
+[greatest](#greatest),
 [greatly](#greatly),
 [greet](#greet),
 [greeteth](#greeteth),
@@ -340,76 +947,338 @@
 [grievance](#grievance),
 [grievances](#grievances),
 [grievousness](#grievousness),
+[ground](#ground),
+[grounded](#grounded),
+[grove](#grove),
+[had](#had),
 [hailstones](#hailstones),
+[half](#half),
 [hall](#hall),
 [hand's](#hand-s),
 [handmaidens](#handmaidens),
+[hang](#hang),
+[hanged](#hanged),
+[hangeth](#hangeth),
+[hanging](#hanging),
+[hangings](#hangings),
+[hard](#hard),
+[harden](#harden),
+[hardened](#hardened),
+[hardeneth](#hardeneth),
+[harder](#harder),
 [hare](#hare),
 [harmless](#harmless),
 [harness](#harness),
 [harnessed](#harnessed),
 [harper](#harper),
+[hart](#hart),
+[hast](#hast),
+[hasted](#hasted),
+[hasten](#hasten),
+[hastened](#hastened),
+[hasteneth](#hasteneth),
+[hasteth](#hasteth),
 [hastily](#hastily),
+[hasting](#hasting),
+[hate](#hate),
+[hated](#hated),
+[hatest](#hatest),
+[hateth](#hateth),
+[hath](#hath),
+[hating](#hating),
 [havens](#havens),
+[hawk](#hawk),
 [head](#head),
 [headed](#headed),
+[heal](#heal),
+[healed](#healed),
+[healeth](#healeth),
+[healing](#healing),
+[healings](#healings),
 [heaps](#heaps),
+[hear](#hear),
+[heard](#heard),
+[heardest](#heardest),
+[hearer](#hearer),
+[hearers](#hearers),
+[hearest](#hearest),
+[heareth](#heareth),
+[hearing](#hearing),
+[hearken](#hearken),
+[hearkened](#hearkened),
+[hearkeneth](#hearkeneth),
+[hearkening](#hearkening),
+[heart](#heart),
+[heart's](#heart-s),
+[hearted](#hearted),
+[hearts](#hearts),
+[heathen](#heathen),
+[heave](#heave),
+[heaved](#heaved),
+[heaven](#heaven),
+[heaven's](#heaven-s),
+[heavens](#heavens),
+[heifer](#heifer),
+[heifer's](#heifer-s),
+[heir](#heir),
+[heirs](#heirs),
 [heldest](#heldest),
+[help](#help),
+[helped](#helped),
+[helper](#helper),
+[helpers](#helpers),
+[helpeth](#helpeth),
+[helping](#helping),
+[helps](#helps),
 [hen](#hen),
 [herbs](#herbs),
 [herdman](#herdman),
 [herdmen](#herdmen),
+[here](#here),
 [heresies](#heresies),
 [heretick](#heretick),
 [heretofore](#heretofore),
 [heron](#heron),
+[hid](#hid),
+[hidest](#hidest),
+[hideth](#hideth),
+[hiding](#hiding),
+[high](#high),
+[higher](#higher),
+[highest](#highest),
+[hill](#hill),
+[hill's](#hill-s),
+[hills](#hills),
+[him](#him),
+[himself](#himself),
 [hip](#hip),
+[his](#his),
+[hissing](#hissing),
 [hoes](#hoes),
+[hold](#hold),
+[holdest](#holdest),
+[holdeth](#holdeth),
+[holding](#holding),
+[holds](#holds),
 [holy](#holy),
+[honour](#honour),
+[honoured](#honoured),
+[honourest](#honourest),
+[honoureth](#honoureth),
+[honours](#honours),
 [hook](#hook),
+[hope](#hope),
+[hope's](#hope-s),
+[hoped](#hoped),
+[hopeth](#hopeth),
+[hoping](#hoping),
+[horn](#horn),
 [hornet](#hornet),
 [hornets](#hornets),
+[horns](#horns),
+[horse](#horse),
+[horses](#horses),
+[host](#host),
+[hosts](#hosts),
 [houghed](#houghed),
+[hour](#hour),
+[hours](#hours),
+[house](#house),
+[houses](#houses),
+[how](#how),
+[hundred](#hundred),
+[hundredfold](#hundredfold),
+[hundreds](#hundreds),
 [hundredth](#hundredth),
 [hungry](#hungry),
 [hunters](#hunters),
+[husband](#husband),
+[husband's](#husband-s),
+[husbands](#husbands),
+[hyssop](#hyssop),
 [idols](#idols),
+[if](#if),
+[image](#image),
+[image's](#image-s),
+[images](#images),
 [impart](#impart),
+[in](#in),
 [incense](#incense),
+[increase](#increase),
+[increased](#increased),
+[increasest](#increasest),
+[increaseth](#increaseth),
+[increasing](#increasing),
 [inflict](#inflict),
+[inhabitant](#inhabitant),
+[inhabitants](#inhabitants),
+[inheritance](#inheritance),
+[inheritances](#inheritances),
+[iniquities](#iniquities),
+[iniquity](#iniquity),
 [insects](#insects),
 [intercessor](#intercessor),
+[into](#into),
+[iron](#iron),
+[is](#is),
+[island](#island),
+[isle](#isle),
+[isles](#isles),
+[it](#it),
 [itch](#itch),
 [itching](#itching),
+[its](#its),
 [jacinth](#jacinth),
 [joined](#joined),
+[journey](#journey),
+[journeyed](#journeyed),
+[journeying](#journeying),
+[journeys](#journeys),
+[joy](#joy),
+[joyed](#joyed),
 [joyful](#joyful),
+[joying](#joying),
+[judge](#judge),
+[judged](#judged),
+[judges](#judges),
+[judgest](#judgest),
+[judgeth](#judgeth),
+[judging](#judging),
+[judgment](#judgment),
+[judgments](#judgments),
+[juniper](#juniper),
+[just](#just),
 [keep](#keep),
+[kept](#kept),
 [kettle](#kettle),
 [key](#key),
 [keys](#keys),
+[kid](#kid),
+[kill](#kill),
+[killed](#killed),
+[killest](#killest),
+[killeth](#killeth),
+[killing](#killing),
 [kin](#kin),
+[kindle](#kindle),
+[kindled](#kindled),
+[kindleth](#kindleth),
 [kindly](#kindly),
+[kindred](#kindred),
+[kine](#kine),
+[king](#king),
+[king's](#king-s),
+[kingdom](#kingdom),
+[kingdoms](#kingdoms),
+[kings](#kings),
+[kinsman](#kinsman),
+[kinsman's](#kinsman-s),
 [kinsmen](#kinsmen),
+[kinswoman](#kinswoman),
 [kite](#kite),
+[knew](#knew),
+[knewest](#knewest),
 [knoweth](#knoweth),
+[knowledge](#knowledge),
+[known](#known),
+[labour](#labour),
+[laboured](#laboured),
+[laboureth](#laboureth),
+[labouring](#labouring),
+[labours](#labours),
 [lacking](#lacking),
 [ladder](#ladder),
+[laid](#laid),
+[lake](#lake),
 [lama](#lama),
 [land](#land),
 [lapwing](#lapwing),
 [lasciviousness](#lasciviousness),
 [last](#last),
+[law](#law),
+[laws](#laws),
+[lay](#lay),
+[layest](#layest),
+[layeth](#layeth),
+[laying](#laying),
 [leach](#leach),
 [leader](#leader),
 [leave](#leave),
 [leeks](#leeks),
+[left](#left),
+[leftest](#leftest),
 [lefthanded](#lefthanded),
+[legion](#legion),
 [lent](#lent),
+[lentiles](#lentiles),
+[leopard](#leopard),
 [lesser](#lesser),
+[lest](#lest),
+[let](#let),
+[lettest](#lettest),
+[letteth](#letteth),
+[letting](#letting),
+[leviathan](#leviathan),
+[lice](#lice),
+[lie](#lie),
+[lied](#lied),
+[lies](#lies),
+[liest](#liest),
+[lieth](#lieth),
+[life](#life),
+[lift](#lift),
+[lifted](#lifted),
+[liftest](#liftest),
+[lifteth](#lifteth),
+[lifting](#lifting),
+[light](#light),
+[lighted](#lighted),
+[lighten](#lighten),
+[lightened](#lightened),
+[lighteneth](#lighteneth),
+[lighter](#lighter),
+[lightest](#lightest),
+[lighteth](#lighteth),
+[lighting](#lighting),
+[lights](#lights),
+[like](#like),
+[liked](#liked),
+[liken](#liken),
+[likened](#likened),
+[liketh](#liketh),
+[likewise](#likewise),
+[liking](#liking),
+[lily](#lily),
+[line](#line),
+[linen](#linen),
+[lines](#lines),
+[lion](#lion),
+[lion's](#lion-s),
+[lions](#lions),
+[lip](#lip),
+[lips](#lips),
+[little](#little),
+[live](#live),
+[lived](#lived),
+[liver](#liver),
+[lives](#lives),
+[livest](#livest),
+[liveth](#liveth),
+[living](#living),
 [lizard](#lizard),
+[lo](#lo),
+[locust](#locust),
+[locusts](#locusts),
 [lofty](#lofty),
+[long](#long),
+[longed](#longed),
+[longer](#longer),
+[longeth](#longeth),
+[longing](#longing),
 [looking](#looking),
+[lord](#lord),
+[lord's](#lord-s),
+[lords](#lords),
 [love](#love),
 [lowly](#lowly),
 [lukewarm](#lukewarm),
@@ -421,19 +1290,56 @@
 [maketh](#maketh),
 [malice](#malice),
 [mallows](#mallows),
+[mammon](#mammon),
+[man](#man),
+[man's](#man-s),
+[mandrakes](#mandrakes),
+[manner](#manner),
+[manners](#manners),
 [mansions](#mansions),
+[many](#many),
 [mast](#mast),
 [masts](#masts),
+[matter](#matter),
+[matters](#matters),
+[may](#may),
+[mayest](#mayest),
 [measure](#measure),
 [measured](#measured),
 [measurings](#measurings),
+[meat](#meat),
+[meats](#meats),
 [meddleth](#meddleth),
+[meet](#meet),
+[meetest](#meetest),
+[meeteth](#meeteth),
+[meeting](#meeting),
 [melons](#melons),
 [men](#men),
 [mending](#mending),
+[mercies](#mercies),
+[mercy](#mercy),
 [message](#message),
+[messenger](#messenger),
+[messengers](#messengers),
+[mice](#mice),
+[midst](#midst),
+[might](#might),
+[mightest](#mightest),
+[mightier](#mightier),
+[mighty](#mighty),
 [mile](#mile),
 [millet](#millet),
+[mind](#mind),
+[minded](#minded),
+[minding](#minding),
+[minds](#minds),
+[mine](#mine),
+[minister](#minister),
+[ministered](#ministered),
+[ministereth](#ministereth),
+[ministering](#ministering),
+[ministers](#ministers),
 [ministry](#ministry),
 [mint](#mint),
 [mite](#mite),
@@ -441,79 +1347,300 @@
 [mole](#mole),
 [moles](#moles),
 [money](#money),
+[month](#month),
+[months](#months),
+[more](#more),
+[moreover](#moreover),
+[morning](#morning),
+[morrow](#morrow),
 [mortal](#mortal),
+[most](#most),
+[moth](#moth),
+[mother](#mother),
+[mother's](#mother-s),
+[mothers](#mothers),
+[mount](#mount),
 [mountain](#mountain),
+[mounted](#mounted),
+[mounting](#mounting),
+[mounts](#mounts),
+[mourn](#mourn),
+[mourned](#mourned),
+[mourneth](#mourneth),
+[mourning](#mourning),
 [mouse](#mouse),
+[mouth](#mouth),
+[mouths](#mouths),
+[move](#move),
+[moved](#moved),
+[moveth](#moveth),
+[moving](#moving),
+[much](#much),
+[mulberry](#mulberry),
+[mule](#mule),
+[mules](#mules),
+[multiplied](#multiplied),
+[multiply](#multiply),
+[multiplying](#multiplying),
+[multitude](#multitude),
+[multitudes](#multitudes),
 [murdered](#murdered),
 [murderers](#murderers),
 [murmurers](#murmurers),
 [musician](#musician),
 [musicians](#musicians),
+[must](#must),
+[mustard](#mustard),
+[my](#my),
+[myrrh](#myrrh),
+[myrtle](#myrtle),
+[myself](#myself),
+[name](#name),
+[name's](#name-s),
+[named](#named),
+[names](#names),
+[nameth](#nameth),
 [napkins](#napkins),
+[nation](#nation),
+[nations](#nations),
 [naves](#naves),
+[near](#near),
+[nearer](#nearer),
 [needed](#needed),
 [needle](#needle),
 [needle's](#needle-s),
+[neighbour](#neighbour),
+[neighbour's](#neighbour-s),
+[neighbours](#neighbours),
 [neighing](#neighing),
 [neighings](#neighings),
+[neither](#neither),
+[nettles](#nettles),
+[nevertheless](#nevertheless),
+[new](#new),
 [newness](#newness),
+[news](#news),
+[nigh](#nigh),
 [nights](#nights),
+[nine](#nine),
+[nineteen](#nineteen),
+[nineteenth](#nineteenth),
+[ninety](#ninety),
+[ninth](#ninth),
 [nitre](#nitre),
+[no](#no),
 [noble](#noble),
 [nobles](#nobles),
+[noise](#noise),
+[noised](#noised),
 [non](#non),
+[none](#none),
+[nor](#nor),
+[north](#north),
+[not](#not),
+[noted](#noted),
+[nothing](#nothing),
+[now](#now),
+[number](#number),
+[numbered](#numbered),
+[numberest](#numberest),
+[numbering](#numbering),
+[numbers](#numbers),
 [numerous](#numerous),
 [nuts](#nuts),
+[oak](#oak),
+[oaks](#oaks),
 [oar](#oar),
 [oars](#oars),
+[obey](#obey),
+[obeyed](#obeyed),
+[obeyeth](#obeyeth),
+[obeying](#obeying),
+[of](#of),
 [offereth](#offereth),
 [officers](#officers),
+[offspring](#offspring),
+[oil](#oil),
+[oiled](#oiled),
+[old](#old),
+[olive](#olive),
+[on](#on),
+[once](#once),
+[one](#one),
+[one's](#one-s),
+[ones](#ones),
 [onions](#onions),
+[only](#only),
 [onycha](#onycha),
+[open](#open),
+[opened](#opened),
+[openest](#openest),
+[openeth](#openeth),
+[opening](#opening),
+[openings](#openings),
 [ospray](#ospray),
 [ostrich](#ostrich),
 [ostriches](#ostriches),
+[other](#other),
+[others](#others),
 [otherwise](#otherwise),
+[ought](#ought),
+[oughtest](#oughtest),
+[our](#our),
+[ours](#ours),
+[out](#out),
+[outer](#outer),
+[over](#over),
 [overshadow](#overshadow),
 [overtaken](#overtaken),
+[owl](#owl),
 [own](#own),
+[ox](#ox),
+[oxen](#oxen),
 [pain](#pain),
 [pale](#pale),
+[palm](#palm),
+[palmerworm](#palmerworm),
 [pan](#pan),
 [panted](#panted),
 [paper](#paper),
+[paradise](#paradise),
 [parchments](#parchments),
+[parents](#parents),
 [parted](#parted),
 [parties](#parties),
 [partridge](#partridge),
+[pass](#pass),
 [passages](#passages),
+[passed](#passed),
+[passest](#passest),
+[passeth](#passeth),
+[passing](#passing),
+[pasture](#pasture),
 [path](#path),
 [patriarch](#patriarch),
 [patriarchs](#patriarchs),
+[peace](#peace),
 [peaceable](#peaceable),
 [peacemakers](#peacemakers),
+[peacocks](#peacocks),
 [pearl](#pearl),
+[pelican](#pelican),
+[people](#people),
+[people's](#people-s),
+[peoples](#peoples),
 [perdition](#perdition),
 [perfect](#perfect),
 [perfecter](#perfecter),
 [perils](#perils),
+[perish](#perish),
+[perished](#perished),
+[perisheth](#perisheth),
+[perishing](#perishing),
 [persecutors](#persecutors),
+[person](#person),
+[persons](#persons),
 [persuasion](#persuasion),
 [perverseness](#perverseness),
 [pestle](#pestle),
 [philippi](#philippi),
 [phylacteries](#phylacteries),
+[piece](#piece),
+[pieces](#pieces),
+[pigeons](#pigeons),
+[pillar](#pillar),
+[pillars](#pillars),
+[pit](#pit),
+[pitch](#pitch),
+[pitched](#pitched),
+[pitcher](#pitcher),
+[pitchers](#pitchers),
+[pits](#pits),
+[place](#place),
+[placed](#placed),
+[places](#places),
 [plagues](#plagues),
+[plain](#plain),
+[plains](#plains),
 [planes](#planes),
+[plant](#plant),
+[planted](#planted),
+[planteth](#planteth),
+[planting](#planting),
+[plants](#plants),
+[please](#please),
+[pleased](#pleased),
 [pleasers](#pleasers),
+[pleaseth](#pleaseth),
+[pleasing](#pleasing),
 [plough](#plough),
 [plowshare](#plowshare),
 [plucked](#plucked),
 [poets](#poets),
 [polish](#polish),
+[pomegranate](#pomegranate),
+[pomegranates](#pomegranates),
+[pool](#pool),
+[pools](#pools),
+[poor](#poor),
+[poorest](#poorest),
 [poplar](#poplar),
 [poplars](#poplars),
 [porters](#porters),
+[portion](#portion),
+[portions](#portions),
+[possess](#possess),
+[possessed](#possessed),
+[possessest](#possessest),
+[possesseth](#possesseth),
+[possessing](#possessing),
+[possession](#possession),
+[possessions](#possessions),
+[posterity](#posterity),
+[pour](#pour),
+[poured](#poured),
+[poureth](#poureth),
+[pouring](#pouring),
+[power](#power),
+[powers](#powers),
+[praise](#praise),
+[praised](#praised),
+[praises](#praises),
+[praiseth](#praiseth),
+[praising](#praising),
+[pray](#pray),
+[prayed](#prayed),
+[prayer](#prayer),
+[prayers](#prayers),
+[prayest](#prayest),
+[prayeth](#prayeth),
+[praying](#praying),
+[preach](#preach),
+[preached](#preached),
+[preacher](#preacher),
+[preachest](#preachest),
+[preacheth](#preacheth),
+[preaching](#preaching),
+[prepare](#prepare),
+[prepared](#prepared),
+[preparest](#preparest),
+[prepareth](#prepareth),
+[preparing](#preparing),
+[presence](#presence),
+[present](#present),
+[presented](#presented),
+[presenting](#presenting),
+[presents](#presents),
+[priest](#priest),
+[priest's](#priest-s),
+[priests](#priests),
+[prince](#prince),
+[prince's](#prince-s),
+[princes](#princes),
+[prison](#prison),
+[prisoner](#prisoner),
+[prisoners](#prisoners),
+[prisons](#prisons),
 [profess](#profess),
 [professed](#professed),
 [professing](#professing),
@@ -521,43 +1648,130 @@
 [prolonged](#prolonged),
 [prolongest](#prolongest),
 [prolongeth](#prolongeth),
+[promise](#promise),
+[promised](#promised),
+[promises](#promises),
+[promising](#promising),
 [prophesyings](#prophesyings),
+[prophet](#prophet),
+[prophet's](#prophet-s),
 [prophetess](#prophetess),
+[prophets](#prophets),
 [prosperous](#prosperous),
 [proud](#proud),
+[province](#province),
+[pulse](#pulse),
+[pure](#pure),
+[purer](#purer),
+[put](#put),
+[puttest](#puttest),
+[putteth](#putteth),
+[putting](#putting),
+[quails](#quails),
 [quake](#quake),
 [quaked](#quaked),
 [quaking](#quaking),
+[quarter](#quarter),
+[quarters](#quarters),
 [quencheth](#quencheth),
 [quickly](#quickly),
 [quiver](#quiver),
 [quivered](#quivered),
+[rain](#rain),
 [rainbow](#rainbow),
+[rained](#rained),
 [rainy](#rainy),
+[raise](#raise),
+[raised](#raised),
+[raiseth](#raiseth),
+[raising](#raising),
+[raisins](#raisins),
+[ram](#ram),
+[ram's](#ram-s),
 [rampart](#rampart),
+[rams](#rams),
+[ready](#ready),
+[reason](#reason),
+[reasoned](#reasoned),
+[reasoning](#reasoning),
+[reasons](#reasons),
 [rebuketh](#rebuketh),
+[receive](#receive),
+[received](#received),
+[receiveth](#receiveth),
+[receiving](#receiving),
 [red](#red),
+[redeem](#redeem),
+[redeemed](#redeemed),
+[redeemer](#redeemer),
+[redeemeth](#redeemeth),
+[redeeming](#redeeming),
 [redness](#redness),
+[reed](#reed),
 [regeneration](#regeneration),
+[region](#region),
+[regions](#regions),
+[reign](#reign),
+[reigned](#reigned),
+[reignest](#reignest),
+[reigneth](#reigneth),
+[reigning](#reigning),
 [rejoice](#rejoice),
 [relented](#relented),
 [religion](#religion),
+[remain](#remain),
+[remained](#remained),
+[remainest](#remainest),
+[remaineth](#remaineth),
+[remaining](#remaining),
+[remnant](#remnant),
+[remove](#remove),
+[removed](#removed),
+[removeth](#removeth),
+[removing](#removing),
+[reproach](#reproach),
+[reproached](#reproached),
+[reproaches](#reproaches),
+[reproachest](#reproachest),
+[reproacheth](#reproacheth),
 [reprobate](#reprobate),
 [reprobates](#reprobates),
 [reproof](#reproof),
 [rest](#rest),
 [restoring](#restoring),
+[return](#return),
+[returned](#returned),
+[returneth](#returneth),
+[returning](#returning),
 [reverence](#reverence),
 [revilings](#revilings),
 [rewarder](#rewarder),
 [riches](#riches),
 [ridden](#ridden),
+[right](#right),
+[righteous](#righteous),
 [righteously](#righteously),
+[righteousness](#righteousness),
+[righteousnesses](#righteousnesses),
 [rigour](#rigour),
 [rims](#rims),
+[rise](#rise),
+[risen](#risen),
+[risest](#risest),
+[riseth](#riseth),
+[rising](#rising),
+[river](#river),
+[river's](#river-s),
+[rivers](#rivers),
+[rock](#rock),
+[rocks](#rocks),
+[rod](#rod),
+[rods](#rods),
 [roe](#roe),
+[roebuck](#roebuck),
 [ropes](#ropes),
 [rose](#rose),
+[round](#round),
 [rudder](#rudder),
 [rue](#rue),
 [rugged](#rugged),
@@ -565,139 +1779,674 @@
 [ruler](#ruler),
 [rulers](#rulers),
 [ruleth](#ruleth),
+[run](#run),
+[runnest](#runnest),
+[runneth](#runneth),
+[running](#running),
 [sabachthani](#sabachthani),
+[sabbath](#sabbath),
+[sabbaths](#sabbaths),
+[sacrifice](#sacrifice),
+[sacrificed](#sacrificed),
+[sacrifices](#sacrifices),
+[sacrificeth](#sacrificeth),
+[sacrificing](#sacrificing),
 [saffron](#saffron),
+[said](#said),
+[saint](#saint),
+[saints](#saints),
 [saith](#saith),
+[sake](#sake),
+[sakes](#sakes),
+[salvation](#salvation),
+[same](#same),
+[sanctified](#sanctified),
+[sanctify](#sanctify),
+[sanctuaries](#sanctuaries),
+[sanctuary](#sanctuary),
 [sands](#sands),
 [sardine](#sardine),
 [sardonyx](#sardonyx),
+[sat](#sat),
+[satest](#satest),
+[save](#save),
+[saved](#saved),
+[savest](#savest),
+[saveth](#saveth),
+[saving](#saving),
+[saviour](#saviour),
+[saw](#saw),
+[sawed](#sawed),
+[sawest](#sawest),
+[saws](#saws),
+[say](#say),
+[sayest](#sayest),
+[saying](#saying),
+[sayings](#sayings),
 [scabbed](#scabbed),
+[scapegoat](#scapegoat),
+[scatter](#scatter),
+[scattered](#scattered),
+[scattereth](#scattereth),
+[scattering](#scattering),
 [scoffings](#scoffings),
 [scorpion](#scorpion),
 [scrabbled](#scrabbled),
+[scribe](#scribe),
+[scribe's](#scribe-s),
+[scribes](#scribes),
 [scrip](#scrip),
 [scurvy](#scurvy),
+[sea](#sea),
 [seagull](#seagull),
 [seam](#seam),
+[seas](#seas),
+[second](#second),
 [seduce](#seduce),
 [seduced](#seduced),
 [seduceth](#seduceth),
 [seducing](#seducing),
+[see](#see),
+[seed](#seed),
+[seed's](#seed-s),
+[seeds](#seeds),
+[seeing](#seeing),
+[seek](#seek),
+[seekest](#seekest),
+[seeketh](#seeketh),
+[seeking](#seeking),
+[seen](#seen),
+[seer](#seer),
+[seer's](#seer-s),
+[seers](#seers),
+[seest](#seest),
+[seeth](#seeth),
+[seething](#seething),
 [self](#self),
 [selfwill](#selfwill),
 [selfwilled](#selfwilled),
+[send](#send),
+[sendest](#sendest),
+[sendeth](#sendeth),
+[sending](#sending),
+[sent](#sent),
+[sentest](#sentest),
 [seraphims](#seraphims),
+[serpent](#serpent),
 [servants](#servants),
+[serve](#serve),
+[served](#served),
+[servest](#servest),
+[serveth](#serveth),
+[service](#service),
+[serving](#serving),
 [set](#set),
 [settings](#settings),
+[seven](#seven),
+[sevenfold](#sevenfold),
+[sevens](#sevens),
+[seventeen](#seventeen),
+[seventeenth](#seventeenth),
+[seventh](#seventh),
+[seventy](#seventy),
 [shaking](#shaking),
+[shall](#shall),
+[shalt](#shalt),
 [shear](#shear),
 [sheareth](#sheareth),
 [shearing](#shearing),
+[sheep](#sheep),
+[sheep's](#sheep-s),
+[shekel](#shekel),
+[shekels](#shekels),
 [shepherds](#shepherds),
 [shew](#shew),
 [shewed](#shewed),
+[ship](#ship),
+[ships](#ships),
 [shipwreck](#shipwreck),
 [shittah](#shittah),
+[shittim](#shittim),
+[shore](#shore),
+[should](#should),
+[shoulder](#shoulder),
+[shoulders](#shoulders),
+[shouldest](#shouldest),
 [shovel](#shovel),
+[shut](#shut),
+[shutteth](#shutteth),
+[shutting](#shutting),
 [shuttle](#shuttle),
 [side](#side),
+[sight](#sight),
+[sights](#sights),
+[sign](#sign),
+[signed](#signed),
+[signs](#signs),
+[silver](#silver),
 [sinful](#sinful),
+[sing](#sing),
+[singed](#singed),
+[singer](#singer),
+[singers](#singers),
+[singeth](#singeth),
+[singing](#singing),
 [sinned](#sinned),
+[sister](#sister),
+[sister's](#sister-s),
+[sisters](#sisters),
+[sit](#sit),
+[sittest](#sittest),
+[sitteth](#sitteth),
+[sitting](#sitting),
+[six](#six),
+[sixteen](#sixteen),
+[sixteenth](#sixteenth),
+[sixth](#sixth),
+[sixty](#sixty),
 [skilful](#skilful),
+[skin](#skin),
+[skins](#skins),
+[slain](#slain),
+[slay](#slay),
+[slayer](#slayer),
+[slayeth](#slayeth),
+[slaying](#slaying),
+[sleep](#sleep),
+[sleeper](#sleeper),
+[sleepest](#sleepest),
+[sleepeth](#sleepeth),
+[sleeping](#sleeping),
+[slew](#slew),
+[slewest](#slewest),
 [small](#small),
+[smite](#smite),
+[smitest](#smitest),
+[smiteth](#smiteth),
+[smiting](#smiting),
 [smooth](#smooth),
 [smootheth](#smootheth),
+[smote](#smote),
+[smotest](#smotest),
 [sneezed](#sneezed),
+[so](#so),
 [soap](#soap),
+[sodomites](#sodomites),
 [softly](#softly),
+[some](#some),
+[son](#son),
+[son's](#son-s),
+[sons](#sons),
 [soothsayer](#soothsayer),
 [sorcerer](#sorcerer),
 [sorceress](#sorceress),
+[sore](#sore),
+[sores](#sores),
+[sorrow](#sorrow),
+[sorrowed](#sorrowed),
+[sorroweth](#sorroweth),
+[sorrowing](#sorrowing),
+[sorrows](#sorrows),
+[sought](#sought),
+[soul](#soul),
+[soul's](#soul-s),
+[souls](#souls),
+[sound](#sound),
+[sounded](#sounded),
+[soundeth](#soundeth),
+[sounding](#sounding),
+[sounds](#sounds),
+[south](#south),
 [spade](#spade),
 [spake](#spake),
+[sparrows](#sparrows),
+[speak](#speak),
+[speakest](#speakest),
+[speaketh](#speaketh),
+[speaking](#speaking),
+[speakings](#speakings),
 [speckled](#speckled),
+[spice](#spice),
 [spider](#spider),
+[spider's](#spider-s),
 [spiders](#spiders),
+[spikenard](#spikenard),
 [spindle](#spindle),
+[spirit](#spirit),
+[spirits](#spirits),
 [spit](#spit),
+[spoil](#spoil),
+[spoiled](#spoiled),
+[spoiler](#spoiler),
+[spoilers](#spoilers),
+[spoilest](#spoilest),
+[spoileth](#spoileth),
+[spoiling](#spoiling),
+[spoils](#spoils),
+[spoken](#spoken),
 [spokes](#spokes),
 [sponge](#sponge),
 [spotted](#spotted),
+[spread](#spread),
+[spreadest](#spreadest),
+[spreadeth](#spreadeth),
+[spreading](#spreading),
 [stained](#stained),
 [stammering](#stammering),
+[stand](#stand),
+[standest](#standest),
+[standeth](#standeth),
+[standing](#standing),
 [statues](#statues),
+[statute](#statute),
+[statutes](#statutes),
+[stead](#stead),
+[steads](#steads),
 [stedfastness](#stedfastness),
+[still](#still),
+[stilled](#stilled),
+[stillest](#stillest),
+[stilleth](#stilleth),
+[stock](#stock),
 [stones](#stones),
+[stood](#stood),
+[stoodest](#stoodest),
 [storehouse](#storehouse),
+[stork](#stork),
 [straight](#straight),
 [straights](#straights),
 [strange](#strange),
 [stranger](#stranger),
 [strangers](#strangers),
 [straps](#straps),
+[street](#street),
+[streets](#streets),
+[strength](#strength),
+[strengthen](#strengthen),
+[strengthened](#strengthened),
+[strengtheneth](#strengtheneth),
+[strengthening](#strengthening),
+[stretch](#stretch),
+[stretched](#stretched),
+[stretchest](#stretchest),
+[stretcheth](#stretcheth),
+[stretching](#stretching),
 [stricken](#stricken),
 [striker](#striker),
+[strong](#strong),
+[stronger](#stronger),
+[strongest](#strongest),
+[stubble](#stubble),
 [subtilly](#subtilly),
+[suburbs](#suburbs),
 [subverting](#subverting),
+[such](#such),
+[suffer](#suffer),
+[suffered](#suffered),
+[sufferest](#sufferest),
+[suffereth](#suffereth),
+[suffering](#suffering),
+[sufferings](#sufferings),
+[sun](#sun),
+[surely](#surely),
 [swallowed](#swallowed),
 [swallows](#swallows),
 [swan](#swan),
+[sweet](#sweet),
+[sweeter](#sweeter),
 [swimmest](#swimmest),
 [swimmeth](#swimmeth),
+[swine](#swine),
+[swine's](#swine-s),
+[sword](#sword),
+[swords](#swords),
+[sycomore](#sycomore),
+[tabernacle](#tabernacle),
+[tabernacles](#tabernacles),
+[table](#table),
+[tables](#tables),
 [tackling](#tackling),
 [tail](#tail),
+[take](#take),
+[taken](#taken),
+[takest](#takest),
+[taketh](#taketh),
+[taking](#taking),
 [talebearers](#talebearers),
+[tare](#tare),
 [taskmaster](#taskmaster),
 [taverns](#taverns),
 [tax](#tax),
 [teacher](#teacher),
 [teachers](#teachers),
+[tell](#tell),
+[tellest](#tellest),
+[telleth](#telleth),
+[telling](#telling),
 [temperate](#temperate),
 [temples](#temples),
+[ten](#ten),
+[ten's](#ten-s),
 [tenor](#tenor),
+[tens](#tens),
+[tent](#tent),
+[tenth](#tenth),
 [tentmakers](#tentmakers),
+[tents](#tents),
+[teraphim](#teraphim),
+[testimonies](#testimonies),
+[testimony](#testimony),
+[than](#than),
+[thank](#thank),
+[thanked](#thanked),
+[thanking](#thanking),
+[thanks](#thanks),
+[that](#that),
+[the](#the),
 [thee](#thee),
 [theft](#theft),
+[their](#their),
+[theirs](#theirs),
+[them](#them),
+[themselves](#themselves),
+[then](#then),
+[thence](#thence),
+[there](#there),
+[therefore](#therefore),
+[therein](#therein),
+[thereof](#thereof),
+[these](#these),
+[they](#they),
 [thicker](#thicker),
 [thine](#thine),
+[thing](#thing),
+[things](#things),
+[third](#third),
 [thirdly](#thirdly),
+[thirteen](#thirteen),
+[thirteenth](#thirteenth),
+[thirtieth](#thirtieth),
+[thirty](#thirty),
+[this](#this),
+[thistle](#thistle),
+[thither](#thither),
+[thorn](#thorn),
+[those](#those),
+[thou](#thou),
+[though](#though),
+[thought](#thought),
+[thoughtest](#thoughtest),
+[thoughts](#thoughts),
+[thousand](#thousand),
+[thousands](#thousands),
+[three](#three),
 [threefold](#threefold),
+[threescore](#threescore),
+[thrice](#thrice),
+[throne](#throne),
+[thrones](#thrones),
+[through](#through),
+[throughout](#throughout),
+[thus](#thus),
+[thy](#thy),
+[thyself](#thyself),
+[till](#till),
+[tilled](#tilled),
+[tillest](#tillest),
+[tilleth](#tilleth),
+[time](#time),
+[times](#times),
+[to](#to),
+[toes](#toes),
+[together](#together),
+[told](#told),
 [tongued](#tongued),
+[took](#took),
+[tookest](#tookest),
+[top](#top),
+[tops](#tops),
+[touch](#touch),
+[touched](#touched),
+[toucheth](#toucheth),
+[touching](#touching),
+[toward](#toward),
+[town](#town),
+[transgression](#transgression),
+[transgressions](#transgressions),
 [treasured](#treasured),
+[tree](#tree),
+[trees](#trees),
+[trespass](#trespass),
+[trespassed](#trespassed),
+[trespasses](#trespasses),
+[trespassing](#trespassing),
 [tribes](#tribes),
 [trim](#trim),
 [trimming](#trimming),
 [troubles](#troubles),
 [trough](#trough),
+[trumpet](#trumpet),
+[trumpets](#trumpets),
+[trust](#trust),
+[trusted](#trusted),
+[trustest](#trustest),
+[trusteth](#trusteth),
+[trusting](#trusting),
 [truth](#truth),
 [truths](#truths),
 [turn](#turn),
 [turned](#turned),
 [turneth](#turneth),
 [turning](#turning),
+[turtledove](#turtledove),
+[twain](#twain),
+[twelfth](#twelfth),
+[twelve](#twelve),
+[twentieth](#twentieth),
+[twenty](#twenty),
+[twenty's](#twenty-s),
+[twice](#twice),
+[two](#two),
 [unbeliever](#unbeliever),
+[uncle](#uncle),
+[unclean](#unclean),
+[under](#under),
+[understand](#understand),
+[understandest](#understandest),
+[understandeth](#understandeth),
+[understanding](#understanding),
 [understood](#understood),
+[until](#until),
+[unto](#unto),
+[up](#up),
+[upon](#upon),
+[us](#us),
+[used](#used),
+[uses](#uses),
+[usest](#usest),
+[useth](#useth),
+[using](#using),
+[utterly](#utterly),
+[vain](#vain),
+[vale](#vale),
+[valley](#valley),
+[valleys](#valleys),
+[vanities](#vanities),
+[vanity](#vanity),
 [veils](#veils),
 [venomous](#venomous),
 [venture](#venture),
+[verily](#verily),
+[very](#very),
+[vessel](#vessel),
+[vessels](#vessels),
 [vile](#vile),
+[village](#village),
+[vine](#vine),
+[vineyard](#vineyard),
+[vineyards](#vineyards),
+[viper](#viper),
+[vision](#vision),
+[visions](#visions),
+[voice](#voice),
+[voices](#voices),
+[vow](#vow),
+[vowed](#vowed),
+[vowest](#vowest),
+[voweth](#voweth),
+[vows](#vows),
 [vulture](#vulture),
 [wait](#wait),
+[walk](#walk),
+[walked](#walked),
+[walkest](#walkest),
+[walketh](#walketh),
+[walking](#walking),
+[wall](#wall),
+[walled](#walled),
+[walls](#walls),
+[war](#war),
+[wares](#wares),
+[warred](#warred),
+[warreth](#warreth),
+[warring](#warring),
+[wars](#wars),
+[was](#was),
+[wash](#wash),
+[washed](#washed),
+[washest](#washest),
+[washing](#washing),
+[washings](#washings),
+[wast](#wast),
+[wasted](#wasted),
+[wastes](#wastes),
+[wasteth](#wasteth),
+[wasting](#wasting),
 [watcher](#watcher),
 [watchers](#watchers),
+[water](#water),
+[watered](#watered),
+[waterest](#waterest),
+[watereth](#watereth),
+[watering](#watering),
+[waters](#waters),
+[way](#way),
+[ways](#ways),
+[we](#we),
 [weasel](#weasel),
+[weep](#weep),
+[weepest](#weepest),
+[weepeth](#weepeth),
+[weeping](#weeping),
+[well](#well),
+[well's](#well-s),
+[wells](#wells),
+[went](#went),
+[wentest](#wentest),
+[were](#were),
+[west](#west),
+[what](#what),
+[whatsoever](#whatsoever),
 [wheat](#wheat),
+[whelp](#whelp),
+[when](#when),
+[where](#where),
+[wherefore](#wherefore),
+[wherein](#wherein),
+[wherewith](#wherewith),
+[whether](#whether),
+[which](#which),
+[while](#while),
+[whiles](#whiles),
 [white](#white),
+[whither](#whither),
+[who](#who),
 [whole](#whole),
+[whom](#whom),
+[whose](#whose),
+[whosoever](#whosoever),
+[why](#why),
 [wicked](#wicked),
+[wickedness](#wickedness),
+[wife](#wife),
+[wife's](#wife-s),
+[wilderness](#wilderness),
+[will](#will),
+[willeth](#willeth),
+[willing](#willing),
+[willows](#willows),
+[wilt](#wilt),
+[wind](#wind),
+[winding](#winding),
+[winds](#winds),
+[wine](#wine),
+[wines](#wines),
 [wineskins](#wineskins),
+[wing](#wing),
+[winged](#winged),
+[wings](#wings),
+[wisdom](#wisdom),
+[wise](#wise),
+[wiser](#wiser),
 [witch](#witch),
+[with](#with),
+[wither](#wither),
+[withered](#withered),
+[withereth](#withereth),
+[within](#within),
 [without](#without),
+[withs](#withs),
 [witness](#witness),
+[wives](#wives),
+[woe](#woe),
+[woes](#woes),
+[wolf](#wolf),
+[wolves](#wolves),
+[woman](#woman),
+[woman's](#woman-s),
+[women](#women),
+[women's](#women-s),
 [wood](#wood),
 [woodsman](#woodsman),
-[wrinkle](#wrinkle)
+[word](#word),
+[word's](#word-s),
+[words](#words),
+[work](#work),
+[work's](#work-s),
+[worketh](#worketh),
+[working](#working),
+[works](#works),
+[world](#world),
+[world's](#world-s),
+[worlds](#worlds),
+[worm](#worm),
+[worms](#worms),
+[wormwood](#wormwood),
+[worship](#worship),
+[worshipped](#worshipped),
+[worshippeth](#worshippeth),
+[worshipping](#worshipping),
+[would](#would),
+[wouldest](#wouldest),
+[wrath](#wrath),
+[wrinkle](#wrinkle),
+[write](#write),
+[writest](#writest),
+[writeth](#writeth),
+[writing](#writing),
+[writings](#writings),
+[written](#written),
+[wrought](#wrought),
+[wroughtest](#wroughtest),
+[yea](#yea),
+[year](#year),
+[year's](#year-s),
+[years](#years),
+[yet](#yet),
+[young](#young),
+[younger](#younger),
+[youngest](#youngest),
+[yourselves](#yourselves)
 
 ### Orphaned round-1 no-safe-swap flags (92)
 
@@ -4405,6 +6154,10 @@ zuzims
 
 ## Why each word is protected
 
+### a
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "a", 8200 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8200 uses with inflections), unlikely to be wrong.**
+
 ### abide
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
@@ -4413,6 +6166,26 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### able
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "able", 162 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (162 uses with inflections), unlikely to be wrong.**
+
+### abomination
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "abomination", 152 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+
+### abominations
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "abomination", 152 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+
+### about
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "about", 633 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (633 uses with inflections), unlikely to be wrong.**
+
+### above
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "above", 225 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (225 uses with inflections), unlikely to be wrong.**
+
 ### abundant
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
@@ -4420,6 +6193,14 @@ zuzims
 ### abundantly
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### accord
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "accord", 810 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (810 uses with inflections), unlikely to be wrong.**
+
+### according
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "accord", 810 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (810 uses with inflections), unlikely to be wrong.**
 
 ### acted
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -4451,9 +6232,45 @@ zuzims
 - I Chronicles 26:32: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'affairs').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### afflict
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "afflict", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### afflicted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "afflict", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### afflictest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "afflict", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### affliction
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "affliction", 89 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+
+### afflictions
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "affliction", 89 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+
 ### aforetime
 - Nehemiah 13:5: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'aforetime').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### afraid
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "afraid", 195 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+
+### after
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "after", 1181 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1181 uses with inflections), unlikely to be wrong.**
+
+### again
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "again", 672 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (672 uses with inflections), unlikely to be wrong.**
+
+### against
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "against", 1673 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1673 uses with inflections), unlikely to be wrong.**
 
 ### agreement
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -4471,6 +6288,10 @@ zuzims
 - round-5: Material/gem name; specific biblical substance with no better period/EModE equivalent.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — material/gem.**
 
+### all
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "all", 5615 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (5615 uses with inflections), unlikely to be wrong.**
+
 ### almond
 - Ecclesiastes 12:5: "Almond" names a specific tree/blossom (a symbol of white hair in this verse); no witness offers an alternate name for the referent — all thirteen keep "almond" (Wycliffe "alemaunde," Geneva/DRC/ASV/BSB "almond"). CUR's bare "tree" produces the duplicate "the tree tree" and loses the specific referent with no attested substitute available.
 - Jeremiah 1:11: Same as Ecclesiastes 12:5 — this verse's entire point is the wordplay between "almond" (shaqed) and "watching/hastening" (shoqed) in the Hebrew; every witness retains "almond," and CUR's bare "tree" produces "an tree tree," a nonsense duplication with no attested alternative available.
@@ -4487,6 +6308,18 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### also
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "also", 1766 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1766 uses with inflections), unlikely to be wrong.**
+
+### altar
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "altar", 433 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (433 uses with inflections), unlikely to be wrong.**
+
+### altars
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "altar", 433 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (433 uses with inflections), unlikely to be wrong.**
+
 ### alter
 - Leviticus 27:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'alter').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
@@ -4499,17 +6332,53 @@ zuzims
 - Leviticus 27:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'alter').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### am
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "am", 953 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (953 uses with inflections), unlikely to be wrong.**
+
 ### amber
 - round-5: Material/gem name; specific biblical substance with no better period/EModE equivalent.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — material/gem.**
+
+### amen
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "am", 953 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (953 uses with inflections), unlikely to be wrong.**
 
 ### amethyst
 - round-5: Material/gem name; specific biblical substance with no better period/EModE equivalent.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — material/gem.**
 
+### among
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "among", 916 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (916 uses with inflections), unlikely to be wrong.**
+
 ### anchors
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### and
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "and", 51697 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (51697 uses with inflections), unlikely to be wrong.**
+
+### angel
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "angel", 297 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (297 uses with inflections), unlikely to be wrong.**
+
+### angel's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "angel", 297 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (297 uses with inflections), unlikely to be wrong.**
+
+### angels
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "angel", 297 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (297 uses with inflections), unlikely to be wrong.**
+
+### anger
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anger", 236 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (236 uses with inflections), unlikely to be wrong.**
+
+### angered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anger", 236 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (236 uses with inflections), unlikely to be wrong.**
 
 ### anise
 - Matthew 23:23: "Anise" names a specific tithed herb. YLT and BSB render the same underlying Greek (anēthon) as "dill," which is a genuinely different and arguably more accurate word for the plant — but "dill" has zero occurrences elsewhere in the KJV corpus, so it would itself become a new rare word under rule 4. No other witness offers an alternative name. Confirms the pipeline's own original flag.
@@ -4517,8 +6386,60 @@ zuzims
 ### ankles
 - Ezekiel 47:3: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters were to the ankles.
 
+### anoint
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anoint", 165 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+
+### anointed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anoint", 165 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+
+### anointest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anoint", 165 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+
+### anointing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "anoint", 165 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+
+### another
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "another", 454 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (454 uses with inflections), unlikely to be wrong.**
+
+### another's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "another", 454 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (454 uses with inflections), unlikely to be wrong.**
+
+### answer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+
+### answered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+
+### answerest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+
+### answereth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+
+### answering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+
+### answers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "answer", 680 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (680 uses with inflections), unlikely to be wrong.**
+
 ### ant
 - Proverbs 6:6: The pipeline's own original flag stands. "Pismire" (Geneva 1599, Wycliffe "pissemyre") is the one period-attested alternate name for this creature, but it has zero occurrences anywhere in the KJV corpus and would itself become a brand-new rare word under rule 4. No other witness offers an alternative; all thirteen keep "ant."
+
+### antichrist
+- King James whitelist review (proper-noun): theological title/name; Geneva 1599 I John 2:18 reads "Antichrist shall come, euen now are there many Antichrists"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #382), owner approved all suggestions.**
 
 ### ants
 - Proverbs 30:25: Same reasoning as "ant" at Proverbs 6:6 above — "pismires" is the only period-attested alternative (via Geneva/Wycliffe) but has zero KJV-corpus occurrences, failing rule 4. CUR made no change at all, which also fails rule 3 as it stands, but no safe swap is available.
@@ -4526,9 +6447,33 @@ zuzims
 ### anvil
 - Isaiah 41:7: "Anvil" names a specific metalworking tool; CUR's "the once" is nonsensical. No witness offers a true synonym for the tool itself (Geneva's "by course" is not a name for the object, and DRC omits it rather than substituting a word). No safe replacement is available.
 
+### any
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "any", 918 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (918 uses with inflections), unlikely to be wrong.**
+
 ### apes
 - I Kings 10:22: BBE renders this word "monkeys," a genuinely different concept-word, but it has zero occurrences in the KJV corpus and would itself become a new rare word under rule 4. No other witness offers an alternative — all others keep "apes."
 - II Chronicles 9:21: Same reasoning as 1 Kings 10:22 above (this is the parallel passage) — "monkeys" (BBE) is unattested in the KJV corpus; no safe swap is available.
+
+### appear
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "appear", 140 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+
+### appeared
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "appear", 140 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+
+### appeareth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "appear", 140 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+
+### appearing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "appear", 140 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+
+### apple
+- King James whitelist review (plant): fruit / fruit tree — "apple tree" and "apples" as literal fruit (Song 2:3,5, Joel 1:12); most occurrences are the idiom "apple of the eye," but the literal plant sense is independently attested in the same corpus
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1080), owner approved all suggestions.**
 
 ### appointed
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -4550,17 +6495,45 @@ zuzims
 - Genesis 21:20: CUR's "became an bow" is nonsensical (a person cannot become an implement) and also has a bad article. BBE's "bowman" is the only external candidate, but it has zero occurrences in the KJV corpus (only "bowmen," once, at 2 Chronicles 35:23) and would itself become a new rare word under rule 4. No other witness offers an alternative.
 - Jeremiah 51:3: CUR's "let the bow bend his bow" is nonsensical (an implement cannot bend itself). No witness offers a corpus-attested synonym for the person who shoots — Geneva's "bender" and YLT's "treader" both have zero KJV-corpus occurrences, and "bowman/bowmen" is likewise nearly unattested (see Genesis 21:20 above).
 
+### are
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "are", 2947 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2947 uses with inflections), unlikely to be wrong.**
+
 ### arise
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### ark
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ark", 229 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (229 uses with inflections), unlikely to be wrong.**
+
+### arm
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "arm", 128 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (128 uses with inflections), unlikely to be wrong.**
+
+### armed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "arm", 128 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (128 uses with inflections), unlikely to be wrong.**
 
 ### armholes
 - Jeremiah 38:12: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And Ebed–melech the Ethiopian said unto Jeremiah, Put now these old cast clouts and rotten rags under thine armholes under the cords. And Jeremiah did so.
 - Ezekiel 13:18: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And say, Thus saith the Lord God; Woe to the women that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive that come unto you?
 
+### armies
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "army", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
 ### armoury
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### arms
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "arm", 128 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (128 uses with inflections), unlikely to be wrong.**
+
+### army
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "army", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
 
 ### arose
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
@@ -4582,12 +6555,52 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### art
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "art", 495 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (495 uses with inflections), unlikely to be wrong.**
+
+### arts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "art", 495 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (495 uses with inflections), unlikely to be wrong.**
+
+### as
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "as", 3534 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3534 uses with inflections), unlikely to be wrong.**
+
 ### ash
 - Isaiah 44:14: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish it.
+
+### ashamed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ashamed", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
 
 ### aside
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### ask
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ask", 253 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+
+### asked
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ask", 253 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+
+### askest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ask", 253 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+
+### asketh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ask", 253 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+
+### asking
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ask", 253 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+
+### asps
+- King James whitelist review (animal): serpent; Geneva 1599 Deuteronomy 32:33 reads "the cruel gall of aspes"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #169), owner approved all suggestions.**
 
 ### assembly
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -4612,6 +6625,10 @@ zuzims
 ### atonement
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+
+### away
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "away", 925 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (925 uses with inflections), unlikely to be wrong.**
 
 ### awe
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -4646,14 +6663,38 @@ zuzims
 ### ball
 - Isaiah 22:18: CUR's "toss thee like a thee" is a broken duplication. No witness offers an alternative name for the round object of the simile — all thirteen retain "ball." No safe replacement is available without either inventing a word or dropping the simile's descriptive content.
 
+### balm
+- King James whitelist review (plant): the resin/spice of Gilead (Gen 37:25, Jer 8:22 etc.); Geneva1599 and Wycliffe both independently render "balm"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #568), owner approved all suggestions.**
+
+### bank
+- King James whitelist review (location): river bank, a natural geographic feature (Gen 41:17 "bank of the river"; Josh 3:15 "banks" of Jordan) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1463), owner approved all suggestions.**
+
+### banks
+- King James whitelist review (location): river bank, a natural geographic feature (Gen 41:17 "bank of the river"; Josh 3:15 "banks" of Jordan) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1463), owner approved all suggestions.**
+
 ### barbarous
 - Acts 28:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.
 
 ### barber's
 - Ezekiel 5:1: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And thou, son of man, take thee a sharp knife, take thee a barber’s razor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the hair.
 
+### bare
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bare", 190 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+
+### barest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bare", 190 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+
 ### bark
 - Isaiah 56:10: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.
+
+### barley
+- King James whitelist review (plant): crop (Ruth 1:22; John 6:9 "barley loaves") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1945), owner approved all suggestions.**
 
 ### bastard
 - Deuteronomy 23:2: "Bastard" is a precise Early Modern English legal-status term, attested by nearly every witness including Geneva1599, Darby, ASV, and UKJV, which all retain it unchanged. No genuinely different word in the KJV corpus names the same status of illegitimate birth without either inventing content (e.g., the post-1611-flavored "illegitimate," 0 occurrences in the corpus) or losing the precise sense.
@@ -4673,8 +6714,16 @@ zuzims
 - Ezekiel 4:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about.
 - Ezekiel 21:22: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): At his right hand was the divination for Jerusalem, to appoint captains, to open the mouth in the slaughter, to lift up the voice with shouting, to appoint battering rams against the gates, to cast a mount, and to build a fort.
 
+### battle
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "battle", 176 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (176 uses with inflections), unlikely to be wrong.**
+
 ### battlement
 - Deuteronomy 22:8: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence.
+
+### battles
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "battle", 176 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (176 uses with inflections), unlikely to be wrong.**
 
 ### bdellium
 - Genesis 2:12: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the gold of that land is good: there is bdellium and the onyx stone.
@@ -4688,9 +6737,41 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### beast
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beast", 338 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+
+### beast's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beast", 338 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+
+### beasts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beast", 338 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+
+### became
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "became", 108 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (108 uses with inflections), unlikely to be wrong.**
+
+### becamest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "became", 108 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (108 uses with inflections), unlikely to be wrong.**
+
+### because
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "because", 1208 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1208 uses with inflections), unlikely to be wrong.**
+
 ### beckoning
 - Acts 12:17: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place.
 - Acts 13:16: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience.
+
+### become
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "become", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+
+### becometh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "become", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
 
 ### bee
 - Isaiah 7:18: CUR's "the like" destroys the sense entirely and breaks the fly/bee pairing that figures Egypt and Assyria. "Bee" names a specific creature essential to that pairing; every witness retains it, and no synonym exists without inventing a different image.
@@ -4698,16 +6779,84 @@ zuzims
 ### beetle
 - Leviticus 11:22: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.
 
+### beeves
+- King James whitelist review (animal): archaic plural of "beef"/cattle as livestock (Lev 22:19-21, Num 31:28-44); creature type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #725), owner approved all suggestions.**
+
+### before
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "before", 1803 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1803 uses with inflections), unlikely to be wrong.**
+
 ### beg
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### began
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "began", 192 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+
+### begat
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "begat", 225 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (225 uses with inflections), unlikely to be wrong.**
 
 ### beggar
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### begin
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "begin", 138 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (138 uses with inflections), unlikely to be wrong.**
+
+### beginnest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "begin", 138 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (138 uses with inflections), unlikely to be wrong.**
+
+### beginning
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "begin", 138 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (138 uses with inflections), unlikely to be wrong.**
+
+### beginnings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "begin", 138 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (138 uses with inflections), unlikely to be wrong.**
+
 ### behemoth
 - Job 40:15: "Behemoth" is a transliterated Hebrew proper name for a specific creature, retained unchanged by every witness including DRC and BSB (which capitalizes it as a proper name). No synonym exists without inventing content.
+
+### behold
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "behold", 1350 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1350 uses with inflections), unlikely to be wrong.**
+
+### beholdest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "behold", 1350 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1350 uses with inflections), unlikely to be wrong.**
+
+### beholdeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "behold", 1350 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1350 uses with inflections), unlikely to be wrong.**
+
+### beholding
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "behold", 1350 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1350 uses with inflections), unlikely to be wrong.**
+
+### believe
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "believe", 320 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
+
+### believed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "believe", 320 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
+
+### believest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "believe", 320 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
+
+### believeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "believe", 320 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
+
+### believing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "believe", 320 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
 
 ### bell
 - Exodus 28:34: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bell').
@@ -4729,6 +6878,14 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### beloved
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beloved", 115 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (115 uses with inflections), unlikely to be wrong.**
+
+### beloved's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beloved", 115 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (115 uses with inflections), unlikely to be wrong.**
+
 ### bent
 - Psalms 7:12: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bent').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
@@ -4737,17 +6894,45 @@ zuzims
 - Exodus 28:20: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'beryl').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### beside
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beside", 140 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+
+### besides
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "beside", 140 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+
 ### betrayeth
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### better
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "better", 118 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+
+### bettered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "better", 118 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+
+### between
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "between", 233 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (233 uses with inflections), unlikely to be wrong.**
 
 ### bewitched
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### bird
+- King James whitelist review (animal): a general creature-type name (fowl); forms (bird, bird's, birds) are nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #2246), owner approved all suggestions.**
+
 ### birth
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### birthright
+- King James whitelist review (genealogy): inheritance-right bound to birth order/lineage (Gen 25:31-34, 27:36, Heb 12:16)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1083), owner approved all suggestions.**
 
 ### bittern
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -4773,9 +6958,33 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### bless
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+
+### blessed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+
 ### blessedness
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### blessest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+
+### blesseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+
+### blessing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+
+### blessings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bless", 520 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
 
 ### block
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -4784,6 +6993,10 @@ zuzims
 ### blocks
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### blood
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "blood", 449 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (449 uses with inflections), unlikely to be wrong.**
 
 ### blush
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -4801,6 +7014,18 @@ zuzims
 - II Samuel 19:18: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'boat').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### bodies
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "body", 210 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (210 uses with inflections), unlikely to be wrong.**
+
+### body
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "body", 210 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (210 uses with inflections), unlikely to be wrong.**
+
+### body's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "body", 210 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (210 uses with inflections), unlikely to be wrong.**
+
 ### boils
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
@@ -4812,9 +7037,25 @@ zuzims
 - Genesis 44:33: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'bondman').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### bone
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bone", 117 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (117 uses with inflections), unlikely to be wrong.**
+
+### bones
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bone", 117 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (117 uses with inflections), unlikely to be wrong.**
+
 ### bonnet
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### book
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "book", 199 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+
+### books
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "book", 199 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
 
 ### borders
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
@@ -4822,9 +7063,37 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### born
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "born", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### both
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "both", 360 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (360 uses with inflections), unlikely to be wrong.**
+
 ### bounding
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### bow
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bow", 204 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+
+### bowed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bow", 204 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+
+### boweth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bow", 204 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+
+### bowing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bow", 204 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+
+### bows
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bow", 204 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
 
 ### bowshot
 - Genesis 21:16: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And she went, and sat her down over against him a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept.
@@ -4837,12 +7106,36 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### bramble
+- King James whitelist review (plant): thornbush; Geneva 1599 Judges 9:14 reads "the bramble"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #397), owner approved all suggestions.**
+
+### branch
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "branch", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### branches
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "branch", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### brass
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "brass", 127 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+
 ### brawlers
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
 ### brayed
 - Job 30:7: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Among the bushes they brayed; under the nettles they were gathered together.
+
+### bread
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bread", 361 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (361 uses with inflections), unlikely to be wrong.**
+
+### breadth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "breadth", 91 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
 
 ### break
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -4860,17 +7153,65 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### brethren
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "brethren", 565 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (565 uses with inflections), unlikely to be wrong.**
+
+### brethren's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "brethren", 565 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (565 uses with inflections), unlikely to be wrong.**
+
 ### brick
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### brier
+- King James whitelist review (plant): thorny plant (Isa 5:6, 7:23-25, 9:18, 10:17, 27:4, 55:13; Ezek 28:24; Mic 7:4)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1317), owner approved all suggestions.**
+
+### bring
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bring", 839 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (839 uses with inflections), unlikely to be wrong.**
+
+### bringest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bring", 839 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (839 uses with inflections), unlikely to be wrong.**
+
+### bringeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bring", 839 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (839 uses with inflections), unlikely to be wrong.**
+
+### bringing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bring", 839 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (839 uses with inflections), unlikely to be wrong.**
 
 ### broken
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### brook
+- King James whitelist review (location): a named watercourse/geographic feature (e.g. brook Kidron, brook Cherith); nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2193), owner approved all suggestions.**
+
 ### broom
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### broth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "broth", 406 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+
+### brother
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "broth", 406 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+
+### brother's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "broth", 406 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+
+### brothers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "broth", 406 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
 
 ### brought
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -4888,31 +7229,255 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### build
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+
+### builder
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+
+### builders
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+
+### buildest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+
+### buildeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+
+### building
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+
+### buildings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "build", 235 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (235 uses with inflections), unlikely to be wrong.**
+
+### built
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "built", 220 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+
+### bullock
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bullock", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+
+### bullock's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bullock", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+
+### bullocks
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bullock", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+
+### burden
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burden", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### burdened
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burden", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### burdens
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burden", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### buried
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bury", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
 ### buriers
 - Ezekiel 39:15: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the passengers that pass through the land, when any seeth a man’s bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamon–gog.
+
+### burn
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burn", 321 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+
+### burned
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burn", 321 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+
+### burneth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burn", 321 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+
+### burning
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burn", 321 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+
+### burnings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burn", 321 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+
+### burnt
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "burnt", 366 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (366 uses with inflections), unlikely to be wrong.**
+
+### bury
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bury", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### burying
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "bury", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### bush
+- King James whitelist review (plant): shrub (Ex 3:2 "burning bush") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1465), owner approved all suggestions.**
 
 ### bushel
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### bushes
+- King James whitelist review (plant): shrub (Ex 3:2 "burning bush") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1465), owner approved all suggestions.**
+
+### but
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "but", 3993 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3993 uses with inflections), unlikely to be wrong.**
+
 ### buttocks
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### by
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "by", 2633 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2633 uses with inflections), unlikely to be wrong.**
+
 ### cab
 - II Kings 6:25: "cab" (Hebrew qab) names a specific ancient dry-measure unit, not an ordinary adjective or verb with a period synonym — every witness (Geneva "kab," DRC "cabe," ASV/ACV "kab") keeps the transliterated unit name rather than translating it, just as KJV keeps "ephah," "hin," and "homer" untranslated elsewhere. No genuinely different English word names this specific unit without altering the verse's precise meaning.
+
+### calamus
+- King James whitelist review (plant): aromatic reed/spice; Geneva 1599 Exodus 30:23 and Song of Solomon 4:14 both read "calamus"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #401), owner approved all suggestions.**
+
+### calf
+- King James whitelist review (animal): young cattle (Ex 32:4 "molten calf"; I Sam 28:24) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1820), owner approved all suggestions.**
+
+### calf's
+- King James whitelist review (animal): young cattle (Ex 32:4 "molten calf"; I Sam 28:24) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1820), owner approved all suggestions.**
+
+### call
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "call", 886 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (886 uses with inflections), unlikely to be wrong.**
+
+### called
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "call", 886 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (886 uses with inflections), unlikely to be wrong.**
+
+### callest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "call", 886 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (886 uses with inflections), unlikely to be wrong.**
+
+### calleth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "call", 886 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (886 uses with inflections), unlikely to be wrong.**
+
+### calling
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "call", 886 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (886 uses with inflections), unlikely to be wrong.**
+
+### calves
+- King James whitelist review (animal): young cattle (Ex 32:8; Hos 14:2 "calves of our lips") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1466), owner approved all suggestions.**
+
+### came
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "came", 2121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2121 uses with inflections), unlikely to be wrong.**
 
 ### camels
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### camest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "came", 2121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2121 uses with inflections), unlikely to be wrong.**
+
+### camp
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "camp", 144 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+
+### camped
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "camp", 144 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+
+### camps
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "camp", 144 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+
+### can
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "can", 234 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (234 uses with inflections), unlikely to be wrong.**
+
+### cankerworm
+- King James whitelist review (animal): a locust-type insect (Joel 1:4, 2:25; Nahum 3:15-16); creature type-name, closed-class
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #581), owner approved all suggestions.**
+
+### cannot
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cannot", 185 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (185 uses with inflections), unlikely to be wrong.**
+
+### captain
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "captain", 260 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (260 uses with inflections), unlikely to be wrong.**
+
+### captains
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "captain", 260 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (260 uses with inflections), unlikely to be wrong.**
+
+### captive
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "captive", 102 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (102 uses with inflections), unlikely to be wrong.**
+
+### captives
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "captive", 102 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (102 uses with inflections), unlikely to be wrong.**
+
+### captivity
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "captivity", 129 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (129 uses with inflections), unlikely to be wrong.**
+
+### carried
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "carry", 242 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (242 uses with inflections), unlikely to be wrong.**
+
 ### carrieth
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### carry
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "carry", 242 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (242 uses with inflections), unlikely to be wrong.**
+
+### carrying
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "carry", 242 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (242 uses with inflections), unlikely to be wrong.**
+
 ### cassia
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### cast
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cast", 544 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (544 uses with inflections), unlikely to be wrong.**
+
+### castest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cast", 544 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (544 uses with inflections), unlikely to be wrong.**
+
+### casteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cast", 544 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (544 uses with inflections), unlikely to be wrong.**
+
+### casting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cast", 544 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (544 uses with inflections), unlikely to be wrong.**
 
 ### caterpiller
 - I Kings 8:37: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caterpiller').
@@ -4921,6 +7486,10 @@ zuzims
 ### caterpillers
 - I Kings 8:37: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caterpiller').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### cattle
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cattle", 152 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
 
 ### caught
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -4934,6 +7503,54 @@ zuzims
 - Exodus 29:13: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'caul').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### cause
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+
+### caused
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+
+### causes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+
+### causest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+
+### causeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+
+### causing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cause", 474 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (474 uses with inflections), unlikely to be wrong.**
+
+### cave
+- King James whitelist review (location): a natural geographic feature (dwelling/hiding place, e.g. cave of Machpelah, cave of Adullam); forms are nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1962), owner approved all suggestions.**
+
+### cease
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cease", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### ceased
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cease", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### ceaseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cease", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### ceasing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cease", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### cedar
+- King James whitelist review (plant): a named tree (cedar of Lebanon); nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2369), owner approved all suggestions.**
+
 ### certain
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
@@ -4944,6 +7561,18 @@ zuzims
 
 ### chalcedony
 - Revelation 21:19: "chalcedony" is a specific, technical gemstone name in a list alongside jasper, sapphire, and emerald. Every witness (Wycliffe, Tyndale, Geneva1599, DRC, and all English translations) keeps this exact term or a direct cognate — there is no genuinely different English word that names this specific stone.
+
+### chamber
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chamber", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
+### chambering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chamber", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
+### chambers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chamber", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
 
 ### chameleon
 - Leviticus 11:30: "chameleon" names a specific unclean reptile in a list of five distinct lizard-types (ferret, chameleon, lizard, snail, mole). CUR's "strength" is nonsensical, and no genuinely different English word names this specific animal without collapsing it into one of the other four already listed. Like "cab," "chalcedony," and "cauls" elsewhere in this project, this is a technical zoological term every witness keeps as-is.
@@ -4975,6 +7604,42 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### charge
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+
+### charged
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+
+### charger
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+
+### chargers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+
+### charges
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+
+### chargest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+
+### charging
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "charge", 192 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (192 uses with inflections), unlikely to be wrong.**
+
+### chariot
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chariot", 177 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (177 uses with inflections), unlikely to be wrong.**
+
+### chariots
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chariot", 177 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (177 uses with inflections), unlikely to be wrong.**
+
 ### cheese
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
@@ -4982,6 +7647,22 @@ zuzims
 ### cheeses
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### cherub
+- King James whitelist review (animal): a named class of celestial creature (Ex 25:19, 37:8) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1821), owner approved all suggestions.**
+
+### cherubims
+- King James whitelist review (proper-noun): transliterated Hebrew term (k'ruvim) for a class of heavenly being; Geneva 1599 independently uses the identical rendering "Cherubims"/"Cherub"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #2300), owner approved all suggestions.**
+
+### child
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "child", 205 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (205 uses with inflections), unlikely to be wrong.**
+
+### child's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "child", 205 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (205 uses with inflections), unlikely to be wrong.**
 
 ### children
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -4999,11 +7680,27 @@ zuzims
 - Matthew 13:7: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'choked').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### chose
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chose", 152 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+
+### chosen
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "chose", 152 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+
 ### chrysolite
 - Revelation 21:20: CUR's "chrysolyte" is merely a respelling of the same word, not a genuinely different one — the rules forbid mere re-inflection/respelling. This is a specific gemstone name in a fixed numbered list (fifth through twelfth foundation stones); no other English word names this same gem, and every witness keeps "chrysolite" or a direct cognate.
 
 ### chrysoprasus
 - Revelation 21:20: CUR's "chrysoprase" is the same word under a standard spelling variant (also used by Webster, ASV, and BSB), not a genuinely different word. Like "chrysolite" above, this is a specific gemstone name in a fixed list with no true synonym.
+
+### church
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "church", 117 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (117 uses with inflections), unlikely to be wrong.**
+
+### churches
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "church", 117 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (117 uses with inflections), unlikely to be wrong.**
 
 ### churl
 - Isaiah 32:5: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): The vile person shall be no more called liberal, nor the churl said to be bountiful.
@@ -5015,6 +7712,14 @@ zuzims
 ### cieling
 - I Kings 6:15: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: and he covered them on the inside with wood, and covered the floor of the house with planks of fir.
 
+### cinnamon
+- King James whitelist review (plant): spice; Geneva 1599 Exodus 30:23 and Song of Solomon 4:14 both read "cinamon"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #187), owner approved all suggestions.**
+
+### cities
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "city", 1319 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1319 uses with inflections), unlikely to be wrong.**
+
 ### citizen
 - Luke 15:15: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.
 - Acts 21:39: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I beseech thee, suffer me to speak unto the people.
@@ -5022,6 +7727,10 @@ zuzims
 ### citron
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### city
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "city", 1319 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1319 uses with inflections), unlikely to be wrong.**
 
 ### clapped
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -5031,12 +7740,80 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### clean
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "clean", 133 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (133 uses with inflections), unlikely to be wrong.**
+
+### cleanse
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cleanse", 89 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+
+### cleansed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cleanse", 89 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+
+### cleanseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cleanse", 89 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+
+### cleansing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cleanse", 89 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (89 uses with inflections), unlikely to be wrong.**
+
 ### cliff
 - II Chronicles 20:16: Owner 7/17/26 - cliff of Ziz is a location and should not be altered.
+
+### cloth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+
+### clothed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+
+### clothes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+
+### clothest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+
+### clothing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+
+### cloths
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloth", 222 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (222 uses with inflections), unlikely to be wrong.**
+
+### cloud
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloud", 157 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+
+### clouds
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cloud", 157 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
 
 ### clovenfooted
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### coast
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "coast", 111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+
+### coasts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "coast", 111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+
+### cock
+- King James whitelist review (animal): rooster (Matt 26:34,74-75; Mark 14:30,68,72; Luke 22:34,60-61; John 13:38, 18:27)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1208), owner approved all suggestions.**
+
+### cockatrice
+- King James whitelist review (animal): creature type-name (mythic serpent); Geneva 1599 Isaiah 14:29 reads "a cockatrise"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #6), owner approved all suggestions.**
 
 ### cockcrowing
 - Mark 13:35: Every witness consulted — Wycliffe ("cockis crowyng"), Tyndale ("cocke crowynge"), Geneva ("cocke crowing"), DRC ("cock crowing") — unanimously names this fourth Roman night-watch by the same compound; no period-authentic word names that specific watch without reusing "cock" and "crow." No safe genuine-word swap exists; this entry needs owner review rather than a forced substitution.
@@ -5063,9 +7840,69 @@ zuzims
 ### colony
 - Acts 16:12: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.
 
+### colt
+- King James whitelist review (animal): young ass/horse (Zech 9:9 "colt the foal of an ass") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1469), owner approved all suggestions.**
+
+### colts
+- King James whitelist review (animal): young ass/horse (Zech 9:9 "colt the foal of an ass") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1469), owner approved all suggestions.**
+
 ### cometh
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### comfort
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
+### comforted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
+### comforter
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
+### comforters
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
+### comforteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
+### comforts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "comfort", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
+### command
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "command", 572 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (572 uses with inflections), unlikely to be wrong.**
+
+### commanded
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "command", 572 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (572 uses with inflections), unlikely to be wrong.**
+
+### commandest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "command", 572 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (572 uses with inflections), unlikely to be wrong.**
+
+### commandeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "command", 572 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (572 uses with inflections), unlikely to be wrong.**
+
+### commanding
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "command", 572 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (572 uses with inflections), unlikely to be wrong.**
+
+### commandment
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "commandment", 348 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (348 uses with inflections), unlikely to be wrong.**
+
+### commandments
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "commandment", 348 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (348 uses with inflections), unlikely to be wrong.**
 
 ### committeth
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -5078,9 +7915,45 @@ zuzims
 ### commonwealth
 - Ephesians 2:12: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
 
+### companied
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "company", 104 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+
+### companies
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "company", 104 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+
+### company
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "company", 104 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+
+### compass
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "compass", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### compassed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "compass", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### compassest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "compass", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### compasseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "compass", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### compassing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "compass", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
 ### compelleth
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### concerning
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "concerning", 241 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (241 uses with inflections), unlikely to be wrong.**
 
 ### concision
 - Philippians 3:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Beware of dogs, beware of evil workers, beware of the concision.
@@ -5093,6 +7966,14 @@ zuzims
 - Philippians 1:7: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace.
 - Hebrews 6:16: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.
 
+### congregation
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "congregation", 367 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (367 uses with inflections), unlikely to be wrong.**
+
+### congregations
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "congregation", 367 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (367 uses with inflections), unlikely to be wrong.**
+
 ### conies
 - Psalms 104:18: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): The high hills are a refuge for the wild goats; and the rocks for the conies.
 - Proverbs 30:26: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): The conies are but a feeble folk, yet make they their houses in the rocks;
@@ -5100,9 +7981,45 @@ zuzims
 ### conquering
 - Revelation of John 6:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer.
 
+### consider
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consider", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### considered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consider", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### considerest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consider", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### considereth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consider", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### considering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consider", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
 ### conspiracy
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### consume
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consume", 160 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (160 uses with inflections), unlikely to be wrong.**
+
+### consumed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consume", 160 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (160 uses with inflections), unlikely to be wrong.**
+
+### consumeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consume", 160 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (160 uses with inflections), unlikely to be wrong.**
+
+### consuming
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "consume", 160 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (160 uses with inflections), unlikely to be wrong.**
 
 ### contention
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -5143,17 +8060,93 @@ zuzims
 - Exodus 16:31: CUR's "like like seed" is a broken duplicate substitution. Every witness (Wycliffe, Geneva1599, DRC, ASV, BSB) keeps "coriander seed" as a specific plant-name with no attested alternative; restoring the original reading is the only sound option.
 - Numbers 11:7: Same broken duplicate ("as like seed") and same evidence as Exodus 16:31 — no witness offers a substitute plant name for coriander.
 
+### cormorant
+- King James whitelist review (animal): bird; Geneva 1599 Leviticus 11:17 reads "the connorant" (spelling variant of the same referent)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #195), owner approved all suggestions.**
+
+### could
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "could", 172 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (172 uses with inflections), unlikely to be wrong.**
+
+### couldest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "could", 172 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (172 uses with inflections), unlikely to be wrong.**
+
+### counsel
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "counsel", 164 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (164 uses with inflections), unlikely to be wrong.**
+
+### counselled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "counsel", 164 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (164 uses with inflections), unlikely to be wrong.**
+
+### counsels
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "counsel", 164 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (164 uses with inflections), unlikely to be wrong.**
+
+### countries
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "country", 234 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (234 uses with inflections), unlikely to be wrong.**
+
+### country
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "country", 234 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (234 uses with inflections), unlikely to be wrong.**
+
+### court
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "court", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
+### courts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "court", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
 ### covenant
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### cover
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+
+### covered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+
+### coverest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+
+### covereth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+
+### covering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+
+### coverings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
+
+### covers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cover", 264 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (264 uses with inflections), unlikely to be wrong.**
 
 ### covetous
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### cow
+- King James whitelist review (animal): the animal cow (Lev 22:28, Num 18:17, Job 21:10, Isa 7:21, 11:7, Amos 4:3, Ezek 4:15); creature type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #748), owner approved all suggestions.**
+
 ### crane
 - Isaiah 38:14: CUR "horse" is a broken substitution (a horse cannot "chatter" like a bird, and does not fit the migratory-bird imagery alongside the swallow and dove). Every witness that translates this verse keeps a bird — nearly all keep "crane" itself (Geneva1599, Webster, RWebster, YLT, UKJV); only BSB substitutes "thrush," an isolated, unattested choice. No genuine common alternative for this specific bird-name exists among the witnesses.
 - Jeremiah 8:7: Same word and same evidence as Isaiah 38:14 — CUR "horse" is nonsensical for a migratory bird, and every witness (Geneva1599, Webster, RWebster, YLT, Darby, ASV, UKJV, ACV, BBE) keeps "crane."
+
+### creator
+- King James whitelist review (proper-noun): deity-title for God (Ecclesiastes 12:1; Isaiah 40:28; Romans 1:25; I Peter 4:19)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #416), owner approved all suggestions.**
 
 ### cricket
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -5194,6 +8187,14 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### cubit
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cubit", 258 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (258 uses with inflections), unlikely to be wrong.**
+
+### cubits
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cubit", 258 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (258 uses with inflections), unlikely to be wrong.**
+
 ### cuckow
 - Leviticus 11:16: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the owl, and the night hawk, and the cuckow, and the hawk after his kind,
 - Deuteronomy 14:15: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the owl, and the night hawk, and the cuckow, and the hawk after his kind,
@@ -5205,11 +8206,63 @@ zuzims
 ### cumi
 - Mark 5:41: "Talitha cumi" is an untranslated Aramaic phrase that the verse itself immediately glosses ("which is, being interpreted..."); every witness preserves the transliteration itself (varying only in spelling: "cumi"/"cumy"/"koumi"). It is not an English word to be swapped but a quoted foreign phrase.
 
+### cummin
+- King James whitelist review (plant): spice/herb; Geneva 1599 Isaiah 28:25 and Matthew 23:23 both read "cummin"/"cummyn"; Tyndale Matthew 23:23 reads "comen"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #199), owner approved all suggestions.**
+
 ### curdled
 - Job 10:10: CUR "settled" loses the specific sense of milk turning to curds. Every witness that translates this verse (Wycliffe "cruddid," DRC, Webster, RWebster, YLT, Darby, ASV, ACV, BSB) keeps "curdled"; no alternative is attested.
 
+### curse
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+
+### cursed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+
 ### cursedst
 - Mark 11:21: CUR "curse" is the same trivial re-inflection problem as Judges 17:2, but here the cursing is Jesus's own malediction on the fig tree, not an oath — so "swarest" does not fit the sense. No witness offers a genuinely different verb for this act of cursing (all keep "curse(dst)" in some tense); no safe substitute is attested.
+
+### curses
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+
+### cursest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+
+### curseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+
+### cursing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+
+### cursings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "curse", 206 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+
+### cut
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cut", 346 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (346 uses with inflections), unlikely to be wrong.**
+
+### cuttest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cut", 346 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (346 uses with inflections), unlikely to be wrong.**
+
+### cutteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cut", 346 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (346 uses with inflections), unlikely to be wrong.**
+
+### cutting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cut", 346 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (346 uses with inflections), unlikely to be wrong.**
+
+### cuttings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "cut", 346 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (346 uses with inflections), unlikely to be wrong.**
 
 ### cymbal
 - I Corinthians 13:1: CUR made no change. Every witness (Wycliffe, Tyndale, Geneva1599, DRC, Webster, RWebster, YLT, Darby, ASV, UKJV, ACV, BSB) keeps "cymbal" as the instrument-noun, varying only the adjective ("tinkling"/"clanging"/"clashing"); no witness offers a distinct instrument-name alternative.
@@ -5221,12 +8274,32 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### dam
+- King James whitelist review (animal): technical husbandry term naming the animal mother, distinct from human "mother"; Geneva 1599 Exodus 22:30 reads "it shall bee with his damme"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #423), owner approved all suggestions.**
+
 ### dandled
 - Isaiah 66:12: CUR "cried upon her knees" is nonsensical (infants are not "cried upon knees"). Every witness that translates this verse (RWebster, YLT, Darby, ASV, ACV) keeps "dandled"; no alternative is attested anywhere.
 
 ### daring
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### darkness
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "darkness", 162 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (162 uses with inflections), unlikely to be wrong.**
+
+### daughter
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "daughter", 581 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (581 uses with inflections), unlikely to be wrong.**
+
+### daughter's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "daughter", 581 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (581 uses with inflections), unlikely to be wrong.**
+
+### daughters
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "daughter", 581 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (581 uses with inflections), unlikely to be wrong.**
 
 ### dawn
 - Joshua 6:15: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dawning').
@@ -5245,6 +8318,38 @@ zuzims
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### dead
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dead", 364 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (364 uses with inflections), unlikely to be wrong.**
+
+### deal
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deal", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### dealest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deal", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### dealeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deal", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### dealing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deal", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### deals
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deal", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### death
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "death", 379 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (379 uses with inflections), unlikely to be wrong.**
+
+### deaths
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "death", 379 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (379 uses with inflections), unlikely to be wrong.**
 
 ### declare
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
@@ -5270,6 +8375,30 @@ zuzims
 ### delicateness
 - Deuteronomy 28:56: CUR's "for themselves and tenderness" is ungrammatical nonsense and must go, but no genuinely different KJV-common word covers this sense: "softness" (0 occurrences in KJV.db), "niceness" (0), and even the retained "tenderness" itself occurs only once in the whole corpus. The witnesses' own words (Geneva "softnesse", DRC "niceness") are equally unattested in the base text, so any swap cures one rare word with another equally rare one.
 
+### deliver
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+
+### delivered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+
+### deliverer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+
+### deliverest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+
+### delivereth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+
+### delivering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "deliver", 618 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (618 uses with inflections), unlikely to be wrong.**
+
 ### demon
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
@@ -5277,6 +8406,10 @@ zuzims
 ### demons
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### den
+- King James whitelist review (location): natural cave/lair as a geographic feature (Dan 6:16 "den of lions"; Judg 6:2 "dens which are in the mountains") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1771), owner approved all suggestions.**
 
 ### denarius
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -5286,13 +8419,45 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### dens
+- King James whitelist review (location): natural cave/lair as a geographic feature (Dan 6:16 "den of lions"; Judg 6:2 "dens which are in the mountains") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1771), owner approved all suggestions.**
+
 ### departeth
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### desert
+- King James whitelist review (location): a named terrain/region (wilderness-type place); forms (desert, deserts) are nominal only in this text
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2124), owner approved all suggestions.**
+
 ### desire
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### desolate
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "desolate", 148 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (148 uses with inflections), unlikely to be wrong.**
+
+### despise
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "despise", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### despised
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "despise", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### despisest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "despise", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### despiseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "despise", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### despising
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "despise", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
 
 ### destitute
 - Genesis 24:27: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'destitute').
@@ -5302,18 +8467,74 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### destruction
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "destruction", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### destructions
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "destruction", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### devil
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devil", 109 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+
 ### devilish
 - James 3:15: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): This wisdom descendeth not from above, but is earthly, sensual, devilish.
+
+### devils
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devil", 109 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
 
 ### devoted
 - Leviticus 27:21: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'devoted').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### devour
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devour", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### devoured
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devour", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### devourest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devour", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### devoureth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devour", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### devouring
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "devour", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### did
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "did", 1004 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1004 uses with inflections), unlikely to be wrong.**
 
 ### didst
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### die
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "die", 556 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (556 uses with inflections), unlikely to be wrong.**
+
+### died
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "die", 556 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (556 uses with inflections), unlikely to be wrong.**
+
+### diest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "die", 556 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (556 uses with inflections), unlikely to be wrong.**
+
+### dieth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "die", 556 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (556 uses with inflections), unlikely to be wrong.**
 
 ### disciples
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -5339,16 +8560,76 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### do
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+
+### doer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+
+### doers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+
+### doest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+
+### doeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+
+### dog
+- King James whitelist review (animal): a named creature; all forms (dog, dog's, dogs) are nominal
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #2026), owner approved all suggestions.**
+
+### doing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+
+### doings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "do", 1575 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1575 uses with inflections), unlikely to be wrong.**
+
 ### doleful
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### done
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "done", 567 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (567 uses with inflections), unlikely to be wrong.**
 
 ### donkey
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### door
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "door", 261 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+
+### doors
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "door", 261 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+
+### dost
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dost", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### doth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "doth", 206 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (206 uses with inflections), unlikely to be wrong.**
+
 ### doting
 - I Timothy 6:4: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,
+
+### double
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "double", 32 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### doubled
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "double", 32 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
 
 ### doubletongued
 - I Timothy 3:8: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;
@@ -5357,12 +8638,104 @@ zuzims
 - Exodus 12:34: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'dough').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### dove
+- King James whitelist review (animal): bird (Gen 8:8-12; Matt 3:16) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1857), owner approved all suggestions.**
+
+### dove's
+- King James whitelist review (animal): bird (Gen 8:8-12; Matt 3:16) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1857), owner approved all suggestions.**
+
+### doves
+- King James whitelist review (animal): bird (Gen 8:8-12; Matt 3:16) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1857), owner approved all suggestions.**
+
+### down
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "down", 1138 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1138 uses with inflections), unlikely to be wrong.**
+
+### dragon
+- King James whitelist review (animal): a named creature (Hebrew tannin/tannim); KJV's dragon-imagery creature-name, not a verb
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1967), owner approved all suggestions.**
+
+### draw
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "draw", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### draweth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "draw", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### drawing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "draw", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### dream
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dream", 121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+
+### dreamed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dream", 121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+
+### dreamer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dream", 121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+
+### dreameth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dream", 121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+
+### dreams
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dream", 121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+
+### dried
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dry", 112 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+
 ### drieth
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### drink
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drink", 410 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (410 uses with inflections), unlikely to be wrong.**
+
+### drinketh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drink", 410 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (410 uses with inflections), unlikely to be wrong.**
+
+### drinking
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drink", 410 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (410 uses with inflections), unlikely to be wrong.**
+
+### drinks
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drink", 410 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (410 uses with inflections), unlikely to be wrong.**
+
+### drive
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drive", 118 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+
+### driven
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drive", 118 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+
+### driveth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drive", 118 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+
+### driving
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "drive", 118 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+
 ### dropsy
 - Luke 14:2: No period witness offers a different noun for the condition itself (Wycliffe "dropesie", Tyndale/Geneva/DRC all "dropsy/dropsie"); modern alternatives (dropsical, edema) are either a mere re-inflection of the same root or a post-1611 medical term. No genuinely different, period-authentic word exists.
+
+### dry
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dry", 112 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
 
 ### dulcimer
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -5400,6 +8773,54 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### dwelt
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "dwelt", 227 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (227 uses with inflections), unlikely to be wrong.**
+
+### eagle
+- King James whitelist review (animal): bird (Ex 19:4; Job 39:27) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1928), owner approved all suggestions.**
+
+### eagle's
+- King James whitelist review (animal): bird (Ex 19:4; Job 39:27) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1928), owner approved all suggestions.**
+
+### eagles
+- King James whitelist review (animal): bird (Ex 19:4; Job 39:27) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1928), owner approved all suggestions.**
+
+### ear
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+
+### eared
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+
+### earing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+
+### earring
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+
+### earrings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+
+### ears
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ear", 280 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (280 uses with inflections), unlikely to be wrong.**
+
+### earth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "earth", 994 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (994 uses with inflections), unlikely to be wrong.**
+
+### earthen
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "earth", 994 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (994 uses with inflections), unlikely to be wrong.**
+
 ### eat
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
@@ -5415,6 +8836,22 @@ zuzims
 - Job 6:6: Every witness (Wycliffe through BSB) keeps "egg"; it is a basic, unambiguous referent with no period synonym.
 - Luke 11:12: Same reasoning as Job 6:6 above; every witness keeps "egg."
 
+### eight
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eight", 80 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### eighteen
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eighteen", 22 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### eighteenth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eighteenth", 11 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### eighth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eighth", 39 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### eightieth
 - I Kings 6:1: CUR's "fourscoreeth" is not a word. "Eightieth" is a numeral naming a specific year (480); the KJV corpus's own pattern for such ordinals ("hundredth," Genesis 7:11 etc.) offers no substitute that preserves the stated number. Any change to the numeral would alter the verse's stated content, which is outside the scope of a word-choice swap.
 
@@ -5422,9 +8859,29 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### elder
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "elder", 202 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (202 uses with inflections), unlikely to be wrong.**
+
+### elders
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "elder", 202 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (202 uses with inflections), unlikely to be wrong.**
+
+### eldest
+- King James whitelist review (genealogy): birth-order/lineage term for the firstborn among siblings (Gen 27:1, 43:33, 44:12, 1 Sam 17:13-14)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1275), owner approved all suggestions.**
+
 ### elements
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### eleven
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eleven", 24 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### eleventh
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "eleventh", 20 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
 
 ### embalmed
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -5438,6 +8895,18 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### enemies
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enemy", 379 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (379 uses with inflections), unlikely to be wrong.**
+
+### enemy
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enemy", 379 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (379 uses with inflections), unlikely to be wrong.**
+
+### enemy's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enemy", 379 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (379 uses with inflections), unlikely to be wrong.**
+
 ### engravings
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
@@ -5445,6 +8914,22 @@ zuzims
 ### enmity
 - Genesis 3:15: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'enmity').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### enter
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enter", 325 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+
+### entered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enter", 325 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+
+### entereth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enter", 325 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+
+### entering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "enter", 325 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
 
 ### entrance
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -5454,12 +8939,40 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### escape
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "escape", 124 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (124 uses with inflections), unlikely to be wrong.**
+
+### escaped
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "escape", 124 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (124 uses with inflections), unlikely to be wrong.**
+
+### escapeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "escape", 124 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (124 uses with inflections), unlikely to be wrong.**
+
+### escaping
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "escape", 124 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (124 uses with inflections), unlikely to be wrong.**
+
 ### especially
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
 ### espousals
 - Jeremiah 2:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Go and cry in the ears of Jerusalem, saying, Thus saith the Lord; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land that was not sown.
+
+### establish
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "establish", 123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+
+### established
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "establish", 123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+
+### establisheth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "establish", 123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
 
 ### evangelist
 - II Timothy 4:5: "Preacher" (singular, attested 11 times) does not fit this idiom, "do the work of a preacher," as naturally as it fits a personal title, and every witness (period and modern) either keeps "evangelist" or paraphrases with a full clause ("go on preaching the good news"), which would require inventing new surrounding text beyond a word-level swap. No safe single-word or short-phrase substitute is available.
@@ -5471,6 +8984,38 @@ zuzims
 ### everlasting
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### every
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "every", 1236 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1236 uses with inflections), unlikely to be wrong.**
+
+### evil
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "evil", 622 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (622 uses with inflections), unlikely to be wrong.**
+
+### evils
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "evil", 622 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (622 uses with inflections), unlikely to be wrong.**
+
+### ewe
+- King James whitelist review (animal): female sheep, livestock type-name (Gen 21:28-30, 2 Sam 12:3-6)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1017), owner approved all suggestions.**
+
+### exalt
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "exalt", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### exalted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "exalt", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### exaltest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "exalt", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### exalteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "exalt", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
 
 ### excess
 - Leviticus 22:23: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'excess').
@@ -5491,12 +9036,56 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### eye
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "eye", 630 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (630 uses with inflections), unlikely to be wrong.**
+
+### eye's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "eye", 630 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (630 uses with inflections), unlikely to be wrong.**
+
+### eyed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "eye", 630 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (630 uses with inflections), unlikely to be wrong.**
+
+### eyes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "eye", 630 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (630 uses with inflections), unlikely to be wrong.**
+
 ### eyesalve
 - Revelation of John 3:18: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.
 
 ### eyeservice
 - Ephesians 6:6: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;
 - Colossians 3:22: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:
+
+### face
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "face", 489 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (489 uses with inflections), unlikely to be wrong.**
+
+### faces
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "face", 489 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (489 uses with inflections), unlikely to be wrong.**
+
+### fail
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fail", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### failed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fail", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### faileth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fail", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### failing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fail", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### faith
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "faith", 252 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (252 uses with inflections), unlikely to be wrong.**
 
 ### faithfully
 - II Kings 12:15: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'faithfully').
@@ -5513,23 +9102,79 @@ zuzims
 ### fallowdeer
 - I Kings 4:23: CUR "fallow" alone is nonsensical (bare adjective). Every period witness (Wycliffe "buglis," Geneva "bugles," DRC "buffles," Darby/YLT "fallow-deer") converges on this same class of deer/wild-ox game; no genuinely different, period-attested word names this specific referent without either duplicating an animal already listed (roebucks) or importing an anachronistic modern term (gazelle, absent from period witnesses in this sense). Flagging for owner review rather than proposing an inaccurate swap.
 
+### families
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "family", 298 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (298 uses with inflections), unlikely to be wrong.**
+
+### family
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "family", 298 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (298 uses with inflections), unlikely to be wrong.**
+
+### famine
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "famine", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### famines
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "famine", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
 ### fan
 - Isaiah 30:24: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'fan').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### far
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "far", 172 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (172 uses with inflections), unlikely to be wrong.**
 
 ### fare
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### fared
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "far", 172 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (172 uses with inflections), unlikely to be wrong.**
+
 ### fast
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### fat
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fat", 149 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (149 uses with inflections), unlikely to be wrong.**
+
+### father
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "father", 1683 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1683 uses with inflections), unlikely to be wrong.**
+
+### father's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "father", 1683 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1683 uses with inflections), unlikely to be wrong.**
+
+### fathers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "father", 1683 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1683 uses with inflections), unlikely to be wrong.**
 
 ### fathoms
 - Acts 27:28: "Fathoms" is a precise nautical unit of depth, attested in Geneva1599 and DRC at this very verse ("twentie fathoms"/"twenty fathoms") and in Tyndale as "feddoms." No genuinely different period-attested word names this specific unit of measure without converting to a modern unit (BBE's "feet," an anachronistic conversion for KJV voice). Flagging for owner review.
 
 ### fatling
 - Isaiah 11:6: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
+
+### fatlings
+- King James whitelist review (animal): fattened young animals for slaughter; Geneva 1599 Matthew 22:4 reads "mine oxen and my fatlings are killed"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #439), owner approved all suggestions.**
+
+### fats
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fat", 149 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (149 uses with inflections), unlikely to be wrong.**
+
+### fatted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fat", 149 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (149 uses with inflections), unlikely to be wrong.**
+
+### fattest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fat", 149 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (149 uses with inflections), unlikely to be wrong.**
 
 ### fear
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -5543,9 +9188,29 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### feast
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "feast", 166 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (166 uses with inflections), unlikely to be wrong.**
+
+### feasted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "feast", 166 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (166 uses with inflections), unlikely to be wrong.**
+
+### feasting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "feast", 166 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (166 uses with inflections), unlikely to be wrong.**
+
+### feasts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "feast", 166 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (166 uses with inflections), unlikely to be wrong.**
+
 ### feeding
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### feet
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "feet", 258 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (258 uses with inflections), unlikely to be wrong.**
 
 ### feign
 - II Samuel 14:2: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'feign').
@@ -5559,6 +9224,18 @@ zuzims
 - II Samuel 14:2: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'feign').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### fell
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fell", 246 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (246 uses with inflections), unlikely to be wrong.**
+
+### felled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fell", 246 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (246 uses with inflections), unlikely to be wrong.**
+
+### felling
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fell", 246 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (246 uses with inflections), unlikely to be wrong.**
+
 ### felloes
 - I Kings 7:33: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, were all molten.
 
@@ -5566,43 +9243,203 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### field
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "field", 355 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (355 uses with inflections), unlikely to be wrong.**
+
+### fields
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "field", 355 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (355 uses with inflections), unlikely to be wrong.**
+
+### fifteen
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fifteen", 24 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### fifteenth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fifteenth", 18 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### fifth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fifth", 61 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### fifties
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fifty", 165 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### fiftieth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fiftieth", 4 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### fifty
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fifty", 165 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### fig
+- King James whitelist review (plant): a named fruit/tree (fig tree, figs); nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2301), owner approved all suggestions.**
+
 ### fig-trees
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### fight
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fight", 115 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (115 uses with inflections), unlikely to be wrong.**
+
+### fighteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fight", 115 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (115 uses with inflections), unlikely to be wrong.**
+
+### fighting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fight", 115 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (115 uses with inflections), unlikely to be wrong.**
+
 ### file
 - I Samuel 13:21: CUR is unchanged from OLD — the tool "file" (a metalworking implement) is attested by name in Geneva1599 ("a file for the shares...") and every other period/modern witness except RWebster and BSB, which do not swap the word but wholesale reinterpret the verse's economics (a shekel-charge reading), which would mean inventing new clause content rather than a genuine word-for-word or phrase-for-phrase swap. No local witness offers a simple, genuinely different word for this specific tool. Flagging for owner review.
+
+### fill
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fill", 223 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+
+### filled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fill", 223 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+
+### fillest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fill", 223 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+
+### filleth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fill", 223 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+
+### filling
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fill", 223 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
 
 ### filth
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### find
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "find", 196 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+
+### findest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "find", 196 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+
+### findeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "find", 196 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+
+### finding
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "find", 196 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+
+### fine
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fine", 119 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+
+### finest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fine", 119 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+
+### fining
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fine", 119 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+
 ### finisher
 - Hebrews 12:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.
+
+### fir
+- King James whitelist review (plant): tree species (I Kings 5:8, 5:10 "fir trees") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1614), owner approved all suggestions.**
+
+### fire
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fire", 551 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (551 uses with inflections), unlikely to be wrong.**
+
+### fires
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fire", 551 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (551 uses with inflections), unlikely to be wrong.**
+
+### first
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "first", 436 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### firstborn
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "firstborn", 118 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+
+### firstling
+- King James whitelist review (genealogy): kinship/lineage "firstborn"-type term for animal offspring (Ex 13:12; Gen 4:4) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1550), owner approved all suggestions.**
+
+### firstlings
+- King James whitelist review (genealogy): kinship/lineage "firstborn"-type term for animal offspring (Ex 13:12; Gen 4:4) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1550), owner approved all suggestions.**
 
 ### fishers
 - Isaiah 19:8: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'fishers').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### fitches
+- King James whitelist review (plant): herb/vetch crop; Geneva 1599 Isaiah 28:25 reads "sowe the fitches"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #442), owner approved all suggestions.**
+
+### five
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "five", 345 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### flagons
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### flags
+- King James whitelist review (plant): reed/rush plant (Exodus 2:3,5; Isaiah 19:6; Jonah 2:5), noun only in these refs
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #229), owner approved all suggestions.**
 
 ### flatteries
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### flax
+- King James whitelist review (plant): fiber crop (Ex 9:31, Josh 2:6, Prov 31:13, Isa 42:3)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1104), owner approved all suggestions.**
+
+### fled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fled", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
 ### flee
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### flesh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "flesh", 423 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (423 uses with inflections), unlikely to be wrong.**
 
 ### flew
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### flock
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "flock", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+
+### flocks
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "flock", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+
 ### floodgates
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### foal
+- King James whitelist review (animal): young ass/horse; Geneva 1599 Genesis 49:11 reads "Asse foale", Tyndale reads "fole" — cross-translation agreement on the referent
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #234), owner approved all suggestions.**
 
 ### foameth
 - Mark 9:18: CUR "foams" is merely a modernized spelling of the same verb, not a genuine swap. No period witness offers a distinct word for this specific medical symptom without altering the description. Flagging for owner review.
@@ -5619,13 +9456,49 @@ zuzims
 - I Chronicles 21:12: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'foes').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### follow
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "follow", 253 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+
+### followed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "follow", 253 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+
 ### followers
 - I Corinthians 4:16: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'followers').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### followeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "follow", 253 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+
+### following
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "follow", 253 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+
+### fool
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fool", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### fool's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fool", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
 ### foolishly
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### fools
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fool", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### foot
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "foot", 97 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (97 uses with inflections), unlikely to be wrong.**
+
+### for
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "for", 9015 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (9015 uses with inflections), unlikely to be wrong.**
 
 ### forbare
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -5651,6 +9524,14 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### forest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "for", 9015 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (9015 uses with inflections), unlikely to be wrong.**
+
+### forests
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "for", 9015 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (9015 uses with inflections), unlikely to be wrong.**
+
 ### forever
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
@@ -5663,6 +9544,14 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### forgive
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forgive", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### forgiven
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forgive", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
 ### forgiveness
 - Psalms 130:4: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'forgiveness').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
@@ -5671,9 +9560,65 @@ zuzims
 - Psalms 130:4: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'forgiveness').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### forgiveth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forgive", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### forgiving
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forgive", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### form
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "form", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### formed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "form", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### former
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "form", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### formeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "form", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### forms
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "form", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### forsake
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forsake", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
+### forsaken
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forsake", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
+### forsaketh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forsake", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
+### forsaking
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "forsake", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
 ### forth
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### fortieth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fortieth", 4 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### forty
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "forty", 158 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### forty's
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "forty", 158 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
 
 ### foul
 - Genesis 41:19: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'foul').
@@ -5683,9 +9628,49 @@ zuzims
 - Genesis 41:19: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'foul').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### found
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "found", 423 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (423 uses with inflections), unlikely to be wrong.**
+
+### founded
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "found", 423 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (423 uses with inflections), unlikely to be wrong.**
+
+### founder
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "found", 423 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (423 uses with inflections), unlikely to be wrong.**
+
+### foundest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "found", 423 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (423 uses with inflections), unlikely to be wrong.**
+
+### fountain
+- King James whitelist review (location): a natural water-source place (geographic feature); nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2167), owner approved all suggestions.**
+
+### four
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "four", 330 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### fourfooted
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### fourscore
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fourscore", 36 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### fourteen
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fourteen", 26 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### fourteenth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fourteenth", 25 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### fourth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "fourth", 84 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
 
 ### fowlers
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -5694,6 +9679,10 @@ zuzims
 ### fox
 - Nehemiah 4:3: CUR's "like" is a clear error with no sense at all. Every local witness (Wycliffe, Geneva, DRC, and all English revisions) keeps "fox" for this specific animal in Tobiah's taunt, and no alternative small climbing animal is attested anywhere in the KJV corpus (e.g. "jackal" does not occur; the KJV consistently uses "dragons" for that referent). Substituting a different animal would change the content of the taunt, not just its wording.
 - Luke 13:32: Same reasoning as Nehemiah 4:3. "That fox" is Jesus' specific epithet for Herod; every witness keeps "fox," and no attested KJV-corpus synonym exists for this animal without changing the content of the saying.
+
+### frankincense
+- King James whitelist review (plant): aromatic tree-resin/spice (Ex 30:34, Lev 2:1-2, Song 3:6, 4:6,14, Matt 2:11)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1424), owner approved all suggestions.**
 
 ### fray
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -5710,12 +9699,44 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### friend
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "friend", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### friends
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "friend", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
 ### frog
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### from
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "from", 3661 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3661 uses with inflections), unlikely to be wrong.**
+
+### fruit
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fruit", 250 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (250 uses with inflections), unlikely to be wrong.**
+
+### fruits
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fruit", 250 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (250 uses with inflections), unlikely to be wrong.**
+
 ### fryingpan
 - Leviticus 7:9: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest’s that offereth it.
+
+### fulfil
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fulfil", 112 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+
+### fulfilled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fulfil", 112 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+
+### fulfilling
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "fulfil", 112 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
 
 ### fuller
 - Mark 9:3: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them.
@@ -5734,6 +9755,10 @@ zuzims
 ### galbanum
 - Exodus 30:34: "Galbanum" is a specific transliterated spice name in a fixed list (stacte, onycha, galbanum, frankincense) with no true synonym; every witness keeps the word itself. Confirms the original note that no safe swap exists.
 
+### gall
+- King James whitelist review (plant): bitter root/plant, paired with wormwood in most occurrences (Deut 29:18 "root that beareth gall and wormwood," Deut 32:32 "grapes of gall," Ps 69:21, Lam 3:19); the word also covers bile/venom elsewhere in the corpus, but the plant sense is independently attested
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1386), owner approved all suggestions.**
+
 ### galloping
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
@@ -5742,8 +9767,28 @@ zuzims
 - Esther 5:14: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'gallows').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### garden
+- King James whitelist review (location): a named cultivated place (garden of Eden, garden of Gethsemane); nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2302), owner approved all suggestions.**
+
 ### garlick
 - Numbers 11:5: CUR's "garlic" is merely a modernized spelling of the identical word, not a genuinely different word, which the rules forbid. No true synonym exists for this specific vegetable in a fixed list of Egyptian produce; every witness keeps the word itself. Confirms the original note that no safe swap exists.
+
+### garment
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "garment", 196 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+
+### garments
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "garment", 196 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (196 uses with inflections), unlikely to be wrong.**
+
+### gate
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gate", 416 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (416 uses with inflections), unlikely to be wrong.**
+
+### gates
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gate", 416 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (416 uses with inflections), unlikely to be wrong.**
 
 ### gatherers
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -5753,9 +9798,53 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### genealogies
+- King James whitelist review (genealogy): the category word itself — lineage records (I Chron 5:1, Neh 7:5) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1673), owner approved all suggestions.**
+
+### genealogy
+- King James whitelist review (genealogy): the category word itself — lineage records (I Chron 5:1, Neh 7:5) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1673), owner approved all suggestions.**
+
+### generation
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "generation", 225 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (225 uses with inflections), unlikely to be wrong.**
+
+### generations
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "generation", 225 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (225 uses with inflections), unlikely to be wrong.**
+
 ### gentle
 - Psalms 55:21: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'gentle').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### get
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "get", 133 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (133 uses with inflections), unlikely to be wrong.**
+
+### getteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "get", 133 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (133 uses with inflections), unlikely to be wrong.**
+
+### getting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "get", 133 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (133 uses with inflections), unlikely to be wrong.**
+
+### giant
+- King James whitelist review (animal): named class of beings/creatures (Gen 6:4 "giants in the earth"; Num 13:33) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1589), owner approved all suggestions.**
+
+### giants
+- King James whitelist review (animal): named class of beings/creatures (Gen 6:4 "giants in the earth"; Num 13:33) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1589), owner approved all suggestions.**
+
+### gift
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gift", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+
+### gifts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gift", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
 
 ### girdedst
 - John 21:18: CUR's bare "gird" breaks the past-tense narrative ("thou gird thyself...and walkedst") and, since it shares the same root as the flagged word, would not be a genuinely different word even if the tense were fixed. No witness offers an alternate verb for this specific self-girding action, and candidate substitutes ("clothedst," "dressedst," "arrayedst") are all unattested in the KJV corpus.
@@ -5827,24 +9916,112 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### goddess
+- King James whitelist review (proper-noun): deity-title for Diana/Artemis; Geneva 1599 Acts 19:35 reads "the great goddesse Diana" (Tyndale reads "goddas Diana")
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #455), owner approved all suggestions.**
+
 ### goest
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### gold
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gold", 483 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (483 uses with inflections), unlikely to be wrong.**
+
+### golden
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gold", 483 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (483 uses with inflections), unlikely to be wrong.**
+
+### gone
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gone", 213 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (213 uses with inflections), unlikely to be wrong.**
+
+### good
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "good", 765 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (765 uses with inflections), unlikely to be wrong.**
+
+### goods
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "good", 765 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (765 uses with inflections), unlikely to be wrong.**
+
+### gospel
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gospel", 105 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+
+### gospel's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "gospel", 105 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
 
 ### got
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### gourd
+- King James whitelist review (plant): Jonah's gourd plant (Jonah 4:6-10) and the wild gourd (II Kings 4:39); plant type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #625), owner approved all suggestions.**
+
+### grace
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grace", 171 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (171 uses with inflections), unlikely to be wrong.**
+
 ### grandmother
 - II Timothy 1:5: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.
+
+### grape
+- King James whitelist review (plant): fruit of the vine; forms (grape, grapes) are nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2084), owner approved all suggestions.**
 
 ### grass
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### grasshopper
+- King James whitelist review (animal): insect type-name (Lev 11:22, Num 13:33, Eccl 12:5)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1027), owner approved all suggestions.**
+
+### grave
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+
+### grave's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+
+### graved
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+
+### graven
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+
+### graves
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+
+### graveth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+
+### graving
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "grave", 154 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (154 uses with inflections), unlikely to be wrong.**
+
 ### gray
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### great
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "great", 1083 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1083 uses with inflections), unlikely to be wrong.**
+
+### greater
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "great", 1083 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1083 uses with inflections), unlikely to be wrong.**
+
+### greatest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "great", 1083 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1083 uses with inflections), unlikely to be wrong.**
 
 ### greatly
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -5878,12 +10055,32 @@ zuzims
 ### grievousness
 - Isaiah 21:15: Every witness (Wycliffe, Geneva, DRC, Darby, ASV, UKJV, ACV) keeps "grievousness of war"/"grievous battle" — none support "perverseness" here (that swap was mechanically carried over from the unrelated Isaiah 10:1 entry and does not fit "of war"). No period-authentic single-word substitute for "grievousness" in this sense is attested in the local witnesses that is also common in KJV.db; BSB's "stress of battle" and "sorrow of war" are both unattested constructions in the period witnesses. Recommend owner review rather than inventing an unsupported reading.
 
+### ground
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ground", 199 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+
+### grounded
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ground", 199 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+
+### grove
+- King James whitelist review (location): a place/stand of trees named as such (e.g. grove at Beersheba), physical geographic feature
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2030), owner approved all suggestions.**
+
 ### gutter
 - II Samuel 5:8: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, that are hated of David’s soul, he shall be chief and captain. Wherefore they said, The blind and the lame shall not come into the house.
+
+### had
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "had", 2027 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2027 uses with inflections), unlikely to be wrong.**
 
 ### hailstones
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### half
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "half", 136 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
 
 ### hall
 - Matthew 27:27: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'hall').
@@ -5896,6 +10093,46 @@ zuzims
 ### handmaidens
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### hang
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hang", 91 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+
+### hanged
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hang", 91 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+
+### hangeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hang", 91 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+
+### hanging
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hang", 91 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+
+### hangings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hang", 91 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (91 uses with inflections), unlikely to be wrong.**
+
+### hard
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hard", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### harden
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hard", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### hardened
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hard", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### hardeneth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hard", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### harder
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hard", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
 
 ### hare
 - Leviticus 11:6: "hare" names a specific animal (attested only 2x in KJV.db, both in this pair of dietary-law verses), not a general vocabulary item with synonyms. No witness offers an alternative English name, and "rabbit" (BSB's choice) is unattested anywhere in KJV.db (0 hits). There is no genuinely different, KJV-attested word for this referent.
@@ -5921,11 +10158,67 @@ zuzims
 - II Samuel 12:31: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.
 - I Chronicles 20:3: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And he brought out the people that were in it, and cut them with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.
 
+### hart
+- King James whitelist review (animal): male deer, a clean beast (Deut 12:15, Ps 42:1, Song 2:9,17)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1030), owner approved all suggestions.**
+
+### hast
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+
+### hasted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+
+### hasten
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+
+### hastened
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+
+### hasteneth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+
+### hasteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+
 ### hastily
 - Genesis 41:14: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'hastily').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### hasting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hast", 1123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1123 uses with inflections), unlikely to be wrong.**
+
+### hate
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hate", 188 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+
+### hated
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hate", 188 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+
+### hatest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hate", 188 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+
+### hateth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hate", 188 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+
+### hath
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hath", 2272 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2272 uses with inflections), unlikely to be wrong.**
+
+### hating
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hate", 188 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
 
 ### hats
 - Daniel 3:21: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace.
@@ -5933,6 +10226,10 @@ zuzims
 ### havens
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### hawk
+- King James whitelist review (animal): the bird of prey (Lev 11:16, Deut 14:13-15, Job 39:26); Geneva1599 independently agrees ("hawk")
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #631), owner approved all suggestions.**
 
 ### hazel
 - Genesis 30:37: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And Jacob took him rods of green poplar, and of the hazel and chesnut tree; and pilled white strakes in them, and made the white appear which was in the rods.
@@ -5945,9 +10242,133 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### heal
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heal", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### healed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heal", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### healeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heal", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### healing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heal", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### healings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heal", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
 ### heaps
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### hear
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+
+### heard
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heard", 656 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (656 uses with inflections), unlikely to be wrong.**
+
+### heardest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heard", 656 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (656 uses with inflections), unlikely to be wrong.**
+
+### hearer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+
+### hearers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+
+### hearest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+
+### heareth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+
+### hearing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hear", 653 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (653 uses with inflections), unlikely to be wrong.**
+
+### hearken
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hearken", 237 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (237 uses with inflections), unlikely to be wrong.**
+
+### hearkened
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hearken", 237 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (237 uses with inflections), unlikely to be wrong.**
+
+### hearkeneth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hearken", 237 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (237 uses with inflections), unlikely to be wrong.**
+
+### hearkening
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hearken", 237 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (237 uses with inflections), unlikely to be wrong.**
+
+### heart
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heart", 961 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (961 uses with inflections), unlikely to be wrong.**
+
+### heart's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heart", 961 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (961 uses with inflections), unlikely to be wrong.**
+
+### hearted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heart", 961 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (961 uses with inflections), unlikely to be wrong.**
+
+### hearts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heart", 961 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (961 uses with inflections), unlikely to be wrong.**
+
+### heathen
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heathen", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### heave
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heave", 747 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (747 uses with inflections), unlikely to be wrong.**
+
+### heaved
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heave", 747 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (747 uses with inflections), unlikely to be wrong.**
+
+### heaven
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heave", 747 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (747 uses with inflections), unlikely to be wrong.**
+
+### heaven's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heave", 747 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (747 uses with inflections), unlikely to be wrong.**
+
+### heavens
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "heave", 747 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (747 uses with inflections), unlikely to be wrong.**
+
+### heifer
+- King James whitelist review (animal): young cow (Num 19:2, Deut 21:3) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1554), owner approved all suggestions.**
+
+### heifer's
+- King James whitelist review (animal): young cow (Num 19:2, Deut 21:3) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1554), owner approved all suggestions.**
+
+### heir
+- King James whitelist review (genealogy): inheritance/succession term, lineage vocabulary (Gen 21:10; Rom 8:17 "heirs of God") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1863), owner approved all suggestions.**
+
+### heirs
+- King James whitelist review (genealogy): inheritance/succession term, lineage vocabulary (Gen 21:10; Rom 8:17 "heirs of God") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1863), owner approved all suggestions.**
 
 ### heldest
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -5955,6 +10376,34 @@ zuzims
 
 ### helm
 - James 3:4: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.
+
+### help
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+
+### helped
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+
+### helper
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+
+### helpers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+
+### helpeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+
+### helping
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+
+### helps
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "help", 195 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
 
 ### hen
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -5974,6 +10423,10 @@ zuzims
 - Genesis 13:7: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'herdmen').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### here
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "here", 162 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (162 uses with inflections), unlikely to be wrong.**
+
 ### heresies
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
@@ -5989,6 +10442,54 @@ zuzims
 - Leviticus 11:19: "heron" names a specific bird; no witness offers a different English name for it (only the neighboring word "lapwing"/"hoopoe" varies, which is a separate flagged item, not this one). There is no genuinely different, KJV-attested word for this referent.
 - Deuteronomy 14:18: Same as Leviticus 11:19 — "heron" names a specific bird with no attested KJV synonym.
 
+### hid
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hid", 158 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (158 uses with inflections), unlikely to be wrong.**
+
+### hidest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hid", 158 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (158 uses with inflections), unlikely to be wrong.**
+
+### hideth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hid", 158 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (158 uses with inflections), unlikely to be wrong.**
+
+### hiding
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hid", 158 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (158 uses with inflections), unlikely to be wrong.**
+
+### high
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "high", 457 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (457 uses with inflections), unlikely to be wrong.**
+
+### higher
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "high", 457 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (457 uses with inflections), unlikely to be wrong.**
+
+### highest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "high", 457 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (457 uses with inflections), unlikely to be wrong.**
+
+### hill
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hill", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
+### hill's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hill", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
+### hills
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hill", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
+### him
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "him", 6662 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6662 uses with inflections), unlikely to be wrong.**
+
+### himself
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "himself", 527 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (527 uses with inflections), unlikely to be wrong.**
+
 ### hinges
 - I Kings 7:50: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the bowls, and the snuffers, and the basons, and the spoons, and the censers of pure gold; and the hinges of gold, both for the doors of the inner house, the most holy place, and for the doors of the house, to wit, of the temple.
 - Proverbs 26:14: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): As the door turneth upon his hinges, so doth the slothful upon his bed.
@@ -5996,13 +10497,61 @@ zuzims
 ### hip
 - Judges 15:8: CUR "shoulder and thigh" breaks the well-known fixed idiom "hip and thigh" (meaning utter destruction), which every single witness (Wycliffe, Geneva1599, DRC, Webster, RWebster, YLT, Darby, ASV, UKJV, ACV) retains verbatim. "hip" is an entirely ordinary word, not archaic vocabulary; this looks like a false flag on a fixed idiomatic phrase rather than a genuine rare-word case. Recommend the roadmap process re-examine or remove this entry rather than break the idiom.
 
+### his
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "his", 8466 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8466 uses with inflections), unlikely to be wrong.**
+
+### hissing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "his", 8466 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8466 uses with inflections), unlikely to be wrong.**
+
 ### hoes
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### hold
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hold", 232 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (232 uses with inflections), unlikely to be wrong.**
+
+### holdest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hold", 232 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (232 uses with inflections), unlikely to be wrong.**
+
+### holdeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hold", 232 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (232 uses with inflections), unlikely to be wrong.**
+
+### holding
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hold", 232 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (232 uses with inflections), unlikely to be wrong.**
+
+### holds
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hold", 232 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (232 uses with inflections), unlikely to be wrong.**
+
 ### holy
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### honour
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "honour", 168 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+
+### honoured
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "honour", 168 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+
+### honourest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "honour", 168 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+
+### honoureth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "honour", 168 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+
+### honours
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "honour", 168 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
 
 ### hoods
 - Isaiah 3:23: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): The glasses, and the fine linen, and the hoods, and the vails.
@@ -6011,18 +10560,94 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### hope
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hope", 146 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+
+### hope's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hope", 146 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+
+### hoped
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hope", 146 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+
+### hopeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hope", 146 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+
+### hoping
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hope", 146 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+
+### horn
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "horn", 104 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+
 ### hornet
 - Joshua 24:12: "hornet" names a specific insect; every witness for this verse (including YLT, unlike at Deuteronomy 7:20) retains "hornet." No genuinely different, KJV-attested word exists for this referent here.
 
 ### hornets
 - Exodus 23:28: Same as Joshua 24:12 — every witness, including YLT, retains "hornet(s)" for this verse.
 
+### horns
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "horn", 104 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+
+### horse
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "horse", 155 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+
 ### horseleach
 - Proverbs 30:15: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): The horseleach hath two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:
+
+### horses
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "horse", 155 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+
+### host
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "host", 493 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (493 uses with inflections), unlikely to be wrong.**
+
+### hosts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "host", 493 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (493 uses with inflections), unlikely to be wrong.**
 
 ### houghed
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### hour
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hour", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### hours
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "hour", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### house
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "house", 2203 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2203 uses with inflections), unlikely to be wrong.**
+
+### houses
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "house", 2203 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2203 uses with inflections), unlikely to be wrong.**
+
+### how
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "how", 544 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (544 uses with inflections), unlikely to be wrong.**
+
+### hundred
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "hundred", 620 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### hundredfold
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "hundredfold", 7 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### hundreds
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "hundred", 620 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
 
 ### hundredth
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -6036,6 +10661,18 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### husband
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "husband", 145 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (145 uses with inflections), unlikely to be wrong.**
+
+### husband's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "husband", 145 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (145 uses with inflections), unlikely to be wrong.**
+
+### husbands
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "husband", 145 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (145 uses with inflections), unlikely to be wrong.**
+
 ### husk
 - II Kings 4:42: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And there came a man from Baal–shalisha, and brought the man of God bread of the firstfruits, twenty loaves of barley, and full ears of corn in the husk thereof. And he said, Give unto the people, that they may eat.
 
@@ -6043,9 +10680,29 @@ zuzims
 - Ephesians 5:19: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;
 - Colossians 3:16: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
+### hyssop
+- King James whitelist review (plant): herb used in purification rites (Ex 12:22, Lev 14:4, Ps 51:7, John 19:29)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1173), owner approved all suggestions.**
+
 ### idols
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+
+### if
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "if", 1595 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1595 uses with inflections), unlikely to be wrong.**
+
+### image
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "image", 174 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+
+### image's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "image", 174 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+
+### images
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "image", 174 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
 
 ### impart
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -6054,9 +10711,33 @@ zuzims
 ### imperious
 - Ezekiel 16:30: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): How weak is thine heart, saith the Lord God, seeing thou doest all these things, the work of an imperious whorish woman;
 
+### in
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "in", 12688 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (12688 uses with inflections), unlikely to be wrong.**
+
 ### incense
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+
+### increase
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "increase", 155 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+
+### increased
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "increase", 155 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+
+### increasest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "increase", 155 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+
+### increaseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "increase", 155 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
+
+### increasing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "increase", 155 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (155 uses with inflections), unlikely to be wrong.**
 
 ### inflict
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -6064,6 +10745,30 @@ zuzims
 
 ### influences
 - Job 38:31: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?
+
+### inhabitant
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "inhabitant", 238 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (238 uses with inflections), unlikely to be wrong.**
+
+### inhabitants
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "inhabitant", 238 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (238 uses with inflections), unlikely to be wrong.**
+
+### inheritance
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "inheritance", 241 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (241 uses with inflections), unlikely to be wrong.**
+
+### inheritances
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "inheritance", 241 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (241 uses with inflections), unlikely to be wrong.**
+
+### iniquities
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "iniquity", 333 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (333 uses with inflections), unlikely to be wrong.**
+
+### iniquity
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "iniquity", 333 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (333 uses with inflections), unlikely to be wrong.**
 
 ### insects
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -6073,11 +10778,43 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### into
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "into", 2016 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2016 uses with inflections), unlikely to be wrong.**
+
+### iron
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "iron", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### is
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "is", 6988 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6988 uses with inflections), unlikely to be wrong.**
+
+### island
+- King James whitelist review (location): coastland/geographic feature, "the isles/islands" of the nations and sea (Isa 11:11, 41:1, 42:15; Acts 27)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1336), owner approved all suggestions.**
+
+### isle
+- King James whitelist review (location): island, a geographic feature (Isa 20:6; Gen 10:5 "isles of the Gentiles") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1881), owner approved all suggestions.**
+
+### isles
+- King James whitelist review (location): island, a geographic feature (Isa 20:6; Gen 10:5 "isles of the Gentiles") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1881), owner approved all suggestions.**
+
+### it
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "it", 6149 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6149 uses with inflections), unlikely to be wrong.**
+
 ### itch
 - Deuteronomy 28:27: CUR's "the sun" is nonsensical mid-list of skin diseases. "itch" itself occurs only in this verse in the KJV corpus, but every witness (Wycliffe "yicchyng", Geneva "itche", DRC "itch") names the same ailment, and no other skin-disease word in the corpus (scab, scurvy, mange, murrain) is a distinct, unused synonym — the list already uses "scab" for a related term, and "mange"/"murrain" name animal diseases, not this human one.
 
 ### itching
 - II Timothy 4:3: CUR's "having having ears" is a duplication error. No word in the corpus captures the specific sense of an ear "itching" to hear pleasing things — "curious," "wanton," and other candidates change the sense (inquisitiveness or license, not itching desire), and "itch" itself is corpus-rare (see Deuteronomy 28:27 in this same batch), so no distinct, common substitute preserves the metaphor.
+
+### its
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "it", 6149 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6149 uses with inflections), unlikely to be wrong.**
 
 ### jacinth
 - Revelation 9:17: "jacinth" names a specific gem/color and every witness, period and modern, uses the same word or its close cognate "hyacinth" (DRC, ASV) — there is no attested synonym in the corpus, and the word is a technical term with no equivalent to substitute.
@@ -6087,13 +10824,85 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### journey
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "journey", 109 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+
+### journeyed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "journey", 109 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+
+### journeying
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "journey", 109 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+
+### journeys
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "journey", 109 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+
+### joy
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "joy", 170 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (170 uses with inflections), unlikely to be wrong.**
+
+### joyed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "joy", 170 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (170 uses with inflections), unlikely to be wrong.**
+
 ### joyful
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### joying
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "joy", 170 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (170 uses with inflections), unlikely to be wrong.**
+
+### judge
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+
+### judged
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+
+### judges
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+
+### judgest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+
+### judgeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+
+### judging
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judge", 338 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (338 uses with inflections), unlikely to be wrong.**
+
+### judgment
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judgment", 424 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (424 uses with inflections), unlikely to be wrong.**
+
+### judgments
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "judgment", 424 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (424 uses with inflections), unlikely to be wrong.**
+
+### juniper
+- King James whitelist review (plant): tree; Geneva 1599 I Kings 19:4 and Wycliffe both read "iuniper"/"iunypere tre"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #264), owner approved all suggestions.**
+
+### just
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "just", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
 ### keep
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### kept
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kept", 176 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (176 uses with inflections), unlikely to be wrong.**
 
 ### kettle
 - I Samuel 2:14: CUR's "basket" is the wrong kind of vessel entirely (a basket cannot hold boiling meat and broth, unlike the metal vessels the list names). Every witness, period and modern, keeps "kettle" or "cauldron"-type words, and the surrounding list already uses "pan," "caldron," and "pot" for the other three vessel-words, leaving no unused, genuinely different, attested vessel term for the fourth.
@@ -6106,17 +10915,93 @@ zuzims
 - Judges 3:25: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'key').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### kid
+- King James whitelist review (animal): a named creature (young goat); forms (kid, kids) are nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #2154), owner approved all suggestions.**
+
+### kill
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kill", 220 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+
+### killed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kill", 220 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+
+### killest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kill", 220 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+
+### killeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kill", 220 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+
+### killing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kill", 220 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (220 uses with inflections), unlikely to be wrong.**
+
 ### kin
 - Leviticus 18:6: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'kin').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### kindle
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kindle", 90 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (90 uses with inflections), unlikely to be wrong.**
+
+### kindled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kindle", 90 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (90 uses with inflections), unlikely to be wrong.**
+
+### kindleth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kindle", 90 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (90 uses with inflections), unlikely to be wrong.**
 
 ### kindly
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### kindred
+- King James whitelist review (genealogy): core lineage/descent term named in the genealogy category itself ("kindred, kindreds"), purely nominal
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1990), owner approved all suggestions.**
+
+### kine
+- King James whitelist review (animal): archaic plural of cow (Gen 41:2 "seven well favoured kine") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1676), owner approved all suggestions.**
+
+### king
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "king", 2874 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2874 uses with inflections), unlikely to be wrong.**
+
+### king's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "king", 2874 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2874 uses with inflections), unlikely to be wrong.**
+
+### kingdom
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kingdom", 401 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (401 uses with inflections), unlikely to be wrong.**
+
+### kingdoms
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "kingdom", 401 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (401 uses with inflections), unlikely to be wrong.**
+
+### kings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "king", 2874 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2874 uses with inflections), unlikely to be wrong.**
+
+### kinsman
+- King James whitelist review (genealogy): kinship vocabulary (Ruth 2:1 "a kinsman... of Elimelech") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1557), owner approved all suggestions.**
+
+### kinsman's
+- King James whitelist review (genealogy): kinship vocabulary (Ruth 2:1 "a kinsman... of Elimelech") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1557), owner approved all suggestions.**
+
 ### kinsmen
 - Ruth 2:20: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'kinsmen').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### kinswoman
+- King James whitelist review (genealogy): kinship term (a father's-side female relative); Geneva 1599 Leviticus 18:12 reads "thy fathers kinswoman"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #470), owner approved all suggestions.**
 
 ### kite
 - Leviticus 11:14: "kite" names a specific bird species in a list that already includes the closely related "falcon" as a separate item in several witnesses; no genuinely different, attested word names this particular bird without collapsing the distinction the list draws.
@@ -6126,9 +11011,45 @@ zuzims
 - Exodus 8:3: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:
 - Exodus 12:34: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.
 
+### knew
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "knew", 182 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (182 uses with inflections), unlikely to be wrong.**
+
+### knewest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "knew", 182 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (182 uses with inflections), unlikely to be wrong.**
+
 ### knoweth
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### knowledge
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "knowledge", 175 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+
+### known
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "known", 224 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (224 uses with inflections), unlikely to be wrong.**
+
+### labour
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "labour", 131 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (131 uses with inflections), unlikely to be wrong.**
+
+### laboured
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "labour", 131 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (131 uses with inflections), unlikely to be wrong.**
+
+### laboureth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "labour", 131 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (131 uses with inflections), unlikely to be wrong.**
+
+### labouring
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "labour", 131 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (131 uses with inflections), unlikely to be wrong.**
+
+### labours
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "labour", 131 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (131 uses with inflections), unlikely to be wrong.**
 
 ### lacking
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -6137,6 +11058,14 @@ zuzims
 ### ladder
 - Genesis 28:12: All four period witnesses (Wycliffe, Tyndale, Geneva1599, DRC) unanimously keep "ladder" at this iconic verse; the only witness offering a distinct word (BBE's "steps") is modern and would materially change the visual image of Jacob's vision (a staircase vs. a ladder) rather than merely rephrase it — exactly the kind of content change the rules forbid inventing.
   - **OWNER RULING 2026-07-17: DO NOT CHANGE — Jacob's ladder stays.**
+
+### laid
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "laid", 282 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (282 uses with inflections), unlikely to be wrong.**
+
+### lake
+- King James whitelist review (location): natural body of water named as such, "the lake of Gennesaret" (Luke 5:1) and "the lake" (Luke 8:22-33) — geographic feature
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1042), owner approved all suggestions.**
 
 ### lama
 - Matthew 27:46: "lama" is a transliterated Aramaic word (part of Christ's cry from the cross), not an English vocabulary choice; every witness keeps the same transliteration (with only minor spelling variation), and there is no English synonym for a foreign proper phrase.
@@ -6158,6 +11087,30 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### law
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "law", 543 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (543 uses with inflections), unlikely to be wrong.**
+
+### laws
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "law", 543 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (543 uses with inflections), unlikely to be wrong.**
+
+### lay
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lay", 275 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (275 uses with inflections), unlikely to be wrong.**
+
+### layest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lay", 275 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (275 uses with inflections), unlikely to be wrong.**
+
+### layeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lay", 275 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (275 uses with inflections), unlikely to be wrong.**
+
+### laying
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lay", 275 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (275 uses with inflections), unlikely to be wrong.**
+
 ### leach
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
@@ -6173,6 +11126,14 @@ zuzims
 ### leeks
 - Numbers 11:5: "grass" is a wrong referent entirely (leeks are a cultivated vegetable in a list of specific foods — cucumbers, melons, onions, garlic — not a fodder plant); no period witness offers any alternative to "leeks," which all thirteen witnesses retain unanimously. No safe period-authentic substitute exists for this specific vegetable name.
 
+### left
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "left", 351 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (351 uses with inflections), unlikely to be wrong.**
+
+### leftest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "left", 351 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (351 uses with inflections), unlikely to be wrong.**
+
 ### lefthanded
 - Judges 3:15: CUR's "a man served" loses the meaning entirely (Ehud's left-handedness is a plot-relevant detail — he hides his sword on the unexpected side). DRC's "used the left hand as well as the right" is a rephrase, not a single word, and every other witness keeps "left-handed." No attested period one-word substitute for this specific physical description was found; flag for owner review rather than accept a meaning-destroying swap.
 - Judges 20:16: Same reasoning as Judges 3:15 — "served" destroys the meaning (700 elite slingers noted for their left-handed skill), and no period witness or KJV-attested alternative word names this trait.
@@ -6180,24 +11141,288 @@ zuzims
 ### leg
 - Isaiah 47:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Take the millstones, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers.
 
+### legion
+- King James whitelist review (proper-noun): self-given name of the demon-possessed man, Mark 5:9/Luke 8:30 ("My name is Legion"), confirmed in Geneva 1599 and Tyndale both reading "Legion"; elsewhere used as an ordinary military-unit noun, but this occurrence is a proper name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #272), owner approved all suggestions.**
+
 ### lent
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### lentiles
+- King James whitelist review (plant): crop; Geneva 1599 Genesis 25:34 reads "pottage of lentiles" (Tyndale diverges, reading "redde ryse" for the same referent — Geneva alone suffices under the cross-translation exception)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #273), owner approved all suggestions.**
+
+### leopard
+- King James whitelist review (animal): the animal leopard (Isa 11:6, Jer 5:6, 13:23, Dan 7:6, Hos 13:7, Rev 13:2, Song 4:8, Hab 1:8); Geneva1599 independently agrees ("leopard")
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #855), owner approved all suggestions.**
 
 ### lesser
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### lest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lest", 241 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (241 uses with inflections), unlikely to be wrong.**
+
+### let
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "let", 1512 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1512 uses with inflections), unlikely to be wrong.**
+
+### lettest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "let", 1512 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1512 uses with inflections), unlikely to be wrong.**
+
+### letteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "let", 1512 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1512 uses with inflections), unlikely to be wrong.**
+
+### letting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "let", 1512 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1512 uses with inflections), unlikely to be wrong.**
+
+### leviathan
+- King James whitelist review (animal): named sea-creature; Geneva 1599 Psalms 74:14, 104:26, and Isaiah 27:1 all read "Liuiathan" (Job 41:1 Geneva does not name it directly, using pronouns instead — flagged for completeness)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #475), owner approved all suggestions.**
+
+### lice
+- King James whitelist review (animal): creature/plague-insect; Geneva 1599 Exodus 8:16 reads "turned to lyce"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #476), owner approved all suggestions.**
+
+### lie
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lie", 278 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (278 uses with inflections), unlikely to be wrong.**
+
+### lied
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lie", 278 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (278 uses with inflections), unlikely to be wrong.**
+
+### lies
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lie", 278 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (278 uses with inflections), unlikely to be wrong.**
+
+### liest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lie", 278 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (278 uses with inflections), unlikely to be wrong.**
+
+### lieth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lie", 278 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (278 uses with inflections), unlikely to be wrong.**
+
+### life
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "life", 450 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (450 uses with inflections), unlikely to be wrong.**
+
+### lift
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lift", 288 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (288 uses with inflections), unlikely to be wrong.**
+
+### lifted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lift", 288 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (288 uses with inflections), unlikely to be wrong.**
+
+### liftest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lift", 288 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (288 uses with inflections), unlikely to be wrong.**
+
+### lifteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lift", 288 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (288 uses with inflections), unlikely to be wrong.**
+
+### lifting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lift", 288 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (288 uses with inflections), unlikely to be wrong.**
+
+### light
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
+### lighted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
+### lighten
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
+### lightened
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
+### lighteneth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
+### lighter
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
+### lightest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
+### lighteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
+### lighting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
+### lights
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "light", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
+### like
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+
+### liked
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+
+### liken
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+
+### likened
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+
+### liketh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+
+### likewise
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "likewise", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### liking
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "like", 695 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (695 uses with inflections), unlikely to be wrong.**
+
+### lily
+- King James whitelist review (plant): flower (1 Kings 7:19-26, Song 2:1-2,16, Hos 14:5, Matt 6:28)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1338), owner approved all suggestions.**
+
+### line
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "line", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
+### linen
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "line", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
+### lines
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "line", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
+### lion
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lion", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### lion's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lion", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### lions
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lion", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### lip
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lip", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### lips
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lip", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### little
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "little", 244 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (244 uses with inflections), unlikely to be wrong.**
+
+### live
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+
+### lived
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+
+### liver
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+
+### lives
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+
+### livest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+
+### liveth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+
+### living
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "live", 594 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (594 uses with inflections), unlikely to be wrong.**
+
 ### lizard
 - Leviticus 11:30: This is a specific unclean-animal name in a list where every witness (including Wycliffe's Latin loanwords "stellio," "lacerta") retains a lizard-type creature; no period-attested alternative word names this same specific referent. Flag for owner review.
+
+### lo
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lo", 159 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (159 uses with inflections), unlikely to be wrong.**
+
+### locust
+- King James whitelist review (animal): insect (Ex 10:4; Joel 1:4) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1829), owner approved all suggestions.**
+
+### locusts
+- King James whitelist review (animal): insect (Ex 10:4; Joel 1:4) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1829), owner approved all suggestions.**
 
 ### lofty
 - Psalms 131:1: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'lofty').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### long
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "long", 245 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+
+### longed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "long", 245 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+
+### longer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "long", 245 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+
+### longeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "long", 245 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+
+### longing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "long", 245 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+
 ### looking
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### lord
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lord", 8099 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8099 uses with inflections), unlikely to be wrong.**
+
+### lord's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lord", 8099 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8099 uses with inflections), unlikely to be wrong.**
+
+### lords
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "lord", 8099 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (8099 uses with inflections), unlikely to be wrong.**
 
 ### love
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -6241,9 +11466,37 @@ zuzims
 ### mallows
 - Job 30:4: Every witness retains a specific plant name (mallows, nettles, salt-wort) with no consensus alternative; this is a specific botanical referent with no well-attested period-KJV substitute. Flag for owner review.
 
+### mammon
+- King James whitelist review (proper-noun): personified rival-master entity ("ye cannot serve God and mammon"); Tyndale Matthew 6:24 reads "mammon" (Geneva instead reads "riches" at that verse — flagging the split for the owner, since only one witness preserves the name)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #276), owner approved all suggestions.**
+
+### man
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "man", 2744 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2744 uses with inflections), unlikely to be wrong.**
+
+### man's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "man", 2744 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2744 uses with inflections), unlikely to be wrong.**
+
+### mandrakes
+- King James whitelist review (plant): the mandrake plant/fruit (Gen 30:14-16, Song 7:13); Geneva1599 independently agrees ("mandrakes")
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #643), owner approved all suggestions.**
+
+### manner
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "manner", 203 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (203 uses with inflections), unlikely to be wrong.**
+
+### manners
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "manner", 203 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (203 uses with inflections), unlikely to be wrong.**
+
 ### mansions
 - John 14:2: "Mansions" is the correct, widely-remembered KJV reading of this famous verse ("In my Father's house are many mansions"); round 1's swap to "habitations" (restoration #5506) has been reverted.
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — mansions stays.**
+
+### many
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "many", 556 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (556 uses with inflections), unlikely to be wrong.**
 
 ### mast
 - Proverbs 23:34: Every witness retains "mast" (or BBE's "sail-support," a rephrase not a swap) for this specific ship-part; no attested one-word alternative exists. Flag for owner review.
@@ -6251,6 +11504,22 @@ zuzims
 
 ### masts
 - Ezekiel 27:5: Every witness keeps "mast(s)" for this specific ship-part with no attested alternative. Flag for owner review.
+
+### matter
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "matter", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### matters
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "matter", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### may
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "may", 1142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1142 uses with inflections), unlikely to be wrong.**
+
+### mayest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "may", 1142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1142 uses with inflections), unlikely to be wrong.**
 
 ### measure
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -6264,9 +11533,33 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### meat
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meat", 297 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (297 uses with inflections), unlikely to be wrong.**
+
+### meats
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meat", 297 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (297 uses with inflections), unlikely to be wrong.**
+
 ### meddleth
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### meet
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meet", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+
+### meetest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meet", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+
+### meeteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meet", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+
+### meeting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "meet", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
 
 ### melons
 - Numbers 11:5: Same specific-vegetable problem as "leeks" flagged in the same verse (see batch 0057) — every witness retains a specific plant name with no consensus alternative. Flag for owner review.
@@ -6282,9 +11575,49 @@ zuzims
 ### menstealers
 - I Timothy 1:10: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;
 
+### mercies
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mercy", 321 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+
+### mercy
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mercy", 321 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (321 uses with inflections), unlikely to be wrong.**
+
 ### message
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### messenger
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "messenger", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+
+### messengers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "messenger", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+
+### mice
+- King James whitelist review (animal): creature; Geneva 1599 I Samuel 6:4 reads "fiue golden mise"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #281), owner approved all suggestions.**
+
+### midst
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "midst", 366 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (366 uses with inflections), unlikely to be wrong.**
+
+### might
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "might", 494 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (494 uses with inflections), unlikely to be wrong.**
+
+### mightest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "might", 494 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (494 uses with inflections), unlikely to be wrong.**
+
+### mightier
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mighty", 302 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (302 uses with inflections), unlikely to be wrong.**
+
+### mighty
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mighty", 302 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (302 uses with inflections), unlikely to be wrong.**
 
 ### mile
 - Matthew 5:41: "mile" names a specific Roman unit of compulsory service distance central to the saying's meaning; every witness (Tyndale, Geneva, DRC, Webster, ASV, UKJV, BSB) retains "mile," and no attested KJV synonym preserves the sense. Confirmed no safe one-word swap.
@@ -6294,6 +11627,46 @@ zuzims
 
 ### mills
 - Numbers 11:8: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the people went about, and gathered it, and ground it in mills, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
+
+### mind
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mind", 126 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+
+### minded
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mind", 126 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+
+### minding
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mind", 126 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+
+### minds
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mind", 126 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+
+### mine
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mine", 651 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (651 uses with inflections), unlikely to be wrong.**
+
+### minister
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "minister", 181 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (181 uses with inflections), unlikely to be wrong.**
+
+### ministered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "minister", 181 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (181 uses with inflections), unlikely to be wrong.**
+
+### ministereth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "minister", 181 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (181 uses with inflections), unlikely to be wrong.**
+
+### ministering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "minister", 181 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (181 uses with inflections), unlikely to be wrong.**
+
+### ministers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "minister", 181 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (181 uses with inflections), unlikely to be wrong.**
 
 ### ministry
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
@@ -6322,23 +11695,159 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### month
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "month", 309 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (309 uses with inflections), unlikely to be wrong.**
+
 ### monthly
 - Isaiah 47:13: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Thou art wearied in the multitude of thy counsels. Let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save thee from these things that shall come upon thee.
+
+### months
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "month", 309 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (309 uses with inflections), unlikely to be wrong.**
+
+### more
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "more", 693 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (693 uses with inflections), unlikely to be wrong.**
+
+### moreover
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "moreover", 171 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (171 uses with inflections), unlikely to be wrong.**
+
+### morning
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "morning", 227 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (227 uses with inflections), unlikely to be wrong.**
+
+### morrow
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "morrow", 103 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (103 uses with inflections), unlikely to be wrong.**
 
 ### mortal
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### most
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "most", 128 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (128 uses with inflections), unlikely to be wrong.**
+
+### moth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "moth", 340 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (340 uses with inflections), unlikely to be wrong.**
+
+### mother
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "moth", 340 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (340 uses with inflections), unlikely to be wrong.**
+
+### mother's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "moth", 340 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (340 uses with inflections), unlikely to be wrong.**
+
+### mothers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "moth", 340 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (340 uses with inflections), unlikely to be wrong.**
+
+### mount
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mount", 268 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+
 ### mountain
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### mounted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mount", 268 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+
+### mounting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mount", 268 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+
+### mounts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mount", 268 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+
+### mourn
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mourn", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
+### mourned
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mourn", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
+### mourneth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mourn", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
+### mourning
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mourn", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
 
 ### mouse
 - Leviticus 11:29: CUR's "mice" is a mere re-inflection of the flagged word "mouse" (same lemma, plural), which the grammar rules forbid. No attested KJV synonym exists for this specific unclean creature (checked: "rat" does not occur in the KJV corpus). Confirmed no safe one-word swap.
 - Isaiah 66:17: Same reasoning as Leviticus 11:29 — CUR's "mice" is a forbidden re-inflection of "mouse," and no genuine KJV synonym exists for this creature.
 
+### mouth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mouth", 442 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (442 uses with inflections), unlikely to be wrong.**
+
+### mouths
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "mouth", 442 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (442 uses with inflections), unlikely to be wrong.**
+
+### move
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "move", 105 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+
+### moved
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "move", 105 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+
+### moveth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "move", 105 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+
+### moving
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "move", 105 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (105 uses with inflections), unlikely to be wrong.**
+
+### much
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "much", 286 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (286 uses with inflections), unlikely to be wrong.**
+
 ### mufflers
 - Isaiah 3:19: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): The chains, and the bracelets, and the mufflers,
+
+### mulberry
+- King James whitelist review (plant): mulberry tree (II Sam 5:23-24); Geneva1599 agrees with "mulberie trees" (spelling variant of the same referent)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #485), owner approved all suggestions.**
+
+### mule
+- King James whitelist review (animal): animal (II Sam 13:29; I Kings 1:33) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1593), owner approved all suggestions.**
+
+### mules
+- King James whitelist review (animal): animal (II Sam 13:29; I Kings 1:33) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1593), owner approved all suggestions.**
+
+### multiplied
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "multiply", 92 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (92 uses with inflections), unlikely to be wrong.**
+
+### multiply
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "multiply", 92 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (92 uses with inflections), unlikely to be wrong.**
+
+### multiplying
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "multiply", 92 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (92 uses with inflections), unlikely to be wrong.**
+
+### multitude
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "multitude", 268 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
+
+### multitudes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "multitude", 268 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (268 uses with inflections), unlikely to be wrong.**
 
 ### murdered
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -6359,12 +11868,72 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### must
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "must", 132 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (132 uses with inflections), unlikely to be wrong.**
+
+### mustard
+- King James whitelist review (plant): mustard seed/plant (parable of the mustard seed, Matt 13:31 etc.); closed-class plant type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #486), owner approved all suggestions.**
+
+### my
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "my", 4367 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (4367 uses with inflections), unlikely to be wrong.**
+
+### myrrh
+- King James whitelist review (plant): aromatic resin/spice plant (Gen 37:25; Song 1:13) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1562), owner approved all suggestions.**
+
+### myrtle
+- King James whitelist review (plant): the myrtle tree (Neh 8:15, Isa 41:19, 55:13, Zech 1:8-11); plant type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #651), owner approved all suggestions.**
+
+### myself
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "myself", 118 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (118 uses with inflections), unlikely to be wrong.**
+
+### name
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "name", 1111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1111 uses with inflections), unlikely to be wrong.**
+
+### name's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "name", 1111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1111 uses with inflections), unlikely to be wrong.**
+
+### named
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "name", 1111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1111 uses with inflections), unlikely to be wrong.**
+
+### names
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "name", 1111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1111 uses with inflections), unlikely to be wrong.**
+
+### nameth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "name", 1111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1111 uses with inflections), unlikely to be wrong.**
+
 ### napkins
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### nation
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nation", 482 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (482 uses with inflections), unlikely to be wrong.**
+
+### nations
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nation", 482 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (482 uses with inflections), unlikely to be wrong.**
+
 ### naves
 - I Kings 7:33: CUR's "bodies" is a wrong-meaning substitute (naves are wheel-hubs, not bodies). "naves" names a specific chariot-wheel part alongside axletrees, felloes, and spokes already listed in the verse; no attested KJV synonym exists (checked: "hubs" does not occur in the corpus). Confirmed no safe one-word swap.
+
+### near
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "near", 212 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (212 uses with inflections), unlikely to be wrong.**
+
+### nearer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "near", 212 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (212 uses with inflections), unlikely to be wrong.**
 
 ### needed
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
@@ -6379,6 +11948,18 @@ zuzims
 ### needle's
 - Luke 18:25: Same reasoning — CUR is identical to OLD, confirming the auto-system also found no safe substitute for this well-known proverb's key object.
 
+### neighbour
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "neighbour", 157 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+
+### neighbour's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "neighbour", 157 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+
+### neighbours
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "neighbour", 157 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+
 ### neighing
 - Jeremiah 8:16: CUR's "neighings" is a mere re-inflection of "neighing" (same lemma, pluralized), which the grammar rules forbid. No attested KJV synonym exists for this specific horse-sound, distinct from "snorting" (a different Hebrew word already used earlier in this same verse). Confirmed no safe one-word swap.
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -6387,17 +11968,65 @@ zuzims
 ### neighings
 - Jeremiah 13:27: Same reasoning as Jeremiah 8:16 — no attested KJV synonym for this specific animal-sound metaphor for lust.
 
+### neither
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "neither", 878 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (878 uses with inflections), unlikely to be wrong.**
+
+### nettles
+- King James whitelist review (plant): the weed nettle (Job 30:7, Prov 24:31, Isa 34:13, Hos 9:6, Zeph 2:9); plant type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #487), owner approved all suggestions.**
+
+### nevertheless
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nevertheless", 97 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (97 uses with inflections), unlikely to be wrong.**
+
+### new
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "new", 152 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+
 ### newness
 - Romans 6:4: "newness of life" is a fixed theological phrase central to the verse's doctrine; every witness retains "newness," and no attested KJV synonym preserves the sense. Confirmed no safe one-word swap.
 - Romans 7:6: Same reasoning as Romans 6:4 — "newness of spirit" is a fixed theological phrase with no attested synonym.
+
+### news
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "new", 152 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+
+### nigh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nigh", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
 
 ### nights
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### nine
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "nine", 50 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### nineteen
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "nineteen", 3 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### nineteenth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "nineteenth", 4 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### ninety
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "ninety", 24 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### ninth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "ninth", 32 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### nitre
 - Proverbs 25:20: "nitre" names a specific mineral substance (natron); CUR's "thee" is nonsensical, confirming the auto-system found no fit. Checked: "nitre" occurs only twice in the entire KJV corpus (both these flagged verses), and no synonym exists locally — "soda," used by some later revisions, does not occur in the KJV corpus and would be anachronistic. Confirmed no safe one-word swap.
 - Jeremiah 2:22: Same reasoning as Proverbs 25:20 — CUR's "wash thee with thee" is nonsensical, and no attested KJV synonym exists for this substance.
+
+### no
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "no", 1393 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1393 uses with inflections), unlikely to be wrong.**
 
 ### noble
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -6407,8 +12036,64 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### noise
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "noise", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### noised
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "noise", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
 ### non
 - John 3:23: This entry is a false positive — the flagged string "non" is a substring of the place-name "Ænon," not an independent word. CUR is identical to OLD, and there is nothing here to swap.
+
+### none
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "none", 360 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (360 uses with inflections), unlikely to be wrong.**
+
+### nor
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nor", 757 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (757 uses with inflections), unlikely to be wrong.**
+
+### north
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "north", 134 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (134 uses with inflections), unlikely to be wrong.**
+
+### not
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "not", 6606 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6606 uses with inflections), unlikely to be wrong.**
+
+### noted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "not", 6606 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6606 uses with inflections), unlikely to be wrong.**
+
+### nothing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "nothing", 226 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (226 uses with inflections), unlikely to be wrong.**
+
+### now
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "now", 1359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1359 uses with inflections), unlikely to be wrong.**
+
+### number
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "number", 315 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+
+### numbered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "number", 315 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+
+### numberest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "number", 315 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+
+### numbering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "number", 315 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+
+### numbers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "number", 315 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
 
 ### numerous
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -6418,12 +12103,40 @@ zuzims
 - Genesis 43:11: "nuts" names a specific item among the listed gifts (balm, honey, spices, myrrh, almonds); every witness retains "nuts" or a specific botanical equivalent (e.g. "pistachios," not attested in the KJV corpus). Confirmed no safe one-word swap.
 - Song of Solomon 6:11: Same reasoning as Genesis 43:11 — "nuts" names a specific fruit-tree and every witness retains it.
 
+### oak
+- King James whitelist review (plant): tree species (Gen 35:4 "oak"; Isa 1:30) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1594), owner approved all suggestions.**
+
+### oaks
+- King James whitelist review (plant): tree species (Gen 35:4 "oak"; Isa 1:30) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1594), owner approved all suggestions.**
+
 ### oar
 - Ezekiel 27:29: CUR's "handle the thine" is broken (a pronoun substituted for the noun). "oar" occurs only once in the whole KJV corpus and no synonym for the specific rowing-implement exists locally. Confirmed no safe one-word swap.
 
 ### oars
 - Isaiah 33:21: Same reasoning as Ezekiel 27:29 — "oars" occurs only twice in the whole KJV corpus (both these flagged verses) with no attested synonym.
 - Ezekiel 27:6: Same reasoning — CUR's "thine thine" is a broken duplicate (confirming the auto-system found no fit), and no synonym for "oars" exists in the corpus.
+
+### obey
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "obey", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### obeyed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "obey", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### obeyeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "obey", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### obeying
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "obey", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### of
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "of", 34764 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (34764 uses with inflections), unlikely to be wrong.**
 
 ### offereth
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -6433,14 +12146,82 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### offspring
+- King James whitelist review (genealogy): descendants/lineage term (Job 5:25, 21:8, 27:14, Isa 22:24, 34:1, 44:3)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1177), owner approved all suggestions.**
+
+### oil
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "oil", 204 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+
+### oiled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "oil", 204 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (204 uses with inflections), unlikely to be wrong.**
+
+### old
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "old", 381 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (381 uses with inflections), unlikely to be wrong.**
+
 ### oldness
 - Romans 7:6: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
+
+### olive
+- King James whitelist review (plant): a named tree/fruit (olive tree, mount of Olives, olive branch); nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2212), owner approved all suggestions.**
+
+### on
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "on", 2094 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2094 uses with inflections), unlikely to be wrong.**
+
+### once
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "once", 59 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### one
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "one", 1981 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### one's
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "one", 1981 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### ones
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "on", 2094 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2094 uses with inflections), unlikely to be wrong.**
 
 ### onions
 - Numbers 11:5: "onions" is already the KJV's own word here, and it is independently attested identically in Wycliffe ("oyniouns"), Geneva1599, and DRC — a real ANE foodstuff with no other period name. The flag is spurious; CUR was already left unchanged, so no action is needed beyond confirming no swap is safe or necessary.
 
+### only
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "only", 253 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (253 uses with inflections), unlikely to be wrong.**
+
 ### onycha
 - Exodus 30:34: "onycha" is a technical spice-ingredient name attested unanimously across witnesses (Wycliffe "onyca," DRC/Geneva/others "onycha" or close cognates) with no true synonym; the King James agent's own note already found no safe swap, and CUR correctly left it unchanged.
+
+### open
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+
+### opened
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+
+### openest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+
+### openeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+
+### opening
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
+
+### openings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "open", 307 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (307 uses with inflections), unlikely to be wrong.**
 
 ### ospray
 - Leviticus 11:13: "ospray/osprey" is attested identically across Geneva1599 and DRC, and Wycliffe's parallel bird list shows the same tradition of untranslated technical bird-names. No period witness supports CUR's "buzzard," which is unattested locally; the King James agent's own note already found no safe swap. Restoring OLD.
@@ -6456,9 +12237,45 @@ zuzims
 ### ostriches
 - Lamentations 4:3: CUR "like the like" is a broken duplicate. "ostriches" is attested identically in Wycliffe ("ostrig"), Geneva1599, and DRC — a real bird with no synonym; the King James agent's own note already found no safe swap. Restoring OLD.
 
+### other
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "other", 536 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (536 uses with inflections), unlikely to be wrong.**
+
+### others
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "other", 536 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (536 uses with inflections), unlikely to be wrong.**
+
 ### otherwise
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### ought
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ought", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### oughtest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ought", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### our
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "our", 1176 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1176 uses with inflections), unlikely to be wrong.**
+
+### ours
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "our", 1176 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1176 uses with inflections), unlikely to be wrong.**
+
+### out
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "out", 2790 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2790 uses with inflections), unlikely to be wrong.**
+
+### outer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "out", 2790 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2790 uses with inflections), unlikely to be wrong.**
+
+### over
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "over", 1007 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1007 uses with inflections), unlikely to be wrong.**
 
 ### overshadow
 - Luke 1:35: CUR "shall might thee" is nonsensical. "overshadow" is unanimously attested across every witness with zero variation (Wycliffe "ouerschadewe," Tyndale "over shaddowe," Geneva1599 "ouershadowe," DRC "overshadow") and carries a deliberate echo of the Exodus cloud of God's presence; no synonym would preserve that resonance. The flag is spurious. Restoring OLD.
@@ -6467,9 +12284,21 @@ zuzims
 ### overtaken
 - Psalms 18:37: CUR "and overtake them" breaks the past-tense parallel with "I have pursued." This is merely a mis-inflected form of the same flagged word, not a genuine replacement, and no witness offers any true synonym — all retain "overtaken/overtook." Restoring the correct OLD tense.
 
+### owl
+- King James whitelist review (animal): bird named in the unclean-bird lists and desolation oracles (Lev 11:16-17, Deut 14:15-16, Isa 34:11-15)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1395), owner approved all suggestions.**
+
 ### own
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### ox
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ox", 188 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
+
+### oxen
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ox", 188 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
 
 ### pain
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -6477,6 +12306,14 @@ zuzims
 
 ### pale
 - Isaiah 29:22: CUR "wax green" wrongly changes the color entirely. "pale"/"paleness" recurs independently elsewhere in this very batch (Revelation 6:8, Jeremiah 30:6) with no witness offering a consistent alternative, showing it is ordinary period vocabulary rather than a genuine alteration artifact. No synonym for this fear-idiom is offered by any witness. Restoring OLD.
+
+### palm
+- King James whitelist review (plant): palm tree (e.g. Elim's threescore and ten palm trees, city of palm trees); note the same word-group also covers "palm of the hand" in some verses — a polysemy caveat, not a verb issue
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2071), owner approved all suggestions.**
+
+### palmerworm
+- King James whitelist review (animal): insect/locust-type creature (Joel 1:4, 2:25; Amos 4:9), closed-class taxonomic name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #54), owner approved all suggestions.**
 
 ### pan
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -6488,8 +12325,16 @@ zuzims
 ### paper
 - II John 1:12: CUR "reed and ink" wrongly conflates the writing material (paper/papyrus) with a writing instrument (a reed pen) — a real change of referent. Every witness (DRC, Webster, RWebster, YLT, ASV, BSB) unanimously and independently retains "paper," confirming it as genuine, unanimous period vocabulary. Restoring OLD.
 
+### paradise
+- King James whitelist review (location): named place (Eden/heaven); Geneva 1599 and Tyndale both read "Paradise"/"Paradyse" at Luke 23:43
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #295), owner approved all suggestions.**
+
 ### parchments
 - II Timothy 4:13: "parchments" is attested unanimously across every witness (Wycliffe "parchemyne," Geneva1599, DRC) as a real, specific writing material with no true synonym (vellum and scrolls name different materials). The King James agent's own note already found no safe swap; CUR correctly left it unchanged.
+
+### parents
+- King James whitelist review (genealogy): basic kinship term (Luke 2:27, 18:29) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1654), owner approved all suggestions.**
 
 ### partakest
 - Romans 11:17: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;
@@ -6509,9 +12354,33 @@ zuzims
 - I Samuel 26:20: "partridge" is attested unanimously across all witnesses, including Wycliffe's identical "partrich" — a real ANE bird with no synonym. The King James agent's own note already found no safe swap.
 - Jeremiah 17:11: Same reasoning as I Samuel 26:20 — unanimous attestation, no synonym.
 
+### pass
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pass", 1051 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1051 uses with inflections), unlikely to be wrong.**
+
 ### passages
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### passed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pass", 1051 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1051 uses with inflections), unlikely to be wrong.**
+
+### passest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pass", 1051 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1051 uses with inflections), unlikely to be wrong.**
+
+### passeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pass", 1051 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1051 uses with inflections), unlikely to be wrong.**
+
+### passing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pass", 1051 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1051 uses with inflections), unlikely to be wrong.**
+
+### pasture
+- King James whitelist review (location): a type of land/place (grazing ground); forms (pasture, pastures) are nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2032), owner approved all suggestions.**
 
 ### path
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -6525,12 +12394,20 @@ zuzims
 - Acts 7:8: CUR "patriarches" is merely an alternate spelling of the same flagged word, not a genuine replacement. "patriarchs" is attested unanimously (Wycliffe "patriarkis," DRC "patriarchs") with no synonym. Restoring OLD's spelling.
 - Acts 7:9: Same reasoning as Acts 7:8 — CUR is merely a spelling variant, not a genuine replacement. Restoring OLD.
 
+### peace
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "peace", 429 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (429 uses with inflections), unlikely to be wrong.**
+
 ### peaceable
 - Genesis 34:21: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'peaceable').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
 ### peacemakers
 - Matthew 5:9: "peacemakers" is attested unanimously across witnesses (Tyndale, Geneva1599, DRC all read "peacemakers" identically), confirming it as genuine period vocabulary with no better synonym.
+
+### peacocks
+- King James whitelist review (animal): creature; Geneva 1599 I Kings 10:22 reads "apes and peacockes"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #55), owner approved all suggestions.**
 
 ### pearl
 - Matthew 13:46: CUR "one pearls" is a grammar-breaking mismatch (singular "one" with a plural noun) caused by mere re-inflection of the flagged word, not a genuine replacement. Every witness retains the singular "pearl," matching "one" correctly. Restoring OLD.
@@ -6541,6 +12418,22 @@ zuzims
 
 ### peeped
 - Isaiah 10:14: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And my hand hath found as a nest the riches of the people: and as one gathereth eggs that are left, have I gathered all the earth; and there was none that moved the wing, or opened the mouth, or peeped.
+
+### pelican
+- King James whitelist review (animal): bird; Geneva 1599 Leviticus 11:18 reads "the pelicane"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #56), owner approved all suggestions.**
+
+### people
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "people", 2145 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2145 uses with inflections), unlikely to be wrong.**
+
+### people's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "people", 2145 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2145 uses with inflections), unlikely to be wrong.**
+
+### peoples
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "people", 2145 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2145 uses with inflections), unlikely to be wrong.**
 
 ### perdition
 - John 17:12: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'perdition').
@@ -6558,9 +12451,33 @@ zuzims
 - II Corinthians 11:26: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'perils').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### perish
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "perish", 157 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+
+### perished
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "perish", 157 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+
+### perisheth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "perish", 157 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+
+### perishing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "perish", 157 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (157 uses with inflections), unlikely to be wrong.**
+
 ### persecutors
 - Nehemiah 9:11: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'persecutors').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### person
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "person", 112 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
+
+### persons
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "person", 112 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (112 uses with inflections), unlikely to be wrong.**
 
 ### persuasion
 - Galatians 5:8: "persuasion" is attested unanimously across witnesses (Geneva1599 "perswasion," DRC, Webster, RWebster, ASV, UKJV, ACV, BSB), confirming it as genuine period vocabulary with no synonym. The King James agent's own note already found no safe swap.
@@ -6585,6 +12502,26 @@ zuzims
 ### phylacteries
 - Matthew 23:5: "phylacteries" names a specific Jewish ritual object (tefillin); every witness, period and modern (Wycliffe "filateries," Tyndale "philateries," Geneva, DRC, BSB), retains the same loanword with no true English synonym available.
 
+### piece
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "piece", 167 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (167 uses with inflections), unlikely to be wrong.**
+
+### pieces
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "piece", 167 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (167 uses with inflections), unlikely to be wrong.**
+
+### pigeons
+- King James whitelist review (animal): sacrificial bird type-name (Gen 15:9, Lev 1:14, 5:7, 12:6)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1051), owner approved all suggestions.**
+
+### pillar
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pillar", 137 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (137 uses with inflections), unlikely to be wrong.**
+
+### pillars
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pillar", 137 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (137 uses with inflections), unlikely to be wrong.**
+
 ### pinnacle
 - Matthew 4:5: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,
 - Luke 4:9: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said unto him, If thou be the Son of God, cast thyself down from hence:
@@ -6592,16 +12529,96 @@ zuzims
 ### pipers
 - Revelation of John 18:22: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft he be, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;
 
+### pit
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pit", 96 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (96 uses with inflections), unlikely to be wrong.**
+
+### pitch
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pitch", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### pitched
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pitch", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### pitcher
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pitch", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### pitchers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pitch", 122 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (122 uses with inflections), unlikely to be wrong.**
+
+### pits
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pit", 96 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (96 uses with inflections), unlikely to be wrong.**
+
+### place
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "place", 939 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (939 uses with inflections), unlikely to be wrong.**
+
+### placed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "place", 939 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (939 uses with inflections), unlikely to be wrong.**
+
+### places
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "place", 939 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (939 uses with inflections), unlikely to be wrong.**
+
 ### plagues
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### plain
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plain", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### plains
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plain", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
 ### planes
 - Isaiah 44:13: "planes" here names the carpenter's tool; Geneva1599's "he planeth it" and DRC's "a plane" both confirm the same referent with no alternate English word available, and ASV/BSB (chisels/plane) do not offer a period-attested single-word substitute that fits the KJV list-of-tools construction without altering meaning.
+
+### plant
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plant", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### planted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plant", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### planteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plant", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### planting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plant", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### plants
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "plant", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### please
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "please", 120 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (120 uses with inflections), unlikely to be wrong.**
+
+### pleased
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "please", 120 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (120 uses with inflections), unlikely to be wrong.**
 
 ### pleasers
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### pleaseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "please", 120 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (120 uses with inflections), unlikely to be wrong.**
+
+### pleasing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "please", 120 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (120 uses with inflections), unlikely to be wrong.**
 
 ### plough
 - Luke 9:62: CUR's "plow" is merely a modernized respelling of the same word, not a genuine substitute, so it fails the requirement that the flagged word actually be replaced. No witness (Wycliffe, Tyndale, Geneva1599, Darby, DRC) offers a different English word for this basic farming implement — there is no period-attested synonym for "plough" as a noun.
@@ -6624,6 +12641,30 @@ zuzims
 ### polishing
 - Lamentations 4:7: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
 
+### pomegranate
+- King James whitelist review (plant): fruit/tree (Ex 28:33; Num 13:23) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1882), owner approved all suggestions.**
+
+### pomegranates
+- King James whitelist review (plant): fruit/tree (Ex 28:33; Num 13:23) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1882), owner approved all suggestions.**
+
+### pool
+- King James whitelist review (location): natural/artificial body of water as a geographic feature (II Sam 2:13 "pool of Gibeon"; Eccl 2:6) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1832), owner approved all suggestions.**
+
+### pools
+- King James whitelist review (location): natural/artificial body of water as a geographic feature (II Sam 2:13 "pool of Gibeon"; Eccl 2:6) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1832), owner approved all suggestions.**
+
+### poor
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "poor", 207 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+
+### poorest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "poor", 207 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+
 ### poplar
 - Genesis 30:37: "poplar" names a specific tree species; every witness (Wycliffe "popeleris," Tyndale/Geneva "popular," DRC "poplar") keeps the same word, and no English synonym for this tree exists in the corpus.
 
@@ -6633,6 +12674,222 @@ zuzims
 ### porters
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### portion
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "portion", 126 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+
+### portions
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "portion", 126 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (126 uses with inflections), unlikely to be wrong.**
+
+### possess
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possess", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+
+### possessed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possess", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+
+### possessest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possess", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+
+### possesseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possess", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+
+### possessing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possess", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
+
+### possession
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possession", 119 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+
+### possessions
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "possession", 119 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+
+### posterity
+- King James whitelist review (genealogy): kinship/lineage term for one's descendants (used of continuing seed/line); kindred-type word, not a verb
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #948), owner approved all suggestions.**
+
+### pour
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pour", 165 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+
+### poured
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pour", 165 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+
+### poureth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pour", 165 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+
+### pouring
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pour", 165 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+
+### power
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "power", 289 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (289 uses with inflections), unlikely to be wrong.**
+
+### powers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "power", 289 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (289 uses with inflections), unlikely to be wrong.**
+
+### praise
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "praise", 312 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (312 uses with inflections), unlikely to be wrong.**
+
+### praised
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "praise", 312 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (312 uses with inflections), unlikely to be wrong.**
+
+### praises
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "praise", 312 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (312 uses with inflections), unlikely to be wrong.**
+
+### praiseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "praise", 312 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (312 uses with inflections), unlikely to be wrong.**
+
+### praising
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "praise", 312 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (312 uses with inflections), unlikely to be wrong.**
+
+### pray
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+
+### prayed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+
+### prayer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+
+### prayers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+
+### prayest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+
+### prayeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+
+### praying
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pray", 540 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (540 uses with inflections), unlikely to be wrong.**
+
+### preach
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### preached
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### preacher
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### preachest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### preacheth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### preaching
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "preach", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### prepare
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prepare", 193 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+
+### prepared
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prepare", 193 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+
+### preparest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prepare", 193 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+
+### prepareth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prepare", 193 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+
+### preparing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prepare", 193 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+
+### presence
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "presence", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### present
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "present", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### presented
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "present", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### presenting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "present", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### presents
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "present", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### priest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "priest", 944 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (944 uses with inflections), unlikely to be wrong.**
+
+### priest's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "priest", 944 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (944 uses with inflections), unlikely to be wrong.**
+
+### priests
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "priest", 944 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (944 uses with inflections), unlikely to be wrong.**
+
+### prince
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prince", 377 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (377 uses with inflections), unlikely to be wrong.**
+
+### prince's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prince", 377 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (377 uses with inflections), unlikely to be wrong.**
+
+### princes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prince", 377 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (377 uses with inflections), unlikely to be wrong.**
+
+### prison
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prison", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
+### prisoner
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prison", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
+### prisoners
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prison", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
+### prisons
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prison", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
 
 ### profess
 - Deuteronomy 26:3: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'profess').
@@ -6662,13 +12919,41 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### promise
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "promise", 119 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+
+### promised
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "promise", 119 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+
+### promises
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "promise", 119 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+
+### promising
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "promise", 119 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (119 uses with inflections), unlikely to be wrong.**
+
 ### prophesyings
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### prophet
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prophet", 482 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (482 uses with inflections), unlikely to be wrong.**
+
+### prophet's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prophet", 482 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (482 uses with inflections), unlikely to be wrong.**
+
 ### prophetess
 - Exodus 15:20: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'prophetess').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### prophets
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "prophet", 482 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (482 uses with inflections), unlikely to be wrong.**
 
 ### prosperous
 - Genesis 24:21: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'prosperous').
@@ -6678,8 +12963,44 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### province
+- King James whitelist review (location): a named administrative region/place; nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2233), owner approved all suggestions.**
+
 ### pruning
 - Isaiah 18:5: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): For afore the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he shall both cut off the sprigs with pruning hooks, and take away and cut down the branches.
+
+### pulse
+- King James whitelist review (plant): crop/food term (legumes), Daniel 1:12,16; noun throughout, not a verb
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #78), owner approved all suggestions.**
+
+### pure
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pure", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### purer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "pure", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### put
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "put", 970 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (970 uses with inflections), unlikely to be wrong.**
+
+### puttest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "put", 970 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (970 uses with inflections), unlikely to be wrong.**
+
+### putteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "put", 970 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (970 uses with inflections), unlikely to be wrong.**
+
+### putting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "put", 970 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (970 uses with inflections), unlikely to be wrong.**
+
+### quails
+- King James whitelist review (animal): bird; Geneva 1599 Exodus 16:13 reads "the quailes came"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #308), owner approved all suggestions.**
 
 ### quake
 - Joel 2:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quake').
@@ -6692,6 +13013,14 @@ zuzims
 ### quaking
 - Joel 2:10: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quake').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### quarter
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "quarter", 19 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### quarters
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "quarter", 19 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
 
 ### quaternions
 - Acts 12:4: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
@@ -6715,27 +13044,127 @@ zuzims
 - Genesis 27:3: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'quiver').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### rain
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rain", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+
 ### rainbow
 - Revelation 4:3: every witness (Wycliffe "reynbowe," Tyndale/Geneva "rayne bowe"/"rainbowe," DRC "rainbow") retains the same word; there is no genuinely different period-authentic term for this specific referent (an arc of light round the throne) that isn't itself "rainbow." CUR left the text unchanged from OLD, correctly signaling no safe swap exists.
 - Revelation 10:1: same reasoning as Revelation 4:3 above — no witness offers an alternative word for this referent.
 
+### rained
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rain", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+
 ### rainy
 - Proverbs 27:15: every witness (Wycliffe "coold," recast; Geneva/DRC/YLT "day of raine") retains "rain/rainy" as the operative word; no genuinely different period-authentic alternative names this specific weather referent without circumlocution that would alter the proverb's plain sense.
+
+### raise
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "raise", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### raised
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "raise", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### raiseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "raise", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### raising
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "raise", 156 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (156 uses with inflections), unlikely to be wrong.**
+
+### raisins
+- King James whitelist review (plant): dried-grape foodstuff; Geneva 1599 I Samuel 25:18 reads "frailes of raisins"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #312), owner approved all suggestions.**
+
+### ram
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ram", 178 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (178 uses with inflections), unlikely to be wrong.**
+
+### ram's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ram", 178 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (178 uses with inflections), unlikely to be wrong.**
 
 ### rampart
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### rams
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ram", 178 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (178 uses with inflections), unlikely to be wrong.**
+
+### ready
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ready", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### reason
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reason", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### reasoned
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reason", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### reasoning
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reason", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### reasons
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reason", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
 ### rebuketh
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### receive
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "receive", 383 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (383 uses with inflections), unlikely to be wrong.**
+
+### received
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "receive", 383 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (383 uses with inflections), unlikely to be wrong.**
+
+### receiveth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "receive", 383 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (383 uses with inflections), unlikely to be wrong.**
+
+### receiving
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "receive", 383 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (383 uses with inflections), unlikely to be wrong.**
 
 ### red
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### redeem
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "redeem", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
+### redeemed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "redeem", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
+### redeemer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "redeem", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
+### redeemeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "redeem", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
+### redeeming
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "redeem", 142 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (142 uses with inflections), unlikely to be wrong.**
+
 ### redness
 - Proverbs 23:29: every period witness (Wycliffe "puttyng out of iyen," Geneva/DRC/YLT/Darby "redness of eyes") retains the same referent; only BSB's modern "bloodshot eyes" differs, and "bloodshot" has 0 KJV occurrences (rule 4 violation). No genuinely different period-authentic term for this referent exists in the corpus.
+
+### reed
+- King James whitelist review (plant): a named plant (marsh/river reed, reed as measuring rod); nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2102), owner approved all suggestions.**
 
 ### refiner's
 - Malachi 3:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner’s fire, and like fullers’ soap:
@@ -6743,6 +13172,34 @@ zuzims
 ### regeneration
 - Matthew 19:28: every witness retains "regeneration" itself (Wycliffe "regeneracioun," Geneva/DRC/Webster/ASV/Darby "regeneration"); only BSB differs with "renewal," which has 0 KJV occurrences (rule 4 violation). No genuinely different, well-attested period term exists for this specific eschatological referent.
 - Titus 3:5: same reasoning as Matthew 19:28 above. Geneva/BBE read "new birth," but that phrase has 0 KJV occurrences (rule 4 violation); "renewal" likewise 0 hits. No genuinely different, well-attested period term exists for this referent.
+
+### region
+- King James whitelist review (location): literal geographic region (Deut 3:4 "region of Argob"; Acts 8:1 "regions of Judea") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1520), owner approved all suggestions.**
+
+### regions
+- King James whitelist review (location): literal geographic region (Deut 3:4 "region of Argob"; Acts 8:1 "regions of Judea") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1520), owner approved all suggestions.**
+
+### reign
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reign", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+
+### reigned
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reign", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+
+### reignest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reign", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+
+### reigneth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reign", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+
+### reigning
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reign", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
 
 ### rejoice
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -6755,6 +13212,66 @@ zuzims
 ### religion
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### remain
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remain", 184 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (184 uses with inflections), unlikely to be wrong.**
+
+### remained
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remain", 184 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (184 uses with inflections), unlikely to be wrong.**
+
+### remainest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remain", 184 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (184 uses with inflections), unlikely to be wrong.**
+
+### remaineth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remain", 184 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (184 uses with inflections), unlikely to be wrong.**
+
+### remaining
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remain", 184 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (184 uses with inflections), unlikely to be wrong.**
+
+### remnant
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remnant", 92 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (92 uses with inflections), unlikely to be wrong.**
+
+### remove
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remove", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
+### removed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remove", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
+### removeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remove", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
+### removing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "remove", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
+### reproach
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reproach", 123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+
+### reproached
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reproach", 123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+
+### reproaches
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reproach", 123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+
+### reproachest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reproach", 123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
+
+### reproacheth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "reproach", 123 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (123 uses with inflections), unlikely to be wrong.**
 
 ### reprobate
 - Jeremiah 6:30: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'reprobate').
@@ -6775,6 +13292,22 @@ zuzims
 ### restoring
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### return
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "return", 461 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (461 uses with inflections), unlikely to be wrong.**
+
+### returned
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "return", 461 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (461 uses with inflections), unlikely to be wrong.**
+
+### returneth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "return", 461 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (461 uses with inflections), unlikely to be wrong.**
+
+### returning
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "return", 461 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (461 uses with inflections), unlikely to be wrong.**
 
 ### reverence
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
@@ -6797,9 +13330,25 @@ zuzims
 ### ridges
 - Psalms 65:10: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.
 
+### right
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "right", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+
+### righteous
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "righteous", 239 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (239 uses with inflections), unlikely to be wrong.**
+
 ### righteously
 - Deuteronomy 1:16: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'righteously').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### righteousness
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "righteousness", 308 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (308 uses with inflections), unlikely to be wrong.**
+
+### righteousnesses
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "righteousness", 308 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (308 uses with inflections), unlikely to be wrong.**
 
 ### rigour
 - Exodus 1:13: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'rigour').
@@ -6809,9 +13358,61 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### rise
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rise", 249 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+
+### risen
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rise", 249 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+
+### risest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rise", 249 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+
+### riseth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rise", 249 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+
+### rising
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rise", 249 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+
+### river
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "river", 256 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (256 uses with inflections), unlikely to be wrong.**
+
+### river's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "river", 256 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (256 uses with inflections), unlikely to be wrong.**
+
+### rivers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "river", 256 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (256 uses with inflections), unlikely to be wrong.**
+
+### rock
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rock", 146 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+
+### rocks
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rock", 146 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (146 uses with inflections), unlikely to be wrong.**
+
+### rod
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rod", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### rods
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "rod", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
 ### roe
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### roebuck
+- King James whitelist review (animal): creature (deer-kind); Geneva 1599 Deuteronomy 12:15 reads "the roe bucke"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #316), owner approved all suggestions.**
 
 ### ropes
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -6820,6 +13421,10 @@ zuzims
 ### rose
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+
+### round
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "round", 320 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (320 uses with inflections), unlikely to be wrong.**
 
 ### rudder
 - Acts 27:40: Every witness, period and modern, keeps "rudder"/"rudders" as the steering apparatus of the ship — no witness offers a different word for the device itself (only its plural form or the surrounding phrase varies). No safe swap exists without inventing a word.
@@ -6847,19 +13452,107 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### run
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "run", 111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+
+### runnest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "run", 111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+
+### runneth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "run", 111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+
+### running
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "run", 111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+
 ### sabachthani
 - Matthew 27:46: This is a transliterated Aramaic word Jesus spoke from the cross, immediately glossed in the verse itself ("that is to say, My God, my God, why hast thou forsaken me?"). Every witness keeps the transliteration untouched. No safe swap is possible without altering scripture's own record of the utterance.
 - Mark 15:34: Same reasoning as Matthew 27:46 — this is the transliterated Aramaic cry from the cross, glossed within the verse; CUR's altered spelling ("sabacthani") is itself an unwarranted change to the recorded utterance, but no witness supports any different transliteration for this entry's target. No safe swap is available; restoring the standard "sabachthani" spelling (as in Matthew 27:46 and most witnesses here) is the only defensible move, but that is a spelling correction, not a rare-word swap.
 
+### sabbath
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sabbath", 171 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (171 uses with inflections), unlikely to be wrong.**
+
+### sabbaths
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sabbath", 171 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (171 uses with inflections), unlikely to be wrong.**
+
+### sacrifice
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sacrifice", 339 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+
+### sacrificed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sacrifice", 339 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+
+### sacrifices
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sacrifice", 339 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+
+### sacrificeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sacrifice", 339 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+
+### sacrificing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sacrifice", 339 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+
 ### saffron
 - Song of Solomon 4:14: "saffron" names a specific spice in a list of named spices; every witness without exception keeps "saffron"/"saffran". No alternative word exists for this botanical term. No safe swap without inventing a word.
+
+### said
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "said", 3998 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3998 uses with inflections), unlikely to be wrong.**
+
+### saint
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saint", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### saints
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saint", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
 
 ### saith
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### sake
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sake", 176 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (176 uses with inflections), unlikely to be wrong.**
+
+### sakes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sake", 176 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (176 uses with inflections), unlikely to be wrong.**
+
 ### saltpits
 - Zephaniah 2:9: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Therefore as I live, saith the Lord of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.
+
+### salvation
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "salvation", 164 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (164 uses with inflections), unlikely to be wrong.**
+
+### same
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "same", 331 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (331 uses with inflections), unlikely to be wrong.**
+
+### sanctified
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sanctify", 132 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (132 uses with inflections), unlikely to be wrong.**
+
+### sanctify
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sanctify", 132 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (132 uses with inflections), unlikely to be wrong.**
+
+### sanctuaries
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sanctuary", 143 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (143 uses with inflections), unlikely to be wrong.**
+
+### sanctuary
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sanctuary", 143 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (143 uses with inflections), unlikely to be wrong.**
 
 ### sands
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -6871,9 +13564,93 @@ zuzims
 ### sardonyx
 - Revelation 21:20: "sardonyx" names a specific gemstone in a fixed list of twelve named foundation-stones; every witness without exception keeps "sardonyx". No safe swap exists without inventing a word or altering the enumerated list.
 
+### sat
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sat", 193 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+
+### satest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sat", 193 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (193 uses with inflections), unlikely to be wrong.**
+
+### save
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "save", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+
+### saved
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "save", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+
+### savest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "save", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+
+### saveth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "save", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+
+### saving
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "save", 359 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (359 uses with inflections), unlikely to be wrong.**
+
+### saviour
+- King James whitelist review (proper-noun): deity-title for God/Christ; Geneva 1599 uses the same rendering "Saviour" for the referent
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #1999), owner approved all suggestions.**
+
+### saw
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saw", 574 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (574 uses with inflections), unlikely to be wrong.**
+
+### sawed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saw", 574 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (574 uses with inflections), unlikely to be wrong.**
+
+### sawest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saw", 574 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (574 uses with inflections), unlikely to be wrong.**
+
+### saws
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "saw", 574 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (574 uses with inflections), unlikely to be wrong.**
+
+### say
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "say", 2567 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2567 uses with inflections), unlikely to be wrong.**
+
+### sayest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "say", 2567 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2567 uses with inflections), unlikely to be wrong.**
+
+### saying
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "say", 2567 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2567 uses with inflections), unlikely to be wrong.**
+
+### sayings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "say", 2567 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2567 uses with inflections), unlikely to be wrong.**
+
 ### scabbed
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### scapegoat
+- King James whitelist review (animal): ritual referent is a literal goat (Leviticus 16:8,10,26); noun only, not a verb
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #321), owner approved all suggestions.**
+
+### scatter
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scatter", 127 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+
+### scattered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scatter", 127 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+
+### scattereth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scatter", 127 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+
+### scattering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scatter", 127 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
 
 ### school
 - Acts 19:9: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.
@@ -6889,6 +13666,18 @@ zuzims
 ### scrabbled
 - I Samuel 21:13: CUR "scratched" is a genuinely different word from "scrabbled" and matches Darby's rendering of this exact verse, but it returns zero hits in the corpus, so it would cure one rare word with another. No other witness offers an attested alternative ("made marks" also returns zero hits). No safe swap exists.
 
+### scribe
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scribe", 127 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+
+### scribe's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scribe", 127 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+
+### scribes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "scribe", 127 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+
 ### scrip
 - I Samuel 17:40: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'scrip').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
@@ -6896,6 +13685,10 @@ zuzims
 ### scurvy
 - Leviticus 21:20: CUR "scab" duplicates the root of "scabbed" immediately following it in the same list ("or be scab, or scabbed"), which is forbidden. No witness offers a genuinely different, corpus-attested word for this skin condition ("eczema" is a modern medical term, zero hits in the corpus). No safe swap exists.
 - Leviticus 22:22: Same reasoning as Leviticus 21:20 — CUR "scab" duplicates "scabbed" immediately following, and no attested alternative exists.
+
+### sea
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sea", 426 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (426 uses with inflections), unlikely to be wrong.**
 
 ### seafaring
 - Ezekiel 26:17: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And they shall take up a lamentation for thee, and say to thee, How art thou destroyed, that wast inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!
@@ -6909,6 +13702,14 @@ zuzims
 
 ### seared
 - I Timothy 4:2: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Speaking lies in hypocrisy; having their conscience seared with a hot iron;
+
+### seas
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sea", 426 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (426 uses with inflections), unlikely to be wrong.**
+
+### second
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "second", 175 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
 
 ### seduce
 - Mark 13:22: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'seduce').
@@ -6926,6 +13727,70 @@ zuzims
 - Mark 13:22: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'seduce').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### see
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seed's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seeds
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seeing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seek
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "seek", 311 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (311 uses with inflections), unlikely to be wrong.**
+
+### seekest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "seek", 311 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (311 uses with inflections), unlikely to be wrong.**
+
+### seeketh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "seek", 311 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (311 uses with inflections), unlikely to be wrong.**
+
+### seeking
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "seek", 311 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (311 uses with inflections), unlikely to be wrong.**
+
+### seen
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seer's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
+### seething
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "see", 1409 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1409 uses with inflections), unlikely to be wrong.**
+
 ### self
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
@@ -6938,13 +13803,65 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### send
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "send", 267 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+
+### sendest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "send", 267 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+
+### sendeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "send", 267 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+
+### sending
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "send", 267 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+
+### sent
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sent", 690 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (690 uses with inflections), unlikely to be wrong.**
+
+### sentest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sent", 690 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (690 uses with inflections), unlikely to be wrong.**
+
 ### seraphims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### serpent
+- King James whitelist review (animal): a named creature; Geneva 1599 also renders "serpent" for the same referent
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #2197), owner approved all suggestions.**
+
 ### servants
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### serve
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "serve", 301 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (301 uses with inflections), unlikely to be wrong.**
+
+### served
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "serve", 301 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (301 uses with inflections), unlikely to be wrong.**
+
+### servest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "serve", 301 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (301 uses with inflections), unlikely to be wrong.**
+
+### serveth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "serve", 301 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (301 uses with inflections), unlikely to be wrong.**
+
+### service
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "service", 136 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (136 uses with inflections), unlikely to be wrong.**
+
+### serving
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "serve", 301 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (301 uses with inflections), unlikely to be wrong.**
 
 ### set
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -6954,9 +13871,45 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### seven
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seven", 465 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### sevenfold
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "sevenfold", 6 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### sevens
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seven", 465 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### seventeen
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seventeen", 10 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### seventeenth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seventeenth", 6 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### seventh
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seventh", 120 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### seventy
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "seventy", 61 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### shaking
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### shall
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shall", 9836 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (9836 uses with inflections), unlikely to be wrong.**
+
+### shalt
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shalt", 1617 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1617 uses with inflections), unlikely to be wrong.**
 
 ### shear
 - Genesis 31:19: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'shear').
@@ -6970,6 +13923,22 @@ zuzims
 - Genesis 31:19: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'shear').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### sheep
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sheep", 190 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+
+### sheep's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sheep", 190 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+
+### shekel
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shekel", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+
+### shekels
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shekel", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+
 ### shepherds
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
@@ -6982,6 +13951,14 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### ship
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ship", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+
+### ships
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "ship", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+
 ### shipwreck
 - II Corinthians 11:25: CUR is broken ("suffered shipwreck" becomes "suffered suffer," a nonsensical duplication). No witness offers an alternative to "shipwreck" itself — all period and modern witnesses keep the word. No attested KJV synonym for this specific nautical disaster was found (e.g. "wrecked" does not occur in the corpus), so a genuine, non-inventive replacement is not available.
 - I Timothy 1:19: same problem as II Corinthians 11:25 ("made shipwreck" becomes "made suffer," broken), with no attested alternative word found.
@@ -6989,8 +13966,44 @@ zuzims
 ### shittah
 - Isaiah 41:19: CUR merely re-inflects the same flagged word (shittah, singular, to shittim, plural of the identical Hebrew loanword) — forbidden as a disguised re-inflection under rule 3. The only common English alternative, "acacia," does not occur anywhere in the KJV corpus (0 occurrences), so no genuinely different, attested word was found.
 
+### shittim
+- King James whitelist review (plant): acacia wood, tree-species material named throughout the tabernacle instructions (Ex 25:5, 25:10 "shittim wood") — noun only; note this same word also denotes the place-name Shittim (Num 25:1) in a minority of occurrences, but the forms recorded here are overwhelmingly the timber sense
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1873), owner approved all suggestions.**
+
+### shore
+- King James whitelist review (location): natural coastline (Josh 15:2, Judg 5:17, Matt 13:2,48, Acts 27:39-40)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #1442), owner approved all suggestions.**
+
+### should
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "should", 918 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (918 uses with inflections), unlikely to be wrong.**
+
+### shoulder
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "should", 918 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (918 uses with inflections), unlikely to be wrong.**
+
+### shoulders
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "should", 918 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (918 uses with inflections), unlikely to be wrong.**
+
+### shouldest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "should", 918 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (918 uses with inflections), unlikely to be wrong.**
+
 ### shovel
 - Isaiah 30:24: "spade" does not occur anywhere in the KJV corpus (0 occurrences), failing the "replacement must not itself be KJV-rare" rule. "fork," the other witnesses' alternative (ASV, BSB), likewise has zero KJV occurrences and cannot be used since "fan" already occupies the adjacent slot in this verse. No attested substitute was found.
+
+### shut
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shut", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### shutteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shut", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### shutting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "shut", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
 
 ### shuttle
 - Job 7:6: "beam" (a weaver's beam, a large structural piece) is a poor referent for "swifter than"—the comparison is to something that moves swiftly, i.e. the shuttle passed rapidly through the loom, not the fixed beam; adopting CUR would blur the image. No period witness offers an alternative to "shuttle" (Wycliffe "web is kit doun," DRC "web is cut," Geneva "shittle" — none supply a distinct attested KJV word for the weaver's implement itself), so no genuine, non-inventive replacement was found.
@@ -6999,21 +14012,189 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### sight
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sight", 337 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (337 uses with inflections), unlikely to be wrong.**
+
+### sights
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sight", 337 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (337 uses with inflections), unlikely to be wrong.**
+
+### sign
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sign", 144 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+
+### signed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sign", 144 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+
+### signs
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sign", 144 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+
+### silver
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "silver", 322 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (322 uses with inflections), unlikely to be wrong.**
+
 ### sinful
 - Numbers 32:14: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'sinful').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### sing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+
+### singed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+
+### singer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+
+### singers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+
+### singeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
+
+### singing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sing", 190 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (190 uses with inflections), unlikely to be wrong.**
 
 ### sinned
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### sister
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sister", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### sister's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sister", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### sisters
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sister", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### sit
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sit", 207 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+
+### sittest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sit", 207 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+
+### sitteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sit", 207 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+
+### sitting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sit", 207 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (207 uses with inflections), unlikely to be wrong.**
+
+### six
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "six", 202 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### sixteen
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "sixteen", 23 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### sixteenth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "sixteenth", 3 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### sixth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "sixth", 47 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### sixty
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "sixty", 16 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### skilful
 - I Chronicles 5:18: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'skilful').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### skin
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "skin", 107 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+
+### skins
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "skin", 107 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+
+### slain
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slain", 183 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (183 uses with inflections), unlikely to be wrong.**
+
+### slay
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slay", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### slayer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slay", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### slayeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slay", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### slaying
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slay", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### sleep
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sleep", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### sleeper
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sleep", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### sleepest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sleep", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### sleepeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sleep", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### sleeping
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sleep", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### slew
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slew", 199 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+
+### slewest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "slew", 199 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+
 ### small
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### smite
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smite", 148 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (148 uses with inflections), unlikely to be wrong.**
+
+### smitest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smite", 148 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (148 uses with inflections), unlikely to be wrong.**
+
+### smiteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smite", 148 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (148 uses with inflections), unlikely to be wrong.**
+
+### smiting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smite", 148 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (148 uses with inflections), unlikely to be wrong.**
 
 ### smooth
 - Genesis 27:11: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'smooth').
@@ -7023,17 +14204,49 @@ zuzims
 - Genesis 27:11: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'smooth').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
 
+### smote
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smote", 231 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+
+### smotest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "smote", 231 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+
 ### sneezed
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### so
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "so", 1690 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1690 uses with inflections), unlikely to be wrong.**
 
 ### soap
 - Jeremiah 2:22: No witness supplies a genuinely distinct, KJV-attested name for this cleansing substance ("lye" and "sope" are 0-hit or same-lemma); the referent itself (soap) is what's named, and no safe alternative exists.
 - Malachi 3:2: Same problem as Jeremiah 2:22 — "lye" is 0-hit in KJV.db and no other witness offers a distinct, attested substitute.
 
+### sodomites
+- King James whitelist review (proper-noun): demonym/people-group name derived from the place-name Sodom
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #331), owner approved all suggestions.**
+
 ### softly
 - Genesis 33:14: Round-3 rare-word review — owner ruled keep + whitelist (lemma 'softly').
   - **OWNER RULING 2026-07-20: DO NOT CHANGE — round-3 owner keep.**
+
+### some
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "some", 234 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (234 uses with inflections), unlikely to be wrong.**
+
+### son
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "son", 3491 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3491 uses with inflections), unlikely to be wrong.**
+
+### son's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "son", 3491 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3491 uses with inflections), unlikely to be wrong.**
+
+### sons
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "son", 3491 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3491 uses with inflections), unlikely to be wrong.**
 
 ### soothsayer
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -7047,6 +14260,74 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### sore
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sore", 104 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+
+### sores
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sore", 104 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+
+### sorrow
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sorrow", 98 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+
+### sorrowed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sorrow", 98 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+
+### sorroweth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sorrow", 98 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+
+### sorrowing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sorrow", 98 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+
+### sorrows
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sorrow", 98 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+
+### sought
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sought", 127 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (127 uses with inflections), unlikely to be wrong.**
+
+### soul
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "soul", 538 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (538 uses with inflections), unlikely to be wrong.**
+
+### soul's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "soul", 538 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (538 uses with inflections), unlikely to be wrong.**
+
+### souls
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "soul", 538 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (538 uses with inflections), unlikely to be wrong.**
+
+### sound
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sound", 121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+
+### sounded
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sound", 121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+
+### soundeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sound", 121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+
+### sounding
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sound", 121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+
+### sounds
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sound", 121 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (121 uses with inflections), unlikely to be wrong.**
+
+### south
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "south", 144 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (144 uses with inflections), unlikely to be wrong.**
+
 ### spade
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
@@ -7055,24 +14336,104 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### sparrows
+- King James whitelist review (animal): the bird sparrow (Matt 10:29-31, Luke 12:6-24); creature type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #521), owner approved all suggestions.**
+
+### speak
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "speak", 673 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (673 uses with inflections), unlikely to be wrong.**
+
+### speakest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "speak", 673 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (673 uses with inflections), unlikely to be wrong.**
+
+### speaketh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "speak", 673 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (673 uses with inflections), unlikely to be wrong.**
+
+### speaking
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "speak", 673 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (673 uses with inflections), unlikely to be wrong.**
+
+### speakings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "speak", 673 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (673 uses with inflections), unlikely to be wrong.**
+
 ### speckled
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### spice
+- King James whitelist review (plant): plant-product/aromatic term (spices, sweet spices, myrrh, cinnamon etc.); only non-plain form is the participial "spiced" (spiced wine), not a finite verb
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2000), owner approved all suggestions.**
 
 ### spider
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### spider's
+- King James whitelist review (animal): creature (arachnid); Geneva 1599 Job 8:14 reads "the house of a spyder"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #5), owner approved all suggestions.**
+
 ### spiders
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### spikenard
+- King James whitelist review (plant): the spice/ointment plant nard (Song 1:12, Mark 14:3, John 12:3); Geneva1599 independently reads "spikenard" (35 hits, same rendering)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #522), owner approved all suggestions.**
+
 ### spindle
 - Proverbs 31:19: The verse's only other textile-tool word, "distaff," already appears alongside "spindle" in the same verse (witnesses even swap which word names which tool), leaving no genuinely different, attested noun available for this specific implement.
+
+### spirit
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spirit", 640 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (640 uses with inflections), unlikely to be wrong.**
+
+### spirits
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spirit", 640 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (640 uses with inflections), unlikely to be wrong.**
 
 ### spit
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### spoil
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+
+### spoiled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+
+### spoiler
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+
+### spoilers
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+
+### spoilest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+
+### spoileth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+
+### spoiling
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+
+### spoils
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoil", 209 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+
+### spoken
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spoken", 287 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (287 uses with inflections), unlikely to be wrong.**
 
 ### spokes
 - I Kings 7:33: This is a list of technical chariot-wheel parts (axletrees, naves, felloes, spokes); no witness supplies an unambiguous, genuinely distinct, KJV-attested name for this specific part that doesn't collide with the other listed components.
@@ -7089,6 +14450,22 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### spread
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spread", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
+### spreadest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spread", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
+### spreadeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spread", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
+### spreading
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "spread", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
 ### stained
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
@@ -7097,21 +14474,85 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### stand
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stand", 371 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (371 uses with inflections), unlikely to be wrong.**
+
+### standest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stand", 371 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (371 uses with inflections), unlikely to be wrong.**
+
+### standeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stand", 371 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (371 uses with inflections), unlikely to be wrong.**
+
+### standing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stand", 371 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (371 uses with inflections), unlikely to be wrong.**
+
 ### statues
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### statute
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "statute", 167 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (167 uses with inflections), unlikely to be wrong.**
+
+### statutes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "statute", 167 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (167 uses with inflections), unlikely to be wrong.**
+
+### stead
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stead", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### steads
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stead", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
 
 ### stedfastness
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### still
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "still", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### stilled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "still", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### stillest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "still", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### stilleth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "still", 106 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (106 uses with inflections), unlikely to be wrong.**
+
+### stock
+- King James whitelist review (genealogy): lineage term — "stock of the stranger's family" (Lev 25:47), "of the stock of Israel" (Phil 3:5); the word also names a tree-trunk and the punishment device "the stocks" elsewhere, but the genealogical sense is independently attested in the same corpus
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1445), owner approved all suggestions.**
+
 ### stones
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### stood
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stood", 342 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (342 uses with inflections), unlikely to be wrong.**
+
+### stoodest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stood", 342 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (342 uses with inflections), unlikely to be wrong.**
+
 ### storehouse
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### stork
+- King James whitelist review (animal): the bird stork (Lev 11:19, Deut 14:18, Ps 104:17, Jer 8:7, Zech 5:9); Geneva1599 independently agrees ("stork")
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #525), owner approved all suggestions.**
 
 ### straight
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -7137,6 +14578,54 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### street
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "street", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### streets
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "street", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### strength
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strength", 325 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+
+### strengthen
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strength", 325 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+
+### strengthened
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strength", 325 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+
+### strengtheneth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strength", 325 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+
+### strengthening
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strength", 325 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (325 uses with inflections), unlikely to be wrong.**
+
+### stretch
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stretch", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### stretched
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stretch", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### stretchest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stretch", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### stretcheth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stretch", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
+### stretching
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "stretch", 135 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (135 uses with inflections), unlikely to be wrong.**
+
 ### stricken
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
@@ -7145,13 +14634,69 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### strong
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strong", 283 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (283 uses with inflections), unlikely to be wrong.**
+
+### stronger
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strong", 283 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (283 uses with inflections), unlikely to be wrong.**
+
+### strongest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "strong", 283 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (283 uses with inflections), unlikely to be wrong.**
+
+### stubble
+- King James whitelist review (plant): dried grain-stalk residue, a specific harvest referent distinct from plain "straw" (Ex 5:12; Job 21:18) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1495), owner approved all suggestions.**
+
 ### subtilly
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### suburbs
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suburbs", 110 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (110 uses with inflections), unlikely to be wrong.**
+
 ### subverting
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### such
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "such", 249 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+
+### suffer
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+
+### suffered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+
+### sufferest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+
+### suffereth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+
+### suffering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+
+### sufferings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "suffer", 175 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (175 uses with inflections), unlikely to be wrong.**
+
+### sun
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sun", 160 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (160 uses with inflections), unlikely to be wrong.**
+
+### surely
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "surely", 284 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (284 uses with inflections), unlikely to be wrong.**
 
 ### swallowed
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
@@ -7165,6 +14710,14 @@ zuzims
 - Leviticus 11:18: The identity of this unclean bird is genuinely disputed among all witnesses (Darby keeps "swan," ASV has "horned owl," BSB has "osprey," DRC has "porphyrion"); "stork" is already a distinct bird named in the very next verse of this list (Leviticus 11:19), so substituting it here risks misidentifying the species with no reliable evidence either way.
 - Deuteronomy 14:16: Same issue as Leviticus 11:18 — witnesses disagree on the bird's identity (DRC actually lists both "swan" and "stork" as separate birds in this very verse), so replacing "swan" with "stork" would conflate two distinct list items with no reliable evidence for the swap.
 
+### sweet
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sweet", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+
+### sweeter
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sweet", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+
 ### swimmest
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
@@ -7173,6 +14726,42 @@ zuzims
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
 
+### swine
+- King James whitelist review (animal): animal (Matt 8:30-32 "herd of swine") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1603), owner approved all suggestions.**
+
+### swine's
+- King James whitelist review (animal): animal (Matt 8:30-32 "herd of swine") — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1603), owner approved all suggestions.**
+
+### sword
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sword", 450 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (450 uses with inflections), unlikely to be wrong.**
+
+### swords
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "sword", 450 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (450 uses with inflections), unlikely to be wrong.**
+
+### sycomore
+- King James whitelist review (plant): the sycamore/fig-mulberry tree (I Kings 10:27, I Chron 27:28, II Chron 1:15, 9:27, Ps 78:47, Amos 7:14, Luke 19:4, Isa 9:10); plant type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #863), owner approved all suggestions.**
+
+### tabernacle
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tabernacle", 358 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (358 uses with inflections), unlikely to be wrong.**
+
+### tabernacles
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tabernacle", 358 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (358 uses with inflections), unlikely to be wrong.**
+
+### table
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "table", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
+### tables
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "table", 125 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (125 uses with inflections), unlikely to be wrong.**
+
 ### tackling
 - Acts 27:19: "Tackling" is retained by nearly every period and later witness (Tyndale, Geneva, DRC, Webster, RWebster, YLT, ASV, UKJV) as the standard nautical term; CUR's "rigging" is not attested in the corpus and the near-universal witness agreement suggests this is a mis-flagged (spurious) entry rather than a genuine anachronism.
 
@@ -7180,9 +14769,33 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### take
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "take", 1329 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1329 uses with inflections), unlikely to be wrong.**
+
+### taken
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "take", 1329 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1329 uses with inflections), unlikely to be wrong.**
+
+### takest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "take", 1329 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1329 uses with inflections), unlikely to be wrong.**
+
+### taketh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "take", 1329 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1329 uses with inflections), unlikely to be wrong.**
+
+### taking
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "take", 1329 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1329 uses with inflections), unlikely to be wrong.**
+
 ### talebearers
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### tare
+- King James whitelist review (plant): weed of the parable of the wheat and tares (Matt 13:25-40)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1250), owner approved all suggestions.**
 
 ### taskmaster
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -7203,6 +14816,22 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### tell
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tell", 231 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+
+### tellest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tell", 231 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+
+### telleth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tell", 231 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+
+### telling
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tell", 231 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (231 uses with inflections), unlikely to be wrong.**
+
 ### temperate
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
@@ -7211,12 +14840,76 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### ten
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "ten", 253 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### ten's
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "ten", 253 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### tenor
 - Genesis 43:7: "Tenor" (meaning the substance/purport of words) is retained by nearly every witness (Webster, RWebster, YLT, ASV, UKJV, ACV) and is attested in the KJV corpus itself; CUR's "mouth" is an awkward, uncommon substitution. This looks like a spurious flag rather than a genuine anachronism.
 - Exodus 34:27: Same reasoning as Genesis 43:7 — "tenor" is widely attested across witnesses and the KJV corpus itself.
 
+### tens
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "ten", 253 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### tent
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tent", 165 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+
+### tenth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "tenth", 81 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### tentmakers
 - Acts 18:3: "Tentmakers" is the specific, well-attested trade term used by nearly every witness (Tyndale, Geneva, DRC, Darby, RWebster, UKJV, ASV). CUR's "craftsmen" both loses the specific meaning and duplicates the word "craft," which already appears twice elsewhere in this verse ("of the same craft," "by their occupation").
+
+### tents
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tent", 165 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (165 uses with inflections), unlikely to be wrong.**
+
+### teraphim
+- King James whitelist review (proper-noun): transliterated Hebrew term for household idol-figures (Judg 17:5, 18:14-20; Hos 3:4); Geneva1599 independently retains the same transliterated form "teraphim"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — proper-noun, not a verb; King James agent whitelist review (token group #691), owner approved all suggestions.**
+
+### testimonies
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "testimony", 111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+
+### testimony
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "testimony", 111 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (111 uses with inflections), unlikely to be wrong.**
+
+### than
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "than", 480 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (480 uses with inflections), unlikely to be wrong.**
+
+### thank
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thank", 107 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+
+### thanked
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thank", 107 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+
+### thanking
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thank", 107 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+
+### thanks
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thank", 107 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+
+### that
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "that", 12955 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (12955 uses with inflections), unlikely to be wrong.**
+
+### the
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "the", 67943 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (67943 uses with inflections), unlikely to be wrong.**
 
 ### theatre
 - Acts 19:29: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul’s companions in travel, they rushed with one accord into the theatre.
@@ -7230,6 +14923,54 @@ zuzims
 - Exodus 22:3: "Theft/thefts" is itself an attested KJV word (Matthew 15:19, Mark 7:22), so this looks like a spurious flag. CUR's "robbery" is also a legally distinct term implying violence, which is not present in this text about a thief caught secretly taking livestock — swapping in "robbery" would misrepresent the offense described.
 - Exodus 22:4: Same reasoning as Exodus 22:3 — "theft" is attested in the KJV corpus and "robbery" incorrectly implies violence not present in the text.
 
+### their
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "their", 3958 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3958 uses with inflections), unlikely to be wrong.**
+
+### theirs
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "their", 3958 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3958 uses with inflections), unlikely to be wrong.**
+
+### them
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "them", 6447 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6447 uses with inflections), unlikely to be wrong.**
+
+### themselves
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "themselves", 404 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (404 uses with inflections), unlikely to be wrong.**
+
+### then
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "the", 67943 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (67943 uses with inflections), unlikely to be wrong.**
+
+### thence
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thence", 147 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (147 uses with inflections), unlikely to be wrong.**
+
+### there
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "there", 2297 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2297 uses with inflections), unlikely to be wrong.**
+
+### therefore
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "therefore", 1237 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1237 uses with inflections), unlikely to be wrong.**
+
+### therein
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "therein", 230 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (230 uses with inflections), unlikely to be wrong.**
+
+### thereof
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thereof", 907 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (907 uses with inflections), unlikely to be wrong.**
+
+### these
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "these", 1223 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1223 uses with inflections), unlikely to be wrong.**
+
+### they
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "they", 7382 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (7382 uses with inflections), unlikely to be wrong.**
+
 ### thicker
 - I Kings 12:10: "Thicker" is retained by every single witness without exception (Wycliffe, Geneva, DRC, Webster, YLT, Darby, ASV, ACV, BSB), which strongly indicates a spurious flag rather than a genuine anachronism; CUR's ungrammatical "grown" ("shall be grown than my father's loins") has no basis in any witness.
 - II Chronicles 10:10: Same reasoning as I Kings 12:10 — universal witness agreement on "thicker" indicates a spurious flag.
@@ -7238,22 +14979,250 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### thing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "the", 67943 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (67943 uses with inflections), unlikely to be wrong.**
+
+### things
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "the", 67943 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (67943 uses with inflections), unlikely to be wrong.**
+
+### third
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "third", 182 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### thirdly
 - I Corinthians 12:28: "Thirdly" is retained by every witness without exception and is structurally required by the ordinal list ("first...secondarily...thirdly"); CUR's "partly" breaks the enumeration and changes the sense entirely (partial vs. third-in-sequence). This is a spurious flag — a basic ordinal, not an anachronism.
+
+### thirteen
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thirteen", 15 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### thirteenth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thirteenth", 11 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### thirtieth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thirtieth", 9 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### thirty
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thirty", 176 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### this
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "this", 2790 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2790 uses with inflections), unlikely to be wrong.**
+
+### thistle
+- King James whitelist review (plant): the weed thistle (II Kings 14:9, II Chron 25:18, Hos 10:8, Gen 3:18, Job 31:40, Matt 7:16); plant type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #866), owner approved all suggestions.**
+
+### thither
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thither", 95 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
+
+### thorn
+- King James whitelist review (plant): a named plant/bush type (thorn, thorns, crown of thorns); nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2236), owner approved all suggestions.**
+
+### those
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "those", 469 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (469 uses with inflections), unlikely to be wrong.**
+
+### thou
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thou", 5479 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (5479 uses with inflections), unlikely to be wrong.**
+
+### though
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "though", 233 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (233 uses with inflections), unlikely to be wrong.**
+
+### thought
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thought", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### thoughtest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thought", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### thoughts
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thought", 141 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (141 uses with inflections), unlikely to be wrong.**
+
+### thousand
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thousand", 583 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### thousands
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thousand", 583 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
 
 ### threatening
 - Ephesians 6:9: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
 
+### three
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "three", 483 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### threefold
 - Ecclesiastes 4:12: "Threefold" is retained by every witness without exception, describing a specific three-stranded cord; no attested KJV-corpus synonym preserves this precise sense without a substantial rewrite (e.g. BSB's "cord of three strands," which is not period-authentic KJV phrasing). This looks like a spurious flag.
+
+### threescore
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "threescore", 93 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### thrice
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "thrice", 15 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### throne
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "throne", 185 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (185 uses with inflections), unlikely to be wrong.**
+
+### thrones
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "throne", 185 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (185 uses with inflections), unlikely to be wrong.**
+
+### through
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "through", 466 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (466 uses with inflections), unlikely to be wrong.**
+
+### throughout
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "throughout", 162 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (162 uses with inflections), unlikely to be wrong.**
+
+### thus
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thus", 738 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (738 uses with inflections), unlikely to be wrong.**
+
+### thy
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thy", 4634 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (4634 uses with inflections), unlikely to be wrong.**
+
+### thyself
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "thyself", 212 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (212 uses with inflections), unlikely to be wrong.**
+
+### till
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "till", 174 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+
+### tilled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "till", 174 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+
+### tillest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "till", 174 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+
+### tilleth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "till", 174 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (174 uses with inflections), unlikely to be wrong.**
+
+### time
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "time", 773 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (773 uses with inflections), unlikely to be wrong.**
+
+### times
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "time", 773 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (773 uses with inflections), unlikely to be wrong.**
+
+### to
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "to", 13600 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (13600 uses with inflections), unlikely to be wrong.**
+
+### toes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "to", 13600 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (13600 uses with inflections), unlikely to be wrong.**
+
+### together
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "together", 487 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (487 uses with inflections), unlikely to be wrong.**
+
+### told
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "told", 283 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (283 uses with inflections), unlikely to be wrong.**
 
 ### tongued
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### took
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "took", 753 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (753 uses with inflections), unlikely to be wrong.**
+
+### tookest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "took", 753 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (753 uses with inflections), unlikely to be wrong.**
+
+### top
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "top", 104 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+
+### tops
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "top", 104 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (104 uses with inflections), unlikely to be wrong.**
+
+### touch
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "touch", 168 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+
+### touched
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "touch", 168 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+
+### toucheth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "touch", 168 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+
+### touching
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "touch", 168 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+
+### toward
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "toward", 348 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (348 uses with inflections), unlikely to be wrong.**
+
+### town
+- King James whitelist review (location): a named settlement-type place; nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2244), owner approved all suggestions.**
+
+### transgression
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "transgression", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### transgressions
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "transgression", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
 ### treasured
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
+
+### tree
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tree", 360 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (360 uses with inflections), unlikely to be wrong.**
+
+### trees
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "tree", 360 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (360 uses with inflections), unlikely to be wrong.**
+
+### trespass
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trespass", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### trespassed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trespass", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### trespasses
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trespass", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
+
+### trespassing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trespass", 116 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (116 uses with inflections), unlikely to be wrong.**
 
 ### tribes
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -7274,6 +15243,34 @@ zuzims
 ### trough
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### trumpet
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trumpet", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### trumpets
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trumpet", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### trust
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trust", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+
+### trusted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trust", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+
+### trustest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trust", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+
+### trusteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trust", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+
+### trusting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "trust", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
 
 ### truth
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
@@ -7301,9 +15298,73 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### turtledove
+- King James whitelist review (animal): sacrificial bird, a species of dove (Gen 15:9, Lev 1:14, 5:7, 12:6, Song 2:12, Luke 2:24)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1364), owner approved all suggestions.**
+
+### twain
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twain", 17 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### twelfth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twelfth", 23 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### twelve
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twelve", 188 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### twentieth
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twentieth", 36 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### twenty
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twenty", 296 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### twenty's
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twenty", 296 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### twice
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "twice", 17 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
+### two
+- numbers: Owner ruling — all numbers, archaic or modern, are whitelisted: number words are quantities carried over from the source-language text, not English vocabulary choices. (group "two", 835 uses.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — all numbers, archaic or modern, are whitelisted.**
+
 ### unbeliever
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### uncle
+- King James whitelist review (genealogy): kinship term (Lev 10:4, 25:49, 1 Sam 10:14-16, Jer 32:7-12)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — genealogy, not a verb; King James agent whitelist review (token group #1451), owner approved all suggestions.**
+
+### unclean
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "unclean", 195 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (195 uses with inflections), unlikely to be wrong.**
+
+### under
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "under", 390 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (390 uses with inflections), unlikely to be wrong.**
+
+### understand
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "understand", 267 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+
+### understandest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "understand", 267 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+
+### understandeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "understand", 267 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
+
+### understanding
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "understand", 267 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (267 uses with inflections), unlikely to be wrong.**
 
 ### understood
 - round-6: Round-6 owner ruling — keep + whitelist.
@@ -7311,6 +15372,74 @@ zuzims
 
 ### unequally
 - II Corinthians 6:14: round-1 pipeline flagged "no safe one-word swap found" here (word never actually replaced): Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
+
+### until
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "until", 366 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (366 uses with inflections), unlikely to be wrong.**
+
+### unto
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "unto", 9000 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (9000 uses with inflections), unlikely to be wrong.**
+
+### up
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "up", 2385 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2385 uses with inflections), unlikely to be wrong.**
+
+### upon
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "upon", 2753 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2753 uses with inflections), unlikely to be wrong.**
+
+### us
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+
+### used
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+
+### uses
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+
+### usest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+
+### useth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+
+### using
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "us", 1480 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1480 uses with inflections), unlikely to be wrong.**
+
+### utterly
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "utterly", 101 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (101 uses with inflections), unlikely to be wrong.**
+
+### vain
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vain", 113 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (113 uses with inflections), unlikely to be wrong.**
+
+### vale
+- King James whitelist review (location): valley named as a specific biblical place — "vale of Siddim" (Gen 14:3,8,10), "vale of Hebron" (Gen 37:14) — a geographic feature named as such
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #984), owner approved all suggestions.**
+
+### valley
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "valley", 169 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (169 uses with inflections), unlikely to be wrong.**
+
+### valleys
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "valley", 169 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (169 uses with inflections), unlikely to be wrong.**
+
+### vanities
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vanity", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
+
+### vanity
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vanity", 99 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (99 uses with inflections), unlikely to be wrong.**
 
 ### veils
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -7324,9 +15453,81 @@ zuzims
 - I Kings 22:34: "at a integrity" is nonsensical, but the idiom "at a venture" (= at random/haphazardly) has no attested single-word KJV-common replacement; all witnesses restructure the whole clause (YLT "in his simplicity," BBE "without thought of its direction," Darby retains "venture"). A short swap risks inventing an unattested idiom; escalate for owner review.
 - II Chronicles 18:33: Same idiom, same problem as I Kings 22:34 (parallel passage); no witness offers a clean one-word/short-phrase KJV-common substitute for "at a venture."
 
+### verily
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "verily", 140 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (140 uses with inflections), unlikely to be wrong.**
+
+### very
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "very", 257 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (257 uses with inflections), unlikely to be wrong.**
+
+### vessel
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vessel", 209 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+
+### vessels
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vessel", 209 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (209 uses with inflections), unlikely to be wrong.**
+
 ### vile
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
+
+### village
+- King James whitelist review (location): a named settlement-type place; nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — location, not a verb; King James agent whitelist review (token group #2423), owner approved all suggestions.**
+
+### vine
+- King James whitelist review (plant): a named plant (grapevine); nominal only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #2364), owner approved all suggestions.**
+
+### vineyard
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vineyard", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### vineyards
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vineyard", 114 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (114 uses with inflections), unlikely to be wrong.**
+
+### viper
+- King James whitelist review (animal): the venomous snake (Isa 30:6, 59:5, Acts 28:3, Job 20:16, Matt 3:7, 12:34, 23:33, Luke 3:7); Geneva1599 and Tyndale independently agree ("viper")
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #878), owner approved all suggestions.**
+
+### vision
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vision", 103 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (103 uses with inflections), unlikely to be wrong.**
+
+### visions
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vision", 103 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (103 uses with inflections), unlikely to be wrong.**
+
+### voice
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "voice", 520 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+
+### voices
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "voice", 520 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (520 uses with inflections), unlikely to be wrong.**
+
+### vow
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vow", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### vowed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vow", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### vowest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vow", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### voweth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vow", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
+
+### vows
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "vow", 93 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (93 uses with inflections), unlikely to be wrong.**
 
 ### vulture
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -7336,6 +15537,106 @@ zuzims
 - round-3: Round-3 replacement word; owner ruled keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-3 replacement.**
 
+### walk
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "walk", 412 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (412 uses with inflections), unlikely to be wrong.**
+
+### walked
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "walk", 412 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (412 uses with inflections), unlikely to be wrong.**
+
+### walkest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "walk", 412 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (412 uses with inflections), unlikely to be wrong.**
+
+### walketh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "walk", 412 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (412 uses with inflections), unlikely to be wrong.**
+
+### walking
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "walk", 412 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (412 uses with inflections), unlikely to be wrong.**
+
+### wall
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wall", 249 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+
+### walled
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wall", 249 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+
+### walls
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wall", 249 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (249 uses with inflections), unlikely to be wrong.**
+
+### war
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+
+### wares
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+
+### warred
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+
+### warreth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+
+### warring
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+
+### wars
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "war", 261 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (261 uses with inflections), unlikely to be wrong.**
+
+### was
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "was", 4532 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (4532 uses with inflections), unlikely to be wrong.**
+
+### wash
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wash", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### washed
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wash", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### washest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wash", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### washing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wash", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### washings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wash", 150 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (150 uses with inflections), unlikely to be wrong.**
+
+### wast
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wast", 98 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+
+### wasted
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wast", 98 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+
+### wastes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wast", 98 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+
+### wasteth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wast", 98 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+
+### wasting
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wast", 98 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (98 uses with inflections), unlikely to be wrong.**
+
 ### watcher
 - Daniel 4:13: "Watcher" in Daniel names a specific class of heavenly being in the vision (paired with "an holy one"), not a generic human sentinel. No witness (Wycliffe, Geneva, DRC, ASV, Darby, BBE) renders it "watchman"; all retain "watcher." Substituting "watchman" would misrepresent the celestial being as an earthly guard — a theologically significant change. Escalate.
 - Daniel 4:23: Same referent as Daniel 4:13 (the heavenly "watcher" class) within the same vision; no witness supports "watchman." Escalate together with 4:13 and 4:17.
@@ -7343,32 +15644,284 @@ zuzims
 ### watchers
 - Daniel 4:17: Same technical term as the "watcher" (singular) entries in this chapter (Daniel 4:13, 4:23) — a class of heavenly being pronouncing decrees alongside "the holy ones." No witness offers an alternative; changing it risks altering the doctrine of the vision. Escalate together with the other Daniel 4 entries.
 
+### water
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+
+### watered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+
+### waterest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+
+### watereth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+
+### watering
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+
+### waters
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "water", 710 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (710 uses with inflections), unlikely to be wrong.**
+
+### way
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "way", 870 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (870 uses with inflections), unlikely to be wrong.**
+
+### ways
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "way", 870 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (870 uses with inflections), unlikely to be wrong.**
+
+### we
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "we", 2009 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2009 uses with inflections), unlikely to be wrong.**
+
 ### weasel
 - Leviticus 11:29: The identity of this creature is genuinely disputed among the witnesses themselves (Wycliffe "wesele," Darby "mole," ASV "great lizard," DRC "weasel"), reflecting real uncertainty in animal identification in this list. No safe single-word substitute can be chosen without effectively guessing the referent; escalate for owner review.
+
+### weep
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "weep", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### weepest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "weep", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### weepeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "weep", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### weeping
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "weep", 100 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (100 uses with inflections), unlikely to be wrong.**
+
+### well
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "well", 276 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (276 uses with inflections), unlikely to be wrong.**
+
+### well's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "well", 276 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (276 uses with inflections), unlikely to be wrong.**
+
+### wells
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "well", 276 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (276 uses with inflections), unlikely to be wrong.**
+
+### went
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "went", 1423 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1423 uses with inflections), unlikely to be wrong.**
+
+### wentest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "went", 1423 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1423 uses with inflections), unlikely to be wrong.**
+
+### were
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "were", 2773 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2773 uses with inflections), unlikely to be wrong.**
+
+### west
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "we", 2009 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2009 uses with inflections), unlikely to be wrong.**
+
+### what
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "what", 985 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (985 uses with inflections), unlikely to be wrong.**
+
+### whatsoever
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whatsoever", 151 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (151 uses with inflections), unlikely to be wrong.**
 
 ### wheat
 - global: Global directive corn -> wheat; wheat is the kept reading.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — global word directive.**
 
+### whelp
+- King James whitelist review (animal): young lion (Gen 49:9, Deut 33:22, Job 4:11, Ezek 19:2-3)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1260), owner approved all suggestions.**
+
+### when
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "when", 2836 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2836 uses with inflections), unlikely to be wrong.**
+
+### where
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "where", 401 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (401 uses with inflections), unlikely to be wrong.**
+
+### wherefore
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wherefore", 348 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (348 uses with inflections), unlikely to be wrong.**
+
+### wherein
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wherein", 168 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (168 uses with inflections), unlikely to be wrong.**
+
+### wherewith
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wherewith", 109 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (109 uses with inflections), unlikely to be wrong.**
+
+### whether
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whether", 171 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (171 uses with inflections), unlikely to be wrong.**
+
+### which
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "which", 4406 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (4406 uses with inflections), unlikely to be wrong.**
+
+### while
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "while", 223 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+
+### whiles
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "while", 223 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (223 uses with inflections), unlikely to be wrong.**
+
 ### white
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### whither
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whither", 124 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (124 uses with inflections), unlikely to be wrong.**
+
+### who
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "who", 981 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (981 uses with inflections), unlikely to be wrong.**
 
 ### whole
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### whom
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whom", 764 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (764 uses with inflections), unlikely to be wrong.**
+
+### whose
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whose", 315 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (315 uses with inflections), unlikely to be wrong.**
+
+### whosoever
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "whosoever", 185 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (185 uses with inflections), unlikely to be wrong.**
+
+### why
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "why", 282 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (282 uses with inflections), unlikely to be wrong.**
+
 ### wicked
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
+
+### wickedness
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wickedness", 130 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (130 uses with inflections), unlikely to be wrong.**
+
+### wife
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wife", 406 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+
+### wife's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wife", 406 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (406 uses with inflections), unlikely to be wrong.**
+
+### wilderness
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wilderness", 304 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (304 uses with inflections), unlikely to be wrong.**
+
+### will
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "will", 3873 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3873 uses with inflections), unlikely to be wrong.**
+
+### willeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "will", 3873 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3873 uses with inflections), unlikely to be wrong.**
+
+### willing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "will", 3873 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (3873 uses with inflections), unlikely to be wrong.**
+
+### willows
+- King James whitelist review (plant): the willow tree (Lev 23:40, Job 40:22, Ps 137:2, Isa 15:7, Isa 44:4); plant type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #554), owner approved all suggestions.**
+
+### wilt
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wilt", 245 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (245 uses with inflections), unlikely to be wrong.**
+
+### wind
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wind", 152 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+
+### winding
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wind", 152 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+
+### winds
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wind", 152 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (152 uses with inflections), unlikely to be wrong.**
+
+### wine
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wine", 236 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (236 uses with inflections), unlikely to be wrong.**
+
+### wines
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wine", 236 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (236 uses with inflections), unlikely to be wrong.**
 
 ### wineskins
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### wing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "we", 2009 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2009 uses with inflections), unlikely to be wrong.**
+
+### winged
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "we", 2009 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2009 uses with inflections), unlikely to be wrong.**
+
+### wings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "we", 2009 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (2009 uses with inflections), unlikely to be wrong.**
+
+### wisdom
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wisdom", 236 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (236 uses with inflections), unlikely to be wrong.**
+
+### wise
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wise", 257 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (257 uses with inflections), unlikely to be wrong.**
+
+### wiser
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wise", 257 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (257 uses with inflections), unlikely to be wrong.**
+
 ### witch
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### with
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "with", 6056 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6056 uses with inflections), unlikely to be wrong.**
+
+### wither
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "with", 6056 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6056 uses with inflections), unlikely to be wrong.**
+
+### withered
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "with", 6056 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6056 uses with inflections), unlikely to be wrong.**
+
+### withereth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "with", 6056 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6056 uses with inflections), unlikely to be wrong.**
+
+### within
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "within", 187 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (187 uses with inflections), unlikely to be wrong.**
 
 ### without
 - round-5: Round-5 owner ruling — keep + whitelist.
@@ -7376,9 +15929,49 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
+### withs
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "with", 6056 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (6056 uses with inflections), unlikely to be wrong.**
+
 ### witness
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
+
+### wives
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wives", 133 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (133 uses with inflections), unlikely to be wrong.**
+
+### woe
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "woe", 107 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+
+### woes
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "woe", 107 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (107 uses with inflections), unlikely to be wrong.**
+
+### wolf
+- King James whitelist review (animal): creature; Geneva 1599 Genesis 49:27 reads "as a wolfe", Tyndale reads "a raueshynge wolfe"
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #376), owner approved all suggestions.**
+
+### wolves
+- King James whitelist review (animal): the animal wolf (Ezek 22:27, Hab 1:8, Zeph 3:3, Matt 7:15, 10:16, Luke 10:3, Acts 20:29); creature type-name
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #845), owner approved all suggestions.**
+
+### woman
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "woman", 368 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (368 uses with inflections), unlikely to be wrong.**
+
+### woman's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "woman", 368 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (368 uses with inflections), unlikely to be wrong.**
+
+### women
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "women", 179 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (179 uses with inflections), unlikely to be wrong.**
+
+### women's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "women", 179 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (179 uses with inflections), unlikely to be wrong.**
 
 ### wood
 - round-4: Round-4 owner ruling — keep + whitelist.
@@ -7388,8 +15981,160 @@ zuzims
 - round-4: Round-4 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
 
+### word
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "word", 1247 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1247 uses with inflections), unlikely to be wrong.**
+
+### word's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "word", 1247 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1247 uses with inflections), unlikely to be wrong.**
+
+### words
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "word", 1247 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1247 uses with inflections), unlikely to be wrong.**
+
+### work
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "work", 718 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (718 uses with inflections), unlikely to be wrong.**
+
+### work's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "work", 718 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (718 uses with inflections), unlikely to be wrong.**
+
+### worketh
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "work", 718 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (718 uses with inflections), unlikely to be wrong.**
+
+### working
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "work", 718 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (718 uses with inflections), unlikely to be wrong.**
+
+### works
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "work", 718 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (718 uses with inflections), unlikely to be wrong.**
+
+### world
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "world", 289 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (289 uses with inflections), unlikely to be wrong.**
+
+### world's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "world", 289 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (289 uses with inflections), unlikely to be wrong.**
+
+### worlds
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "world", 289 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (289 uses with inflections), unlikely to be wrong.**
+
+### worm
+- King James whitelist review (animal): creature (Job 25:6 "man... a worm"; Isa 66:24) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1740), owner approved all suggestions.**
+
+### worms
+- King James whitelist review (animal): creature (Job 25:6 "man... a worm"; Isa 66:24) — noun only
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1740), owner approved all suggestions.**
+
+### wormwood
+- King James whitelist review (plant): bitter plant named repeatedly (Deut 29:18, Prov 5:4, Jer 9:15, Amos 5:7, Rev 8:11)
+  - **OWNER RULING 2026-07-27: DO NOT CHANGE — plant, not a verb; King James agent whitelist review (token group #1074), owner approved all suggestions.**
+
+### worship
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "worship", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+
+### worshipped
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "worship", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+
+### worshippeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "worship", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+
+### worshipping
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "worship", 191 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (191 uses with inflections), unlikely to be wrong.**
+
+### would
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "would", 486 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (486 uses with inflections), unlikely to be wrong.**
+
+### wouldest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "would", 486 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (486 uses with inflections), unlikely to be wrong.**
+
+### wrath
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wrath", 199 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (199 uses with inflections), unlikely to be wrong.**
+
 ### wrinkle
 - Ephesians 5:27: The only witness alternative (BBE "fold") is attested in KJV.db (7 hits) but overwhelmingly in the sense of a sheep-fold, not a crease or blemish; substituting it here risks confusing readers rather than clarifying (contrary to rule 1's "clarity beats mechanical substitution"). No other candidate word for a wrinkle/blemish was found attested in the corpus. A prior King James agent pass already flagged this as having no safe one-word swap; that finding is confirmed.
+
+### write
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "write", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+
+### writest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "write", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+
+### writeth
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "write", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+
+### writing
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "write", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+
+### writings
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "write", 139 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (139 uses with inflections), unlikely to be wrong.**
+
+### written
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "written", 292 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (292 uses with inflections), unlikely to be wrong.**
+
+### wrought
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wrought", 108 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (108 uses with inflections), unlikely to be wrong.**
+
+### wroughtest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "wrought", 108 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (108 uses with inflections), unlikely to be wrong.**
+
+### yea
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "yea", 339 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (339 uses with inflections), unlikely to be wrong.**
+
+### year
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "year", 908 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (908 uses with inflections), unlikely to be wrong.**
+
+### year's
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "year", 908 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (908 uses with inflections), unlikely to be wrong.**
+
+### years
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "year", 908 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (908 uses with inflections), unlikely to be wrong.**
+
+### yet
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "yet", 682 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (682 uses with inflections), unlikely to be wrong.**
+
+### young
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "young", 357 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (357 uses with inflections), unlikely to be wrong.**
+
+### younger
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "young", 357 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (357 uses with inflections), unlikely to be wrong.**
+
+### youngest
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "young", 357 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (357 uses with inflections), unlikely to be wrong.**
+
+### yourselves
+- common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "yourselves", 188 uses with inflections.)
+  - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (188 uses with inflections), unlikely to be wrong.**
 
 ### Proper names and places rationale
 

@@ -21,7 +21,9 @@ Output: `references/token_list_full.md`. Refuses to overwrite an existing
 report with fewer entries (generated-artifact guard).
 """
 import re
+import shutil
 import sqlite3
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -194,13 +196,28 @@ def main():
     lines.append("")
 
     # Generated-artifact guard: never replace a report with an emptier one.
+    # A whitelist expansion legitimately shrinks this list (whitelisted words
+    # are excluded), so --allow-shrink overrides the guard — same pattern as
+    # scripts/36 and scripts/49. The prior report is archived first, since
+    # generated artifacts are permanent (CLAUDE.md).
     if OUT_PATH.exists():
         prior = sum(1 for ln in OUT_PATH.read_text(encoding="utf-8").splitlines()
                     if re.match(r"\| \d+ \|", ln))
         if prior > len(listed):
-            raise SystemExit(
-                f"refusing to overwrite {OUT_PATH.name}: existing report has "
-                f"{prior} rows, new one has {len(listed)}")
+            if "--allow-shrink" not in sys.argv:
+                raise SystemExit(
+                    f"refusing to overwrite {OUT_PATH.name}: existing report has "
+                    f"{prior} rows, new one has {len(listed)}. Re-run with "
+                    "--allow-shrink if the shrink is legitimate (e.g. the "
+                    "whitelist grew).")
+            backup = (ROOT / "references" / "removed_words" /
+                      "pre_triage_backups" /
+                      f"token_list_full_pre_shrink_{prior}rows.md")
+            if not backup.exists():
+                backup.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(OUT_PATH, backup)
+                print(f"archived prior report ({prior} rows) to "
+                      f"{backup.relative_to(ROOT)}")
 
     OUT_PATH.write_text("\n".join(lines), encoding="utf-8")
     print(f"{OUT_PATH.relative_to(ROOT)}: {len(listed):,} groups listed "
