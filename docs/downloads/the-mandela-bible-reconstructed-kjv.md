@@ -1,6 +1,6 @@
 # The Mandela Bible Reconstructed KJV
 
-*A custom edition of The Mandela Bible. Base text: the restored King James Bible with 7595 owner-approved restorations applied. Layers on top of it: site settings (site-original.json). 0 verses differ from the restored text — every one is listed in the Change Appendix. * marks a verse restored from the base King James text (Restoration Appendix); † marks a verse changed by this edition's settings (Change Appendix).*
+*A custom edition of The Mandela Bible. Base text: the restored King James Bible with 7610 owner-approved restorations applied. Layers on top of it: site settings (site-original.json). 0 verses differ from the restored text — every one is listed in the Change Appendix. * marks a verse restored from the base King James text (Restoration Appendix); † marks a verse changed by this edition's settings (Change Appendix).*
 
 ## Contents
 
@@ -6257,7 +6257,7 @@
 **30** How should one chase a thousand, and two put ten thousand to flight, except their Rock had sold them, and the Lord had shut them up?
 **31** For their rock is not as our Rock, even our enemies themselves being judges.
 **32** For their vine is of the vine of Sodom, and of the fields of Gomorrah: their grapes are grapes of gall, their clusters are bitter:
-**33*** Their wine is the poison of dragons, and the cruel gall of asps.
+**33*** Their wine is the poison of serpents, and the cruel gall of asps.
 **34** Is not this laid up in store with me, and sealed up among my treasures?
 **35** To me belongeth vengeance, and recompence; their foot shall slide in due time: for the day of their calamity is at hand, and the things that shall come upon them make haste.
 **36** For the Lord shall judge his people, and repent himself for his servants, when he seeth that their power is gone, and there is none shut up, or left.
@@ -9196,7 +9196,7 @@
 **24** And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone.
 **25*** And the watchman cried, and told the king. And the king said, If he be alone, there is tidings in his mouth. And he came quickly, and drew near.
 **26** And the watchman saw another man running: and the watchman called unto the porter, and said, Behold another man running alone. And the king said, He also bringeth tidings.
-**27*** And the watchman said, Me pondereth the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings.
+**27*** And the watchman said, I ponder the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings.
 **28** And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed be the Lord thy God, which hath delivered up the men that lifted up their hand against my lord the king.
 **29** And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king’s servant, and me thy servant, I saw a great tumult, but I knew not what it was.
 **30** And the king said unto him, Turn aside, and stand here. And he turned aside, and stood still.
@@ -13301,7 +13301,7 @@
 **10** When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel.
 **11** So I came to Jerusalem, and was there three days.
 **12** And I arose in the night, I and some few men with me; neither told I any man what my God had put in my heart to do at Jerusalem: neither was there any beast with me, save the beast that I rode upon.
-**13*** And I went out by night by the gate of the valley, even before the dragon well, and to the dung gate, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
+**13*** And I went out by night by the gate of the valley, even before the serpent well, and to the dung gate, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
 **14** Then I went on to the gate of the fountain, and to the king’s pool: but there was no place for the beast that was under me to pass.
 **15** Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned.
 **16** And the rulers knew not whither I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.
@@ -14067,7 +14067,7 @@
 **9** As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more.
 **10** He shall return no more to his house, neither shall his place know him any more.
 **11** Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.
-**12*** Am I a sea, or a dragon, that thou settest a watch over me?
+**12*** Am I a sea, or a serpent, that thou settest a watch over me?
 **13** When I say, My bed shall comfort me, my couch shall ease my complaint;
 **14*** Then thou makest me afraid with dreams, and troublest me through visions:
 **15*** So that my soul chooseth hanging, and death rather than my life.
@@ -14679,7 +14679,7 @@
 **26** When I looked for good, then evil came unto me: and when I waited for light, there came darkness.
 **27** My bowels boiled, and rested not: the days of affliction prevented me.
 **28** I went mourning without the sun: I stood up, and I cried in the congregation.
-**29** I am a brother to dragons, and a companion to owls.
+**29*** I am a brother to serpents, and a companion to owls.
 **30** My skin is black upon me, and my bones are burned with heat.
 **31** My harp also is turned to mourning, and my organ into the voice of them that weep. 
 ### Chapter 31
@@ -15800,7 +15800,7 @@
 **16** For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.
 **17** All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant.
 **18** Our heart is not turned back, neither have our steps declined from thy way;
-**19** Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.
+**19*** Though thou hast sore broken us in the place of serpents, and covered us with the shadow of death.
 **20** If we have forgotten the name of our God, or stretched out our hands to a strange god;
 **21** Shall not God search this out? for he knoweth the secrets of the heart.
 **22** Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.
@@ -16331,7 +16331,7 @@
 **10** O God, how long shall the adversary reproach? shall the enemy blaspheme thy name for ever?
 **11** Why withdrawest thou thy hand, even thy right hand? pluck it out of thy bosom.
 **12** For God is my King of old, working salvation in the midst of the earth.
-**13** Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters.
+**13*** Thou didst divide the sea by thy strength: thou brakest the heads of the serpents in the waters.
 **14** Thou brakest the heads of leviathan in pieces, and gavest him to be meat to the people inhabiting the wilderness.
 **15*** Thou didst cleave the fountain and the flood: thou madest mighty rivers dry.
 **16** The day is thine, the night also is thine: thou hast prepared the light and the sun.
@@ -16712,7 +16712,7 @@
 **10** There shall no evil befall thee, neither shall any plague come nigh thy dwelling.
 **11** For he shall give his angels charge over thee, to keep thee in all thy ways.
 **12** They shall bear thee up in their hands, lest thou dash thy foot against a stone.
-**13** Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.
+**13*** Thou shalt tread upon the lion and adder: the young lion and the serpent shalt thou trample under feet.
 **14** Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.
 **15** He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.
 **16** With long life will I satisfy him, and shew him my salvation. 
@@ -17796,7 +17796,7 @@
 **4** Praise him, ye heavens of heavens, and ye waters that be above the heavens.
 **5** Let them praise the name of the Lord: for he commanded, and they were created.
 **6** He hath also stablished them for ever and ever: he hath made a decree which shall not pass.
-**7** Praise the Lord from the earth, ye dragons, and all deeps:
+**7*** Praise the Lord from the earth, ye serpents, and all deeps:
 **8** Fire, and hail; snow, and vapour; stormy wind fulfilling his word:
 **9** Mountains, and all hills; fruitful trees, and all cedars:
 **10** Beasts, and all cattle; creeping things, and flying fowl:
@@ -19498,7 +19498,7 @@
 **19** And Babylon, the glory of kingdoms, the beauty of the Chaldees’ excellency, shall be as when God overthrew Sodom and Gomorrah.
 **20** It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there.
 **21*** But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and wild goats shall dance there.
-**22*** And the wild beasts of the desert shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
+**22*** And the wild beasts of the desert shall cry in their desolate houses, and serpents in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
 ### Chapter 14
 
 **1** For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
@@ -19750,7 +19750,7 @@
 **21*** For, behold, the Lord cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall reveal her blood, and shall no more cover her slain.
 ### Chapter 27
 
-**1** In that day the Lord with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.
+**1*** In that day the Lord with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the serpent that is in the sea.
 **2** In that day sing ye unto her, A vineyard of red wine.
 **3** I the Lord do keep it; I will water it every moment: lest any hurt it, I will keep it night and day.
 **4** Fury is not in me: who would set the briers and thorns against me in battle? I would go through them, I would burn them together.
@@ -19928,7 +19928,7 @@
 **10** It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever.
 **11*** But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of desolation.
 **12** They shall call the nobles thereof to the kingdom, but none shall be there, and all her princes shall be nothing.
-**13*** And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an abode of dragons, and a court for owls.
+**13*** And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an abode of serpents, and a court for owls.
 **14*** The wild beasts of the desert shall also meet with the wild beasts of the island, and the wild goat shall cry to his fellow; the great owl also shall rest there, and find for herself a place of rest.
 **15*** There shall the great owl make her nest, and lay, and bring forth her young, and gather under her shadow: there shall the eagles also be gathered, every one with her companion.
 **16*** Seek ye out of the book of the Lord, and read: no one of these shall fail, none shall want her companion: for my mouth it hath commanded, and his spirit it hath gathered them.
@@ -19941,7 +19941,7 @@
 **4*** Say to them that are of a fearful heart, Be strong, fear not: behold, thy God will come with vengeance, even God with a recompence; he will come and save thee.
 **5*** Then the eyes of the blind shall be opened, and the ears of the deaf shall hear.
 **6** Then shall the lame man leap as an hart, and the tongue of the dumb sing: for in the wilderness shall waters break out, and streams in the desert.
-**7*** And the parched ground shall become a pool, and the thirsty land springs of water: in the abode of dragons, where each lay, shall be grass with reeds and rushes.
+**7*** And the parched ground shall become a pool, and the thirsty land springs of water: in the abode of serpents, where each lay, shall be grass with reeds and rushes.
 **8** And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein.
 **9** No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there:
 **10*** And the ransomed of the Lord shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and thankfulness, and sorrow and sighing shall flee away. 
@@ -20155,7 +20155,7 @@
 **17*** Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are put out, they are quenched as tow.
 **18** Remember ye not the former things, neither consider the things of old.
 **19** Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.
-**20** The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen.
+**20*** The beast of the field shall honour me, the serpents and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen.
 **21** This people have I formed for myself; they shall shew forth my praise.
 **22** But thou hast not called upon me, O Jacob; but thou hast been weary of me, O Israel.
 **23** Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense.
@@ -20328,7 +20328,7 @@
 **6*** Lift up thine eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished.
 **7*** Hearken unto me, ye that know righteousness, the people in whose heart is my law; fear ye not the reproach of men, neither be ye afraid of their reproaches.
 **8** For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation.
-**9** Awake, awake, put on strength, O arm of the Lord; awake, as in the ancient days, in the generations of old. Art thou not it that hath cut Rahab, and wounded the dragon?
+**9*** Awake, awake, put on strength, O arm of the Lord; awake, as in the ancient days, in the generations of old. Art thou not it that hath cut Rahab, and wounded the serpent?
 **10** Art thou not it which hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?
 **11*** Therefore the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy shall be upon their head: they shall obtain thankfulness and joy; and sorrow and mourning shall flee away.
 **12*** I, even I, am he that comforteth thee: who art thou, that thou shouldest be afraid of a man that shall die, and of the son of man which shall be made as grass;
@@ -20885,7 +20885,7 @@
 **8** Their tongue is as an arrow shot out; it speaketh deceit: one speaketh peaceably to his neighbour with his mouth, but in heart he layeth his wait.
 **9** Shall I not visit them for these things? saith the Lord: shall not my soul be avenged on such a nation as this?
 **10*** For the mountains will I take up a weeping and wailing, and for the dwelling places of the wilderness a lamentation, because they are burned up, so that none can pass through them; neither can men hear the voice of the cattle; both the fowl of the heavens and the beast are fled; they are gone.
-**11** And I will make Jerusalem heaps, and a den of dragons; and I will make the cities of Judah desolate, without an inhabitant.
+**11*** And I will make Jerusalem heaps, and a den of serpents; and I will make the cities of Judah desolate, without an inhabitant.
 **12** Who is the wise man, that may understand this? and who is he to whom the mouth of the Lord hath spoken, that he may declare it, for what the land perisheth and is burned up like a wilderness, that none passeth through?
 **13** And the Lord saith, Because they have forsaken my law which I set before them, and have not obeyed my voice, neither walked therein;
 **14** But have walked after the imagination of their own heart, and after Baalim, which their fathers taught them:
@@ -20924,7 +20924,7 @@
 **19** Woe is me for my hurt! my wound is grievous: but I said, Truly this is a grief, and I must bear it.
 **20** My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they are not: there is none to stretch forth my tent any more, and to set up my curtains.
 **21*** For the shepherds are become brutish, and have not sought the Lord: therefore they shall not prosper, and all their flocks shall be scattered.
-**22*** Behold, the noise of the rumour is come, and a great tumult out of the north country, to make the cities of Judah desolate, and a den of dragons.
+**22*** Behold, the noise of the rumour is come, and a great tumult out of the north country, to make the cities of Judah desolate, and a den of serpents.
 **23** O Lord, I know that the way of man is not in himself: it is not in man that walketh to direct his steps.
 **24** O Lord, correct me, but with judgment; not in thine anger, lest thou bring me to nothing.
 **25*** Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his abode desolate. 
@@ -21008,7 +21008,7 @@
 **3** And their nobles have sent their little ones to the waters: they came to the pits, and found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads.
 **4*** Because the ground is broken, for there was no rain in the earth, the husbandmen were ashamed, they covered their heads.
 **5*** Yea, the hind also delivered in the field, and forsook it, because there was no grass.
-**6*** And the wild asses did stand in the high places, they drew in the wind like dragons; their eyes did fail, because there was no grass.
+**6*** And the wild asses did stand in the high places, they drew in the wind like serpents; their eyes did fail, because there was no grass.
 **7** O Lord, though our iniquities testify against us, do thou it for thy name’s sake: for our backslidings are many; we have sinned against thee.
 **8*** O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man that turneth aside to stay for a night?
 **9** Why shouldest thou be as a man astonied, as a mighty man that cannot save? yet thou, O Lord, art in the midst of us, and we are called by thy name; leave us not.
@@ -21939,7 +21939,7 @@
 **30*** Flee, get thee far off, dwell deep, O ye inhabitants of Hazor, saith the Lord; for Nebuchadrezzar king of Babylon hath taken counsel against thee, and hath conceived a purpose against thee.
 **31*** Arise, get thee up unto the nation that is at ease, that dwelleth without care, saith the Lord, which have neither gates nor bars, which dwell alone.
 **32** And their camels shall be a booty, and the multitude of their cattle a spoil: and I will scatter into all winds them that are in the utmost corners; and I will bring their calamity from all sides thereof, saith the Lord.
-**33** And Hazor shall be a dwelling for dragons, and a desolation for ever: there shall no man abide there, nor any son of man dwell in it.
+**33*** And Hazor shall be a dwelling for serpents, and a desolation for ever: there shall no man abide there, nor any son of man dwell in it.
 **34** The word of the Lord that came to Jeremiah the prophet against Elam in the beginning of the reign of Zedekiah king of Judah, saying,
 **35*** Thus saith the Lord of hosts; Behold, I will break the bow of Elam, the ruler of their might.
 **36** And upon Elam will I bring the four winds from the four quarters of heaven, and will scatter them toward all those winds; and there shall be no nation whither the outcasts of Elam shall not come.
@@ -22029,10 +22029,10 @@
 **31** One post shall run to meet another, and one messenger to meet another, to shew the king of Babylon that his city is taken at one end,
 **32** And that the passages are stopped, and the reeds they have burned with fire, and the men of war are affrighted.
 **33*** For thus saith the Lord of hosts, the God of Israel; The daughter of Babylon is like a threshing floor, it is time to thresh her: yet a little while, and the time of her harvest shall come.
-**34** Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a dragon, he hath filled his belly with my delicates, he hath cast me out.
+**34*** Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a serpent, he hath filled his belly with my delicates, he hath cast me out.
 **35** The violence done to me and to my flesh be upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say.
 **36** Therefore thus saith the Lord; Behold, I will plead thy cause, and take vengeance for thee; and I will dry up her sea, and make her springs dry.
-**37** And Babylon shall become heaps, a dwellingplace for dragons, an astonishment, and an hissing, without an inhabitant.
+**37*** And Babylon shall become heaps, a dwellingplace for serpents, an astonishment, and an hissing, without an inhabitant.
 **38*** They shall roar together like lions: they shall howl as lions' whelps.
 **39** In their heat I will make their feasts, and I will make them drunken, that they may rejoice, and sleep a perpetual sleep, and not wake, saith the Lord.
 **40** I will bring them down like lambs to the slaughter, like rams with he goats.
@@ -22221,7 +22221,7 @@
 
 **1** How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.
 **2*** The precious sons of Zion, like to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!
-**3*** Even the sea dragons draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.
+**3*** Even the sea serpents draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.
 **4** The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them.
 **5** They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.
 **6** For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.
@@ -23049,7 +23049,7 @@
 
 **1** In the tenth year, in the tenth month, in the twelfth day of the month, the word of the Lord came unto me, saying,
 **2** Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:
-**3** Speak, and say, Thus saith the Lord God; Behold, I am against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river is mine own, and I have made it for myself.
+**3*** Speak, and say, Thus saith the Lord God; Behold, I am against thee, Pharaoh king of Egypt, the great serpent that lieth in the midst of his rivers, which hath said, My river is mine own, and I have made it for myself.
 **4** But I will put hooks in thy jaws, and I will cause the fish of thy rivers to stick unto thy scales, and I will bring thee up out of the midst of thy rivers, and all the fish of thy rivers shall stick unto thy scales.
 **5** And I will leave thee thrown into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven.
 **6** And all the inhabitants of Egypt shall know that I am the Lord, because they have been a staff of reed to the house of Israel.
@@ -23119,7 +23119,7 @@
 ### Chapter 32
 
 **1** And it came to pass in the twelfth year, in the twelfth month, in the first day of the month, that the word of the Lord came unto me, saying,
-**2*** Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a dragon in the seas: and thou camest forth with thy rivers, and didst trouble the waters with thy feet, and madest their rivers foul.
+**2*** Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a serpent in the seas: and thou camest forth with thy rivers, and didst trouble the waters with thy feet, and madest their rivers foul.
 **3** Thus saith the Lord God; I will therefore spread out my net over thee with a company of many people; and they shall bring thee up in my net.
 **4** Then will I leave thee upon the land, I will cast thee forth upon the open field, and will cause all the fowls of the heaven to remain upon thee, and I will fill the beasts of the whole earth with thee.
 **5** And I will lay thy flesh upon the mountains, and fill the valleys with thy height.
@@ -24611,7 +24611,7 @@
 **5** For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?
 **6*** Therefore I will make Samaria as an heap of the field, and as vineyards: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.
 **7** And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered it of the hire of an harlot, and they shall return to the hire of an harlot.
-**8** Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.
+**8*** Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the serpents, and mourning as the owls.
 **9** For her wound is incurable; for it is come unto Judah; he is come unto the gate of my people, even to Jerusalem.
 **10** Declare ye it not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust.
 **11*** Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Beth–ezel; he shall receive of thee his standing.
@@ -25210,7 +25210,7 @@
 
 **1** The burden of the word of the Lord to Israel by Malachi.
 **2*** I have loved thee, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
-**3** And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
+**3*** And I hated Esau, and laid his mountains and his heritage waste for the serpents of the wilderness.
 **4*** Whereas Edom saith, We are lacking, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
 **5*** And thine eyes shall see, and ye shall say, The Lord will be magnified from the border of Israel.
 **6*** A son honoureth his father, and a servant his master: if then I be a father, where is mine honour? and if I be a master, where is my fear? saith the Lord of hosts unto thee, O priests, that despise my name. And ye say, Wherein have we despised thy name?
@@ -33993,7 +33993,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 4:7** (#8522)
   - was: If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
   - now: If thou dost well, shalt thou not be accepted? and if thou dost not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
-- **Genesis 4:8** (#21272)
+- **Genesis 4:8** (#22590)
   - was: And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
   - now: And Cain spake with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 - **Genesis 4:12** (#4435)
@@ -34158,7 +34158,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 12:8** (#6582)
   - was: And he removed from thence unto a mountain on the east of Beth–el, and pitched his tent, having Beth–el on the west, and Hai on the east: and there he builded an altar unto the Lord, and called upon the name of the Lord.
   - now: And he removed from thence unto a mountain on the east of Beth–el, and pitched his tent, having Beth–el on the west, and Hai on the east: and there he built an altar unto the Lord, and called upon the name of the Lord.
-- **Genesis 12:10** (#21273)
+- **Genesis 12:10** (#22591)
   - was: And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine was grievous in the land.
   - now: And there was a famine in the land: and Abram went down into Egypt to dwell there; for the famine was grievous in the land.
 - **Genesis 14:8** (#3131)
@@ -34188,7 +34188,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 15:9** (#4449)
   - was: And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon.
   - now: And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young bird.
-- **Genesis 17:3** (#21274)
+- **Genesis 17:3** (#22592)
   - was: And Abram fell on his face: and God talked with him, saying,
   - now: And Abram fell on his face: and God spake with him, saying,
 - **Genesis 17:10** (#14827)
@@ -34206,7 +34206,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 17:13** (#19200)
   - was: He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in thine flesh for an everlasting covenant.
   - now: He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in thy flesh for an everlasting covenant.
-- **Genesis 17:22** (#21275)
+- **Genesis 17:22** (#22593)
   - was: And he left off talking with him, and God went up from Abraham.
   - now: And he left off speaking with him, and God went up from Abraham.
 - **Genesis 18:4** (#14829)
@@ -34239,7 +34239,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 19:2** (#19203)
   - was: And he said, Behold now, my lords, turn in, I pray thee, into thine servant’s house, and tarry all night, and wash thine feet, and ye shall rise up early, and go on thine ways. And they said, Nay; but we will abide in the street all night.
   - now: And he said, Behold now, my lords, turn in, I pray thee, into thy servant’s house, and tarry all night, and wash thy feet, and ye shall rise up early, and go on thy ways. And they said, Nay; but we will abide in the street all night.
-- **Genesis 19:2** (#21276)
+- **Genesis 19:2** (#22594)
   - was: And he said, Behold now, my lords, turn in, I pray thee, into thy servant’s house, and tarry all night, and wash thy feet, and ye shall rise up early, and go on thy ways. And they said, Nay; but we will abide in the street all night.
   - now: And he said, Behold now, my lords, turn in, I pray thee, into thy servant’s house, and stay all night, and wash thy feet, and ye shall rise up early, and go on thy ways. And they said, Nay; but we will abide in the street all night.
 - **Genesis 19:7** (#14832)
@@ -34248,7 +34248,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 19:8** (#14833)
   - was: Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof.
   - now: Behold now, I have two daughters which have not known man; let me, I pray thee, bring them out unto thee, and do ye to them as is good in thine eyes: only unto these men do nothing; for therefore came they under the shadow of my roof.
-- **Genesis 19:9** (#21277)
+- **Genesis 19:9** (#22595)
   - was: And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door.
   - now: And they said, Stand back. And they said again, This one fellow came in to dwell, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door.
 - **Genesis 19:14** (#14834)
@@ -34257,7 +34257,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 19:16** (#4452)
   - was: And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the Lord being merciful unto him: and they brought him forth, and set him without the city.
   - now: And while he tarried, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the Lord being merciful unto him: and they brought him forth, and set him without the city.
-- **Genesis 19:16** (#21278)
+- **Genesis 19:16** (#22596)
   - was: And while he tarried, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the Lord being merciful unto him: and they brought him forth, and set him without the city.
   - now: And while he stayed, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the Lord being merciful unto him: and they brought him forth, and set him without the city.
 - **Genesis 19:20** (#3222)
@@ -34266,7 +34266,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 19:27** (#8525)
   - was: And Abraham gat up early in the morning to the place where he stood before the Lord:
   - now: And Abraham got up early in the morning to the place where he stood before the Lord:
-- **Genesis 20:1** (#21279)
+- **Genesis 20:1** (#22597)
   - was: And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.
   - now: And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and dwelt in Gerar.
 - **Genesis 20:14** (#8968)
@@ -34290,13 +34290,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 21:22** (#17953)
   - was: And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou dost:
   - now: And it came to pass at that time, that Abimelech and Phichol the head captain of his host spake unto Abraham, saying, God is with thee in all that thou dost:
-- **Genesis 21:23** (#21280)
+- **Genesis 21:23** (#22598)
   - was: Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son: but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned.
   - now: Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son: but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast dwelt.
 - **Genesis 21:32** (#17954)
   - was: Thus they made a covenant at Beer–sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines.
   - now: Thus they made a covenant at Beer–sheba: then Abimelech rose up, and Phichol the head captain of his host, and they returned into the land of the Philistines.
-- **Genesis 21:34** (#21281)
+- **Genesis 21:34** (#22599)
   - was: And Abraham sojourned in the Philistines’ land many days. 
   - now: And Abraham dwelt in the Philistines’ land many days. 
 - **Genesis 22:1** (#3611)
@@ -34317,10 +34317,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 23:4** (#14836)
   - was: I am a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight.
   - now: I am a stranger and a sojourner with thee: give me a possession of a buryingplace with thee, that I may bury my dead out of my sight.
-- **Genesis 23:4** (#21282)
+- **Genesis 23:4** (#22600)
   - was: I am a stranger and a sojourner with thee: give me a possession of a buryingplace with thee, that I may bury my dead out of my sight.
   - now: I am a stranger and a dweller with thee: give me a possession of a buryingplace with thee, that I may bury my dead out of my sight.
-- **Genesis 23:6** (#21283)
+- **Genesis 23:6** (#22601)
   - was: Hear us, my lord: thou art a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead.
   - now: Hear us, my lord: thou art a mighty prince among us: in the choice of our graves bury thy dead; none of us shall withhold from thee his grave, but that thou mayest bury thy dead.
 - **Genesis 23:8** (#14837)
@@ -34359,7 +34359,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 24:33** (#11866)
   - was: And there was set meat before him to eat: but he said, I will not eat, until I have told mine errand. And he said, Speak on.
   - now: And there was set meat before him to eat: but he said, I will not eat, until I have told my message. And he said, Speak on.
-- **Genesis 24:54** (#21284)
+- **Genesis 24:54** (#22602)
   - was: And they did eat and drink, he and the men that were with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master.
   - now: And they did eat and drink, he and the men that were with him, and stayed all night; and they rose up in the morning, and he said, Send me away unto my master.
 - **Genesis 24:60** (#4461)
@@ -34383,7 +34383,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 25:29** (#4464)
   - was: And Jacob sod pottage: and Esau came from the field, and he was faint:
   - now: And Jacob boiled pottage: and Esau came from the field, and he was faint:
-- **Genesis 26:3** (#21285)
+- **Genesis 26:3** (#22603)
   - was: Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;
   - now: Dwell in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;
 - **Genesis 26:8** (#3094)
@@ -34413,7 +34413,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 27:37** (#11123)
   - was: And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?
   - now: And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with wheat and wine have I sustained him: and what shall I do now unto thee, my son?
-- **Genesis 27:44** (#21286)
+- **Genesis 27:44** (#22604)
   - was: And tarry with him a few days, until thy brother’s fury turn away;
   - now: And stay with him a few days, until thy brother’s fury turn away;
 - **Genesis 27:45** (#11867)
@@ -34422,13 +34422,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 27:45** (#14840)
   - was: Until thy brother’s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be denied also of you both in one day?
   - now: Until thy brother’s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be denied also of thee both in one day?
-- **Genesis 28:11** (#21287)
+- **Genesis 28:11** (#22605)
   - was: And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep.
   - now: And he lighted upon a certain place, and stayed there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep.
 - **Genesis 30:8** (#4467)
   - was: And Rachel said, With great wrestlings have I wrestled with my sister, and I have prevailed: and she called his name Naphtali.
   - now: And Rachel said, With great strivings have I wrestled with my sister, and I have prevailed: and she called his name Naphtali.
-- **Genesis 30:27** (#21288)
+- **Genesis 30:27** (#22606)
   - was: And Laban said unto him, I pray thee, if I have found favour in thine eyes, tarry: for I have learned by experience that the Lord hath blessed me for thy sake.
   - now: And Laban said unto him, I pray thee, if I have found favour in thine eyes, stay: for I have learned by experience that the Lord hath blessed me for thy sake.
 - **Genesis 30:35** (#3548)
@@ -34536,10 +34536,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 31:37** (#8972)
   - was: Whereas thou hast searched all my goods, what hast thou found of all thy household posessions? Set it here before my brethren and thy brethren, that they may judge between us both.
   - now: Whereas thou hast searched all my goods, what hast thou found of all thy household possessions? Set it here before my brethren and thy brethren, that they may judge between us both.
-- **Genesis 31:54** (#21289)
+- **Genesis 31:54** (#22607)
   - was: Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mount.
   - now: Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and stayed all night in the mount.
-- **Genesis 32:4** (#21290)
+- **Genesis 32:4** (#22608)
   - was: And he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant Jacob saith thus, I have sojourned with Laban, and stayed there until now:
   - now: And he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant Jacob saith thus, I have dwelt with Laban, and stayed there until now:
 - **Genesis 32:5** (#8973)
@@ -34617,16 +34617,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 35:5** (#14853)
   - was: And they journeyed: and the terror of God was upon the cities that were round about them, and they did not pursue after the sons of Jacob.
   - now: And they journeyed: and the fear of God was upon the cities that were round about them, and they did not pursue after the sons of Jacob.
-- **Genesis 35:13** (#21291)
+- **Genesis 35:13** (#22609)
   - was: And God went up from him in the place where he talked with him.
   - now: And God went up from him in the place where he spake with him.
-- **Genesis 35:14** (#21292)
+- **Genesis 35:14** (#22610)
   - was: And Jacob set up a pillar in the place where he talked with him, even a pillar of stone: and he poured a drink offering thereon, and he poured oil thereon.
   - now: And Jacob set up a pillar in the place where he spake with him, even a pillar of stone: and he poured a drink offering thereon, and he poured oil thereon.
 - **Genesis 35:18** (#3223)
   - was: And it came to pass, as her soul was in departing, (for she died) that she called his name Ben–oni: but his father called him Benjamin.
   - now: And it came to pass, as her soul was in departing, for she died that she called his name Ben–oni: but his father called him Benjamin.
-- **Genesis 35:27** (#21293)
+- **Genesis 35:27** (#22611)
   - was: And Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which is Hebron, where Abraham and Isaac sojourned.
   - now: And Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which is Hebron, where Abraham and Isaac dwelt.
 - **Genesis 36:15** (#3618)
@@ -34638,7 +34638,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 36:15** (#11324)
   - was: These were chiefs of the sons of Esau: the sons of Eliphaz the firstborn son of Esau; chief Teman, chief Omar, chief Zepho, chief Kenaz,
   - now: These were the sons of Esau: the sons of Eliphaz the firstborn son of Esau; Teman, Omar, Zepho, Kenaz,
-- **Genesis 36:43** (#21294)
+- **Genesis 36:43** (#22612)
   - was: Duke Magdiel, duke Iram: these be the dukes of Edom, according to their habitations in the land of their possession: he is Esau the father of the Edomites. 
   - now: Duke Magdiel, duke Iram: these be the dukes of Edom, according to their dwelling places in the land of their possession: he is Esau the father of the Edomites. 
 - **Genesis 37:6** (#14854)
@@ -34695,7 +34695,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 40:9** (#17957)
   - was: And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;
   - now: And the head butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;
-- **Genesis 40:14** (#21295)
+- **Genesis 40:14** (#22613)
   - was: But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:
   - now: But ponder on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:
 - **Genesis 40:16** (#17958)
@@ -34920,7 +34920,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 43:10** (#4494)
   - was: For except we had lingered, surely now we had returned this second time.
   - now: For except we had tarried, surely now we had returned this second time.
-- **Genesis 43:10** (#21296)
+- **Genesis 43:10** (#22614)
   - was: For except we had tarried, surely now we had returned this second time.
   - now: For except we had stayed, surely now we had returned this second time.
 - **Genesis 43:11** (#14871)
@@ -35046,13 +35046,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 45:8** (#14884)
   - was: So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
   - now: So now it was not thee that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
-- **Genesis 45:9** (#21297)
+- **Genesis 45:9** (#22615)
   - was: Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:
   - now: Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, stay not:
 - **Genesis 45:12** (#14885)
   - was: And, behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto you.
   - now: And, behold, thine eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto thee.
-- **Genesis 45:15** (#21298)
+- **Genesis 45:15** (#22616)
   - was: Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.
   - now: Moreover he kissed all his brethren, and wept upon them: and after that his brethren spake with him.
 - **Genesis 45:17** (#14886)
@@ -35097,7 +35097,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 47:3** (#14891)
   - was: And Pharaoh said unto his brethren, What is your occupation? And they said unto Pharaoh, Thy servants are shepherds, both we, and also our fathers.
   - now: And Pharaoh said unto his brethren, What is thine occupation? And they said unto Pharaoh, Thy servants are shepherds, both we, and also our fathers.
-- **Genesis 47:4** (#21299)
+- **Genesis 47:4** (#22617)
   - was: They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.
   - now: They said moreover unto Pharaoh, For to dwell in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.
 - **Genesis 47:6** (#4497)
@@ -35157,7 +35157,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Genesis 49:4** (#4499)
   - was: Unstable as water, thou shalt not excel; because thou wentest up to thy father’s bed; then defiledst thou it: he went up to my couch.
   - now: Unstable as water, thou shalt not excel; because thou wentest up to thy father's bed; then defiled thou it: he went up to my bed.
-- **Genesis 49:5** (#21300)
+- **Genesis 49:5** (#22618)
   - was: Simeon and Levi are brethren; instruments of cruelty are in their habitations.
   - now: Simeon and Levi are brethren; instruments of cruelty are in their dwelling places.
 - **Genesis 49:6** (#4500)
@@ -35283,13 +35283,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 3:22** (#19248)
   - was: But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon thine sons, and upon thine daughters; and ye shall spoil the Egyptians. 
   - now: But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon thy sons, and upon thy daughters; and ye shall spoil the Egyptians. 
-- **Exodus 3:22** (#21301)
+- **Exodus 3:22** (#22619)
   - was: But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon thy sons, and upon thy daughters; and ye shall spoil the Egyptians. 
   - now: But every woman shall borrow of her neighbour, and of her that dwelleth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon thy sons, and upon thy daughters; and ye shall spoil the Egyptians. 
 - **Exodus 4:10** (#11852)
   - was: And Moses said unto the Lord, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue.
   - now: And Moses said unto the Lord, O my Lord, I am not a noble, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue.
-- **Exodus 4:14** (#21302)
+- **Exodus 4:14** (#22620)
   - was: And the anger of the Lord was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.
   - now: And the anger of the Lord was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be thankful in his heart.
 - **Exodus 4:15** (#14911)
@@ -35532,7 +35532,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 12:20** (#14947)
   - was: Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.
   - now: Ye shall eat nothing leavened; in all thine habitations shall ye eat unleavened bread.
-- **Exodus 12:20** (#21303)
+- **Exodus 12:20** (#22621)
   - was: Ye shall eat nothing leavened; in all thine habitations shall ye eat unleavened bread.
   - now: Ye shall eat nothing leavened; in all thine dwelling places shall ye eat unleavened bread.
 - **Exodus 12:21** (#14948)
@@ -35577,16 +35577,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 12:36** (#10461)
   - was: And the Lord gave the people favour in the sight of the Egyptians, so that they lent unto them such things as they required. And they spoiled the Egyptians.
   - now: And the Lord gave the people favour in the sight of the Egyptians, so that they gave unto them such things as they required. And they spoiled the Egyptians.
-- **Exodus 12:39** (#21304)
+- **Exodus 12:39** (#22622)
   - was: And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.
   - now: And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not stay, neither had they prepared for themselves any victual.
-- **Exodus 12:40** (#21305)
+- **Exodus 12:40** (#22623)
   - was: Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years.
   - now: Now the dwelling of the children of Israel, who dwelt in Egypt, was four hundred and thirty years.
 - **Exodus 12:45** (#4245)
   - was: A foreigner and an hired servant shall not eat thereof.
   - now: A stranger and an hired servant shall not eat thereof.
-- **Exodus 12:48** (#21306)
+- **Exodus 12:48** (#22624)
   - was: And when a stranger shall sojourn with thee, and will keep the passover to the Lord, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.
   - now: And when a stranger shall dwell with thee, and will keep the passover to the Lord, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.
 - **Exodus 12:49** (#4246)
@@ -35598,7 +35598,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 12:49** (#14955)
   - was: One law shall be to him that is born in the land, and unto the stranger that sojourneth among you.
   - now: One law shall be to him that is born in the land, and unto the stranger that sojourneth among thee.
-- **Exodus 12:49** (#21307)
+- **Exodus 12:49** (#22625)
   - was: One law shall be to him that is born in the land, and unto the stranger that sojourneth among thee.
   - now: One law shall be to him that is born in the land, and unto the stranger that dwelleth among thee.
 - **Exodus 13:3** (#14956)
@@ -35631,7 +35631,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 14:25** (#8533)
   - was: And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.
   - now: And took off their chariot wheels, that they drove them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.
-- **Exodus 15:2** (#21308)
+- **Exodus 15:2** (#22626)
   - was: The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.
   - now: The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an abode; my father’s God, and I will exalt him.
 - **Exodus 15:5** (#4247)
@@ -35646,7 +35646,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 15:12** (#4250)
   - was: Thou stretchedst out thy right hand, the earth swallowed them.
   - now: Thou heldest forth thy right hand, the earth swallowed them.
-- **Exodus 15:13** (#21309)
+- **Exodus 15:13** (#22627)
   - was: Thou in thy mercy hast led forth the people which thou hast redeemed: thou hast guided them in thy strength unto thy holy habitation.
   - now: Thou in thy mercy hast led forth the people which thou hast redeemed: thou hast guided them in thy strength unto thy holy abode.
 - **Exodus 16:4** (#14960)
@@ -35721,7 +35721,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 18:3** (#8932)
   - was: And her two sons; of which the name of the one was Gereshom; for he said, I have been an sojourner in a foreign land:
   - now: And her two sons; of which the name of the one was Gereshom; for he said, I have been a sojourner in a strange land:
-- **Exodus 18:3** (#21310)
+- **Exodus 18:3** (#22628)
   - was: And her two sons; of which the name of the one was Gereshom; for he said, I have been a sojourner in a strange land:
   - now: And her two sons; of which the name of the one was Gereshom; for he said, I have been a dweller in a strange land:
 - **Exodus 18:7** (#3647)
@@ -35772,7 +35772,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 20:22** (#14976)
   - was: And the Lord said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven.
   - now: And the Lord said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with thee from heaven.
-- **Exodus 20:22** (#21311)
+- **Exodus 20:22** (#22629)
   - was: And the Lord said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with thee from heaven.
   - now: And the Lord said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have spake with thee from heaven.
 - **Exodus 20:23** (#14977)
@@ -35886,7 +35886,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 24:14** (#14984)
   - was: And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them.
   - now: And he said unto the elders, Tarry ye here for us, until we come again unto thee: and, behold, Aaron and Hur are with thee: if any man have any matters to do, let him come unto them.
-- **Exodus 24:14** (#21312)
+- **Exodus 24:14** (#22630)
   - was: And he said unto the elders, Tarry ye here for us, until we come again unto thee: and, behold, Aaron and Hur are with thee: if any man have any matters to do, let him come unto them.
   - now: And he said unto the elders, Stay ye here for us, until we come again unto thee: and, behold, Aaron and Hur are with thee: if any man have any matters to do, let him come unto them.
 - **Exodus 24:18** (#8536)
@@ -35898,7 +35898,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 25:10** (#8935)
   - was: And they shall make an ark of acacia wood: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof.
   - now: And they shall make an ark of shittim wood: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof.
-- **Exodus 25:30** (#21313)
+- **Exodus 25:30** (#22631)
   - was: And thou shalt set upon the table shewbread before me alway.
   - now: And thou shalt set upon the table shewbread before me always.
 - **Exodus 25:38** (#3569)
@@ -36141,7 +36141,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 32:30** (#19292)
   - was: And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the Lord; peradventure I shall make an atonement for thine sin.
   - now: And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the Lord; peradventure I shall make an atonement for thy sin.
-- **Exodus 33:9** (#21314)
+- **Exodus 33:9** (#22632)
   - was: And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood at the door of the tabernacle, and the Lord talked with Moses.
   - now: And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood at the door of the tabernacle, and the Lord spake with Moses.
 - **Exodus 33:22** (#4285)
@@ -36168,13 +36168,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 34:29** (#8537)
   - was: And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.
   - now: And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shined while he talked with him.
-- **Exodus 34:29** (#21315)
+- **Exodus 34:29** (#22633)
   - was: And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shined while he talked with him.
   - now: And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shined while he spake with him.
 - **Exodus 34:30** (#8538)
   - was: And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.
   - now: And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shined; and they were afraid to come nigh him.
-- **Exodus 34:31** (#21316)
+- **Exodus 34:31** (#22634)
   - was: And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses talked with them.
   - now: And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses spake with them.
 - **Exodus 34:33** (#3661)
@@ -36195,7 +36195,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Exodus 35:3** (#15002)
   - was: Ye shall kindle no fire throughout your habitations upon the sabbath day.
   - now: Ye shall kindle no fire throughout thine habitations upon the sabbath day.
-- **Exodus 35:3** (#21317)
+- **Exodus 35:3** (#22635)
   - was: Ye shall kindle no fire throughout thine habitations upon the sabbath day.
   - now: Ye shall kindle no fire throughout thine dwelling places upon the sabbath day.
 - **Exodus 35:5** (#15003)
@@ -36582,13 +36582,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 13:39** (#5625)
   - was: Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that groweth in the skin; he is clean.
   - now: Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be somewhat white; it is but a spot that groweth in the skin; he is clean.
-- **Leviticus 13:46** (#21318)
+- **Leviticus 13:46** (#22636)
   - was: All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be.
   - now: All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his abode be.
 - **Leviticus 13:49** (#5626)
   - was: And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:
   - now: And if the plague be yellow or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:
-- **Leviticus 14:8** (#21319)
+- **Leviticus 14:8** (#22637)
   - was: And he that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall tarry abroad out of his tent seven days.
   - now: And he that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall stay abroad out of his tent seven days.
 - **Leviticus 14:9** (#5627)
@@ -36630,7 +36630,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 16:29** (#19305)
   - was: And this shall be a statute for ever unto thee: that in the seventh month, on the tenth day of the month, ye shall afflict thine souls, and do no work at all, whether it be one of thine own country, or a stranger that sojourneth among thee:
   - now: And this shall be a statute for ever unto thee: that in the seventh month, on the tenth day of the month, ye shall afflict thy souls, and do no work at all, whether it be one of thine own country, or a stranger that sojourneth among thee:
-- **Leviticus 16:29** (#21320)
+- **Leviticus 16:29** (#22638)
   - was: And this shall be a statute for ever unto thee: that in the seventh month, on the tenth day of the month, ye shall afflict thy souls, and do no work at all, whether it be one of thine own country, or a stranger that sojourneth among thee:
   - now: And this shall be a statute for ever unto thee: that in the seventh month, on the tenth day of the month, ye shall afflict thy souls, and do no work at all, whether it be one of thine own country, or a stranger that dwelleth among thee:
 - **Leviticus 16:30** (#15040)
@@ -36651,13 +36651,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 17:8** (#15043)
   - was: And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,
   - now: And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among thee, that offereth a burnt offering or sacrifice,
-- **Leviticus 17:8** (#21321)
+- **Leviticus 17:8** (#22639)
   - was: And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among thee, that offereth a burnt offering or sacrifice,
   - now: And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which dwell among thee, that offereth a burnt offering or sacrifice,
 - **Leviticus 17:10** (#15044)
   - was: And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.
   - now: And whatsoever man there be of the house of Israel, or of the strangers that sojourn among thee, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.
-- **Leviticus 17:10** (#21322)
+- **Leviticus 17:10** (#22640)
   - was: And whatsoever man there be of the house of Israel, or of the strangers that sojourn among thee, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.
   - now: And whatsoever man there be of the house of Israel, or of the strangers that dwell among thee, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.
 - **Leviticus 17:11** (#15045)
@@ -36669,13 +36669,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 17:12** (#15046)
   - was: Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.
   - now: Therefore I said unto the children of Israel, No soul of thee shall eat blood, neither shall any stranger that sojourneth among thee eat blood.
-- **Leviticus 17:12** (#21323)
+- **Leviticus 17:12** (#22641)
   - was: Therefore I said unto the children of Israel, No soul of thee shall eat blood, neither shall any stranger that sojourneth among thee eat blood.
   - now: Therefore I said unto the children of Israel, No soul of thee shall eat blood, neither shall any stranger that dwelleth among thee eat blood.
 - **Leviticus 17:13** (#15047)
   - was: And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
   - now: And whatsoever man there be of the children of Israel, or of the strangers that sojourn among thee, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
-- **Leviticus 17:13** (#21324)
+- **Leviticus 17:13** (#22642)
   - was: And whatsoever man there be of the children of Israel, or of the strangers that sojourn among thee, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
   - now: And whatsoever man there be of the children of Israel, or of the strangers that dwell among thee, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
 - **Leviticus 17:15** (#15048)
@@ -36723,7 +36723,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 18:26** (#15054)
   - was: Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:
   - now: Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of thine own nation, nor any stranger that sojourneth among thee:
-- **Leviticus 18:26** (#21325)
+- **Leviticus 18:26** (#22643)
   - was: Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of thine own nation, nor any stranger that sojourneth among thee:
   - now: Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of thine own nation, nor any stranger that dwelleth among thee:
 - **Leviticus 18:27** (#3079)
@@ -36825,7 +36825,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 19:33** (#19320)
   - was: And if a stranger sojourn with thee in thine land, ye shall not vex him.
   - now: And if a stranger sojourn with thee in thy land, ye shall not vex him.
-- **Leviticus 19:33** (#21326)
+- **Leviticus 19:33** (#22644)
   - was: And if a stranger sojourn with thee in thy land, ye shall not vex him.
   - now: And if a stranger dwell with thee in thy land, ye shall not vex him.
 - **Leviticus 19:34** (#15070)
@@ -36843,7 +36843,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 19:36** (#19322)
   - was: Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the Lord thine God, which brought thee out of the land of Egypt.
   - now: Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the Lord thy God, which brought thee out of the land of Egypt.
-- **Leviticus 20:2** (#21327)
+- **Leviticus 20:2** (#22645)
   - was: Again, thou shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.
   - now: Again, thou shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that dwell in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.
 - **Leviticus 20:6** (#3104)
@@ -36915,7 +36915,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 22:3** (#19326)
   - was: Say unto them, Whosoever he be of all thine seed among thine generations, that goeth unto the holy things, which the children of Israel hallow unto the Lord, having his uncleanness upon him, that soul shall be cut off from my presence: I am the Lord.
   - now: Say unto them, Whosoever he be of all thy seed among thy generations, that goeth unto the holy things, which the children of Israel hallow unto the Lord, having his uncleanness upon him, that soul shall be cut off from my presence: I am the Lord.
-- **Leviticus 22:10** (#21328)
+- **Leviticus 22:10** (#22646)
   - was: There shall no stranger eat of the holy thing: a sojourner of the priest, or an hired servant, shall not eat of the holy thing.
   - now: There shall no stranger eat of the holy thing: a dweller of the priest, or an hired servant, shall not eat of the holy thing.
 - **Leviticus 22:19** (#15082)
@@ -36984,7 +36984,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 23:17** (#15094)
   - was: Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; they are the firstfruits unto the Lord.
   - now: Ye shall bring out of thine habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; they are the firstfruits unto the Lord.
-- **Leviticus 23:17** (#21329)
+- **Leviticus 23:17** (#22647)
   - was: Ye shall bring out of thine habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; they are the firstfruits unto the Lord.
   - now: Ye shall bring out of thine dwelling places two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; they are the firstfruits unto the Lord.
 - **Leviticus 23:21** (#15095)
@@ -37092,7 +37092,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 25:6** (#15109)
   - was: And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,
   - now: And the sabbath of the land shall be meat for thee; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,
-- **Leviticus 25:6** (#21330)
+- **Leviticus 25:6** (#22648)
   - was: And the sabbath of the land shall be meat for thee; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,
   - now: And the sabbath of the land shall be meat for thee; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that dwelleth with thee,
 - **Leviticus 25:9** (#15110)
@@ -37134,7 +37134,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 25:21** (#15116)
   - was: Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.
   - now: Then I will command my blessing upon thee in the sixth year, and it shall bring forth fruit for three years.
-- **Leviticus 25:23** (#21331)
+- **Leviticus 25:23** (#22649)
   - was: The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me.
   - now: The land shall not be sold for ever: for the land is mine; for ye are strangers and dwellers with me.
 - **Leviticus 25:24** (#15117)
@@ -37149,7 +37149,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 25:35** (#5646)
   - was: And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee.
   - now: And if thy brother be waxen poor, and fallen in poverty with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee.
-- **Leviticus 25:35** (#21332)
+- **Leviticus 25:35** (#22650)
   - was: And if thy brother be waxen poor, and fallen in poverty with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee.
   - now: And if thy brother be waxen poor, and fallen in poverty with thee; then thou shalt relieve him: yea, though he be a stranger, or a dweller; that he may live with thee.
 - **Leviticus 25:38** (#15118)
@@ -37164,7 +37164,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 25:39** (#9132)
   - was: And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a slave:
   - now: And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondman:
-- **Leviticus 25:40** (#21333)
+- **Leviticus 25:40** (#22651)
   - was: But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:
   - now: But as an hired servant, and as a dweller, he shall be with thee, and shall serve thee unto the year of jubile:
 - **Leviticus 25:44** (#5648)
@@ -37179,7 +37179,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 25:45** (#19349)
   - was: Moreover of the children of the strangers that do sojourn among thee, of them shall ye buy, and of their families that are with thee, which they begat in thine land: and they shall be thine possession.
   - now: Moreover of the children of the strangers that do sojourn among thee, of them shall ye buy, and of their families that are with thee, which they begat in thy land: and they shall be thy possession.
-- **Leviticus 25:45** (#21334)
+- **Leviticus 25:45** (#22652)
   - was: Moreover of the children of the strangers that do sojourn among thee, of them shall ye buy, and of their families that are with thee, which they begat in thy land: and they shall be thy possession.
   - now: Moreover of the children of the strangers that do dwell among thee, of them shall ye buy, and of their families that are with thee, which they begat in thy land: and they shall be thy possession.
 - **Leviticus 25:46** (#15121)
@@ -37188,7 +37188,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Leviticus 25:46** (#19350)
   - was: And ye shall take them as an inheritance for thine children after thee, to inherit them for a possession; they shall be thine bondmen for ever: but over thine brethren the children of Israel, ye shall not rule one over another with rigour.
   - now: And ye shall take them as an inheritance for thy children after thee, to inherit them for a possession; they shall be thy bondmen for ever: but over thy brethren the children of Israel, ye shall not rule one over another with rigour.
-- **Leviticus 25:47** (#21335)
+- **Leviticus 25:47** (#22653)
   - was: And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger’s family:
   - now: And if a dweller or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or dweller by thee, or to the stock of the stranger’s family:
 - **Leviticus 25:55** (#15122)
@@ -37470,16 +37470,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 9:14** (#15160)
   - was: And if a stranger shall sojourn among you, and will keep the passover unto the Lord; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land.
   - now: And if a stranger shall sojourn among thee, and will keep the passover unto the Lord; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land.
-- **Numbers 9:14** (#21336)
+- **Numbers 9:14** (#22654)
   - was: And if a stranger shall sojourn among thee, and will keep the passover unto the Lord; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land.
   - now: And if a stranger shall dwell among thee, and will keep the passover unto the Lord; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land.
-- **Numbers 9:16** (#21337)
+- **Numbers 9:16** (#22655)
   - was: So it was alway: the cloud covered it by day, and the appearance of fire by night.
   - now: So it was always: the cloud covered it by day, and the appearance of fire by night.
-- **Numbers 9:19** (#21338)
+- **Numbers 9:19** (#22656)
   - was: And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the Lord, and journeyed not.
   - now: And when the cloud stayed long upon the tabernacle many days, then the children of Israel kept the charge of the Lord, and journeyed not.
-- **Numbers 9:22** (#21339)
+- **Numbers 9:22** (#22657)
   - was: Or whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed.
   - now: Or whether it were two days, or a month, or a year, that the cloud stayed upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed.
 - **Numbers 10:8** (#15161)
@@ -37500,7 +37500,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 10:10** (#19376)
   - was: Also in the day of thine gladness, and in thine solemn days, and in the beginnings of thine months, ye shall blow with the trumpets over thine burnt offerings, and over the sacrifices of thine peace offerings; that they may be to thee for a memorial before thine God: I am the Lord thine God.
   - now: Also in the day of thy gladness, and in thy solemn days, and in the beginnings of thy months, ye shall blow with the trumpets over thy burnt offerings, and over the sacrifices of thy peace offerings; that they may be to thee for a memorial before thy God: I am the Lord thy God.
-- **Numbers 10:10** (#21340)
+- **Numbers 10:10** (#22658)
   - was: Also in the day of thy gladness, and in thy solemn days, and in the beginnings of thy months, ye shall blow with the trumpets over thy burnt offerings, and over the sacrifices of thy peace offerings; that they may be to thee for a memorial before thy God: I am the Lord thy God.
   - now: Also in the day of thy thankfulness, and in thy solemn days, and in the beginnings of thy months, ye shall blow with the trumpets over thy burnt offerings, and over the sacrifices of thy peace offerings; that they may be to thee for a memorial before thy God: I am the Lord thy God.
 - **Numbers 10:28** (#3513)
@@ -37521,7 +37521,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 11:15** (#5900)
   - was: And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wretchedness.
   - now: And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my misery.
-- **Numbers 11:17** (#21341)
+- **Numbers 11:17** (#22659)
   - was: And I will come down and talk with thee there: and I will take of the spirit which is upon thee, and will put it upon them; and they shall bear the burden of the people with thee, that thou bear it not thyself alone.
   - now: And I will come down and speak with thee there: and I will take of the spirit which is upon thee, and will put it upon them; and they shall bear the burden of the people with thee, that thou bear it not thyself alone.
 - **Numbers 11:18** (#15165)
@@ -37560,7 +37560,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 13:22** (#3228)
   - was: And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)
   - now: And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. Now Hebron was built seven years before Zoan in Egypt.
-- **Numbers 14:3** (#21342)
+- **Numbers 14:3** (#22660)
   - was: And wherefore hath the Lord brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?
   - now: And wherefore hath the Lord brought us unto this land, to fall by the sword, that our wives and our children should be prey? were it not better for us to return into Egypt?
 - **Numbers 14:12** (#5902)
@@ -37593,7 +37593,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 14:31** (#19379)
   - was: But thine little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised.
   - now: But thy little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised.
-- **Numbers 14:31** (#21343)
+- **Numbers 14:31** (#22661)
   - was: But thy little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised.
   - now: But thy little ones, which ye said should be prey, them will I bring in, and they shall know the land which ye have despised.
 - **Numbers 14:32** (#15174)
@@ -37626,7 +37626,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 15:2** (#15179)
   - was: Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you,
   - now: Speak unto the children of Israel, and say unto them, When ye be come into the land of thine habitations, which I give unto thee,
-- **Numbers 15:2** (#21344)
+- **Numbers 15:2** (#22662)
   - was: Speak unto the children of Israel, and say unto them, When ye be come into the land of thine habitations, which I give unto thee,
   - now: Speak unto the children of Israel, and say unto them, When ye be come into the land of thine dwelling places, which I give unto thee,
 - **Numbers 15:3** (#15180)
@@ -37641,7 +37641,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 15:14** (#19383)
   - was: And if a stranger sojourn with thee, or whosoever be among thee in thine generations, and will offer an offering made by fire, of a sweet savour unto the Lord; as ye do, so he shall do.
   - now: And if a stranger sojourn with thee, or whosoever be among thee in thy generations, and will offer an offering made by fire, of a sweet savour unto the Lord; as ye do, so he shall do.
-- **Numbers 15:14** (#21345)
+- **Numbers 15:14** (#22663)
   - was: And if a stranger sojourn with thee, or whosoever be among thee in thy generations, and will offer an offering made by fire, of a sweet savour unto the Lord; as ye do, so he shall do.
   - now: And if a stranger dwell with thee, or whosoever be among thee in thy generations, and will offer an offering made by fire, of a sweet savour unto the Lord; as ye do, so he shall do.
 - **Numbers 15:15** (#15182)
@@ -37650,13 +37650,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 15:15** (#19384)
   - was: One ordinance shall be both for thee of the congregation, and also for the stranger that sojourneth with thee, an ordinance for ever in thine generations: as ye are, so shall the stranger be before the Lord.
   - now: One ordinance shall be both for thee of the congregation, and also for the stranger that sojourneth with thee, an ordinance for ever in thy generations: as ye are, so shall the stranger be before the Lord.
-- **Numbers 15:15** (#21346)
+- **Numbers 15:15** (#22664)
   - was: One ordinance shall be both for thee of the congregation, and also for the stranger that sojourneth with thee, an ordinance for ever in thy generations: as ye are, so shall the stranger be before the Lord.
   - now: One ordinance shall be both for thee of the congregation, and also for the stranger that dwelleth with thee, an ordinance for ever in thy generations: as ye are, so shall the stranger be before the Lord.
 - **Numbers 15:16** (#15183)
   - was: One law and one manner shall be for you, and for the stranger that sojourneth with you.
   - now: One law and one manner shall be for thee, and for the stranger that sojourneth with thee.
-- **Numbers 15:16** (#21347)
+- **Numbers 15:16** (#22665)
   - was: One law and one manner shall be for thee, and for the stranger that sojourneth with thee.
   - now: One law and one manner shall be for thee, and for the stranger that dwelleth with thee.
 - **Numbers 15:18** (#15184)
@@ -37686,10 +37686,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 15:23** (#19387)
   - was: Even all that the Lord hath commanded thee by the hand of Moses, from the day that the Lord commanded Moses, and beyond among thine generations;
   - now: Even all that the Lord hath commanded thee by the hand of Moses, from the day that the Lord commanded Moses, and beyond among thy generations;
-- **Numbers 15:26** (#21348)
+- **Numbers 15:26** (#22666)
   - was: And it shall be forgiven all the congregation of the children of Israel, and the stranger that sojourneth among them; seeing all the people were in ignorance.
   - now: And it shall be forgiven all the congregation of the children of Israel, and the stranger that dwelleth among them; seeing all the people were in ignorance.
-- **Numbers 15:29** (#21349)
+- **Numbers 15:29** (#22667)
   - was: Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourneth among them.
   - now: Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that dwelleth among them.
 - **Numbers 15:38** (#5905)
@@ -37842,7 +37842,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 19:4** (#5909)
   - was: And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:
   - now: And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood over against the tabernacle of the congregation seven times:
-- **Numbers 19:10** (#21350)
+- **Numbers 19:10** (#22668)
   - was: And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.
   - now: And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that dwelleth among them, for a statute for ever.
 - **Numbers 19:13** (#5910)
@@ -37884,7 +37884,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 22:19** (#15215)
   - was: Now therefore, I pray you, tarry ye also here this night, that I may know what the Lord will say unto me more.
   - now: Now therefore, I pray thee, tarry ye also here this night, that I may know what the Lord will say unto me more.
-- **Numbers 22:19** (#21351)
+- **Numbers 22:19** (#22669)
   - was: Now therefore, I pray thee, tarry ye also here this night, that I may know what the Lord will say unto me more.
   - now: Now therefore, I pray thee, stay ye also here this night, that I may know what the Lord will say unto me more.
 - **Numbers 23:22** (#3681)
@@ -38190,7 +38190,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 35:12** (#15256)
   - was: And they shall be unto you cities for refuge from the avenger; that the slayer die not, until he stand before the congregation in judgment.
   - now: And they shall be unto thee cities for refuge from the avenger; that the slayer die not, until he stand before the congregation in judgment.
-- **Numbers 35:15** (#21352)
+- **Numbers 35:15** (#22670)
   - was: These six cities shall be a refuge, both for the children of Israel, and for the stranger, and for the sojourner among them: that every one that killeth any person unawares may flee thither.
   - now: These six cities shall be a refuge, both for the children of Israel, and for the stranger, and for the dweller among them: that every one that killeth any person unawares may flee thither.
 - **Numbers 35:20** (#5929)
@@ -38211,7 +38211,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Numbers 36:1** (#18156)
   - was: And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
   - now: And the fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the fathers of the children of Israel:
-- **Numbers 36:6** (#21353)
+- **Numbers 36:6** (#22671)
   - was: This is the thing which the Lord doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.
   - now: This is the thing which the Lord doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they ponder best; only to the family of the tribe of their father shall they marry.
 - **Deuteronomy 1:2** (#3234)
@@ -38352,7 +38352,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 1:39** (#19437)
   - was: Moreover thine little ones, which ye said should be a prey, and thine children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.
   - now: Moreover thy little ones, which ye said should be a prey, and thy children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.
-- **Deuteronomy 1:39** (#21354)
+- **Deuteronomy 1:39** (#22672)
   - was: Moreover thy little ones, which ye said should be a prey, and thy children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.
   - now: Moreover thy little ones, which ye said should be prey, and thy children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.
 - **Deuteronomy 1:40** (#15282)
@@ -38418,10 +38418,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 2:31** (#8548)
   - was: And the Lord said unto me, Behold, I have begun to give Sihon and his land before thee: begin to possess, that thou mayest inherit his land.
   - now: And the Lord said unto me, Behold, I have began to give Sihon and his land before thee: begin to possess, that thou mayest inherit his land.
-- **Deuteronomy 2:35** (#21355)
+- **Deuteronomy 2:35** (#22673)
   - was: Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took.
   - now: Only the cattle we took for prey unto ourselves, and the spoil of the cities which we took.
-- **Deuteronomy 3:7** (#21356)
+- **Deuteronomy 3:7** (#22674)
   - was: But all the cattle, and the spoil of the cities, we took for a prey to ourselves.
   - now: But all the cattle, and the spoil of the cities, we took for prey to ourselves.
 - **Deuteronomy 3:9** (#3142)
@@ -38571,7 +38571,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 5:4** (#15317)
   - was: The Lord talked with you face to face in the mount out of the midst of the fire,
   - now: The Lord talked with thee face to face in the mount out of the midst of the fire,
-- **Deuteronomy 5:4** (#21357)
+- **Deuteronomy 5:4** (#22675)
   - was: The Lord talked with thee face to face in the mount out of the midst of the fire,
   - now: The Lord spake with thee face to face in the mount out of the midst of the fire,
 - **Deuteronomy 5:5** (#3143)
@@ -38592,7 +38592,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 5:23** (#19456)
   - was: And it came to pass, when ye heard the voice out of the midst of the darkness, for the mountain did burn with fire, that ye came near unto me, even all the heads of thine tribes, and thine elders;
   - now: And it came to pass, when ye heard the voice out of the midst of the darkness, for the mountain did burn with fire, that ye came near unto me, even all the heads of thy tribes, and thine elders;
-- **Deuteronomy 5:24** (#21358)
+- **Deuteronomy 5:24** (#22676)
   - was: And ye said, Behold, the Lord our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth.
   - now: And ye said, Behold, the Lord our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth speak with man, and he liveth.
 - **Deuteronomy 5:28** (#15321)
@@ -38625,7 +38625,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 6:1** (#19461)
   - was: Now these are the commandments, the statutes, and the judgments, which the Lord thine God commanded to teach thee, that ye might do them in the land whither ye go to possess it:
   - now: Now these are the commandments, the statutes, and the judgments, which the Lord thy God commanded to teach thee, that ye might do them in the land whither ye go to possess it:
-- **Deuteronomy 6:7** (#21359)
+- **Deuteronomy 6:7** (#22677)
   - was: And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
   - now: And thou shalt teach them diligently unto thy children, and shalt speak of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
 - **Deuteronomy 6:8** (#11842)
@@ -38793,7 +38793,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 10:17** (#19472)
   - was: For the Lord thine God is God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward:
   - now: For the Lord thy God is God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward:
-- **Deuteronomy 11:1** (#21360)
+- **Deuteronomy 11:1** (#22678)
   - was: Therefore thou shalt love the Lord thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.
   - now: Therefore thou shalt love the Lord thy God, and keep his charge, and his statutes, and his judgments, and his commandments, always.
 - **Deuteronomy 11:2** (#15354)
@@ -38937,7 +38937,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 12:5** (#19487)
   - was: But unto the place which the Lord thine God shall choose out of all thine tribes to put his name there, even unto his habitation shall ye seek, and thither thou shalt come:
   - now: But unto the place which the Lord thy God shall choose out of all thy tribes to put his name there, even unto his habitation shall ye seek, and thither thou shalt come:
-- **Deuteronomy 12:5** (#21361)
+- **Deuteronomy 12:5** (#22679)
   - was: But unto the place which the Lord thy God shall choose out of all thy tribes to put his name there, even unto his habitation shall ye seek, and thither thou shalt come:
   - now: But unto the place which the Lord thy God shall choose out of all thy tribes to put his name there, even unto his abode shall ye seek, and thither thou shalt come:
 - **Deuteronomy 12:6** (#15378)
@@ -39150,7 +39150,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 18:4** (#11146)
   - was: The first also of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.
   - now: The first also of thy wheat, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.
-- **Deuteronomy 18:6** (#21362)
+- **Deuteronomy 18:6** (#22680)
   - was: And if a Levite come from any of thy gates out of all Israel, where he sojourned, and come with all the desire of his mind unto the place which the Lord shall choose;
   - now: And if a Levite come from any of thy gates out of all Israel, where he dwelt, and come with all the desire of his mind unto the place which the Lord shall choose;
 - **Deuteronomy 18:8** (#4126)
@@ -39318,13 +39318,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 26:5** (#4149)
   - was: And thou shalt speak and say before the Lord thy God, A Syrian ready to perish was my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:
   - now: And thou shalt speak and say before the Lord thy God, A Syrian ready to perish was my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and plenteous:
-- **Deuteronomy 26:5** (#21363)
+- **Deuteronomy 26:5** (#22681)
   - was: And thou shalt speak and say before the Lord thy God, A Syrian ready to perish was my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and plenteous:
   - now: And thou shalt speak and say before the Lord thy God, A Syrian ready to perish was my father, and he went down into Egypt, and dwelt there with a few, and became there a nation, great, mighty, and plenteous:
 - **Deuteronomy 26:11** (#15419)
   - was: And thou shalt rejoice in every good thing which the Lord thy God hath given unto thee, and unto thine house, thou, and the Levite, and the stranger that is among you.
   - now: And thou shalt rejoice in every good thing which the Lord thy God hath given unto thee, and unto thine house, thou, and the Levite, and the stranger that is among thee.
-- **Deuteronomy 26:15** (#21364)
+- **Deuteronomy 26:15** (#22682)
   - was: Look down from thy holy habitation, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey.
   - now: Look down from thy holy abode, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey.
 - **Deuteronomy 26:17** (#4150)
@@ -39363,7 +39363,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 28:27** (#10429)
   - was: The Lord will smite thee with the boil of Egypt, and with the emerods, and with the scab, and with the itch, whereof thou canst not be healed.
   - now: The Lord will smite thee with the plagues of Egypt, and with the boils, and with the scab, and with the itch, whereof thou canst not be healed.
-- **Deuteronomy 28:33** (#21365)
+- **Deuteronomy 28:33** (#22683)
   - was: The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
   - now: The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed always:
 - **Deuteronomy 28:35** (#4155)
@@ -39375,7 +39375,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 28:47** (#4156)
   - was: Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;
   - now: Because thou didst not worship the Lord thy God with joy, and with gladness of heart, for the abundance of all things;
-- **Deuteronomy 28:47** (#21366)
+- **Deuteronomy 28:47** (#22684)
   - was: Because thou didst not worship the Lord thy God with joy, and with gladness of heart, for the abundance of all things;
   - now: Because thou didst not worship the Lord thy God with joy, and with thankfulness of heart, for the abundance of all things;
 - **Deuteronomy 28:51** (#11149)
@@ -39555,6 +39555,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 32:33** (#4168)
   - was: Their wine is the poison of dragons, and the cruel venom of asps.
   - now: Their wine is the poison of dragons, and the cruel gall of asps.
+- **Deuteronomy 32:33** (#23274)
+  - was: Their wine is the poison of dragons, and the cruel gall of asps.
+  - now: Their wine is the poison of serpents, and the cruel gall of asps.
 - **Deuteronomy 32:38** (#4169)
   - was: Which did eat the fat of their sacrifices, and drank the wine of their drink offerings? let them rise up and help you, and be your protection.
   - now: Which did eat the fat of their sacrifices, and drank the wine of their drink offerings? let them rise up and help you, and be your refuge.
@@ -39588,7 +39591,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Deuteronomy 33:28** (#11150)
   - was: Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also his heavens shall drop down dew.
   - now: Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of wheat and wine; also his heavens shall drop down dew.
-- **Deuteronomy 34:6** (#21367)
+- **Deuteronomy 34:6** (#22685)
   - was: And he buried him in a valley in the land of Moab, over against Beth–peor: but no man knoweth of his sepulchre unto this day.
   - now: And he buried him in a valley in the land of Moab, over against Beth–peor: but no man knoweth of his grave unto this day.
 - **Deuteronomy 34:12** (#15450)
@@ -39807,7 +39810,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 8:2** (#20459)
   - was: And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee in wait for the city behind it.
   - now: And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto thyself: lay thee in wait for the city behind it.
-- **Joshua 8:2** (#21368)
+- **Joshua 8:2** (#22686)
   - was: And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto thyself: lay thee in wait for the city behind it.
   - now: And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for prey unto thyself: lay thee in wait for the city behind it.
 - **Joshua 8:6** (#3245)
@@ -39840,7 +39843,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 8:21** (#10357)
   - was: And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.
   - now: And when Joshua and all Israel saw that they had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.
-- **Joshua 8:27** (#21369)
+- **Joshua 8:27** (#22687)
   - was: Only the cattle and the spoil of that city Israel took for a prey unto themselves, according unto the word of the Lord which he commanded Joshua.
   - now: Only the cattle and the spoil of that city Israel took for prey unto themselves, according unto the word of the Lord which he commanded Joshua.
 - **Joshua 8:35** (#5524)
@@ -39918,7 +39921,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 11:8** (#7279)
   - was: And the Lord delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephoth–maim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining.
   - now: And the Lord delivered them into the hand of Israel, who smote them, and chased them unto great Sidon, and unto Misrephoth–maim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining.
-- **Joshua 11:14** (#21370)
+- **Joshua 11:14** (#22688)
   - was: And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe.
   - now: And all the spoil of these cities, and the cattle, the children of Israel took for prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe.
 - **Joshua 13:1** (#8557)
@@ -40011,7 +40014,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joshua 20:8** (#11639)
   - was: And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.
   - now: And on the other side Jordan by Jericho eastward, they appointed Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.
-- **Joshua 20:9** (#21371)
+- **Joshua 20:9** (#22689)
   - was: These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation. 
   - now: These were the cities appointed for all the children of Israel, and for the stranger that dwelleth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation. 
 - **Joshua 22:2** (#15503)
@@ -40308,13 +40311,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 3:24** (#5546)
   - was: When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour were locked, they said, Surely he covereth his feet in his summer chamber.
   - now: When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour were inclosed, they said, Surely he covereth his feet in his summer chamber.
-- **Judges 3:25** (#21372)
+- **Judges 3:25** (#22690)
   - was: And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened them: and, behold, their lord was fallen down dead on the earth.
   - now: And they stayed till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened them: and, behold, their lord was fallen down dead on the earth.
 - **Judges 3:26** (#5547)
   - was: And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath.
   - now: And Ehud escaped while they tarried, and passed beyond the images, and escaped unto Seirath.
-- **Judges 3:26** (#21373)
+- **Judges 3:26** (#22691)
   - was: And Ehud escaped while they tarried, and passed beyond the images, and escaped unto Seirath.
   - now: And Ehud escaped while they stayed, and passed beyond the images, and escaped unto Seirath.
 - **Judges 3:28** (#11960)
@@ -40368,7 +40371,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 5:28** (#3098)
   - was: The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot so long in coming? why tarry the wheels of his chariots?
   - now: The mother of Sisera looked out at a opening, and cried through the lattice, Why is his chariot so long in coming? why tarry the wheels of his chariots?
-- **Judges 5:28** (#21374)
+- **Judges 5:28** (#22692)
   - was: The mother of Sisera looked out at a opening, and cried through the lattice, Why is his chariot so long in coming? why tarry the wheels of his chariots?
   - now: The mother of Sisera looked out at a opening, and cried through the lattice, Why is his chariot so long in coming? why stay the wheels of his chariots?
 - **Judges 5:30** (#5555)
@@ -40377,7 +40380,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 5:30** (#6614)
   - was: Have they not found? have they not divided the prey; to every man a damsel or two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, meet for the necks of them that take the spoil?
   - now: Have they not found? have they not divided the prey; to every man a damsel or two; to Sisera a prey of diverse colours, a prey of diverse colours of needlework, of diverse colours of needlework on both sides, meet for the necks of them that take the spoil?
-- **Judges 5:30** (#21375)
+- **Judges 5:30** (#22693)
   - was: Have they not found? have they not divided the prey; to every man a damsel or two; to Sisera a prey of diverse colours, a prey of diverse colours of needlework, of diverse colours of needlework on both sides, meet for the necks of them that take the spoil?
   - now: Have they not found? have they not divided the prey; to every man a damsel or two; to Sisera prey of diverse colours, prey of diverse colours of needlework, of diverse colours of needlework on both sides, meet for the necks of them that take the spoil?
 - **Judges 6:6** (#11961)
@@ -40398,10 +40401,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 6:10** (#19569)
   - was: And I said unto thee, I am the Lord thine God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice.
   - now: And I said unto thee, I am the Lord thy God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice.
-- **Judges 6:17** (#21376)
+- **Judges 6:17** (#22694)
   - was: And he said unto him, If now I have found grace in thy sight, then shew me a sign that thou talkest with me.
   - now: And he said unto him, If now I have found grace in thy sight, then shew me a sign that thou speakest with me.
-- **Judges 6:18** (#21377)
+- **Judges 6:18** (#22695)
   - was: Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set it before thee. And he said, I will tarry until thou come again.
   - now: Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set it before thee. And he said, I will stay until thou come again.
 - **Judges 6:38** (#8566)
@@ -40473,7 +40476,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 8:26** (#5562)
   - was: And the weight of the golden earrings that he requested was a thousand and seven hundred shekels of gold; beside ornaments, and collars, and purple raiment that was on the kings of Midian, and beside the chains that were about their camels’ necks.
   - now: And the weight of the golden earrings that he requested was a thousand and seven hundred shekels of gold; beside ornaments, and jewels, and purple raiment that was on the kings of Midian, and beside the chains that were about their camels' necks.
-- **Judges 8:32** (#21378)
+- **Judges 8:32** (#22696)
   - was: And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abi–ezrites.
   - now: And Gideon the son of Joash died in a good old age, and was buried in the grave of Joash his father, in Ophrah of the Abi–ezrites.
 - **Judges 9:2** (#15560)
@@ -40593,7 +40596,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 14:7** (#7571)
   - was: And he went down, and talked with the woman; and she pleased Samson well.
   - now: And he went down, and talked with the woman; and she pleased Sampson well.
-- **Judges 14:7** (#21379)
+- **Judges 14:7** (#22697)
   - was: And he went down, and talked with the woman; and she pleased Sampson well.
   - now: And he went down, and spake with the woman; and she pleased Sampson well.
 - **Judges 14:10** (#7572)
@@ -40740,13 +40743,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 17:2** (#5579)
   - was: And he said unto his mother, The eleven hundred shekels of silver that were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be thou of the Lord, my son.
   - now: And he said unto his mother, The eleven hundred shekels of silver that were taken from thee, about which thou swarest, and spakest of also in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be thou of the Lord, my son.
-- **Judges 17:7** (#21380)
+- **Judges 17:7** (#22698)
   - was: And there was a young man out of Beth–lehem–judah of the family of Judah, who was a Levite, and he sojourned there.
   - now: And there was a young man out of Beth–lehem–judah of the family of Judah, who was a Levite, and he dwelt there.
-- **Judges 17:8** (#21381)
+- **Judges 17:8** (#22699)
   - was: And the man departed out of the city from Beth–lehem–judah to sojourn where he could find a place: and he came to mount Ephraim to the house of Micah, as he journeyed.
   - now: And the man departed out of the city from Beth–lehem–judah to dwell where he could find a place: and he came to mount Ephraim to the house of Micah, as he journeyed.
-- **Judges 17:9** (#21382)
+- **Judges 17:9** (#22700)
   - was: And Micah said unto him, Whence comest thou? And he said unto him, I am a Levite of Beth–lehem–judah, and I go to sojourn where I may find a place.
   - now: And Micah said unto him, Whence comest thou? And he said unto him, I am a Levite of Beth–lehem–judah, and I go to dwell where I may find a place.
 - **Judges 18:6** (#15574)
@@ -40767,13 +40770,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 18:15** (#11352)
   - was: And they turned thitherward, and came to the house of the young man the Levite, even unto the house of Micah, and greeted him.
   - now: And they turned thitherward, and came to the house of the young man the Levite, even unto the house of Micah, and greeteth him.
-- **Judges 18:20** (#21383)
+- **Judges 18:20** (#22701)
   - was: And the priest’s heart was glad, and he took the ephod, and the teraphim, and the graven image, and went in the midst of the people.
   - now: And the priest’s heart was thankful, and he took the ephod, and the teraphim, and the graven image, and went in the midst of the people.
 - **Judges 18:28** (#7284)
   - was: And there was no deliverer, because it was far from Zidon, and they had no business with any man; and it was in the valley that lieth by Beth–rehob. And they built a city, and dwelt therein.
   - now: And there was no deliverer, because it was far from Sidon, and they had no business with any man; and it was in the valley that lieth by Beth–rehob. And they built a city, and dwelt therein.
-- **Judges 19:1** (#21384)
+- **Judges 19:1** (#22702)
   - was: And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Beth–lehem–judah.
   - now: And it came to pass in those days, when there was no king in Israel, that there was a certain Levite dwelling on the side of mount Ephraim, who took to him a concubine out of Beth–lehem–judah.
 - **Judges 19:3** (#11962)
@@ -40785,13 +40788,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 19:5** (#19576)
   - was: And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel’s father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go thine way.
   - now: And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel’s father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go thy way.
-- **Judges 19:6** (#21385)
+- **Judges 19:6** (#22703)
   - was: And they sat down, and did eat and drink both of them together: for the damsel’s father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry.
   - now: And they sat down, and did eat and drink both of them together: for the damsel’s father had said unto the man, Be content, I pray thee, and stay all night, and let thine heart be merry.
 - **Judges 19:8** (#5581)
   - was: And he arose early in the morning on the fifth day to depart: and the damsel’s father said, Comfort thine heart, I pray thee. And they tarried until afternoon, and they did eat both of them.
   - now: And he arose early in the morning on the fifth day to depart: and the damsel's father said, Comfort thine heart, I pray thee. And they tarried until the day declined, and they did eat both of them.
-- **Judges 19:8** (#21386)
+- **Judges 19:8** (#22704)
   - was: And he arose early in the morning on the fifth day to depart: and the damsel's father said, Comfort thine heart, I pray thee. And they tarried until the day declined, and they did eat both of them.
   - now: And he arose early in the morning on the fifth day to depart: and the damsel's father said, Comfort thine heart, I pray thee. And they stayed until the day declined, and they did eat both of them.
 - **Judges 19:9** (#15577)
@@ -40800,13 +40803,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 19:9** (#19577)
   - was: And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel’s father, said unto him, Behold, now the day draweth toward evening, I pray thee tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get thee early on thine way, that thou mayest go home.
   - now: And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel’s father, said unto him, Behold, now the day draweth toward evening, I pray thee tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get thee early on thy way, that thou mayest go home.
-- **Judges 19:9** (#21387)
+- **Judges 19:9** (#22705)
   - was: And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel’s father, said unto him, Behold, now the day draweth toward evening, I pray thee tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get thee early on thy way, that thou mayest go home.
   - now: And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel’s father, said unto him, Behold, now the day draweth toward evening, I pray thee stay all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get thee early on thy way, that thou mayest go home.
-- **Judges 19:10** (#21388)
+- **Judges 19:10** (#22706)
   - was: But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him.
   - now: But the man would not stay that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him.
-- **Judges 19:16** (#21389)
+- **Judges 19:16** (#22707)
   - was: And, behold, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he sojourned in Gibeah: but the men of the place were Benjamites.
   - now: And, behold, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he dwelt in Gibeah: but the men of the place were Benjamites.
 - **Judges 19:19** (#10577)
@@ -40863,7 +40866,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Judges 21:21** (#15583)
   - was: And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.
   - now: And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch thee every man his wife of the daughters of Shiloh, and go to the land of Benjamin.
-- **Ruth 1:1** (#21390)
+- **Ruth 1:1** (#22708)
   - was: Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth–lehem–judah went to sojourn in the country of Moab, he, and his wife, and his two sons.
   - now: Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth–lehem–judah went to dwell in the country of Moab, he, and his wife, and his two sons.
 - **Ruth 1:8** (#15584)
@@ -40887,7 +40890,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ruth 1:13** (#19580)
   - was: Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for thine sakes that the hand of the Lord is gone out against me.
   - now: Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for thy sakes that the hand of the Lord is gone out against me.
-- **Ruth 1:13** (#21391)
+- **Ruth 1:13** (#22709)
   - was: Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for thy sakes that the hand of the Lord is gone out against me.
   - now: Would ye stay for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for thy sakes that the hand of the Lord is gone out against me.
 - **Ruth 1:16** (#3533)
@@ -40908,7 +40911,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ruth 2:7** (#15590)
   - was: And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.
   - now: And she said, I pray thee, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.
-- **Ruth 2:7** (#21392)
+- **Ruth 2:7** (#22710)
   - was: And she said, I pray thee, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.
   - now: And she said, I pray thee, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she stayed a little in the house.
 - **Ruth 2:13** (#12006)
@@ -40938,7 +40941,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ruth 3:12** (#6276)
   - was: And now it is true that I am thy near kinsman: howbeit there is a kinsman nearer than I.
   - now: And now it is true that I am thy near kinsman: howbeit there is a kinsman closer than I.
-- **Ruth 3:13** (#21393)
+- **Ruth 3:13** (#22711)
   - was: Tarry this night, and it shall be in the morning, that if he will perform unto thee the part of a kinsman, well; let him do the kinsman’s part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, as the Lord liveth: lie down until the morning.
   - now: Stay this night, and it shall be in the morning, that if he will perform unto thee the part of a kinsman, well; let him do the kinsman’s part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, as the Lord liveth: lie down until the morning.
 - **Ruth 4:4** (#6277)
@@ -40965,7 +40968,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 1:15** (#8575)
   - was: And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the Lord.
   - now: And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drank neither wine nor strong drink, but have poured out my soul before the Lord.
-- **I Samuel 1:23** (#21394)
+- **I Samuel 1:23** (#22712)
   - was: And Elkanah her husband said unto her, Do what seemeth thee good; tarry until thou have weaned him; only the Lord establish his word. So the woman abode, and gave her son suck until she weaned him.
   - now: And Elkanah her husband said unto her, Do what seemeth thee good; stay until thou have weaned him; only the Lord establish his word. So the woman abode, and gave her son suck until she weaned him.
 - **I Samuel 1:28** (#10463)
@@ -40980,7 +40983,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 2:3** (#19581)
   - was: Talk no more so exceeding proudly; let not arrogancy come out of thine mouth: for the Lord is a God of knowledge, and by him doings are weighed.
   - now: Talk no more so exceeding proudly; let not arrogancy come out of thy mouth: for the Lord is a God of knowledge, and by him doings are weighed.
-- **I Samuel 2:3** (#21395)
+- **I Samuel 2:3** (#22713)
   - was: Talk no more so exceeding proudly; let not arrogancy come out of thy mouth: for the Lord is a God of knowledge, and by him doings are weighed.
   - now: Speak no more so exceeding proudly; let not arrogancy come out of thy mouth: for the Lord is a God of knowledge, and by him doings are weighed.
 - **I Samuel 2:4** (#11353)
@@ -41019,10 +41022,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 2:29** (#20465)
   - was: Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the greatest of all the offerings of Israel my people?
   - now: Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make thyself fat with the greatest of all the offerings of Israel my people?
-- **I Samuel 2:29** (#21396)
+- **I Samuel 2:29** (#22714)
   - was: Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make thyself fat with the greatest of all the offerings of Israel my people?
   - now: Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my abode; and honourest thy sons above me, to make thyself fat with the greatest of all the offerings of Israel my people?
-- **I Samuel 2:32** (#21397)
+- **I Samuel 2:32** (#22715)
   - was: And thou shalt see an enemy in my habitation, in all the wealth which God shall give Israel: and there shall not be an old man in thine house for ever.
   - now: And thou shalt see an enemy in my abode, in all the wealth which God shall give Israel: and there shall not be an old man in thine house for ever.
 - **I Samuel 2:36** (#4723)
@@ -41172,7 +41175,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 10:2** (#15610)
   - was: When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?
   - now: When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for thee, saying, What shall I do for my son?
-- **I Samuel 10:2** (#21398)
+- **I Samuel 10:2** (#22716)
   - was: When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for thee, saying, What shall I do for my son?
   - now: When thou art departed from me to day, then thou shalt find two men by Rachel’s grave in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for thee, saying, What shall I do for my son?
 - **I Samuel 10:4** (#6617)
@@ -41181,7 +41184,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 10:4** (#11284)
   - was: And they will hail thee, and give thee two loaves of bread; which thou shalt receive of their hands.
   - now: And they will greet thee, and give thee two loaves of bread; which thou shalt receive of their hands.
-- **I Samuel 10:8** (#21399)
+- **I Samuel 10:8** (#22717)
   - was: And thou shalt go down before me to Gilgal; and, behold, I will come down unto thee, to offer burnt offerings, and to sacrifice sacrifices of peace offerings: seven days shalt thou tarry, till I come to thee, and shew thee what thou shalt do.
   - now: And thou shalt go down before me to Gilgal; and, behold, I will come down unto thee, to offer burnt offerings, and to sacrifice sacrifices of peace offerings: seven days shalt thou stay, till I come to thee, and shew thee what thou shalt do.
 - **I Samuel 10:15** (#15611)
@@ -41211,7 +41214,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 11:3** (#4730)
   - was: And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if there be no man to save us, we will come out to thee.
   - now: And the elders of Jabesh said unto him, Give us seven days' space, that we may send messengers unto all the coasts of Israel: and then, if there be no man to save us, we will come out to thee.
-- **I Samuel 11:9** (#21400)
+- **I Samuel 11:9** (#22718)
   - was: And they said unto the messengers that came, Thus shall ye say unto the men of Jabesh–gilead, To morrow, by that time the sun be hot, ye shall have help. And the messengers came and shewed it to the men of Jabesh; and they were glad.
   - now: And they said unto the messengers that came, Thus shall ye say unto the men of Jabesh–gilead, To morrow, by that time the sun be hot, ye shall have help. And the messengers came and shewed it to the men of Jabesh; and they were thankful.
 - **I Samuel 11:10** (#15615)
@@ -41319,7 +41322,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 13:6** (#9827)
   - was: When the men of Israel saw that they were in a strait, for the people were distressed, then the people did hide themselves in caves, and in thickets, and in rocks, and in high places, and in pits.
   - now: When the men of Israel saw that they were in a straight, for the people were distressed, then the people did hide themselves in caves, and in thickets, and in rocks, and in high places, and in pits.
-- **I Samuel 13:8** (#21401)
+- **I Samuel 13:8** (#22719)
   - was: And he tarried seven days, according to the set time that Samuel had appointed: but Samuel came not to Gilgal; and the people were scattered from him.
   - now: And he stayed seven days, according to the set time that Samuel had appointed: but Samuel came not to Gilgal; and the people were scattered from him.
 - **I Samuel 13:10** (#6618)
@@ -41337,7 +41340,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 13:21** (#4734)
   - was: Yet they had a file for the mattocks, and for the coulters, and for the forks, and for the axes, and to sharpen the goads.
   - now: Yet they had a file for the hoes, and for the hooks, and for the harrows, and for the axes, and to whet the goads.
-- **I Samuel 14:2** (#21402)
+- **I Samuel 14:2** (#22720)
   - was: And Saul tarried in the uttermost part of Gibeah under a pomegranate tree which is in Migron: and the people that were with him were about six hundred men;
   - now: And Saul stayed in the uttermost part of Gibeah under a pomegranate tree which is in Migron: and the people that were with him were about six hundred men;
 - **I Samuel 14:6** (#4735)
@@ -41346,7 +41349,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 14:9** (#15635)
   - was: If they say thus unto us, Tarry until we come to you; then we will stand still in our place, and will not go up unto them.
   - now: If they say thus unto us, Tarry until we come to thee; then we will stand still in our place, and will not go up unto them.
-- **I Samuel 14:9** (#21403)
+- **I Samuel 14:9** (#22721)
   - was: If they say thus unto us, Tarry until we come to thee; then we will stand still in our place, and will not go up unto them.
   - now: If they say thus unto us, Stay until we come to thee; then we will stand still in our place, and will not go up unto them.
 - **I Samuel 14:12** (#15636)
@@ -41358,7 +41361,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 14:14** (#9018)
   - was: And that first slaughter, which Jonathan and his armourbearer made, was about twenty men, within as it were an half rood of land, which a yoke of oxen might plow.
   - now: And that first slaughter, which Jonathan and his armourbearer made, was about twenty men, within as it were an half space of land, which a yoke of oxen might plow.
-- **I Samuel 14:19** (#21404)
+- **I Samuel 14:19** (#22722)
   - was: And it came to pass, while Saul talked unto the priest, that the noise that was in the host of the Philistines went on and increased: and Saul said unto the priest, Withdraw thine hand.
   - now: And it came to pass, while Saul spake unto the priest, that the noise that was in the host of the Philistines went on and increased: and Saul said unto the priest, Withdraw thine hand.
 - **I Samuel 14:20** (#4737)
@@ -41430,7 +41433,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Samuel 17:22** (#11358)
   - was: And David left his carriage in the hand of the keeper of the carriage, and ran into the army, and came and greeted his brethren.
   - now: And David left his carriage in the hand of the keeper of the carriage, and ran into the army, and came and greeteth his brethren.
-- **I Samuel 17:23** (#21405)
+- **I Samuel 17:23** (#22723)
   - was: And as he talked with them, behold, there came up the champion, the Philistine of Gath, Goliath by name, out of the armies of the Philistines, and spake according to the same words: and David heard them.
   - now: And as he spake with them, behold, there came up the champion, the Philistine of Gath, Goliath by name, out of the armies of the Philistines, and spake according to the same words: and David heard them.
 - **I Samuel 17:25** (#4746)
@@ -41664,7 +41667,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 2:7** (#19606)
   - was: Therefore now let thine hands be strengthened, and be ye valiant: for thine master Saul is dead, and also the house of Judah have anointed me king over them.
   - now: Therefore now let thine hands be strengthened, and be ye valiant: for thy master Saul is dead, and also the house of Judah have anointed me king over them.
-- **II Samuel 2:32** (#21406)
+- **II Samuel 2:32** (#22724)
   - was: And they took up Asahel, and buried him in the sepulchre of his father, which was in Beth–lehem. And Joab and his men went all night, and they came to Hebron at break of day. 
   - now: And they took up Asahel, and buried him in the grave of his father, which was in Beth–lehem. And Joab and his men went all night, and they came to Hebron at break of day. 
 - **II Samuel 3:10** (#4960)
@@ -41703,22 +41706,22 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 4:3** (#3259)
   - was: And the Beerothites fled to Gittaim, and were sojourners there until this day.)
   - now: And the Beerothites fled to Gittaim, and were sojourners there until this day.
-- **II Samuel 4:3** (#21407)
+- **II Samuel 4:3** (#22725)
   - was: And the Beerothites fled to Gittaim, and were sojourners there until this day.
   - now: And the Beerothites fled to Gittaim, and were dwellers there until this day.
 - **II Samuel 4:7** (#8583)
   - was: For when they came into the house, he lay on his bed in his bedchamber, and they smote him, and slew him, and beheaded him, and took his head, and gat them away through the plain all night.
   - now: For when they came into the house, he lay on his bed in his bedchamber, and they smote him, and slew him, and beheaded him, and took his head, and got them away through the plain all night.
-- **II Samuel 4:10** (#21408)
+- **II Samuel 4:10** (#22726)
   - was: When one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, who thought that I would have given him a reward for his tidings:
   - now: When one told me, saying, Behold, Saul is dead, pondering to have brought good tidings, I took hold of him, and slew him in Ziklag, who thought that I would have given him a reward for his tidings:
 - **II Samuel 4:11** (#15660)
   - was: How much more, when wicked men have slain a righteous person in his own house upon his bed? shall I not therefore now require his blood of your hand, and take you away from the earth?
   - now: How much more, when wicked men have slain a righteous person in his own house upon his bed? shall I not therefore now require his blood of thine hand, and take thee away from the earth?
-- **II Samuel 4:12** (#21409)
+- **II Samuel 4:12** (#22727)
   - was: And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ish–bosheth, and buried it in the sepulchre of Abner in Hebron. 
   - now: And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ish–bosheth, and buried it in the grave of Abner in Hebron. 
-- **II Samuel 5:6** (#21410)
+- **II Samuel 5:6** (#22728)
   - was: And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.
   - now: And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: pondering, David cannot come in hither.
 - **II Samuel 5:8** (#4964)
@@ -41742,7 +41745,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 6:7** (#15661)
   - was: And the anger of the Lord was kindled against Uzzah; and God smote him there for his error; and there he died by the ark of God.
   - now: And the anger of the Lord was kindled against Uzzah; and God smote him there for his sin; and there he died by the ark of God.
-- **II Samuel 6:12** (#21411)
+- **II Samuel 6:12** (#22729)
   - was: And it was told king David, saying, The Lord hath blessed the house of Obed–edom, and all that pertaineth unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obed–edom into the city of David with gladness.
   - now: And it was told king David, saying, The Lord hath blessed the house of Obed–edom, and all that pertaineth unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obed–edom into the city of David with thankfulness.
 - **II Samuel 6:13** (#4966)
@@ -41763,7 +41766,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 7:8** (#4969)
   - was: Now therefore so shalt thou say unto my servant David, Thus saith the Lord of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
   - now: Now therefore so shalt thou say unto my servant David, Thus saith the Lord of hosts, I took thee from the habitation, from following the sheep, to be ruler over my people, over Israel:
-- **II Samuel 7:8** (#21412)
+- **II Samuel 7:8** (#22730)
   - was: Now therefore so shalt thou say unto my servant David, Thus saith the Lord of hosts, I took thee from the habitation, from following the sheep, to be ruler over my people, over Israel:
   - now: Now therefore so shalt thou say unto my servant David, Thus saith the Lord of hosts, I took thee from the abode, from following the sheep, to be ruler over my people, over Israel:
 - **II Samuel 7:23** (#4970)
@@ -41784,10 +41787,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 8:18** (#18048)
   - was: And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David’s sons were chief rulers. 
   - now: And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David’s sons were head rulers.
-- **II Samuel 9:10** (#21413)
+- **II Samuel 9:10** (#22731)
   - was: Thou therefore, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in the fruits, that thy master’s son may have food to eat: but Mephibosheth thy master’s son shall eat bread alway at my table. Now Ziba had fifteen sons and twenty servants.
   - now: Thou therefore, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in the fruits, that thy master’s son may have food to eat: but Mephibosheth thy master’s son shall eat bread always at my table. Now Ziba had fifteen sons and twenty servants.
-- **II Samuel 10:3** (#21414)
+- **II Samuel 10:3** (#22732)
   - was: And the princes of the children of Ammon said unto Hanun their lord, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? hath not David rather sent his servants unto thee, to search the city, and to spy it out, and to overthrow it?
   - now: And the princes of the children of Ammon said unto Hanun their lord, Ponderest thou that David doth honour thy father, that he hath sent comforters unto thee? hath not David rather sent his servants unto thee, to search the city, and to spy it out, and to overthrow it?
 - **II Samuel 10:5** (#15663)
@@ -41796,13 +41799,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 10:5** (#19608)
   - was: When they told it unto David, he sent to meet them, because the men were greatly ashamed: and the king said, Tarry at Jericho until thine beards be grown, and then return.
   - now: When they told it unto David, he sent to meet them, because the men were greatly ashamed: and the king said, Tarry at Jericho until thy beards be grown, and then return.
-- **II Samuel 10:5** (#21415)
+- **II Samuel 10:5** (#22733)
   - was: When they told it unto David, he sent to meet them, because the men were greatly ashamed: and the king said, Tarry at Jericho until thy beards be grown, and then return.
   - now: When they told it unto David, he sent to meet them, because the men were greatly ashamed: and the king said, Stay at Jericho until thy beards be grown, and then return.
 - **II Samuel 10:9** (#4971)
   - was: When Joab saw that the front of the battle was against him before and behind, he chose of all the choice men of Israel, and put them in array against the Syrians:
   - now: When Joab saw that the face of the battle was against him before and behind, he chose of all the choice men of Israel, and put them in array against the Syrians:
-- **II Samuel 11:1** (#21416)
+- **II Samuel 11:1** (#22734)
   - was: And it came to pass, after the year was expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem.
   - now: And it came to pass, after the year was expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David stayed still at Jerusalem.
 - **II Samuel 11:2** (#4972)
@@ -41811,7 +41814,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 11:8** (#4973)
   - was: And David said to Uriah, Go down to thy house, and wash thy feet. And Uriah departed out of the king’s house, and there followed him a mess of meat from the king.
   - now: And David said to Uriah, Go down to thy house, and wash thy feet. And Uriah departed out of the king's house, and there followed him a portion of meat from the king.
-- **II Samuel 11:12** (#21417)
+- **II Samuel 11:12** (#22735)
   - was: And David said to Uriah, Tarry here to day also, and to morrow I will let thee depart. So Uriah abode in Jerusalem that day, and the morrow.
   - now: And David said to Uriah, Stay here to day also, and to morrow I will let thee depart. So Uriah abode in Jerusalem that day, and the morrow.
 - **II Samuel 11:13** (#8586)
@@ -41871,7 +41874,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 13:29** (#8587)
   - was: And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king’s sons arose, and every man gat him up upon his mule, and fled.
   - now: And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king’s sons arose, and every man got him up upon his mule, and fled.
-- **II Samuel 13:33** (#21418)
+- **II Samuel 13:33** (#22736)
   - was: Now therefore let not my lord the king take the thing to his heart, to think that all the king’s sons are dead: for Amnon only is dead.
   - now: Now therefore let not my lord the king take the thing to his heart, to ponder that all the king’s sons are dead: for Amnon only is dead.
 - **II Samuel 14:2** (#4982)
@@ -41898,16 +41901,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 15:5** (#10502)
   - was: And it was so, that when any man came nigh to him to do him obeisance, he put forth his hand, and took him, and kissed him.
   - now: And it was so, that when any man came nigh to him to do him reverence, he put forth his hand, and took him, and kissed him.
-- **II Samuel 15:17** (#21419)
+- **II Samuel 15:17** (#22737)
   - was: And the king went forth, and all the people after him, and tarried in a place that was far off.
   - now: And the king went forth, and all the people after him, and stayed in a place that was far off.
 - **II Samuel 15:19** (#4987)
   - was: Then said the king to Ittai the Gittite, Wherefore goest thou also with us? return to thy place, and abide with the king: for thou art a stranger, and also an exile.
   - now: Then said the king to Ittai the Gittite, Wherefore goest thou also with us? return to thy place, and abide with the king: for thou art a stranger, and also a sojourner.
-- **II Samuel 15:19** (#21420)
+- **II Samuel 15:19** (#22738)
   - was: Then said the king to Ittai the Gittite, Wherefore goest thou also with us? return to thy place, and abide with the king: for thou art a stranger, and also a sojourner.
   - now: Then said the king to Ittai the Gittite, Wherefore goest thou also with us? return to thy place, and abide with the king: for thou art a stranger, and also a dweller.
-- **II Samuel 15:25** (#21421)
+- **II Samuel 15:25** (#22739)
   - was: And the king said unto Zadok, Carry back the ark of God into the city: if I shall find favour in the eyes of the Lord, he will bring me again, and shew me both it, and his habitation:
   - now: And the king said unto Zadok, Carry back the ark of God into the city: if I shall find favour in the eyes of the Lord, he will bring me again, and shew me both it, and his abode:
 - **II Samuel 15:27** (#15665)
@@ -41919,10 +41922,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 15:28** (#15666)
   - was: See, I will tarry in the plain of the wilderness, until there come word from you to certify me.
   - now: See, I will tarry in the plain of the wilderness, until there come word from thee to certify me.
-- **II Samuel 15:28** (#21422)
+- **II Samuel 15:28** (#22740)
   - was: See, I will tarry in the plain of the wilderness, until there come word from thee to certify me.
   - now: See, I will stay in the plain of the wilderness, until there come word from thee to certify me.
-- **II Samuel 15:29** (#21423)
+- **II Samuel 15:29** (#22741)
   - was: Zadok therefore and Abiathar carried the ark of God again to Jerusalem: and they tarried there.
   - now: Zadok therefore and Abiathar carried the ark of God again to Jerusalem: and they stayed there.
 - **II Samuel 15:31** (#9055)
@@ -41967,7 +41970,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 17:23** (#8589)
   - was: And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and gat him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father.
   - now: And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and got him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father.
-- **II Samuel 17:23** (#21424)
+- **II Samuel 17:23** (#22742)
   - was: And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and got him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father.
   - now: And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and got him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the grave of his father.
 - **II Samuel 17:28** (#11160)
@@ -41997,7 +42000,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 18:14** (#10383)
   - was: Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak.
   - now: Then said Joab, I may not tarry thus with thee. And he took three arrows in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak.
-- **II Samuel 18:14** (#21425)
+- **II Samuel 18:14** (#22743)
   - was: Then said Joab, I may not tarry thus with thee. And he took three arrows in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak.
   - now: Then said Joab, I may not stay thus with thee. And he took three arrows in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak.
 - **II Samuel 18:18** (#4996)
@@ -42012,13 +42015,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 18:25** (#11629)
   - was: And the watchman cried, and told the king. And the king said, If he be alone, there is tidings in his mouth. And he came apace, and drew near.
   - now: And the watchman cried, and told the king. And the king said, If he be alone, there is tidings in his mouth. And he came quickly, and drew near.
-- **II Samuel 18:27** (#21426)
+- **II Samuel 18:27** (#22744)
   - was: And the watchman said, Me thinketh the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings.
-  - now: And the watchman said, Me pondereth the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings.
+  - now: And the watchman said, I ponder the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings.
 - **II Samuel 19:3** (#4998)
   - was: And the people gat them by stealth that day into the city, as people being ashamed steal away when they flee in battle.
   - now: And the people went secretly that day into the city, as people being ashamed steal away when they flee in battle.
-- **II Samuel 19:7** (#21427)
+- **II Samuel 19:7** (#22745)
   - was: Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the Lord, if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now.
   - now: Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the Lord, if thou go not forth, there will not stay one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now.
 - **II Samuel 19:18** (#4999)
@@ -42036,7 +42039,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 19:43** (#5001)
   - was: And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel. 
   - now: And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were sharper than the words of the men of Israel.
-- **II Samuel 20:5** (#21428)
+- **II Samuel 20:5** (#22746)
   - was: So Amasa went to assemble the men of Judah: but he tarried longer than the set time which he had appointed him.
   - now: So Amasa went to assemble the men of Judah: but he stayed longer than the set time which he had appointed him.
 - **II Samuel 20:8** (#6629)
@@ -42066,7 +42069,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Samuel 21:4** (#15675)
   - was: And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, that will I do for you.
   - now: And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, that will I do for thee.
-- **II Samuel 21:14** (#21429)
+- **II Samuel 21:14** (#22747)
   - was: And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the sepulchre of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
   - now: And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the grave of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
 - **II Samuel 21:16** (#11367)
@@ -42120,7 +42123,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Kings 1:1** (#8590)
   - was: Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.
   - now: Now king David was old and struck in years; and they covered him with clothes, but he got no heat.
-- **I Kings 1:14** (#21430)
+- **I Kings 1:14** (#22748)
   - was: Behold, while thou yet talkest there with the king, I also will come in after thee, and confirm thy words.
   - now: Behold, while thou yet speakest there with the king, I also will come in after thee, and confirm thy words.
 - **I Kings 1:16** (#10503)
@@ -42129,7 +42132,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Kings 1:21** (#4661)
   - was: Otherwise it shall come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted offenders.
   - now: Otherwise it shall come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted sinners.
-- **I Kings 1:22** (#21431)
+- **I Kings 1:22** (#22749)
   - was: And, lo, while she yet talked with the king, Nathan the prophet also came in.
   - now: And, lo, while she yet spake with the king, Nathan the prophet also came in.
 - **I Kings 1:33** (#15676)
@@ -42282,7 +42285,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Kings 8:61** (#15677)
   - was: Let your heart therefore be perfect with the Lord our God, to walk in his statutes, and to keep his commandments, as at this day.
   - now: Let thine heart therefore be perfect with the Lord our God, to walk in his statutes, and to keep his commandments, as at this day.
-- **I Kings 8:66** (#21432)
+- **I Kings 8:66** (#22750)
   - was: On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the Lord had done for David his servant, and for Israel his people. 
   - now: On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and thankful of heart for all the goodness that the Lord had done for David his servant, and for Israel his people. 
 - **I Kings 9:6** (#15678)
@@ -42330,7 +42333,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Kings 11:32** (#3154)
   - was: (But he shall have one tribe for my servant David’s sake, and for Jerusalem’s sake, the city which I have chosen out of all the tribes of Israel:)
   - now: But he shall have one tribe for my servant David’s sake, and for Jerusalem’s sake, the city which I have chosen out of all the tribes of Israel:
-- **I Kings 11:36** (#21433)
+- **I Kings 11:36** (#22751)
   - was: And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there.
   - now: And unto his son will I give one tribe, that David my servant may have a light always before me in Jerusalem, the city which I have chosen me to put my name there.
 - **I Kings 12:2** (#3155)
@@ -42372,13 +42375,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Kings 13:22** (#8594)
   - was: But camest back, and hast eaten bread and drunk water in the place, of the which the Lord did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the sepulchre of thy fathers.
   - now: But camest back, and hast eaten bread and drank water in the place, of the which the Lord did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the sepulchre of thy fathers.
-- **I Kings 13:22** (#21434)
+- **I Kings 13:22** (#22752)
   - was: But camest back, and hast eaten bread and drank water in the place, of the which the Lord did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the sepulchre of thy fathers.
   - now: But camest back, and hast eaten bread and drank water in the place, of the which the Lord did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the grave of thy fathers.
 - **I Kings 13:23** (#8595)
   - was: And it came to pass, after he had eaten bread, and after he had drunk, that he saddled for him the ass, to wit, for the prophet whom he had brought back.
   - now: And it came to pass, after he had eaten bread, and after he had drank, that he saddled for him the ass, to wit, for the prophet whom he had brought back.
-- **I Kings 13:31** (#21435)
+- **I Kings 13:31** (#22753)
   - was: And it came to pass, after he had buried him, that he spake to his sons, saying, When I am dead, then bury me in the sepulchre wherein the man of God is buried; lay my bones beside his bones:
   - now: And it came to pass, after he had buried him, that he spake to his sons, saying, When I am dead, then bury me in the grave wherein the man of God is buried; lay my bones beside his bones:
 - **I Kings 14:3** (#4688)
@@ -42405,7 +42408,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Kings 17:19** (#4690)
   - was: And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed.
   - now: And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a chamber, where he abode, and laid him upon his own bed.
-- **I Kings 17:20** (#21436)
+- **I Kings 17:20** (#22754)
   - was: And he cried unto the Lord, and said, O Lord my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?
   - now: And he cried unto the Lord, and said, O Lord my God, hast thou also brought evil upon the widow with whom I dwell, by slaying her son?
 - **I Kings 18:3** (#3265)
@@ -42429,7 +42432,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Kings 18:25** (#20470)
   - was: And Elijah said unto the prophets of Baal, Choose thee one bullock for yourselves, and dress it first; for ye are many; and call on the name of thy gods, but put no fire under.
   - now: And Elijah said unto the prophets of Baal, Choose thee one bullock for thyself, and dress it first; for ye are many; and call on the name of thy gods, but put no fire under.
-- **I Kings 18:27** (#21437)
+- **I Kings 18:27** (#22755)
   - was: And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he is a god; either he is talking, or he is pursuing, or he is in a journey, or peradventure he sleepeth, and must be awaked.
   - now: And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he is a god; either he is speaking, or he is pursuing, or he is in a journey, or peradventure he sleepeth, and must be awaked.
 - **I Kings 18:28** (#4691)
@@ -42495,7 +42498,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 1:8** (#6638)
   - was: And they answered him, He was an hairy man, and girt with a girdle of skin about his loins. And he said, It is Elijah the Tishbite.
   - now: And they answered him, He was an hairy man, and girt with an apron of skin about his loins. And he said, It is Elijah the Tishbite.
-- **II Kings 2:2** (#21438)
+- **II Kings 2:2** (#22756)
   - was: And Elijah said unto Elisha, Tarry here, I pray thee; for the Lord hath sent me to Beth–el. And Elisha said unto him, As the Lord liveth, and as thy soul liveth, I will not leave thee. So they went down to Beth–el.
   - now: And Elijah said unto Elisha, Stay here, I pray thee; for the Lord hath sent me to Beth–el. And Elisha said unto him, As the Lord liveth, and as thy soul liveth, I will not leave thee. So they went down to Beth–el.
 - **II Kings 2:3** (#15691)
@@ -42504,7 +42507,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 2:3** (#19618)
   - was: And the sons of the prophets that were at Beth–el came forth to Elisha, and said unto him, Knowest thou that the Lord will take away thy master from thy head to day? And he said, Yea, I know it; hold ye thine peace.
   - now: And the sons of the prophets that were at Beth–el came forth to Elisha, and said unto him, Knowest thou that the Lord will take away thy master from thy head to day? And he said, Yea, I know it; hold ye thy peace.
-- **II Kings 2:4** (#21439)
+- **II Kings 2:4** (#22757)
   - was: And Elijah said unto him, Elisha, tarry here, I pray thee; for the Lord hath sent me to Jericho. And he said, As the Lord liveth, and as thy soul liveth, I will not leave thee. So they came to Jericho.
   - now: And Elijah said unto him, Elisha, stay here, I pray thee; for the Lord hath sent me to Jericho. And he said, As the Lord liveth, and as thy soul liveth, I will not leave thee. So they came to Jericho.
 - **II Kings 2:5** (#15692)
@@ -42513,10 +42516,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 2:5** (#19619)
   - was: And the sons of the prophets that were at Jericho came to Elisha, and said unto him, Knowest thou that the Lord will take away thy master from thy head to day? And he answered, Yea, I know it; hold ye thine peace.
   - now: And the sons of the prophets that were at Jericho came to Elisha, and said unto him, Knowest thou that the Lord will take away thy master from thy head to day? And he answered, Yea, I know it; hold ye thy peace.
-- **II Kings 2:6** (#21440)
+- **II Kings 2:6** (#22758)
   - was: And Elijah said unto him, Tarry, I pray thee, here; for the Lord hath sent me to Jordan. And he said, As the Lord liveth, and as thy soul liveth, I will not leave thee. And they two went on.
   - now: And Elijah said unto him, Stay, I pray thee, here; for the Lord hath sent me to Jordan. And he said, As the Lord liveth, and as thy soul liveth, I will not leave thee. And they two went on.
-- **II Kings 2:11** (#21441)
+- **II Kings 2:11** (#22759)
   - was: And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.
   - now: And it came to pass, as they still went on, and spake, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.
 - **II Kings 2:18** (#3267)
@@ -42525,7 +42528,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 2:18** (#15693)
   - was: And when they came again to him, for he tarried at Jericho, he said unto them, Did I not say unto you, Go not?
   - now: And when they came again to him, for he tarried at Jericho, he said unto them, Did I not say unto thee, Go not?
-- **II Kings 2:18** (#21442)
+- **II Kings 2:18** (#22760)
   - was: And when they came again to him, for he tarried at Jericho, he said unto them, Did I not say unto thee, Go not?
   - now: And when they came again to him, for he stayed at Jericho, he said unto them, Did I not say unto thee, Go not?
 - **II Kings 2:19** (#4913)
@@ -42600,13 +42603,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 6:27** (#6640)
   - was: And he said, If the Lord do not help thee, whence shall I help thee? out of the threshingfloor, or out of the winepress?
   - now: And he said, If the Lord do not help thee, whence shall I help thee? out of the threshing floor, or out of the winepress?
-- **II Kings 6:33** (#21443)
+- **II Kings 6:33** (#22761)
   - was: And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the Lord; what should I wait for the Lord any longer? 
   - now: And while he yet spake with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the Lord; what should I wait for the Lord any longer? 
 - **II Kings 7:2** (#3090)
   - was: Then a lord on whose hand the king leaned answered the man of God, and said, Behold, if the Lord would make windows in heaven, might this thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.
   - now: Then a lord on whose hand the king leaned answered the man of God, and said, Behold, if the Lord would make floodgates in heaven, might this thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.
-- **II Kings 7:9** (#21444)
+- **II Kings 7:9** (#22762)
   - was: Then they said one to another, We do not well: this day is a day of good tidings, and we hold our peace: if we tarry till the morning light, some mischief will come upon us: now therefore come, that we may go and tell the king’s household.
   - now: Then they said one to another, We do not well: this day is a day of good tidings, and we hold our peace: if we stay till the morning light, some mischief will come upon us: now therefore come, that we may go and tell the king’s household.
 - **II Kings 7:12** (#15698)
@@ -42618,22 +42621,22 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 7:19** (#3091)
   - was: And that lord answered the man of God, and said, Now, behold, if the Lord should make windows in heaven, might such a thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.
   - now: And that lord answered the man of God, and said, Now, behold, if the Lord should make floodgates in heaven, might such a thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.
-- **II Kings 8:1** (#21445)
+- **II Kings 8:1** (#22763)
   - was: Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the Lord hath called for a famine; and it shall also come upon the land seven years.
   - now: Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and dwell wheresoever thou canst dwell: for the Lord hath called for a famine; and it shall also come upon the land seven years.
-- **II Kings 8:2** (#21446)
+- **II Kings 8:2** (#22764)
   - was: And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years.
   - now: And the woman arose, and did after the saying of the man of God: and she went with her household, and dwelt in the land of the Philistines seven years.
-- **II Kings 8:4** (#21447)
+- **II Kings 8:4** (#22765)
   - was: And the king talked with Gehazi the servant of the man of God, saying, Tell me, I pray thee, all the great things that Elisha hath done.
   - now: And the king spake with Gehazi the servant of the man of God, saying, Tell me, I pray thee, all the great things that Elisha hath done.
 - **II Kings 8:12** (#4922)
   - was: And Hazael said, Why weepeth my lord? And he answered, Because I know the evil that thou wilt do unto the children of Israel: their strong holds wilt thou set on fire, and their young men wilt thou slay with the sword, and wilt dash their children, and rip up their women with child.
   - now: And Hazael said, Why weepeth my lord? And he answered, Because I know the evil that thou wilt do unto the children of Israel: their strong holds wilt thou set on fire, and their young men wilt thou slay with the sword, and wilt dash their children, and rend their women with child.
-- **II Kings 8:19** (#21448)
+- **II Kings 8:19** (#22766)
   - was: Yet the Lord would not destroy Judah for David his servant’s sake, as he promised him to give him alway a light, and to his children.
   - now: Yet the Lord would not destroy Judah for David his servant’s sake, as he promised him to give him always a light, and to his children.
-- **II Kings 9:3** (#21449)
+- **II Kings 9:3** (#22767)
   - was: Then take the box of oil, and pour it on his head, and say, Thus saith the Lord, I have anointed thee king over Israel. Then open the door, and flee, and tarry not.
   - now: Then take the box of oil, and pour it on his head, and say, Thus saith the Lord, I have anointed thee king over Israel. Then open the door, and flee, and stay not.
 - **II Kings 9:5** (#11905)
@@ -42663,7 +42666,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 9:26** (#4926)
   - was: Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith the Lord; and I will requite thee in this plat, saith the Lord. Now therefore take and cast him into the plat of ground, according to the word of the Lord.
   - now: Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith the Lord; and I will requite thee in this portion, saith the Lord. Now therefore take and cast him into the portion of ground, according to the word of the Lord.
-- **II Kings 9:28** (#21450)
+- **II Kings 9:28** (#22768)
   - was: And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David.
   - now: And his servants carried him in a chariot to Jerusalem, and buried him in his grave with his fathers in the city of David.
 - **II Kings 9:30** (#4927)
@@ -42741,10 +42744,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 13:6** (#3271)
   - was: Nevertheless they departed not from the sins of the house of Jeroboam, who made Israel sin, but walked therein: and there remained the grove also in Samaria.)
   - now: Nevertheless they departed not from the sins of the house of Jeroboam, who made Israel sin, but walked therein: and there remained the grove also in Samaria.
-- **II Kings 13:21** (#21451)
+- **II Kings 13:21** (#22769)
   - was: And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.
   - now: And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the grave of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.
-- **II Kings 14:10** (#21452)
+- **II Kings 14:10** (#22770)
   - was: Thou hast indeed smitten Edom, and thine heart hath lifted thee up: glory of this, and tarry at home: for why shouldest thou meddle to thy hurt, that thou shouldest fall, even thou, and Judah with thee?
   - now: Thou hast indeed smitten Edom, and thine heart hath lifted thee up: glory of this, and stay at home: for why shouldest thou meddle to thy hurt, that thou shouldest fall, even thou, and Judah with thee?
 - **II Kings 14:14** (#4932)
@@ -42786,7 +42789,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 18:20** (#3272)
   - was: Thou sayest, (but they are but vain words,) I have counsel and strength for the war. Now on whom dost thou trust, that thou rebellest against me?
   - now: Thou sayest, but they are but vain words, I have counsel and strength for the war. Now on whom dost thou trust, that thou rebellest against me?
-- **II Kings 18:26** (#21453)
+- **II Kings 18:26** (#22771)
   - was: Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rab–shakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand it: and talk not with us in the Jews’ language in the ears of the people that are on the wall.
   - now: Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rab–shakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand it: and speak not with us in the Jews’ language in the ears of the people that are on the wall.
 - **II Kings 18:27** (#4933)
@@ -42828,10 +42831,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 21:6** (#3109)
   - was: And he made his son pass through the fire, and observed times, and used enchantments, and dealt with familiar spirits and wizards: he wrought much wickedness in the sight of the Lord, to provoke him to anger.
   - now: And he made his son pass through the fire, and observed times, and used enchantments, and dealt with familiar spirits and sorcerers: he wrought much wickedness in the sight of the Lord, to provoke him to anger.
-- **II Kings 21:14** (#21454)
+- **II Kings 21:14** (#22772)
   - was: And I will forsake the remnant of mine inheritance, and deliver them into the hand of their enemies; and they shall become a prey and a spoil to all their enemies;
   - now: And I will forsake the remnant of mine inheritance, and deliver them into the hand of their enemies; and they shall become prey and a spoil to all their enemies;
-- **II Kings 21:26** (#21455)
+- **II Kings 21:26** (#22773)
   - was: And he was buried in his sepulchre in the garden of Uzza: and Josiah his son reigned in his stead. 
   - now: And he was buried in his grave in the garden of Uzza: and Josiah his son reigned in his stead. 
 - **II Kings 22:14** (#3157)
@@ -42858,10 +42861,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 23:13** (#6643)
   - was: And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.
   - now: And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had built for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.
-- **II Kings 23:16** (#21456)
+- **II Kings 23:16** (#22774)
   - was: And as Josiah turned himself, he spied the sepulchres that were there in the mount, and sent, and took the bones out of the sepulchres, and burned them upon the altar, and polluted it, according to the word of the Lord which the man of God proclaimed, who proclaimed these words.
   - now: And as Josiah turned himself, he spied the graves that were there in the mount, and sent, and took the bones out of the graves, and burned them upon the altar, and polluted it, according to the word of the Lord which the man of God proclaimed, who proclaimed these words.
-- **II Kings 23:17** (#21457)
+- **II Kings 23:17** (#22775)
   - was: Then he said, What title is that that I see? And the men of the city told him, It is the sepulchre of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Beth–el.
   - now: Then he said, What title is that that I see? And the men of the city told him, It is the grave of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Beth–el.
 - **II Kings 23:21** (#15721)
@@ -42879,7 +42882,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Kings 23:24** (#3110)
   - was: Moreover the workers with familiar spirits, and the wizards, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the Lord.
   - now: Moreover the workers with familiar spirits, and the sorcerers, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the Lord.
-- **II Kings 23:30** (#21458)
+- **II Kings 23:30** (#22776)
   - was: And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.
   - now: And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own grave. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.
 - **II Kings 23:35** (#4938)
@@ -42930,10 +42933,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Chronicles 4:1** (#7296)
   - was: The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.
   - now: The sons of Judah; Perez, Hezron, and Carmi, and Hur, and Shobal.
-- **I Chronicles 4:33** (#21459)
+- **I Chronicles 4:33** (#22777)
   - was: And all their villages that were round about the same cities, unto Baal. These were their habitations, and their genealogy.
   - now: And all their villages that were round about the same cities, unto Baal. These were their dwelling places, and their genealogy.
-- **I Chronicles 4:41** (#21460)
+- **I Chronicles 4:41** (#22778)
   - was: And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because there was pasture there for their flocks.
   - now: And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the dwelling places that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because there was pasture there for their flocks.
 - **I Chronicles 5:1** (#3274)
@@ -42978,7 +42981,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Chronicles 7:27** (#4578)
   - was: Non his son, Jehoshua his son.
   - now: Nun his son, Jehoshua his son.
-- **I Chronicles 7:28** (#21461)
+- **I Chronicles 7:28** (#22779)
   - was: And their possessions and habitations were, Beth–el and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:
   - now: And their possessions and dwelling places were, Beth–el and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:
 - **I Chronicles 7:40** (#17970)
@@ -43116,25 +43119,25 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Chronicles 16:5** (#17992)
   - was: Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed–edom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
   - now: Asaph the head, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed–edom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
-- **I Chronicles 16:9** (#21462)
+- **I Chronicles 16:9** (#22780)
   - was: Sing unto him, sing psalms unto him, talk ye of all his wondrous works.
   - now: Sing unto him, sing psalms unto him, speak ye of all his wondrous works.
 - **I Chronicles 16:18** (#15726)
   - was: Saying, Unto thee will I give the land of Canaan, the lot of your inheritance;
   - now: Saying, Unto thee will I give the land of Canaan, the lot of thine inheritance;
-- **I Chronicles 16:27** (#21463)
+- **I Chronicles 16:27** (#22781)
   - was: Glory and honour are in his presence; strength and gladness are in his place.
   - now: Glory and honour are in his presence; strength and thankfulness are in his place.
 - **I Chronicles 16:30** (#4590)
   - was: Fear before him, all the earth: the world also shall be stable, that it be not moved.
   - now: Fear before him, all the earth: the world also shall be established, that it be not moved.
-- **I Chronicles 16:31** (#21464)
+- **I Chronicles 16:31** (#22782)
   - was: Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The Lord reigneth.
   - now: Let the heavens be thankful, and let the earth rejoice: and let men say among the nations, The Lord reigneth.
 - **I Chronicles 17:7** (#4591)
   - was: Now therefore thus shalt thou say unto my servant David, Thus saith the Lord of hosts, I took thee from the sheepcote, even from following the sheep, that thou shouldest be ruler over my people Israel:
   - now: Now therefore thus shalt thou say unto my servant David, Thus saith the Lord of hosts, I took thee from the habitation, even from following the sheep, that thou shouldest be ruler over my people Israel:
-- **I Chronicles 17:7** (#21465)
+- **I Chronicles 17:7** (#22783)
   - was: Now therefore thus shalt thou say unto my servant David, Thus saith the Lord of hosts, I took thee from the habitation, even from following the sheep, that thou shouldest be ruler over my people Israel:
   - now: Now therefore thus shalt thou say unto my servant David, Thus saith the Lord of hosts, I took thee from the abode, even from following the sheep, that thou shouldest be ruler over my people Israel:
 - **I Chronicles 18:10** (#3162)
@@ -43155,7 +43158,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Chronicles 18:17** (#17993)
   - was: And Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king. 
   - now: And Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were principal about the king.
-- **I Chronicles 19:3** (#21466)
+- **I Chronicles 19:3** (#22784)
   - was: But the princes of the children of Ammon said to Hanun, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? are not his servants come unto thee for to search, and to overthrow, and to spy out the land?
   - now: But the princes of the children of Ammon said to Hanun, Ponderest thou that David doth honour thy father, that he hath sent comforters unto thee? are not his servants come unto thee for to search, and to overthrow, and to spy out the land?
 - **I Chronicles 19:5** (#15727)
@@ -43164,13 +43167,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Chronicles 19:5** (#19630)
   - was: Then there went certain, and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until thine beards be grown, and then return.
   - now: Then there went certain, and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until thy beards be grown, and then return.
-- **I Chronicles 19:5** (#21467)
+- **I Chronicles 19:5** (#22785)
   - was: Then there went certain, and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until thy beards be grown, and then return.
   - now: Then there went certain, and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Stay at Jericho until thy beards be grown, and then return.
 - **I Chronicles 19:6** (#4592)
   - was: And when the children of Ammon saw that they had made themselves odious to David, Hanun and the children of Ammon sent a thousand talents of silver to hire them chariots and horsemen out of Mesopotamia, and out of Syria–maachah, and out of Zobah.
   - now: And when the children of Ammon saw that they had made themselves abhorred to David, Hanun and the children of Ammon sent a thousand talents of silver to hire them chariots and horsemen out of Mesopotamia, and out of Syria-maachah, and out of Zobah.
-- **I Chronicles 20:1** (#21468)
+- **I Chronicles 20:1** (#22786)
   - was: And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.
   - now: And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David stayed at Jerusalem. And Joab smote Rabbah, and destroyed it.
 - **I Chronicles 20:3** (#4593)
@@ -43326,7 +43329,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Chronicles 29:6** (#18013)
   - was: Then the chief of the fathers and princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers of the king’s work, offered willingly,
   - now: Then the head of the house of the fathers and princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers of the king’s work, offered willingly,
-- **I Chronicles 29:15** (#21469)
+- **I Chronicles 29:15** (#22787)
   - was: For we are strangers before thee, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding.
   - now: For we are strangers before thee, and dwellers, as were all our fathers: our days on the earth are as a shadow, and there is none abiding.
 - **I Chronicles 29:20** (#15731)
@@ -43338,7 +43341,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Chronicles 29:22** (#18014)
   - was: And did eat and drink before the Lord on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto the Lord to be the chief governor, and Zadok to be priest.
   - now: And did eat and drink before the Lord on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto the Lord to be the ruler, and Zadok to be priest.
-- **I Chronicles 29:22** (#21470)
+- **I Chronicles 29:22** (#22788)
   - was: And did eat and drink before the Lord on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto the Lord to be the ruler, and Zadok to be priest.
   - now: And did eat and drink before the Lord on that day with great thankfulness. And they made Solomon the son of David king the second time, and anointed him unto the Lord to be the ruler, and Zadok to be priest.
 - **II Chronicles 1:2** (#18028)
@@ -43389,7 +43392,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 5:12** (#3164)
   - was: Also the Levites which were the singers, all of them of Asaph, of Heman, of Jeduthun, with their sons and their brethren, being arrayed in white linen, having cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:)
   - now: Also the Levites which were the singers, all of them of Asaph, of Heman, of Jeduthun, with their sons and their brethren, being arrayed in white linen, having cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:
-- **II Chronicles 6:2** (#21471)
+- **II Chronicles 6:2** (#22789)
   - was: But I have built an house of habitation for thee, and a place for thy dwelling for ever.
   - now: But I have built an house of abode for thee, and a place for thy dwelling for ever.
 - **II Chronicles 6:13** (#4828)
@@ -43413,7 +43416,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 7:3** (#15732)
   - was: And when all the children of Israel saw how the fire came down, and the glory of the Lord upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the Lord, saying, For he is good; for his mercy endureth for ever.
   - now: And when all the children of Israel saw how the fire came down, and the glory of the Lord upon the house, they bowed themselves with their faces to the ground upon the road, and worshipped, and praised the Lord, saying, For he is good; for his mercy endureth for ever.
-- **II Chronicles 7:10** (#21472)
+- **II Chronicles 7:10** (#22790)
   - was: And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the Lord had shewed unto David, and to Solomon, and to Israel his people.
   - now: And on the three and twentieth day of the seventh month he sent the people away into their tents, thankful and merry in heart for the goodness that the Lord had shewed unto David, and to Solomon, and to Israel his people.
 - **II Chronicles 7:11** (#4831)
@@ -43491,7 +43494,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 13:8** (#15739)
   - was: And now ye think to withstand the kingdom of the Lord in the hand of the sons of David; and ye be a great multitude, and there are with you golden calves, which Jeroboam made you for gods.
   - now: And now ye think to withstand the kingdom of the Lord in the hand of the sons of David; and ye be a great multitude, and there are with thee golden calves, which Jeroboam made thee for gods.
-- **II Chronicles 13:8** (#21473)
+- **II Chronicles 13:8** (#22791)
   - was: And now ye think to withstand the kingdom of the Lord in the hand of the sons of David; and ye be a great multitude, and there are with thee golden calves, which Jeroboam made thee for gods.
   - now: And now ye ponder to withstand the kingdom of the Lord in the hand of the sons of David; and ye be a great multitude, and there are with thee golden calves, which Jeroboam made thee for gods.
 - **II Chronicles 13:9** (#15740)
@@ -43527,7 +43530,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 16:14** (#10506)
   - was: And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and diverse kinds of spices prepared by the apothecaries’ art: and they made a very great burning for him. 
   - now: And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet incense and diverse kinds of spices prepared by the apothecaries’ art: and they made a very great burning for him. 
-- **II Chronicles 16:14** (#21474)
+- **II Chronicles 16:14** (#22792)
   - was: And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet incense and diverse kinds of spices prepared by the apothecaries’ art: and they made a very great burning for him. 
   - now: And they buried him in his own graves, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet incense and diverse kinds of spices prepared by the apothecaries’ art: and they made a very great burning for him. 
 - **II Chronicles 17:14** (#18034)
@@ -43596,7 +43599,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 21:4** (#6655)
   - was: Now when Jehoram was risen up to the kingdom of his father, he strengthened himself, and slew all his brethren with the sword, and divers also of the princes of Israel.
   - now: Now when Jehoram was risen up to the kingdom of his father, he strengthened himself, and slew all his brethren with the sword, and diverse also of the princes of Israel.
-- **II Chronicles 21:20** (#21475)
+- **II Chronicles 21:20** (#22793)
   - was: Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired. Howbeit they buried him in the city of David, but not in the sepulchres of the kings. 
   - now: Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired. Howbeit they buried him in the city of David, but not in the graves of the kings. 
 - **II Chronicles 22:9** (#3282)
@@ -43638,13 +43641,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 24:25** (#3284)
   - was: And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchres of the kings.
   - now: And when they were departed from him, for they left him in great diseases, his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchres of the kings.
-- **II Chronicles 24:25** (#21476)
+- **II Chronicles 24:25** (#22794)
   - was: And when they were departed from him, for they left him in great diseases, his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchres of the kings.
   - now: And when they were departed from him, for they left him in great diseases, his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the graves of the kings.
 - **II Chronicles 24:27** (#4846)
   - was: Now concerning his sons, and the greatness of the burdens laid upon him, and the repairing of the house of God, behold, they are written in the story of the book of the kings. And Amaziah his son reigned in his stead. 
   - now: Now concerning his sons, and the greatness of the burdens laid upon him, and the repairing of the house of God, behold, they are written in the account of the book of the kings. And Amaziah his son reigned in his stead.
-- **II Chronicles 25:16** (#21477)
+- **II Chronicles 25:16** (#22795)
   - was: And it came to pass, as he talked with him, that the king said unto him, Art thou made of the king’s counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel.
   - now: And it came to pass, as he spake with him, that the king said unto him, Art thou made of the king’s counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel.
 - **II Chronicles 25:24** (#4847)
@@ -43686,7 +43689,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 28:11** (#19646)
   - was: Now hear me therefore, and deliver the captives again, which ye have taken captive of thine brethren: for the fierce wrath of the Lord is upon thee.
   - now: Now hear me therefore, and deliver the captives again, which ye have taken captive of thy brethren: for the fierce wrath of the Lord is upon thee.
-- **II Chronicles 28:27** (#21478)
+- **II Chronicles 28:27** (#22796)
   - was: And Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem: but they brought him not into the sepulchres of the kings of Israel: and Hezekiah his son reigned in his stead. 
   - now: And Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem: but they brought him not into the graves of the kings of Israel: and Hezekiah his son reigned in his stead. 
 - **II Chronicles 29:5** (#15758)
@@ -43698,7 +43701,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 29:5** (#20476)
   - was: And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the Lord God of thy fathers, and carry forth the filthiness out of the holy place.
   - now: And said unto them, Hear me, ye Levites, sanctify now thyself, and sanctify the house of the Lord God of thy fathers, and carry forth the filthiness out of the holy place.
-- **II Chronicles 29:6** (#21479)
+- **II Chronicles 29:6** (#22797)
   - was: For our fathers have trespassed, and done that which was evil in the eyes of the Lord our God, and have forsaken him, and have turned away their faces from the habitation of the Lord, and turned their backs.
   - now: For our fathers have trespassed, and done that which was evil in the eyes of the Lord our God, and have forsaken him, and have turned away their faces from the abode of the Lord, and turned their backs.
 - **II Chronicles 29:8** (#15759)
@@ -43713,7 +43716,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 29:24** (#10582)
   - was: And the priests killed them, and they made reconciliation with their blood upon the altar, to make an atonement for all Israel: for the king commanded that the burnt offering and the sin offering should be made for all Israel.
   - now: And the priests killed them, and they made atonement with their blood upon the altar, to make an atonement for all Israel: for the king commanded that the burnt offering and the sin offering should be made for all Israel.
-- **II Chronicles 29:30** (#21480)
+- **II Chronicles 29:30** (#22798)
   - was: Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the Lord with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped.
   - now: Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the Lord with the words of David, and of Asaph the seer. And they sang praises with thankfulness, and they bowed their heads and worshipped.
 - **II Chronicles 29:31** (#20477)
@@ -43749,10 +43752,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 30:11** (#6656)
   - was: Nevertheless divers of Asher and Manasseh and of Zebulun humbled themselves, and came to Jerusalem.
   - now: Nevertheless diverse of Asher and Manasseh and of Zebulun humbled themselves, and came to Jerusalem.
-- **II Chronicles 30:21** (#21481)
+- **II Chronicles 30:21** (#22799)
   - was: And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised the Lord day by day, singing with loud instruments unto the Lord.
   - now: And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great thankfulness: and the Levites and the priests praised the Lord day by day, singing with loud instruments unto the Lord.
-- **II Chronicles 30:23** (#21482)
+- **II Chronicles 30:23** (#22800)
   - was: And the whole assembly took counsel to keep other seven days: and they kept other seven days with gladness.
   - now: And the whole assembly took counsel to keep other seven days: and they kept other seven days with thankfulness.
 - **II Chronicles 31:5** (#11164)
@@ -43806,7 +43809,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 32:33** (#18041)
   - was: And Hezekiah slept with his fathers, and they buried him in the chiefest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead. 
   - now: And Hezekiah slept with his fathers, and they buried him in the greatest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
-- **II Chronicles 32:33** (#21483)
+- **II Chronicles 32:33** (#22801)
   - was: And Hezekiah slept with his fathers, and they buried him in the greatest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
   - now: And Hezekiah slept with his fathers, and they buried him in the greatest of the graves of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
 - **II Chronicles 33:6** (#3111)
@@ -43887,7 +43890,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Chronicles 35:14** (#4865)
   - was: And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron were busied in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron.
   - now: And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron were occupied in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron.
-- **II Chronicles 35:24** (#21484)
+- **II Chronicles 35:24** (#22802)
   - was: His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in one of the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah.
   - now: His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in one of the graves of his fathers. And all Judah and Jerusalem mourned for Josiah.
 - **II Chronicles 36:13** (#4866)
@@ -43908,7 +43911,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezra 1:3** (#15776)
   - was: Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the Lord God of Israel, he is the God, which is in Jerusalem.
   - now: Who is there among thee of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the Lord God of Israel, he is the God, which is in Jerusalem.
-- **Ezra 1:4** (#21485)
+- **Ezra 1:4** (#22803)
   - was: And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem.
   - now: And whosoever remaineth in any place where he dwelleth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem.
 - **Ezra 1:5** (#17937)
@@ -44010,7 +44013,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezra 7:5** (#17943)
   - was: The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:
   - now: The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the head priest:
-- **Ezra 7:15** (#21486)
+- **Ezra 7:15** (#22804)
   - was: And to carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose habitation is in Jerusalem,
   - now: And to carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose abode is in Jerusalem,
 - **Ezra 7:17** (#15781)
@@ -44145,10 +44148,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Nehemiah 1:11** (#5876)
   - was: O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king’s cupbearer. 
   - now: O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king's butler.
-- **Nehemiah 2:3** (#21487)
+- **Nehemiah 2:3** (#22805)
   - was: And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers’ sepulchres, lieth waste, and the gates thereof are consumed with fire?
   - now: And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers’ graves, lieth waste, and the gates thereof are consumed with fire?
-- **Nehemiah 2:5** (#21488)
+- **Nehemiah 2:5** (#22806)
   - was: And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers’ sepulchres, that I may build it.
   - now: And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers’ graves, that I may build it.
 - **Nehemiah 2:6** (#3288)
@@ -44163,13 +44166,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Nehemiah 2:13** (#5878)
   - was: And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
   - now: And I went out by night by the gate of the valley, even before the dragon well, and to the dung gate, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
+- **Nehemiah 2:13** (#23275)
+  - was: And I went out by night by the gate of the valley, even before the dragon well, and to the dung gate, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
+  - now: And I went out by night by the gate of the valley, even before the serpent well, and to the dung gate, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
 - **Nehemiah 3:1** (#6667)
   - was: Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.
   - now: Then Eliashib the high priest rose up with his brethren the priests, and they built the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.
 - **Nehemiah 3:2** (#6668)
   - was: And next unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri.
   - now: And next unto him built the men of Jericho. And next to them built Zaccur the son of Imri.
-- **Nehemiah 3:16** (#21489)
+- **Nehemiah 3:16** (#22807)
   - was: After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Beth–zur, unto the place over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.
   - now: After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Beth–zur, unto the place over against the graves of David, and to the pool that was made, and unto the house of the mighty.
 - **Nehemiah 4:1** (#6669)
@@ -44178,7 +44184,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Nehemiah 4:2** (#5879)
   - was: And he spake before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?
   - now: And he spake before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the dust which are burned?
-- **Nehemiah 4:4** (#21490)
+- **Nehemiah 4:4** (#22808)
   - was: Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:
   - now: Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for prey in the land of captivity:
 - **Nehemiah 4:10** (#5880)
@@ -44229,7 +44235,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Nehemiah 5:11** (#15794)
   - was: Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the wheat, the wine, and the oil, that ye exact of them.
   - now: Restore, I pray thee, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the wheat, the wine, and the oil, that ye exact of them.
-- **Nehemiah 5:19** (#21491)
+- **Nehemiah 5:19** (#22809)
   - was: Think upon me, my God, for good, according to all that I have done for this people. 
   - now: Ponder upon me, my God, for good, according to all that I have done for this people. 
 - **Nehemiah 6:1** (#3167)
@@ -44241,10 +44247,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Nehemiah 6:3** (#15795)
   - was: And I sent messengers unto them, saying, I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?
   - now: And I sent messengers unto them, saying, I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to thee?
-- **Nehemiah 6:6** (#21492)
+- **Nehemiah 6:6** (#22810)
   - was: Wherein was written, It is reported among the heathen, and Gashmu saith it, that thou and the Jews think to rebel: for which cause thou buildest the wall, that thou mayest be their king, according to these words.
   - now: Wherein was written, It is reported among the heathen, and Gashmu saith it, that thou and the Jews ponder to rebel: for which cause thou buildest the wall, that thou mayest be their king, according to these words.
-- **Nehemiah 6:14** (#21493)
+- **Nehemiah 6:14** (#22811)
   - was: My God, think thou upon Tobiah and Sanballat according to these their works, and on the prophetess Noadiah, and the rest of the prophets, that would have put me in fear.
   - now: My God, ponder thou upon Tobiah and Sanballat according to these their works, and on the prophetess Noadiah, and the rest of the prophets, that would have put me in fear.
 - **Nehemiah 7:4** (#6673)
@@ -44286,7 +44292,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Nehemiah 8:13** (#18135)
   - was: And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.
   - now: And on the second day were gathered together the head of the house of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.
-- **Nehemiah 8:17** (#21494)
+- **Nehemiah 8:17** (#22812)
   - was: And all the congregation of them that were come again out of the captivity made booths, and sat under the booths: for since the days of Jeshua the son of Nun unto that day had not the children of Israel done so. And there was very great gladness.
   - now: And all the congregation of them that were come again out of the captivity made booths, and sat under the booths: for since the days of Jeshua the son of Nun unto that day had not the children of Israel done so. And there was very great thankfulness.
 - **Nehemiah 9:5** (#15799)
@@ -44364,7 +44370,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Nehemiah 12:27** (#3101)
   - was: And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps.
   - now: And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thank offerings, and with singing, with cymbals, psalteries, and with harps.
-- **Nehemiah 12:27** (#21495)
+- **Nehemiah 12:27** (#22813)
   - was: And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thank offerings, and with singing, with cymbals, psalteries, and with harps.
   - now: And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with thankfulness, both with thank offerings, and with singing, with cymbals, psalteries, and with harps.
 - **Nehemiah 12:29** (#6674)
@@ -44442,10 +44448,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Esther 2:12** (#10507)
   - was: Now when every maid’s turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, for so were the days of their purifications accomplished, to wit, six months with oil of myrrh, and six months with sweet odours, and with other things for the purifying of the women;
   - now: Now when every maid’s turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, for so were the days of their purifications accomplished, to wit, six months with oil of myrrh, and six months with sweet incense, and with other things for the purifying of the women;
-- **Esther 3:13** (#21496)
+- **Esther 3:13** (#22814)
   - was: And the letters were sent by posts into all the king’s provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth day of the twelfth month, which is the month Adar, and to take the spoil of them for a prey.
   - now: And the letters were sent by posts into all the king’s provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth day of the twelfth month, which is the month Adar, and to take the spoil of them for prey.
-- **Esther 4:13** (#21497)
+- **Esther 4:13** (#22815)
   - was: Then Mordecai commanded to answer Esther, Think not with thyself that thou shalt escape in the king’s house, more than all the Jews.
   - now: Then Mordecai commanded to answer Esther, Ponder not with thyself that thou shalt escape in the king’s house, more than all the Jews.
 - **Esther 4:14** (#4217)
@@ -44454,7 +44460,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Esther 4:14** (#8924)
   - was: For if thou altogether holdest thy peace at this time, then shall there respite and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?
   - now: For if thou altogether holdest thy peace at this time, then shall there help and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?
-- **Esther 5:9** (#21498)
+- **Esther 5:9** (#22816)
   - was: Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.
   - now: Then went Haman forth that day joyful and with a thankful heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.
 - **Esther 5:14** (#4218)
@@ -44463,7 +44469,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Esther 6:13** (#8614)
   - was: And Haman told Zeresh his wife and all his friends every thing that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai be of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him.
   - now: And Haman told Zeresh his wife and all his friends every thing that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai be of the seed of the Jews, before whom thou hast began to fall, thou shalt not prevail against him, but shalt surely fall before him.
-- **Esther 6:14** (#21499)
+- **Esther 6:14** (#22817)
   - was: And while they were yet talking with him, came the king’s chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared. 
   - now: And while they were yet speaking with him, came the king’s chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared. 
 - **Esther 7:4** (#4219)
@@ -44490,16 +44496,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Esther 8:11** (#8925)
   - was: Wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would attack them, both little ones and women, and to take the spoil of them for a prey,
   - now: Wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would war against them, both little ones and women, and to take the spoil of them for a prey,
-- **Esther 8:11** (#21500)
+- **Esther 8:11** (#22818)
   - was: Wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would war against them, both little ones and women, and to take the spoil of them for a prey,
   - now: Wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would war against them, both little ones and women, and to take the spoil of them for prey,
-- **Esther 8:15** (#21501)
+- **Esther 8:15** (#22819)
   - was: And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Shushan rejoiced and was glad.
   - now: And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Shushan rejoiced and was thankful.
-- **Esther 8:16** (#21502)
+- **Esther 8:16** (#22820)
   - was: The Jews had light, and gladness, and joy, and honour.
   - now: The Jews had light, and thankfulness, and joy, and honour.
-- **Esther 8:17** (#21503)
+- **Esther 8:17** (#22821)
   - was: And in every province, and in every city, whithersoever the king’s commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them. 
   - now: And in every province, and in every city, whithersoever the king’s commandment and his decree came, the Jews had joy and thankfulness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them. 
 - **Esther 9:1** (#3173)
@@ -44511,13 +44517,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Esther 9:3** (#10409)
   - was: And all the rulers of the provinces, and the lieutenants, and the deputies, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them.
   - now: And all the rulers of the provinces, and the lieutenants, and the rulers, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them.
-- **Esther 9:17** (#21504)
+- **Esther 9:17** (#22822)
   - was: On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness.
   - now: On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and thankfulness.
-- **Esther 9:18** (#21505)
+- **Esther 9:18** (#22823)
   - was: But the Jews that were at Shushan assembled together on the thirteenth day thereof, and on the fourteenth thereof; and on the fifteenth day of the same they rested, and made it a day of feasting and gladness.
   - now: But the Jews that were at Shushan assembled together on the thirteenth day thereof, and on the fourteenth thereof; and on the fifteenth day of the same they rested, and made it a day of feasting and thankfulness.
-- **Esther 9:19** (#21506)
+- **Esther 9:19** (#22824)
   - was: Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar a day of gladness and feasting, and a good day, and of sending portions one to another.
   - now: Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar a day of thankfulness and feasting, and a good day, and of sending portions one to another.
 - **Esther 9:23** (#4224)
@@ -44544,13 +44550,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 2:3** (#5358)
   - was: And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.
   - now: And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and turneth away from evil? and still he holdeth fast his integrity, although thou didst stir me up against him, to destroy him without cause.
-- **Job 3:22** (#21507)
+- **Job 3:22** (#22825)
   - was: Which rejoice exceedingly, and are glad, when they can find the grave?
   - now: Which rejoice exceedingly, and are thankful, when they can find the grave?
 - **Job 4:4** (#5359)
   - was: Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.
   - now: Thy words have raised up him that was falling, and thou hast strengthened the feeble knees.
-- **Job 5:3** (#21508)
+- **Job 5:3** (#22826)
   - was: I have seen the foolish taking root: but suddenly I cursed his habitation.
   - now: I have seen the foolish taking root: but suddenly I cursed his abode.
 - **Job 5:12** (#5360)
@@ -44562,7 +44568,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 5:13** (#11939)
   - was: He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
   - now: He taketh the wise in their own craftiness: and the counsel of the froward is carried hastily.
-- **Job 5:24** (#21509)
+- **Job 5:24** (#22827)
   - was: And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.
   - now: And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy abode, and shalt not sin.
 - **Job 5:26** (#5361)
@@ -44634,6 +44640,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 7:12** (#5370)
   - was: Am I a sea, or a whale, that thou settest a watch over me?
   - now: Am I a sea, or a dragon, that thou settest a watch over me?
+- **Job 7:12** (#23276)
+  - was: Am I a sea, or a dragon, that thou settest a watch over me?
+  - now: Am I a sea, or a serpent, that thou settest a watch over me?
 - **Job 7:14** (#5371)
   - was: Then thou scarest me with dreams, and terrifiest me through visions:
   - now: Then thou affrightest me with dreams, and troublest me through visions:
@@ -44646,13 +44655,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 7:16** (#5373)
   - was: I loathe it; I would not live alway: let me alone; for my days are vanity.
   - now: I abhor it; I would not live alway: let me alone; for my days are vanity.
-- **Job 7:16** (#21510)
+- **Job 7:16** (#22828)
   - was: I abhor it; I would not live alway: let me alone; for my days are vanity.
   - now: I abhor it; I would not live always: let me alone; for my days are vanity.
 - **Job 7:20** (#5374)
   - was: I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?
   - now: I have sinned; what shall I do unto thee, O thou keeper of men? why hast thou set me as a mark against thee, so that I am a burden to myself?
-- **Job 8:6** (#21511)
+- **Job 8:6** (#22829)
   - was: If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.
   - now: If thou wert pure and upright; surely now he would awake for thee, and make the abode of thy righteousness prosperous.
 - **Job 8:9** (#3174)
@@ -44694,7 +44703,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 10:14** (#5381)
   - was: If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.
   - now: If I sin, then thou markest me, and thou wilt not clear me from mine iniquity.
-- **Job 11:2** (#21512)
+- **Job 11:2** (#22830)
   - was: Should not the multitude of words be answered? and should a man full of talk be justified?
   - now: Should not the multitude of words be answered? and should a man full of speech be justified?
 - **Job 11:6** (#5382)
@@ -44748,7 +44757,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 13:6** (#5389)
   - was: Hear now my reasoning, and hearken to the pleadings of my lips.
   - now: Hear now my reasoning, and hearken to the strivings of my lips.
-- **Job 13:7** (#21513)
+- **Job 13:7** (#22831)
   - was: Will ye speak wickedly for God? and talk deceitfully for him?
   - now: Will ye speak wickedly for God? and speak deceitfully for him?
 - **Job 13:9** (#15816)
@@ -44787,7 +44796,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 14:17** (#5392)
   - was: My transgression is sealed up in a bag, and thou sewest up mine iniquity.
   - now: My transgression is sealed up in a bag, and thou coverest up mine iniquity.
-- **Job 15:3** (#21514)
+- **Job 15:3** (#22832)
   - was: Should he reason with unprofitable talk? or with speeches wherewith he can do no good?
   - now: Should he reason with unprofitable speech? or with speeches wherewith he can do no good?
 - **Job 15:4** (#5393)
@@ -44859,7 +44868,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 17:5** (#5407)
   - was: He that speaketh flattery to his friends, even the eyes of his children shall fail.
   - now: He that betrayeth friends for a prey, even the eyes of his children shall fail.
-- **Job 17:5** (#21515)
+- **Job 17:5** (#22833)
   - was: He that betrayeth friends for a prey, even the eyes of his children shall fail.
   - now: He that betrayeth friends for prey, even the eyes of his children shall fail.
 - **Job 17:10** (#15824)
@@ -44892,7 +44901,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 18:14** (#15827)
   - was: His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors.
   - now: His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of fears.
-- **Job 18:15** (#21516)
+- **Job 18:15** (#22834)
   - was: It shall dwell in his tabernacle, because it is none of his: brimstone shall be scattered upon his habitation.
   - now: It shall dwell in his tabernacle, because it is none of his: brimstone shall be scattered upon his abode.
 - **Job 18:19** (#5411)
@@ -44952,7 +44961,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 21:34** (#15833)
   - was: How then comfort ye me in vain, seeing in your answers there remaineth falsehood? 
   - now: How then comfort ye me in vain, seeing in thine answers there remaineth falsehood? 
-- **Job 22:19** (#21517)
+- **Job 22:19** (#22835)
   - was: The righteous see it, and are glad: and the innocent laugh them to scorn.
   - now: The righteous see it, and are thankful: and the innocent laugh them to scorn.
 - **Job 23:4** (#5416)
@@ -44961,7 +44970,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 23:7** (#5417)
   - was: There the righteous might dispute with him; so should I be delivered for ever from my judge.
   - now: There the righteous might reason with him; so should I be delivered for ever from my judge.
-- **Job 24:5** (#21518)
+- **Job 24:5** (#22836)
   - was: Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children.
   - now: Behold, as wild asses in the desert, go they forth to their work; rising betimes for prey: the wilderness yieldeth food for them and for their children.
 - **Job 24:6** (#11174)
@@ -45018,7 +45027,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 28:15** (#8618)
   - was: It cannot be gotten for gold, neither shall silver be weighed for the price thereof.
   - now: It cannot be got for gold, neither shall silver be weighed for the price thereof.
-- **Job 29:9** (#21519)
+- **Job 29:9** (#22837)
   - was: The princes refrained talking, and laid their hand on their mouth.
   - now: The princes refrained speaking, and laid their hand on their mouth.
 - **Job 29:25** (#18061)
@@ -45057,7 +45066,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 30:22** (#5431)
   - was: Thou liftest me up to the wind; thou causest me to ride upon it, and dissolvest my substance.
   - now: Thou liftest me up to the wind; thou causest me to ride upon it, and destroyest my substance.
-- **Job 31:1** (#21520)
+- **Job 30:29** (#23277)
+  - was: I am a brother to dragons, and a companion to owls.
+  - now: I am a brother to serpents, and a companion to owls.
+- **Job 31:1** (#22838)
   - was: I made a covenant with mine eyes; why then should I think upon a maid?
   - now: I made a covenant with mine eyes; why then should I ponder upon a maid?
 - **Job 31:7** (#5432)
@@ -45141,7 +45153,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 34:30** (#5441)
   - was: That the hypocrite reign not, lest the people be ensnared.
   - now: That the hypocrite reign not, lest the people be snared.
-- **Job 35:2** (#21521)
+- **Job 35:2** (#22839)
   - was: Thinkest thou this to be right, that thou saidst, My righteousness is more than God’s?
   - now: Ponderest thou this to be right, that thou saidst, My righteousness is more than God’s?
 - **Job 35:6** (#8620)
@@ -45300,7 +45312,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Job 41:29** (#10387)
   - was: Darts are counted as stubble: he laugheth at the shaking of a spear.
   - now: Arrows are counted as stubble: he laugheth at the shaking of a spear.
-- **Job 41:32** (#21522)
+- **Job 41:32** (#22840)
   - was: He maketh a path to shine after him; one would think the deep to be hoary.
   - now: He maketh a path to shine after him; one would ponder the deep to be hoary.
 - **Job 42:8** (#15846)
@@ -45333,7 +45345,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 4:7** (#11177)
   - was: Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.
   - now: Thou hast put gladness in my heart, more than in the time that their wheat and their wine increased.
-- **Psalms 4:7** (#21523)
+- **Psalms 4:7** (#22841)
   - was: Thou hast put gladness in my heart, more than in the time that their wheat and their wine increased.
   - now: Thou hast put thankfulness in my heart, more than in the time that their wheat and their wine increased.
 - **Psalms 5:6** (#6059)
@@ -45342,7 +45354,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 5:9** (#6060)
   - was: For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue.
   - now: For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; with their tongue they deceive.
-- **Psalms 5:9** (#21524)
+- **Psalms 5:9** (#22842)
   - was: For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; with their tongue they deceive.
   - now: For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open grave; with their tongue they deceive.
 - **Psalms 7:4** (#3178)
@@ -45351,10 +45363,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 7:16** (#6061)
   - was: His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.
   - now: His mischief shall return upon his own head, and his violent dealing shall come down upon his own crown.
-- **Psalms 9:2** (#21525)
+- **Psalms 9:2** (#22843)
   - was: I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.
   - now: I will be thankful and rejoice in thee: I will sing praise to thy name, O thou most High.
-- **Psalms 9:18** (#21526)
+- **Psalms 9:18** (#22844)
   - was: For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever.
   - now: For the needy shall not always be forgotten: the expectation of the poor shall not perish for ever.
 - **Psalms 10:7** (#6062)
@@ -45378,7 +45390,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 11:2** (#6066)
   - was: For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.
   - now: For, lo, the wicked bend their bow, they make ready their arrow upon the cord, that they may privily shoot at the upright in heart.
-- **Psalms 14:7** (#21527)
+- **Psalms 14:7** (#22845)
   - was: Oh that the salvation of Israel were come out of Zion! when the Lord bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad. 
   - now: Oh that the salvation of Israel were come out of Zion! when the Lord bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be thankful. 
 - **Psalms 15:3** (#9188)
@@ -45387,7 +45399,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 16:2** (#6067)
   - was: O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee;
   - now: O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness belongeth not to thee;
-- **Psalms 16:9** (#21528)
+- **Psalms 16:9** (#22846)
   - was: Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.
   - now: Therefore my heart is thankful, and my glory rejoiceth: my flesh also shall rest in hope.
 - **Psalms 17:9** (#10392)
@@ -45426,7 +45438,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 19:13** (#6074)
   - was: Keep back thy servant also from presumptuous sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.
   - now: Keep back thy servant also from proud sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.
-- **Psalms 21:6** (#21529)
+- **Psalms 21:6** (#22847)
   - was: For thou hast made him most blessed for ever: thou hast made him exceeding glad with thy countenance.
   - now: For thou hast made him most blessed for ever: thou hast made him exceeding thankful with thy countenance.
 - **Psalms 22:3** (#3505)
@@ -45459,7 +45471,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 26:4** (#6078)
   - was: I have not sat with vain persons, neither will I go in with dissemblers.
   - now: I have not sat with vain persons, neither will I go in with hypocrites.
-- **Psalms 26:8** (#21530)
+- **Psalms 26:8** (#22848)
   - was: Lord, I have loved the habitation of thy house, and the place where thine honour dwelleth.
   - now: Lord, I have loved the abode of thy house, and the place where thine honour dwelleth.
 - **Psalms 27:3** (#10375)
@@ -45480,10 +45492,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 30:11** (#11379)
   - was: Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;
   - now: Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and adorned me with gladness;
-- **Psalms 30:11** (#21531)
+- **Psalms 30:11** (#22849)
   - was: Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and adorned me with gladness;
   - now: Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and adorned me with thankfulness;
-- **Psalms 31:7** (#21532)
+- **Psalms 31:7** (#22850)
   - was: I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;
   - now: I will be thankful and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;
 - **Psalms 31:18** (#6082)
@@ -45498,16 +45510,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 32:4** (#6083)
   - was: For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.
   - now: For day and night thy hand was heavy upon me: my marrow is turned into the drought of summer. Selah.
-- **Psalms 32:11** (#21533)
+- **Psalms 32:11** (#22851)
   - was: Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart. 
   - now: Be thankful in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart. 
 - **Psalms 33:3** (#6084)
   - was: Sing unto him a new song; play skilfully with a loud noise.
   - now: Sing unto him a new song; play diligently with a loud noise.
-- **Psalms 33:14** (#21534)
+- **Psalms 33:14** (#22852)
   - was: From the place of his habitation he looketh upon all the inhabitants of the earth.
   - now: From the place of his abode he looketh upon all the inhabitants of the earth.
-- **Psalms 34:2** (#21535)
+- **Psalms 34:2** (#22853)
   - was: My soul shall make her boast in the Lord: the humble shall hear thereof, and be glad.
   - now: My soul shall make her boast in the Lord: the humble shall hear thereof, and be thankful.
 - **Psalms 34:11** (#15855)
@@ -45528,13 +45540,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 35:19** (#6087)
   - was: Let not them that are mine enemies wrongfully rejoice over me: neither let them wink with the eye that hate me without a cause.
   - now: Let not them that are mine enemies wrongfully rejoice over me: neither let them make a sign with the eye that hate me without a cause.
-- **Psalms 35:27** (#21536)
+- **Psalms 35:27** (#22854)
   - was: Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the Lord be magnified, which hath pleasure in the prosperity of his servant.
   - now: Let them shout for joy, and be thankful, that favour my righteous cause: yea, let them say continually, Let the Lord be magnified, which hath pleasure in the prosperity of his servant.
 - **Psalms 37:12** (#6088)
   - was: The wicked plotteth against the just, and gnasheth upon him with his teeth.
   - now: The wicked deviseth against the just, and gnasheth upon him with his teeth.
-- **Psalms 37:30** (#21537)
+- **Psalms 37:30** (#22855)
   - was: The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.
   - now: The mouth of the righteous speaketh wisdom, and his tongue speaketh of judgment.
 - **Psalms 38:8** (#6089)
@@ -45546,7 +45558,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 39:3** (#6091)
   - was: My heart was hot within me, while I was musing the fire burned: then spake I with my tongue,
   - now: My heart was hot within me, while I was thinking the fire burned: then spake I with my tongue,
-- **Psalms 39:3** (#21538)
+- **Psalms 39:3** (#22856)
   - was: My heart was hot within me, while I was thinking the fire burned: then spake I with my tongue,
   - now: My heart was hot within me, while I was pondering the fire burned: then spake I with my tongue,
 - **Psalms 39:4** (#6092)
@@ -45555,16 +45567,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 39:5** (#11993)
   - was: Behold, thou hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah.
   - now: Behold, thou hast made my days as a hand's measure; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah.
-- **Psalms 39:12** (#21539)
+- **Psalms 39:12** (#22857)
   - was: Hear my prayer, O Lord, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.
   - now: Hear my prayer, O Lord, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a dweller, as all my fathers were.
 - **Psalms 40:7** (#6093)
   - was: Then said I, Lo, I come: in the volume of the book it is written of me,
   - now: Then said I, Lo, I come: in the roll of the book it is written of me,
-- **Psalms 40:16** (#21540)
+- **Psalms 40:16** (#22858)
   - was: Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The Lord be magnified.
   - now: Let all those that seek thee rejoice and be thankful in thee: let such as love thy salvation say continually, The Lord be magnified.
-- **Psalms 40:17** (#21541)
+- **Psalms 40:17** (#22859)
   - was: But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God. 
   - now: But I am poor and needy; yet the Lord pondereth upon me: thou art my help and my deliverer; make no staying, O my God. 
 - **Psalms 41:7** (#6094)
@@ -45579,22 +45591,25 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 44:2** (#6097)
   - was: How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out.
   - now: How thou didst drive out the heathen with thy hand, and planted them; how thou didst afflict the people, and cast them out.
+- **Psalms 44:19** (#23278)
+  - was: Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.
+  - now: Though thou hast sore broken us in the place of serpents, and covered us with the shadow of death.
 - **Psalms 45:1** (#6098)
   - was: My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer.
   - now: My heart uttereth a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready scribe.
 - **Psalms 45:4** (#6099)
   - was: And in thy majesty ride prosperously because of truth and meekness and righteousness; and thy right hand shall teach thee terrible things.
   - now: And in thy majesty ride mightily because of truth and meekness and righteousness; and thy right hand shall teach thee terrible things.
-- **Psalms 45:7** (#21542)
+- **Psalms 45:7** (#22860)
   - was: Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.
   - now: Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of thankfulness above thy fellows.
-- **Psalms 45:8** (#21543)
+- **Psalms 45:8** (#22861)
   - was: All thy garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, whereby they have made thee glad.
   - now: All thy garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, whereby they have made thee thankful.
-- **Psalms 45:15** (#21544)
+- **Psalms 45:15** (#22862)
   - was: With gladness and rejoicing shall they be brought: they shall enter into the king’s palace.
   - now: With thankfulness and rejoicing shall they be brought: they shall enter into the king’s palace.
-- **Psalms 46:4** (#21545)
+- **Psalms 46:4** (#22863)
   - was: There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High.
   - now: There is a river, the streams whereof shall make thankful the city of God, the holy place of the tabernacles of the most High.
 - **Psalms 47:1** (#15856)
@@ -45603,7 +45618,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 48:2** (#6100)
   - was: Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King.
   - now: Beautiful for seat, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King.
-- **Psalms 48:11** (#21546)
+- **Psalms 48:11** (#22864)
   - was: Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments.
   - now: Let mount Zion rejoice, let the daughters of Judah be thankful, because of thy judgments.
 - **Psalms 49:8** (#3179)
@@ -45630,7 +45645,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 51:7** (#6104)
   - was: Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
   - now: Purge me with hyssop, and I shall be clean: wash me, and I shall be purer than snow.
-- **Psalms 51:8** (#21547)
+- **Psalms 51:8** (#22865)
   - was: Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.
   - now: Make me to hear joy and thankfulness; that the bones which thou hast broken may rejoice.
 - **Psalms 51:11** (#3374)
@@ -45639,7 +45654,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 51:14** (#6105)
   - was: Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.
   - now: Deliver me from blood, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.
-- **Psalms 53:6** (#21548)
+- **Psalms 53:6** (#22866)
   - was: Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad. 
   - now: Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be thankful. 
 - **Psalms 55:4** (#15858)
@@ -45705,7 +45720,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 62:10** (#15863)
   - was: Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them.
   - now: Trust not in oppression, and become not vain in robbery: if riches increase, set not thine heart upon them.
-- **Psalms 64:10** (#21549)
+- **Psalms 64:10** (#22867)
   - was: The righteous shall be glad in the Lord, and shall trust in him; and all the upright in heart shall glory. 
   - now: The righteous shall be thankful in the Lord, and shall trust in him; and all the upright in heart shall glory. 
 - **Psalms 65:1** (#7299)
@@ -45741,19 +45756,19 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 67:4** (#11994)
   - was: O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.
   - now: O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and ruleth the nations upon earth. Selah.
-- **Psalms 67:4** (#21550)
+- **Psalms 67:4** (#22868)
   - was: O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and ruleth the nations upon earth. Selah.
   - now: O let the nations be thankful and sing for joy: for thou shalt judge the people righteously, and ruleth the nations upon earth. Selah.
-- **Psalms 68:3** (#21551)
+- **Psalms 68:3** (#22869)
   - was: But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.
   - now: But let the righteous be thankful; let them rejoice before God: yea, let them exceedingly rejoice.
-- **Psalms 68:5** (#21552)
+- **Psalms 68:5** (#22870)
   - was: A father of the fatherless, and a judge of the widows, is God in his holy habitation.
   - now: A father of the fatherless, and a judge of the widows, is God in his holy abode.
 - **Psalms 68:12** (#11630)
   - was: Kings of armies did flee apace: and she that tarried at home divided the spoil.
   - now: Kings of armies did flee quickly: and she that tarried at home divided the spoil.
-- **Psalms 68:12** (#21553)
+- **Psalms 68:12** (#22871)
   - was: Kings of armies did flee quickly: and she that tarried at home divided the spoil.
   - now: Kings of armies did flee quickly: and she that stayed at home divided the spoil.
 - **Psalms 68:13** (#8624)
@@ -45783,25 +45798,25 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 69:24** (#6125)
   - was: Pour out thine indignation upon them, and let thy wrathful anger take hold of them.
   - now: Pour out thine indignation upon them, and let the fierceness of thine anger take hold of them.
-- **Psalms 69:25** (#21554)
+- **Psalms 69:25** (#22872)
   - was: Let their habitation be desolate; and let none dwell in their tents.
   - now: Let their abode be desolate; and let none dwell in their tents.
-- **Psalms 69:26** (#21555)
+- **Psalms 69:26** (#22873)
   - was: For they persecute him whom thou hast smitten; and they talk to the grief of those whom thou hast wounded.
   - now: For they persecute him whom thou hast smitten; and they speak to the grief of those whom thou hast wounded.
 - **Psalms 69:32** (#15864)
   - was: The humble shall see this, and be glad: and your heart shall live that seek God.
   - now: The humble shall see this, and be glad: and thine heart shall live that seek God.
-- **Psalms 69:32** (#21556)
+- **Psalms 69:32** (#22874)
   - was: The humble shall see this, and be glad: and thine heart shall live that seek God.
   - now: The humble shall see this, and be thankful: and thine heart shall live that seek God.
-- **Psalms 70:4** (#21557)
+- **Psalms 70:4** (#22875)
   - was: Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.
   - now: Let all those that seek thee rejoice and be thankful in thee: and let such as love thy salvation say continually, Let God be magnified.
-- **Psalms 70:5** (#21558)
+- **Psalms 70:5** (#22876)
   - was: But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O Lord, make no tarrying. 
   - now: But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O Lord, make no staying. 
-- **Psalms 71:3** (#21559)
+- **Psalms 71:3** (#22877)
   - was: Be thou my strong habitation, whereunto I may continually resort: thou hast given commandment to save me; for thou art my rock and my fortress.
   - now: Be thou my strong abode, whereunto I may continually resort: thou hast given commandment to save me; for thou art my rock and my fortress.
 - **Psalms 71:6** (#8625)
@@ -45810,7 +45825,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 71:18** (#11995)
   - was: Now also when I am old and grayheaded, O God, forsake me not; until I have shewed thy strength unto this generation, and thy power to every one that is to come.
   - now: Now also when I am old and gray headed, O God, forsake me not; until I have shewed thy strength unto this generation, and thy power to every one that is to come.
-- **Psalms 71:24** (#21560)
+- **Psalms 71:24** (#22878)
   - was: My tongue also shall talk of thy righteousness all the day long: for they are confounded, for they are brought unto shame, that seek my hurt. 
   - now: My tongue also shall speak of thy righteousness all the day long: for they are confounded, for they are brought unto shame, that seek my hurt. 
 - **Psalms 72:6** (#6126)
@@ -45837,10 +45852,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 73:23** (#8626)
   - was: Nevertheless I am continually with thee: thou hast holden me by my right hand.
   - now: Nevertheless I am continually with thee: thou hast held me by my right hand.
+- **Psalms 74:13** (#23279)
+  - was: Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters.
+  - now: Thou didst divide the sea by thy strength: thou brakest the heads of the serpents in the waters.
 - **Psalms 74:15** (#6131)
   - was: Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.
   - now: Thou didst cleave the fountain and the flood: thou madest mighty rivers dry.
-- **Psalms 74:20** (#21561)
+- **Psalms 74:20** (#22879)
   - was: Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty.
   - now: Have respect unto the covenant: for the dark places of the earth are full of the dwelling places of cruelty.
 - **Psalms 75:5** (#15866)
@@ -45867,7 +45885,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 77:3** (#10537)
   - was: I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.
   - now: I remembered God, and was troubled: I complained, and my spirit was swallowed. Selah.
-- **Psalms 77:12** (#21562)
+- **Psalms 77:12** (#22880)
   - was: I will meditate also of all thy work, and talk of thy doings.
   - now: I will meditate also of all thy work, and speak of thy doings.
 - **Psalms 77:14** (#8627)
@@ -45885,7 +45903,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 78:27** (#6135)
   - was: He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:
   - now: He rained flesh also upon them as dust, and winged fowls like as the sand of the sea:
-- **Psalms 78:28** (#21563)
+- **Psalms 78:28** (#22881)
   - was: And he let it fall in the midst of their camp, round about their habitations.
   - now: And he let it fall in the midst of their camp, round about their dwelling places.
 - **Psalms 78:36** (#6136)
@@ -45969,7 +45987,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 88:16** (#15871)
   - was: Thy fierce wrath goeth over me; thy terrors have cut me off.
   - now: Thy fierce wrath goeth over me; thy fears have cut me off.
-- **Psalms 89:14** (#21564)
+- **Psalms 89:14** (#22882)
   - was: Justice and judgment are the habitation of thy throne: mercy and truth shall go before thy face.
   - now: Justice and judgment are the abode of thy throne: mercy and truth shall go before thy face.
 - **Psalms 90:5** (#6151)
@@ -45978,19 +45996,22 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 90:12** (#10359)
   - was: So teach us to number our days, that we may apply our hearts unto wisdom.
   - now: So teach us to number our days, that we may give our hearts unto wisdom.
-- **Psalms 90:14** (#21565)
+- **Psalms 90:14** (#22883)
   - was: O satisfy us early with thy mercy; that we may rejoice and be glad all our days.
   - now: O satisfy us early with thy mercy; that we may rejoice and be thankful all our days.
-- **Psalms 90:15** (#21566)
+- **Psalms 90:15** (#22884)
   - was: Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.
   - now: Make us thankful according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.
 - **Psalms 91:5** (#15872)
   - was: Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;
   - now: Thou shalt not be afraid for the fear by night; nor for the arrow that flieth by day;
-- **Psalms 91:9** (#21567)
+- **Psalms 91:9** (#22885)
   - was: Because thou hast made the Lord, which is my refuge, even the most High, thy habitation;
   - now: Because thou hast made the Lord, which is my refuge, even the most High, thy abode;
-- **Psalms 92:4** (#21568)
+- **Psalms 91:13** (#23280)
+  - was: Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.
+  - now: Thou shalt tread upon the lion and adder: the young lion and the serpent shalt thou trample under feet.
+- **Psalms 92:4** (#22886)
   - was: For thou, Lord, hast made me glad through thy work: I will triumph in the works of thy hands.
   - now: For thou, Lord, hast made me thankful through thy work: I will triumph in the works of thy hands.
 - **Psalms 92:10** (#6685)
@@ -46011,19 +46032,19 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 95:9** (#19693)
   - was: When thine fathers tempted me, proved me, and saw my work.
   - now: When thy fathers tempted me, proved me, and saw my work.
-- **Psalms 96:11** (#21569)
+- **Psalms 96:11** (#22887)
   - was: Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.
   - now: Let the heavens rejoice, and let the earth be thankful; let the sea roar, and the fulness thereof.
-- **Psalms 97:1** (#21570)
+- **Psalms 97:1** (#22888)
   - was: The Lord reigneth; let the earth rejoice; let the multitude of isles be glad thereof.
   - now: The Lord reigneth; let the earth rejoice; let the multitude of isles be thankful thereof.
-- **Psalms 97:2** (#21571)
+- **Psalms 97:2** (#22889)
   - was: Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne.
   - now: Clouds and darkness are round about him: righteousness and judgment are the abode of his throne.
-- **Psalms 97:8** (#21572)
+- **Psalms 97:8** (#22890)
   - was: Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O Lord.
   - now: Zion heard, and was thankful; and the daughters of Judah rejoiced because of thy judgments, O Lord.
-- **Psalms 97:11** (#21573)
+- **Psalms 97:11** (#22891)
   - was: Light is sown for the righteous, and gladness for the upright in heart.
   - now: Light is sown for the righteous, and thankfulness for the upright in heart.
 - **Psalms 98:1** (#8632)
@@ -46032,10 +46053,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 99:8** (#6153)
   - was: Thou answeredst them, O Lord our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.
   - now: Thou didst answer them, O Lord our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.
-- **Psalms 100:2** (#21574)
+- **Psalms 100:2** (#22892)
   - was: Serve the Lord with gladness: come before his presence with singing.
   - now: Serve the Lord with thankfulness: come before his presence with singing.
-- **Psalms 101:7** (#21575)
+- **Psalms 101:7** (#22893)
   - was: He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.
   - now: He that worketh deceit shall not dwell within my house: he that telleth lies shall not stay in my sight.
 - **Psalms 102:7** (#6154)
@@ -46047,10 +46068,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 104:6** (#9192)
   - was: Thou deckedst it with the deep as with a garment: the waters stood above the mountains.
   - now: Thou didst cover it with the deep as with a garment: the waters stood above the mountains.
-- **Psalms 104:12** (#21576)
+- **Psalms 104:12** (#22894)
   - was: By them shall the fowls of the heaven have their habitation, which sing among the branches.
   - now: By them shall the fowls of the heaven have their abode, which sing among the branches.
-- **Psalms 104:15** (#21577)
+- **Psalms 104:15** (#22895)
   - was: And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.
   - now: And wine that maketh thankful the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.
 - **Psalms 104:16** (#6156)
@@ -46065,13 +46086,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 104:24** (#10469)
   - was: O Lord, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.
   - now: O Lord, how abundant are thy works! in wisdom hast thou made them all: the earth is full of thy riches.
-- **Psalms 104:34** (#21578)
+- **Psalms 104:34** (#22896)
   - was: My meditation of him shall be sweet: I will be glad in the Lord.
   - now: My meditation of him shall be sweet: I will be thankful in the Lord.
 - **Psalms 104:35** (#3685)
   - was: Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the Lord, O my soul. Praise ye the Lord. 
   - now: Let the sinners be consumed out of the earth, And let the wicked be no more. Bless thou the LORD, O my soul, HALLELUJAH.
-- **Psalms 105:2** (#21579)
+- **Psalms 105:2** (#22897)
   - was: Sing unto him, sing psalms unto him: talk ye of all his wondrous works.
   - now: Sing unto him, sing psalms unto him: speak ye of all his wondrous works.
 - **Psalms 105:11** (#15875)
@@ -46080,7 +46101,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 105:22** (#6158)
   - was: To bind his princes at his pleasure; and teach his senators wisdom.
   - now: To bind his princes at his pleasure; and teach his elders wisdom.
-- **Psalms 105:23** (#21580)
+- **Psalms 105:23** (#22898)
   - was: Israel also came into Egypt; and Jacob sojourned in the land of Ham.
   - now: Israel also came into Egypt; and Jacob dwelt in the land of Ham.
 - **Psalms 105:27** (#11382)
@@ -46107,10 +46128,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 105:36** (#18160)
   - was: He smote also all the firstborn in their land, the chief of all their strength.
   - now: He smote also all the firstborn in their land, the head of all their strength.
-- **Psalms 105:38** (#21581)
+- **Psalms 105:38** (#22899)
   - was: Egypt was glad when they departed: for the fear of them fell upon them.
   - now: Egypt was thankful when they departed: for the fear of them fell upon them.
-- **Psalms 105:43** (#21582)
+- **Psalms 105:43** (#22900)
   - was: And he brought forth his people with joy, and his chosen with gladness:
   - now: And he brought forth his people with joy, and his chosen with thankfulness:
 - **Psalms 105:45** (#3686)
@@ -46122,7 +46143,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 106:5** (#11387)
   - was: That I may look on the happiness of thy chosen, that I may rejoice in the joy of thy nation, that I may glory with thine inheritance.
   - now: That I may look on the gladness of thy chosen, that I may rejoice in the joy of thy nation, that I may glory with thine inheritance.
-- **Psalms 106:5** (#21583)
+- **Psalms 106:5** (#22901)
   - was: That I may look on the gladness of thy chosen, that I may rejoice in the joy of thy nation, that I may glory with thine inheritance.
   - now: That I may look on the thankfulness of thy chosen, that I may rejoice in the joy of thy nation, that I may glory with thine inheritance.
 - **Psalms 106:6** (#11388)
@@ -46143,13 +46164,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 106:33** (#9194)
   - was: Because they provoked his spirit, so that he spake rashly with his lips.
   - now: Because they provoked his spirit, so that he spake foolishly with his lips.
-- **Psalms 107:7** (#21584)
+- **Psalms 107:7** (#22902)
   - was: And he led them forth by the right way, that they might go to a city of habitation.
   - now: And he led them forth by the right way, that they might go to a city of abode.
 - **Psalms 107:27** (#6160)
   - was: They reel to and fro, and stagger like a drunken man, and are at their wits’ end.
   - now: They tossed to and fro, and stagger like a drunken man, and are at their wits' end.
-- **Psalms 107:30** (#21585)
+- **Psalms 107:30** (#22903)
   - was: Then are they glad because they be quiet; so he bringeth them unto their desired haven.
   - now: Then are they thankful because they be quiet; so he bringeth them unto their desired haven.
 - **Psalms 107:33** (#6161)
@@ -46161,7 +46182,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 107:35** (#6162)
   - was: He turneth the wilderness into a standing water, and dry ground into watersprings.
   - now: He turneth the wilderness into a standing water, and dry ground into fountains.
-- **Psalms 107:36** (#21586)
+- **Psalms 107:36** (#22904)
   - was: And there he maketh the hungry to dwell, that they may prepare a city for habitation;
   - now: And there he maketh the hungry to dwell, that they may prepare a city for abode;
 - **Psalms 107:38** (#6163)
@@ -46212,13 +46233,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 116:3** (#8633)
   - was: The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow.
   - now: The sorrows of death compassed me, and the pains of hell got hold upon me: I found trouble and sorrow.
-- **Psalms 118:24** (#21587)
+- **Psalms 118:24** (#22905)
   - was: This is the day which the Lord hath made; we will rejoice and be glad in it.
   - now: This is the day which the Lord hath made; we will rejoice and be thankful in it.
 - **Psalms 118:26** (#15877)
   - was: Blessed be he that cometh in the name of the Lord: we have blessed you out of the house of the Lord.
   - now: Blessed be he that cometh in the name of the Lord: we have blessed thee out of the house of the Lord.
-- **Psalms 119:27** (#21588)
+- **Psalms 119:27** (#22906)
   - was: Make me to understand the way of thy precepts: so shall I talk of thy wondrous works.
   - now: Make me to understand the way of thy precepts: so shall I speak of thy wondrous works.
 - **Psalms 119:68** (#8634)
@@ -46230,7 +46251,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 119:70** (#6174)
   - was: Their heart is as fat as grease; but I delight in thy law.
   - now: Their heart is as gross as fat; but I delight in thy law.
-- **Psalms 119:74** (#21589)
+- **Psalms 119:74** (#22907)
   - was: They that fear thee will be glad when they see me; because I have hoped in thy word.
   - now: They that fear thee will be thankful when they see me; because I have hoped in thy word.
 - **Psalms 119:83** (#3687)
@@ -46239,19 +46260,19 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 119:83** (#9844)
   - was: For I am become like a wineskin in the smoke; yet do I not forget thy statutes.
   - now: For I am become like a vessel in the smoke; yet do I not forget thy statutes.
-- **Psalms 119:112** (#21590)
+- **Psalms 119:112** (#22908)
   - was: I have inclined mine heart to perform thy statutes alway, even unto the end.
   - now: I have inclined mine heart to perform thy statutes always, even unto the end.
 - **Psalms 119:119** (#10422)
   - was: Thou puttest away all the wicked of the earth like dross: therefore I love thy testimonies.
   - now: Thou puttest away all the wicked of the earth like filth: therefore I love thy testimonies.
-- **Psalms 120:5** (#21591)
+- **Psalms 120:5** (#22909)
   - was: Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!
   - now: Woe is me, that I dwell in Mesech, that I dwell in the tents of Kedar!
 - **Psalms 121:5** (#6175)
   - was: The Lord is thy keeper: the Lord is thy shade upon thy right hand.
   - now: The Lord is thy keeper: the Lord is thy shadow upon thy right hand.
-- **Psalms 122:1** (#21592)
+- **Psalms 122:1** (#22910)
   - was: I was glad when they said unto me, Let us go into the house of the Lord.
   - now: I was thankful when they said unto me, Let us go into the house of the Lord.
 - **Psalms 122:3** (#6176)
@@ -46263,10 +46284,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 124:4** (#10539)
   - was: Then the waters had overwhelmed us, the stream had gone over our soul:
   - now: Then the waters had swallowed us, the stream had gone over our soul:
-- **Psalms 124:6** (#21593)
+- **Psalms 124:6** (#22911)
   - was: Blessed be the Lord, who hath not given us as a prey to their teeth.
   - now: Blessed be the Lord, who hath not given us as prey to their teeth.
-- **Psalms 126:3** (#21594)
+- **Psalms 126:3** (#22912)
   - was: The Lord hath done great things for us; whereof we are glad.
   - now: The Lord hath done great things for us; whereof we are thankful.
 - **Psalms 127:2** (#15878)
@@ -46281,10 +46302,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 129:8** (#15879)
   - was: Neither do they which go by say, The blessing of the Lord be upon you: we bless you in the name of the Lord. 
   - now: Neither do they which go by say, The blessing of the Lord be upon thee: we bless thee in the name of the Lord. 
-- **Psalms 132:5** (#21595)
+- **Psalms 132:5** (#22913)
   - was: Until I find out a place for the Lord, an habitation for the mighty God of Jacob.
   - now: Until I find out a place for the Lord, an abode for the mighty God of Jacob.
-- **Psalms 132:13** (#21596)
+- **Psalms 132:13** (#22914)
   - was: For the Lord hath chosen Zion; he hath desired it for his habitation.
   - now: For the Lord hath chosen Zion; he hath desired it for his abode.
 - **Psalms 134:2** (#15880)
@@ -46350,7 +46371,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 144:13** (#6191)
   - was: That our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:
   - now: That our barns may be full, yielding all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:
-- **Psalms 145:11** (#21597)
+- **Psalms 145:11** (#22915)
   - was: They shall speak of the glory of thy kingdom, and talk of thy power;
   - now: They shall speak of the glory of thy kingdom, and speak of thy power;
 - **Psalms 145:16** (#6192)
@@ -46368,6 +46389,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Psalms 147:17** (#11999)
   - was: He casteth forth his ice like morsels: who can stand before his cold?
   - now: He casteth forth his hailstones like morsels: who can stand before his cold?
+- **Psalms 148:7** (#23281)
+  - was: Praise the Lord from the earth, ye dragons, and all deeps:
+  - now: Praise the Lord from the earth, ye serpents, and all deeps:
 - **Proverbs 1:11** (#5957)
   - was: If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:
   - now: If they say, Come with us, let us lay wait for blood, let us hide privily for the innocent without cause:
@@ -46407,7 +46431,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 3:29** (#5961)
   - was: Devise not evil against thy neighbour, seeing he dwelleth securely by thee.
   - now: Devise not evil against thy neighbour, seeing he dwelleth safely by thee.
-- **Proverbs 3:33** (#21598)
+- **Proverbs 3:33** (#22916)
   - was: The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just.
   - now: The curse of the Lord is in the house of the wicked: but he blesseth the abode of the just.
 - **Proverbs 3:35** (#5962)
@@ -46449,7 +46473,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 6:21** (#5970)
   - was: Bind them continually upon thine heart, and tie them about thy neck.
   - now: Bind them continually upon thine heart, and fasten them about thy neck.
-- **Proverbs 6:22** (#21599)
+- **Proverbs 6:22** (#22917)
   - was: When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.
   - now: When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall speak with thee.
 - **Proverbs 6:24** (#5971)
@@ -46491,7 +46515,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 9:13** (#5978)
   - was: A foolish woman is clamorous: she is simple, and knoweth nothing.
   - now: A foolish woman is tumultuous: she is simple, and knoweth nothing.
-- **Proverbs 10:1** (#21600)
+- **Proverbs 10:1** (#22918)
   - was: The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.
   - now: The proverbs of Solomon. A wise son maketh a thankful father: but a foolish son is the heaviness of his mother.
 - **Proverbs 10:3** (#5979)
@@ -46500,7 +46524,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 10:10** (#5980)
   - was: He that winketh with the eye causeth sorrow: but a prating fool shall fall.
   - now: He that maketh a sign with the eye causeth sorrow: but a prating fool shall fall.
-- **Proverbs 10:28** (#21601)
+- **Proverbs 10:28** (#22919)
   - was: The hope of the righteous shall be gladness: but the expectation of the wicked shall perish.
   - now: The hope of the righteous shall be thankfulness: but the expectation of the wicked shall perish.
 - **Proverbs 10:32** (#11984)
@@ -46524,7 +46548,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 12:18** (#5985)
   - was: There is that speaketh like the piercings of a sword: but the tongue of the wise is health.
   - now: There is that speaketh like the wounds of a sword: but the tongue of the wise is health.
-- **Proverbs 12:25** (#21602)
+- **Proverbs 12:25** (#22920)
   - was: Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.
   - now: Heaviness in the heart of man maketh it stoop: but a good word maketh it thankful.
 - **Proverbs 12:28** (#5986)
@@ -46557,7 +46581,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 14:23** (#5989)
   - was: In all labour there is profit: but the talk of the lips tendeth only to penury.
   - now: In all labour there is profit: but the talk of the lips tendeth only to want.
-- **Proverbs 14:23** (#21603)
+- **Proverbs 14:23** (#22921)
   - was: In all labour there is profit: but the talk of the lips tendeth only to want.
   - now: In all labour there is profit: but the speech of the lips tendeth only to want.
 - **Proverbs 15:4** (#5990)
@@ -46569,7 +46593,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 15:18** (#5991)
   - was: A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.
   - now: An angry man stirreth up strife: but he that is slow to anger stilleth strife.
-- **Proverbs 15:20** (#21604)
+- **Proverbs 15:20** (#22922)
   - was: A wise son maketh a glad father: but a foolish man despiseth his mother.
   - now: A wise son maketh a thankful father: but a foolish man despiseth his mother.
 - **Proverbs 15:22** (#5992)
@@ -46578,7 +46602,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 15:28** (#5993)
   - was: The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.
   - now: The heart of the righteous thinketh to answer: but the mouth of the wicked poureth out evil things.
-- **Proverbs 15:28** (#21605)
+- **Proverbs 15:28** (#22923)
   - was: The heart of the righteous thinketh to answer: but the mouth of the wicked poureth out evil things.
   - now: The heart of the righteous pondereth to answer: but the mouth of the wicked poureth out evil things.
 - **Proverbs 16:14** (#5994)
@@ -46605,7 +46629,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 16:33** (#9184)
   - was: The lot is cast into the lap; but the whole decision thereof is of the Lord.
   - now: The lot is cast into the lap; but the whole judgment thereof is of the Lord.
-- **Proverbs 17:5** (#21606)
+- **Proverbs 17:5** (#22924)
   - was: Whoso mocketh the poor reproacheth his Maker: and he that is glad at calamities shall not be unpunished.
   - now: Whoso mocketh the poor reproacheth his Maker: and he that is thankful at calamities shall not be unpunished.
 - **Proverbs 17:9** (#5999)
@@ -46707,7 +46731,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 22:24** (#6020)
   - was: Make no friendship with an angry man; and with a furious man thou shalt not go:
   - now: Be no friend to an angry man; and with a furious man thou shalt not go:
-- **Proverbs 23:7** (#21607)
+- **Proverbs 23:7** (#22925)
   - was: For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.
   - now: For as he pondereth in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.
 - **Proverbs 23:12** (#10362)
@@ -46722,13 +46746,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 23:21** (#6022)
   - was: For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.
   - now: For the drunkard and the riotous shall come to poverty: and the sleeper shall be clothed with rags.
-- **Proverbs 23:25** (#21608)
+- **Proverbs 23:25** (#22926)
   - was: Thy father and thy mother shall be glad, and she that bare thee shall rejoice.
   - now: Thy father and thy mother shall be thankful, and she that bare thee shall rejoice.
-- **Proverbs 23:28** (#21609)
+- **Proverbs 23:28** (#22927)
   - was: She also lieth in wait as for a prey, and increaseth the transgressors among men.
   - now: She also lieth in wait as for prey, and increaseth the transgressors among men.
-- **Proverbs 23:30** (#21610)
+- **Proverbs 23:30** (#22928)
   - was: They that tarry long at the wine; they that go to seek mixed wine.
   - now: They that stay long at the wine; they that go to seek mixed wine.
 - **Proverbs 23:32** (#6023)
@@ -46740,13 +46764,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 24:2** (#6024)
   - was: For their heart studieth destruction, and their lips talk of mischief.
   - now: For their heart thinketh destruction, and their lips talk of mischief.
-- **Proverbs 24:2** (#21611)
+- **Proverbs 24:2** (#22929)
   - was: For their heart thinketh destruction, and their lips talk of mischief.
   - now: For their heart pondereth destruction, and their lips speak of mischief.
 - **Proverbs 24:3** (#6692)
   - was: Through wisdom is an house builded; and by understanding it is established:
   - now: Through wisdom is an house built; and by understanding it is established:
-- **Proverbs 24:17** (#21612)
+- **Proverbs 24:17** (#22930)
   - was: Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:
   - now: Rejoice not when thine enemy falleth, and let not thine heart be thankful when he stumbleth:
 - **Proverbs 24:34** (#6025)
@@ -46815,7 +46839,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 27:9** (#6041)
   - was: Ointment and perfume rejoice the heart: so doth the sweetness of a man’s friend by hearty counsel.
   - now: Ointment and perfume rejoice the heart: so doth the sweetness of a man's friend by counsel of the soul.
-- **Proverbs 27:11** (#21613)
+- **Proverbs 27:11** (#22931)
   - was: My son, be wise, and make my heart glad, that I may answer him that reproacheth me.
   - now: My son, be wise, and make my heart thankful, that I may answer him that reproacheth me.
 - **Proverbs 27:12** (#6042)
@@ -46833,7 +46857,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Proverbs 27:27** (#6044)
   - was: And thou shalt have goats’ milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens. 
   - now: And thou shalt have goats' milk enough for thy food, for the food of thy household, and for the sustenance for thy maidens.
-- **Proverbs 28:14** (#21614)
+- **Proverbs 28:14** (#22932)
   - was: Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.
   - now: Happy is the man that feareth always: but he that hardeneth his heart shall fall into mischief.
 - **Proverbs 28:15** (#6045)
@@ -46953,7 +46977,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ecclesiastes 8:16** (#10365)
   - was: When I applied mine heart to know wisdom, and to see the business that is done upon the earth: for also there is that neither day nor night seeth sleep with his eyes:
   - now: When I gave mine heart to know wisdom, and to see the business that is done upon the earth: for also there is that neither day nor night seeth sleep with his eyes:
-- **Ecclesiastes 8:17** (#21615)
+- **Ecclesiastes 8:17** (#22933)
   - was: Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea further; though a wise man think to know it, yet shall he not be able to find it. 
   - now: Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea further; though a wise man ponder to know it, yet shall he not be able to find it. 
 - **Ecclesiastes 9:2** (#11847)
@@ -46977,7 +47001,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ecclesiastes 10:11** (#8919)
   - was: Surely the serpent will bite without enchantment; and a babbler is no better.
   - now: Surely the serpent will bite without enchantment; and a talebearer is no better.
-- **Ecclesiastes 10:13** (#21616)
+- **Ecclesiastes 10:13** (#22934)
   - was: The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.
   - now: The beginning of the words of his mouth is foolishness: and the end of his speech is mischievous madness.
 - **Ecclesiastes 10:15** (#4182)
@@ -47004,7 +47028,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ecclesiastes 12:13** (#8920)
   - was: Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
   - now: Let us hear the end of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
-- **Song of Solomon 1:4** (#21617)
+- **Song of Solomon 1:4** (#22935)
   - was: Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.
   - now: Draw me, we will run after thee: the king hath brought me into his chambers: we will be thankful and rejoice in thee, we will remember thy love more than wine: the upright love thee.
 - **Song of Solomon 1:11** (#6280)
@@ -47040,7 +47064,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Song of Solomon 3:11** (#6286)
   - was: Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart. 
   - now: Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his marriage, and in the day of the gladness of his heart.
-- **Song of Solomon 3:11** (#21618)
+- **Song of Solomon 3:11** (#22936)
   - was: Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his marriage, and in the day of the gladness of his heart.
   - now: Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his marriage, and in the day of the thankfulness of his heart.
 - **Song of Solomon 4:4** (#6696)
@@ -47367,7 +47391,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 10:6** (#5071)
   - was: I will send him against an hypocritical nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets.
   - now: I will send him against a profane nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets.
-- **Isaiah 10:7** (#21619)
+- **Isaiah 10:7** (#22937)
   - was: Howbeit he meaneth not so, neither doth his heart think so; but it is in his heart to destroy and cut off nations not a few.
   - now: Howbeit he meaneth not so, neither doth his heart ponder so; but it is in his heart to destroy and cut off nations not a few.
 - **Isaiah 10:14** (#5072)
@@ -47442,6 +47466,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 13:22** (#9073)
   - was: And the wild beasts of the desert shall cry in their desolate houses, and jackals in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
   - now: And the wild beasts of the desert shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
+- **Isaiah 13:22** (#23282)
+  - was: And the wild beasts of the desert shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
+  - now: And the wild beasts of the desert shall cry in their desolate houses, and serpents in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
 - **Isaiah 14:8** (#5082)
   - was: Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.
   - now: Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no woodsman is come up against us.
@@ -47484,7 +47511,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 16:10** (#5089)
   - was: And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in their presses; I have made their vintage shouting to cease.
   - now: And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: none shall tread out wine in their presses; I have made their vintage shouting to cease.
-- **Isaiah 16:10** (#21620)
+- **Isaiah 16:10** (#22938)
   - was: And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: none shall tread out wine in their presses; I have made their vintage shouting to cease.
   - now: And thankfulness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: none shall tread out wine in their presses; I have made their vintage shouting to cease.
 - **Isaiah 17:5** (#5090)
@@ -47553,7 +47580,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 21:10** (#15910)
   - was: O my threshing, and the wheat of my floor: that which I have heard of the Lord of hosts, the God of Israel, have I declared unto you.
   - now: O my threshing, and the wheat of my floor: that which I have heard of the Lord of hosts, the God of Israel, have I declared unto thee.
-- **Isaiah 22:13** (#21621)
+- **Isaiah 22:13** (#22939)
   - was: And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.
   - now: And behold joy and thankfulness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.
 - **Isaiah 22:14** (#15911)
@@ -47562,7 +47589,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 22:15** (#5105)
   - was: Thus saith the Lord God of hosts, Go, get thee unto this treasurer, even unto Shebna, which is over the house, and say,
   - now: Thus saith the Lord God of hosts, Go, get thee unto this steward, even unto Shebna, which is over the house, and say,
-- **Isaiah 22:16** (#21622)
+- **Isaiah 22:16** (#22940)
   - was: What hast thou here? and whom hast thou here, that thou hast hewed thee out a sepulchre here, as he that heweth him out a sepulchre on high, and that graveth an habitation for himself in a rock?
   - now: What hast thou here? and whom hast thou here, that thou hast hewed thee out a grave here, as he that heweth him out a grave on high, and that graveth an abode for himself in a rock?
 - **Isaiah 22:18** (#5106)
@@ -47601,7 +47628,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 23:7** (#19705)
   - was: Is this thine joyous city, whose beginning is of ancient days? her own feet shall carry her afar off to sojourn.
   - now: Is this thy joyous city, whose beginning is of ancient days? her own feet shall carry her afar off to sojourn.
-- **Isaiah 23:7** (#21623)
+- **Isaiah 23:7** (#22941)
   - was: Is this thy joyous city, whose beginning is of ancient days? her own feet shall carry her afar off to sojourn.
   - now: Is this thy joyous city, whose beginning is of ancient days? her own feet shall carry her afar off to dwell.
 - **Isaiah 23:8** (#5112)
@@ -47640,7 +47667,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 24:20** (#5116)
   - was: The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.
   - now: The earth shall stagger to and fro like a drunkard, and shall be removed like a lodge; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.
-- **Isaiah 25:9** (#21624)
+- **Isaiah 25:9** (#22942)
   - was: And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is the Lord; we have waited for him, we will be glad and rejoice in his salvation.
   - now: And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is the Lord; we have waited for him, we will be thankful and rejoice in his salvation.
 - **Isaiah 26:1** (#8647)
@@ -47661,13 +47688,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 26:21** (#5121)
   - was: For, behold, the Lord cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain. 
   - now: For, behold, the Lord cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall reveal her blood, and shall no more cover her slain.
+- **Isaiah 27:1** (#23283)
+  - was: In that day the Lord with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.
+  - now: In that day the Lord with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the serpent that is in the sea.
 - **Isaiah 27:9** (#5122)
   - was: By this therefore shall the iniquity of Jacob be purged; and this is all the fruit to take away his sin; when he maketh all the stones of the altar as chalkstones that are beaten in sunder, the groves and images shall not stand up.
   - now: By this therefore shall the iniquity of Jacob be purged; and this is all the fruit to take away his sin; when he maketh all the stones of the altar as stones of lime that are beaten in sunder, the groves and images shall not stand up.
 - **Isaiah 27:9** (#9076)
   - was: By this therefore shall the iniquity of Jacob be purged; and this is all the fruit to take away his sin; when he maketh all the stones of the altar as stones of lime that are beaten in sunder, the groves and images shall not stand up.
   - now: By this therefore shall the iniquity of Jacob be purged; and this is all the fruit to take away his sin; when he maketh all the stones of the altar as stones of ashes that are beaten in sunder, the groves and images shall not stand up.
-- **Isaiah 27:10** (#21625)
+- **Isaiah 27:10** (#22943)
   - was: Yet the defenced city shall be desolate, and the habitation forsaken, and left like a wilderness: there shall the calf feed, and there shall he lie down, and consume the branches thereof.
   - now: Yet the defenced city shall be desolate, and the abode forsaken, and left like a wilderness: there shall the calf feed, and there shall he lie down, and consume the branches thereof.
 - **Isaiah 27:12** (#5123)
@@ -47784,7 +47814,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 30:29** (#5134)
   - was: Ye shall have a song, as in the night when a holy solemnity is kept; and gladness of heart, as when one goeth with a pipe to come into the mountain of the Lord, to the mighty One of Israel.
   - now: Ye shall have a song, as in the night when a holy feast is kept; and gladness of heart, as when one goeth with a pipe to come into the mountain of the Lord, to the mighty One of Israel.
-- **Isaiah 30:29** (#21626)
+- **Isaiah 30:29** (#22944)
   - was: Ye shall have a song, as in the night when a holy feast is kept; and gladness of heart, as when one goeth with a pipe to come into the mountain of the Lord, to the mighty One of Israel.
   - now: Ye shall have a song, as in the night when a holy feast is kept; and thankfulness of heart, as when one goeth with a pipe to come into the mountain of the Lord, to the mighty One of Israel.
 - **Isaiah 30:33** (#5135)
@@ -47829,7 +47859,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 32:11** (#19713)
   - was: Tremble, ye women that are at ease; be troubled, ye careless ones: strip thee, and make thee bare, and gird sackcloth upon thine loins.
   - now: Tremble, ye women that are at ease; be troubled, ye careless ones: strip thee, and make thee bare, and gird sackcloth upon thy loins.
-- **Isaiah 32:18** (#21627)
+- **Isaiah 32:18** (#22945)
   - was: And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;
   - now: And my people shall dwell in a peaceable abode, and in sure dwellings, and in quiet resting places;
 - **Isaiah 33:4** (#15930)
@@ -47868,7 +47898,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 33:20** (#5145)
   - was: Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle that shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.
   - now: Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle that shall not be taken down; not one of the pins thereof shall ever be removed, neither shall any of the cords thereof be broken.
-- **Isaiah 33:20** (#21628)
+- **Isaiah 33:20** (#22946)
   - was: Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle that shall not be taken down; not one of the pins thereof shall ever be removed, neither shall any of the cords thereof be broken.
   - now: Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet abode, a tabernacle that shall not be taken down; not one of the pins thereof shall ever be removed, neither shall any of the cords thereof be broken.
 - **Isaiah 33:21** (#5146)
@@ -47892,9 +47922,12 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 34:11** (#5149)
   - was: But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of emptiness.
   - now: But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of desolation.
-- **Isaiah 34:13** (#21629)
+- **Isaiah 34:13** (#22947)
   - was: And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, and a court for owls.
   - now: And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an abode of dragons, and a court for owls.
+- **Isaiah 34:13** (#23284)
+  - was: And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an abode of dragons, and a court for owls.
+  - now: And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an abode of serpents, and a court for owls.
 - **Isaiah 34:14** (#5150)
   - was: The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest.
   - now: The wild beasts of the desert shall also meet with the wild beasts of the island, and the wild goat shall cry to his fellow; the great owl also shall rest there, and find for herself a place of rest.
@@ -47904,7 +47937,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 34:16** (#5152)
   - was: Seek ye out of the book of the Lord, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.
   - now: Seek ye out of the book of the Lord, and read: no one of these shall fail, none shall want her companion: for my mouth it hath commanded, and his spirit it hath gathered them.
-- **Isaiah 35:1** (#21630)
+- **Isaiah 35:1** (#22948)
   - was: The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.
   - now: The wilderness and the solitary place shall be thankful for them; and the desert shall rejoice, and blossom as the rose.
 - **Isaiah 35:4** (#15933)
@@ -47916,10 +47949,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 35:5** (#5153)
   - was: Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped.
   - now: Then the eyes of the blind shall be opened, and the ears of the deaf shall hear.
-- **Isaiah 35:7** (#21631)
+- **Isaiah 35:7** (#22949)
   - was: And the parched ground shall become a pool, and the thirsty land springs of water: in the habitation of dragons, where each lay, shall be grass with reeds and rushes.
   - now: And the parched ground shall become a pool, and the thirsty land springs of water: in the abode of dragons, where each lay, shall be grass with reeds and rushes.
-- **Isaiah 35:10** (#21632)
+- **Isaiah 35:7** (#23285)
+  - was: And the parched ground shall become a pool, and the thirsty land springs of water: in the abode of dragons, where each lay, shall be grass with reeds and rushes.
+  - now: And the parched ground shall become a pool, and the thirsty land springs of water: in the abode of serpents, where each lay, shall be grass with reeds and rushes.
+- **Isaiah 35:10** (#22950)
   - was: And the ransomed of the Lord shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away. 
   - now: And the ransomed of the Lord shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and thankfulness, and sorrow and sighing shall flee away. 
 - **Isaiah 36:5** (#3295)
@@ -47979,7 +48015,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 38:18** (#11926)
   - was: For the grave cannot praise thee, death can not celebrate thee: they that go down into the pit cannot hope for thy truth.
   - now: For the grave cannot praise thee, death can not keep thee: they that go down into the pit cannot hope for thy truth.
-- **Isaiah 39:2** (#21633)
+- **Isaiah 39:2** (#22951)
   - was: And Hezekiah was glad of them, and shewed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.
   - now: And Hezekiah was thankful of them, and shewed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.
 - **Isaiah 40:1** (#15940)
@@ -48048,7 +48084,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 42:14** (#8650)
   - was: I have long time holden my peace; I have been still, and refrained myself: now will I cry like a travailing woman; I will destroy and devour at once.
   - now: I have long time held my peace; I have been still, and refrained myself: now will I cry like a travailing woman; I will destroy and devour at once.
-- **Isaiah 42:22** (#21634)
+- **Isaiah 42:22** (#22952)
   - was: But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.
   - now: But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for prey, and none delivereth; for a spoil, and none saith, Restore.
 - **Isaiah 42:23** (#15948)
@@ -48072,6 +48108,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 43:17** (#5163)
   - was: Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are extinct, they are quenched as tow.
   - now: Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are put out, they are quenched as tow.
+- **Isaiah 43:20** (#23286)
+  - was: The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen.
+  - now: The beast of the field shall honour me, the serpents and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen.
 - **Isaiah 43:24** (#5164)
   - was: Thou hast bought me no sweet cane with money, neither hast thou filled me with the fat of thy sacrifices: but thou hast made me to serve with thy sins, thou hast wearied me with thine iniquities.
   - now: Thou hast bought me no sweet calamus with money, neither hast thou filled me with the fat of thy sacrifices: but thou hast made me to serve with thy sins, thou hast wearied me with thine iniquities.
@@ -48126,7 +48165,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 46:12** (#5171)
   - was: Hearken unto me, ye stouthearted, that are far from righteousness:
   - now: Hearken unto me, ye that are stubborn in heart, that are far from righteousness:
-- **Isaiah 46:13** (#21635)
+- **Isaiah 46:13** (#22953)
   - was: I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory. 
   - now: I bring near my righteousness; it shall not be far off, and my salvation shall not stay: and I will place salvation in Zion for Israel my glory. 
 - **Isaiah 47:2** (#5172)
@@ -48201,7 +48240,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 51:2** (#19728)
   - was: Look unto Abraham thine father, and unto Sarah that bare thee: for I called him alone, and blessed him, and increased him.
   - now: Look unto Abraham thy father, and unto Sarah that bare thee: for I called him alone, and blessed him, and increased him.
-- **Isaiah 51:3** (#21636)
+- **Isaiah 51:3** (#22954)
   - was: For the Lord shall comfort Zion: he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the Lord; joy and gladness shall be found therein, thanksgiving, and the voice of melody.
   - now: For the Lord shall comfort Zion: he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the Lord; joy and thankfulness shall be found therein, thanksgiving, and the voice of melody.
 - **Isaiah 51:6** (#15958)
@@ -48210,7 +48249,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 51:7** (#5177)
   - was: Hearken unto me, ye that know righteousness, the people in whose heart is my law; fear ye not the reproach of men, neither be ye afraid of their revilings.
   - now: Hearken unto me, ye that know righteousness, the people in whose heart is my law; fear ye not the reproach of men, neither be ye afraid of their reproaches.
-- **Isaiah 51:11** (#21637)
+- **Isaiah 51:9** (#23287)
+  - was: Awake, awake, put on strength, O arm of the Lord; awake, as in the ancient days, in the generations of old. Art thou not it that hath cut Rahab, and wounded the dragon?
+  - now: Awake, awake, put on strength, O arm of the Lord; awake, as in the ancient days, in the generations of old. Art thou not it that hath cut Rahab, and wounded the serpent?
+- **Isaiah 51:11** (#22955)
   - was: Therefore the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy shall be upon their head: they shall obtain gladness and joy; and sorrow and mourning shall flee away.
   - now: Therefore the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy shall be upon their head: they shall obtain thankfulness and joy; and sorrow and mourning shall flee away.
 - **Isaiah 51:12** (#15959)
@@ -48219,7 +48261,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 51:14** (#5178)
   - was: The captive exile hasteneth that he may be loosed, and that he should not die in the pit, nor that his bread should fail.
   - now: The captive sojourner hasteneth that he may be loosed, and that he should not die in the pit, nor that his bread should fail.
-- **Isaiah 51:14** (#21638)
+- **Isaiah 51:14** (#22956)
   - was: The captive sojourner hasteneth that he may be loosed, and that he should not die in the pit, nor that his bread should fail.
   - now: The captive dweller hasteneth that he may be loosed, and that he should not die in the pit, nor that his bread should fail.
 - **Isaiah 51:17** (#8652)
@@ -48237,7 +48279,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 52:3** (#20496)
   - was: For thus saith the Lord, Ye have sold yourselves for nought; and ye shall be redeemed without money.
   - now: For thus saith the Lord, Ye have sold thyself for nought; and ye shall be redeemed without money.
-- **Isaiah 52:4** (#21639)
+- **Isaiah 52:4** (#22957)
   - was: For thus saith the Lord God, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.
   - now: For thus saith the Lord God, My people went down aforetime into Egypt to dwell there; and the Assyrian oppressed them without cause.
 - **Isaiah 52:12** (#15960)
@@ -48267,7 +48309,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 54:2** (#5182)
   - was: Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
   - now: Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, prolong thy cords, and strengthen thy pins;
-- **Isaiah 54:2** (#21640)
+- **Isaiah 54:2** (#22958)
   - was: Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, prolong thy cords, and strengthen thy pins;
   - now: Enlarge the place of thy tent, and let them stretch forth the curtains of thine dwelling places: spare not, prolong thy cords, and strengthen thy pins;
 - **Isaiah 54:14** (#15961)
@@ -48384,7 +48426,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 59:5** (#6333)
   - was: They hatch cockatrice’ eggs, and weave the spider’s web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.
   - now: They break cockatrice' eggs, and weave the spider's web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.
-- **Isaiah 59:15** (#21641)
+- **Isaiah 59:15** (#22959)
   - was: Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the Lord saw it, and it displeased him that there was no judgment.
   - now: Yea, truth faileth; and he that departeth from evil maketh himself prey: and the Lord saw it, and it displeased him that there was no judgment.
 - **Isaiah 59:16** (#3507)
@@ -48456,7 +48498,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 63:11** (#3376)
   - was: Then he remembered the days of old, Moses, and his people, saying, Where is he that brought them up out of the sea with the shepherd of his flock? where is he that put his holy Spirit within him?
   - now: Then he remembered the days of old, Moses, and his people, saying, Where is he that brought them up out of the sea with the shepherd of his flock? where is he that put the spirit of the Lord within him?
-- **Isaiah 63:15** (#21642)
+- **Isaiah 63:15** (#22960)
   - was: Look down from heaven, and behold from the habitation of thy holiness and of thy glory: where is thy zeal and thy strength, the sounding of thy bowels and of thy mercies toward me? are they restrained?
   - now: Look down from heaven, and behold from the abode of thy holiness and of thy glory: where is thy zeal and thy strength, the sounding of thy bowels and of thy mercies toward me? are they restrained?
 - **Isaiah 65:4** (#5203)
@@ -48486,7 +48528,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 65:15** (#19741)
   - was: And ye shall leave thine name for a curse unto my chosen: for the Lord God shall slay thee, and call his servants by another name:
   - now: And ye shall leave thy name for a curse unto my chosen: for the Lord God shall slay thee, and call his servants by another name:
-- **Isaiah 65:18** (#21643)
+- **Isaiah 65:18** (#22961)
   - was: But be ye glad and rejoice for ever in that which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy.
   - now: But be ye thankful and rejoice for ever in that which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy.
 - **Isaiah 65:20** (#5206)
@@ -48504,7 +48546,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Isaiah 66:5** (#19742)
   - was: Hear the word of the Lord, ye that tremble at his word; Thine brethren that hated thee, that cast thee out for my name’s sake, said, Let the Lord be glorified: but he shall appear to thine joy, and they shall be ashamed.
   - now: Hear the word of the Lord, ye that tremble at his word; Thy brethren that hated thee, that cast thee out for my name’s sake, said, Let the Lord be glorified: but he shall appear to thy joy, and they shall be ashamed.
-- **Isaiah 66:10** (#21644)
+- **Isaiah 66:10** (#22962)
   - was: Rejoice ye with Jerusalem, and be glad with her, all ye that love her: rejoice for joy with her, all ye that mourn for her:
   - now: Rejoice ye with Jerusalem, and be thankful with her, all ye that love her: rejoice for joy with her, all ye that mourn for her:
 - **Isaiah 66:12** (#5208)
@@ -48699,7 +48741,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 5:15** (#15994)
   - was: Lo, I will bring a nation upon you from far, O house of Israel, saith the Lord: it is a mighty nation, it is an ancient nation, a nation whose language thou knowest not, neither understandest what they say.
   - now: Lo, I will bring a nation upon thee from far, O house of Israel, saith the Lord: it is a mighty nation, it is an ancient nation, a nation whose language thou knowest not, neither understandest what they say.
-- **Jeremiah 5:16** (#21645)
+- **Jeremiah 5:16** (#22963)
   - was: Their quiver is as an open sepulchre, they are all mighty men.
   - now: Their quiver is as an open grave, they are all mighty men.
 - **Jeremiah 5:17** (#5258)
@@ -48840,7 +48882,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 7:25** (#19765)
   - was: Since the day that thine fathers came forth out of the land of Egypt unto this day I have even sent unto thee all my servants the prophets, daily rising up early and sending them:
   - now: Since the day that thy fathers came forth out of the land of Egypt unto this day I have even sent unto thee all my servants the prophets, daily rising up early and sending them:
-- **Jeremiah 7:34** (#21646)
+- **Jeremiah 7:34** (#22964)
   - was: Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate. 
   - now: Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth, and the voice of thankfulness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate. 
 - **Jeremiah 8:5** (#5268)
@@ -48870,12 +48912,15 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 9:4** (#5273)
   - was: Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders.
   - now: Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly deceive, and every neighbour will walk with slanders.
-- **Jeremiah 9:6** (#21647)
+- **Jeremiah 9:6** (#22965)
   - was: Thine habitation is in the midst of deceit; through deceit they refuse to know me, saith the Lord.
   - now: Thine abode is in the midst of deceit; through deceit they refuse to know me, saith the Lord.
-- **Jeremiah 9:10** (#21648)
+- **Jeremiah 9:10** (#22966)
   - was: For the mountains will I take up a weeping and wailing, and for the habitations of the wilderness a lamentation, because they are burned up, so that none can pass through them; neither can men hear the voice of the cattle; both the fowl of the heavens and the beast are fled; they are gone.
   - now: For the mountains will I take up a weeping and wailing, and for the dwelling places of the wilderness a lamentation, because they are burned up, so that none can pass through them; neither can men hear the voice of the cattle; both the fowl of the heavens and the beast are fled; they are gone.
+- **Jeremiah 9:11** (#23288)
+  - was: And I will make Jerusalem heaps, and a den of dragons; and I will make the cities of Judah desolate, without an inhabitant.
+  - now: And I will make Jerusalem heaps, and a den of serpents; and I will make the cities of Judah desolate, without an inhabitant.
 - **Jeremiah 9:18** (#5274)
   - was: And let them make haste, and take up a wailing for us, that our eyes may run down with tears, and our eyelids gush out with waters.
   - now: And let them make haste, and take up a wailing for us, that our eyes may run down with tears, and our eyelids flow out with waters.
@@ -48909,7 +48954,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 10:22** (#5278)
   - was: Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, and a den of dragons.
   - now: Behold, the noise of the rumour is come, and a great tumult out of the north country, to make the cities of Judah desolate, and a den of dragons.
-- **Jeremiah 10:25** (#21649)
+- **Jeremiah 10:22** (#23289)
+  - was: Behold, the noise of the rumour is come, and a great tumult out of the north country, to make the cities of Judah desolate, and a den of dragons.
+  - now: Behold, the noise of the rumour is come, and a great tumult out of the north country, to make the cities of Judah desolate, and a den of serpents.
+- **Jeremiah 10:25** (#22967)
   - was: Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate. 
   - now: Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his abode desolate. 
 - **Jeremiah 11:4** (#16017)
@@ -48942,7 +48990,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 11:18** (#5281)
   - was: And the Lord hath given me knowledge of it, and I know it: then thou shewedst me their doings.
   - now: And the Lord hath given me knowledge of it, and I know it: then thou madest known to me their doings.
-- **Jeremiah 12:1** (#21650)
+- **Jeremiah 12:1** (#22968)
   - was: Righteous art thou, O Lord, when I plead with thee: yet let me talk with thee of thy judgments: Wherefore doth the way of the wicked prosper? wherefore are all they happy that deal very treacherously?
   - now: Righteous art thou, O Lord, when I plead with thee: yet let me speak with thee of thy judgments: Wherefore doth the way of the wicked prosper? wherefore are all they happy that deal very treacherously?
 - **Jeremiah 12:5** (#8660)
@@ -49035,7 +49083,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 14:6** (#5285)
   - was: And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because there was no grass.
   - now: And the wild asses did stand in the high places, they drew in the wind like dragons; their eyes did fail, because there was no grass.
-- **Jeremiah 14:8** (#21651)
+- **Jeremiah 14:6** (#23290)
+  - was: And the wild asses did stand in the high places, they drew in the wind like dragons; their eyes did fail, because there was no grass.
+  - now: And the wild asses did stand in the high places, they drew in the wind like serpents; their eyes did fail, because there was no grass.
+- **Jeremiah 14:8** (#22969)
   - was: O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man that turneth aside to tarry for a night?
   - now: O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man that turneth aside to stay for a night?
 - **Jeremiah 14:13** (#16025)
@@ -49071,7 +49122,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 16:9** (#19774)
   - was: For thus saith the Lord of hosts, the God of Israel; Behold, I will cause to cease out of this place in thine eyes, and in thine days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride.
   - now: For thus saith the Lord of hosts, the God of Israel; Behold, I will cause to cease out of this place in thine eyes, and in thy days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride.
-- **Jeremiah 16:9** (#21652)
+- **Jeremiah 16:9** (#22970)
   - was: For thus saith the Lord of hosts, the God of Israel; Behold, I will cause to cease out of this place in thine eyes, and in thy days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride.
   - now: For thus saith the Lord of hosts, the God of Israel; Behold, I will cause to cease out of this place in thine eyes, and in thy days, the voice of mirth, and the voice of thankfulness, the voice of the bridegroom, and the voice of the bride.
 - **Jeremiah 16:11** (#16030)
@@ -49143,7 +49194,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 20:10** (#5295)
   - was: For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
   - now: For I heard the slander of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
-- **Jeremiah 20:15** (#21653)
+- **Jeremiah 20:15** (#22971)
   - was: Cursed be the man who brought tidings to my father, saying, A man child is born unto thee; making him very glad.
   - now: Cursed be the man who brought tidings to my father, saying, A man child is born unto thee; making him very thankful.
 - **Jeremiah 20:16** (#5296)
@@ -49161,7 +49212,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 21:9** (#16042)
   - was: He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey.
   - now: He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege thee, he shall live, and his life shall be unto him for a prey.
-- **Jeremiah 21:9** (#21654)
+- **Jeremiah 21:9** (#22972)
   - was: He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege thee, he shall live, and his life shall be unto him for a prey.
   - now: He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege thee, he shall live, and his life shall be unto him for prey.
 - **Jeremiah 21:12** (#16043)
@@ -49170,7 +49221,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 21:12** (#19780)
   - was: O house of David, thus saith the Lord; Execute judgment in the morning, and deliver him that is spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench it, because of the evil of thine doings.
   - now: O house of David, thus saith the Lord; Execute judgment in the morning, and deliver him that is spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench it, because of the evil of thy doings.
-- **Jeremiah 21:13** (#21655)
+- **Jeremiah 21:13** (#22973)
   - was: Behold, I am against thee, O inhabitant of the valley, and rock of the plain, saith the Lord; which say, Who shall come down against us? or who shall enter into our habitations?
   - now: Behold, I am against thee, O inhabitant of the valley, and rock of the plain, saith the Lord; which say, Who shall come down against us? or who shall enter into our dwelling places?
 - **Jeremiah 21:14** (#16044)
@@ -49212,7 +49263,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 23:17** (#16047)
   - was: They say still unto them that despise me, The Lord hath said, Ye shall have peace; and they say unto every one that walketh after the imagination of his own heart, No evil shall come upon you.
   - now: They say still unto them that despise me, The Lord hath said, Ye shall have peace; and they say unto every one that walketh after the imagination of his own heart, No evil shall come upon thee.
-- **Jeremiah 23:27** (#21656)
+- **Jeremiah 23:27** (#22974)
   - was: Which think to cause my people to forget my name by their dreams which they tell every man to his neighbour, as their fathers have forgotten my name for Baal.
   - now: Which ponder to cause my people to forget my name by their dreams which they tell every man to his neighbour, as their fathers have forgotten my name for Baal.
 - **Jeremiah 23:33** (#16048)
@@ -49251,7 +49302,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 25:7** (#16056)
   - was: Yet ye have not hearkened unto me, saith the Lord; that ye might provoke me to anger with the works of your hands to your own hurt.
   - now: Yet ye have not hearkened unto me, saith the Lord; that ye might provoke me to anger with the works of thine hands to thine own hurt.
-- **Jeremiah 25:10** (#21657)
+- **Jeremiah 25:10** (#22975)
   - was: Moreover I will take from them the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the sound of the millstones, and the light of the candle.
   - now: Moreover I will take from them the voice of mirth, and the voice of thankfulness, the voice of the bridegroom, and the voice of the bride, the sound of the millstones, and the light of the candle.
 - **Jeremiah 25:22** (#7303)
@@ -49260,7 +49311,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 25:27** (#16057)
   - was: Therefore thou shalt say unto them, Thus saith the Lord of hosts, the God of Israel; Drink ye, and be drunken, and spue, and fall, and rise no more, because of the sword which I will send among you.
   - now: Therefore thou shalt say unto them, Thus saith the Lord of hosts, the God of Israel; Drink ye, and be drunken, and spue, and fall, and rise no more, because of the sword which I will send among thee.
-- **Jeremiah 25:30** (#21658)
+- **Jeremiah 25:30** (#22976)
   - was: Therefore prophesy thou against them all these words, and say unto them, The Lord shall roar from on high, and utter his voice from his holy habitation; he shall mightily roar upon his habitation; he shall give a shout, as they that tread the grapes, against all the inhabitants of the earth.
   - now: Therefore prophesy thou against them all these words, and say unto them, The Lord shall roar from on high, and utter his voice from his holy abode; he shall mightily roar upon his abode; he shall give a shout, as they that tread the grapes, against all the inhabitants of the earth.
 - **Jeremiah 25:34** (#3474)
@@ -49275,7 +49326,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 25:34** (#20507)
   - was: Howl, ye shepherds, and cry; and wallow yourselves in the ashes, ye principal of the flock: for the days of thy slaughter and of thy dispersed are accomplished; and ye shall fall like a pleasant vessel.
   - now: Howl, ye shepherds, and cry; and wallow thyself in the ashes, ye principal of the flock: for the days of thy slaughter and of thy dispersed are accomplished; and ye shall fall like a pleasant vessel.
-- **Jeremiah 25:37** (#21659)
+- **Jeremiah 25:37** (#22977)
   - was: And the peaceable habitations are cut down because of the fierce anger of the Lord.
   - now: And the peaceable dwelling places are cut down because of the fierce anger of the Lord.
 - **Jeremiah 26:4** (#16059)
@@ -49392,7 +49443,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 29:11** (#19794)
   - was: For I know the thoughts that I think toward thee, saith the Lord, thoughts of peace, and not of evil, to give thee hope in thine latter end.
   - now: For I know the thoughts that I think toward thee, saith the Lord, thoughts of peace, and not of evil, to give thee hope in thy latter end.
-- **Jeremiah 29:11** (#21660)
+- **Jeremiah 29:11** (#22978)
   - was: For I know the thoughts that I think toward thee, saith the Lord, thoughts of peace, and not of evil, to give thee hope in thy latter end.
   - now: For I know the thoughts that I ponder toward thee, saith the Lord, thoughts of peace, and not of evil, to give thee hope in thy latter end.
 - **Jeremiah 29:12** (#16078)
@@ -49434,7 +49485,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 30:13** (#5307)
   - was: There is none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines.
   - now: There is none to plead thy cause, that thou mayest be bound up: thou hast no healing cures.
-- **Jeremiah 30:16** (#21661)
+- **Jeremiah 30:16** (#22979)
   - was: Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey.
   - now: Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for prey.
 - **Jeremiah 30:18** (#6712)
@@ -49455,7 +49506,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 31:7** (#18057)
   - was: For thus saith the Lord; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O Lord, save thy people, the remnant of Israel.
   - now: For thus saith the Lord; Sing with gladness for Jacob, and shout among the ruler of the nations: publish ye, praise ye, and say, O Lord, save thy people, the remnant of Israel.
-- **Jeremiah 31:7** (#21662)
+- **Jeremiah 31:7** (#22980)
   - was: For thus saith the Lord; Sing with gladness for Jacob, and shout among the ruler of the nations: publish ye, praise ye, and say, O Lord, save thy people, the remnant of Israel.
   - now: For thus saith the Lord; Sing with thankfulness for Jacob, and shout among the ruler of the nations: publish ye, praise ye, and say, O Lord, save thy people, the remnant of Israel.
 - **Jeremiah 31:14** (#5310)
@@ -49467,7 +49518,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 31:21** (#5312)
   - was: Set thee up waymarks, make thee high heaps: set thine heart toward the highway, even the way which thou wentest: turn again, O virgin of Israel, turn again to these thy cities.
   - now: Set thee up signs, make thee high heaps: set thine heart toward the highway, even the way which thou wentest: turn again, O virgin of Israel, turn again to these thy cities.
-- **Jeremiah 31:23** (#21663)
+- **Jeremiah 31:23** (#22981)
   - was: Thus saith the Lord of hosts, the God of Israel; As yet they shall use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity; The Lord bless thee, O habitation of justice, and mountain of holiness.
   - now: Thus saith the Lord of hosts, the God of Israel; As yet they shall use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity; The Lord bless thee, O abode of justice, and mountain of holiness.
 - **Jeremiah 31:25** (#5313)
@@ -49491,10 +49542,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 33:9** (#5317)
   - was: And it shall be to me a name of joy, a praise and an honour before all the nations of the earth, which shall hear all the good that I do unto them: and they shall fear and tremble for all the goodness and for all the prosperity that I procure unto it.
   - now: And it shall be to me a name of joy, a praise and an honour before all the nations of the earth, which shall hear all the good that I do unto them: and they shall fear and tremble for all the goodness and for all the prosperity that I provide unto it.
-- **Jeremiah 33:11** (#21664)
+- **Jeremiah 33:11** (#22982)
   - was: The voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the voice of them that shall say, Praise the Lord of hosts: for the Lord is good; for his mercy endureth for ever: and of them that shall bring the sacrifice of praise into the house of the Lord. For I will cause to return the captivity of the land, as at the first, saith the Lord.
   - now: The voice of joy, and the voice of thankfulness, the voice of the bridegroom, and the voice of the bride, the voice of them that shall say, Praise the Lord of hosts: for the Lord is good; for his mercy endureth for ever: and of them that shall bring the sacrifice of praise into the house of the Lord. For I will cause to return the captivity of the land, as at the first, saith the Lord.
-- **Jeremiah 33:12** (#21665)
+- **Jeremiah 33:12** (#22983)
   - was: Thus saith the Lord of hosts; Again in this place, which is desolate without man and without beast, and in all the cities thereof, shall be an habitation of shepherds causing their flocks to lie down.
   - now: Thus saith the Lord of hosts; Again in this place, which is desolate without man and without beast, and in all the cities thereof, shall be an abode of shepherds causing their flocks to lie down.
 - **Jeremiah 34:5** (#10508)
@@ -49572,7 +49623,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 37:19** (#19804)
   - was: Where are now thine prophets which prophesied unto thee, saying, The king of Babylon shall not come against thee, nor against this land?
   - now: Where are now thy prophets which prophesied unto thee, saying, The king of Babylon shall not come against thee, nor against this land?
-- **Jeremiah 38:2** (#21666)
+- **Jeremiah 38:2** (#22984)
   - was: Thus saith the Lord, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live.
   - now: Thus saith the Lord, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for prey, and shall live.
 - **Jeremiah 38:4** (#5321)
@@ -49590,10 +49641,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 38:12** (#9096)
   - was: And Ebed-melech the Ethiopian said unto Jeremiah, Put now these old cast clothes and rotten rags under thine armpits under the cords. And Jeremiah did so.
   - now: And Ebed-melech the Ethiopian said unto Jeremiah, Put now these old cast clothes and rotten rags under thine arms under the cords. And Jeremiah did so.
-- **Jeremiah 38:25** (#21667)
+- **Jeremiah 38:25** (#22985)
   - was: But if the princes hear that I have talked with thee, and they come unto thee, and say unto thee, Declare unto us now what thou hast said unto the king, hide it not from us, and we will not put thee to death; also what the king said unto thee:
   - now: But if the princes hear that I have spake with thee, and they come unto thee, and say unto thee, Declare unto us now what thou hast said unto the king, hide it not from us, and we will not put thee to death; also what the king said unto thee:
-- **Jeremiah 39:18** (#21668)
+- **Jeremiah 39:18** (#22986)
   - was: For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the Lord. 
   - now: For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for prey unto thee: because thou hast put thy trust in me, saith the Lord. 
 - **Jeremiah 40:3** (#16101)
@@ -49608,10 +49659,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 40:10** (#19805)
   - was: As for me, behold, I will dwell at Mizpah to serve the Chaldeans, which will come unto us: but ye, gather ye wine, and summer fruits, and oil, and put them in thine vessels, and dwell in thine cities that ye have taken.
   - now: As for me, behold, I will dwell at Mizpah to serve the Chaldeans, which will come unto us: but ye, gather ye wine, and summer fruits, and oil, and put them in thy vessels, and dwell in thy cities that ye have taken.
-- **Jeremiah 41:13** (#21669)
+- **Jeremiah 41:13** (#22987)
   - was: Now it came to pass, that when all the people which were with Ishmael saw Johanan the son of Kareah, and all the captains of the forces that were with him, then they were glad.
   - now: Now it came to pass, that when all the people which were with Ishmael saw Johanan the son of Kareah, and all the captains of the forces that were with him, then they were thankful.
-- **Jeremiah 41:17** (#21670)
+- **Jeremiah 41:17** (#22988)
   - was: And they departed, and dwelt in the habitation of Chimham, which is by Beth–lehem, to go to enter into Egypt,
   - now: And they departed, and dwelt in the abode of Chimham, which is by Beth–lehem, to go to enter into Egypt,
 - **Jeremiah 42:2** (#3182)
@@ -49650,13 +49701,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 42:15** (#19809)
   - was: And now therefore hear the word of the Lord, ye remnant of Judah; Thus saith the Lord of hosts, the God of Israel; If ye wholly set thine faces to enter into Egypt, and go to sojourn there;
   - now: And now therefore hear the word of the Lord, ye remnant of Judah; Thus saith the Lord of hosts, the God of Israel; If ye wholly set thy faces to enter into Egypt, and go to sojourn there;
-- **Jeremiah 42:15** (#21671)
+- **Jeremiah 42:15** (#22989)
   - was: And now therefore hear the word of the Lord, ye remnant of Judah; Thus saith the Lord of hosts, the God of Israel; If ye wholly set thy faces to enter into Egypt, and go to sojourn there;
   - now: And now therefore hear the word of the Lord, ye remnant of Judah; Thus saith the Lord of hosts, the God of Israel; If ye wholly set thy faces to enter into Egypt, and go to dwell there;
 - **Jeremiah 42:16** (#16111)
   - was: Then it shall come to pass, that the sword, which ye feared, shall overtake you there in the land of Egypt, and the famine, whereof ye were afraid, shall follow close after you there in Egypt; and there ye shall die.
   - now: Then it shall come to pass, that the sword, which ye feared, shall overtake thee there in the land of Egypt, and the famine, whereof ye were afraid, shall follow close after thee there in Egypt; and there ye shall die.
-- **Jeremiah 42:17** (#21672)
+- **Jeremiah 42:17** (#22990)
   - was: So shall it be with all the men that set their faces to go into Egypt to sojourn there; they shall die by the sword, by the famine, and by the pestilence: and none of them shall remain or escape from the evil that I will bring upon them.
   - now: So shall it be with all the men that set their faces to go into Egypt to dwell there; they shall die by the sword, by the famine, and by the pestilence: and none of them shall remain or escape from the evil that I will bring upon them.
 - **Jeremiah 42:18** (#5324)
@@ -49683,10 +49734,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 42:21** (#19811)
   - was: And now I have this day declared it to thee; but ye have not obeyed the voice of the Lord thine God, nor any thing for the which he hath sent me unto thee.
   - now: And now I have this day declared it to thee; but ye have not obeyed the voice of the Lord thy God, nor any thing for the which he hath sent me unto thee.
-- **Jeremiah 42:22** (#21673)
+- **Jeremiah 42:22** (#22991)
   - was: Now therefore know certainly that ye shall die by the sword, by the famine, and by the pestilence, in the place whither ye desire to go and to sojourn. 
   - now: Now therefore know certainly that ye shall die by the sword, by the famine, and by the pestilence, in the place whither ye desire to go and to dwell. 
-- **Jeremiah 43:2** (#21674)
+- **Jeremiah 43:2** (#22992)
   - was: Then spake Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying unto Jeremiah, Thou speakest falsely: the Lord our God hath not sent thee to say, Go not into Egypt to sojourn there:
   - now: Then spake Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying unto Jeremiah, Thou speakest falsely: the Lord our God hath not sent thee to say, Go not into Egypt to dwell there:
 - **Jeremiah 43:9** (#11938)
@@ -49731,10 +49782,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 44:12** (#5325)
   - was: And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, and fall in the land of Egypt; they shall even be consumed by the sword and by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration, and an astonishment, and a curse, and a reproach.
   - now: And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, and fall in the land of Egypt; they shall even be consumed by the sword and by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an oath, and an astonishment, and a curse, and a reproach.
-- **Jeremiah 44:12** (#21675)
+- **Jeremiah 44:12** (#22993)
   - was: And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, and fall in the land of Egypt; they shall even be consumed by the sword and by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an oath, and an astonishment, and a curse, and a reproach.
   - now: And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to dwell there, and they shall all be consumed, and fall in the land of Egypt; they shall even be consumed by the sword and by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an oath, and an astonishment, and a curse, and a reproach.
-- **Jeremiah 44:14** (#21676)
+- **Jeremiah 44:14** (#22994)
   - was: So that none of the remnant of Judah, which are gone into the land of Egypt to sojourn there, shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return to dwell there: for none shall return but such as shall escape.
   - now: So that none of the remnant of Judah, which are gone into the land of Egypt to dwell there, shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return to dwell there: for none shall return but such as shall escape.
 - **Jeremiah 44:21** (#16123)
@@ -49758,13 +49809,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 44:25** (#19818)
   - was: Thus saith the Lord of hosts, the God of Israel, saying; Ye and thine wives have both spoken with thine mouths, and fulfilled with thine hand, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings unto her: ye will surely accomplish thine vows, and surely perform thine vows.
   - now: Thus saith the Lord of hosts, the God of Israel, saying; Ye and thy wives have both spoken with thy mouths, and fulfilled with thine hand, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings unto her: ye will surely accomplish thy vows, and surely perform thy vows.
-- **Jeremiah 44:28** (#21677)
+- **Jeremiah 44:28** (#22995)
   - was: Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, mine, or theirs.
   - now: Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to dwell there, shall know whose words shall stand, mine, or theirs.
 - **Jeremiah 44:29** (#16127)
   - was: And this shall be a sign unto you, saith the Lord, that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:
   - now: And this shall be a sign unto thee, saith the Lord, that I will punish thee in this place, that ye may know that my words shall surely stand against thee for evil:
-- **Jeremiah 45:5** (#21678)
+- **Jeremiah 45:5** (#22996)
   - was: And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the Lord: but thy life will I give unto thee for a prey in all places whither thou goest. 
   - now: And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the Lord: but thy life will I give unto thee for prey in all places whither thou goest. 
 - **Jeremiah 46:4** (#5326)
@@ -49830,7 +49881,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 48:29** (#9099)
   - was: We have heard the pride of Moab, he is exceeding proud his stoutness, and his arrogancy, and his pride, and the haughtiness of his heart.
   - now: We have heard the pride of Moab, he is exceeding proud his haughtiness, and his arrogancy, and his pride, and the haughtiness of his heart.
-- **Jeremiah 48:33** (#21679)
+- **Jeremiah 48:33** (#22997)
   - was: And joy and gladness is taken from the plentiful field, and from the land of Moab; and I have caused wine to fail from the winepresses: none shall tread with shouting; their shouting shall be no shouting.
   - now: And joy and thankfulness is taken from the plentiful field, and from the land of Moab; and I have caused wine to fail from the winepresses: none shall tread with shouting; their shouting shall be no shouting.
 - **Jeremiah 48:36** (#8664)
@@ -49857,10 +49908,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 49:9** (#5340)
   - was: If grapegatherers come to thee, would they not leave some gleaning grapes? if thieves by night, they will destroy till they have enough.
   - now: If gatherers come to thee, would they not leave some gleaning grapes? if thieves by night, they will destroy till they have enough.
-- **Jeremiah 49:19** (#21680)
+- **Jeremiah 49:19** (#22998)
   - was: Behold, he shall come up like a lion from the swelling of Jordan against the habitation of the strong: but I will suddenly make him run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?
   - now: Behold, he shall come up like a lion from the swelling of Jordan against the abode of the strong: but I will suddenly make him run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?
-- **Jeremiah 49:20** (#21681)
+- **Jeremiah 49:20** (#22999)
   - was: Therefore hear the counsel of the Lord, that he hath taken against Edom; and his purposes, that he hath purposed against the inhabitants of Teman: Surely the least of the flock shall draw them out: surely he shall make their habitations desolate with them.
   - now: Therefore hear the counsel of the Lord, that he hath taken against Edom; and his purposes, that he hath purposed against the inhabitants of Teman: Surely the least of the flock shall draw them out: surely he shall make their dwelling places desolate with them.
 - **Jeremiah 49:30** (#16132)
@@ -49872,13 +49923,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 49:31** (#16133)
   - was: Arise, get you up unto the nation that is at ease, that dwelleth without care, saith the Lord, which have neither gates nor bars, which dwell alone.
   - now: Arise, get thee up unto the nation that is at ease, that dwelleth without care, saith the Lord, which have neither gates nor bars, which dwell alone.
+- **Jeremiah 49:33** (#23291)
+  - was: And Hazor shall be a dwelling for dragons, and a desolation for ever: there shall no man abide there, nor any son of man dwell in it.
+  - now: And Hazor shall be a dwelling for serpents, and a desolation for ever: there shall no man abide there, nor any son of man dwell in it.
 - **Jeremiah 49:35** (#18058)
   - was: Thus saith the Lord of hosts; Behold, I will break the bow of Elam, the chief of their might.
   - now: Thus saith the Lord of hosts; Behold, I will break the bow of Elam, the ruler of their might.
 - **Jeremiah 50:6** (#5342)
   - was: My people hath been lost sheep: their shepherds have caused them to go astray, they have turned them away on the mountains: they have gone from mountain to hill, they have forgotten their restingplace.
   - now: My people hath been lost sheep: their shepherds have caused them to go astray, they have turned them away on the mountains: they have gone from mountain to hill, they have forgotten their resting place.
-- **Jeremiah 50:7** (#21682)
+- **Jeremiah 50:7** (#23000)
   - was: All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the Lord, the habitation of justice, even the Lord, the hope of their fathers.
   - now: All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the Lord, the abode of justice, even the Lord, the hope of their fathers.
 - **Jeremiah 50:11** (#5343)
@@ -49887,7 +49941,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 50:11** (#6713)
   - was: Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and cry as bulls;
   - now: Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and cry as oxen;
-- **Jeremiah 50:11** (#21683)
+- **Jeremiah 50:11** (#23001)
   - was: Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and cry as oxen;
   - now: Because ye were thankful, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and cry as oxen;
 - **Jeremiah 50:12** (#5344)
@@ -49902,7 +49956,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 50:14** (#20511)
   - was: Put yourselves in array against Babylon round about: all ye that bend the bow, shoot at her, spare no arrows: for she hath sinned against the Lord.
   - now: Put thyself in array against Babylon round about: all ye that bend the bow, shoot at her, spare no arrows: for she hath sinned against the Lord.
-- **Jeremiah 50:19** (#21684)
+- **Jeremiah 50:19** (#23002)
   - was: And I will bring Israel again to his habitation, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon mount Ephraim and Gilead.
   - now: And I will bring Israel again to his abode, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon mount Ephraim and Gilead.
 - **Jeremiah 50:24** (#5345)
@@ -49917,10 +49971,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 50:42** (#5348)
   - was: They shall hold the bow and the lance: they are cruel, and will not shew mercy: their voice shall roar like the sea, and they shall ride upon horses, every one put in array, like a man to the battle, against thee, O daughter of Babylon.
   - now: They shall hold the bow and the spear: they are cruel, and will not shew mercy: their voice shall roar like the sea, and they shall ride upon horses, every one put in array, like a man to the battle, against thee, O daughter of Babylon.
-- **Jeremiah 50:44** (#21685)
+- **Jeremiah 50:44** (#23003)
   - was: Behold, he shall come up like a lion from the swelling of Jordan unto the habitation of the strong: but I will make them suddenly run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?
   - now: Behold, he shall come up like a lion from the swelling of Jordan unto the abode of the strong: but I will make them suddenly run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?
-- **Jeremiah 50:45** (#21686)
+- **Jeremiah 50:45** (#23004)
   - was: Therefore hear ye the counsel of the Lord, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make their habitation desolate with them.
   - now: Therefore hear ye the counsel of the Lord, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make their abode desolate with them.
 - **Jeremiah 51:2** (#5349)
@@ -49947,6 +50001,12 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jeremiah 51:33** (#6714)
   - was: For thus saith the Lord of hosts, the God of Israel; The daughter of Babylon is like a threshingfloor, it is time to thresh her: yet a little while, and the time of her harvest shall come.
   - now: For thus saith the Lord of hosts, the God of Israel; The daughter of Babylon is like a threshing floor, it is time to thresh her: yet a little while, and the time of her harvest shall come.
+- **Jeremiah 51:34** (#23292)
+  - was: Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a dragon, he hath filled his belly with my delicates, he hath cast me out.
+  - now: Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a serpent, he hath filled his belly with my delicates, he hath cast me out.
+- **Jeremiah 51:37** (#23293)
+  - was: And Babylon shall become heaps, a dwellingplace for dragons, an astonishment, and an hissing, without an inhabitant.
+  - now: And Babylon shall become heaps, a dwellingplace for serpents, an astonishment, and an hissing, without an inhabitant.
 - **Jeremiah 51:38** (#5352)
   - was: They shall roar together like lions: they shall yell as lions’ whelps.
   - now: They shall roar together like lions: they shall howl as lions' whelps.
@@ -50004,10 +50064,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Lamentations 1:18** (#16140)
   - was: The Lord is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.
   - now: The Lord is righteous; for I have rebelled against his commandment: hear, I pray thee, all people, and behold my sorrow: my virgins and my young men are gone into captivity.
-- **Lamentations 1:21** (#21687)
+- **Lamentations 1:21** (#23005)
   - was: They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done it: thou wilt bring the day that thou hast called, and they shall be like unto me.
   - now: They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are thankful that thou hast done it: thou wilt bring the day that thou hast called, and they shall be like unto me.
-- **Lamentations 2:2** (#21688)
+- **Lamentations 2:2** (#23006)
   - was: The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof.
   - now: The Lord hath swallowed up all the dwelling places of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof.
 - **Lamentations 2:8** (#5589)
@@ -50073,6 +50133,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Lamentations 4:3** (#5602)
   - was: Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.
   - now: Even the sea dragons draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.
+- **Lamentations 4:3** (#23294)
+  - was: Even the sea dragons draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.
+  - now: Even the sea serpents draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.
 - **Lamentations 4:7** (#5603)
   - was: Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
   - now: Her Nazarites were fairer than snow, they were clearer than milk, they were more ruddy in body than rubies, their form was of sapphire:
@@ -50085,10 +50148,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Lamentations 4:9** (#8666)
   - was: They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for want of the fruits of the field.
   - now: They that be slain with the sword are better than they that be slain with hunger: for these pine away, struck through for want of the fruits of the field.
-- **Lamentations 4:15** (#21689)
+- **Lamentations 4:15** (#23007)
   - was: They cried unto them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there.
   - now: They cried unto them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more dwell there.
-- **Lamentations 4:21** (#21690)
+- **Lamentations 4:21** (#23008)
   - was: Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.
   - now: Rejoice and be thankful, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.
 - **Lamentations 5:2** (#10347)
@@ -50139,7 +50202,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 3:20** (#3577)
   - was: Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumblingblock before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand.
   - now: Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumbling block before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand.
-- **Ezekiel 3:22** (#21691)
+- **Ezekiel 3:22** (#23009)
   - was: And the hand of the Lord was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with thee.
   - now: And the hand of the Lord was there upon me; and he said unto me, Arise, go forth into the plain, and I will there speak with thee.
 - **Ezekiel 3:26** (#4304)
@@ -50196,13 +50259,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 6:11** (#4308)
   - was: Thus saith the Lord God; Smite with thine hand, and stamp with thy foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence.
   - now: Thus saith the Lord God; Smite with thine hand, and stretch forth with thy foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence.
-- **Ezekiel 6:14** (#21692)
+- **Ezekiel 6:14** (#23010)
   - was: So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their habitations: and they shall know that I am the Lord. 
   - now: So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their dwelling places: and they shall know that I am the Lord. 
 - **Ezekiel 7:19** (#3578)
   - was: They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the Lord: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity.
   - now: They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the Lord: they shall not satisfy their souls, neither fill their bowels: because it is the stumbling block of their iniquity.
-- **Ezekiel 7:21** (#21693)
+- **Ezekiel 7:21** (#23011)
   - was: And I will give it into the hands of the strangers for a prey, and to the wicked of the earth for a spoil; and they shall pollute it.
   - now: And I will give it into the hands of the strangers for prey, and to the wicked of the earth for a spoil; and they shall pollute it.
 - **Ezekiel 7:23** (#4309)
@@ -50361,7 +50424,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 14:7** (#3581)
   - was: For every one of the house of Israel, or of the stranger that sojourneth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
   - now: For every one of the house of Israel, or of the stranger that sojourneth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumbling block of his iniquity before his face, and cometh to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
-- **Ezekiel 14:7** (#21694)
+- **Ezekiel 14:7** (#23012)
   - was: For every one of the house of Israel, or of the stranger that sojourneth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumbling block of his iniquity before his face, and cometh to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
   - now: For every one of the house of Israel, or of the stranger that dwelleth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumbling block of his iniquity before his face, and cometh to a prophet to enquire of him concerning me; I the Lord will answer him by myself:
 - **Ezekiel 14:22** (#16174)
@@ -50592,7 +50655,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 20:38** (#16197)
   - was: And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the Lord.
   - now: And I will purge out from among thee the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the Lord.
-- **Ezekiel 20:38** (#21695)
+- **Ezekiel 20:38** (#23013)
   - was: And I will purge out from among thee the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the Lord.
   - now: And I will purge out from among thee the rebels, and them that transgress against me: I will bring them forth out of the country where they dwell, and they shall not enter into the land of Israel: and ye shall know that I am the Lord.
 - **Ezekiel 20:39** (#16198)
@@ -50781,7 +50844,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 25:5** (#8951)
   - was: And I will make Rabbah a habitation for camels, and the Ammonites a sheepcote for flocks: and ye shall know that I am the Lord.
   - now: And I will make Rabbah a habitation for camels, and the Ammonites a pasture for flocks: and ye shall know that I am the Lord.
-- **Ezekiel 25:5** (#21696)
+- **Ezekiel 25:5** (#23014)
   - was: And I will make Rabbah a habitation for camels, and the Ammonites a pasture for flocks: and ye shall know that I am the Lord.
   - now: And I will make Rabbah an abode for camels, and the Ammonites a pasture for flocks: and ye shall know that I am the Lord.
 - **Ezekiel 25:6** (#4363)
@@ -50808,7 +50871,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 26:9** (#4365)
   - was: And he shall set engines of war against thy walls, and with his axes he shall break down thy towers.
   - now: And he shall set instruments of war against thy walls, and with his axes he shall break down thy towers.
-- **Ezekiel 26:12** (#21697)
+- **Ezekiel 26:12** (#23015)
   - was: And they shall make a spoil of thy riches, and make a prey of thy merchandise: and they shall break down thy walls, and destroy thy pleasant houses: and they shall lay thy stones and thy timber and thy dust in the midst of the water.
   - now: And they shall make a spoil of thy riches, and make prey of thy merchandise: and they shall break down thy walls, and destroy thy pleasant houses: and they shall lay thy stones and thy timber and thy dust in the midst of the water.
 - **Ezekiel 26:15** (#7310)
@@ -50886,7 +50949,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 28:24** (#4373)
   - was: And there shall be no more a pricking brier unto the house of Israel, nor any grieving thorn of all that are round about them, that despised them; and they shall know that I am the Lord God.
   - now: And there shall be no more a fretting brier unto the house of Israel, nor any grieving thorn of all that are round about them, that despised them; and they shall know that I am the Lord God.
-- **Ezekiel 29:14** (#21698)
+- **Ezekiel 29:3** (#23295)
+  - was: Speak, and say, Thus saith the Lord God; Behold, I am against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river is mine own, and I have made it for myself.
+  - now: Speak, and say, Thus saith the Lord God; Behold, I am against thee, Pharaoh king of Egypt, the great serpent that lieth in the midst of his rivers, which hath said, My river is mine own, and I have made it for myself.
+- **Ezekiel 29:14** (#23016)
   - was: And I will bring again the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their habitation; and they shall be there a base kingdom.
   - now: And I will bring again the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their abode; and they shall be there a base kingdom.
 - **Ezekiel 29:18** (#7319)
@@ -50913,6 +50979,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 32:2** (#8954)
   - was: Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a dragon in the seas: and thou camest forth with thy rivers, and stirredst the waters with thy feet, and madest their rivers foul.
   - now: Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a dragon in the seas: and thou camest forth with thy rivers, and didst trouble the waters with thy feet, and madest their rivers foul.
+- **Ezekiel 32:2** (#23296)
+  - was: Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a dragon in the seas: and thou camest forth with thy rivers, and didst trouble the waters with thy feet, and madest their rivers foul.
+  - now: Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a serpent in the seas: and thou camest forth with thy rivers, and didst trouble the waters with thy feet, and madest their rivers foul.
 - **Ezekiel 32:10** (#4378)
   - was: Yea, I will make many people amazed at thee, and their kings shall be horribly afraid for thee, when I shall brandish my sword before them; and they shall tremble at every moment, every man for his own life, in the day of thy fall.
   - now: Yea, I will make many people amazed at thee, and their kings shall be greatly afraid for thee, when I shall bare my sword before them; and they shall tremble at every moment, every man for his own life, in the day of thy fall.
@@ -50955,7 +51024,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 33:30** (#16231)
   - was: Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray you, and hear what is the word that cometh forth from the Lord.
   - now: Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray thee, and hear what is the word that cometh forth from the Lord.
-- **Ezekiel 33:30** (#21699)
+- **Ezekiel 33:30** (#23017)
   - was: Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray thee, and hear what is the word that cometh forth from the Lord.
   - now: Also, thou son of man, the children of thy people still are speaking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray thee, and hear what is the word that cometh forth from the Lord.
 - **Ezekiel 33:33** (#3299)
@@ -50964,7 +51033,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 34:3** (#16232)
   - was: Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock.
   - now: Ye eat the fat, and ye clothe thee with the wool, ye kill them that are fed: but ye feed not the flock.
-- **Ezekiel 34:8** (#21700)
+- **Ezekiel 34:8** (#23018)
   - was: As I live, saith the Lord God, surely because my flock became a prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock;
   - now: As I live, saith the Lord God, surely because my flock became prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock;
 - **Ezekiel 34:17** (#16233)
@@ -50988,10 +51057,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 34:21** (#16236)
   - was: Because ye have thrust with side and with shoulder, and pushed all the diseased with your horns, till ye have scattered them abroad;
   - now: Because ye have thrust with side and with shoulder, and pushed all the diseased with thine horns, till ye have scattered them abroad;
-- **Ezekiel 34:22** (#21701)
+- **Ezekiel 34:22** (#23019)
   - was: Therefore will I save my flock, and they shall no more be a prey; and I will judge between cattle and cattle.
   - now: Therefore will I save my flock, and they shall no more be prey; and I will judge between cattle and cattle.
-- **Ezekiel 34:28** (#21702)
+- **Ezekiel 34:28** (#23020)
   - was: And they shall no more be a prey to the heathen, neither shall the beast of the land devour them; but they shall dwell safely, and none shall make them afraid.
   - now: And they shall no more be prey to the heathen, neither shall the beast of the land devour them; but they shall dwell safely, and none shall make them afraid.
 - **Ezekiel 34:31** (#16237)
@@ -51021,16 +51090,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 36:3** (#16240)
   - was: Therefore prophesy and say, Thus saith the Lord God; Because they have made you desolate, and swallowed you up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of them that talk, and are an evil report of the people:
   - now: Therefore prophesy and say, Thus saith the Lord God; Because they have made thee desolate, and swallowed thee up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of them that talk, and are an evil report of the people:
-- **Ezekiel 36:3** (#21703)
+- **Ezekiel 36:3** (#23021)
   - was: Therefore prophesy and say, Thus saith the Lord God; Because they have made thee desolate, and swallowed thee up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of them that talk, and are an evil report of the people:
   - now: Therefore prophesy and say, Thus saith the Lord God; Because they have made thee desolate, and swallowed thee up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of them that speak, and are an evil report of the people:
-- **Ezekiel 36:4** (#21704)
+- **Ezekiel 36:4** (#23022)
   - was: Therefore, ye mountains of Israel, hear the word of the Lord God; Thus saith the Lord God to the mountains, and to the hills, to the rivers, and to the valleys, to the desolate wastes, and to the cities that are forsaken, which became a prey and derision to the residue of the heathen that are round about;
   - now: Therefore, ye mountains of Israel, hear the word of the Lord God; Thus saith the Lord God to the mountains, and to the hills, to the rivers, and to the valleys, to the desolate wastes, and to the cities that are forsaken, which became prey and derision to the residue of the heathen that are round about;
 - **Ezekiel 36:5** (#11857)
   - was: Therefore thus saith the Lord God; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with despiteful minds, to cast it out for a prey.
   - now: Therefore thus saith the Lord God; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with wicked minds, to cast it out for a prey.
-- **Ezekiel 36:5** (#21705)
+- **Ezekiel 36:5** (#23023)
   - was: Therefore thus saith the Lord God; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with wicked minds, to cast it out for a prey.
   - now: Therefore thus saith the Lord God; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with wicked minds, to cast it out for prey.
 - **Ezekiel 36:7** (#16241)
@@ -51159,16 +51228,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 38:3** (#17935)
   - was: And say, Thus saith the Lord God; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:
   - now: And say, Thus saith the Lord God; Behold, I am against thee, O Gog, the ruling prince of Meshech and Tubal:
-- **Ezekiel 38:10** (#21706)
+- **Ezekiel 38:10** (#23024)
   - was: Thus saith the Lord God; It shall also come to pass, that at the same time shall things come into thy mind, and thou shalt think an evil thought:
   - now: Thus saith the Lord God; It shall also come to pass, that at the same time shall things come into thy mind, and thou shalt ponder an evil thought:
 - **Ezekiel 38:12** (#8676)
   - was: To take a spoil, and to take a prey; to turn thine hand upon the desolate places that are now inhabited, and upon the people that are gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land.
   - now: To take a spoil, and to take a prey; to turn thine hand upon the desolate places that are now inhabited, and upon the people that are gathered out of the nations, which have got cattle and goods, that dwell in the midst of the land.
-- **Ezekiel 38:12** (#21707)
+- **Ezekiel 38:12** (#23025)
   - was: To take a spoil, and to take a prey; to turn thine hand upon the desolate places that are now inhabited, and upon the people that are gathered out of the nations, which have got cattle and goods, that dwell in the midst of the land.
   - now: To take a spoil, and to take prey; to turn thine hand upon the desolate places that are now inhabited, and upon the people that are gathered out of the nations, which have got cattle and goods, that dwell in the midst of the land.
-- **Ezekiel 38:13** (#21708)
+- **Ezekiel 38:13** (#23026)
   - was: Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil? hast thou gathered thy company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil?
   - now: Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil? hast thou gathered thy company to take prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil?
 - **Ezekiel 39:1** (#17936)
@@ -51300,10 +51369,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ezekiel 47:22** (#16279)
   - was: And it shall come to pass, that ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel.
   - now: And it shall come to pass, that ye shall divide it by lot for an inheritance unto thee, and to the strangers that sojourn among thee, which shall beget children among thee: and they shall be unto thee as born in the country among the children of Israel; they shall have inheritance with thee among the tribes of Israel.
-- **Ezekiel 47:22** (#21709)
+- **Ezekiel 47:22** (#23027)
   - was: And it shall come to pass, that ye shall divide it by lot for an inheritance unto thee, and to the strangers that sojourn among thee, which shall beget children among thee: and they shall be unto thee as born in the country among the children of Israel; they shall have inheritance with thee among the tribes of Israel.
   - now: And it shall come to pass, that ye shall divide it by lot for an inheritance unto thee, and to the strangers that dwell among thee, which shall beget children among thee: and they shall be unto thee as born in the country among the children of Israel; they shall have inheritance with thee among the tribes of Israel.
-- **Ezekiel 47:23** (#21710)
+- **Ezekiel 47:23** (#23028)
   - was: And it shall come to pass, that in what tribe the stranger sojourneth, there shall ye give him his inheritance, saith the Lord God. 
   - now: And it shall come to pass, that in what tribe the stranger dwelleth, there shall ye give him his inheritance, saith the Lord God. 
 - **Ezekiel 48:14** (#4395)
@@ -51387,7 +51456,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Daniel 4:1** (#16286)
   - was: Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.
   - now: Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto thee.
-- **Daniel 4:21** (#21711)
+- **Daniel 4:21** (#23029)
   - was: Whose leaves were fair, and the fruit thereof much, and in it was meat for all; under which the beasts of the field dwelt, and upon whose branches the fowls of the heaven had their habitation:
   - now: Whose leaves were fair, and the fruit thereof much, and in it was meat for all; under which the beasts of the field dwelt, and upon whose branches the fowls of the heaven had their abode:
 - **Daniel 4:27** (#4079)
@@ -51423,7 +51492,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Daniel 6:20** (#4084)
   - was: And when he came to the den, he cried with a lamentable voice unto Daniel: and the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?
   - now: And when he came to the den, he cried with a grieved voice unto Daniel: and the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?
-- **Daniel 6:23** (#21712)
+- **Daniel 6:23** (#23030)
   - was: Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.
   - now: Then was the king exceeding thankful for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.
 - **Daniel 6:25** (#16288)
@@ -51432,7 +51501,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Daniel 7:25** (#9734)
   - was: And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
   - now: And he shall speak great words against the most High, and shall vex the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
-- **Daniel 7:25** (#21713)
+- **Daniel 7:25** (#23031)
   - was: And he shall speak great words against the most High, and shall vex the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
   - now: And he shall speak great words against the most High, and shall vex the saints of the most High, and ponder to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 - **Daniel 7:28** (#4085)
@@ -51450,7 +51519,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Daniel 9:19** (#10404)
   - was: O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.
   - now: O Lord, hear; O Lord, forgive; O Lord, hearken and do; prolong not, for thine own sake, O my God: for thy city and thy people are called by thy name.
-- **Daniel 9:22** (#21714)
+- **Daniel 9:22** (#23032)
   - was: And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.
   - now: And he informed me, and spake with me, and said, O Daniel, I am now come forth to give thee skill and understanding.
 - **Daniel 9:24** (#10585)
@@ -51468,7 +51537,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Daniel 10:13** (#17928)
   - was: But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
   - now: But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the ruling princes, came to help me; and I remained there with the kings of Persia.
-- **Daniel 10:17** (#21715)
+- **Daniel 10:17** (#23033)
   - was: For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.
   - now: For how can the servant of this my lord speak with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.
 - **Daniel 10:21** (#16289)
@@ -51582,7 +51651,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Hosea 6:4** (#19893)
   - was: O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for thine goodness is as a morning cloud, and as the early dew it goeth away.
   - now: O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for thy goodness is as a morning cloud, and as the early dew it goeth away.
-- **Hosea 7:3** (#21716)
+- **Hosea 7:3** (#23034)
   - was: They make the king glad with their wickedness, and the princes with their lies.
   - now: They make the king thankful with their wickedness, and the princes with their lies.
 - **Hosea 7:5** (#3064)
@@ -51708,7 +51777,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joel 1:14** (#19901)
   - was: Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the Lord thine God, and cry unto the Lord,
   - now: Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the Lord thy God, and cry unto the Lord,
-- **Joel 1:16** (#21717)
+- **Joel 1:16** (#23035)
   - was: Is not the meat cut off before our eyes, yea, joy and gladness from the house of our God?
   - now: Is not the meat cut off before our eyes, yea, joy and thankfulness from the house of our God?
 - **Joel 1:17** (#5474)
@@ -51750,7 +51819,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joel 2:20** (#16311)
   - was: But I will remove far off from you the north army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.
   - now: But I will remove far off from thee the north army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.
-- **Joel 2:21** (#21718)
+- **Joel 2:21** (#23036)
   - was: Fear not, O land; be glad and rejoice: for the Lord will do great things.
   - now: Fear not, O land; be thankful and rejoice: for the Lord will do great things.
 - **Joel 2:23** (#5478)
@@ -51762,7 +51831,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joel 2:23** (#19904)
   - was: Be glad then, ye children of Zion, and rejoice in the Lord thine God: for he hath given thee the former rain in measure, and he will cause to come down for thee the rain, the former rain, and the latter rain in the first month.
   - now: Be glad then, ye children of Zion, and rejoice in the Lord thy God: for he hath given thee the former rain in measure, and he will cause to come down for thee the rain, the former rain, and the latter rain in the first month.
-- **Joel 2:23** (#21719)
+- **Joel 2:23** (#23037)
   - was: Be glad then, ye children of Zion, and rejoice in the Lord thy God: for he hath given thee the former rain in measure, and he will cause to come down for thee the rain, the former rain, and the latter rain in the first month.
   - now: Be thankful then, ye children of Zion, and rejoice in the Lord thy God: for he hath given thee the former rain in measure, and he will cause to come down for thee the rain, the former rain, and the latter rain in the first month.
 - **Joel 2:25** (#16313)
@@ -51843,7 +51912,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Joel 3:17** (#19913)
   - was: So shall ye know that I am the Lord thine God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.
   - now: So shall ye know that I am the Lord thy God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.
-- **Amos 1:2** (#21720)
+- **Amos 1:2** (#23038)
   - was: And he said, The Lord will roar from Zion, and utter his voice from Jerusalem; and the habitations of the shepherds shall mourn, and the top of Carmel shall wither.
   - now: And he said, The Lord will roar from Zion, and utter his voice from Jerusalem; and the dwelling places of the shepherds shall mourn, and the top of Carmel shall wither.
 - **Amos 1:9** (#7322)
@@ -52056,7 +52125,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Amos 9:13** (#8901)
   - was: Behold, the days come, saith the Lord, that the husbandman shall overtake the mower, and he that treadeth grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt.
   - now: Behold, the days come, saith the Lord, that the husbandman shall overtake him that reapeth, and he that treadeth grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt.
-- **Obadiah 1:3** (#21721)
+- **Obadiah 1:3** (#23039)
   - was: The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
   - now: The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose abode is high; that saith in his heart, Who shall bring me down to the ground?
 - **Obadiah 1:5** (#3300)
@@ -52083,7 +52152,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jonah 1:6** (#5517)
   - was: So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.
   - now: So the captain came to him, and said unto him, What meanest thou, that thou sleepest? arise, call upon thy God, if so be that God will think upon us, that we perish not.
-- **Jonah 1:6** (#21722)
+- **Jonah 1:6** (#23040)
   - was: So the captain came to him, and said unto him, What meanest thou, that thou sleepest? arise, call upon thy God, if so be that God will think upon us, that we perish not.
   - now: So the captain came to him, and said unto him, What meanest thou, that thou sleepest? arise, call upon thy God, if so be that God will ponder upon us, that we perish not.
 - **Jonah 1:12** (#16349)
@@ -52116,7 +52185,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jonah 4:5** (#9789)
   - was: So Jonah went out of the city, and sat on the east side of the city, and there made him a tent, and sat under it in the shadow, till he might see what would become of the city.
   - now: So Jonah went out of the city, and sat on the east side of the city, till he might see what would become of the city.
-- **Jonah 4:6** (#21723)
+- **Jonah 4:6** (#23041)
   - was: And the Lord God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.
   - now: And the Lord God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding thankful of the gourd.
 - **Jonah 4:9** (#8683)
@@ -52134,6 +52203,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Micah 1:6** (#5846)
   - was: Therefore I will make Samaria as an heap of the field, and as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.
   - now: Therefore I will make Samaria as an heap of the field, and as vineyards: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.
+- **Micah 1:8** (#23297)
+  - was: Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.
+  - now: Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the serpents, and mourning as the owls.
 - **Micah 1:11** (#16351)
   - was: Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Beth–ezel; he shall receive of you his standing.
   - now: Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Beth–ezel; he shall receive of thee his standing.
@@ -52287,13 +52359,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Habakkuk 1:15** (#4509)
   - was: They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.
   - now: They take up all of them with the hook, they catch them in their net, and gather them in their yarn: therefore they rejoice and are glad.
-- **Habakkuk 1:15** (#21724)
+- **Habakkuk 1:15** (#23042)
   - was: They take up all of them with the hook, they catch them in their net, and gather them in their yarn: therefore they rejoice and are glad.
   - now: They take up all of them with the hook, they catch them in their net, and gather them in their yarn: therefore they rejoice and are thankful.
 - **Habakkuk 1:16** (#4510)
   - was: Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous.
   - now: Therefore they sacrifice unto their net, and burn incense unto their yarn; because by them their portion is fat, and their meat plenteous.
-- **Habakkuk 2:3** (#21725)
+- **Habakkuk 2:3** (#23043)
   - was: For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
   - now: For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it stay, wait for it; because it will surely come, it will not stay.
 - **Habakkuk 2:6** (#4511)
@@ -52302,7 +52374,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Habakkuk 2:16** (#4512)
   - was: Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the Lord’s right hand shall be turned unto thee, and shameful spewing shall be on thy glory.
   - now: Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the Lord's right hand shall be turned unto thee, and vile vomit shall be on thy glory.
-- **Habakkuk 3:11** (#21726)
+- **Habakkuk 3:11** (#23044)
   - was: The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear.
   - now: The sun and moon stood still in their abode: at the light of thine arrows they went, and at the shining of thy glittering spear.
 - **Habakkuk 3:13** (#4513)
@@ -52362,7 +52434,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Zephaniah 3:10** (#6329)
   - was: From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.
   - now: From beyond the rivers of Ethiopia my worshippers, even the daughter of my dispersed, shall bring mine offering.
-- **Zephaniah 3:14** (#21727)
+- **Zephaniah 3:14** (#23045)
   - was: Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.
   - now: Sing, O daughter of Zion; shout, O Israel; be thankful and rejoice with all the heart, O daughter of Jerusalem.
 - **Zephaniah 3:19** (#6330)
@@ -52455,19 +52527,19 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Zechariah 1:6** (#19938)
   - was: But my words and my statutes, which I commanded my servants the prophets, did they not take hold of thine fathers? and they returned and said, Like as the Lord of hosts thought to do unto us, according to our ways, and according to our doings, so hath he dealt with us.
   - now: But my words and my statutes, which I commanded my servants the prophets, did they not take hold of thy fathers? and they returned and said, Like as the Lord of hosts thought to do unto us, according to our ways, and according to our doings, so hath he dealt with us.
-- **Zechariah 1:9** (#21728)
+- **Zechariah 1:9** (#23046)
   - was: Then said I, O my lord, what are these? And the angel that talked with me said unto me, I will shew thee what these be.
   - now: Then said I, O my lord, what are these? And the angel that spake with me said unto me, I will shew thee what these be.
 - **Zechariah 1:13** (#6306)
   - was: And the Lord answered the angel that talked with me with good words and comfortable words.
   - now: And the Lord answered the angel that talked with me with good words and pleasant words.
-- **Zechariah 1:13** (#21729)
+- **Zechariah 1:13** (#23047)
   - was: And the Lord answered the angel that talked with me with good words and pleasant words.
   - now: And the Lord answered the angel that spake with me with good words and pleasant words.
-- **Zechariah 1:19** (#21730)
+- **Zechariah 1:19** (#23048)
   - was: And I said unto the angel that talked with me, What be these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem.
   - now: And I said unto the angel that spake with me, What be these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem.
-- **Zechariah 2:3** (#21731)
+- **Zechariah 2:3** (#23049)
   - was: And, behold, the angel that talked with me went forth, and another angel went out to meet him,
   - now: And, behold, the angel that spake with me went forth, and another angel went out to meet him,
 - **Zechariah 2:6** (#16380)
@@ -52476,7 +52548,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Zechariah 2:8** (#16381)
   - was: For thus saith the Lord of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.
   - now: For thus saith the Lord of hosts; After the glory hath he sent me unto the nations which spoiled thee: for he that toucheth thee toucheth the apple of his eye.
-- **Zechariah 2:13** (#21732)
+- **Zechariah 2:13** (#23050)
   - was: Be silent, O all flesh, before the Lord: for he is raised up out of his holy habitation. 
   - now: Be silent, O all flesh, before the Lord: for he is raised up out of his holy abode. 
 - **Zechariah 3:2** (#6307)
@@ -52488,13 +52560,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Zechariah 4:1** (#6309)
   - was: And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,
   - now: And the angel that talked with me came again, and waked me, as a man that is stirred out of his sleep,
-- **Zechariah 4:1** (#21733)
+- **Zechariah 4:1** (#23051)
   - was: And the angel that talked with me came again, and waked me, as a man that is stirred out of his sleep,
   - now: And the angel that spake with me came again, and waked me, as a man that is stirred out of his sleep,
-- **Zechariah 4:4** (#21734)
+- **Zechariah 4:4** (#23052)
   - was: So I answered and spake to the angel that talked with me, saying, What are these, my lord?
   - now: So I answered and spake to the angel that spake with me, saying, What are these, my lord?
-- **Zechariah 4:5** (#21735)
+- **Zechariah 4:5** (#23053)
   - was: Then the angel that talked with me answered and said unto me, Knowest thou not what these be? And I said, No, my lord.
   - now: Then the angel that spake with me answered and said unto me, Knowest thou not what these be? And I said, No, my lord.
 - **Zechariah 4:7** (#6310)
@@ -52503,16 +52575,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Zechariah 4:9** (#16382)
   - was: The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the Lord of hosts hath sent me unto you.
   - now: The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the Lord of hosts hath sent me unto thee.
-- **Zechariah 5:5** (#21736)
+- **Zechariah 5:5** (#23054)
   - was: Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what is this that goeth forth.
   - now: Then the angel that spake with me went forth, and said unto me, Lift up now thine eyes, and see what is this that goeth forth.
 - **Zechariah 5:6** (#6311)
   - was: And I said, What is it? And he said, This is an ephah that goeth forth. He said moreover, This is their resemblance through all the earth.
   - now: And I said, What is it? And he said, This is an ephah that goeth forth. He said moreover, This is their appearance through all the earth.
-- **Zechariah 5:10** (#21737)
+- **Zechariah 5:10** (#23055)
   - was: Then said I to the angel that talked with me, Whither do these bear the ephah?
   - now: Then said I to the angel that spake with me, Whither do these bear the ephah?
-- **Zechariah 6:4** (#21738)
+- **Zechariah 6:4** (#23056)
   - was: Then I answered and said unto the angel that talked with me, What are these, my lord?
   - now: Then I answered and said unto the angel that spake with me, What are these, my lord?
 - **Zechariah 6:7** (#16383)
@@ -52560,7 +52632,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Zechariah 8:19** (#12010)
   - was: Thus saith the Lord of hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace.
   - now: Thus saith the Lord of hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and joyful feasts; therefore love the truth and peace.
-- **Zechariah 8:19** (#21739)
+- **Zechariah 8:19** (#23057)
   - was: Thus saith the Lord of hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and joyful feasts; therefore love the truth and peace.
   - now: Thus saith the Lord of hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and thankfulness, and joyful feasts; therefore love the truth and peace.
 - **Zechariah 8:23** (#16391)
@@ -52581,7 +52653,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Zechariah 9:17** (#12011)
   - was: For how great is his goodness, and how great is his beauty! wheat shall make the young men cheerful, and new wine the maids. 
   - now: For how great is his goodness, and how great is his beauty! wheat shall make the young men joyful, and new wine the maids.
-- **Zechariah 10:7** (#21740)
+- **Zechariah 10:7** (#23058)
   - was: And they of Ephraim shall be like a mighty man, and their heart shall rejoice as through wine: yea, their children shall see it, and be glad; their heart shall rejoice in the Lord.
   - now: And they of Ephraim shall be like a mighty man, and their heart shall rejoice as through wine: yea, their children shall see it, and be thankful; their heart shall rejoice in the Lord.
 - **Zechariah 11:5** (#6314)
@@ -52593,7 +52665,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Zechariah 11:9** (#16394)
   - was: Then said I, I will not feed you: that that dieth, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another.
   - now: Then said I, I will not feed thee: that that dieth, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another.
-- **Zechariah 11:12** (#21741)
+- **Zechariah 11:12** (#23059)
   - was: And I said unto them, If ye think good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver.
   - now: And I said unto them, If ye ponder good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver.
 - **Zechariah 11:13** (#6315)
@@ -52614,6 +52686,9 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Malachi 1:2** (#16395)
   - was: I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
   - now: I have loved thee, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
+- **Malachi 1:3** (#23298)
+  - was: And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
+  - now: And I hated Esau, and laid his mountains and his heritage waste for the serpents of the wilderness.
 - **Malachi 1:4** (#11971)
   - was: Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
   - now: Whereas Edom saith, We are lacking, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
@@ -52860,7 +52935,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 3:9** (#20529)
   - was: And think not to say within yourselves, We have Abraham to our father: for I say unto thee, that God is able of these stones to raise up children unto Abraham.
   - now: And think not to say within thyself, We have Abraham to our father: for I say unto thee, that God is able of these stones to raise up children unto Abraham.
-- **Matthew 3:9** (#21742)
+- **Matthew 3:9** (#23060)
   - was: And think not to say within thyself, We have Abraham to our father: for I say unto thee, that God is able of these stones to raise up children unto Abraham.
   - now: And ponder not to say within thyself, We have Abraham to our father: for I say unto thee, that God is able of these stones to raise up children unto Abraham.
 - **Matthew 3:11** (#3378)
@@ -52941,7 +53016,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 5:12** (#19952)
   - was: Rejoice, and be exceedingly glad: for great is thine reward in heaven: for so persecuted they the prophets which were before thee.
   - now: Rejoice, and be exceedingly glad: for great is thy reward in heaven: for so persecuted they the prophets which were before thee.
-- **Matthew 5:12** (#21743)
+- **Matthew 5:12** (#23061)
   - was: Rejoice, and be exceedingly glad: for great is thy reward in heaven: for so persecuted they the prophets which were before thee.
   - now: Rejoice, and be exceedingly thankful: for great is thy reward in heaven: for so persecuted they the prophets which were before thee.
 - **Matthew 5:14** (#3727)
@@ -52953,7 +53028,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 5:16** (#19953)
   - was: Let thine light so shine before men, that they may see thine good works, and glorify thine Father which is in heaven.
   - now: Let thy light so shine before men, that they may see thy good works, and glorify thy Father which is in heaven.
-- **Matthew 5:17** (#21744)
+- **Matthew 5:17** (#23062)
   - was: Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
   - now: Ponder not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
 - **Matthew 5:18** (#5801)
@@ -53085,7 +53160,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 6:7** (#5805)
   - was: But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.
   - now: But when ye pray, use not vain babblings, as the heathen do: for they think that they shall be heard for their much speaking.
-- **Matthew 6:7** (#21745)
+- **Matthew 6:7** (#23063)
   - was: But when ye pray, use not vain babblings, as the heathen do: for they think that they shall be heard for their much speaking.
   - now: But when ye pray, use not vain babblings, as the heathen do: for they ponder that they shall be heard for their much speaking.
 - **Matthew 6:8** (#16442)
@@ -53259,7 +53334,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 9:4** (#16465)
   - was: And Jesus knowing their thoughts said, Wherefore think ye evil in your hearts?
   - now: And Jesus knowing their thoughts said, Wherefore think ye evil in thine hearts?
-- **Matthew 9:4** (#21746)
+- **Matthew 9:4** (#23064)
   - was: And Jesus knowing their thoughts said, Wherefore think ye evil in thine hearts?
   - now: And Jesus knowing their thoughts said, Wherefore ponder ye evil in thine hearts?
 - **Matthew 9:6** (#3301)
@@ -53370,7 +53445,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 10:34** (#3750)
   - was: Think not that I am come to send peace on earth: I came not to send peace, but a sword.
   - now: Think not that I am come to bring peace on earth: I came not to bring peace, but a sword.
-- **Matthew 10:34** (#21747)
+- **Matthew 10:34** (#23065)
   - was: Think not that I am come to bring peace on earth: I came not to bring peace, but a sword.
   - now: Ponder not that I am come to bring peace on earth: I came not to bring peace, but a sword.
 - **Matthew 10:35** (#5810)
@@ -53484,7 +53559,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 12:41** (#7336)
   - was: The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here.
   - now: The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonah; and, behold, a greater than Jonah is here.
-- **Matthew 12:46** (#21748)
+- **Matthew 12:46** (#23066)
   - was: While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him.
   - now: While he yet spake to the people, behold, his mother and his brethren stood without, desiring to speak with him.
 - **Matthew 13:5** (#5814)
@@ -53589,7 +53664,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 17:3** (#7340)
   - was: And, behold, there appeared unto them Moses and Elias talking with him.
   - now: And, behold, there appeared unto them Moses and Elijah talking with him.
-- **Matthew 17:3** (#21749)
+- **Matthew 17:3** (#23067)
   - was: And, behold, there appeared unto them Moses and Elijah talking with him.
   - now: And, behold, there appeared unto them Moses and Elijah speaking with him.
 - **Matthew 17:4** (#7341)
@@ -53634,7 +53709,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 17:24** (#19978)
   - was: And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not thine master pay tribute?
   - now: And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not thy master pay tribute?
-- **Matthew 17:25** (#21750)
+- **Matthew 17:25** (#23068)
   - was: He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
   - now: He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What ponderest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
 - **Matthew 18:3** (#16509)
@@ -53646,7 +53721,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 18:10** (#16510)
   - was: Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.
   - now: Take heed that ye despise not one of these little ones; for I say unto thee, That in heaven their angels do always behold the face of my Father which is in heaven.
-- **Matthew 18:12** (#21751)
+- **Matthew 18:12** (#23069)
   - was: How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?
   - now: How ponder ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?
 - **Matthew 18:13** (#16511)
@@ -53781,7 +53856,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 21:27** (#16529)
   - was: And they answered Jesus, and said, We cannot tell. And he said unto them, Neither tell I you by what authority I do these things.
   - now: And they answered Jesus, and said, We cannot tell. And he said unto them, Neither tell I thee by what authority I do these things.
-- **Matthew 21:28** (#21752)
+- **Matthew 21:28** (#23070)
   - was: But what think ye? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.
   - now: But what ponder ye? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.
 - **Matthew 21:31** (#6734)
@@ -53826,7 +53901,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 22:15** (#5830)
   - was: Then went the Pharisees, and took counsel how they might entangle him in his talk.
   - now: Then went the Pharisees, and took counsel how they might catch him in his talk.
-- **Matthew 22:15** (#21753)
+- **Matthew 22:15** (#23071)
   - was: Then went the Pharisees, and took counsel how they might catch him in his talk.
   - now: Then went the Pharisees, and took counsel how they might catch him in his speech.
 - **Matthew 22:16** (#3769)
@@ -53835,7 +53910,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 22:16** (#10405)
   - was: And they sent out unto Him their disciples with the Herodians, saying, Master, we know that Thou art true, and teachest the way of God in truth, neither deferest Thou for any man: for Thou regardest not the person of men.
   - now: And they sent out unto Him their disciples with the Herodians, saying, Master, we know that Thou art true, and teachest the way of God in truth, neither prolongest Thou for any man: for Thou regardest not the person of men.
-- **Matthew 22:17** (#21754)
+- **Matthew 22:17** (#23072)
   - was: Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Cesar, or not?
   - now: Tell us therefore, What ponderest thou? Is it lawful to give tribute unto Cesar, or not?
 - **Matthew 22:19** (#3770)
@@ -53850,7 +53925,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 22:35** (#10453)
   - was: Then one of them, which was a lawyer, asked him a question, tempting him, and saying,
   - now: Then one of them, which was a teacher, asked him a question, tempting him, and saying,
-- **Matthew 22:42** (#21755)
+- **Matthew 22:42** (#23073)
   - was: Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David.
   - now: Saying, What ponder ye of Christ? whose son is he? They say unto him, The Son of David.
 - **Matthew 23:3** (#16534)
@@ -53922,7 +53997,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 23:27** (#16545)
   - was: Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness.
   - now: Woe unto thee, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness.
-- **Matthew 23:27** (#21756)
+- **Matthew 23:27** (#23074)
   - was: Woe unto thee, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness.
   - now: Woe unto thee, scribes and Pharisees, hypocrites! for ye are like unto whited graves, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness.
 - **Matthew 23:28** (#5836)
@@ -53934,7 +54009,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 23:29** (#16546)
   - was: Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and adorn the sepulchres of the righteous,
   - now: Woe unto thee, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and adorn the sepulchres of the righteous,
-- **Matthew 23:29** (#21757)
+- **Matthew 23:29** (#23075)
   - was: Woe unto thee, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and adorn the sepulchres of the righteous,
   - now: Woe unto thee, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and adorn the graves of the righteous,
 - **Matthew 23:31** (#20535)
@@ -54024,13 +54099,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 24:42** (#19990)
   - was: Watch therefore: for ye know not what hour thine Lord doth come.
   - now: Watch therefore: for ye know not what hour thy Lord doth come.
-- **Matthew 24:44** (#21758)
+- **Matthew 24:44** (#23076)
   - was: Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
   - now: Therefore be ye also ready: for in such an hour as ye ponder not the Son of man cometh.
 - **Matthew 24:47** (#16562)
   - was: Verily I say unto you, That he shall make him ruler over all his goods.
   - now: Verily I say unto thee, That he shall make him ruler over all his goods.
-- **Matthew 25:5** (#21759)
+- **Matthew 25:5** (#23077)
   - was: While the bridegroom tarried, they all slumbered and slept.
   - now: While the bridegroom stayed, they all slumbered and slept.
 - **Matthew 25:7** (#5840)
@@ -54117,7 +54192,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 26:33** (#3773)
   - was: Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended.
   - now: Peter answered and said unto Him, Though all shall forsake Thee, yet will I never forsake Thee.
-- **Matthew 26:38** (#21760)
+- **Matthew 26:38** (#23078)
   - was: Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.
   - now: Then saith he unto them, My soul is exceeding sorrowful, even unto death: stay ye here, and watch with me.
 - **Matthew 26:45** (#3774)
@@ -54132,7 +54207,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 26:47** (#18123)
   - was: And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.
   - now: And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the head priests and elders of the people.
-- **Matthew 26:53** (#21761)
+- **Matthew 26:53** (#23079)
   - was: Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?
   - now: Ponderest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?
 - **Matthew 26:55** (#16576)
@@ -54144,7 +54219,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 26:64** (#16577)
   - was: Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
   - now: Jesus saith unto him, Thou hast said: nevertheless I say unto thee, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
-- **Matthew 26:66** (#21762)
+- **Matthew 26:66** (#23080)
   - was: What think ye? They answered and said, He is guilty of death.
   - now: What ponder ye? They answered and said, He is guilty of death.
 - **Matthew 26:67** (#11976)
@@ -54195,10 +54270,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 27:49** (#7349)
   - was: The rest said, Let be, let us see whether Elias will come to save him.
   - now: The rest said, Let be, let us see whether Elijah will come to save him.
-- **Matthew 27:60** (#21763)
+- **Matthew 27:60** (#23081)
   - was: And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.
   - now: And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the grave, and departed.
-- **Matthew 27:61** (#21764)
+- **Matthew 27:61** (#23082)
   - was: And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.
   - now: And there was Mary Magdalene, and the other Mary, sitting over against the grave.
 - **Matthew 27:62** (#18131)
@@ -54207,7 +54282,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 27:64** (#16580)
   - was: Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.
   - now: Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last sin shall be worse than the first.
-- **Matthew 27:64** (#21765)
+- **Matthew 27:64** (#23083)
   - was: Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last sin shall be worse than the first.
   - now: Command therefore that the grave be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last sin shall be worse than the first.
 - **Matthew 27:65** (#16581)
@@ -54216,19 +54291,19 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 27:65** (#19992)
   - was: Pilate said unto them, Ye have a watch: go thine way, make it as sure as ye can.
   - now: Pilate said unto them, Ye have a watch: go thy way, make it as sure as ye can.
-- **Matthew 27:66** (#21766)
+- **Matthew 27:66** (#23084)
   - was: So they went, and made the sepulchre sure, sealing the stone, and setting a watch. 
   - now: So they went, and made the grave sure, sealing the stone, and setting a watch. 
 - **Matthew 28:1** (#5843)
   - was: In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.
   - now: In the end of the sabbath, as it began to break toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.
-- **Matthew 28:1** (#21767)
+- **Matthew 28:1** (#23085)
   - was: In the end of the sabbath, as it began to break toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.
   - now: In the end of the sabbath, as it began to break toward the first day of the week, came Mary Magdalene and the other Mary to see the grave.
 - **Matthew 28:7** (#16582)
   - was: And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you.
   - now: And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before thee into Galilee; there shall ye see him: lo, I have told thee.
-- **Matthew 28:8** (#21768)
+- **Matthew 28:8** (#23086)
   - was: And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word.
   - now: And they departed quickly from the grave with fear and great joy; and did run to bring his disciples word.
 - **Matthew 28:11** (#18132)
@@ -54255,7 +54330,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Matthew 28:20** (#16584)
   - was: Teaching them to observe all things whatsoever I have commanded you: and, Lo, I am with you alway, even unto the end of the Age. Amen.
   - now: Teaching them to observe all things whatsoever I have commanded thee: and, Lo, I am with thee alway, even unto the end of the Age. Amen.
-- **Matthew 28:20** (#21769)
+- **Matthew 28:20** (#23087)
   - was: Teaching them to observe all things whatsoever I have commanded thee: and, Lo, I am with thee alway, even unto the end of the Age. Amen.
   - now: Teaching them to observe all things whatsoever I have commanded thee: and, Lo, I am with thee always, even unto the end of the Age. Amen.
 - **Mark 1:6** (#6737)
@@ -54363,7 +54438,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 4:11** (#16589)
   - was: And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:
   - now: And he said unto them, Unto thee it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:
-- **Mark 4:16** (#21770)
+- **Mark 4:16** (#23088)
   - was: And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;
   - now: And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with thankfulness;
 - **Mark 4:19** (#5762)
@@ -54465,7 +54540,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 6:37** (#9152)
   - was: He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred shillings' worth of bread, and give them to eat?
   - now: He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pence worth of bread, and give them to eat?
-- **Mark 6:50** (#21771)
+- **Mark 6:50** (#23089)
   - was: For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, Be of good cheer: it is I; be not afraid.
   - now: For they all saw him, and were troubled. And immediately he spake with them, and saith unto them, Be of good cheer: it is I; be not afraid.
 - **Mark 7:6** (#7353)
@@ -54543,7 +54618,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 9:4** (#7355)
   - was: And there appeared unto them Elias with Moses: and they were talking with Jesus.
   - now: And there appeared unto them Elijah with Moses: and they were talking with Jesus.
-- **Mark 9:4** (#21772)
+- **Mark 9:4** (#23090)
   - was: And there appeared unto them Elijah with Moses: and they were talking with Jesus.
   - now: And there appeared unto them Elijah with Moses: and they were speaking with Jesus.
 - **Mark 9:5** (#7356)
@@ -54792,7 +54867,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 14:11** (#5786)
   - was: And when they heard it, they were glad, and promised to give him money. And he sought how he might conveniently betray him.
   - now: And when they heard it, they were glad, and promised to give him money. And he sought occasion to how he might betray him.
-- **Mark 14:11** (#21773)
+- **Mark 14:11** (#23091)
   - was: And when they heard it, they were glad, and promised to give him money. And he sought occasion to how he might betray him.
   - now: And when they heard it, they were thankful, and promised to give him money. And he sought occasion to how he might betray him.
 - **Mark 14:13** (#16629)
@@ -54825,7 +54900,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 14:33** (#10542)
   - was: And He taketh with Him Peter and James and John, and began to be greatly troubled, and overwhelmed with grief;
   - now: And He taketh with Him Peter and James and John, and began to be greatly troubled, and swallowed with grief;
-- **Mark 14:34** (#21774)
+- **Mark 14:34** (#23092)
   - was: And saith unto them, My soul is exceeding sorrowful unto death: tarry ye here, and watch.
   - now: And saith unto them, My soul is exceeding sorrowful unto death: stay ye here, and watch.
 - **Mark 14:38** (#3805)
@@ -54855,7 +54930,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 14:55** (#18107)
   - was: And the chief priests and all the council sought for witness against Jesus to put him to death; and found none.
   - now: And the head priests and all the council sought for witness against Jesus to put him to death; and found none.
-- **Mark 14:64** (#21775)
+- **Mark 14:64** (#23093)
   - was: Ye have heard the blasphemy: what think ye? And they all condemned him to be guilty of death.
   - now: Ye have heard the blasphemy: what ponder ye? And they all condemned him to be guilty of death.
 - **Mark 14:65** (#5789)
@@ -54915,16 +54990,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 15:43** (#5791)
   - was: Joseph of Arimathea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.
   - now: Joseph of Arimathea, an honourable counsellor, who also waited for the kingdom of God, came, and went in boldly unto Pilate, and asked for the body of Jesus.
-- **Mark 15:46** (#21776)
+- **Mark 15:46** (#23094)
   - was: And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre.
   - now: And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a grave which was hewn out of a rock, and rolled a stone unto the door of the grave.
-- **Mark 16:2** (#21777)
+- **Mark 16:2** (#23095)
   - was: And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun.
   - now: And very early in the morning the first day of the week, they came unto the grave at the rising of the sun.
-- **Mark 16:3** (#21778)
+- **Mark 16:3** (#23096)
   - was: And they said among themselves, Who shall roll us away the stone from the door of the sepulchre?
   - now: And they said among themselves, Who shall roll us away the stone from the door of the grave?
-- **Mark 16:5** (#21779)
+- **Mark 16:5** (#23097)
   - was: And entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.
   - now: And entering into the grave, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.
 - **Mark 16:7** (#16637)
@@ -54933,7 +55008,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Mark 16:7** (#20001)
   - was: But go thine way, tell his disciples and Peter that he goeth before thee into Galilee: there shall ye see him, as he said unto thee.
   - now: But go thy way, tell his disciples and Peter that he goeth before thee into Galilee: there shall ye see him, as he said unto thee.
-- **Mark 16:8** (#21780)
+- **Mark 16:8** (#23098)
   - was: And they went out quickly, and fled from the sepulchre; for they trembled and were amazed: neither said they any thing to any man; for they were afraid.
   - now: And they went out quickly, and fled from the grave; for they trembled and were amazed: neither said they any thing to any man; for they were afraid.
 - **Mark 16:14** (#5792)
@@ -54972,7 +55047,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 1:13** (#7365)
   - was: But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.
   - now: But the angel said unto him, Fear not, Zechariah: for thy prayer is heard; and thy wife Elizabeth shall bear thee a son, and thou shalt call his name John.
-- **Luke 1:14** (#21781)
+- **Luke 1:14** (#23099)
   - was: And thou shalt have joy and gladness; and many shall rejoice at his birth.
   - now: And thou shalt have joy and thankfulness; and many shall rejoice at his birth.
 - **Luke 1:15** (#3386)
@@ -54987,13 +55062,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 1:18** (#8697)
   - was: And Zechariah said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years.
   - now: And Zechariah said unto the angel, Whereby shall I know this? for I am an old man, and my wife well struck in years.
-- **Luke 1:19** (#21782)
+- **Luke 1:19** (#23100)
   - was: And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings.
   - now: And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these good tidings.
 - **Luke 1:21** (#7368)
   - was: And the people waited for Zacharias, and marvelled that he tarried so long in the temple.
   - now: And the people waited for Zechariah, and marvelled that he tarried so long in the temple.
-- **Luke 1:21** (#21783)
+- **Luke 1:21** (#23101)
   - was: And the people waited for Zechariah, and marvelled that he tarried so long in the temple.
   - now: And the people waited for Zechariah, and marvelled that he stayed so long in the temple.
 - **Luke 1:23** (#10482)
@@ -55113,7 +55188,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 2:36** (#7377)
   - was: And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;
   - now: And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Asher: she was of a great age, and had lived with an husband seven years from her virginity;
-- **Luke 2:43** (#21784)
+- **Luke 2:43** (#23102)
   - was: And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it. 
   - now: And when they had fulfilled the days, as they returned, the child Jesus stayed behind in Jerusalem; and Joseph and his mother knew not of it. 
 - **Luke 2:44** (#5668)
@@ -55434,7 +55509,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 7:42** (#5686)
   - was: And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?
   - now: And when they had nothing to pay, he freely forgave them both. Tell me therefore, which of them will love him most?
-- **Luke 8:1** (#21785)
+- **Luke 8:1** (#23103)
   - was: And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,
   - now: And it came to pass afterward, that he went throughout every city and village, preaching and shewing the good tidings of the kingdom of God: and the twelve were with him,
 - **Luke 8:2** (#3819)
@@ -55521,7 +55596,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 9:30** (#7396)
   - was: And, behold, there talked with him two men, which were Moses and Elias:
   - now: And, behold, there talked with him two men, which were Moses and Elijah:
-- **Luke 9:30** (#21786)
+- **Luke 9:30** (#23104)
   - was: And, behold, there talked with him two men, which were Moses and Elijah:
   - now: And, behold, there spake with him two men, which were Moses and Elijah:
 - **Luke 9:31** (#5694)
@@ -55614,7 +55689,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 10:25** (#10455)
   - was: And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?
   - now: And, behold, a certain teacher stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?
-- **Luke 10:36** (#21787)
+- **Luke 10:36** (#23105)
   - was: Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?
   - now: Which now of these three, ponderest thou, was neighbour unto him that fell among the thieves?
 - **Luke 10:40** (#5696)
@@ -55725,7 +55800,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 11:47** (#20022)
   - was: Woe unto thee! for ye build the sepulchres of the prophets, and thine fathers killed them.
   - now: Woe unto thee! for ye build the sepulchres of the prophets, and thy fathers killed them.
-- **Luke 11:47** (#21788)
+- **Luke 11:47** (#23106)
   - was: Woe unto thee! for ye build the sepulchres of the prophets, and thy fathers killed them.
   - now: Woe unto thee! for ye build the graves of the prophets, and thy fathers killed them.
 - **Luke 11:48** (#16706)
@@ -55734,7 +55809,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 11:48** (#20023)
   - was: Truly ye bear witness that ye allow the deeds of thine fathers: for they indeed killed them, and ye build their sepulchres.
   - now: Truly ye bear witness that ye allow the deeds of thy fathers: for they indeed killed them, and ye build their sepulchres.
-- **Luke 11:48** (#21789)
+- **Luke 11:48** (#23107)
   - was: Truly ye bear witness that ye allow the deeds of thy fathers: for they indeed killed them, and ye build their sepulchres.
   - now: Truly ye bear witness that ye allow the deeds of thy fathers: for they indeed killed them, and ye build their graves.
 - **Luke 11:51** (#7402)
@@ -55857,7 +55932,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 12:37** (#16725)
   - was: Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.
   - now: Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto thee, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.
-- **Luke 12:40** (#21790)
+- **Luke 12:40** (#23108)
   - was: Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.
   - now: Be ye therefore ready also: for the Son of man cometh at an hour when ye ponder not.
 - **Luke 12:44** (#16726)
@@ -55878,7 +55953,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 13:3** (#16728)
   - was: I tell you, Nay: but, except ye repent, ye shall all likewise perish.
   - now: I tell thee, Nay: but, except ye repent, ye shall all likewise perish.
-- **Luke 13:4** (#21791)
+- **Luke 13:4** (#23109)
   - was: Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem?
   - now: Or those eighteen, upon whom the tower in Siloam fell, and slew them, ponder ye that they were sinners above all men that dwelt in Jerusalem?
 - **Luke 13:5** (#16729)
@@ -55980,7 +56055,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 15:16** (#5714)
   - was: And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.
   - now: And he longed to fill his belly with that which the swine did eat: and no man gave unto him.
-- **Luke 15:32** (#21792)
+- **Luke 15:32** (#23110)
   - was: It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found. 
   - now: It was meet that we should make merry, and be thankful: for this thy brother was dead, and is alive again; and was lost, and is found. 
 - **Luke 16:4** (#5715)
@@ -55992,7 +56067,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 16:9** (#20549)
   - was: And I say unto thee, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive thee into everlasting habitations.
   - now: And I say unto thee, Make to thyself friends of the mammon of unrighteousness; that, when ye fail, they may receive thee into everlasting habitations.
-- **Luke 16:9** (#21793)
+- **Luke 16:9** (#23111)
   - was: And I say unto thee, Make to thyself friends of the mammon of unrighteousness; that, when ye fail, they may receive thee into everlasting habitations.
   - now: And I say unto thee, Make to thyself friends of the mammon of unrighteousness; that, when ye fail, they may receive thee into everlasting dwelling places.
 - **Luke 16:11** (#16744)
@@ -56256,7 +56331,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 22:4** (#18088)
   - was: And he went his way, and communed with the chief priests and captains, how he might betray him unto them.
   - now: And he went his way, and communed with the head priests and captains, how he might betray him unto them.
-- **Luke 22:5** (#21794)
+- **Luke 22:5** (#23112)
   - was: And they were glad, and covenanted to give him money.
   - now: And they were thankful, and covenanted to give him money.
 - **Luke 22:6** (#9143)
@@ -56349,7 +56424,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 23:7** (#3516)
   - was: And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time.
   - now: And as soon as he knew that he belonged unto Herod’s power, he sent him to Herod, who himself also was at Jerusalem at that time.
-- **Luke 23:8** (#21795)
+- **Luke 23:8** (#23113)
   - was: And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him.
   - now: And when Herod saw Jesus, he was exceeding thankful: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him.
 - **Luke 23:10** (#18093)
@@ -56391,16 +56466,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 23:51** (#3191)
   - was: (The same had not consented to the counsel and deed of them;) he was of Arimathea, a city of the Jews: who also himself waited for the kingdom of God.
   - now: The same had not consented to the counsel and deed of them; he was of Arimathea, a city of the Jews: who also himself waited for the kingdom of God.
-- **Luke 23:53** (#21796)
+- **Luke 23:53** (#23114)
   - was: And he took it down, and wrapped it in linen, and laid it in a sepulchre that was hewn in stone, wherein never man before was laid.
   - now: And he took it down, and wrapped it in linen, and laid it in a grave that was hewn in stone, wherein never man before was laid.
-- **Luke 23:55** (#21797)
+- **Luke 23:55** (#23115)
   - was: And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid.
   - now: And the women also, which came with him from Galilee, followed after, and beheld the grave, and how his body was laid.
-- **Luke 24:1** (#21798)
+- **Luke 24:1** (#23116)
   - was: Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them.
   - now: Now upon the first day of the week, very early in the morning, they came unto the grave, bringing the spices which they had prepared, and certain others with them.
-- **Luke 24:2** (#21799)
+- **Luke 24:2** (#23117)
   - was: And they found the stone rolled away from the sepulchre.
   - now: And they found the stone rolled away from the grave.
 - **Luke 24:4** (#5745)
@@ -56409,13 +56484,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 24:6** (#16795)
   - was: He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,
   - now: He is not here, but is risen: remember how he spake unto thee when he was yet in Galilee,
-- **Luke 24:9** (#21800)
+- **Luke 24:9** (#23118)
   - was: And returned from the sepulchre, and told all these things unto the eleven, and to all the rest.
   - now: And returned from the grave, and told all these things unto the eleven, and to all the rest.
-- **Luke 24:12** (#21801)
+- **Luke 24:12** (#23119)
   - was: Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass.
   - now: Then arose Peter, and ran unto the grave; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass.
-- **Luke 24:14** (#21802)
+- **Luke 24:14** (#23120)
   - was: And they talked together of all these things which had happened.
   - now: And they spake together of all these things which had happened.
 - **Luke 24:16** (#8705)
@@ -56424,16 +56499,16 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 24:20** (#18096)
   - was: And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him.
   - now: And how the head priests and our rulers delivered him to be condemned to death, and have crucified him.
-- **Luke 24:22** (#21803)
+- **Luke 24:22** (#23121)
   - was: Yea, and certain women also of our company made us astonished, which were early at the sepulchre;
   - now: Yea, and certain women also of our company made us astonished, which were early at the grave;
-- **Luke 24:24** (#21804)
+- **Luke 24:24** (#23122)
   - was: And certain of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not.
   - now: And certain of them which were with us went to the grave, and found it even so as the women had said: but him they saw not.
-- **Luke 24:29** (#21805)
+- **Luke 24:29** (#23123)
   - was: But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them.
   - now: But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to stay with them.
-- **Luke 24:32** (#21806)
+- **Luke 24:32** (#23124)
   - was: And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?
   - now: And they said one to another, Did not our heart burn within us, while he spake with us by the way, and while he opened to us the scriptures?
 - **Luke 24:36** (#16796)
@@ -56457,7 +56532,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Luke 24:49** (#16799)
   - was: And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
   - now: And, behold, I send the promise of my Father upon thee: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
-- **Luke 24:49** (#21807)
+- **Luke 24:49** (#23125)
   - was: And, behold, I send the promise of my Father upon thee: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
   - now: And, behold, I send the promise of my Father upon thee: but stay ye in the city of Jerusalem, until ye be endued with power from on high.
 - **John 1:5** (#11949)
@@ -56544,7 +56619,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 3:16** (#3828)
   - was: For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
   - now: For God so loved the world that He gave His only begotten Son, that whosoever believeth in Him shall not perish, but have everlasting life.
-- **John 3:22** (#21808)
+- **John 3:22** (#23126)
   - was: After these things came Jesus and his disciples into the land of Judea; and there he tarried with them, and baptized.
   - now: After these things came Jesus and his disciples into the land of Judea; and there he stayed with them, and baptized.
 - **John 3:28** (#20556)
@@ -56562,7 +56637,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 4:9** (#5489)
   - was: Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
   - now: Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no company with the Samaritans.
-- **John 4:27** (#21809)
+- **John 4:27** (#23127)
   - was: And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?
   - now: And upon this came his disciples, and marvelled that he spake with the woman: yet no man said, What seekest thou? or, Why speakest thou with her?
 - **John 4:28** (#5490)
@@ -56574,7 +56649,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 4:38** (#16805)
   - was: I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.
   - now: I sent thee to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.
-- **John 4:40** (#21810)
+- **John 4:40** (#23128)
   - was: So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.
   - now: So when the Samaritans were come unto him, they besought him that he would stay with them: and he abode there two days.
 - **John 5:4** (#5491)
@@ -56601,7 +56676,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 5:38** (#16809)
   - was: And ye have not his word abiding in you: for whom he hath sent, him ye believe not.
   - now: And ye have not his word abiding in thee: for whom he hath sent, him ye believe not.
-- **John 5:39** (#21811)
+- **John 5:39** (#23129)
   - was: Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
   - now: Search the scriptures; for in them ye ponder ye have eternal life: and they are they which testify of me.
 - **John 5:42** (#16810)
@@ -56610,7 +56685,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 5:45** (#16811)
   - was: Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust.
   - now: Do not think that I will accuse thee to the Father: there is one that accuseth thee, even Moses, in whom ye trust.
-- **John 5:45** (#21812)
+- **John 5:45** (#23130)
   - was: Do not think that I will accuse thee to the Father: there is one that accuseth thee, even Moses, in whom ye trust.
   - now: Do not ponder that I will accuse thee to the Father: there is one that accuseth thee, even Moses, in whom ye trust.
 - **John 6:7** (#5495)
@@ -56835,7 +56910,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 8:56** (#20044)
   - was: Thine father Abraham rejoiced to see my day: and he saw it, and was glad.
   - now: Thy father Abraham rejoiced to see my day: and he saw it, and was glad.
-- **John 8:56** (#21813)
+- **John 8:56** (#23131)
   - was: Thy father Abraham rejoiced to see my day: and he saw it, and was glad.
   - now: Thy father Abraham rejoiced to see my day: and he saw it, and was thankful.
 - **John 8:58** (#16850)
@@ -56862,7 +56937,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 9:37** (#3835)
   - was: And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.
   - now: And Jesus said unto him, Thou hast both seen Him, and He it is that talketh with thee.
-- **John 9:37** (#21814)
+- **John 9:37** (#23132)
   - was: And Jesus said unto him, Thou hast both seen Him, and He it is that talketh with thee.
   - now: And Jesus said unto him, Thou hast both seen Him, and He it is that speaketh with thee.
 - **John 9:41** (#16853)
@@ -56907,7 +56982,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 11:15** (#20048)
   - was: And I am glad for thine sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.
   - now: And I am glad for thy sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.
-- **John 11:15** (#21815)
+- **John 11:15** (#23133)
   - was: And I am glad for thy sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.
   - now: And I am thankful for thy sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.
 - **John 11:16** (#3837)
@@ -56940,7 +57015,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 11:53** (#3839)
   - was: Then from that day forth they took counsel together for to put him to death.
   - now: Then from that day forth they took counsel together to put Him to death.
-- **John 11:56** (#21816)
+- **John 11:56** (#23134)
   - was: Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?
   - now: Then sought they for Jesus, and spake among themselves, as they stood in the temple, What ponder ye, that he will not come to the feast?
 - **John 11:57** (#18066)
@@ -57105,7 +57180,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 14:30** (#16890)
   - was: Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.
   - now: Hereafter I will not talk much with thee: for the prince of this world cometh, and hath nothing in me.
-- **John 14:30** (#21817)
+- **John 14:30** (#23135)
   - was: Hereafter I will not talk much with thee: for the prince of this world cometh, and hath nothing in me.
   - now: Hereafter I will not speak much with thee: for the prince of this world cometh, and hath nothing in me.
 - **John 15:3** (#16891)
@@ -57180,7 +57255,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 16:2** (#16907)
   - was: They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.
   - now: They shall put thee out of the synagogues: yea, the time cometh, that whosoever killeth thee will think that he doeth God service.
-- **John 16:2** (#21818)
+- **John 16:2** (#23136)
   - was: They shall put thee out of the synagogues: yea, the time cometh, that whosoever killeth thee will think that he doeth God service.
   - now: They shall put thee out of the synagogues: yea, the time cometh, that whosoever killeth thee will ponder that he doeth God service.
 - **John 16:3** (#16908)
@@ -57327,34 +57402,34 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 19:41** (#3849)
   - was: Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid.
   - now: Now in the place where He was crucified there was a garden; and in the garden a new sepulchre, wherein was never man laid.
-- **John 19:41** (#21819)
+- **John 19:41** (#23137)
   - was: Now in the place where He was crucified there was a garden; and in the garden a new sepulchre, wherein was never man laid.
   - now: Now in the place where He was crucified there was a garden; and in the garden a new grave, wherein was never man laid.
-- **John 19:42** (#21820)
+- **John 19:42** (#23138)
   - was: There laid they Jesus therefore because of the Jews’ preparation day; for the sepulchre was nigh at hand. 
   - now: There laid they Jesus therefore because of the Jews’ preparation day; for the grave was nigh at hand. 
-- **John 20:1** (#21821)
+- **John 20:1** (#23139)
   - was: The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.
   - now: The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the grave, and seeth the stone taken away from the grave.
-- **John 20:2** (#21822)
+- **John 20:2** (#23140)
   - was: Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.
   - now: Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the grave, and we know not where they have laid him.
-- **John 20:3** (#21823)
+- **John 20:3** (#23141)
   - was: Peter therefore went forth, and that other disciple, and came to the sepulchre.
   - now: Peter therefore went forth, and that other disciple, and came to the grave.
 - **John 20:4** (#5511)
   - was: So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre.
   - now: So they ran both together: and the other disciple did run before Peter, and came first to the sepulchre.
-- **John 20:4** (#21824)
+- **John 20:4** (#23142)
   - was: So they ran both together: and the other disciple did run before Peter, and came first to the sepulchre.
   - now: So they ran both together: and the other disciple did run before Peter, and came first to the grave.
-- **John 20:6** (#21825)
+- **John 20:6** (#23143)
   - was: Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,
   - now: Then cometh Simon Peter following him, and went into the grave, and seeth the linen clothes lie,
-- **John 20:8** (#21826)
+- **John 20:8** (#23144)
   - was: Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed.
   - now: Then went in also that other disciple, which came first to the grave, and he saw, and believed.
-- **John 20:11** (#21827)
+- **John 20:11** (#23145)
   - was: But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre,
   - now: But Mary stood without at the grave weeping: and as she wept, she stooped down, and looked into the grave,
 - **John 20:15** (#5512)
@@ -57369,7 +57444,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 20:19** (#16933)
   - was: Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.
   - now: Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto thee.
-- **John 20:20** (#21828)
+- **John 20:20** (#23146)
   - was: And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the Lord.
   - now: And when he had so said, he shewed unto them his hands and his side. Then were the disciples thankful, when they saw the Lord.
 - **John 20:21** (#3850)
@@ -57426,10 +57501,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **John 21:19** (#3853)
   - was: This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.
   - now: This spake He, signifying by what death He should glorify God. And when He had spoken this, He saith unto Peter, Follow me.
-- **John 21:22** (#21829)
+- **John 21:22** (#23147)
   - was: Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me.
   - now: Jesus saith unto him, If I will that he stay till I come, what is that to thee? follow thou me.
-- **John 21:23** (#21830)
+- **John 21:23** (#23148)
   - was: Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to thee?
   - now: Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he stay till I come, what is that to thee?
 - **Acts 1:1** (#3876)
@@ -57474,7 +57549,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 1:20** (#3879)
   - was: For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.
   - now: For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his oversight let another take.
-- **Acts 1:20** (#21831)
+- **Acts 1:20** (#23149)
   - was: For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his oversight let another take.
   - now: For it is written in the book of Psalms, Let his abode be desolate, and let no man dwell therein: and his oversight let another take.
 - **Acts 2:3** (#3880)
@@ -57513,13 +57588,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 2:25** (#3883)
   - was: For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
   - now: For David speaketh concerning him, I saw the Lord always before my face, for he is on my right hand, that I should not be moved:
-- **Acts 2:26** (#21832)
+- **Acts 2:26** (#23150)
   - was: Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh shall rest in hope:
   - now: Therefore did my heart rejoice, and my tongue was thankful; moreover also my flesh shall rest in hope:
 - **Acts 2:29** (#16942)
   - was: Men and brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
   - now: Men and brethren, let me freely speak unto thee of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
-- **Acts 2:29** (#21833)
+- **Acts 2:29** (#23151)
   - was: Men and brethren, let me freely speak unto thee of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
   - now: Men and brethren, let me freely speak unto thee of the patriarch David, that he is both dead and buried, and his grave is with us unto this day.
 - **Acts 2:33** (#3406)
@@ -57546,7 +57621,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 2:40** (#20561)
   - was: And with many other words did he testify and exhort, saying, Save yourselves from this perverse generation.
   - now: And with many other words did he testify and exhort, saying, Save thyself from this perverse generation.
-- **Acts 2:46** (#21834)
+- **Acts 2:46** (#23152)
   - was: And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart,
   - now: And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with thankfulness and singleness of heart,
 - **Acts 3:5** (#3886)
@@ -57708,7 +57783,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 7:6** (#3902)
   - was: And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years.
   - now: And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and oppress them four hundred years.
-- **Acts 7:6** (#21835)
+- **Acts 7:6** (#23153)
   - was: And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and oppress them four hundred years.
   - now: And God spake on this wise, That his seed should dwell in a strange land; and that they should bring them into bondage, and oppress them four hundred years.
 - **Acts 7:11** (#7418)
@@ -57717,7 +57792,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 7:12** (#11206)
   - was: But when Jacob heard that there was corn in Egypt, he sent out our fathers first.
   - now: But when Jacob heard that there was wheat in Egypt, he sent out our fathers first.
-- **Acts 7:16** (#21836)
+- **Acts 7:16** (#23154)
   - was: And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor the father of Sychem.
   - now: And were carried over into Sychem, and laid in the grave that Abraham bought for a sum of money of the sons of Emmor the father of Sychem.
 - **Acts 7:28** (#11561)
@@ -57834,10 +57909,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 9:36** (#3910)
   - was: Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.
   - now: Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and alms which she did.
-- **Acts 9:43** (#21837)
+- **Acts 9:43** (#23155)
   - was: And it came to pass, that he tarried many days in Joppa with one Simon a tanner. 
   - now: And it came to pass, that he stayed many days in Joppa with one Simon a tanner. 
-- **Acts 10:2** (#21838)
+- **Acts 10:2** (#23156)
   - was: A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.
   - now: A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God always.
 - **Acts 10:3** (#3911)
@@ -57849,7 +57924,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 10:17** (#3913)
   - was: Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon’s house, and stood before the gate,
   - now: Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made search for Simon's house, and stood before the gate,
-- **Acts 10:27** (#21839)
+- **Acts 10:27** (#23157)
   - was: And as he talked with him, he went in, and found many that were come together.
   - now: And as he spake with him, he went in, and found many that were come together.
 - **Acts 10:28** (#3914)
@@ -57879,7 +57954,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 10:47** (#3425)
   - was: Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?
   - now: Can any man forbid water, that these should not be baptized, which have received the spirit of the Lord as well as we?
-- **Acts 10:48** (#21840)
+- **Acts 10:48** (#23158)
   - was: And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days. 
   - now: And he commanded them to be baptized in the name of the Lord. Then prayed they him to stay certain days. 
 - **Acts 11:5** (#3916)
@@ -57894,7 +57969,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 11:19** (#3917)
   - was: Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.
   - now: Now they which were scattered abroad upon the persecution that arose about Stephen passed as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.
-- **Acts 11:23** (#21841)
+- **Acts 11:23** (#23159)
   - was: Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.
   - now: Who, when he came, and had seen the grace of God, was thankful, and exhorted them all, that with purpose of heart they would cleave unto the Lord.
 - **Acts 11:24** (#3428)
@@ -57915,7 +57990,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 12:8** (#3920)
   - was: And the angel said unto him, Gird thyself, and bind on thy sandals. And so he did. And he saith unto him, Cast thy garment about thee, and follow me.
   - now: And the angel said unto him, Gird thyself, and bind on thy shoes. And so he did. And he saith unto him, Cast thy garment about thee, and follow me.
-- **Acts 12:14** (#21842)
+- **Acts 12:14** (#23160)
   - was: And when she knew Peter’s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.
   - now: And when she knew Peter’s voice, she opened not the gate for thankfulness, but ran in, and told how Peter stood before the gate.
 - **Acts 12:15** (#11831)
@@ -57969,19 +58044,19 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 13:21** (#7426)
   - was: And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years.
   - now: And afterward they desired a king: and God gave unto them Saul the son of Kish, a man of the tribe of Benjamin, by the space of forty years.
-- **Acts 13:25** (#21843)
+- **Acts 13:25** (#23161)
   - was: And as John fulfilled his course, he said, Whom think ye that I am? I am not he. But, behold, there cometh one after me, whose shoes of his feet I am not worthy to loose.
   - now: And as John fulfilled his course, he said, Whom ponder ye that I am? I am not he. But, behold, there cometh one after me, whose shoes of his feet I am not worthy to loose.
 - **Acts 13:26** (#16963)
   - was: Men and brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent.
   - now: Men and brethren, children of the stock of Abraham, and whosoever among thee feareth God, to thee is the word of this salvation sent.
-- **Acts 13:29** (#21844)
+- **Acts 13:29** (#23162)
   - was: And when they had fulfilled all that was written of him, they took him down from the tree, and laid him in a sepulchre.
   - now: And when they had fulfilled all that was written of him, they took him down from the tree, and laid him in a grave.
 - **Acts 13:32** (#16964)
   - was: And we declare unto you glad tidings, how that the promise which was made unto the fathers,
   - now: And we declare unto thee glad tidings, how that the promise which was made unto the fathers,
-- **Acts 13:32** (#21845)
+- **Acts 13:32** (#23163)
   - was: And we declare unto thee glad tidings, how that the promise which was made unto the fathers,
   - now: And we declare unto thee good tidings, how that the promise which was made unto the fathers,
 - **Acts 13:34** (#16965)
@@ -58017,7 +58092,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 13:46** (#20563)
   - was: Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to thee: but seeing ye put it from thee, and judge yourselves not worthy of everlasting life, lo, we turn to the Gentiles.
   - now: Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to thee: but seeing ye put it from thee, and judge thyself not worthy of everlasting life, lo, we turn to the Gentiles.
-- **Acts 13:48** (#21846)
+- **Acts 13:48** (#23164)
   - was: And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
   - now: And when the Gentiles heard this, they were thankful, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
 - **Acts 13:50** (#17892)
@@ -58050,7 +58125,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 14:15** (#16970)
   - was: And saying, Sirs, why do ye these things? We also are men of like affections with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:
   - now: And saying, Sirs, why do ye these things? We also are men of like affections with thee, and preach unto thee that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:
-- **Acts 14:17** (#21847)
+- **Acts 14:17** (#23165)
   - was: Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness.
   - now: Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and thankfulness.
 - **Acts 14:26** (#3934)
@@ -58110,7 +58185,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 15:30** (#11833)
   - was: So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:
   - now: So when they parted, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:
-- **Acts 15:33** (#21848)
+- **Acts 15:33** (#23166)
   - was: And after they had tarried there a space, they were let go in peace from the brethren unto the apostles.
   - now: And after they had stayed there a space, they were let go in peace from the brethren unto the apostles.
 - **Acts 15:40** (#3940)
@@ -58209,13 +58284,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 17:23** (#20073)
   - was: For as I passed by, and beheld thine worship, I found an altar with this written, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto thee.
   - now: For as I passed by, and beheld thy worship, I found an altar with this written, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto thee.
-- **Acts 17:26** (#21849)
+- **Acts 17:26** (#23167)
   - was: And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;
   - now: And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their abode;
 - **Acts 17:28** (#16978)
   - was: For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.
   - now: For in him we live, and move, and have our being; as certain also of thine own poets have said, For we are also his offspring.
-- **Acts 17:29** (#21850)
+- **Acts 17:29** (#23168)
   - was: Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device.
   - now: Forasmuch then as we are the offspring of God, we ought not to ponder that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device.
 - **Acts 17:30** (#3955)
@@ -58263,10 +58338,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 18:17** (#17897)
   - was: Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.
   - now: Then all the Greeks took Sosthenes, the head ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.
-- **Acts 18:18** (#21851)
+- **Acts 18:18** (#23169)
   - was: And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow.
   - now: And Paul after this stayed there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow.
-- **Acts 18:20** (#21852)
+- **Acts 18:20** (#23170)
   - was: When they desired him to tarry longer time with them, he consented not;
   - now: When they desired him to stay longer time with them, he consented not;
 - **Acts 18:21** (#16982)
@@ -58371,7 +58446,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 20:4** (#7432)
   - was: And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.
   - now: And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timothy; and of Asia, Tychicus and Trophimus.
-- **Acts 20:5** (#21853)
+- **Acts 20:5** (#23171)
   - was: These going before tarried for us at Troas.
   - now: These going before stayed for us at Troas.
 - **Acts 20:9** (#3971)
@@ -58380,7 +58455,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 20:10** (#20565)
   - was: And Paul went down, and fell on him, and embracing him said, Trouble not yourselves; for his life is in him.
   - now: And Paul went down, and fell on him, and embracing him said, Trouble not thyself; for his life is in him.
-- **Acts 20:11** (#21854)
+- **Acts 20:11** (#23172)
   - was: When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed.
   - now: When he therefore was come up again, and had broken bread, and eaten, and spake a long while, even till break of day, so he departed.
 - **Acts 20:13** (#3972)
@@ -58389,7 +58464,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 20:15** (#3973)
   - was: And we sailed thence, and came the next day over against Chios; and the next day we arrived at Samos, and tarried at Trogyllium; and the next day we came to Miletus.
   - now: And we sailed thence, and came the next day over against Chios; and the next day we touched at Samos, and tarried at Trogyllium; and the next day we came to Miletus.
-- **Acts 20:15** (#21855)
+- **Acts 20:15** (#23173)
   - was: And we sailed thence, and came the next day over against Chios; and the next day we touched at Samos, and tarried at Trogyllium; and the next day we came to Miletus.
   - now: And we sailed thence, and came the next day over against Chios; and the next day we touched at Samos, and stayed at Trogyllium; and the next day we came to Miletus.
 - **Acts 20:18** (#16985)
@@ -58452,7 +58527,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 21:3** (#3977)
   - was: Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.
   - now: Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to empty her burden.
-- **Acts 21:4** (#21856)
+- **Acts 21:4** (#23174)
   - was: And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.
   - now: And finding disciples, we stayed there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.
 - **Acts 21:7** (#6768)
@@ -58464,7 +58539,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 21:8** (#3978)
   - was: And the next day we that were of Paul’s company departed, and came unto Cesarea: and we entered into the house of Philip the evangelist, which was one of the seven; and abode with him.
   - now: And the next day we that were of Paul's company departed, and came unto Cesarea: and we entered into the house of Philip the preacher, which was one of the seven; and abode with him.
-- **Acts 21:10** (#21857)
+- **Acts 21:10** (#23175)
   - was: And as we tarried there many days, there came down from Judea a certain prophet, named Agabus.
   - now: And as we stayed there many days, there came down from Judea a certain prophet, named Agabus.
 - **Acts 21:11** (#3440)
@@ -58659,7 +58734,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 25:5** (#16999)
   - was: Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there be any wickedness in him.
   - now: Let them therefore, said he, which among thee are able, go down with me, and accuse this man, if there be any wickedness in him.
-- **Acts 25:6** (#21858)
+- **Acts 25:6** (#23176)
   - was: And when he had tarried among them more than ten days, he went down unto Cesarea; and the next day sitting on the judgment seat commanded Paul to be brought.
   - now: And when he had stayed among them more than ten days, he went down unto Cesarea; and the next day sitting on the judgment seat commanded Paul to be brought.
 - **Acts 25:11** (#3998)
@@ -58695,7 +58770,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 26:1** (#4003)
   - was: Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:
   - now: Then Agrippa said unto Paul, Thou art suffered to speak for thyself. Then Paul stretched forth the hand, and answered for himself:
-- **Acts 26:2** (#21859)
+- **Acts 26:2** (#23177)
   - was: I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:
   - now: I ponder myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:
 - **Acts 26:5** (#11593)
@@ -58728,7 +58803,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 26:25** (#8891)
   - was: But he said, I am not mad, most noble Festus; but speak forth the words of truth and sobriety.
   - now: But he said, I am not mad, most noble Festus; but speak forth the words of truth and temperance.
-- **Acts 26:31** (#21860)
+- **Acts 26:31** (#23178)
   - was: And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.
   - now: And when they were gone aside, they spake between themselves, saying, This man doeth nothing worthy of death or of bonds.
 - **Acts 27:3** (#4008)
@@ -58767,7 +58842,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 27:30** (#4016)
   - was: And as the shipmen were about to flee out of the ship, when they had let down the boat into the sea, under colour as though they would have cast anchors out of the foreship,
   - now: And as the shipmen were about to flee out of the ship, when they had let down the boat into the sea, under colour as though they would have cast anchors out of the forepart of the ship,
-- **Acts 27:33** (#21861)
+- **Acts 27:33** (#23179)
   - was: And while the day was coming on, Paul besought them all to take meat, saying, This day is the fourteenth day that ye have tarried and continued fasting, having taken nothing.
   - now: And while the day was coming on, Paul besought them all to take meat, saying, This day is the fourteenth day that ye have stayed and continued fasting, having taken nothing.
 - **Acts 27:34** (#17003)
@@ -58815,10 +58890,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 28:8** (#8897)
   - was: And it came to pass, that the father of Publius lay sick of a fever and of a dysentery: to whom Paul entered in, and prayed, and laid his hands on him, and healed him.
   - now: And it came to pass, that the father of Publius lay sick of a fever and of a bloody disease: to whom Paul entered in, and prayed, and laid his hands on him, and healed him.
-- **Acts 28:12** (#21862)
+- **Acts 28:12** (#23180)
   - was: And landing at Syracuse, we tarried there three days.
   - now: And landing at Syracuse, we stayed there three days.
-- **Acts 28:14** (#21863)
+- **Acts 28:14** (#23181)
   - was: Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome.
   - now: Where we found brethren, and were desired to stay with them seven days: and so we went toward Rome.
 - **Acts 28:15** (#3121)
@@ -58833,7 +58908,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Acts 28:20** (#17004)
   - was: For this cause therefore have I called for you, to see you, and to speak with you: because that for the hope of Israel I am bound with this chain.
   - now: For this cause therefore have I called for thee, to see thee, and to speak with thee: because that for the hope of Israel I am bound with this chain.
-- **Acts 28:22** (#21864)
+- **Acts 28:22** (#23182)
   - was: But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against.
   - now: But we desire to hear of thee what thou ponderest: for as concerning this sect, we know that every where it is spoken against.
 - **Acts 28:25** (#3441)
@@ -58932,7 +59007,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Romans 2:3** (#8721)
   - was: And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?
   - now: And thinkest thou this, O man, that judgest them which do such things, and dost the same, that thou shalt escape the judgment of God?
-- **Romans 2:3** (#21865)
+- **Romans 2:3** (#23183)
   - was: And thinkest thou this, O man, that judgest them which do such things, and dost the same, that thou shalt escape the judgment of God?
   - now: And ponderest thou this, O man, that judgest them which do such things, and dost the same, that thou shalt escape the judgment of God?
 - **Romans 2:4** (#6228)
@@ -58980,7 +59055,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Romans 3:8** (#6233)
   - was: And not rather, as we be slanderously reported, and as some affirm that we say, Let us do evil, that good may come? whose damnation is just.
   - now: And not rather, as we be falsely reported, and as some affirm that we say, Let us do evil, that good may come? whose damnation is just.
-- **Romans 3:13** (#21866)
+- **Romans 3:13** (#23184)
   - was: Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips:
   - now: Their throat is an open grave; with their tongues they have used deceit; the poison of asps is under their lips:
 - **Romans 3:23** (#3856)
@@ -59166,7 +59241,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Romans 10:7** (#3347)
   - was: Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)
   - now: Or, Who shall descend into the deep? that is, to bring up Christ again from the dead.
-- **Romans 10:15** (#21867)
+- **Romans 10:15** (#23185)
   - was: And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
   - now: And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring good tidings of good things!
 - **Romans 10:16** (#7441)
@@ -59190,7 +59265,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Romans 11:9** (#3582)
   - was: And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:
   - now: And David saith, Let their table be made a snare, and a trap, and a stumbling block, and a recompence unto them:
-- **Romans 11:10** (#21868)
+- **Romans 11:10** (#23186)
   - was: Let their eyes be darkened, that they may not see, and bow down their back alway.
   - now: Let their eyes be darkened, that they may not see, and bow down their back always.
 - **Romans 11:13** (#17012)
@@ -59256,7 +59331,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Romans 12:3** (#17018)
   - was: For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think wisely, according as God hath dealt to every man the measure of faith.
   - now: For I say, through the grace given unto me, to every man that is among thee, not to think of himself more highly than he ought to think; but to think wisely, according as God hath dealt to every man the measure of faith.
-- **Romans 12:3** (#21869)
+- **Romans 12:3** (#23187)
   - was: For I say, through the grace given unto me, to every man that is among thee, not to think of himself more highly than he ought to think; but to think wisely, according as God hath dealt to every man the measure of faith.
   - now: For I say, through the grace given unto me, to every man that is among thee, not to ponder of himself more highly than he ought to ponder; but to ponder wisely, according as God hath dealt to every man the measure of faith.
 - **Romans 12:6** (#6257)
@@ -59268,7 +59343,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Romans 12:8** (#6258)
   - was: Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
   - now: Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with gladness.
-- **Romans 12:8** (#21870)
+- **Romans 12:8** (#23188)
   - was: Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with gladness.
   - now: Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with thankfulness.
 - **Romans 12:9** (#6259)
@@ -59481,7 +59556,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Romans 16:19** (#20086)
   - was: For thine obedience is come abroad unto all men. I am glad therefore on thine behalf: but yet I would have thee wise unto that which is good, and simple concerning evil.
   - now: For thine obedience is come abroad unto all men. I am glad therefore on thy behalf: but yet I would have thee wise unto that which is good, and simple concerning evil.
-- **Romans 16:19** (#21871)
+- **Romans 16:19** (#23189)
   - was: For thine obedience is come abroad unto all men. I am glad therefore on thy behalf: but yet I would have thee wise unto that which is good, and simple concerning evil.
   - now: For thine obedience is come abroad unto all men. I am thankful therefore on thy behalf: but yet I would have thee wise unto that which is good, and simple concerning evil.
 - **Romans 16:20** (#17041)
@@ -59643,7 +59718,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 4:6** (#20091)
   - was: And these things, brethren, I have in a figure gave to myself and to Apollos for thine sakes; that ye might learn in us not to think of men above that which is written, that no one of thee be puffed up for one against another.
   - now: And these things, brethren, I have in a figure gave to myself and to Apollos for thy sakes; that ye might learn in us not to think of men above that which is written, that no one of thee be puffed up for one against another.
-- **I Corinthians 4:6** (#21872)
+- **I Corinthians 4:6** (#23190)
   - was: And these things, brethren, I have in a figure gave to myself and to Apollos for thy sakes; that ye might learn in us not to think of men above that which is written, that no one of thee be puffed up for one against another.
   - now: And these things, brethren, I have in a figure gave to myself and to Apollos for thy sakes; that ye might learn in us not to ponder of men above that which is written, that no one of thee be puffed up for one against another.
 - **I Corinthians 4:7** (#4611)
@@ -59658,7 +59733,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 4:9** (#8992)
   - was: For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a gazingstock unto the world, and to angels, and to men.
   - now: For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a wonder unto the world, and to angels, and to men.
-- **I Corinthians 4:9** (#21873)
+- **I Corinthians 4:9** (#23191)
   - was: For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a wonder unto the world, and to angels, and to men.
   - now: For I ponder that God hath set forth us the apostles last, as it were appointed to death: for we are made a wonder unto the world, and to angels, and to men.
 - **I Corinthians 4:11** (#9692)
@@ -59829,19 +59904,19 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 7:36** (#4623)
   - was: But if any man think that he behaveth himself uncomely toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sinneth not: let them marry.
   - now: But if any man think that he doeth wrong toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sinneth not: let them marry.
-- **I Corinthians 7:36** (#21874)
+- **I Corinthians 7:36** (#23192)
   - was: But if any man think that he doeth wrong toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sinneth not: let them marry.
   - now: But if any man ponder that he doeth wrong toward his virgin, if she pass the flower of her age, and need so require, let him do what he will, he sinneth not: let them marry.
 - **I Corinthians 7:40** (#4624)
   - was: But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God. 
   - now: But she is more blessed if she so abide, after my judgment: and I think also that I have the Spirit of God.
-- **I Corinthians 7:40** (#21875)
+- **I Corinthians 7:40** (#23193)
   - was: But she is more blessed if she so abide, after my judgment: and I think also that I have the Spirit of God.
   - now: But she is more blessed if she so abide, after my judgment: and I ponder also that I have the Spirit of God.
 - **I Corinthians 8:1** (#6786)
   - was: Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.
   - now: Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but love edifieth.
-- **I Corinthians 8:2** (#21876)
+- **I Corinthians 8:2** (#23194)
   - was: And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.
   - now: And if any man ponder that he knoweth any thing, he knoweth nothing yet as he ought to know.
 - **I Corinthians 8:5** (#3348)
@@ -59892,7 +59967,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 10:11** (#11623)
   - was: Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.
   - now: Now all these things happened unto them for ensamples: and they are written for our reproof, upon whom the ends of the world are come.
-- **I Corinthians 10:12** (#21877)
+- **I Corinthians 10:12** (#23195)
   - was: Wherefore let him that thinketh he standeth take heed lest he fall.
   - now: Wherefore let him that pondereth he standeth take heed lest he fall.
 - **I Corinthians 10:13** (#17099)
@@ -59955,7 +60030,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 11:30** (#17111)
   - was: For this cause many are weak and feeble among you, and many sleep.
   - now: For this cause many are weak and feeble among thee, and many sleep.
-- **I Corinthians 11:33** (#21878)
+- **I Corinthians 11:33** (#23196)
   - was: Wherefore, my brethren, when ye come together to eat, tarry one for another.
   - now: Wherefore, my brethren, when ye come together to eat, stay one for another.
 - **I Corinthians 12:1** (#17112)
@@ -59997,7 +60072,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 12:23** (#9000)
   - was: And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our unhonest parts have more abundant comeliness.
   - now: And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our hidden parts have more abundant comeliness.
-- **I Corinthians 12:23** (#21879)
+- **I Corinthians 12:23** (#23197)
   - was: And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our hidden parts have more abundant comeliness.
   - now: And those members of the body, which we ponder to be less honourable, upon these we bestow more abundant honour; and our hidden parts have more abundant comeliness.
 - **I Corinthians 12:25** (#4636)
@@ -60042,7 +60117,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 13:5** (#9003)
   - was: Doth not behave itself dishonestly, seeketh not her own, is not quickly provoked, thinketh no evil;
   - now: Doth not behave itself ill, seeketh not her own, is not quickly provoked, thinketh no evil;
-- **I Corinthians 13:5** (#21880)
+- **I Corinthians 13:5** (#23198)
   - was: Doth not behave itself ill, seeketh not her own, is not quickly provoked, thinketh no evil;
   - now: Doth not behave itself ill, seeketh not her own, is not quickly provoked, pondereth no evil;
 - **I Corinthians 13:8** (#6791)
@@ -60102,7 +60177,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 14:37** (#17121)
   - was: If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
   - now: If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto thee are the commandments of the Lord.
-- **I Corinthians 14:37** (#21881)
+- **I Corinthians 14:37** (#23199)
   - was: If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto thee are the commandments of the Lord.
   - now: If any man ponder himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto thee are the commandments of the Lord.
 - **I Corinthians 14:40** (#4647)
@@ -60204,10 +60279,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 16:7** (#17136)
   - was: For I will not see you now by the way; but I trust to tarry a while with you, if the Lord suffer.
   - now: For I will not see thee now by the way; but I trust to tarry a while with thee, if the Lord suffer.
-- **I Corinthians 16:7** (#21882)
+- **I Corinthians 16:7** (#23200)
   - was: For I will not see thee now by the way; but I trust to tarry a while with thee, if the Lord suffer.
   - now: For I will not see thee now by the way; but I trust to stay a while with thee, if the Lord suffer.
-- **I Corinthians 16:8** (#21883)
+- **I Corinthians 16:8** (#23201)
   - was: But I will tarry at Ephesus until Pentecost.
   - now: But I will stay at Ephesus until Pentecost.
 - **I Corinthians 16:10** (#7448)
@@ -60249,7 +60324,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Corinthians 16:17** (#20108)
   - was: I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on thine part they have supplied.
   - now: I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on thy part they have supplied.
-- **I Corinthians 16:17** (#21884)
+- **I Corinthians 16:17** (#23202)
   - was: I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on thy part they have supplied.
   - now: I am thankful of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on thy part they have supplied.
 - **I Corinthians 16:18** (#20578)
@@ -60339,7 +60414,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 2:2** (#17162)
   - was: For if I make you sorry, who is he then that maketh me glad, but the same which is made sorry by me?
   - now: For if I make thee sorry, who is he then that maketh me glad, but the same which is made sorry by me?
-- **II Corinthians 2:2** (#21885)
+- **II Corinthians 2:2** (#23203)
   - was: For if I make thee sorry, who is he then that maketh me glad, but the same which is made sorry by me?
   - now: For if I make thee sorry, who is he then that maketh me thankful, but the same which is made sorry by me?
 - **II Corinthians 2:3** (#17163)
@@ -60393,7 +60468,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 3:3** (#4872)
   - was: Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
   - now: Forasmuch as ye are plainly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshly tables of the heart.
-- **II Corinthians 3:5** (#21886)
+- **II Corinthians 3:5** (#23204)
   - was: Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;
   - now: Not that we are sufficient of ourselves to ponder any thing as of ourselves; but our sufficiency is of God;
 - **II Corinthians 3:7** (#4873)
@@ -60423,7 +60498,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 4:5** (#20114)
   - was: For we preach not ourselves, but Christ Jesus the Lord; and ourselves thine servants for Jesus’ sake.
   - now: For we preach not ourselves, but Christ Jesus the Lord; and ourselves thy servants for Jesus’ sake.
-- **II Corinthians 4:11** (#21887)
+- **II Corinthians 4:11** (#23205)
   - was: For we which live are alway delivered unto death for Jesus’ sake, that the life also of Jesus might be made manifest in our mortal flesh.
   - now: For we which live are always delivered unto death for Jesus’ sake, that the life also of Jesus might be made manifest in our mortal flesh.
 - **II Corinthians 4:12** (#17171)
@@ -60501,7 +60576,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 6:6** (#3450)
   - was: By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,
   - now: By pureness, by knowledge, by longsuffering, by kindness, by the spirit of the Lord, by love unfeigned,
-- **II Corinthians 6:10** (#21888)
+- **II Corinthians 6:10** (#23206)
   - was: As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.
   - now: As sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.
 - **II Corinthians 6:11** (#17179)
@@ -60765,7 +60840,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 10:2** (#17216)
   - was: But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.
   - now: But I beseech thee, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.
-- **II Corinthians 10:2** (#21889)
+- **II Corinthians 10:2** (#23207)
   - was: But I beseech thee, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.
   - now: But I beseech thee, that I may not be bold when I am present with that confidence, wherewith I ponder to be bold against some, which ponder of us as if we walked according to the flesh.
 - **II Corinthians 10:4** (#3203)
@@ -60774,7 +60849,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 10:6** (#17217)
   - was: And having in a readiness to revenge all disobedience, when your obedience is fulfilled.
   - now: And having in a readiness to revenge all disobedience, when thine obedience is fulfilled.
-- **II Corinthians 10:7** (#21890)
+- **II Corinthians 10:7** (#23208)
   - was: Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he is Christ’s, even so are we Christ’s.
   - now: Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself ponder this again, that, as he is Christ’s, even so are we Christ’s.
 - **II Corinthians 10:8** (#17218)
@@ -60789,7 +60864,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 10:10** (#4899)
   - was: For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible.
   - now: For his letters, say they, are heavy and powerful; but his bodily presence is weak, and his speech contemptible.
-- **II Corinthians 10:11** (#21891)
+- **II Corinthians 10:11** (#23209)
   - was: Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.
   - now: Let such an one ponder this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.
 - **II Corinthians 10:13** (#17220)
@@ -60846,7 +60921,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 11:13** (#4901)
   - was: For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
   - now: For such are false apostles, deceitful workers, fashioning themselves into the apostles of Christ.
-- **II Corinthians 11:16** (#21892)
+- **II Corinthians 11:16** (#23210)
   - was: I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.
   - now: I say again, Let no man ponder me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.
 - **II Corinthians 11:19** (#20580)
@@ -60894,7 +60969,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 12:3** (#3205)
   - was: And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)
   - now: And I knew such a man, whether in the body, or out of the body, I cannot tell: God knoweth;
-- **II Corinthians 12:6** (#21893)
+- **II Corinthians 12:6** (#23211)
   - was: For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me.
   - now: For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should ponder of me above that which he seeth me to be, or that he heareth of me.
 - **II Corinthians 12:7** (#4908)
@@ -60936,7 +61011,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 12:19** (#17240)
   - was: Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying.
   - now: Again, think ye that we excuse ourselves unto thee? we speak before God in Christ: but we do all things, dearly beloved, for thine edifying.
-- **II Corinthians 12:19** (#21894)
+- **II Corinthians 12:19** (#23212)
   - was: Again, think ye that we excuse ourselves unto thee? we speak before God in Christ: but we do all things, dearly beloved, for thine edifying.
   - now: Again, ponder ye that we excuse ourselves unto thee? we speak before God in Christ: but we do all things, dearly beloved, for thine edifying.
 - **II Corinthians 12:20** (#3596)
@@ -60984,7 +61059,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Corinthians 13:9** (#20133)
   - was: For we are glad, when we are weak, and ye are strong: and this also we wish, even thine perfection.
   - now: For we are glad, when we are weak, and ye are strong: and this also we wish, even thy perfection.
-- **II Corinthians 13:9** (#21895)
+- **II Corinthians 13:9** (#23213)
   - was: For we are glad, when we are weak, and ye are strong: and this also we wish, even thy perfection.
   - now: For we are thankful, when we are weak, and ye are strong: and this also we wish, even thy perfection.
 - **II Corinthians 13:10** (#4911)
@@ -61221,7 +61296,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Galatians 6:1** (#4427)
   - was: Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
   - now: Brethren, if a man be taken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
-- **Galatians 6:3** (#21896)
+- **Galatians 6:3** (#23214)
   - was: For if a man think himself to be something, when he is nothing, he deceiveth himself.
   - now: For if a man ponder himself to be something, when he is nothing, he deceiveth himself.
 - **Galatians 6:11** (#17281)
@@ -61320,7 +61395,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ephesians 2:22** (#6797)
   - was: In whom ye also are builded together for an habitation of God through the Spirit. 
   - now: In whom ye also are built together for an habitation of God through the Spirit. 
-- **Ephesians 2:22** (#21897)
+- **Ephesians 2:22** (#23215)
   - was: In whom ye also are built together for an habitation of God through the Spirit. 
   - now: In whom ye also are built together for an abode of God through the Spirit. 
 - **Ephesians 3:1** (#17293)
@@ -61359,7 +61434,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ephesians 3:18** (#4194)
   - was: May be able to comprehend with all saints what is the breadth, and length, and depth, and height;
   - now: May be able to know with all saints what is the breadth, and length, and depth, and height;
-- **Ephesians 3:20** (#21898)
+- **Ephesians 3:20** (#23216)
   - was: Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,
   - now: Now unto him that is able to do exceeding abundantly above all that we ask or ponder, according to the power that worketh in us,
 - **Ephesians 4:1** (#4195)
@@ -61446,7 +61521,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Ephesians 5:4** (#4204)
   - was: Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
   - now: Neither filthiness, nor foolish talking, nor sporting, which are not convenient: but rather giving of thanks.
-- **Ephesians 5:4** (#21899)
+- **Ephesians 5:4** (#23217)
   - was: Neither filthiness, nor foolish talking, nor sporting, which are not convenient: but rather giving of thanks.
   - now: Neither filthiness, nor foolish speaking, nor sporting, which are not convenient: but rather giving of thanks.
 - **Ephesians 5:5** (#4205)
@@ -61617,7 +61692,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Philippians 1:7** (#17326)
   - was: Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and truth of the gospel, ye all are partakers of my grace.
   - now: Even as it is meet for me to think this of thee all, because I have thee in my heart; inasmuch as both in my bonds, and in the defence and truth of the gospel, ye all are partakers of my grace.
-- **Philippians 1:7** (#21900)
+- **Philippians 1:7** (#23218)
   - was: Even as it is meet for me to think this of thee all, because I have thee in my heart; inasmuch as both in my bonds, and in the defence and truth of the gospel, ye all are partakers of my grace.
   - now: Even as it is meet for me to ponder this of thee all, because I have thee in my heart; inasmuch as both in my bonds, and in the defence and truth of the gospel, ye all are partakers of my grace.
 - **Philippians 1:8** (#17327)
@@ -61737,7 +61812,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Philippians 2:26** (#17343)
   - was: For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick.
   - now: For he longed after thee all, and was full of heaviness, because that ye had heard that he had been sick.
-- **Philippians 2:29** (#21901)
+- **Philippians 2:29** (#23219)
   - was: Receive him therefore in the Lord with all gladness; and hold such in reputation:
   - now: Receive him therefore in the Lord with all thankfulness; and hold such in reputation:
 - **Philippians 2:30** (#17344)
@@ -61752,7 +61827,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Philippians 3:2** (#5949)
   - was: Beware of dogs, beware of evil workers, beware of the concision.
   - now: Beware of dogs, beware of evil workers, beware of the false circumcision.
-- **Philippians 3:4** (#21902)
+- **Philippians 3:4** (#23220)
   - was: Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:
   - now: Though I might also have confidence in the flesh. If any other man pondereth that he hath whereof he might trust in the flesh, I more:
 - **Philippians 3:8** (#5950)
@@ -61791,7 +61866,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Philippians 4:3** (#5954)
   - was: And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life.
   - now: And I intreat thee also, true companion, help those women which laboured with me in the gospel, with Clement also, and with other my helpers, whose names are in the book of life.
-- **Philippians 4:4** (#21903)
+- **Philippians 4:4** (#23221)
   - was: Rejoice in the Lord alway: and again I say, Rejoice.
   - now: Rejoice in the Lord always: and again I say, Rejoice.
 - **Philippians 4:5** (#5955)
@@ -61812,7 +61887,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Philippians 4:7** (#17350)
   - was: And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
   - now: And the peace of God, which passeth all understanding, shall keep thine hearts and minds through Christ Jesus.
-- **Philippians 4:8** (#21904)
+- **Philippians 4:8** (#23222)
   - was: Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
   - now: Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, ponder on these things.
 - **Philippians 4:9** (#17351)
@@ -62112,7 +62187,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Colossians 4:6** (#20167)
   - was: Let thine speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
   - now: Let thy speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
-- **Colossians 4:6** (#21905)
+- **Colossians 4:6** (#23223)
   - was: Let thy speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
   - now: Let thy speech be always with grace, seasoned with salt, that ye may know how ye ought to answer every man.
 - **Colossians 4:7** (#17363)
@@ -62268,7 +62343,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Thessalonians 2:14** (#17389)
   - was: For ye, brethren, became followers of the churches of God which in Judea are in Christ Jesus: for ye also have suffered like things of your own nation, even as they have of the Jews:
   - now: For ye, brethren, became followers of the churches of God which in Judea are in Christ Jesus: for ye also have suffered like things of thine own nation, even as they have of the Jews:
-- **I Thessalonians 2:16** (#21906)
+- **I Thessalonians 2:16** (#23224)
   - was: Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost.
   - now: Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins always: for the wrath is come upon them to the uttermost.
 - **I Thessalonians 2:17** (#4778)
@@ -62523,7 +62598,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Thessalonians 2:13** (#17432)
   - was: But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and faith of the truth:
   - now: But we are bound to give thanks alway to God for thee, brethren beloved of the Lord, because God hath from the beginning chosen thee to salvation through sanctification of the Spirit and faith of the truth:
-- **II Thessalonians 2:13** (#21907)
+- **II Thessalonians 2:13** (#23225)
   - was: But we are bound to give thanks alway to God for thee, brethren beloved of the Lord, because God hath from the beginning chosen thee to salvation through sanctification of the Spirit and faith of the truth:
   - now: But we are bound to give thanks always to God for thee, brethren beloved of the Lord, because God hath from the beginning chosen thee to salvation through sanctification of the Spirit and faith of the truth:
 - **II Thessalonians 2:14** (#17433)
@@ -62601,7 +62676,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Timothy 1:6** (#4786)
   - was: From which some having swerved have turned aside unto vain jangling;
   - now: From which some having erred have turned aside unto vain talking;
-- **I Timothy 1:6** (#21908)
+- **I Timothy 1:6** (#23226)
   - was: From which some having erred have turned aside unto vain talking;
   - now: From which some having erred have turned aside unto vain speaking;
 - **I Timothy 1:8** (#4787)
@@ -62715,7 +62790,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Timothy 3:13** (#4804)
   - was: For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.
   - now: For they that have used the office of a minister well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.
-- **I Timothy 3:15** (#21909)
+- **I Timothy 3:15** (#23227)
   - was: But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
   - now: But if I stay long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
 - **I Timothy 4:1** (#3863)
@@ -62937,13 +63012,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Titus 1:10** (#9215)
   - was: For there are many unruly and vain speakers and deceivers, specially they of the circumcision:
   - now: For there are many unruly and given to vain talk, and deceivers, specially they of the circumcision:
-- **Titus 1:10** (#21910)
+- **Titus 1:10** (#23228)
   - was: For there are many unruly and given to vain talk, and deceivers, specially they of the circumcision:
   - now: For there are many unruly and given to vain speech, and deceivers, specially they of the circumcision:
 - **Titus 1:11** (#6299)
   - was: Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake.
   - now: Whose mouths must be stopped, who pervert whole houses, teaching things which they ought not, for filthy lucre's sake.
-- **Titus 1:12** (#21911)
+- **Titus 1:12** (#23229)
   - was: One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies.
   - now: One of themselves, even a prophet of their own, said, The Cretians are always liars, evil beasts, slow bellies.
 - **Titus 1:13** (#6300)
@@ -63069,7 +63144,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Hebrews 1:6** (#4520)
   - was: And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
   - now: And again, when he bringeth in the firstborn into the world, he saith, And let all the angels of God worship him.
-- **Hebrews 1:9** (#21912)
+- **Hebrews 1:9** (#23230)
   - was: Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.
   - now: Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of thankfulness above thy fellows.
 - **Hebrews 2:4** (#3459)
@@ -63114,7 +63189,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Hebrews 3:9** (#20184)
   - was: When thine fathers tempted me, proved me, and saw my works forty years.
   - now: When thy fathers tempted me, proved me, and saw my works forty years.
-- **Hebrews 3:10** (#21913)
+- **Hebrews 3:10** (#23231)
   - was: Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.
   - now: Wherefore I was grieved with that generation, and said, They do always err in their heart; and they have not known my ways.
 - **Hebrews 3:11** (#3368)
@@ -63399,13 +63474,13 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Hebrews 10:35** (#20188)
   - was: Cast not away therefore thine confidence, which hath great recompence of reward.
   - now: Cast not away therefore thy confidence, which hath great recompence of reward.
-- **Hebrews 10:37** (#21914)
+- **Hebrews 10:37** (#23232)
   - was: For yet a little while, and he that shall come will come, and will not tarry.
   - now: For yet a little while, and he that shall come will come, and will not stay.
 - **Hebrews 11:5** (#4551)
   - was: By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.
   - now: By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his change he had this testimony, that he pleased God.
-- **Hebrews 11:9** (#21915)
+- **Hebrews 11:9** (#23233)
   - was: By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
   - now: By faith he dwelt in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
 - **Hebrews 11:11** (#7475)
@@ -63417,7 +63492,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Hebrews 11:13** (#4552)
   - was: These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.
   - now: These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and sojourners on the earth.
-- **Hebrews 11:13** (#21916)
+- **Hebrews 11:13** (#23234)
   - was: These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and sojourners on the earth.
   - now: These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and dwellers on the earth.
 - **Hebrews 11:32** (#7476)
@@ -63582,7 +63657,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **James 1:6** (#5212)
   - was: But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
   - now: But let him ask in faith, nothing doubting. For he that doubteth is like a wave of the sea driven with the wind and tossed.
-- **James 1:7** (#21917)
+- **James 1:7** (#23235)
   - was: For let not that man think that he shall receive any thing of the Lord.
   - now: For let not that man ponder that he shall receive any thing of the Lord.
 - **James 1:11** (#5213)
@@ -63702,7 +63777,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **James 4:4** (#5228)
   - was: Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
   - now: Ye adulterers and adulteresses, know ye not that to be a friend of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
-- **James 4:5** (#21918)
+- **James 4:5** (#23236)
   - was: Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?
   - now: Do ye ponder that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?
 - **James 4:7** (#17494)
@@ -63870,7 +63945,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Peter 1:17** (#20209)
   - was: And if ye call on the Father, who without respect of persons judgeth according to every man’s work, pass the time of thine sojourning here in fear:
   - now: And if ye call on the Father, who without respect of persons judgeth according to every man’s work, pass the time of thy sojourning here in fear:
-- **I Peter 1:17** (#21919)
+- **I Peter 1:17** (#23237)
   - was: And if ye call on the Father, who without respect of persons judgeth according to every man’s work, pass the time of thy sojourning here in fear:
   - now: And if ye call on the Father, who without respect of persons judgeth according to every man’s work, pass the time of thy dwelling here in fear:
 - **I Peter 1:18** (#17523)
@@ -63927,7 +64002,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Peter 2:11** (#17530)
   - was: Dearly beloved, I beseech you as strangers and sojourners, abstain from fleshly lusts, which war against the soul;
   - now: Dearly beloved, I beseech thee as strangers and sojourners, abstain from fleshly lusts, which war against the soul;
-- **I Peter 2:11** (#21920)
+- **I Peter 2:11** (#23238)
   - was: Dearly beloved, I beseech thee as strangers and sojourners, abstain from fleshly lusts, which war against the soul;
   - now: Dearly beloved, I beseech thee as strangers and dwellers, abstain from fleshly lusts, which war against the soul;
 - **I Peter 2:12** (#17531)
@@ -64053,7 +64128,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Peter 4:4** (#17544)
   - was: Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you: 
   - now: Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of thee: 
-- **I Peter 4:4** (#21921)
+- **I Peter 4:4** (#23239)
   - was: Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of thee: 
   - now: Wherein they ponder it strange that ye run not with them to the same excess of riot, speaking evil of thee: 
 - **I Peter 4:8** (#6828)
@@ -64068,10 +64143,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **I Peter 4:12** (#17545)
   - was: Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:
   - now: Beloved, think it not strange concerning the fiery trial which is to try thee, as though some strange thing happened unto thee:
-- **I Peter 4:12** (#21922)
+- **I Peter 4:12** (#23240)
   - was: Beloved, think it not strange concerning the fiery trial which is to try thee, as though some strange thing happened unto thee:
   - now: Beloved, ponder it not strange concerning the fiery trial which is to try thee, as though some strange thing happened unto thee:
-- **I Peter 4:13** (#21923)
+- **I Peter 4:13** (#23241)
   - was: But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
   - now: But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be thankful also with exceeding joy.
 - **I Peter 4:14** (#17546)
@@ -64191,7 +64266,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **II Peter 1:13** (#17565)
   - was: Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;
   - now: Yea, I think it meet, as long as I am in this tabernacle, to stir thee up by putting thee in remembrance;
-- **II Peter 1:13** (#21924)
+- **II Peter 1:13** (#23242)
   - was: Yea, I think it meet, as long as I am in this tabernacle, to stir thee up by putting thee in remembrance;
   - now: Yea, I ponder it meet, as long as I am in this tabernacle, to stir thee up by putting thee in remembrance;
 - **II Peter 1:15** (#4942)
@@ -64455,7 +64530,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Jude 1:5** (#17598)
   - was: I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
   - now: I will therefore put thee in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
-- **Jude 1:6** (#21925)
+- **Jude 1:6** (#23243)
   - was: And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
   - now: And the angels which kept not their first estate, but left their own abode, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
 - **Jude 1:7** (#7484)
@@ -64581,7 +64656,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Revelation of John 3:18** (#6198)
   - was: I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.
   - now: I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with ointment, that thou mayest see.
-- **Revelation of John 4:1** (#21926)
+- **Revelation of John 4:1** (#23244)
   - was: After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
   - now: After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet speaking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
 - **Revelation of John 4:8** (#3871)
@@ -64686,7 +64761,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Revelation of John 16:10** (#6208)
   - was: And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,
   - now: And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they bit their tongues for pain,
-- **Revelation of John 17:1** (#21927)
+- **Revelation of John 17:1** (#23245)
   - was: And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
   - now: And there came one of the seven angels which had the seven vials, and spake with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
 - **Revelation of John 17:2** (#8739)
@@ -64698,7 +64773,7 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Revelation of John 18:2** (#6210)
   - was: And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird.
   - now: And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a hold of every unclean and hateful bird.
-- **Revelation of John 18:2** (#21928)
+- **Revelation of John 18:2** (#23246)
   - was: And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a hold of every unclean and hateful bird.
   - now: And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the abode of devils, and the hold of every foul spirit, and a hold of every unclean and hateful bird.
 - **Revelation of John 18:3** (#6211)
@@ -64764,10 +64839,10 @@ Every verse marked with * differs from the base King James text. These are the p
 - **Revelation of John 19:17** (#20612)
   - was: And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;
   - now: And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather thyself together unto the supper of the great God;
-- **Revelation of John 21:9** (#21929)
+- **Revelation of John 21:9** (#23247)
   - was: And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb’s wife.
   - now: And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and spake with me, saying, Come hither, I will shew thee the bride, the Lamb’s wife.
-- **Revelation of John 21:15** (#21930)
+- **Revelation of John 21:15** (#23248)
   - was: And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof.
   - now: And he that spake with me had a golden reed to measure the city, and the gates thereof, and the wall thereof.
 - **Revelation of John 21:21** (#6219)

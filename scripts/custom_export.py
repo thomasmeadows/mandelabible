@@ -49,7 +49,7 @@ CHARW = 0.48
 KNOWN_SETTING_KEYS = {
     "VersionTitle", "BookIndex", "BookLinks", "ChangeAppendix",
     "RestorationAppendix", "CustomSettingAppendix", "GlobalReplacements",
-    "VerseReplacements",
+    "VerseReplacements", "DivineNames",
 }
 
 # Verse markers in the body text
@@ -319,6 +319,9 @@ class Settings:
         self.restoration_appendix = _flag(data.get("RestorationAppendix"), True)
         self.custom_setting_appendix = _flag(
             data.get("CustomSettingAppendix"), True)
+        # Off by default: the divine names are an opt-in reading, and they
+        # need the `divine_names` table (scripts/91_build_divine_names.py).
+        self.divine_names = _flag(data.get("DivineNames"), False)
 
         glob = data.get("GlobalReplacements") or {}
         if not isinstance(glob, dict):
@@ -583,6 +586,114 @@ def modernization_layer(settings=None):
     layer = Layer(label, mapping, verses, settings, sources, context)
     layer.wants_verb_rule = True
     return layer
+
+
+# --------------------------------------------------------------------------
+# divine names (settings key "DivineNames")
+# --------------------------------------------------------------------------
+DIVINE_TOKEN_RE = re.compile(r"\b(?i:lord|god)(?:'s|s)?\b")
+# The definite article immediately before a replaced token, dropped with it.
+DIVINE_ARTICLE_RE = re.compile(r"\b(?i:the)\s+$")
+
+DIVINE_DISPLAY = {
+    "LORD / GOD in small caps (Strong's H3068 — the tetragrammaton)": "Yahweh",
+    "Lord in the Old Testament (Strong's H136)": "Adonai",
+}
+
+
+class DivineNamesLayer(Layer):
+    """Restore the divine name, by token position rather than by string.
+
+    The KJV distinguishes LORD (Yahweh) from Lord (Adonai) from lord (a human
+    master) *typographically*, and the source text this project builds on
+    flattened all three to "Lord". No word-for-word rule can separate them
+    again, so this layer works from the `divine_names` table, which addresses
+    each occurrence by its position in the verse's Lord/God token stream
+    (built by scripts/91_build_divine_names.py from BibleForge's `divine`
+    flag and Strong's numbers).
+
+    Anything not in the table is left exactly as it stands — lowercase *lord*
+    (the owner of an estate), the human masters of the Old Testament, the
+    Greek κύριος of the New Testament, and every non-divine *God*.
+
+    The definite article in front of a replaced token is dropped with it:
+    "the LORD" is an English convention for a title, and a personal name does
+    not take one — *"the Yahweh is my shepherd"* is not English. So the
+    article goes: "the LORD is my shepherd" → "Yahweh is my shepherd",
+    "unto the LORD" → "unto Yahweh", "the Lord GOD" → "Adonai Yahweh".
+    """
+
+    def __init__(self, db_path=None, label="divine names (Yahweh / Adonai)"):
+        super().__init__(label, {})
+        self.mapping = dict(DIVINE_DISPLAY)   # display only; apply() overrides
+        self.sources = {k.lower(): "divine_names table (script 91)"
+                        for k in self.mapping}
+        self.by_verse = self._load(db_path or DB_PATH)
+        self.skipped = []
+
+    @staticmethod
+    def _load(db_path):
+        con = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+        try:
+            rows = con.execute(
+                "SELECT book_id, chapter, verse, occ_index, token_total, "
+                "source_word, replacement FROM divine_names "
+                "ORDER BY book_id, chapter, verse, occ_index").fetchall()
+        except sqlite3.OperationalError as exc:
+            raise SettingsError(
+                "'DivineNames' is on but the divine_names table is missing — "
+                "run: python3 scripts/91_build_divine_names.py") from exc
+        finally:
+            con.close()
+        by_verse = {}
+        for bid, ch, vs, occ, total, src, repl in rows:
+            entry = by_verse.setdefault((bid, ch, vs), [total, {}])
+            entry[1][occ] = (src, repl)
+        return by_verse
+
+    def apply(self, key, text):
+        entry = self.by_verse.get(key)
+        if entry is None:
+            return text, None
+        total, repls = entry
+        matches = list(DIVINE_TOKEN_RE.finditer(text))
+        if len(matches) != total:
+            # An earlier layer added or removed a Lord/God token, so the
+            # positions no longer address what they were built against.
+            self.skipped.append(key)
+            self.warnings.append(
+                f"{self.label}: {key[0]} {key[1]}:{key[2]} — Lord/God token "
+                f"count changed ({len(matches)} now, {total} when mapped); "
+                "verse left unchanged")
+            return text, None
+        out, last, hit = [], 0, False
+        for i, m in enumerate(matches):
+            if i not in repls:
+                continue
+            src, repl = repls[i]
+            if m.group(0) != src:
+                continue          # not the token that was mapped — leave it
+            before = text[last:m.start()]
+            # A personal name takes no definite article: drop the "the" that
+            # belonged to the title. Capitalization carries over, so a
+            # sentence-initial "The LORD" becomes "Yahweh", not "yahweh".
+            before = DIVINE_ARTICLE_RE.sub("", before)
+            out.append(before)
+            out.append(repl)
+            last = m.end()
+            hit = True
+            for display, name in DIVINE_DISPLAY.items():
+                if repl.startswith(name):
+                    self.counts[display.lower()] = \
+                        self.counts.get(display.lower(), 0) + 1
+        if not hit:
+            return text, None
+        out.append(text[last:])
+        return "".join(out), "global"
+
+
+def divine_names_layer(db_path=None):
+    return DivineNamesLayer(db_path)
 
 
 # --------------------------------------------------------------------------

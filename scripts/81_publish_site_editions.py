@@ -31,8 +31,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from custom_export import (  # noqa: E402
-    CUSTOM_DIR, REPO_ROOT, Layer, SettingsError, build_edition, load_settings,
-    modernization_layer, report,
+    CUSTOM_DIR, REPO_ROOT, Layer, SettingsError, build_edition,
+    divine_names_layer, load_settings, modernization_layer, report,
 )
 
 ORIGINAL_SETTINGS = CUSTOM_DIR / "site-original.json"
@@ -79,6 +79,9 @@ def build_modern(out_dir):
               original),
         modernization_layer(modern),
     ]
+    # Last, so the word rules never see (or reshape) "Yahweh" / "Adonai".
+    if modern.divine_names:
+        layers.append(divine_names_layer())
     return build_edition(layers, out_dir=out_dir)
 
 

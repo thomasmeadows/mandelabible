@@ -160,6 +160,7 @@ restored Mandela text
 | `ChangeAppendix` | `yes` marks every verse your settings changed with `†` and appends a was/now list of them, with your comments |
 | `RestorationAppendix` | `yes` marks every project restoration with `*` and appends the was/now list of all 7,031 of them — the same appendix the repo export carries. Turn it off for a slimmer file |
 | `CustomSettingAppendix` | `yes` appends the settings themselves — every rule, where it came from, and how many times it fired |
+| `DivineNames` | `yes` restores the divine name: **Yahweh** where the KJV printed LORD/GOD in small caps, **Adonai** for the Old Testament's *Lord*. Off unless you ask for it, and only available to the modernizing exporters (scripts 80 and 81). See "The divine names" below |
 | `GlobalReplacements` | word/phrase → replacement, applied everywhere |
 | `VerseReplacements` | book → chapter → verse → `{ "replacement": "...", "comment": "..." }` (a plain string works too when you don't want a comment) |
 
@@ -220,6 +221,59 @@ changed.
 The Custom Setting Appendix in the output lists every rule with its source
 (`built-in`, `settings`, or `settings (overrides built-in)`) and how many times
 it actually fired — the fastest way to see whether a rule did what you meant.
+
+### The divine names (`"DivineNames": "yes"`)
+
+The King James Bible distinguishes three different words that all look like
+"lord" once the typography is gone:
+
+| Printed as | Original | Means |
+|---|---|---|
+| **LORD** / **GOD** in small caps | יהוה (H3068) | the divine name — Yahweh |
+| **Lord** | אֲדֹנָי (H136) | Adonai, a title of God |
+| **lord** | אָדוֹן (H113) | a human master — the owner of an estate |
+
+The text this project builds on **lost the small caps**: its source holds 42
+all-caps `LORD` against 54,009 plain `Lord`. So no `GlobalReplacements` rule
+can separate them — `"Lord": "Yahweh"` would rename Adonai and every human
+master too.
+
+`"DivineNames": "yes"` fixes that from the data instead of the string. It uses
+the `divine_names` table, which `scripts/91_build_divine_names.py` builds by
+aligning every Lord/God token against BibleForge's small-caps flag and Strong's
+numbers, addressing each occurrence **by its position in the verse** so the
+third "Lord" of a verse can change while the first does not. The result:
+
+- **Yahweh** — 6,870 occurrences, wherever the KJV printed small caps,
+  including the GOD of "Lord GOD", which therefore reads *Adonai Yahweh*
+- **Adonai** — 436 occurrences, the Old Testament's H136
+- **unchanged** — lowercase *lord* (the estate owner), the Old Testament's
+  human masters, the New Testament's Greek κύριος, and every non-divine *God*
+
+**The definite article goes with the title.** "the LORD" is English convention
+for a *title*; a personal name does not take one, so the article is dropped
+along with the word it belonged to: *"the LORD is my shepherd"* → **"Yahweh is
+my shepherd"**, *"unto the LORD"* → *"unto Yahweh"*, *"the Lord GOD"* →
+*"Adonai Yahweh"*. Leviticus 16:8 comes out with the Hebrew's own parallel
+intact: *"one lot for Yahweh, and the other lot for Azazel."*
+
+111 verses are deliberately skipped: the project's own restorations changed
+their Lord/God token stream (*"Holy Ghost" → "spirit of the Lord"* and the
+like), so the positions no longer address what they were built against. They
+keep their existing reading rather than being guessed at — run
+`python3 scripts/91_build_divine_names.py --list-skipped` to see them all.
+
+Run script 91 once before using the setting; without the table the export
+stops with an explanation rather than publishing a half-converted text. The
+published "Reconstructed KJV in Modern English" has this on, paired with two
+ordinary `GlobalReplacements` rules — `"Jesus": "Yeshua"`, and *scapegoat* →
+**Azazel** in Leviticus 16:8, 10, 26, the reading the Hebrew names and the
+Book of Enoch knows. The 1611-voice edition has none of it.
+
+Those two are worth contrasting with the divine names: *Jesus* and *scapegoat*
+are ordinary settings rules because the words are still *in the text* — you
+could add them to any edition yourself. `DivineNames` needs its own layer only
+because the LORD/Lord distinction is not.
 
 ## Remember a verse differently?
 

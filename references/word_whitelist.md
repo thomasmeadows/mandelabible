@@ -4,7 +4,7 @@
 
 ## Alphabetical list
 
-### Reviewed no-safe-swap words (2440)
+### Reviewed no-safe-swap words (2439)
 
 [a](#a),
 [abide](#abide),
@@ -605,7 +605,6 @@
 [dove's](#dove-s),
 [doves](#doves),
 [down](#down),
-[dragon](#dragon),
 [draw](#draw),
 [draweth](#draweth),
 [drawing](#drawing),
@@ -8439,10 +8438,6 @@ zuzims
 - common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "down", 1138 uses with inflections.)
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (1138 uses with inflections), unlikely to be wrong.**
 
-### dragon
-- King James whitelist review (animal): a named creature (Hebrew tannin/tannim); KJV's dragon-imagery creature-name, not a verb
-  - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1967), owner approved all suggestions.**
-
 ### draw
 - common-88: Owner ruling — extremely common words and unlikely to be wrong: this word occurs more than 88 times in the restored text counting all inflections, so it carries no rarity suspicion and no replacement pass may touch it. (group "draw", 95 uses with inflections.)
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — extremely common word (95 uses with inflections), unlikely to be wrong.**
@@ -15741,5 +15736,6 @@ Names of people and places are transliterations of Hebrew/Greek names, not Engli
 
 ## Excluded from the whitelist (owner ruled a change)
 
+- dragon — OWNER RULING 2026-07-27 (later, supersedes the above): CHANGE to serpent
 - gladness — OWNER RULING 2026-07-27: CHANGE to thankfulness — bible-wide swap
 

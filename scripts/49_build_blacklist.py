@@ -274,6 +274,14 @@ def manual_words():
                  ("sepulchre", "grave"), ("sepulchres", "graves")]:
         out.append((a, b, "bible-wide", swap27_why, HUMAN,
                     "manual word change"))
+    dragon_why = ("owner directive 2026-07-27 (scripts/90_dragons_outside_"
+                  "revelation.py): only the book of Revelation has dragons — "
+                  "its 13 occurrences stand; the 25 elsewhere become serpents, "
+                  "including the Dragon Well of Nehemiah 2:13 and Isaiah 27:1 "
+                  "by explicit owner ruling")
+    for a, b in [("dragon", "serpent"), ("dragons", "serpents")]:
+        out.append((a, b, "bible-wide except Revelation of John", dragon_why,
+                    HUMAN, "manual word change"))
     # the six verses where "talk" is a noun take "speech", not "speak"
     out.append(("talk", "speech",
                 "Job 11:2, Job 15:3, Proverbs 14:23, Ecclesiastes 10:13, "

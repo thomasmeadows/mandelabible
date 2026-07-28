@@ -5,6 +5,14 @@
     "ChangeAppendix": "no",
     "RestorationAppendix": "yes",
     "CustomSettingAppendix": "yes",
-    "GlobalReplacements": {},
+    "DivineNames": "yes",
+    "GlobalReplacements": {
+        "Jesus": "Yeshua",
+        "to be the scapegoat": "for Azazel",
+        "for a scapegoat": "for Azazel",
+        "the scapegoat": "Azazel",
+        "scapegoat": "Azazel",
+        "scape goat": "Azazel"
+    },
     "VerseReplacements": {}
 }

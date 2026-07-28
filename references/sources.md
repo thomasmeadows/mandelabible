@@ -54,6 +54,7 @@ leads — it does not endorse a source's theology or conclusions.
 - The Bible Teaches This — https://thebibleteachesthis.com/mandela-effect-bible-verses-changed/ (engages the claims; catalogues Isaiah 11:6, Exodus 34:14, Matthew 18:20, 1 Timothy 6:10)
 - Artesian Ministries — https://www.artesianministries.org/faith/the-mandela-effect-and-the-bible/ (validates the experience, attributes to memory)
 - No Longer Lukewarm — https://nolongerlukewarm.com/2019/09/08/the-mandela-effect-and-the-character-of-god/ (responds to the believer community)
+- Bible Study ("King James Bible Errors") — https://www.biblestudy.org/basicart/bible-errors.html (owner-cited 2026-07-27 for *scapegoat* → **Azazel**, Leviticus 16:8, 10, 26 — applied in the modern edition, Decision Log #22. Also lists Gen 1:2 *was*/*became*, Gen 10:9, II Kings 2:23, Matt 27:49, Luke 2:14, I John 5:7 and the punctuation of Luke 23:43 — **not** acted on, recorded as leads)
 
 ## VI. Forums & communities (blog sweep)
 

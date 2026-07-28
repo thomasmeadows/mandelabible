@@ -24,6 +24,10 @@ on the output of the previous, so no instance is double-counted):
   12. "a prey"                   -> "prey"           (article removal)
   13. sepulchre / sepulchres     -> grave / graves
 
+and then one verse-scoped repair (VERSE_FIXES), applied after the general rules:
+
+  14. II Samuel 18:27 "Me pondereth" -> "I ponder"
+
 Owner rulings taken during review, 2026-07-27 (the directive as first written
 carried four items that could not be applied mechanically):
 
@@ -37,6 +41,9 @@ carried four items that could not be applied mechanically):
   * "glad tidings" -> "good tidings" (owner's wording: good tidings for all
     verses with tidings), so the gospel set phrase is not turned into
     "thankful tidings" by the general glad -> thankful rule.
+  * II Samuel 18:27 reads "I ponder the running" — the base "Me thinketh" is
+    the EModE impersonal ("it seems to me"), and the word-for-word swap had
+    made it "Me pondereth".
 
 Article corrections requested by the directive ("if necessary correct articles
 before the word"): "a habitation" -> "an abode" (Ezek 25:5) is the only
@@ -72,6 +79,16 @@ NOUN_TALK_REFS = [
     ("Ecclesiastes", 10, 13),
     ("Matthew", 22, 15),
     ("Titus", 1, 10),
+]
+
+# Verse-scoped repairs applied AFTER the general rules, where the swap left a
+# construction the word-for-word map cannot fix (owner ruling 2026-07-27).
+#   (book, chapter, verse, pattern, replacement, key)
+VERSE_FIXES = [
+    # "Me thinketh" is the EModE impersonal ("it seems to me"), which the
+    # think -> ponder swap turned into "Me pondereth". Owner ruling: it reads
+    # "I ponder the running".
+    ("II Samuel", 18, 27, r"\bMe pondereth\b", "I ponder", "me_pondereth"),
 ]
 
 # (key, pattern, replacement) applied in this order to every verse.
@@ -141,6 +158,7 @@ EXPECTED = {
     "a_prey": 34,
     "sepulchres": 16,
     "sepulchre": 54,
+    "me_pondereth": 1,
 }
 
 RATIONALE = (
@@ -152,7 +170,8 @@ RATIONALE = (
     "pondereth, thinking->pondering, habitation->abode, habitations->"
     "dwelling places, sojourn->dwell, sojourned->dwelt, sojourner->dweller, "
     "sojourners->dwellers, sojourneth->dwelleth, sojourning->dwelling, "
-    "a prey->prey, sepulchre->grave, sepulchres->graves."
+    "a prey->prey, sepulchre->grave, sepulchres->graves; and, in II Samuel "
+    "18:27 only, the impersonal 'Me thinketh' -> 'I ponder'."
 )
 
 EVIDENCE = (
@@ -202,19 +221,28 @@ def load_text(con):
     return text
 
 
+def verse_id(con, book, chapter, verse):
+    row = con.execute(
+        "SELECT v.id FROM verses v JOIN books b "
+        "ON b.id = v.book_id AND b.translation = v.translation "
+        "WHERE v.translation='KJV' AND b.name=? AND v.chapter=? "
+        "AND v.verse=?", (book, chapter, verse)).fetchone()
+    if row is None:
+        raise SystemExit(f"REFUSING: verse not found: {book} {chapter}:{verse}")
+    return row[0]
+
+
 def noun_talk_ids(con):
-    ids = set()
-    for book, chapter, verse in NOUN_TALK_REFS:
-        row = con.execute(
-            "SELECT v.id FROM verses v JOIN books b "
-            "ON b.id = v.book_id AND b.translation = v.translation "
-            "WHERE v.translation='KJV' AND b.name=? AND v.chapter=? "
-            "AND v.verse=?", (book, chapter, verse)).fetchone()
-        if row is None:
-            raise SystemExit(
-                f"REFUSING: noun-talk verse not found: {book} {chapter}:{verse}")
-        ids.add(row[0])
-    return ids
+    return {verse_id(con, *ref) for ref in NOUN_TALK_REFS}
+
+
+def verse_fixes_by_id(con):
+    """verse id -> [(pattern, replacement, key)]"""
+    fixes = {}
+    for book, chapter, verse, pattern, replacement, key in VERSE_FIXES:
+        fixes.setdefault(verse_id(con, book, chapter, verse), []).append(
+            (pattern, replacement, key))
+    return fixes
 
 
 def main():
@@ -222,6 +250,7 @@ def main():
     con = sqlite3.connect(DB_PATH)
     text = load_text(con)
     nouns = noun_talk_ids(con)
+    fixes = verse_fixes_by_id(con)
 
     counts = {k: 0 for k in EXPECTED}
     final = {}
@@ -231,6 +260,9 @@ def main():
             t, n = apply_rule(t, r"\btalk\b", "speech")
             counts["noun_talk"] += n
         for key, pattern, replacement in RULES:
+            t, n = apply_rule(t, pattern, replacement)
+            counts[key] += n
+        for pattern, replacement, key in fixes.get(vid, ()):
             t, n = apply_rule(t, pattern, replacement)
             counts[key] += n
         if t != orig:

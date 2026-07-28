@@ -14205,9 +14205,14 @@
 
 ## dragon → NO-SAFE-SWAP — King James whitelist review (animal)
 - verdict: NO-SAFE-SWAP
-- rationale: a named creature (Hebrew tannin/tannim); KJV's dragon-imagery creature-name, not a verb
+- rationale: a named creature (Hebrew tannin/tannim); KJV's dragon-imagery creature-name, not a verb; protection superseded 2026-07-27 outside Revelation
 - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #1967), owner approved all suggestions.**
-- NEW: (no change — whitelisted animal)
+- **OWNER RULING 2026-07-27 (later, supersedes the above): CHANGE to serpent
+  everywhere EXCEPT the book of Revelation — "only the book of Revelation
+  should have dragons" (scripts/90_dragons_outside_revelation.py). 25
+  occurrences replaced; Revelation's 13 stand, so the word is not retired
+  from the text, only from the other 65 books.**
+- NEW: serpent (outside Revelation of John)
 
 ## eagle → NO-SAFE-SWAP — King James whitelist review (animal)
 - verdict: NO-SAFE-SWAP

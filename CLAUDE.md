@@ -109,9 +109,17 @@ JSON — never by editing a script:
 **The publish step** (idempotent; reads the database, never writes to it):
 
 ```bash
+python3 scripts/91_build_divine_names.py   # re-align the divine-name map to the new text
 python3 scripts/17_export_full.py          # repo export, exports/MandelaBible-MVP.{md,pdf}
 python3 scripts/81_publish_site_editions.py  # both site editions + index.html buttons
 ```
+
+`91` comes first because the modern edition's `DivineNames` layer addresses
+each *Lord*/*God* occurrence **by its position in the verse**, so a change that
+adds or removes one of those tokens shifts the positions after it. The layer
+refuses to guess (it re-checks the count and skips the verse with a warning),
+but re-running 91 is what keeps the map correct. Watch its skipped-verse count:
+if it jumps, a restoration has moved a *Lord* token.
 
 `81` writes all four download files into `docs/downloads/` (tracked — GitHub
 Pages serves them) and rewrites the download buttons in `docs/index.html`
@@ -162,12 +170,32 @@ file — no script edits. Two exporters, one shared engine:
 
 Settings keys: `VersionTitle` (required), `BookIndex`, `BookLinks`,
 `ChangeAppendix`, `RestorationAppendix`, `CustomSettingAppendix`,
-`GlobalReplacements`, `VerseReplacements`. Verses carry two markers: `*` = a
+`DivineNames`, `GlobalReplacements`, `VerseReplacements`. Verses carry two markers: `*` = a
 project restoration (Restoration Appendix, the same content
 `17_export_full.py` emits), `†` = changed by this edition's settings (Change
 Appendix). The full reference — including replacement semantics — is
 in the root `README.md` → "Build your own edition"; keep the two in sync when
 changing the engine.
+
+- **`DivineNames` (owner directive 2026-07-27)** — restores the divine name in
+  the *modern* edition only: **Yahweh** where the KJV printed LORD/GOD in small
+  caps (6,870), **Adonai** for the OT's `Lord` (436), leaving lowercase *lord*
+  (a human master), the OT's human `Lord`s, the NT's Greek κύριος, and every
+  non-divine *God* untouched. It cannot be a `GlobalReplacements` rule: the
+  scrollmapper source **flattened the small caps** (42 `LORD` vs 54,009
+  `Lord`), so the distinction is not in the string. `DivineNamesLayer` reads
+  the `divine_names` table — built by `scripts/91_build_divine_names.py` from
+  `bf_words_en.divine` + Strong's — which addresses each occurrence **by its
+  position in the verse's Lord/God token stream**, and re-checks that stream at
+  apply time. Run script 91 after any change to the text; the layer is stacked
+  **last** so the word rules never reshape *Yahweh*/*Adonai*. It also **drops
+  the definite article** in front of a replaced token (owner directive
+  2026-07-27) — "the LORD" is convention for a title, and a personal name takes
+  no article: *"Yahweh is my shepherd"*, *"unto Yahweh"*, *"Adonai Yahweh"*.
+  The published modern edition pairs it with two ordinary settings rules in
+  `custom/site-modern.json`: `Jesus` → `Yeshua` and *scapegoat* → **Azazel**
+  (Leviticus 16:8, 10, 26). Those are settings rules, not engine code, because
+  the words are still in the text — only the LORD/Lord distinction isn't.
 
 Rules worth preserving when editing the engine:
 
