@@ -1,3 +1,40 @@
+| 823 | accusers | 9 | accusers (×9) |  |
+| 830 | baldness | 9 | baldness (×9) |  |
+| 831 | blackness | 9 | blackness (×9) |  |
+| 832 | blossom | 9 | blossom (×6), blossomed (×1), blossoms (×2) |  |
+| 833 | caldron | 9 | caldron (×6), caldrons (×3) |  |
+| 848 | earnest | 9 | earnest (×9) |  |
+| 849 | earthly | 9 | earthly (×9) |  |
+| 860 | flight | 9 | flight (×9) |  |
+| 868 | inasmuch | 9 | inasmuch (×9) |  |
+| 872 | lain | 9 | lain (×9) |  |
+| 874 | lothe | 9 | lothe (×4), lothed (×3), lotheth (×1), lothing (×1) |  |
+| 875 | madness | 9 | madness (×9) |  |
+| 876 | mistress | 9 | mistress (×9) |  |
+| 878 | noonday | 9 | noonday (×9) |  |
+| 880 | pangs | 9 | pangs (×9) |  |
+| 882 | patient | 9 | patient (×9) |  |
+| 883 | poison | 9 | poison (×9) |  |
+| 884 | powder | 9 | powder (×8), powders (×1) |  |
+| 889 | rebellion | 9 | rebellion (×9) |  |
+| 892 | road | 9 | road (×9) |  |
+| 893 | rotten | 9 | rotten (×9) |  |
+| 896 | sheath | 9 | sheath (×9) |  |
+| 897 | shortened | 9 | shortened (×9) |  |
+| 898 | silent | 9 | silent (×9) |  |
+| 901 | sling | 9 | sling (×8), slings (×1) |  |
+| 902 | smith | 9 | smith (×5), smiths (×4) |  |
+| 905 | swarm | 9 | swarm (×4), swarms (×5) |  |
+| 908 | thereunto | 9 | thereunto (×9) |  |
+| 910 | thumb | 9 | thumb (×6), thumbs (×3) |  |
+| 912 | tomb | 9 | tomb (×3), tombs (×6) |  |
+| 913 | trench | 9 | trench (×9) |  |
+| 914 | twilight | 9 | twilight (×9) |  |
+| 915 | unknown | 9 | unknown (×9) |  |
+| 916 | unrighteous | 9 | unrighteous (×9) |  |
+| 919 | virginity | 9 | virginity (×9) |  |
+| 923 | yearly | 9 | yearly (×9) |  |
+| 924 | yesterday | 9 | yesterday (×9) |  |
 | 928 | barn | 10 | barn (×5), barns (×5) |  |
 | 930 | bondwoman | 10 | bondwoman (×10) |  |
 | 932 | bracelets | 10 | bracelets (×10) |  |

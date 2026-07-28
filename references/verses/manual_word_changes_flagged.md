@@ -6,7 +6,8 @@ performeth (×4),
 performing (×2)
 figure -> idol/statue
 review word abroad and have king james agent make suggestions from the white list on each replacement.
-
+restrained -> witheld
+parched -> erase?
 review secret
 | 1848 | tender | 39 | tender (×39) |  |
 | 1852 | accomplish | 40 | accomplish (×13), accomplished (×26), accomplishing (×1) |  |
