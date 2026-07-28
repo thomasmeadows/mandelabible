@@ -277,11 +277,12 @@ because the LORD/Lord distinction is not.
 
 ### The archaism sweep
 
-`custom/site-modern.json` also carries 39 rules from a review of the published
-modern edition by the project's King James agent (full report:
-`references/word_reviews/modern_english_archaisms_review.md`), catching what the
-built-in pass left behind. Proper names and locations were removed from the
-candidate list before the review began, so none could be touched.
+`custom/site-modern.json` carries 113 further rules from two reviews of the
+published modern edition — one by the project's King James agent (full report:
+`references/word_reviews/modern_english_archaisms_review.md`), one a second
+pass working outward from KJV-era idiom rather than down a word list, which is
+what caught the **phrases**. Proper names and locations were removed from the
+candidate list before either review began, so none could be touched.
 
 The valuable ones are **false friends** — where the text reads plausibly but
 wrongly to a modern eye:
@@ -294,10 +295,26 @@ wrongly to a modern eye:
 | *communicate* | share, materially | → `share` |
 | *presently* | at once, immediately | → `immediately` |
 | *naughty* | wicked — a real moral charge | → `wicked` |
+| *dumb* | mute, not stupid | → `mute` (32) |
+| *by and by* | at once — the opposite of today | → `immediately` (4) |
+| *careful* | anxious ("Be careful for nothing") | → `anxious` |
+| *lively* | living (*lively stones*, *lively hope*) | → `living` |
+| *gin* | a trap, not the drink | → `trap` (5) |
+| *seethe* | to boil, not to fume | → `boil` (12) |
 
-Plus plain archaisms: *wroth* → angry (50), *froward* → perverse (23),
-*asunder* → apart (21), *hitherto* → until now (19), *victuals* → provisions
-(17), *privily* → secretly (16), and more.
+Plus plain archaisms — *wroth* → angry (50), *raiment* → clothing (59),
+*damsel* → young woman (53), *husbandman* → farmer (35), *nought* → nothing
+(37), *kine* → cows (24), *froward* → perverse (23), *asunder* → apart (21),
+*hitherto* → until now (19), *thrice* → three times (15) — and whole phrases
+the word-by-word passes cannot see: *to wit* → namely (21), *of a truth* →
+truly (18), *after this manner* → in this way (16), *must needs* → must (12),
+*gave up the ghost* → died (13), *take no thought* → **do not worry** (Matt
+6:25-34, in all five of its word-orders).
+
+`wax` shows why some rules must be phrases: the verb (grow) and the substance
+share a spelling, and *"my heart is like wax; it is melted"* has to survive.
+So *waxed* → grew is a word rule, but the present tense ships as *wax hot*,
+*wax cold*, *wax old* … thirteen collocations.
 
 Some archaic words were deliberately **left alone** because one modern word
 cannot serve every occurrence: *suffer* (mostly "allow", but "the Son of man
