@@ -254,6 +254,34 @@ def manual_words():
                  ("terror", "fear"), ("an error", "a sin"), ("error", "sin"),
                  ("your", "thine"), ("you", "thee")]:
         out.append((a, b, "bible-wide", swap_why, HUMAN, "manual word change"))
+
+    swap27_why = ("owner directive 2026-07-27 (scripts/88_word_swaps_talk_"
+                  "glad_tarry.py), sequential bible-wide pass; the articles "
+                  "before the swapped word corrected with it")
+    for a, b in [("talk", "speak"), ("talked", "spake"),
+                 ("talkest", "speakest"), ("talketh", "speaketh"),
+                 ("talking", "speaking"), ("alway", "always"),
+                 ("glad tidings", "good tidings"),
+                 ("gladness", "thankfulness"), ("glad", "thankful"),
+                 ("tarry", "stay"), ("tarried", "stayed"),
+                 ("tarrying", "staying"), ("think", "ponder"),
+                 ("thinkest", "ponderest"), ("thinketh", "pondereth"),
+                 ("thinking", "pondering"), ("habitation", "abode"),
+                 ("habitations", "dwelling places"), ("sojourn", "dwell"),
+                 ("sojourned", "dwelt"), ("sojourner", "dweller"),
+                 ("sojourners", "dwellers"), ("sojourneth", "dwelleth"),
+                 ("sojourning", "dwelling"), ("a prey", "prey"),
+                 ("sepulchre", "grave"), ("sepulchres", "graves")]:
+        out.append((a, b, "bible-wide", swap27_why, HUMAN,
+                    "manual word change"))
+    # the six verses where "talk" is a noun take "speech", not "speak"
+    out.append(("talk", "speech",
+                "Job 11:2, Job 15:3, Proverbs 14:23, Ecclesiastes 10:13, "
+                "Matthew 22:15, Titus 1:10",
+                "owner ruling 2026-07-27: in these six verses *talk* is a "
+                "noun, so it takes *speech*; the other 20 occurrences are "
+                "verbs and take *speak* (scripts/88_word_swaps_talk_glad_"
+                "tarry.py)", HUMAN, "manual word change"))
     return out
 
 

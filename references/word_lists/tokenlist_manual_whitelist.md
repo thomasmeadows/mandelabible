@@ -1,30 +1,12 @@
-| 925 | accusation | 10 | accusation (×10) |  |
-| 926 | affection | 10 | affection (×5), affectioned (×1), affections (×4) |  |
-| 927 | alarm | 10 | alarm (×10) |  |
 | 928 | barn | 10 | barn (×5), barns (×5) |  |
-| 929 | bewail | 10 | bewail (×6), bewailed (×3), bewaileth (×1) |  |
 | 930 | bondwoman | 10 | bondwoman (×10) |  |
-| 931 | booth | 10 | booth (×1), booths (×9) |  |
 | 932 | bracelets | 10 | bracelets (×10) |  |
 | 933 | brim | 10 | brim (×10) |  |
 | 934 | broidered | 10 | broidered (×10) |  |
-| 935 | burst | 10 | burst (×9), bursting (×1) |  |
 | 936 | conceal | 10 | conceal (×6), concealed (×2), concealeth (×2) |  |
-| 937 | convenient | 10 | convenient (×10) |  |
-| 938 | copy | 10 | copied (×1), copy (×9) |  |
-| 939 | danger | 10 | danger (×10) |  |
-| 940 | dearly | 10 | dearly (×10) |  |
-| 941 | debt | 10 | debt (×9), debts (×1) |  |
-| 942 | debtor | 10 | debtor (×6), debtors (×4) |  |
-| 943 | dedication | 10 | dedication (×10) |  |
 | 944 | discretion | 10 | discretion (×10) |  |
-| 945 | dish | 10 | dish (×4), dishes (×6) |  |
 | 946 | divorce | 10 | divorce (×7), divorced (×3) |  |
 | 947 | drought | 10 | drought (×10) |  |
-| 948 | encourage | 10 | encourage (×5), encouraged (×5) |  |
-| 949 | ere | 10 | ere (×10) |  |
-| 950 | exhortation | 10 | exhortation (×10) |  |
-| 951 | famous | 10 | famous (×10) |  |
 | 952 | fellowservant | 10 | fellowservant (×6), fellowservants (×4) |  |
 | 953 | fever | 10 | fever (×10) |  |
 | 954 | forefront | 10 | forefront (×10) |  |
@@ -56,15 +38,9 @@
 | 980 | pine | 10 | pine (×8), pineth (×1), pining (×1) |  |
 | 981 | plate | 10 | plate (×3), plates (×7) |  |
 | 982 | preparation | 10 | preparation (×9), preparations (×1) |  |
-| 983 | promote | 10 | promote (×5), promoted (×5) |  |
 | 984 | relieve | 10 | relieve (×8), relieved (×1), relieveth (×1) |  |
 | 985 | remission | 10 | remission (×10) |  |
-| 986 | repay | 10 | repay (×8), repayed (×1), repayeth (×1) |  |
 | 987 | sheaf | 10 | sheaf (×10) |  |
-| 988 | sheaves | 10 | sheaves (×10) |  |
-| 989 | signify | 10 | signified (×2), signify (×4), signifying (×4) |  |
-| 990 | slack | 10 | slack (×9), slacked (×1) |  |
-| 991 | soft | 10 | soft (×10) |  |
 | 992 | stedfastly | 10 | stedfastly (×10) |  |
 | 993 | sunrising | 10 | sunrising (×10) |  |
 | 994 | thread | 10 | thread (×10) |  |
@@ -72,43 +48,29 @@
 | 996 | timbrel | 10 | timbrel (×5), timbrels (×5) |  |
 | 997 | treacherous | 10 | treacherous (×10) |  |
 | 998 | vehemently | 10 | vehemently (×10) |  |
-| 999 | vintage | 10 | vintage (×10) |  |
-| 1000 | violently | 10 | violently (×10) |  |
 | 1001 | worshipper | 10 | worshipper (×2), worshippers (×8) |  |
 | 1002 | wot | 10 | wot (×10) |  |
 | 1003 | absent | 11 | absent (×11) |  |
 | 1004 | acquaintance | 11 | acquaintance (×11) |  |
 | 1005 | almost | 11 | almost (×11) |  |
 | 1006 | beforetime | 11 | beforetime (×11) |  |
-| 1007 | bend | 11 | bend (×8), bendeth (×2), bending (×1) |  |
 | 1008 | bite | 11 | bite (×9), biteth (×2) |  |
 | 1009 | bitterly | 11 | bitterly (×11) |  |
 | 1010 | bold | 11 | bold (×11) |  |
-| 1011 | bridle | 11 | bridle (×9), bridles (×1), bridleth (×1) |  |
 | 1012 | butter | 11 | butter (×11) |  |
 | 1013 | carnal | 11 | carnal (×11) |  |
-| 1014 | cheer | 11 | cheer (×10), cheereth (×1) |  |
-| 1015 | compare | 11 | compare (×4), compared (×5), comparing (×2) |  |
-| 1016 | correct | 11 | correct (×7), corrected (×2), correcteth (×2) |  |
 | 1017 | cud | 11 | cud (×11) |  |
 | 1018 | damnation | 11 | damnation (×11) |  |
 | 1019 | defy | 11 | defied (×6), defy (×5) |  |
 | 1020 | demand | 11 | demand (×4), demanded (×7) |  |
 | 1021 | devout | 11 | devout (×11) |  |
-| 1022 | exact | 11 | exact (×8), exacted (×2), exacteth (×1) |  |
-| 1023 | excel | 11 | excel (×5), excelled (×1), excellest (×1), excelleth (×4) |  |
 | 1024 | fearful | 11 | fearful (×11) |  |
-| 1025 | fetters | 11 | fetters (×11) |  |
 | 1026 | figure | 11 | figure (×8), figures (×3) |  |
 | 1027 | forgave | 11 | forgave (×9), forgavest (×2) |  |
 | 1028 | forthwith | 11 | forthwith (×11) |  |
-| 1029 | frame | 11 | frame (×5), framed (×4), frameth (×2) |  |
-| 1030 | glass | 11 | glass (×9), glasses (×2) |  |
 | 1031 | halt | 11 | halt (×6), halted (×2), halteth (×2), halting (×1) |  |
-| 1032 | hammer | 11 | hammer (×8), hammers (×3) |  |
 | 1033 | hardly | 11 | hardly (×11) |  |
-| 1034 | heel | 11 | heel (×6), heels (×5) |  |
-| 1035 | hiss | 11 | hiss (×11) |  |
+| 1034 | heel | 11 | heel (×6), heels (×5) | 
 | 1036 | hollow | 11 | hollow (×11) |  |
 | 1037 | idle | 11 | idle (×11) |  |
 | 1038 | intercession | 11 | intercession (×10), intercessions (×1) |  |

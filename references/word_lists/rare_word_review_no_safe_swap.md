@@ -2643,9 +2643,12 @@
 
 ## gladness → NO-SAFE-SWAP — round-4
 - verdict: NO-SAFE-SWAP
-- rationale: Round-4 owner ruling — keep + whitelist.
+- rationale: Round-4 owner ruling — keep + whitelist; superseded 2026-07-27.
 - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
-- NEW: (no change — round-4 protected word)
+- **OWNER RULING 2026-07-27: CHANGE to thankfulness — bible-wide swap
+  directive (scripts/88_word_swaps_talk_glad_tarry.py) supersedes the round-4
+  protection; all 48 occurrences replaced.**
+- NEW: thankfulness
 
 ## gnats → NO-SAFE-SWAP — round-4
 - verdict: NO-SAFE-SWAP

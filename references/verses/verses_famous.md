@@ -2,7 +2,7 @@
 
 *A collection of well-known and frequently-quoted verses. Each entry shows the **current Mandela Bible reading** — the base KJV with all owner-approved restorations applied, exactly as the MVP export is built (`scripts/17_export_full.py`) — and notes whether that verse has been **changed** from the base KJV. Changed verses (marked \* in the index) also show the base “was” reading.*
 
-**390 verses** — 86 changed from base KJV, 304 unchanged. Source of truth: `db/mandela.db`. Click any reference to jump to it.
+**390 verses** — 91 changed from base KJV, 299 unchanged. Source of truth: `db/mandela.db`. Click any reference to jump to it.
 
 [Genesis 1:1*](#genesis-1-1),
 [Genesis 1:3](#genesis-1-3),
@@ -17,7 +17,7 @@
 [Genesis 50:20](#genesis-50-20),
 [Exodus 3:14](#exodus-3-14),
 [Exodus 14:14](#exodus-14-14),
-[Exodus 15:2](#exodus-15-2),
+[Exodus 15:2*](#exodus-15-2),
 [Exodus 20:3](#exodus-20-3),
 [Exodus 20:12](#exodus-20-12),
 [Exodus 20:13](#exodus-20-13),
@@ -31,7 +31,7 @@
 [Numbers 23:19](#numbers-23-19),
 [Deuteronomy 6:5](#deuteronomy-6-5),
 [Deuteronomy 6:6](#deuteronomy-6-6),
-[Deuteronomy 6:7](#deuteronomy-6-7),
+[Deuteronomy 6:7*](#deuteronomy-6-7),
 [Deuteronomy 31:6](#deuteronomy-31-6),
 [Deuteronomy 31:8](#deuteronomy-31-8),
 [Joshua 1:8*](#joshua-1-8),
@@ -99,7 +99,7 @@
 [Psalms 103:1](#psalms-103-1),
 [Psalms 103:2](#psalms-103-2),
 [Psalms 103:12](#psalms-103-12),
-[Psalms 118:24](#psalms-118-24),
+[Psalms 118:24*](#psalms-118-24),
 [Psalms 119:11](#psalms-119-11),
 [Psalms 119:105](#psalms-119-105),
 [Psalms 121:1](#psalms-121-1),
@@ -327,7 +327,7 @@
 [Ephesians 2:8](#ephesians-2-8),
 [Ephesians 2:9](#ephesians-2-9),
 [Ephesians 2:10](#ephesians-2-10),
-[Ephesians 3:20](#ephesians-3-20),
+[Ephesians 3:20*](#ephesians-3-20),
 [Ephesians 4:32*](#ephesians-4-32),
 [Ephesians 6:10](#ephesians-6-10),
 [Ephesians 6:11*](#ephesians-6-11),
@@ -337,7 +337,7 @@
 [Philippians 2:4](#philippians-2-4),
 [Philippians 4:6](#philippians-4-6),
 [Philippians 4:7](#philippians-4-7),
-[Philippians 4:8](#philippians-4-8),
+[Philippians 4:8*](#philippians-4-8),
 [Philippians 4:11](#philippians-4-11),
 [Philippians 4:13](#philippians-4-13),
 [Philippians 4:19](#philippians-4-19),
@@ -468,10 +468,11 @@
 
 - **Changed:** no — matches the base KJV.
 
-#### <a name="exodus-15-2"></a>Exodus 15:2
-> The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.
+#### <a name="exodus-15-2"></a>Exodus 15:2*
+> The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an abode; my father’s God, and I will exalt him.
 
-- **Changed:** no — matches the base KJV.
+- **Changed:** yes — differs from the base KJV.
+- **Base KJV (was):** The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.
 
 #### <a name="exodus-20-3"></a>Exodus 20:3
 > Thou shalt have no other gods before me.
@@ -538,10 +539,11 @@
 
 - **Changed:** no — matches the base KJV.
 
-#### <a name="deuteronomy-6-7"></a>Deuteronomy 6:7
-> And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
+#### <a name="deuteronomy-6-7"></a>Deuteronomy 6:7*
+> And thou shalt teach them diligently unto thy children, and shalt speak of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
 
-- **Changed:** no — matches the base KJV.
+- **Changed:** yes — differs from the base KJV.
+- **Base KJV (was):** And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
 
 #### <a name="deuteronomy-31-6"></a>Deuteronomy 31:6
 > Be strong and of a good courage, fear not, nor be afraid of them: for the Lord thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.
@@ -883,10 +885,11 @@
 
 - **Changed:** no — matches the base KJV.
 
-#### <a name="psalms-118-24"></a>Psalms 118:24
-> This is the day which the Lord hath made; we will rejoice and be glad in it.
+#### <a name="psalms-118-24"></a>Psalms 118:24*
+> This is the day which the Lord hath made; we will rejoice and be thankful in it.
 
-- **Changed:** no — matches the base KJV.
+- **Changed:** yes — differs from the base KJV.
+- **Base KJV (was):** This is the day which the Lord hath made; we will rejoice and be glad in it.
 
 #### <a name="psalms-119-11"></a>Psalms 119:11
 > Thy word have I hid in mine heart, that I might not sin against thee.
@@ -1280,7 +1283,7 @@
 - **Base KJV (was):** The heart is deceitful above all things, and desperately wicked: who can know it?
 
 #### <a name="jeremiah-29-11"></a>Jeremiah 29:11*
-> For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you hope in your latter end.
+> For I know the thoughts that I ponder toward thee, saith the Lord, thoughts of peace, and not of evil, to give thee hope in thy latter end.
 
 - **Changed:** yes — differs from the base KJV.
 - **Base KJV (was):** For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end.
@@ -1455,7 +1458,7 @@
 - **Base KJV (was):** Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
 
 #### <a name="matthew-5-12"></a>Matthew 5:12*
-> Rejoice, and be exceedingly glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
+> Rejoice, and be exceedingly thankful: for great is thy reward in heaven: for so persecuted they the prophets which were before thee.
 
 - **Changed:** yes — differs from the base KJV.
 - **Base KJV (was):** Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
@@ -1579,7 +1582,7 @@
 - **Base KJV (was):** Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
 
 #### <a name="matthew-28-20"></a>Matthew 28:20*
-> Teaching them to observe all things whatsoever I have commanded you: and, Lo, I am with you alway, even unto the end of the Age. Amen.
+> Teaching them to observe all things whatsoever I have commanded thee: and, Lo, I am with thee always, even unto the end of the Age. Amen.
 
 - **Changed:** yes — differs from the base KJV.
 - **Base KJV (was):** Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.  
@@ -1960,7 +1963,7 @@
 - **Base KJV (was):** Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
 
 #### <a name="1-corinthians-13-5"></a>1 Corinthians 13:5*
-> Doth not behave itself ill, seeketh not her own, is not quickly provoked, thinketh no evil;
+> Doth not behave itself ill, seeketh not her own, is not quickly provoked, pondereth no evil;
 
 - **Changed:** yes — differs from the base KJV.
 - **Base KJV (was):** Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
@@ -2077,10 +2080,11 @@
 
 - **Changed:** no — matches the base KJV.
 
-#### <a name="ephesians-3-20"></a>Ephesians 3:20
-> Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,
+#### <a name="ephesians-3-20"></a>Ephesians 3:20*
+> Now unto him that is able to do exceeding abundantly above all that we ask or ponder, according to the power that worketh in us,
 
-- **Changed:** no — matches the base KJV.
+- **Changed:** yes — differs from the base KJV.
+- **Base KJV (was):** Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,
 
 #### <a name="ephesians-4-32"></a>Ephesians 4:32*
 > And be ye kind one to another, pitiful, forgiving one another, even as God for Christ's sake hath forgiven you.
@@ -2132,10 +2136,11 @@
 
 - **Changed:** no — matches the base KJV.
 
-#### <a name="philippians-4-8"></a>Philippians 4:8
-> Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
+#### <a name="philippians-4-8"></a>Philippians 4:8*
+> Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, ponder on these things.
 
-- **Changed:** no — matches the base KJV.
+- **Changed:** yes — differs from the base KJV.
+- **Base KJV (was):** Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
 
 #### <a name="philippians-4-11"></a>Philippians 4:11
 > Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.

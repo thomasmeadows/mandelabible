@@ -4,7 +4,7 @@
 
 ## Alphabetical list
 
-### Reviewed no-safe-swap words (2441)
+### Reviewed no-safe-swap words (2440)
 
 [a](#a),
 [abide](#abide),
@@ -902,7 +902,6 @@
 [give](#give),
 [given](#given),
 [gives](#gives),
-[gladness](#gladness),
 [gleanings](#gleanings),
 [glory](#glory),
 [glutton](#glutton),
@@ -9615,10 +9614,6 @@ zuzims
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
 
-### gladness
-- round-4: Round-4 owner ruling — keep + whitelist.
-  - **OWNER RULING 2026-07-21: DO NOT CHANGE — round-4 review.**
-
 ### gleanings
 - round-5: Round-5 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-22: DO NOT CHANGE — round-5 review.**
@@ -15743,4 +15738,8 @@ zuzims
 ### Proper names and places rationale
 
 Names of people and places are transliterations of Hebrew/Greek names, not English vocabulary — rarity and era-attestation checks do not apply, so they are never altered by word replacement. Spelling changes belong exclusively to the original-language name-retranslation workstream (roadmap Decision Log #8).
+
+## Excluded from the whitelist (owner ruled a change)
+
+- gladness — OWNER RULING 2026-07-27: CHANGE to thankfulness — bible-wide swap
 

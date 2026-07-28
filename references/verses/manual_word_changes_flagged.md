@@ -1,35 +1,4 @@
-| 2231 | talk | 83 | talk (×26), talked (×42), talkest (×3), talketh (×2), talking (×10) |  |
 
-Should be speak, spoke, spake, spoken, speaking
-
-alway -> always
-
-gladness -> thankfulness
-glad -> thankful
-
-tarry -> stay
-tarried -> stayed
-tarrying -> staying
-
-think -> ponder
-thinkest -> ponderest
-thinketh -> pondereth
-thinking -> pondering
-
-habitation -> abode
-habitations -< dwelling places
-
-sojourn -> dwell
-sojourned -> dwelt
-sojourner -> dweller
-sojourners -> dwellers
-sojourneth -> dwell
-sojourning -> dwelling
-
-a prey -> prey
-
-sepulchre -> grave
-sepulchres -> graves
 
 perform (×42), 
 performed (×21), - keep?
