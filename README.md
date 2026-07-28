@@ -275,6 +275,37 @@ are ordinary settings rules because the words are still *in the text* — you
 could add them to any edition yourself. `DivineNames` needs its own layer only
 because the LORD/Lord distinction is not.
 
+### The archaism sweep
+
+`custom/site-modern.json` also carries 39 rules from a review of the published
+modern edition by the project's King James agent (full report:
+`references/word_reviews/modern_english_archaisms_review.md`), catching what the
+built-in pass left behind. Proper names and locations were removed from the
+candidate list before the review began, so none could be touched.
+
+The valuable ones are **false friends** — where the text reads plausibly but
+wrongly to a modern eye:
+
+| Reads like | Actually means | Rule |
+|---|---|---|
+| *conversation* | conduct, manner of life | → `conduct` (20) |
+| *carriage* | baggage, what you carry | → `baggage` (6) |
+| *prevent* | go before, precede | → `precede` (18) |
+| *communicate* | share, materially | → `share` |
+| *presently* | at once, immediately | → `immediately` |
+| *naughty* | wicked — a real moral charge | → `wicked` |
+
+Plus plain archaisms: *wroth* → angry (50), *froward* → perverse (23),
+*asunder* → apart (21), *hitherto* → until now (19), *victuals* → provisions
+(17), *privily* → secretly (16), and more.
+
+Some archaic words were deliberately **left alone** because one modern word
+cannot serve every occurrence: *suffer* (mostly "allow", but "the Son of man
+must suffer many things" carries the modern sense), *meat offering* (a
+liturgical term of art, 199 times), *quick*, *meet*, *curious*, *abroad*,
+*halt*. Those need per-verse handling, which is what `VerseReplacements` is
+for.
+
 ## Remember a verse differently?
 
 Memory testimony is the project's primary evidence. Open an issue with the

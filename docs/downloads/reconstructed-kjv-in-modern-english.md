@@ -1,6 +1,6 @@
 # Reconstructed KJV in Modern English
 
-*A custom edition of The Mandela Bible. Base text: the restored King James Bible with 7610 owner-approved restorations applied. Layers on top of it: site settings (site-original.json) → modernization (built-in rules + site-modern.json) → divine names (Yahweh / Adonai). 19922 verses differ from the restored text. * marks a verse restored from the base King James text (Restoration Appendix).*
+*A custom edition of The Mandela Bible. Base text: the restored King James Bible with 7610 owner-approved restorations applied. Layers on top of it: site settings (site-original.json) → modernization (built-in rules + site-modern.json) → divine names (Yahweh / Adonai). 20019 verses differ from the restored text. * marks a verse restored from the base King James text (Restoration Appendix).*
 
 ## Contents
 
@@ -138,7 +138,7 @@
 **25** And they were both naked, the man and his wife, and were not ashamed. 
 ### Chapter 3
 
-**1** Now the serpent was more subtil than any beast of the field which Yahweh God had made. And he said to the woman, Yes, has God said, You shall not eat of every tree of the garden?
+**1** Now the serpent was more crafty than any beast of the field which Yahweh God had made. And he said to the woman, Yes, has God said, You shall not eat of every tree of the garden?
 **2** And the woman said to the serpent, We may eat of the fruit of the trees of the garden:
 **3** But of the fruit of the tree which is in the midst of the garden, God has said, You shall not eat of it, neither shall you touch it, lest you die.
 **4** And the serpent said to the woman, You shall not surely die:
@@ -150,7 +150,7 @@
 **10** And he said, I heard your voice in the garden, and I was afraid, because I was naked; and I hid myself.
 **11** And he said, Who told you that you were naked? Have you eaten of the tree, whereof I commanded you that you should not eat?
 **12*** And the man said, The woman whom you gave me, she gave me of the tree, and I did eat.
-**13** And Yahweh God said to the woman, What is this that you have done? And the woman said, The serpent beguiled me, and I did eat.
+**13** And Yahweh God said to the woman, What is this that you have done? And the woman said, The serpent deceived me, and I did eat.
 **14** And Yahweh God said to the serpent, Because you have done this, you are cursed above all cattle, and above every beast of the field; upon your belly shall you go, and dust shall you eat all the days of your life:
 **15*** And I will put enmity between you and the woman, and between your seed and her seed; he shall bruise your head, and you shall bruise his heel.
 **16*** To the woman he said, I will greatly multiply your sorrow and your birth pain; in sorrow you shall bring forth children; and your desire shall be to your husband, and he shall rule over you.
@@ -168,8 +168,8 @@
 **2*** And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was an husbandman of the ground.
 **3** And in process of time it came to pass, that Cain brought of the fruit of the ground an offering to Yahweh.
 **4** And Abel, he also brought of the firstlings of his flock and of the fat thereof. And Yahweh had respect to Abel and to his offering:
-**5** But to Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.
-**6** And Yahweh said to Cain, Why are you wroth? and why is your countenance fallen?
+**5** But to Cain and to his offering he had not respect. And Cain was very angry, and his countenance fell.
+**6** And Yahweh said to Cain, Why are you angry? and why is your countenance fallen?
 **7*** If you do well, shall you not be accepted? and if you do not well, sin lies at the door. And to you shall be his desire, and you shall rule over him.
 **8*** And Cain spoke with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 **9** And Yahweh said to Cain, Where is Abel your brother? And he said, I know not: Am I my brother’s keeper?
@@ -451,7 +451,7 @@
 **8*** And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela the same is Zoar; and they joined battle with them in the vale of Siddim;
 **9** With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.
 **10*** And the vale of Siddim was full of pits of pitch; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.
-**11** And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.
+**11** And they took all the goods of Sodom and Gomorrah, and all their provisions, and went their way.
 **12** And they took Lot, Abram’s brother’s son, who dwelt in Sodom, and his goods, and departed.
 **13*** And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these were in conspiracy with Abram.
 **14** And when Abram heard that his brother was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them to Dan.
@@ -892,7 +892,7 @@
 **32** And Isaac his father said to him, Who are you? And he said, I am your son, your firstborn Esau.
 **33** And Isaac trembled very exceedingly, and said, Who? where is he that has taken venison, and brought it me, and I have eaten of all before you came, and have blessed him? yes, and he shall be blessed.
 **34** And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said to his father, Bless me, even me also, O my father.
-**35** And he said, Your brother came with subtilty, and has taken away your blessing.
+**35** And he said, Your brother came with craftiness, and has taken away your blessing.
 **36*** And he said, Is not he rightly named Jacob? for he has deceived me these two times: he took away my birthright; and, behold, now he has taken away my blessing. And he said, Have you not reserved a blessing for me?
 **37*** And Isaac answered and said to Esau, Behold, I have made him your lord, and all his brethren have I given to him for servants; and with wheat and wine have I sustained him: and what shall I do now to you, my son?
 **38** And Esau said to his father, Have you but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
@@ -954,7 +954,7 @@
 **22** And Laban gathered together all the men of the place, and made a feast.
 **23** And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in to her.
 **24** And Laban gave to his daughter Leah Zilpah his maid for an handmaid.
-**25** And it came to pass, that in the morning, behold, it was Leah: and he said to Laban, What is this you have done to me? did not I serve with you for Rachel? wherefore then have you beguiled me?
+**25** And it came to pass, that in the morning, behold, it was Leah: and he said to Laban, What is this you have done to me? did not I serve with you for Rachel? wherefore then have you deceived me?
 **26** And Laban said, It must not be so done in our country, to give the younger before the firstborn.
 **27** Fulfil her week, and we will give you this also for the service which you shall serve with me yet seven other years.
 **28** And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also.
@@ -1047,7 +1047,7 @@
 **33** And Laban went into Jacob’s tent, and into Leah’s tent, and into the two maidservants’ tents; but he found them not. Then went he out of Leah’s tent, and entered into Rachel’s tent.
 **34*** Now Rachel had taken the idols, and put them in the camel's saddle, and sat upon them. And Laban searched all the tent, but found them not.
 **35** And she said to her father, Let it not displease my lord that I cannot rise up before you; for the custom of women is upon me. And he searched, but found not the images.
-**36*** And Jacob was wroth, and contended with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that you have so vehemently pursued after me?
+**36*** And Jacob was angry, and contended with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that you have so vehemently pursued after me?
 **37*** Whereas you have searched all my goods, what have you found of all your household possessions? Set it here before my brethren and your brethren, that they may judge between us both.
 **38** This twenty years have I been with you; your ewes and your she goats have not cast their young, and the rams of your flock have I not eaten.
 **39** That which was torn of beasts I brought not to you; I bare the loss of it; of my hand did you require it, whether stolen by day, or stolen by night.
@@ -1131,7 +1131,7 @@
 **4** And Shechem spoke to his father Hamor, saying, Get me this damsel to wife.
 **5** And Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come.
 **6** And Hamor the father of Shechem went out to Jacob to commune with him.
-**7** And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob’s daughter; which thing ought not to be done.
+**7** And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very angry, because he had wrought folly in Israel in lying with Jacob’s daughter; which thing ought not to be done.
 **8*** And Hamor communed with them, saying, The soul of my son Shechem longs for your daughter: I pray you give her him to wife.
 **9*** And make you marriages with us, and give your daughters to us, and take our daughters to you.
 **10*** And you shall dwell with us: and the land shall be before you; dwell and trade you therein, and get you possessions therein.
@@ -1330,7 +1330,7 @@
 ### Chapter 40
 
 **1** And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
-**2*** And Pharaoh was wroth against two of his officers, against the head of the butlers, and against the head of the bakers.
+**2*** And Pharaoh was angry against two of his officers, against the head of the butlers, and against the head of the bakers.
 **3** And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound.
 **4** And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward.
 **5** And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison.
@@ -1363,7 +1363,7 @@
 **7*** And the seven thin ears devoured the seven rank and full ears. And Pharaoh arose, and, behold, it was a dream.
 **8** And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but there was none that could interpret them to Pharaoh.
 **9*** Then spoke the head butler to Pharaoh, saying, I do remember my faults this day:
-**10*** Pharaoh was wroth with his servants, and put me in ward in the captain of the guard’s house, both me and the head baker:
+**10*** Pharaoh was angry with his servants, and put me in ward in the captain of the guard’s house, both me and the head baker:
 **11** And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream.
 **12** And there was there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret.
 **13** And it came to pass, as he interpreted to us, so it was; me he restored to mine office, and him he hanged.
@@ -1800,7 +1800,7 @@
 **7** And he said, Put your hand into your bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh.
 **8** And it shall come to pass, if they will not believe you, neither listen to the voice of the first sign, that they will believe the voice of the latter sign.
 **9** And it shall come to pass, if they will not believe also these two signs, neither listen to your voice, that you shall take of the water of the river, and pour it upon the dry land: and the water which you take out of the river shall become blood upon the dry land.
-**10*** And Moses said to Yahweh, O my Adonai, I am not a noble, neither heretofore, nor since you have spoken to your servant: but I am slow of speech, and of a slow tongue.
+**10*** And Moses said to Yahweh, O my Adonai, I am not a noble, neither previously, nor since you have spoken to your servant: but I am slow of speech, and of a slow tongue.
 **11** And Yahweh said to him, Who has made man’s mouth? or who makes the dumb, or deaf, or the seeing, or the blind? have not I Yahweh?
 **12** Now therefore go, and I will be with your mouth, and teach you what you shall say.
 **13** And he said, O my Adonai, send, I pray you, by the hand of him whom you will send.
@@ -1830,14 +1830,14 @@
 **4*** And the king of Egypt said to them, Wherefore do you, Moses and Aaron, let the people from their works? get you to your burdens.
 **5** And Pharaoh said, Behold, the people of the land now are many, and you make them rest from their burdens.
 **6** And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,
-**7** You shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves.
-**8** And the tale of the bricks, which they did make heretofore, you shall lay upon them; you shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God.
+**7** You shall no more give the people straw to make brick, as previously: let them go and gather straw for themselves.
+**8** And the tale of the bricks, which they did make previously, you shall lay upon them; you shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God.
 **9** Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words.
 **10*** And the taskmasters of the people went out, and their officers, and they spoke to the people, saying, Thus says Pharaoh, I will not give you straw.
 **11*** Go you, get you straw where you can find it: yet not ought of your work shall be diminished.
 **12** So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw.
 **13*** And the taskmasters hasted them, saying, Fulfil your works, your daily work, as when there was straw.
-**14*** And the officers of the children of Israel, which Pharaoh's taskmasters had set over them, were beaten, and demanded, Wherefore have you not fulfilled your portion in making brick both yesterday and to day, as heretofore?
+**14*** And the officers of the children of Israel, which Pharaoh's taskmasters had set over them, were beaten, and demanded, Wherefore have you not fulfilled your portion in making brick both yesterday and to day, as previously?
 **15** Then the officers of the children of Israel came and cried to Pharaoh, saying, Wherefore deal you thus with your servants?
 **16** There is no straw given to your servants, and they say to us, Make brick: and, behold, your servants are beaten; but the fault is in your own people.
 **17** But he said, You are idle, you are idle: therefore you say, Let us go and do sacrifice to Yahweh.
@@ -1896,7 +1896,7 @@
 **13** And he hardened Pharaoh’s heart, that he hearkened not to them; as Yahweh had said.
 **14** And Yahweh said to Moses, Pharaoh’s heart is hardened, he refuses to let the people go.
 **15*** Get you to Pharaoh in the morning; lo, he goes out to the water; and you shall stand by the river's edge to meet him; and the rod which was turned to a serpent shall you take in your hand.
-**16** And you shall say to him, Yahweh God of the Hebrews has sent me to you, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto you would not hear.
+**16** And you shall say to him, Yahweh God of the Hebrews has sent me to you, saying, Let my people go, that they may serve me in the wilderness: and, behold, until now you would not hear.
 **17** Thus says Yahweh, In this you shall know that I am Yahweh: behold, I will smite with the rod that is in mine hand upon the waters which are in the river, and they shall be turned to blood.
 **18** And the fish that is in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river.
 **19** And Yahweh spoke to Moses, Say to Aaron, Take your rod, and stretch out your hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone.
@@ -2030,7 +2030,7 @@
 **6** And you shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening.
 **7** And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it.
 **8** And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it.
-**9*** Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the inwards thereof.
+**9*** Eat not of it raw, nor boiled at all with water, but roast with fire; his head with his legs, and with the inwards thereof.
 **10** And you shall let nothing of it remain until the morning; and that which remains of it until the morning you shall burn with fire.
 **11*** And thus shall you eat it; with your loins adorned, your shoes on your feet, and your staff in your hand; and you shall eat it in haste: it is Yahweh’s passover.
 **12** For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am Yahweh.
@@ -2060,7 +2060,7 @@
 **36*** And Yahweh gave the people favour in the sight of the Egyptians, so that they gave to them such things as they required. And they spoiled the Egyptians.
 **37** And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children.
 **38** And a mixed multitude went up also with them; and flocks, and herds, even very much cattle.
-**39*** And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not stay, neither had they prepared for themselves any victual.
+**39*** And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not stay, neither had they prepared for themselves any food.
 **40*** Now the dwelling of the children of Israel, who dwelt in Egypt, was four hundred and thirty years.
 **41** And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of Yahweh went out from the land of Egypt.
 **42** It is a night to be much observed to Yahweh for bringing them out from the land of Egypt: this is that night of Yahweh to be observed of all the children of Israel in their generations.
@@ -2178,9 +2178,9 @@
 **15*** And when the children of Israel saw it, they said one to another, It is manna: for they knew not what it was. And Moses said to them, This is the bread which Yahweh has given you to eat.
 **16*** This is the thing which Yahweh has commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take you every man for them which are in his tents.
 **17** And the children of Israel did so, and gathered, some more, some less.
-**18** And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.
+**18** And when they did measure it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.
 **19** And Moses said, Let no man leave of it till the morning.
-**20*** Notwithstanding they hearkened not to Moses; but some of them left of it until the morning, and it brought forth worms, and stank: and Moses was wroth with them.
+**20*** Notwithstanding they hearkened not to Moses; but some of them left of it until the morning, and it brought forth worms, and stank: and Moses was angry with them.
 **21** And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted.
 **22** And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses.
 **23*** And he said to them, This is that which Yahweh has said, To morrow is the rest of the holy sabbath to Yahweh: bake that which you will bake to day, and seethe that you will seethe; and that which remains over lay up for you to be kept until the morning.
@@ -3030,7 +3030,7 @@
 **14** And if the burnt sacrifice for his offering to Yahweh be of fowls, then he shall bring his offering of turtledoves, or of young pigeons.
 **15** And the priest shall bring it to the altar, and wring off his head, and burn it on the altar; and the blood thereof shall be wrung out at the side of the altar:
 **16*** And he shall pluck away his inwards with his feathers, and cast it beside the altar on the east part, by the place of the ashes:
-**17** And he shall cleave it with the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour to Yahweh. 
+**17** And he shall cleave it with the wings thereof, but shall not divide it apart: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour to Yahweh. 
 ### Chapter 2
 
 **1** And when any will offer a meat offering to Yahweh, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:
@@ -3114,7 +3114,7 @@
 **5** And it shall be, when he shall be guilty in one of these things, that he shall confess that he has sinned in that thing:
 **6** And he shall bring his trespass offering to Yahweh for his sin which he has sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.
 **7** And if he be not able to bring a lamb, then he shall bring for his trespass, which he has committed, two turtledoves, or two young pigeons, to Yahweh; one for a sin offering, and the other for a burnt offering.
-**8** And he shall bring them to the priest, who shall offer that which is for the sin offering first, and wring off his head from his neck, but shall not divide it asunder:
+**8** And he shall bring them to the priest, who shall offer that which is for the sin offering first, and wring off his head from his neck, but shall not divide it apart:
 **9** And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it is a sin offering.
 **10** And he shall offer the second for a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he has sinned, and it shall be forgiven him.
 **11** But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put any frankincense thereon: for it is a sin offering.
@@ -3155,7 +3155,7 @@
 **25** Speak to Aaron and to his sons, saying, This is the law of the sin offering: In the place where the burnt offering is killed shall the sin offering be killed before Yahweh: it is most holy.
 **26** The priest that offers it for sin shall eat it: in the holy place shall it be eaten, in the court of the tabernacle of the congregation.
 **27** Whatsoever shall touch the flesh thereof shall be holy: and when there is sprinkled of the blood thereof upon any garment, you shall wash that whereon it was sprinkled in the holy place.
-**28*** But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both furbished, and rinsed in water.
+**28*** But the earthen vessel wherein it is boiled shall be broken: and if it be boiled in a brasen pot, it shall be both furbished, and rinsed in water.
 **29** All the males among the priests shall eat thereof: it is most holy.
 **30** And no sin offering, whereof any of the blood is brought into the tabernacle of the congregation to reconcile withal in the holy place, shall be eaten: it shall be burnt in the fire. 
 ### Chapter 7
@@ -3706,7 +3706,7 @@
 **24*** You shall not offer to Yahweh that which is bruised, or crushed, or broken, or cut; neither shall you make any offering thereof in your land.
 **25*** Neither from a stranger’s hand shall you offer the bread of your God of any of these; because their corruption is in them, and blemishes be in them: they shall not be accepted for you.
 **26** And Yahweh spoke to Moses, saying,
-**27** When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire to Yahweh.
+**27** When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thereafter it shall be accepted for an offering made by fire to Yahweh.
 **28** And whether it be cow or ewe, you shall not kill it and her young both in one day.
 **29*** And when you will offer a sacrifice of thanksgiving to Yahweh, offer it at your own will.
 **30** On the same day it shall be eaten up; you shall leave none of it until the morrow: I am Yahweh.
@@ -3822,7 +3822,7 @@
 **34** But the field of the suburbs of their cities may not be sold; for it is their perpetual possession.
 **35*** And if your brother be waxen poor, and fallen in poverty with you; then you shall relieve him: yes, though he be a stranger, or a dweller; that he may live with you.
 **36** Take you no usury of him, or increase: but fear your God; that your brother may live with you.
-**37** You shall not give him your money upon usury, nor lend him your victuals for increase.
+**37** You shall not give him your money upon usury, nor lend him your provisions for increase.
 **38*** I am Yahweh your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, and to be your God.
 **39*** And if your brother that dwells by you be waxen poor, and be sold to you; you shall not compel him to serve as a bondman:
 **40*** But as an hired servant, and as a dweller, he shall be with you, and shall serve you to the year of jubile:
@@ -4179,7 +4179,7 @@
 **16** And the priest shall bring them before Yahweh, and shall offer his sin offering, and his burnt offering:
 **17** And he shall offer the ram for a sacrifice of peace offerings to Yahweh, with the basket of unleavened bread: the priest shall offer also his meat offering, and his drink offering.
 **18** And the Nazarite shall shave the head of his separation at the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put it in the fire which is under the sacrifice of the peace offerings.
-**19** And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put them upon the hands of the Nazarite, after the hair of his separation is shaven:
+**19** And the priest shall take the boiled shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put them upon the hands of the Nazarite, after the hair of his separation is shaven:
 **20** And the priest shall wave them for a wave offering before Yahweh: this is holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine.
 **21** This is the law of the Nazarite who has vowed, and of his offering to Yahweh for his separation, beside that that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation.
 **22** And Yahweh spoke to Moses, saying,
@@ -4566,14 +4566,14 @@
 **12** And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:
 **13** Is it a small thing that you have brought us up out of a land that flows with milk and honey, to kill us in the wilderness, except you make yourself altogether a prince over us?
 **14** Moreover you have not brought us into a land that flows with milk and honey, or given us inheritance of fields and vineyards: will you put out the eyes of these men? we will not come up.
-**15** And Moses was very wroth, and said to Yahweh, Respect not you their offering: I have not taken one ass from them, neither have I hurt one of them.
+**15** And Moses was very angry, and said to Yahweh, Respect not you their offering: I have not taken one ass from them, neither have I hurt one of them.
 **16** And Moses said to Korah, Be you and all your company before Yahweh, you, and they, and Aaron, to morrow:
 **17*** And take every man his censer, and put incense in them, and bring you before Yahweh every man his censer, two hundred and fifty censers; you also, and Aaron, each of you his censer.
 **18** And they took every man his censer, and put fire in them, and laid incense thereon, and stood in the door of the tabernacle of the congregation with Moses and Aaron.
 **19** And Korah gathered all the congregation against them to the door of the tabernacle of the congregation: and the glory of Yahweh appeared to all the congregation.
 **20** And Yahweh spoke to Moses and to Aaron, saying,
 **21*** Separate yourself from among this congregation, that I may consume them in a moment.
-**22** And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and will you be wroth with all the congregation?
+**22** And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and will you be angry with all the congregation?
 **23** And Yahweh spoke to Moses, saying,
 **24*** Speak to the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram.
 **25** And Moses rose up and went to Dathan and Abiram; and the elders of Israel followed him.
@@ -4582,7 +4582,7 @@
 **28** And Moses said, Hereby you shall know that Yahweh has sent me to do all these works; for I have not done them of mine own mind.
 **29** If these men die the common death of all men, or if they be visited after the visitation of all men; then Yahweh has not sent me.
 **30*** But if Yahweh make a new thing, and the earth open her mouth, and swallow them up, with all that belong to them, and they go down quick into the pit; then you shall understand that these men have provoked Yahweh.
-**31** And it came to pass, as he had made an end of speaking all these words, that the ground clung asunder that was under them:
+**31** And it came to pass, as he had made an end of speaking all these words, that the ground clung apart that was under them:
 **32*** And the earth opened her mouth, and swallowed them up, and their houses, and all the men that belonged to Korah, and all their goods.
 **33*** They, and all that belonged to them, went down alive into the pit, and the earth closed upon them: and they perished from among the congregation.
 **34** And all Israel that were round about them fled at the cry of them: for they said, Lest the earth swallow us up also.
@@ -4864,7 +4864,7 @@
 **15*** And the name of the Midianitish woman that was slain was Cozbi, the daughter of Zur; he was head over a people, and of a ruler house in Midian.
 **16** And Yahweh spoke to Moses, saying,
 **17** Vex the Midianites, and smite them:
-**18*** For they vex you with their snares, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor’s sake.
+**18*** For they vex you with their snares, wherewith they have deceived you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor’s sake.
 ### Chapter 26
 
 **1** And it came to pass after the plague, that Yahweh spoke to Moses and to Eleazar the son of Aaron the priest, saying,
@@ -5065,7 +5065,7 @@
 **11** And they took all the spoil, and all the prey, both of men and of beasts.
 **12** And they brought the captives, and the prey, and the spoil, to Moses, and Eleazar the priest, and to the congregation of the children of Israel, to the camp at the plains of Moab, which are by Jordan near Jericho.
 **13** And Moses, and Eleazar the priest, and all the princes of the congregation, went forth to meet them without the camp.
-**14** And Moses was wroth with the officers of the host, with the captains over thousands, and captains over hundreds, which came from the battle.
+**14** And Moses was angry with the officers of the host, with the captains over thousands, and captains over hundreds, which came from the battle.
 **15** And Moses said to them, Have you saved all the women alive?
 **16** Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against Yahweh in the matter of Peor, and there was a plague among the congregation of Yahweh.
 **17** Now therefore kill every male among the little ones, and kill every woman that has known man by lying with him.
@@ -5330,7 +5330,7 @@
 **31** And in the wilderness, where you have seen how that Yahweh your God bare you, as a man does bear his son, in all the way that you went, until you came into this place.
 **32*** Yet in this thing you did not believe Yahweh your God,
 **33*** Who went in the way before you, to search you out a place to pitch your tents in, in fire by night, to show you by what way you should go, and in a cloud by day.
-**34*** And Yahweh heard the voice of your words, and was wroth, and swore, saying,
+**34*** And Yahweh heard the voice of your words, and was angry, and swore, saying,
 **35*** Surely there shall not one of these men of this evil generation see that good land, which I swore to give to your fathers,
 **36** Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he has trodden upon, and to his children, because he has wholly followed Yahweh.
 **37*** Also Yahweh was angry with me for your sakes, saying, You also shall not go in there.
@@ -5409,7 +5409,7 @@
 **23** And I besought Yahweh at that time, saying,
 **24*** O Adonai Yahweh, you have began to show your servant your greatness, and your mighty hand: for what God is there in heaven or in earth, that can do according to your works, and according to your might?
 **25** I pray you, let me go over, and see the good land that is beyond Jordan, that goodly mountain, and Lebanon.
-**26*** But Yahweh was wroth with me for your sakes, and would not hear me: and Yahweh said to me, Let it suffice you; speak no more to me of this matter.
+**26*** But Yahweh was angry with me for your sakes, and would not hear me: and Yahweh said to me, Let it suffice you; speak no more to me of this matter.
 **27** Get you up into the top of Pisgah, and lift up your eyes westward, and northward, and southward, and eastward, and behold it with your eyes: for you shall not go over this Jordan.
 **28** But charge Joshua, and encourage him, and strengthen him: for he shall go over before this people, and he shall cause them to inherit the land which you shall see.
 **29** So we abode in the valley over against Beth–peor. 
@@ -5548,7 +5548,7 @@
 **18** You shall not be afraid of them: but shall well remember what Yahweh your God did to Pharaoh, and to all Egypt;
 **19** The great temptations which your eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby Yahweh your God brought you out: so shall Yahweh your God do to all the people of whom you are afraid.
 **20*** Moreover Yahweh your God will send the locust among them, until they that are left, and hide themselves from you, be destroyed.
-**21*** You shall not be affrighted at them: for Yahweh your God is among you, a mighty God and terrible.
+**21*** You shall not be frightened at them: for Yahweh your God is among you, a mighty God and terrible.
 **22** And Yahweh your God will put out those nations before you by little and little: you may not consume them at once, lest the beasts of the field increase upon you.
 **23** But Yahweh your God shall deliver them to you, and shall destroy them with a mighty destruction, until they be destroyed.
 **24** And he shall deliver their kings into your hand, and you shall destroy their name from under heaven: there shall no man be able to stand before you, until you have destroyed them.
@@ -5584,7 +5584,7 @@
 **4** Speak not you in your heart, after that Yahweh your God has cast them out from before you, saying, For my righteousness Yahweh has brought me in to possess this land: but for the wickedness of these nations Yahweh does drive them out from before you.
 **5** Not for your righteousness, or for the uprightness of your heart, do you go to possess their land: but for the wickedness of these nations Yahweh your God does drive them out from before you, and that he may perform the word which Yahweh swore to your fathers, Abraham, Isaac, and Jacob.
 **6** Understand therefore, that Yahweh your God gives you not this good land to possess it for your righteousness; for you are a stiffnecked people.
-**7*** Remember, and forget not, how you made Yahweh your God wroth in the wilderness: from the day that you did depart out of the land of Egypt, until you came to this place, you have been rebellious against Yahweh.
+**7*** Remember, and forget not, how you made Yahweh your God angry in the wilderness: from the day that you did depart out of the land of Egypt, until you came to this place, you have been rebellious against Yahweh.
 **8*** Also in Horeb you provoked Yahweh to wrath, so that Yahweh was angry with you to have destroyed you.
 **9*** When I was gone up into the mount to receive the tables of stone, even the tables of the covenant which Yahweh made with you, then I abode in the mount forty days and forty nights, I neither did eat bread nor drink water:
 **10*** And Yahweh delivered to me two tables of stone written with the finger of God; and on them was written according to all the words, which Yahweh spoke with you in the mount out of the midst of the fire in the day of the assembly.
@@ -5596,7 +5596,7 @@
 **16*** And I looked, and, behold, you had sinned against Yahweh your God, and had made you a molten calf: you had turned aside quickly out of the way which Yahweh had commanded you.
 **17*** And I took the two tables, and cast them out of my two hands, and broke them before your eyes.
 **18*** And I fell down before Yahweh, as at the first, forty days and forty nights: I did neither eat bread, nor drink water, because of all your sins which you sinned, in doing wickedly in the sight of Yahweh, to provoke him to anger.
-**19*** For I was afraid of the anger and hot displeasure, wherewith Yahweh was wroth against you to destroy you. But Yahweh hearkened to me at that time also.
+**19*** For I was afraid of the anger and hot displeasure, wherewith Yahweh was angry against you to destroy you. But Yahweh hearkened to me at that time also.
 **20** And Yahweh was very angry with Aaron to have destroyed him: and I prayed for Aaron also the same time.
 **21*** And I took your sin, the calf which you had made, and burnt it with fire, and stamped it, and ground it very small, even until it was as small as dust: and I cast the dust thereof into the brook that descended out of the mount.
 **22** And at Taberah, and at Massah, and at Kibroth–hattaavah, you provoked Yahweh to wrath.
@@ -5967,7 +5967,7 @@
 **16*** He shall dwell with you, even among you, in that place which he shall choose in one of your gates, where it likes him best: you shall not oppress him.
 **17*** There shall be no whore of the daughters of Israel, nor a whoremonger of the sons of Israel.
 **18** You shall not bring the hire of a whore, or the price of a dog, into the house of Yahweh your God for any vow: for even both these are abomination to Yahweh your God.
-**19*** You shall not lend upon usury to your brother; usury of money, usury of victuals, usury of any thing that is given upon usury:
+**19*** You shall not lend upon usury to your brother; usury of money, usury of provisions, usury of any thing that is given upon usury:
 **20** To a stranger you may lend upon usury; but to your brother you shall not lend upon usury: that Yahweh your God may bless you in all that you set your hand to in the land where you go to possess it.
 **21** When you shall vow a vow to Yahweh your God, you shall not slack to pay it: for Yahweh your God will surely require it of you; and it would be sin in you.
 **22** But if you shall forbear to vow, it shall be no sin in you.
@@ -6244,7 +6244,7 @@
 **17*** They sacrificed to devils, not to God; to gods whom they knew not, to new gods that came up of late, whom your fathers feared not.
 **18*** Of the Rock that begat you you did not remember, and have forgotten God that formed you.
 **19** And when Yahweh saw it, he abhorred them, because of the provoking of his sons, and of his daughters.
-**20** And he said, I will hide my face from them, I will see what their end shall be: for they are a very froward generation, children in whom is no faith.
+**20** And he said, I will hide my face from them, I will see what their end shall be: for they are a very perverse generation, children in whom is no faith.
 **21** They have moved me to jealousy with that which is not God; they have provoked me to anger with their vanities: and I will move them to jealousy with those which are not a people; I will provoke them to anger with a foolish nation.
 **22** For a fire is kindled in mine anger, and shall burn to the lowest hell, and shall consume the earth with her increase, and set on fire the foundations of the mountains.
 **23** I will heap mischiefs upon them; I will spend mine arrows upon them.
@@ -6339,7 +6339,7 @@
 **8*** This book of the law shall not depart out of your mouth; but you shall meditate therein day and night, that you may observe to do according to all that is written therein: for then you shall make your way prosperous, and then you shall have good speed.
 **9** Have not I commanded you? Be strong and of a good courage; be not afraid, neither be you dismayed: for Yahweh your God is with you whithersoever you go.
 **10** Then Joshua commanded the officers of the people, saying,
-**11*** Pass through the host, and command the people, saying, Prepare you victuals; for within three days you shall pass over this Jordan, to go in to possess the land, which Yahweh your God gives you to possess it.
+**11*** Pass through the host, and command the people, saying, Prepare you provisions; for within three days you shall pass over this Jordan, to go in to possess the land, which Yahweh your God gives you to possess it.
 **12** And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spoke Joshua, saying,
 **13*** Remember the word which Moses the servant of Yahweh commanded you, saying, Yahweh your God has given you rest, and has given you this land.
 **14*** Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but you shall pass before your brethren armed, all the mighty men of valour, and help them;
@@ -6378,7 +6378,7 @@
 **1** And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.
 **2** And it came to pass after three days, that the officers went through the host;
 **3*** And they commanded the people, saying, When you see the ark of the covenant of Yahweh your God, and the priests the Levites bearing it, then you shall remove from your place, and go after it.
-**4*** Yet there shall be a space between you and it, about two thousand cubits by measure: come not near to it, that you may know the way by which you must go: for you have not passed this way heretofore.
+**4*** Yet there shall be a space between you and it, about two thousand cubits by measure: come not near to it, that you may know the way by which you must go: for you have not passed this way previously.
 **5*** And Joshua said to the people, Sanctify yourself: for to morrow Yahweh will do wonders among you.
 **6** And Joshua spoke to the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people.
 **7** And Yahweh said to Joshua, This day will I begin to magnify you in the sight of all Israel, that they may know that, as I was with Moses, so I will be with you.
@@ -6541,10 +6541,10 @@
 **8** And they said to Joshua, We are your servants. And Joshua said to them, Who are you? and from where come you?
 **9** And they said to him, From a very far country your servants are come because of the name of Yahweh your God: for we have heard the fame of him, and all that he did in Egypt,
 **10** And all that he did to the two kings of the Amorites, that were beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which was at Ashtaroth.
-**11*** Wherefore our elders and all the inhabitants of our country spoke to us, saying, Take victuals with you for the journey, and go to meet them, and say to them, We are your servants: therefore now make you a league with us.
+**11*** Wherefore our elders and all the inhabitants of our country spoke to us, saying, Take provisions with you for the journey, and go to meet them, and say to them, We are your servants: therefore now make you a league with us.
 **12*** This our bread we took hot for our provision out of our houses on the day we came forth to go to you; but now, behold, it is dry, and it is rotten:
 **13*** And these wineskins of wine, which we filled, were new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey.
-**14** And the men took of their victuals, and asked not counsel at the mouth of Yahweh.
+**14** And the men took of their provisions, and asked not counsel at the mouth of Yahweh.
 **15** And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation swore to them.
 **16** And it came to pass at the end of three days after they had made a league with them, that they heard that they were their neighbours, and that they dwelt among them.
 **17** And the children of Israel journeyed, and came to their cities on the third day. Now their cities were Gibeon, and Chephirah, and Beeroth, and Kirjath–jearim.
@@ -6552,7 +6552,7 @@
 **19** But all the princes said to all the congregation, We have sworn to them by Yahweh God of Israel: now therefore we may not touch them.
 **20** This we will do to them; we will even let them live, lest wrath be upon us, because of the oath which we swore to them.
 **21*** And the princes said to them, Let them live; but let them be hewers of wood and porters of water to all the congregation; as the princes had promised them.
-**22*** And Joshua called for them, and he spoke to them, saying, Wherefore have you beguiled us, saying, We are very far from you; when you dwell among us?
+**22*** And Joshua called for them, and he spoke to them, saying, Wherefore have you deceived us, saying, We are very far from you; when you dwell among us?
 **23*** Now therefore you are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and porters of water for the house of my God.
 **24*** And they answered Joshua, and said, Because it was certainly told your servants, how that Yahweh your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing.
 **25** And now, behold, we are in your hand: as it seems good and right to you to do to us, do.
@@ -6798,7 +6798,7 @@
 **11** And Manasseh had in Issachar and in Asher Beth–shean and her towns, and Ibleam and her towns, and the inhabitants of Dor and her towns, and the inhabitants of Endor and her towns, and the inhabitants of Taanach and her towns, and the inhabitants of Megiddo and her towns, even three countries.
 **12** Yet the children of Manasseh could not drive out the inhabitants of those cities; but the Canaanites would dwell in that land.
 **13** Yet it came to pass, when the children of Israel were waxen strong, that they put the Canaanites to tribute; but did not utterly drive them out.
-**14** And the children of Joseph spoke to Joshua, saying, Why have you given me but one lot and one portion to inherit, seeing I am a great people, since Yahweh has blessed me hitherto?
+**14** And the children of Joseph spoke to Joshua, saying, Why have you given me but one lot and one portion to inherit, seeing I am a great people, since Yahweh has blessed me until now?
 **15** And Joshua answered them, If you be a great people, then get you up to the wood country, and cut down for yourself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for you.
 **16** And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, both they who are of Beth–shean and her towns, and they who are of the valley of Jezreel.
 **17** And Joshua spoke to the house of Joseph, even to Ephraim and to Manasseh, saying, You are a great people, and have great power: you shall not have one lot only:
@@ -6963,7 +6963,7 @@
 **15** And they came to the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, to the land of Gilead, and they spoke with them, saying,
 **16*** Thus says the whole congregation of Yahweh, What trespass is this that you have committed against the God of Israel, to turn away this day from following Yahweh, in that you have built you an altar, that you might rebel this day against Yahweh?
 **17** Is the iniquity of Peor too little for us, from which we are not cleansed until this day, although there was a plague in the congregation of Yahweh,
-**18** But that you must turn away this day from following Yahweh? and it will be, seeing you rebel to day against Yahweh, that to morrow he will be wroth with the whole congregation of Israel.
+**18** But that you must turn away this day from following Yahweh? and it will be, seeing you rebel to day against Yahweh, that to morrow he will be angry with the whole congregation of Israel.
 **19*** Notwithstanding, if the land of your possession be unclean, then pass you over to the land of the possession of Yahweh, wherein Yahweh’s tabernacle dwells, and take possession among us: but rebel not against Yahweh, nor rebel against us, in building you an altar beside the altar of Yahweh our God.
 **20** Did not Achan the son of Zerah commit a trespass in the accursed thing, and wrath fell on all the congregation of Israel? and that man perished not alone in his iniquity.
 **21** Then the children of Reuben and the children of Gad and the half tribe of Manasseh answered, and said to the heads of the thousands of Israel,
@@ -7244,7 +7244,7 @@
 **5** So he brought down the people to the water: and Yahweh said to Gideon, Every one that laps of the water with his tongue, as a dog laps, him shall you set by himself; likewise every one that bows down upon his knees to drink.
 **6** And the number of them that lapped, putting their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water.
 **7*** And Yahweh said to Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into your hand: and let all the other people go every man to his place.
-**8** So the people took victuals in their hand, and their trumpets: and he sent all the rest of Israel every man to his tent, and retained those three hundred men: and the host of Midian was beneath him in the valley.
+**8** So the people took provisions in their hand, and their trumpets: and he sent all the rest of Israel every man to his tent, and retained those three hundred men: and the host of Midian was beneath him in the valley.
 **9** And it came to pass the same night, that Yahweh said to him, Arise, get you down to the host; for I have delivered it into your hand.
 **10** But if you fear to go down, go you with Phurah your servant down to the host:
 **11** And you shall hear what they say; and afterward shall your hands be strengthened to go down to the host. Then went he down with Phurah his servant to the outside of the armed men that were in the host.
@@ -7331,7 +7331,7 @@
 **28** And Gaal the son of Ebed said, Who is Abimelech, and who is Shechem, that we should serve him? is not he the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?
 **29** And would to God this people were under my hand! then would I remove Abimelech. And he said to Abimelech, Increase your army, and come out.
 **30** And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled.
-**31** And he sent messengers to Abimelech privily, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against you.
+**31** And he sent messengers to Abimelech secretly, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against you.
 **32** Now therefore up by night, you and the people that is with you, and lie in wait in the field:
 **33** And it shall be, that in the morning, as soon as the sun is up, you shall rise early, and set upon the city: and, behold, when he and the people that is with him come out against you, then may you do to them as you shall find occasion.
 **34** And Abimelech rose up, and all the people that were with him, by night, and they laid wait against Shechem in four companies.
@@ -7522,7 +7522,7 @@
 **10*** And Delilah said to Sampson, Behold, you have mocked me, and told me lies: now tell me, I pray you, wherewith you might be bound.
 **11** And he said to her, If they bind me fast with new ropes that never were occupied, then shall I be weak, and be as another man.
 **12*** Delilah therefore took new ropes, and bound him therewith, and said to him, The Philistines be upon you, Sampson. And there were liers in wait abiding in the chamber. And he broke them from off his arms like a thread.
-**13*** And Delilah said to Sampson, Hitherto you have mocked me, and told me lies: tell me wherewith you might be bound. And he said to her, If you work the seven locks of my head with the web.
+**13*** And Delilah said to Sampson, Until now you have mocked me, and told me lies: tell me wherewith you might be bound. And he said to her, If you work the seven locks of my head with the web.
 **14*** And she fastened it with the pin, and said to him, The Philistines be upon you, Sampson. And he awaked out of his sleep, and went away with the pin of the beam, and with the web.
 **15** And she said to him, How can you say, I love you, when your heart is not with me? you have mocked me these three times, and have not told me wherein your great strength lies.
 **16** And it came to pass, when she pressed him daily with her words, and urged him, so that his soul was vexed to death;
@@ -7552,7 +7552,7 @@
 **7*** And there was a young man out of Beth–lehem–judah of the family of Judah, who was a Levite, and he dwelt there.
 **8*** And the man departed out of the city from Beth–lehem–judah to dwell where he could find a place: and he came to mount Ephraim to the house of Micah, as he journeyed.
 **9*** And Micah said to him, Where come you? And he said to him, I am a Levite of Beth–lehem–judah, and I go to dwell where I may find a place.
-**10** And Micah said to him, Dwell with me, and be to me a father and a priest, and I will give you ten shekels of silver by the year, and a suit of apparel, and your victuals. So the Levite went in.
+**10** And Micah said to him, Dwell with me, and be to me a father and a priest, and I will give you ten shekels of silver by the year, and a suit of apparel, and your provisions. So the Levite went in.
 **11** And the Levite was content to dwell with the man; and the young man was to him as one of his sons.
 **12** And Micah consecrated the Levite; and the young man became his priest, and was in the house of Micah.
 **13** Then said Micah, Now know I that Yahweh will do me good, seeing I have a Levite to my priest. 
@@ -7578,7 +7578,7 @@
 **18** And these went into Micah’s house, and fetched the carved image, the ephod, and the teraphim, and the molten image. Then said the priest to them, What do you?
 **19** And they said to him, Hold your peace, lay your hand upon your mouth, and go with us, and be to us a father and a priest: is it better for you to be a priest to the house of one man, or that you be a priest to a tribe and a family in Israel?
 **20*** And the priest’s heart was thankful, and he took the ephod, and the teraphim, and the graven image, and went in the midst of the people.
-**21** So they turned and departed, and put the little ones and the cattle and the carriage before them.
+**21** So they turned and departed, and put the little ones and the cattle and the baggage before them.
 **22** And when they were a good way from the house of Micah, the men that were in the houses near to Micah’s house were gathered together, and overtook the children of Dan.
 **23** And they cried to the children of Dan. And they turned their faces, and said to Micah, What aileth you, that you come with such a company?
 **24** And he said, You have taken away my gods which I made, and the priest, and you are gone away: and what have I more? and what is this that you say to me, What aileth you?
@@ -7632,7 +7632,7 @@
 **7*** Behold, you are all children of Israel; give here your advice and counsel.
 **8** And all the people arose as one man, saying, We will not any of us go to his tent, neither will we any of us turn into his house.
 **9** But now this shall be the thing which we will do to Gibeah; we will go up by lot against it;
-**10** And we will take ten men of an hundred throughout all the tribes of Israel, and an hundred of a thousand, and a thousand out of ten thousand, to fetch victual for the people, that they may do, when they come to Gibeah of Benjamin, according to all the folly that they have wrought in Israel.
+**10** And we will take ten men of an hundred throughout all the tribes of Israel, and an hundred of a thousand, and a thousand out of ten thousand, to fetch food for the people, that they may do, when they come to Gibeah of Benjamin, according to all the folly that they have wrought in Israel.
 **11** So all the men of Israel were gathered against the city, knit together as one man.
 **12*** And the tribes of Israel sent men through all the tribe of Benjamin, saying, What wickedness is this that is done among you?
 **13** Now therefore deliver us the men, the children of Belial, which are in Gibeah, that we may put them to death, and put away evil from Israel. But the children of Benjamin would not listen to the voice of their brethren the children of Israel:
@@ -7739,7 +7739,7 @@
 **8** Then said Boaz to Ruth, Hear you not, my daughter? Go not to glean in another field, neither go from hence, but abide here fast by my maidens:
 **9** Let your eyes be on the field that they do reap, and go you after them: have I not charged the young men that they shall not touch you? and when you are athirst, go to the vessels, and drink of that which the young men have drawn.
 **10** Then she fell on her face, and bowed herself to the ground, and said to him, Why have I found grace in your eyes, that you should take knowledge of me, seeing I am a stranger?
-**11** And Boaz answered and said to her, It has fully been showed me, all that you have done to your mother in law since the death of your husband: and how you have left your father and your mother, and the land of your nativity, and are come to a people which you knew not heretofore.
+**11** And Boaz answered and said to her, It has fully been showed me, all that you have done to your mother in law since the death of your husband: and how you have left your father and your mother, and the land of your nativity, and are come to a people which you knew not previously.
 **12** Yahweh recompense your work, and a full reward be given you of Yahweh God of Israel, under whose wings you are come to trust.
 **13*** Then she said, Let me find favour in your sight, my lord; for that you have comforted me, and for that you have spoken kindly to your handmaid, though I be not like to one of your handmaidens.
 **14*** And Boaz said to her, At the time of eating come you here, and eat of the bread, and dip your morsel in the vinegar. And she sat beside the reapers: and he reached her parched wheat, and she did eat, and was sufficed, and left.
@@ -7818,7 +7818,7 @@
 **13** Now Hannah, she spoke in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.
 **14** And Eli said to her, How long will you be drunken? put away your wine from you.
 **15*** And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drank neither wine nor strong drink, but have poured out my soul before Yahweh.
-**16** Count not your handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto.
+**16** Count not your handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken until now.
 **17** Then Eli answered and said, Go in peace: and the God of Israel grant you your petition that you have asked of him.
 **18** And she said, Let your handmaid find grace in your sight. So the woman went her way, and did eat, and her countenance was no more sad.
 **19** And they rose up in the morning early, and worshipped before Yahweh, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and Yahweh remembered her.
@@ -7847,8 +7847,8 @@
 **12** Now the sons of Eli were sons of Belial; they knew not Yahweh.
 **13*** And the priests' custom with the people was, that, when any man offered sacrifice, the priest's servant came, while the flesh was in seething, with a hook of three teeth in his hand;
 **14*** And he struck it into the pan, or kettle, or caldron, or pot; all that the hook brought up the priest took for himself. So they did in Shiloh to all the Israelites that came there.
-**15** Also before they burnt the fat, the priest’s servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of you, but raw.
-**16** And if any man said to him, Let them not fail to burn the fat presently, and then take as much as your soul desires; then he would answer him, No; but you shall give it me now: and if not, I will take it by force.
+**15** Also before they burnt the fat, the priest’s servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have boiled flesh of you, but raw.
+**16** And if any man said to him, Let them not fail to burn the fat immediately, and then take as much as your soul desires; then he would answer him, No; but you shall give it me now: and if not, I will take it by force.
 **17** Wherefore the sin of the young men was very great before Yahweh: for men abhorred the offering of Yahweh.
 **18*** But Samuel ministered before Yahweh, being a child, adorned with a linen ephod.
 **19** Moreover his mother made him a little coat, and brought it to him from year to year, when she came up with her husband to offer the yearly sacrifice.
@@ -7900,7 +7900,7 @@
 **4** So the people sent to Shiloh, that they might bring from thence the ark of the covenant of Yahweh of hosts, which dwells between the cherubims: and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.
 **5*** And when the ark of the covenant of Yahweh came into the camp, all Israel shouted with a great shout, so that the earth shook.
 **6** And when the Philistines heard the noise of the shout, they said, What means the noise of this great shout in the camp of the Hebrews? And they understood that the ark of Yahweh was come into the camp.
-**7** And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe to us! for there has not been such a thing heretofore.
+**7** And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe to us! for there has not been such a thing previously.
 **8** Woe to us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness.
 **9*** Be strong, and quit yourself like men, O you Philistines, that you be not servants to the Hebrews, as they have been to you: quit yourself like men, and fight.
 **10** And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.
@@ -7966,7 +7966,7 @@
 **9** And Samuel took a sucking lamb, and offered it for a burnt offering wholly to Yahweh: and Samuel cried to Yahweh for Israel; and Yahweh heard him.
 **10** And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but Yahweh thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel.
 **11** And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until they came under Beth–car.
-**12** Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Eben–ezer, saying, Hitherto has Yahweh helped us.
+**12** Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Eben–ezer, saying, Until now has Yahweh helped us.
 **13** So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of Yahweh was against the Philistines all the days of Samuel.
 **14** And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even to Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.
 **15** And Samuel judged Israel all the days of his life.
@@ -8262,13 +8262,13 @@
 **19** Now Saul, and they, and all the men of Israel, were in the valley of Elah, fighting with the Philistines.
 **20** And David rose up early in the morning, and left the sheep with a keeper, and took, and went, as Jesse had commanded him; and he came to the trench, as the host was going forth to the fight, and shouted for the battle.
 **21** For Israel and the Philistines had put the battle in array, army against army.
-**22*** And David left his carriage in the hand of the keeper of the carriage, and ran into the army, and came and greets his brethren.
+**22*** And David left his baggage in the hand of the keeper of the baggage, and ran into the army, and came and greets his brethren.
 **23*** And as he spoke with them, behold, there came up the champion, the Philistine of Gath, Goliath by name, out of the armies of the Philistines, and spoke according to the same words: and David heard them.
 **24** And all the men of Israel, when they saw the man, fled from him, and were sore afraid.
 **25*** And the men of Israel said, Have you seen this man that is come up? surely to defy Israel is he come up: and it shall be, that the man who kills him, the king will make him rich with great riches, and will give him his daughter, and make his father's house free in Israel.
 **26** And David spoke to the men that stood by him, saying, What shall be done to the man that kills this Philistine, and takes away the reproach from Israel? for who is this uncircumcised Philistine, that he should defy the armies of the living God?
 **27** And the people answered him after this manner, saying, So shall it be done to the man that kills him.
-**28** And Eliab his eldest brother heard when he spoke to the men; and Eliab’s anger was kindled against David, and he said, Why came you down here? and with whom have you left those few sheep in the wilderness? I know your pride, and the naughtiness of your heart; for you are come down that you might see the battle.
+**28** And Eliab his eldest brother heard when he spoke to the men; and Eliab’s anger was kindled against David, and he said, Why came you down here? and with whom have you left those few sheep in the wilderness? I know your pride, and the wickedness of your heart; for you are come down that you might see the battle.
 **29** And David said, What have I now done? Is there not a cause?
 **30** And he turned from him toward another, and spoke after the same manner: and the people answered him again after the former manner.
 **31** And when the words were heard which David spoke, they rehearsed them before Saul: and he sent for him.
@@ -8308,7 +8308,7 @@
 **5** And David went out whithersoever Saul sent him, and behaved himself wisely: and Saul set him over the men of war, and he was accepted in the sight of all the people, and also in the sight of Saul’s servants.
 **6** And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
 **7** And the women answered one another as they played, and said, Saul has slain his thousands, and David his ten thousands.
-**8** And Saul was very wroth, and the saying displeased him; and he said, They have ascribed to David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
+**8** And Saul was very angry, and the saying displeased him; and he said, They have ascribed to David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
 **9** And Saul eyed David from that day and forward.
 **10** And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul’s hand.
 **11** And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.
@@ -8365,7 +8365,7 @@
 **4** Then said Jonathan to David, Whatsoever your soul desires, I will even do it for you.
 **5** And David said to Jonathan, Behold, to morrow is the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field to the third day at even.
 **6*** If your father at all ask after me, then say, David earnestly asked leave of me that he might run to Beth-lehem his city: for there is a yearly sacrifice there for all the family.
-**7** If he say thus, It is well; your servant shall have peace: but if he be very wroth, then be sure that evil is determined by him.
+**7** If he say thus, It is well; your servant shall have peace: but if he be very angry, then be sure that evil is determined by him.
 **8** Therefore you shall deal kindly with your servant; for you have brought your servant into a covenant of Yahweh with you: notwithstanding, if there be in me iniquity, slay me yourself; for why should you bring me to your father?
 **9** And Jonathan said, Far be it from you: for if I knew certainly that evil were determined by my father to come upon you, then would not I tell it you?
 **10** Then said David to Jonathan, Who shall tell me? or what if your father answer you roughly?
@@ -8429,7 +8429,7 @@
 **7*** Then Saul said to his servants that stood about him, Hear now, you Benjamites; will the son of Jesse give every one of you fields and vineyards, and make you all captains of thousands, and captains of hundreds;
 **8*** That all of you have conspired against me, and there is none that shows me that my son has made a league with the son of Jesse, and there is none of you that is sorry for me, or shows to me that my son has stirred up my servant against me, to lie in wait, as at this day?
 **9** Then answered Doeg the Edomite, which was set over the servants of Saul, and said, I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub.
-**10** And he enquired of Yahweh for him, and gave him victuals, and gave him the sword of Goliath the Philistine.
+**10** And he enquired of Yahweh for him, and gave him provisions, and gave him the sword of Goliath the Philistine.
 **11** Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father’s house, the priests that were in Nob: and they came all of them to the king.
 **12** And Saul said, Hear now, you son of Ahitub. And he answered, Here I am, my lord.
 **13** And Saul said to him, Why have you conspired against me, you and the son of Jesse, in that you have given him bread, and a sword, and have enquired of God for him, that he should rise against me, to lie in wait, as at this day?
@@ -8466,7 +8466,7 @@
 **19** Then came up the Ziphites to Saul to Gibeah, saying, Does not David hide himself with us in strong holds in the wood, in the hill of Hachilah, which is on the south of Jeshimon?
 **20** Now therefore, O king, come down according to all the desire of your soul to come down; and our part shall be to deliver him into the king’s hand.
 **21** And Saul said, Blessed be you of Yahweh; for you have compassion on me.
-**22*** Go, I pray you, prepare yet, and know and see his place where his dwelling is, and who has seen him there: for it is told me that he deals very subtilly.
+**22*** Go, I pray you, prepare yet, and know and see his place where his dwelling is, and who has seen him there: for it is told me that he deals very craftily.
 **23*** See therefore, and take knowledge of all the lurking places where he hides himself, and come you again to me with the certainty, and I will go with you: and it shall come to pass, if he be in the land, that I will search him out throughout all the thousands of Judah.
 **24** And they arose, and went to Ziph before Saul: but David and his men were in the wilderness of Maon, in the plain on the south of Jeshimon.
 **25** Saul also and his men went to seek him. And they told David: wherefore he came down into a rock, and abode in the wilderness of Maon. And when Saul heard that, he pursued after David in the wilderness of Maon.
@@ -8479,7 +8479,7 @@
 **1** And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of En–gedi.
 **2** Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.
 **3*** And he came to the folds by the way, where was a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.
-**4** And the men of David said to him, Behold the day of which Yahweh said to you, Behold, I will deliver your enemy into your hand, that you may do to him as it shall seem good to you. Then David arose, and cut off the skirt of Saul’s robe privily.
+**4** And the men of David said to him, Behold the day of which Yahweh said to you, Behold, I will deliver your enemy into your hand, that you may do to him as it shall seem good to you. Then David arose, and cut off the skirt of Saul’s robe secretly.
 **5** And it came to pass afterward, that David’s heart smote him, because he had cut off Saul’s skirt.
 **6** And he said to his men, Yahweh forbid that I should do this thing to my master, Yahweh’s anointed, to stretch forth mine hand against him, seeing he is the anointed of Yahweh.
 **7** So David stayed his servants with these words, and suffered them not to rise against Saul. But Saul rose up out of the cave, and went on his way.
@@ -8617,7 +8617,7 @@
 **1** Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which is in Jezreel.
 **2** And the lords of the Philistines passed on by hundreds, and by thousands: but David and his men passed on in the rereward with Achish.
 **3** Then said the princes of the Philistines, What do these Hebrews here? And Achish said to the princes of the Philistines, Is not this David, the servant of Saul the king of Israel, which has been with me these days, or these years, and I have found no fault in him since he fell to me to this day?
-**4** And the princes of the Philistines were wroth with him; and the princes of the Philistines said to him, Make this fellow return, that he may go again to his place which you have appointed him, and let him not go down with us to battle, lest in the battle he be an adversary to us: for wherewith should he reconcile himself to his master? should it not be with the heads of these men?
+**4** And the princes of the Philistines were angry with him; and the princes of the Philistines said to him, Make this fellow return, that he may go again to his place which you have appointed him, and let him not go down with us to battle, lest in the battle he be an adversary to us: for wherewith should he reconcile himself to his master? should it not be with the heads of these men?
 **5** Is not this David, of whom they sang one to another in dances, saying, Saul slew his thousands, and David his ten thousands?
 **6** Then Achish called David, and said to him, Surely, as Yahweh lives, you have been upright, and your going out and your coming in with me in the host is good in my sight: for I have not found evil in you since the day of your coming to me to this day: nevertheless the lords favour you not.
 **7** Wherefore now return, and go in peace, that you displease not the lords of the Philistines.
@@ -8750,13 +8750,13 @@
 **5** And the sixth, Ithream, by Eglah David’s wife. These were born to David in Hebron.
 **6** And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.
 **7** And Saul had a concubine, whose name was Rizpah, the daughter of Aiah: and Ish–bosheth said to Abner, Wherefore have you gone in to my father’s concubine?
-**8** Then was Abner very wroth for the words of Ish–bosheth, and said, Am I a dog’s head, which against Judah do show kindness this day to the house of Saul your father, to his brethren, and to his friends, and have not delivered you into the hand of David, that you charge me to day with a fault concerning this woman?
+**8** Then was Abner very angry for the words of Ish–bosheth, and said, Am I a dog’s head, which against Judah do show kindness this day to the house of Saul your father, to his brethren, and to his friends, and have not delivered you into the hand of David, that you charge me to day with a fault concerning this woman?
 **9** So do God to Abner, and more also, except, as Yahweh has sworn to David, even so I do to him;
 **10*** To remove the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beer-sheba.
 **11** And he could not answer Abner a word again, because he feared him.
 **12** And Abner sent messengers to David on his behalf, saying, Whose is the land? saying also, Make your league with me, and, behold, my hand shall be with you, to bring about all Israel to you.
 **13** And he said, Well; I will make a league with you: but one thing I require of you, that is, You shall not see my face, except you first bring Michal Saul’s daughter, when you come to see my face.
-**14** And David sent messengers to Ish–bosheth Saul’s son, saying, Deliver me my wife Michal, which I espoused to me for an hundred foreskins of the Philistines.
+**14** And David sent messengers to Ish–bosheth Saul’s son, saying, Deliver me my wife Michal, which I betrothed to me for an hundred foreskins of the Philistines.
 **15** And Ish–bosheth sent, and took her from her husband, even from Phaltiel the son of Laish.
 **16** And her husband went with her along weeping behind her to Bahurim. Then said Abner to him, Go, return. And he returned.
 **17*** And Abner had communication with the elders of Israel, saying, You sought for David in times past to be king over you:
@@ -8769,7 +8769,7 @@
 **24** Then Joab came to the king, and said, What have you done? behold, Abner came to you; why is it that you have sent him away, and he is quite gone?
 **25*** You know Abner the son of Ner, that he came to deceive you, and to know your going out and your coming in, and to know all that you do.
 **26** And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew it not.
-**27*** And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him privily, and smote him there under the fifth rib, that he died, for the blood of Asahel his brother.
+**27*** And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him secretly, and smote him there under the fifth rib, that he died, for the blood of Asahel his brother.
 **28** And afterward when David heard it, he said, I and my kingdom are guiltless before Yahweh for ever from the blood of Abner the son of Ner:
 **29** Let it rest on the head of Joab, and on all his father’s house; and let there not fail from the house of Joab one that has an issue, or that is a leper, or that leans on a staff, or that falls on the sword, or that lacks bread.
 **30** So Joab and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.
@@ -8867,7 +8867,7 @@
 **15** But my mercy shall not depart away from him, as I took it from Saul, whom I put away before you.
 **16** And your house and your kingdom shall be established for ever before you: your throne shall be established for ever.
 **17** According to all these words, and according to all this vision, so did Nathan speak to David.
-**18** Then went king David in, and sat before Yahweh, and he said, Who am I, O Adonai Yahweh? and what is my house, that you have brought me hitherto?
+**18** Then went king David in, and sat before Yahweh, and he said, Who am I, O Adonai Yahweh? and what is my house, that you have brought me until now?
 **19** And this was yet a small thing in your sight, O Adonai Yahweh; but you have spoken also of your servant’s house for a great while to come. And is this the manner of man, O Adonai Yahweh?
 **20** And what can David say more to you? for you, Adonai Yahweh, know your servant.
 **21** For your word’s sake, and according to your own heart, have you done all these great things, to make your servant know them.
@@ -9001,7 +9001,7 @@
 
 **1** And it came to pass after this, that Absalom the son of David had a fair sister, whose name was Tamar; and Amnon the son of David loved her.
 **2** And Amnon was so vexed, that he fell sick for his sister Tamar; for she was a virgin; and Amnon thought it hard for him to do any thing to her.
-**3** But Amnon had a friend, whose name was Jonadab, the son of Shimeah David’s brother: and Jonadab was a very subtil man.
+**3** But Amnon had a friend, whose name was Jonadab, the son of Shimeah David’s brother: and Jonadab was a very crafty man.
 **4** And he said to him, Why are you, being the king’s son, lean from day to day? will you not tell me? And Amnon said to him, I love Tamar, my brother Absalom’s sister.
 **5** And Jonadab said to him, Lay you down on your bed, and make yourself sick: and when your father comes to see you, say to him, I pray you, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see it, and eat it at her hand.
 **6** So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said to the king, I pray you, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand.
@@ -9019,7 +9019,7 @@
 **18*** And she had a garment of diverse colours upon her: for with such robes were the king's daughters that were virgins arrayed. Then his servant brought her out, and locked the door after her.
 **19*** And Tamar put ashes on her head, and rent her garment of diverse colours that was on her, and laid her hand on her head, and went on crying.
 **20** And Absalom her brother said to her, Has Amnon your brother been with you? but hold now your peace, my sister: he is your brother; regard not this thing. So Tamar remained desolate in her brother Absalom’s house.
-**21** But when king David heard of all these things, he was very wroth.
+**21** But when king David heard of all these things, he was very angry.
 **22** And Absalom spoke to his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar.
 **23*** And it came to pass after two full years, that Absalom had shearers in Baal–hazor, which is beside Ephraim: and Absalom invited all the king’s sons.
 **24*** And Absalom came to the king, and said, Behold now, your servant has shearers; let the king, I beseech you, and his servants go with your servant.
@@ -9108,7 +9108,7 @@
 **31*** And one told David, saying, Ahithophel is among them that have conspired with Absalom. And David said, O Yahweh, I pray you, turn the counsel of Ahithophel into foolishness.
 **32** And it came to pass, that when David was come to the top of the mount, where he worshipped God, behold, Hushai the Archite came to meet him with his coat rent, and earth upon his head:
 **33** To whom David said, If you pass on with me, then you shall be a burden to me:
-**34*** But if you return to the city, and say to Absalom, I will be your servant, O king; as I have been your father's servant hitherto, so will I now also be your servant: then may you for me make void the counsel of Ahithophel.
+**34*** But if you return to the city, and say to Absalom, I will be your servant, O king; as I have been your father's servant until now, so will I now also be your servant: then may you for me make void the counsel of Ahithophel.
 **35** And have you not there with you Zadok and Abiathar the priests? therefore it shall be, that what thing soever you shall hear out of the king’s house, you shall tell it to Zadok and Abiathar the priests.
 **36** Behold, they have there with them their two sons, Ahimaaz Zadok’s son, and Jonathan Abiathar’s son; and by them you shall send to me every thing that you can hear.
 **37** So Hushai David’s friend came into the city, and Absalom came into Jerusalem. 
@@ -9307,9 +9307,9 @@
 **3** The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; you save me from violence.
 **4** I will call on Yahweh, who is worthy to be praised: so shall I be saved from mine enemies.
 **5** When the waves of death compassed me, the floods of ungodly men made me afraid;
-**6** The sorrows of hell compassed me about; the snares of death prevented me;
+**6** The sorrows of hell compassed me about; the snares of death preceded me;
 **7** In my distress I called upon Yahweh, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears.
-**8** Then the earth shook and trembled; the foundations of heaven moved and shook, because he was wroth.
+**8** Then the earth shook and trembled; the foundations of heaven moved and shook, because he was angry.
 **9** There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.
 **10** He bowed the heavens also, and came down; and darkness was under his feet.
 **11** And he rode upon a cherub, and did fly: and he was seen upon the wings of the wind.
@@ -9320,7 +9320,7 @@
 **16** And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of Yahweh, at the blast of the breath of his nostrils.
 **17** He sent from above, he took me; he drew me out of many waters;
 **18** He delivered me from my strong enemy, and from them that hated me: for they were too strong for me.
-**19** They prevented me in the day of my calamity: but Yahweh was my stay.
+**19** They preceded me in the day of my calamity: but Yahweh was my stay.
 **20** He brought me forth also into a large place: he delivered me, because he delighted in me.
 **21** Yahweh rewarded me according to my righteousness: according to the cleanness of my hands has he recompensed me.
 **22** For I have kept the ways of Yahweh, and have not wickedly departed from my God.
@@ -9328,7 +9328,7 @@
 **24** I was also upright before him, and have kept myself from mine iniquity.
 **25** Therefore Yahweh has recompensed me according to my righteousness; according to my cleanness in his eye sight.
 **26** With the merciful you will show yourself merciful, and with the upright man you will show yourself upright.
-**27*** With the pure you will show yourself pure; and with the froward you will show yourself contrary.
+**27*** With the pure you will show yourself pure; and with the perverse you will show yourself contrary.
 **28** And the afflicted people you will save: but your eyes are upon the haughty, that you may bring them down.
 **29** For you are my lamp, O Yahweh: and Yahweh will lighten my darkness.
 **30** For by you I have run through a troop: by my God have I leaped over a wall.
@@ -9567,7 +9567,7 @@
 **4** And Benaiah the son of Jehoiada was over the host: and Zadok and Abiathar were the priests:
 **5** And Azariah the son of Nathan was over the officers: and Zabud the son of Nathan was principal officer, and the king’s friend:
 **6** And Ahishar was over the household: and Adoniram the son of Abda was over the tribute.
-**7** And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.
+**7** And Solomon had twelve officers over all Israel, which provided provisions for the king and his household: each man his month in a year made provision.
 **8** And these are their names: The son of Hur, in mount Ephraim:
 **9** The son of Dekar, in Makaz, and in Shaalbim, and Beth–shemesh, and Elon–beth–hanan:
 **10** The son of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:
@@ -9587,7 +9587,7 @@
 **24** For he had dominion over all the region on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.
 **25** And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beer–sheba, all the days of Solomon.
 **26** And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.
-**27** And those officers provided victual for king Solomon, and for all that came to king Solomon’s table, every man in his month: they lacked nothing.
+**27** And those officers provided food for king Solomon, and for all that came to king Solomon’s table, every man in his month: they lacked nothing.
 **28*** Barley also and straw for the horses and fast camels brought they to the place where the officers were, every man according to his charge.
 **29*** And God gave Solomon wisdom and understanding exceeding much, and breadth of heart, even as the sand that is on the sea shore.
 **30** And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.
@@ -9856,7 +9856,7 @@
 **15** For it came to pass, when David was in Edom, and Joab the captain of the host was gone up to bury the slain, after he had smitten every male in Edom;
 **16*** For six months did Joab remain there with all Israel, until he had cut off every male in Edom:
 **17** That Hadad fled, he and certain Edomites of his father’s servants with him, to go into Egypt; Hadad being yet a little child.
-**18** And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, to Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land.
+**18** And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, to Pharaoh king of Egypt; which gave him an house, and appointed him provisions, and gave him land.
 **19** And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen.
 **20** And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh’s house: and Genubath was in Pharaoh’s household among the sons of Pharaoh.
 **21** And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country.
@@ -10323,7 +10323,7 @@
 **8** And Elijah took his mantle, and wrapped it together, and smote the waters, and they were divided here and there, so that they two went over on dry ground.
 **9** And it came to pass, when they were gone over, that Elijah said to Elisha, Ask what I shall do for you, before I be taken away from you. And Elisha said, I pray you, let a double portion of your spirit be upon me.
 **10** And he said, You have asked a hard thing: nevertheless, if you see me when I am taken from you, it shall be so to you; but if not, it shall not be so.
-**11*** And it came to pass, as they still went on, and spoke, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.
+**11*** And it came to pass, as they still went on, and spoke, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both apart; and Elijah went up by a whirlwind into heaven.
 **12** And Elisha saw it, and he cried, My father, my father, the chariot of Israel, and the horsemen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces.
 **13** He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan;
 **14** And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where is Yahweh God of Elijah? and when he also had smitten the waters, they parted here and there: and Elisha went over.
@@ -10425,7 +10425,7 @@
 **8** And it was so, when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, Wherefore have you rent your clothes? let him come now to me, and he shall know that there is a prophet in Israel.
 **9** So Naaman came with his horses and with his chariot, and stood at the door of the house of Elisha.
 **10** And Elisha sent a messenger to him, saying, Go and wash in Jordan seven times, and your flesh shall come again to you, and you shall be clean.
-**11** But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of Yahweh his God, and strike his hand over the place, and recover the leper.
+**11** But Naaman was angry, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of Yahweh his God, and strike his hand over the place, and recover the leper.
 **12** Are not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage.
 **13** And his servants came near, and spoke to him, and said, My father, if the prophet had bid you do some great thing, would you not have done it? how much rather then, when he says to you, Wash, and be clean?
 **14** Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like to the flesh of a little child, and he was clean.
@@ -10589,7 +10589,7 @@
 **16** And he said, Come with me, and see my zeal for Yahweh. So they made him ride in his chariot.
 **17** And when he came to Samaria, he slew all that remained to Ahab in Samaria, till he had destroyed him, according to the saying of Yahweh, which he spoke to Elijah.
 **18** And Jehu gathered all the people together, and said to them, Ahab served Baal a little; but Jehu shall serve him much.
-**19** Now therefore call to me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice to do to Baal; whosoever shall be wanting, he shall not live. But Jehu did it in subtilty, to the intent that he might destroy the worshippers of Baal.
+**19** Now therefore call to me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice to do to Baal; whosoever shall be wanting, he shall not live. But Jehu did it in craftiness, to the intent that he might destroy the worshippers of Baal.
 **20** And Jehu said, Proclaim a solemn assembly for Baal. And they proclaimed it.
 **21** And Jehu sent through all Israel: and all the worshippers of Baal came, so that there was not a man left that came not. And they came into the house of Baal; and the house of Baal was full from one end to another.
 **22*** And he said to him that was over the robes, Bring forth garments for all the worshippers of Baal. And he brought them forth garments.
@@ -10673,7 +10673,7 @@
 **16** And he said to the king of Israel, Put your hand upon the bow. And he put his hand upon it: and Elisha put his hands upon the king’s hands.
 **17** And he said, Open the window eastward. And he opened it. Then Elisha said, Shoot. And he shot. And he said, The arrow of Yahweh’s deliverance, and the arrow of deliverance from Syria: for you shall smite the Syrians in Aphek, till you have consumed them.
 **18** And he said, Take the arrows. And he took them. And he said to the king of Israel, Smite upon the ground. And he smote thrice, and stayed.
-**19** And the man of God was wroth with him, and said, You should have smitten five or six times; then had you smitten Syria till you had consumed it: whereas now you shall smite Syria but thrice.
+**19** And the man of God was angry with him, and said, You should have smitten five or six times; then had you smitten Syria till you had consumed it: whereas now you shall smite Syria but thrice.
 **20** And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year.
 **21*** And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the grave of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.
 **22** But Hazael king of Syria oppressed Israel all the days of Jehoahaz.
@@ -10899,7 +10899,7 @@
 **1** In those days was Hezekiah sick to death. And the prophet Isaiah the son of Amoz came to him, and said to him, Thus says Yahweh, Set your house in order; for you shall die, and not live.
 **2** Then he turned his face to the wall, and prayed to Yahweh, saying,
 **3** I beseech you, O Yahweh, remember now how I have walked before you in truth and with a perfect heart, and have done that which is good in your sight. And Hezekiah wept sore.
-**4** And it came to pass, afore Isaiah was gone out into the middle court, that the word of Yahweh came to him, saying,
+**4** And it came to pass, before Isaiah was gone out into the middle court, that the word of Yahweh came to him, saying,
 **5** Turn again, and tell Hezekiah the captain of my people, Thus says Yahweh, the God of David your father, I have heard your prayer, I have seen your tears: behold, I will heal you: on the third day you shall go up to the house of Yahweh.
 **6** And I will add to your days fifteen years; and I will deliver you and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake.
 **7** And Isaiah said, Take a lump of figs. And they took and laid it on the boil, and he recovered.
@@ -11463,7 +11463,7 @@
 **15** And Bakbakkar, Heresh, and Galal, and Mattaniah the son of Micah, the son of Zichri, the son of Asaph;
 **16** And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites.
 **17*** And the porters were, Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum was the head;
-**18** Who hitherto waited in the king’s gate eastward: they were porters in the companies of the children of Levi.
+**18** Who until now waited in the king’s gate eastward: they were porters in the companies of the children of Levi.
 **19** And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of Yahweh, were keepers of the entry.
 **20** And Phinehas the son of Eleazar was the ruler over them in time past, and Yahweh was with him.
 **21** And Zechariah the son of Meshelemiah was porter of the door of the tabernacle of the congregation.
@@ -11585,7 +11585,7 @@
 **26** Of the children of Levi four thousand and six hundred.
 **27** And Jehoiada was the leader of the Aaronites, and with him were three thousand and seven hundred;
 **28** And Zadok, a young man mighty of valour, and of his father’s house twenty and two captains.
-**29** And of the children of Benjamin, the kindred of Saul, three thousand: for hitherto the greatest part of them had kept the ward of the house of Saul.
+**29** And of the children of Benjamin, the kindred of Saul, three thousand: for until now the greatest part of them had kept the ward of the house of Saul.
 **30** And of the children of Ephraim twenty thousand and eight hundred, mighty men of valour, famous throughout the house of their fathers.
 **31** And of the half tribe of Manasseh eighteen thousand, which were expressed by name, to come and make David king.
 **32** And of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do; the heads of them were two hundred; and all their brethren were at their commandment.
@@ -11725,7 +11725,7 @@
 **13** I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before you:
 **14** But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore.
 **15** According to all these words, and according to all this vision, so did Nathan speak to David.
-**16** And David the king came and sat before Yahweh, and said, Who am I, O Yahweh God, and what is mine house, that you have brought me hitherto?
+**16** And David the king came and sat before Yahweh, and said, Who am I, O Yahweh God, and what is mine house, that you have brought me until now?
 **17** And yet this was a small thing in your eyes, O God; for you have also spoken of your servant’s house for a great while to come, and have regarded me according to the estate of a man of high degree, O Yahweh God.
 **18** What can David speak more to you for the honour of your servant? for you know your servant.
 **19** O Yahweh, for your servant’s sake, and according to your own heart, have you done all this greatness, in making known all these great things.
@@ -12322,7 +12322,7 @@
 **8** And Gath, and Mareshah, and Ziph,
 **9** And Adoraim, and Lachish, and Azekah,
 **10** And Zorah, and Aijalon, and Hebron, which are in Judah and in Benjamin fenced cities.
-**11** And he fortified the strong holds, and put captains in them, and store of victual, and of oil and wine.
+**11** And he fortified the strong holds, and put captains in them, and store of food, and of oil and wine.
 **12** And in every several city he put shields and spears, and made them exceeding strong, having Judah and Benjamin on his side.
 **13** And the priests and the Levites that were in all Israel resorted to him out of all their coasts.
 **14** For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest’s office to Yahweh:
@@ -12334,7 +12334,7 @@
 **20** And after her he took Maachah the daughter of Absalom; which bare him Abijah, and Attai, and Ziza, and Shelomith.
 **21*** And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.
 **22*** And Rehoboam made Abijah the son of Maachah the head, to be ruler among his brethren: for he thought to make him king.
-**23** And he dealt wisely, and dispersed of all his children throughout all the countries of Judah and Benjamin, to every fenced city: and he gave them victual in abundance. And he desired many wives. 
+**23** And he dealt wisely, and dispersed of all his children throughout all the countries of Judah and Benjamin, to every fenced city: and he gave them food in abundance. And he desired many wives. 
 ### Chapter 12
 
 **1** And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of Yahweh, and all Israel with him.
@@ -12426,7 +12426,7 @@
 **7** And at that time Hanani the seer came to Asa king of Judah, and said to him, Because you have relied on the king of Syria, and not relied on Yahweh your God, therefore is the host of the king of Syria escaped out of your hand.
 **8*** Were not the Ethiopians and the Lubims a great host, with very many chariots and horsemen? yet, because you did trust in Yahweh, he delivered them into your hand.
 **9** For the eyes of Yahweh run to and fro throughout the whole earth, to show himself strong in the behalf of them whose heart is perfect toward him. Herein you have done foolishly: therefore from henceforth you shall have wars.
-**10** Then Asa was wroth with the seer, and put him in a prison house; for he was in a rage with him because of this thing. And Asa oppressed some of the people the same time.
+**10** Then Asa was angry with the seer, and put him in a prison house; for he was in a rage with him because of this thing. And Asa oppressed some of the people the same time.
 **11** And, behold, the acts of Asa, first and last, lo, they are written in the book of the kings of Judah and Israel.
 **12** And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to Yahweh, but to the physicians.
 **13** And Asa slept with his fathers, and died in the one and fortieth year of his reign.
@@ -12678,7 +12678,7 @@
 **16** But when he was strong, his heart was lifted up to his destruction: for he transgressed against Yahweh his God, and went into the temple of Yahweh to burn incense upon the altar of incense.
 **17** And Azariah the priest went in after him, and with him fourscore priests of Yahweh, that were valiant men:
 **18*** And they withstood Uzziah the king, and said to him, It belongs not to you, Uzziah, to burn incense to Yahweh, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for you have trespassed; neither shall it be for your honour from Yahweh God.
-**19** Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of Yahweh, from beside the incense altar.
+**19** Then Uzziah was angry, and had a censer in his hand to burn incense: and while he was angry with the priests, the leprosy even rose up in his forehead before the priests in the house of Yahweh, from beside the incense altar.
 **20*** And Azariah the head priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yes, himself hasted also to go out, because Yahweh had smitten him.
 **21** And Uzziah the king was a leper to the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of Yahweh: and Jotham his son was over the king’s house, judging the people of the land.
 **22** Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write.
@@ -12704,7 +12704,7 @@
 **6** For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, which were all valiant men; because they had forsaken Yahweh God of their fathers.
 **7** And Zichri, a mighty man of Ephraim, slew Maaseiah the king’s son, and Azrikam the governor of the house, and Elkanah that was next to the king.
 **8** And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria.
-**9*** But a prophet of Yahweh was there, whose name was Oded: and he went out before the host that came to Samaria, and said to them, Behold, because Yahweh God of your fathers was wroth with Judah, he has delivered them into your hand, and you have slain them in a rage that reaches up to heaven.
+**9*** But a prophet of Yahweh was there, whose name was Oded: and he went out before the host that came to Samaria, and said to them, Behold, because Yahweh God of your fathers was angry with Judah, he has delivered them into your hand, and you have slain them in a rage that reaches up to heaven.
 **10*** And now you purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen to you: but are there not with you, even with you, sins against Yahweh your God?
 **11*** Now hear me therefore, and deliver the captives again, which you have taken captive of your brethren: for the fierce wrath of Yahweh is upon you.
 **12** Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,
@@ -12837,7 +12837,7 @@
 **20** And for this cause Hezekiah the king, and the prophet Isaiah the son of Amoz, prayed and cried to heaven.
 **21** And Yahweh sent an angel, which cut off all the mighty men of valour, and the leaders and captains in the camp of the king of Assyria. So he returned with shame of face to his own land. And when he was come into the house of his god, they that came forth of his own bowels slew him there with the sword.
 **22** Thus Yahweh saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all other, and guided them on every side.
-**23** And many brought gifts to Yahweh to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth.
+**23** And many brought gifts to Yahweh to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from then on.
 **24** In those days Hezekiah was sick to the death, and prayed to Yahweh: and he spoke to him, and he gave him a sign.
 **25** But Hezekiah rendered not again according to the benefit done to him; for his heart was lifted up: therefore there was wrath upon him, and upon Judah and Jerusalem.
 **26** Notwithstanding Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the wrath of Yahweh came not upon them in the days of Hezekiah.
@@ -13345,13 +13345,13 @@
 **32** And between the going up of the corner to the sheep gate repaired the goldsmiths and the merchants. 
 ### Chapter 4
 
-**1*** But it came to pass, that when Sanballat heard that we built the wall, he was wroth, and took great indignation, and mocked the Jews.
+**1*** But it came to pass, that when Sanballat heard that we built the wall, he was angry, and took great indignation, and mocked the Jews.
 **2*** And he spoke before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the dust which are burned?
 **3** Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall.
 **4*** Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for prey in the land of captivity:
 **5** And cover not their iniquity, and let not their sin be blotted out from before you: for they have provoked you to anger before the builders.
 **6** So built we the wall; and all the wall was joined together to the half thereof: for the people had a mind to work.
-**7** But it came to pass, that when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, and that the breaches began to be stopped, then they were very wroth,
+**7** But it came to pass, that when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, and that the breaches began to be stopped, then they were very angry,
 **8** And conspired all of them together to come and to fight against Jerusalem, and to hinder it.
 **9** Nevertheless we made our prayer to our God, and set a watch against them day and night, because of them.
 **10*** And Judah said, The strength of the bearers of burdens is failing, and there is much dust; so that we are not able to build the wall.
@@ -13577,7 +13577,7 @@
 **28** And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands to the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;
 **29** They clung to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of Yahweh our Lord, and his judgments and his statutes;
 **30** And that we would not give our daughters to the people of the land, nor take their daughters for our sons:
-**31*** And if the people of the land bring ware or any victuals on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the usury of every debt.
+**31*** And if the people of the land bring ware or any provisions on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the usury of every debt.
 **32** Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;
 **33** For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God.
 **34** And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of Yahweh our God, as it is written in the law:
@@ -13679,7 +13679,7 @@
 **2** Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: however our God turned the curse into a blessing.
 **3** Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude.
 **4*** And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, was joined to Tobiah:
-**5*** And he had prepared for him a great chamber, where aforetime they laid the meat offerings, the frankincense, and the vessels, and the tithes of the wheat, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests.
+**5*** And he had prepared for him a great chamber, where formerly they laid the meat offerings, the frankincense, and the vessels, and the tithes of the wheat, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests.
 **6** But in all this time was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I to the king, and after certain days obtained I leave of the king:
 **7** And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God.
 **8** And it grieved me sore: therefore I cast forth all the household stuff of Tobiah out of the chamber.
@@ -13689,7 +13689,7 @@
 **12*** Then brought all Judah the tithe of the wheat and the new wine and the oil to the treasuries.
 **13** And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute to their brethren.
 **14** Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof.
-**15** In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals.
+**15** In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold provisions.
 **16** There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath to the children of Judah, and in Jerusalem.
 **17** Then I contended with the nobles of Judah, and said to them, What evil thing is this that you do, and profane the sabbath day?
 **18*** Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet you bring more wrath upon Israel by profaning the sabbath.
@@ -13724,7 +13724,7 @@
 **9** Also Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus.
 **10** On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that served in the presence of Ahasuerus the king,
 **11** To bring Vashti the queen before the king with the crown royal, to show the people and the princes her beauty: for she was fair to look on.
-**12** But the queen Vashti refused to come at the king’s commandment by his chamberlains: therefore was the king very wroth, and his anger burned in him.
+**12** But the queen Vashti refused to come at the king’s commandment by his chamberlains: therefore was the king very angry, and his anger burned in him.
 **13*** Then the king said to the wise men, which knew the times, for so was the king’s manner toward all that knew law and judgment:
 **14*** And the next to him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king’s face, and which sat the first in the kingdom;
 **15** What shall we do to the queen Vashti according to law, because she has not performed the commandment of the king Ahasuerus by the chamberlains?
@@ -13757,7 +13757,7 @@
 **18** Then the king made a great feast to all his princes and his servants, even Esther’s feast; and he made a release to the provinces, and gave gifts, according to the state of the king.
 **19** And when the virgins were gathered together the second time, then Mordecai sat in the king’s gate.
 **20** Esther had not yet showed her kindred nor her people; as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him.
-**21** In those days, while Mordecai sat in the king’s gate, two of the king’s chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus.
+**21** In those days, while Mordecai sat in the king’s gate, two of the king’s chamberlains, Bigthan and Teresh, of those which kept the door, were angry, and sought to lay hand on the king Ahasuerus.
 **22** And the thing was known to Mordecai, who told it to Esther the queen; and Esther certified the king thereof in Mordecai’s name.
 **23** And when inquisition was made of the matter, it was found out; therefore they were both hanged on a tree: and it was written in the book of the chronicles before the king. 
 ### Chapter 3
@@ -13955,7 +13955,7 @@
 **9** Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:
 **10** Because it shut not up the doors of my mother’s womb, nor hid sorrow from mine eyes.
 **11** Why died I not from the womb? why did I not give up the ghost when I came out of the belly?
-**12** Why did the knees prevent me? or why the breasts that I should suck?
+**12** Why did the knees precede me? or why the breasts that I should suck?
 **13** For now should I have lain still and been quiet, I should have slept: then had I been at rest,
 **14** With kings and counsellors of the earth, which built desolate places for themselves;
 **15** Or with princes that had gold, who filled their houses with silver:
@@ -14007,7 +14007,7 @@
 **10** Who gives rain upon the earth, and sends waters upon the fields:
 **11** To set up on high those that be low; that those which mourn may be exalted to safety.
 **12*** He scatters the devices of the crafty, so that their hands cannot perform that which they have began.
-**13*** He takes the wise in their own craftiness: and the counsel of the froward is carried hastily.
+**13*** He takes the wise in their own craftiness: and the counsel of the perverse is carried hastily.
 **14** They meet with darkness in the daytime, and grope in the noonday as in the night.
 **15** But he saves the poor from the sword, from their mouth, and from the hand of the mighty.
 **16** So the poor has hope, and iniquity stops her mouth.
@@ -14315,8 +14315,8 @@
 **9** He tears me in his wrath, who hates me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me.
 **10*** They have opened upon me with their mouth; they have smitten me upon the cheek shamefully; they have gathered themselves together against me.
 **11** God has delivered me to the ungodly, and turned me over into the hands of the wicked.
-**12** I was at ease, but he has broken me asunder: he has also taken me by my neck, and shaken me to pieces, and set me up for his mark.
-**13** His archers compass me round about, he cleaves my reins asunder, and does not spare; he pours out my gall upon the ground.
+**12** I was at ease, but he has broken me apart: he has also taken me by my neck, and shaken me to pieces, and set me up for his mark.
+**13** His archers compass me round about, he cleaves my reins apart, and does not spare; he pours out my gall upon the ground.
 **14** He breaks me with breach upon breach, he runs upon me like a giant.
 **15*** I have bound sackcloth upon my skin, and defiled my horn in the dust.
 **16** My face is foul with weeping, and on my eyelids is the shadow of death;
@@ -14333,7 +14333,7 @@
 **3** Lay down now, put me in a surety with you; who is he that will strike hands with me?
 **4** For you have hid their heart from understanding: therefore shall you not exalt them.
 **5*** He that betrays friends for prey, even the eyes of his children shall fail.
-**6** He has made me also a byword of the people; and aforetime I was as a tabret.
+**6** He has made me also a byword of the people; and formerly I was as a tabret.
 **7** Mine eye also is dim by reason of sorrow, and all my members are as a shadow.
 **8** Upright men shall be astonied at this, and the innocent shall stir up himself against the hypocrite.
 **9** The righteous also shall hold on his way, and he that has clean hands shall be stronger and stronger.
@@ -14365,7 +14365,7 @@
 **17** His remembrance shall perish from the earth, and he shall have no name in the street.
 **18** He shall be driven from light into darkness, and chased out of the world.
 **19*** He shall neither have son nor son's son among his people, nor any remaining in his dwellings.
-**20** They that come after him shall be astonied at his day, as they that went before were affrighted.
+**20** They that come after him shall be astonied at his day, as they that went before were frightened.
 **21** Surely such are the dwellings of the wicked, and this is the place of him that knows not God. 
 ### Chapter 19
 
@@ -14677,7 +14677,7 @@
 **24** However he will not stretch out his hand to the grave, though they cry in his destruction.
 **25** Did not I weep for him that was in trouble? was not my soul grieved for the poor?
 **26** When I looked for good, then evil came to me: and when I waited for light, there came darkness.
-**27** My bowels boiled, and rested not: the days of affliction prevented me.
+**27** My bowels boiled, and rested not: the days of affliction preceded me.
 **28** I went mourning without the sun: I stood up, and I cried in the congregation.
 **29*** I am a brother to serpents, and a companion to owls.
 **30** My skin is black upon me, and my bones are burned with heat.
@@ -14913,7 +14913,7 @@
 **8** Or who shut up the sea with doors, when it broke forth, as if it had issued out of the womb?
 **9*** When I made the cloud the garment thereof, and thick darkness a band for it,
 **10** And broke up for it my decreed place, and set bars and doors,
-**11** And said, Hitherto shall you come, but no further: and here shall your proud waves be stayed?
+**11** And said, Until now shall you come, but no further: and here shall your proud waves be stayed?
 **12*** Have you commanded the morning since your days; and caused the dawn to know his place;
 **13** That it might take hold of the ends of the earth, that the wicked might be shaken out of it?
 **14** It is turned as clay to the seal; and they stand as a garment.
@@ -14967,7 +14967,7 @@
 **19** Have you given the horse strength? have you clothed his neck with thunder?
 **20** Can you make him afraid as a grasshopper? the glory of his nostrils is terrible.
 **21*** He digs in the valley, and rejoices in his strength: he goes on to meet the armed men.
-**22** He mocks at fear, and is not affrighted; neither turns he back from the sword.
+**22** He mocks at fear, and is not frightened; neither turns he back from the sword.
 **23*** The quiver shakes against him, the glittering spear and the shield.
 **24** He swallows the ground with fierceness and rage: neither believes he that it is the sound of the trumpet.
 **25*** He says among the trumpets, Aha, aha; and he smells the battle afar off, the thunder of the captains, and the shouting.
@@ -15014,7 +15014,7 @@
 **8** Lay your hand upon him, remember the battle, do no more.
 **9** Behold, the hope of him is in vain: shall not one be cast down even at the sight of him?
 **10** None is so fierce that dare stir him up: who then is able to stand before me?
-**11** Who has prevented me, that I should repay him? whatsoever is under the whole heaven is mine.
+**11** Who has preceded me, that I should repay him? whatsoever is under the whole heaven is mine.
 **12** I will not conceal his parts, nor his power, nor his comely proportion.
 **13** Who can discover the face of his garment? or who can come to him with his double bridle?
 **14** Who can open the doors of his face? his teeth are terrible round about.
@@ -15074,7 +15074,7 @@
 
 **1** Why do the heathen rage, and the people imagine a vain thing?
 **2** The kings of the earth set themselves, and the rulers take counsel together, against Yahweh, and against his anointed, saying,
-**3** Let us break their bands asunder, and cast away their cords from us.
+**3** Let us break their bands apart, and cast away their cords from us.
 **4** He that sits in the heavens shall laugh: Adonai shall have them in derision.
 **5** Then shall he speak to them in his wrath, and vex them in his sore displeasure.
 **6** Yet have I set my king upon my holy hill of Zion.
@@ -15191,7 +15191,7 @@
 **5** His ways are always grievous; your judgments are far above out of his sight: as for all his enemies, he puffeth at them.
 **6** He has said in his heart, I shall not be moved: for I shall never be in adversity.
 **7*** His mouth is full of cursing and deceit and oppression: under his tongue is mischief and vanity.
-**8** He sits in the lurking places of the villages: in the secret places does he murder the innocent: his eyes are privily set against the poor.
+**8** He sits in the lurking places of the villages: in the secret places does he murder the innocent: his eyes are secretly set against the poor.
 **9** He lies in wait secretly as a lion in his den: he lies in wait to catch the poor: he does catch the poor, when he draws him into his net.
 **10*** He bows, and humbles himself, that the poor may fall by his strong ones.
 **11** He has said in his heart, God has forgotten: he hides his face; he will never see it.
@@ -15205,7 +15205,7 @@
 ### Chapter 11
 
 **1*** In Yahweh put I my trust: how say you to my soul, Flee as a bird to your mountain?
-**2*** For, lo, the wicked bend their bow, they make ready their arrow upon the cord, that they may privily shoot at the upright in heart.
+**2*** For, lo, the wicked bend their bow, they make ready their arrow upon the cord, that they may secretly shoot at the upright in heart.
 **3** If the foundations be destroyed, what can the righteous do?
 **4** Yahweh is in his holy temple, Yahweh’s throne is in heaven: his eyes behold, his eyelids try, the children of men.
 **5** Yahweh tries the righteous: but the wicked and him that loves violence his soul hates.
@@ -15281,9 +15281,9 @@
 **2** Yahweh is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.
 **3** I will call upon Yahweh, who is worthy to be praised: so shall I be saved from mine enemies.
 **4** The sorrows of death compassed me, and the floods of ungodly men made me afraid.
-**5** The sorrows of hell compassed me about: the snares of death prevented me.
+**5** The sorrows of hell compassed me about: the snares of death preceded me.
 **6** In my distress I called upon Yahweh, and cried to my God: he heard my voice out of his temple, and my cry came before him, even into his ears.
-**7** Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth.
+**7** Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was angry.
 **8** There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.
 **9** He bowed the heavens also, and came down: and darkness was under his feet.
 **10** And he rode upon a cherub, and did fly: yes, he did fly upon the wings of the wind.
@@ -15294,7 +15294,7 @@
 **15** Then the channels of waters were seen, and the foundations of the world were discovered at your rebuke, O Yahweh, at the blast of the breath of your nostrils.
 **16** He sent from above, he took me, he drew me out of many waters.
 **17** He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.
-**18** They prevented me in the day of my calamity: but Yahweh was my stay.
+**18** They preceded me in the day of my calamity: but Yahweh was my stay.
 **19** He brought me forth also into a large place; he delivered me, because he delighted in me.
 **20** Yahweh rewarded me according to my righteousness; according to the cleanness of my hands has he recompensed me.
 **21** For I have kept the ways of Yahweh, and have not wickedly departed from my God.
@@ -15302,7 +15302,7 @@
 **23** I was also upright before him, and I kept myself from mine iniquity.
 **24*** Therefore has Yahweh recompensed me according to my righteousness, according to the cleanness of my hands in his sight.
 **25** With the merciful you will show yourself merciful; with an upright man you will show yourself upright;
-**26** With the pure you will show yourself pure; and with the froward you will show yourself froward.
+**26** With the pure you will show yourself pure; and with the perverse you will show yourself perverse.
 **27** For you will save the afflicted people; but will bring down high looks.
 **28*** For you will light my candle: Yahweh my God will lighten my darkness.
 **29** For by you I have run through a troop; and by my God have I leaped over a wall.
@@ -15358,7 +15358,7 @@
 
 **1** The king shall joy in your strength, O Yahweh; and in your salvation how greatly shall he rejoice!
 **2** You have given him his heart’s desire, and have not withholden the request of his lips. Selah.
-**3** For you prevent him with the blessings of goodness: you set a crown of pure gold on his head.
+**3** For you precede him with the blessings of goodness: you set a crown of pure gold on his head.
 **4** He asked life of you, and you gave it him, even length of days for ever and ever.
 **5** His glory is great in your salvation: honour and majesty have you laid upon him.
 **6*** For you have made him most blessed for ever: you have made him exceeding thankful with your countenance.
@@ -15519,7 +15519,7 @@
 **1** In you, O Yahweh, do I put my trust; let me never be ashamed: deliver me in your righteousness.
 **2** Bow down your ear to me; deliver me speedily: be you my strong rock, for an house of defence to save me.
 **3** For you are my rock and my fortress; therefore for your name’s sake lead me, and guide me.
-**4** Pull me out of the net that they have laid privily for me: for you are my strength.
+**4** Pull me out of the net that they have laid secretly for me: for you are my strength.
 **5** Into your hand I commit my spirit: you have redeemed me, O Yahweh God of truth.
 **6** I have hated them that regard lying vanities: but I trust in Yahweh.
 **7*** I will be thankful and rejoice in your mercy: for you have considered my trouble; you have known my soul in adversities;
@@ -15660,7 +15660,7 @@
 **11** But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.
 **12*** The wicked devises against the just, and gnasheth upon him with his teeth.
 **13** Adonai shall laugh at him: for he sees that his day is coming.
-**14** The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation.
+**14** The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conduct.
 **15** Their sword shall enter into their own heart, and their bows shall be broken.
 **16** A little that a righteous man has is better than the riches of many wicked.
 **17** For the arms of the wicked shall be broken: but Yahweh upholds the righteous.
@@ -15913,7 +15913,7 @@
 **20** You sit and speak against your brother; you slander your own mother’s son.
 **21** These things have you done, and I kept silence; you thought that I was altogether such an one as yourself: but I will reprove you, and set them in order before your eyes.
 **22*** Now consider this, you that forget God, lest I tear you in pieces, and there be none to deliver.
-**23*** Whoso offers praise honours me: and to him that orders his conversation aright will I show the salvation of God.
+**23*** Whoso offers praise honours me: and to him that orders his conduct aright will I show the salvation of God.
 ### Chapter 51
 
 **1** Have mercy upon me, O God, according to your lovingkindness: according to the multitude of your tender mercies blot out my transgressions.
@@ -16040,7 +16040,7 @@
 **7*** Behold, they utter out with their mouth: swords are in their lips: for who, say they, does hear?
 **8** But you, O Yahweh, shall laugh at them; you shall have all the heathen in derision.
 **9** Because of his strength will I wait upon you: for God is my defence.
-**10** The God of my mercy shall prevent me: God shall let me see my desire upon mine enemies.
+**10** The God of my mercy shall precede me: God shall let me see my desire upon mine enemies.
 **11** Slay them not, lest my people forget: scatter them by your power; and bring them down, O Adonai our shield.
 **12** For the sin of their mouth and the words of their lips let them even be taken in their pride: and for cursing and lying which they speak.
 **13** Consume them in wrath, consume them, that they may not be: and let them know that God rules in Jacob to the ends of the earth. Selah.
@@ -16055,7 +16055,7 @@
 **3** You have showed your people hard things: you have made us to drink the wine of astonishment.
 **4*** You have given a banner to them that fear you, that it may be lifted up because of the truth. Selah.
 **5** That your beloved may be delivered; save with your right hand, and hear me.
-**6** God has spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.
+**6** God has spoken in his holiness; I will rejoice, I will divide Shechem, and measure out the valley of Succoth.
 **7** Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;
 **8*** Moab is my pot for washing; over Edom will I cast out my shoe: Philistia, triumph you because of me.
 **9** Who will bring me into the strong city? who will lead me into Edom?
@@ -16105,7 +16105,7 @@
 **2** Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 **3** Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
 **4** That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
-**5** They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
+**5** They encourage themselves in an evil matter: they commune of laying snares secretly; they say, Who shall see them?
 **6** They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 **7** But God shall shoot at them with an arrow; suddenly shall they be wounded.
 **8** So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
@@ -16257,7 +16257,7 @@
 **14** But I will hope continually, and will yet praise you more and more.
 **15** My mouth shall show forth your righteousness and your salvation all the day; for I know not the numbers thereof.
 **16** I will go in the strength of Adonai Yahweh: I will make mention of your righteousness, even of your only.
-**17** O God, you have taught me from my youth: and hitherto have I declared your wondrous works.
+**17** O God, you have taught me from my youth: and until now have I declared your wondrous works.
 **18*** Now also when I am old and gray headed, O God, forsake me not; until I have showed your strength to this generation, and your power to every one that is to come.
 **19** Your righteousness also, O God, is very high, who have done great things: O God, who is like to you!
 **20** You, which have showed me great and sore troubles, shall quicken me again, and shall bring me up again from the depths of the earth.
@@ -16412,7 +16412,7 @@
 **18** And they tempted God in their heart by asking meat for their lust.
 **19** Yes, they spoke against God; they said, Can God furnish a table in the wilderness?
 **20** Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?
-**21** Therefore Yahweh heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;
+**21** Therefore Yahweh heard this, and was angry: so a fire was kindled against Jacob, and anger also came up against Israel;
 **22** Because they believed not in God, and trusted not in his salvation:
 **23** Though he had commanded the clouds from above, and opened the doors of heaven,
 **24*** And had rained down manna upon them to eat, and had given them of the wheat of heaven.
@@ -16450,10 +16450,10 @@
 **56** Yet they tempted and provoked the most high God, and kept not his testimonies:
 **57*** But turned back, and dealt treacherously like their fathers: they were turned aside like a deceitful bow.
 **58** For they provoked him to anger with their high places, and moved him to jealousy with their graven images.
-**59** When God heard this, he was wroth, and greatly abhorred Israel:
+**59** When God heard this, he was angry, and greatly abhorred Israel:
 **60** So that he forsook the tabernacle of Shiloh, the tent which he placed among men;
 **61** And delivered his strength into captivity, and his glory into the enemy’s hand.
-**62** He gave his people over also to the sword; and was wroth with his inheritance.
+**62** He gave his people over also to the sword; and was angry with his inheritance.
 **63** The fire consumed their young men; and their maidens were not given to marriage.
 **64** Their priests fell by the sword; and their widows made no lamentation.
 **65** Then Adonai awaked as one out of sleep, and like a mighty man that shouts by reason of wine.
@@ -16473,7 +16473,7 @@
 **5** How long, Yahweh? will you be angry for ever? shall your jealousy burn like fire?
 **6** Pour out your wrath upon the heathen that have not known you, and upon the kingdoms that have not called upon your name.
 **7** For they have devoured Jacob, and laid waste his dwelling place.
-**8** O remember not against us former iniquities: let your tender mercies speedily prevent us: for we are brought very low.
+**8** O remember not against us former iniquities: let your tender mercies speedily precede us: for we are brought very low.
 **9** Help us, O God of our salvation, for the glory of your name: and deliver us, and purge away our sins, for your name’s sake.
 **10** Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of your servants which is shed.
 **11** Let the sighing of the prisoner come before you; according to the greatness of your power preserve you those that are appointed to die;
@@ -16619,7 +16619,7 @@
 **10** Will you show wonders to the dead? shall the dead arise and praise you? Selah.
 **11** Shall your lovingkindness be declared in the grave? or your faithfulness in destruction?
 **12*** Shall your wonders be known in the dark? and your righteousness in the land of silence?
-**13** But to you have I cried, O Yahweh; and in the morning shall my prayer prevent you.
+**13** But to you have I cried, O Yahweh; and in the morning shall my prayer precede you.
 **14** Yahweh, why cast you off my soul? why hide you your face from me?
 **15*** I am afflicted and ready to die from my youth up: while I suffer your fears I am troubled.
 **16*** Your fierce wrath goes over me; your fears have cut me off.
@@ -16664,7 +16664,7 @@
 **35** Once have I sworn by my holiness that I will not lie to David.
 **36** His seed shall endure for ever, and his throne as the sun before me.
 **37** It shall be established for ever as the moon, and as a faithful witness in heaven. Selah.
-**38** But you have cast off and abhorred, you have been wroth with your anointed.
+**38** But you have cast off and abhorred, you have been angry with your anointed.
 **39** You have made void the covenant of your servant: you have profaned his crown by casting it to the ground.
 **40** You have broken down all his hedges; you have brought his strong holds to ruin.
 **41** All that pass by the way spoil him: he is a reproach to his neighbours.
@@ -16841,8 +16841,8 @@
 **1** I will sing of mercy and judgment: to you, O Yahweh, will I sing.
 **2** I will behave myself wisely in a perfect way. O when will you come to me? I will walk within my house with a perfect heart.
 **3** I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
-**4** A froward heart shall depart from me: I will not know a wicked person.
-**5** Whoso privily slanders his neighbour, him will I cut off: him that has an high look and a proud heart will not I suffer.
+**4** A perverse heart shall depart from me: I will not know a wicked person.
+**5** Whoso secretly slanders his neighbour, him will I cut off: him that has an high look and a proud heart will not I suffer.
 **6** Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walks in a perfect way, he shall serve me.
 **7*** He that works deceit shall not dwell within my house: he that tells lies shall not stay in my sight.
 **8** I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of Yahweh. 
@@ -16963,7 +16963,7 @@
 **22*** To bind his princes at his pleasure; and teach his elders wisdom.
 **23*** Israel also came into Egypt; and Jacob dwelt in the land of Ham.
 **24** And he increased his people greatly; and made them stronger than their enemies.
-**25** He turned their heart to hate his people, to deal subtilly with his servants.
+**25** He turned their heart to hate his people, to deal craftily with his servants.
 **26** He sent Moses his servant; and Aaron whom he had chosen.
 **27*** They showed among them his signs, and wonders in the land of Ham.
 **28** He sent darkness, and made it dark; and they rebelled not against his word.
@@ -17087,7 +17087,7 @@
 **4** For your mercy is great above the heavens: and your truth reaches to the clouds.
 **5** Be you exalted, O God, above the heavens: and your glory above all the earth;
 **6** That your beloved may be delivered: save with your right hand, and answer me.
-**7** God has spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.
+**7** God has spoken in his holiness; I will rejoice, I will divide Shechem, and measure out the valley of Succoth.
 **8** Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;
 **9*** Moab is my pot for washing; over Edom will I cast out my shoe; over Philistia will I triumph.
 **10** Who will bring me into the strong city? who will lead me into Edom?
@@ -17405,8 +17405,8 @@
 **144** The righteousness of your testimonies is everlasting: give me understanding, and I shall live.
 **145**  I cried with my whole heart; hear me, O Yahweh: I will keep your statutes.
 **146** I cried to you; save me, and I shall keep your testimonies.
-**147** I prevented the dawning of the morning, and cried: I hoped in your word.
-**148** Mine eyes prevent the night watches, that I might meditate in your word.
+**147** I preceded the dawning of the morning, and cried: I hoped in your word.
+**148** Mine eyes precede the night watches, that I might meditate in your word.
 **149** Hear my voice according to your lovingkindness: O Yahweh, quicken me according to your judgment.
 **150** They draw near that follow after mischief: they are far from your law.
 **151** You are near, O Yahweh; and all your commandments are truth.
@@ -17516,9 +17516,9 @@
 **1** Many a time have they afflicted me from my youth, may Israel now say:
 **2** Many a time have they afflicted me from my youth: yet they have not prevailed against me.
 **3*** The husbandmen plowed upon my back: they made long their furrows.
-**4** Yahweh is righteous: he has cut asunder the cords of the wicked.
+**4** Yahweh is righteous: he has cut apart the cords of the wicked.
 **5** Let them all be confounded and turned back that hate Zion.
-**6** Let them be as the grass upon the housetops, which withers afore it grows up:
+**6** Let them be as the grass upon the housetops, which withers before it grows up:
 **7*** Wherewith the reaper fills not his hand; nor he that binds sheaves his bosom.
 **8*** Neither do they which go by say, The blessing of Yahweh be upon you: we bless you in the name of Yahweh. 
 ### Chapter 130
@@ -17695,7 +17695,7 @@
 
 **1** I cried to Yahweh with my voice; with my voice to Yahweh did I make my supplication.
 **2** I poured out my complaint before him; I showed before him my trouble.
-**3*** When my spirit was swallowed within me, then you knew my path. In the way wherein I walked have they privily laid a snare for me.
+**3*** When my spirit was swallowed within me, then you knew my path. In the way wherein I walked have they secretly laid a snare for me.
 **4** I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul.
 **5** I cried to you, O Yahweh: I said, You are my refuge and my portion in the land of the living.
 **6** Attend to my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.
@@ -17833,21 +17833,21 @@
 **1** The proverbs of Solomon the son of David, king of Israel;
 **2** To know wisdom and instruction; to perceive the words of understanding;
 **3** To receive the instruction of wisdom, justice, and judgment, and equity;
-**4** To give subtilty to the simple, to the young man knowledge and discretion.
+**4** To give prudence to the simple, to the young man knowledge and discretion.
 **5** A wise man will hear, and will increase learning; and a man of understanding shall attain to wise counsels:
 **6** To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.
 **7** The fear of Yahweh is the beginning of knowledge: but fools despise wisdom and instruction.
 **8** My son, hear the instruction of your father, and forsake not the law of your mother:
 **9** For they shall be an ornament of grace to your head, and chains about your neck.
 **10** My son, if sinners entice you, consent you not.
-**11*** If they say, Come with us, let us lay wait for blood, let us hide privily for the innocent without cause:
+**11*** If they say, Come with us, let us lay wait for blood, let us hide secretly for the innocent without cause:
 **12** Let us swallow them up alive as the grave; and whole, as those that go down into the pit:
 **13** We shall find all precious substance, we shall fill our houses with spoil:
 **14** Cast in your lot among us; let us all have one purse:
 **15** My son, walk not you in the way with them; refrain your foot from their path:
 **16** For their feet run to evil, and make haste to shed blood.
 **17** Surely in vain the net is spread in the sight of any bird.
-**18*** And they lay wait for their own blood; they hide privily for their own lives.
+**18*** And they lay wait for their own blood; they hide secretly for their own lives.
 **19** So are the ways of every one that is greedy of gain; which takes away the life of the owners thereof.
 **20** Wisdom cries without; she utters her voice in the streets:
 **21*** She cries in the place of multitudes, in the openings of the gates: in the city she utters her words, saying,
@@ -17876,10 +17876,10 @@
 **9** Then shall you understand righteousness, and judgment, and equity; yes, every good path.
 **10** When wisdom enters into your heart, and knowledge is pleasant to your soul;
 **11** Discretion shall preserve you, understanding shall keep you:
-**12** To deliver you from the way of the evil man, from the man that speaks froward things;
+**12** To deliver you from the way of the evil man, from the man that speaks perverse things;
 **13** Who leave the paths of uprightness, to walk in the ways of darkness;
 **14*** Who rejoice to do evil, and delight in the perverseness of the wicked;
-**15** Whose ways are crooked, and they froward in their paths:
+**15** Whose ways are crooked, and they perverse in their paths:
 **16** To deliver you from the strange woman, even from the stranger which flattereth with her words;
 **17** Which forsakes the guide of her youth, and forgets the covenant of her God.
 **18** For her house inclines to death, and her paths to the dead.
@@ -17920,7 +17920,7 @@
 **29*** Devise not evil against your neighbour, seeing he dwells safely by you.
 **30** Strive not with a man without cause, if he have done you no harm.
 **31** Envy you not the oppressor, and choose none of his ways.
-**32** For the froward is abomination to Yahweh: but his secret is with the righteous.
+**32** For the perverse is abomination to Yahweh: but his secret is with the righteous.
 **33*** The curse of Yahweh is in the house of the wicked: but he blesses the abode of the just.
 **34** Surely he scorns the scorners: but he gives grace to the lowly.
 **35*** The wise shall inherit glory: but shame shall be the honour of fools.
@@ -17949,7 +17949,7 @@
 **21** Let them not depart from your eyes; keep them in the midst of your heart.
 **22** For they are life to those that find them, and health to all their flesh.
 **23** Keep your heart with all diligence; for out of it are the issues of life.
-**24** Put away from you a froward mouth, and perverse lips put far from you.
+**24** Put away from you a perverse mouth, and perverse lips put far from you.
 **25** Let your eyes look right on, and let your eyelids look straight before you.
 **26*** Weigh the path of your feet, and let all your ways be established.
 **27** Turn not to the right hand nor to the left: remove your foot from evil. 
@@ -17991,7 +17991,7 @@
 **9** How long will you sleep, O sluggard? when will you arise out of your sleep?
 **10** Yet a little sleep, a little slumber, a little folding of the hands to sleep:
 **11*** So shall your poverty come as a robber, and your want as an armed man.
-**12** A naughty person, a wicked man, walks with a froward mouth.
+**12** A wicked person, a wicked man, walks with a perverse mouth.
 **13*** He makes signs with his eyes, he speaks with his feet, he teaches with his fingers;
 **14*** Perverseness is in his heart, he devises mischief continually; he sows strife.
 **15** Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.
@@ -18026,7 +18026,7 @@
 **7** And beheld among the simple ones, I discerned among the youths, a young man void of understanding,
 **8** Passing through the street near her corner; and he went the way to her house,
 **9** In the twilight, in the evening, in the black and dark night:
-**10** And, behold, there met him a woman with the attire of an harlot, and subtil of heart.
+**10** And, behold, there met him a woman with the attire of an harlot, and crafty of heart.
 **11*** She is loud and stubborn; her feet abide not in her house:
 **12*** Now is she without, now in the streets, and lies in wait at every corner.
 **13** So she caught him, and kissed him, and with an impudent face said to him,
@@ -18053,12 +18053,12 @@
 **5** O you simple, understand wisdom: and, you fools, be you of an understanding heart.
 **6** Hear; for I will speak of excellent things; and the opening of my lips shall be right things.
 **7** For my mouth shall speak truth; and wickedness is an abomination to my lips.
-**8** All the words of my mouth are in righteousness; there is nothing froward or perverse in them.
+**8** All the words of my mouth are in righteousness; there is nothing perverse or perverse in them.
 **9** They are all plain to him that understands, and right to them that find knowledge.
 **10** Receive my instruction, and not silver; and knowledge rather than choice gold.
 **11** For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.
 **12*** I wisdom dwell with prudence, and find out knowledge and discretion.
-**13** The fear of Yahweh is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.
+**13** The fear of Yahweh is to hate evil: pride, and arrogancy, and the evil way, and the perverse mouth, do I hate.
 **14** Counsel is mine, and sound wisdom: I am understanding; I have strength.
 **15** By me kings reign, and princes decree justice.
 **16** By me princes rule, and nobles, even all the judges of the earth.
@@ -18134,7 +18134,7 @@
 **28*** The hope of the righteous shall be thankfulness: but the expectation of the wicked shall perish.
 **29** The way of Yahweh is strength to the upright: but destruction shall be to the workers of iniquity.
 **30** The righteous shall never be removed: but the wicked shall not inhabit the earth.
-**31** The mouth of the just brings forth wisdom: but the froward tongue shall be cut out.
+**31** The mouth of the just brings forth wisdom: but the perverse tongue shall be cut out.
 **32*** The lips of the righteous know what is acceptable: but the mouth of the wicked speaks perverseness.
 ### Chapter 11
 
@@ -18143,7 +18143,7 @@
 **3** The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.
 **4** Riches profit not in the day of wrath: but righteousness delivers from death.
 **5** The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness.
-**6** The righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness.
+**6** The righteousness of the upright shall deliver them: but transgressors shall be taken in their own wickedness.
 **7** When a wicked man dies, his expectation shall perish: and the hope of unjust men perishes.
 **8** The righteous is delivered out of trouble, and the wicked comes in his stead.
 **9** An hypocrite with his mouth destroys his neighbour: but through knowledge shall the just be delivered.
@@ -18157,7 +18157,7 @@
 **17** The merciful man does good to his own soul: but he that is cruel troubles his own flesh.
 **18** The wicked works a deceitful work: but to him that sows righteousness shall be a sure reward.
 **19** As righteousness tendeth to life: so he that pursues evil pursues it to his own death.
-**20** They that are of a froward heart are abomination to Yahweh: but such as are upright in their way are his delight.
+**20** They that are of a perverse heart are abomination to Yahweh: but such as are upright in their way are his delight.
 **21** Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.
 **22*** As a jewel of gold in a swine's nose, so is a fair woman which is without discretion.
 **23** The desire of the righteous is only good: but the expectation of the wicked is wrath.
@@ -18186,7 +18186,7 @@
 **13** The wicked is snared by the transgression of his lips: but the just shall come out of trouble.
 **14** A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man’s hands shall be rendered to him.
 **15** The way of a fool is right in his own eyes: but he that hearkens to counsel is wise.
-**16** A fool’s wrath is presently known: but a prudent man covers shame.
+**16** A fool’s wrath is immediately known: but a prudent man covers shame.
 **17** He that speaks truth shows forth righteousness: but a false witness deceit.
 **18*** There is that speaks like the wounds of a sword: but the tongue of the wise is health.
 **19** The lip of truth shall be established for ever: but a lying tongue is but for a moment.
@@ -18327,9 +18327,9 @@
 **25** There is a way that seems right to a man, but the end thereof are the ways of death.
 **26*** He that labours labours for himself; for his mouth desires it of him.
 **27** An ungodly man digs up evil: and in his lips there is as a burning fire.
-**28*** A froward man sows strife: and a talebearer separates friends.
+**28*** A perverse man sows strife: and a talebearer separates friends.
 **29** A violent man entices his neighbour, and leads him into the way that is not good.
-**30** He shuts his eyes to devise froward things: moving his lips he brings evil to pass.
+**30** He shuts his eyes to devise perverse things: moving his lips he brings evil to pass.
 **31** The hoary head is a crown of glory, if it be found in the way of righteousness.
 **32** He that is slow to anger is better than the mighty; and he that rules his spirit than he that takes a city.
 **33*** The lot is cast into the lap; but the whole judgment thereof is of Yahweh.
@@ -18338,7 +18338,7 @@
 **1** Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.
 **2** A wise servant shall have rule over a son that causes shame, and shall have part of the inheritance among the brethren.
 **3** The fining pot is for silver, and the furnace for gold: but Yahweh tries the hearts.
-**4** A wicked doer gives heed to false lips; and a liar gives ear to a naughty tongue.
+**4** A wicked doer gives heed to false lips; and a liar gives ear to a wicked tongue.
 **5*** Whoso mocks the poor reproaches his Maker: and he that is thankful at calamities shall not be unpunished.
 **6** Children’s children are the crown of old men; and the glory of children are their fathers.
 **7** Excellent speech becomes not a fool: much less do lying lips a prince.
@@ -18354,7 +18354,7 @@
 **17** A friend loves at all times, and a brother is born for adversity.
 **18** A man void of understanding strikes hands, and becomes surety in the presence of his friend.
 **19** He loves transgression that loves strife: and he that exalts his gate seeks destruction.
-**20** He that has a froward heart finds no good: and he that has a perverse tongue falls into mischief.
+**20** He that has a perverse heart finds no good: and he that has a perverse tongue falls into mischief.
 **21** He that begets a fool does it to his sorrow: and the father of a fool has no joy.
 **22*** A merry heart does good like a remedy: but a broken spirit dries the bones.
 **23** A wicked man takes a gift out of the bosom to pervert the ways of judgment.
@@ -18461,7 +18461,7 @@
 **5*** The thoughts of the diligent lead only to plenty; but of every one that is hasty only to want.
 **6** The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death.
 **7** The robbery of the wicked shall destroy them; because they refuse to do judgment.
-**8** The way of man is froward and strange: but as for the pure, his work is right.
+**8** The way of man is perverse and strange: but as for the pure, his work is right.
 **9*** It is better to dwell in a corner of the housetop, than with a contentious woman in a wide house.
 **10** The soul of the wicked desires evil: his neighbour finds no favour in his eyes.
 **11** When the scorner is punished, the simple is made wise: and when the wise is instructed, he receives knowledge.
@@ -18491,7 +18491,7 @@
 **2** The rich and poor meet together: Yahweh is the maker of them all.
 **3*** A prudent man sees the evil, and hides himself: but the simple pass on, and are punished.
 **4** By humility and the fear of Yahweh are riches, and honour, and life.
-**5** Thorns and snares are in the way of the froward: he that does keep his soul shall be far from them.
+**5** Thorns and snares are in the way of the perverse: he that does keep his soul shall be far from them.
 **6** Train up a child in the way he should go: and when he is old, he will not depart from it.
 **7*** The rich rules over the poor, and the debtor is servant to the man that lends.
 **8** He that sows iniquity shall reap vanity: and the rod of his anger shall fail.
@@ -19442,7 +19442,7 @@
 **25** For yet a very little while, and the indignation shall cease, and mine anger in their destruction.
 **26** And Yahweh of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt.
 **27** And it shall come to pass in that day, that his burden shall be taken away from off your shoulder, and his yoke from off your neck, and the yoke shall be destroyed because of the anointing.
-**28** He is come to Aiath, he is passed to Migron; at Michmash he has laid up his carriages:
+**28** He is come to Aiath, he is passed to Migron; at Michmash he has laid up his baggage:
 **29** They are gone over the passage: they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled.
 **30** Lift up your voice, O daughter of Gallim: cause it to be heard to Laish, O poor Anathoth.
 **31** Madmenah is removed; the inhabitants of Gebim gather themselves to flee.
@@ -19579,12 +19579,12 @@
 ### Chapter 18
 
 **1** Woe to the land shadowing with wings, which is beyond the rivers of Ethiopia:
-**2*** That sends ambassadors by the sea, even in vessels of reeds upon the waters, saying, Go, you swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled!
+**2*** That sends ambassadors by the sea, even in vessels of reeds upon the waters, saying, Go, you swift messengers, to a nation scattered and peeled, to a people terrible from their beginning until now; a nation measured out and trodden down, whose land the rivers have spoiled!
 **3** All you inhabitants of the world, and dwellers on the earth, see you, when he lifts up an ensign on the mountains; and when he blows a trumpet, hear you.
 **4** For so Yahweh said to me, I will take my rest, and I will consider in my dwelling place like a clear heat upon herbs, and like a cloud of dew in the heat of harvest.
-**5*** For afore the harvest, when the bud is perfect, and the sour grape is yielding in the flower, he shall both cut off the boughs with hooks, and take away and cut down the branches.
+**5*** For before the harvest, when the bud is perfect, and the sour grape is yielding in the flower, he shall both cut off the boughs with hooks, and take away and cut down the branches.
 **6** They shall be left together to the fowls of the mountains, and to the beasts of the earth: and the fowls shall summer upon them, and all the beasts of the earth shall winter upon them.
-**7** In that time shall the present be brought to Yahweh of hosts of a people scattered and peeled, and from a people terrible from their beginning hitherto; a nation meted out and trodden under foot, whose land the rivers have spoiled, to the place of the name of Yahweh of hosts, the mount Zion. 
+**7** In that time shall the present be brought to Yahweh of hosts of a people scattered and peeled, and from a people terrible from their beginning until now; a nation measured out and trodden under foot, whose land the rivers have spoiled, to the place of the name of Yahweh of hosts, the mount Zion. 
 ### Chapter 19
 
 **1** The burden of Egypt. Behold, Yahweh rides upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
@@ -19625,7 +19625,7 @@
 **1** The burden of the desert of the sea. As whirlwinds in the south pass through; so it comes from the desert, from a terrible land.
 **2*** A grievous vision is declared to me; the treacherous man deals treacherously, and the spoiler spoils. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease.
 **3** Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman that travails: I was bowed down at the hearing of it; I was dismayed at the seeing of it.
-**4*** My heart failed, fearfulness affrighted me: the night of my pleasure has he turned into fear to me.
+**4*** My heart failed, fearfulness frightened me: the night of my pleasure has he turned into fear to me.
 **5*** Prepare the table, watch in the tower, eat, drink: arise, you princes, and anoint the shield.
 **6** For thus has Adonai said to me, Go, set a watchman, let him declare what he sees.
 **7** And he saw a chariot with a couple of horsemen, a chariot of asses, and a chariot of camels; and he hearkened diligently with much heed:
@@ -19635,7 +19635,7 @@
 **11** The burden of Dumah. He calls to me out of Seir, Watchman, what of the night? Watchman, what of the night?
 **12** The watchman said, The morning comes, and also the night: if you will enquire, enquire you: return, come.
 **13** The burden upon Arabia. In the forest in Arabia shall you lodge, O you travelling companies of Dedanim.
-**14** The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled.
+**14** The inhabitants of the land of Tema brought water to him that was thirsty, they preceded with their bread him that fled.
 **15** For they fled from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war.
 **16** For thus has Adonai said to me, Within a year, according to the years of an hireling, and all the glory of Kedar shall fail:
 **17** And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for Yahweh God of Israel has spoken it. 
@@ -19785,7 +19785,7 @@
 **18*** And your covenant with death shall be broken, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then you shall be trodden down by it.
 **19*** From the time that it goes forth it shall take you: for morning by morning shall it pass over, by day and by night: and it shall be a vexation only to understand the report.
 **20*** For the bed is straight than that a man can stretch himself on it: and the covering too straight for him to cover himself in it.
-**21** For Yahweh shall rise up as in mount Perazim, he shall be wroth as in the valley of Gibeon, that he may do his work, his strange work; and bring to pass his act, his strange act.
+**21** For Yahweh shall rise up as in mount Perazim, he shall be angry as in the valley of Gibeon, that he may do his work, his strange work; and bring to pass his act, his strange act.
 **22*** Now therefore be you not mockers, lest your bands be made strong: for I have heard from Adonai Yahweh of hosts a consumption, even determined upon the whole earth.
 **23** Give you ear, and hear my voice; listen, and hear my speech.
 **24*** Does the husbandman plow all day to sow? does he open and break the clods of his ground?
@@ -20056,7 +20056,7 @@
 **9*** O Zion, that bring good tidings, get you up into the high mountain; O Jerusalem, that bring good tidings, lift up your voice with strength; lift it up, be not afraid; say to the cities of Judah, Behold your God!
 **10** Behold, Adonai Yahweh will come with strong hand, and his arm shall rule for him: behold, his reward is with him, and his work before him.
 **11*** He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom, and shall kindly lead those that are with young.
-**12*** Who has measured the waters in the hollow of his hand, and meted out heaven with the span, and understood the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?
+**12*** Who has measured the waters in the hollow of his hand, and measured out heaven with the span, and understood the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?
 **13** Who has directed the Spirit of Yahweh, or being his counsellor has taught him?
 **14** With whom took he counsel, and who instructed him, and taught him in the path of judgment, and taught him knowledge, and showed to him the way of understanding?
 **15*** Behold, the nations are as a drop of a vessel, and are counted as the small dust of the balance: behold, he takes up the isles as a very little thing.
@@ -20223,7 +20223,7 @@
 **25** In Yahweh shall all the seed of Israel be justified, and shall glory. 
 ### Chapter 46
 
-**1*** Bel bows down, Nebo stoops, their idols were upon the beasts, and upon the cattle: your carriages were heavily burdened; they are a burden to the weary beast.
+**1*** Bel bows down, Nebo stoops, their idols were upon the beasts, and upon the cattle: your baggage were heavily burdened; they are a burden to the weary beast.
 **2** They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.
 **3** Listen to me, O house of Jacob, and all the remnant of the house of Israel, which are borne by me from the belly, which are carried from the womb:
 **4*** And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you.
@@ -20243,7 +20243,7 @@
 **3** Your nakedness shall be uncovered, yes, your shame shall be seen: I will take vengeance, and I will not meet you as a man.
 **4** As for our redeemer, Yahweh of hosts is his name, the Holy One of Israel.
 **5** Sit you silent, and get you into darkness, O daughter of the Chaldeans: for you shall no more be called, The lady of kingdoms.
-**6** I was wroth with my people, I have polluted mine inheritance, and given them into your hand: you did show them no mercy; upon the ancient have you very heavily laid your yoke.
+**6** I was angry with my people, I have polluted mine inheritance, and given them into your hand: you did show them no mercy; upon the ancient have you very heavily laid your yoke.
 **7** And you said, I shall be a lady for ever: so that you did not lay these things to your heart, neither did remember the latter end of it.
 **8*** Therefore hear now this, you that are given to pleasures, that dwell without fear, that say in your heart, I am, and none else beside me; I shall not sit as a widow, neither shall I know the loss of children:
 **9** But these two things shall come to you in a moment in one day, the loss of children, and widowhood: they shall come upon you in their perfection for the multitude of your sorceries, and for the great abundance of your enchantments.
@@ -20348,7 +20348,7 @@
 **1** Awake, awake; put on your strength, O Zion; put on your beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into you the uncircumcised and the unclean.
 **2** Shake yourself from the dust; arise, and sit down, O Jerusalem: loose yourself from the bands of your neck, O captive daughter of Zion.
 **3*** For thus says Yahweh, You have sold yourself for nought; and you shall be redeemed without money.
-**4*** For thus says Adonai Yahweh, My people went down aforetime into Egypt to dwell there; and the Assyrian oppressed them without cause.
+**4*** For thus says Adonai Yahweh, My people went down formerly into Egypt to dwell there; and the Assyrian oppressed them without cause.
 **5** Now therefore, what have I here, says Yahweh, that my people is taken away for nought? they that rule over them make them to howl, says Yahweh; and my name continually every day is blasphemed.
 **6** Therefore my people shall know my name: therefore they shall know in that day that I am he that does speak: behold, it is I.
 **7** How beautiful upon the mountains are the feet of him that brings good tidings, that publishes peace; that brings good tidings of good, that publishes salvation; that says to Zion, Your God reigns!
@@ -20384,7 +20384,7 @@
 **6** For Yahweh has called you as a woman forsaken and grieved in spirit, and a wife of youth, when you were refused, says your God.
 **7** For a small moment have I forsaken you; but with great mercies will I gather you.
 **8** In a little wrath I hid my face from you for a moment; but with everlasting kindness will I have mercy on you, says Yahweh your Redeemer.
-**9** For this is as the waters of Noah to me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with you, nor rebuke you.
+**9** For this is as the waters of Noah to me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be angry with you, nor rebuke you.
 **10** For the mountains shall depart, and the hills be removed; but my kindness shall not depart from you, neither shall the covenant of my peace be removed, says Yahweh that has mercy on you.
 **11** O you afflicted, tossed with tempest, and not comforted, behold, I will lay your stones with fair colours, and lay your foundations with sapphires.
 **12** And I will make your windows of agates, and your gates of carbuncles, and all your borders of pleasant stones.
@@ -20439,8 +20439,8 @@
 **13** When you cry, let your companies deliver you; but the wind shall carry them all away; vanity shall take them: but he that puts his trust in me shall possess the land, and shall inherit my holy mountain;
 **14*** And shall say, Cast you up, cast you up, prepare the way, take up the stumbling block out of the way of my people.
 **15*** For thus says the high and lofty One that inhabits for ever, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.
-**16** For I will not contend for ever, neither will I be always wroth: for the spirit should fail before me, and the souls which I have made.
-**17*** For the iniquity of his covetousness was I wroth, and smote him: I hid me, and was wroth, and he went on perversely in the way of his heart.
+**16** For I will not contend for ever, neither will I be always angry: for the spirit should fail before me, and the souls which I have made.
+**17*** For the iniquity of his covetousness was I angry, and smote him: I hid me, and was angry, and he went on perversely in the way of his heart.
 **18** I have seen his ways, and will heal him: I will lead him also, and restore comforts to him and to his mourners.
 **19** I create the fruit of the lips; Peace, peace to him that is far off, and to him that is near, says Yahweh; and I will heal him.
 **20*** But the wicked are like the troubled sea, when it cannot rest, whose waters cast up mire and dust.
@@ -20562,11 +20562,11 @@
 **2** As when the melting fire burns, the fire causes the waters to boil, to make your name known to your adversaries, that the nations may tremble at your presence!
 **3** When you did terrible things which we looked not for, you came down, the mountains flowed down at your presence.
 **4** For since the beginning of the world men have not heard, nor perceived by the ear, neither has the eye seen, O God, beside you, what he has prepared for him that waits for him.
-**5** You meetest him that rejoices and works righteousness, those that remember you in your ways: behold, you are wroth; for we have sinned: in those is continuance, and we shall be saved.
+**5** You meetest him that rejoices and works righteousness, those that remember you in your ways: behold, you are angry; for we have sinned: in those is continuance, and we shall be saved.
 **6** But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.
 **7** And there is none that calls upon your name, that stirs up himself to take hold of you: for you have hid your face from us, and have consumed us, because of our iniquities.
 **8** But now, O Yahweh, you are our father; we are the clay, and you our potter; and we all are the work of your hand.
-**9** Be not wroth very sore, O Yahweh, neither remember iniquity for ever: behold, see, we beseech you, we are all your people.
+**9** Be not angry very sore, O Yahweh, neither remember iniquity for ever: behold, see, we beseech you, we are all your people.
 **10** Your holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.
 **11** Our holy and our beautiful house, where our fathers praised you, is burned up with fire: and all our pleasant things are laid waste.
 **12** Will you refrain yourself for these things, O Yahweh? will you hold your peace, and afflict us very sore? 
@@ -21255,7 +21255,7 @@
 ### Chapter 24
 
 **1** Yahweh showed me, and, behold, two baskets of figs were set before the temple of Yahweh, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.
-**2** One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad.
+**2** One basket had very good figs, even like the figs that are first ripe: and the other basket had very bad figs, which could not be eaten, they were so bad.
 **3** Then said Yahweh to me, What see you, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil.
 **4** Again the word of Yahweh came to me, saying,
 **5** Thus says Yahweh, the God of Israel; Like these good figs, so will I acknowledge them that are carried away captive of Judah, whom I have sent out of this place into the land of the Chaldeans for their good.
@@ -21428,7 +21428,7 @@
 **17** For I will restore health to you, and I will heal you of your wounds, says Yahweh; because they called you an Outcast, saying, This is Zion, whom no man seeks after.
 **18*** Thus says Yahweh; Behold, I will bring again the captivity of Jacob’s tents, and have mercy on his dwellingplaces; and the city shall be built upon her own heap, and the palace shall remain after the manner thereof.
 **19** And out of them shall proceed thanksgiving and the voice of them that make merry: and I will multiply them, and they shall not be few; I will also glorify them, and they shall not be small.
-**20** Their children also shall be as aforetime, and their congregation shall be established before me, and I will punish all that oppress them.
+**20** Their children also shall be as formerly, and their congregation shall be established before me, and I will punish all that oppress them.
 **21*** And their nobles shall be of themselves, and their governor shall proceed from the midst of them; and I will cause him to draw near, and he shall approach to me: for who is this that sets his heart to approach to me? says Yahweh.
 **22*** And you shall be my people, and I will be your God.
 **23** Behold, the whirlwind of Yahweh goes forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked.
@@ -21644,7 +21644,7 @@
 **12** Then Jeremiah went forth out of Jerusalem to go into the land of Benjamin, to separate himself thence in the midst of the people.
 **13** And when he was in the gate of Benjamin, a captain of the ward was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, You fall away to the Chaldeans.
 **14** Then said Jeremiah, It is false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes.
-**15** Wherefore the princes were wroth with Jeremiah, and smote him, and put him in prison in the house of Jonathan the scribe: for they had made that the prison.
+**15** Wherefore the princes were angry with Jeremiah, and smote him, and put him in prison in the house of Jonathan the scribe: for they had made that the prison.
 **16*** When Jeremiah was entered into the dungeon, and into the prisons, and Jeremiah had remained there many days;
 **17** Then Zedekiah the king sent, and took him out: and the king asked him secretly in his house, and said, Is there any word from Yahweh? And Jeremiah said, There is: for, said he, you shall be delivered into the hand of the king of Babylon.
 **18** Moreover Jeremiah said to king Zedekiah, What have I offended against you, or against your servants, or against this people, that you have put me in prison?
@@ -21707,7 +21707,7 @@
 **2** And the captain of the guard took Jeremiah, and said to him, Yahweh your God has pronounced this evil upon this place.
 **3*** Now Yahweh has brought it, and done according as he has said: because you have sinned against Yahweh, and have not obeyed his voice, therefore this thing is come upon you.
 **4** And now, behold, I loose you this day from the chains which were upon your hand. If it seem good to you to come with me into Babylon, come; and I will look well to you: but if it seem ill to you to come with me into Babylon, forbear: behold, all the land is before you: where it seems good and convenient for you to go, there go.
-**5** Now while he was not yet gone back, he said, Go back also to Gedaliah the son of Ahikam the son of Shaphan, whom the king of Babylon has made governor over the cities of Judah, and dwell with him among the people: or go wheresoever it seems convenient to you to go. So the captain of the guard gave him victuals and a reward, and let him go.
+**5** Now while he was not yet gone back, he said, Go back also to Gedaliah the son of Ahikam the son of Shaphan, whom the king of Babylon has made governor over the cities of Judah, and dwell with him among the people: or go wheresoever it seems convenient to you to go. So the captain of the guard gave him provisions and a reward, and let him go.
 **6** Then went Jeremiah to Gedaliah the son of Ahikam to Mizpah; and dwelt with him among the people that were left in the land.
 **7** Now when all the captains of the forces which were in the fields, even they and their men, heard that the king of Babylon had made Gedaliah the son of Ahikam governor in the land, and had committed to him men, and women, and children, and of the poor of the land, of them that were not carried away captive to Babylon;
 **8** Then they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan and Jonathan the sons of Kareah, and Seraiah the son of Tanhumeth, and the sons of Ephai the Netophathite, and Jezaniah the son of a Maachathite, they and their men.
@@ -21796,7 +21796,7 @@
 **14*** So that none of the remnant of Judah, which are gone into the land of Egypt to dwell there, shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return to dwell there: for none shall return but such as shall escape.
 **15** Then all the men which knew that their wives had burned incense to other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying,
 **16** As for the word that you have spoken to us in the name of Yahweh, we will not listen to you.
-**17** But we will certainly do whatsoever thing goes forth out of our own mouth, to burn incense to the queen of heaven, and to pour out drink offerings to her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for then had we plenty of victuals, and were well, and saw no evil.
+**17** But we will certainly do whatsoever thing goes forth out of our own mouth, to burn incense to the queen of heaven, and to pour out drink offerings to her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for then had we plenty of provisions, and were well, and saw no evil.
 **18** But since we left off to burn incense to the queen of heaven, and to pour out drink offerings to her, we have wanted all things, and have been consumed by the sword and by the famine.
 **19** And when we burned incense to the queen of heaven, and poured out drink offerings to her, did we make her cakes to worship her, and pour out drink offerings to her, without our men?
 **20** Then Jeremiah said to all the people, to the men, and to the women, and to all the people which had given him that answer, saying,
@@ -21970,7 +21970,7 @@
 **20** In those days, and in that time, says Yahweh, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve.
 **21** Go up against the land of Merathaim, even against it, and against the inhabitants of Pekod: waste and utterly destroy after them, says Yahweh, and do according to all that I have commanded you.
 **22** A sound of battle is in the land, and of great destruction.
-**23** How is the hammer of the whole earth cut asunder and broken! how is Babylon become a desolation among the nations!
+**23** How is the hammer of the whole earth cut apart and broken! how is Babylon become a desolation among the nations!
 **24*** I have laid a snare for you, and you are also taken, O Babylon, and you were not aware: you are found, and also caught, because you have contended against Yahweh.
 **25** Yahweh has opened his armoury, and has brought forth the weapons of his indignation: for this is the work of Adonai Yahweh of hosts in the land of the Chaldeans.
 **26** Come against her from the utmost border, open her storehouses: cast her up as heaps, and destroy her utterly: let nothing of her be left.
@@ -22027,7 +22027,7 @@
 **29** And the land shall tremble and sorrow: for every purpose of Yahweh shall be performed against Babylon, to make the land of Babylon a desolation without an inhabitant.
 **30*** The mighty men of Babylon have ceased to fight, they have remained in their holds: their might has failed; they became as women: they have burned her dwellingplaces; her bars are broken.
 **31** One post shall run to meet another, and one messenger to meet another, to show the king of Babylon that his city is taken at one end,
-**32** And that the passages are stopped, and the reeds they have burned with fire, and the men of war are affrighted.
+**32** And that the passages are stopped, and the reeds they have burned with fire, and the men of war are frightened.
 **33*** For thus says Yahweh of hosts, the God of Israel; The daughter of Babylon is like a threshing floor, it is time to thresh her: yet a little while, and the time of her harvest shall come.
 **34*** Nebuchadrezzar the king of Babylon has devoured me, he has crushed me, he has made me an empty vessel, he has swallowed me up like a serpent, he has filled his belly with my delicates, he has cast me out.
 **35** The violence done to me and to my flesh be upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say.
@@ -22228,7 +22228,7 @@
 **7*** Her Nazarites were fairer than snow, they were clearer than milk, they were more ruddy in body than rubies, their form was of sapphire:
 **8*** Their visage is blacker than a coal; they are not known in the streets: their skin cleaves to their bones; it is withered, it is become like a stick.
 **9*** They that be slain with the sword are better than they that be slain with hunger: for these pine away, struck through for want of the fruits of the field.
-**10** The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.
+**10** The hands of the pitiful women have boiled their own children: they were their meat in the destruction of the daughter of my people.
 **11** Yahweh has accomplished his fury; he has poured out his fierce anger, and has kindled a fire in Zion, and it has devoured the foundations thereof.
 **12** The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.
 **13** For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her,
@@ -22264,7 +22264,7 @@
 **19** You, O Yahweh, remain for ever; your throne from generation to generation.
 **20** Wherefore do you forget us for ever, and forsake us so long time?
 **21** Turn you us to you, O Yahweh, and we shall be turned; renew our days as of old.
-**22** But you have utterly rejected us; you are very wroth against us.  
+**22** But you have utterly rejected us; you are very angry against us.  
 
 ## Ezekiel
 
@@ -23085,7 +23085,7 @@
 **13** Thus says Adonai Yahweh; I will also destroy the idols, and I will cause their images to cease out of Noph; and there shall be no more a prince of the land of Egypt: and I will put a fear in the land of Egypt.
 **14** And I will make Pathros desolate, and will set fire in Zoan, and will execute judgments in No.
 **15** And I will pour my fury upon Sin, the strength of Egypt; and I will cut off the multitude of No.
-**16** And I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph shall have distresses daily.
+**16** And I will set fire in Egypt: Sin shall have great pain, and No shall be rent apart, and Noph shall have distresses daily.
 **17** The young men of Aven and of Pi–beseth shall fall by the sword: and these cities shall go into captivity.
 **18** At Tehaphnehes also the day shall be darkened, when I shall break there the yokes of Egypt: and the pomp of her strength shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity.
 **19** Thus will I execute judgments in Egypt: and they shall know that I am Yahweh.
@@ -23173,7 +23173,7 @@
 **19** But if the wicked turn from his wickedness, and do that which is lawful and right, he shall live thereby.
 **20*** Yet you say, The way of Adonai is not equal. O you house of Israel, I will judge you every one after his ways.
 **21** And it came to pass in the twelfth year of our captivity, in the tenth month, in the fifth day of the month, that one that had escaped out of Jerusalem came to me, saying, The city is smitten.
-**22** Now the hand of Yahweh was upon me in the evening, afore he that was escaped came; and had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no more dumb.
+**22** Now the hand of Yahweh was upon me in the evening, before he that was escaped came; and had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no more dumb.
 **23** Then the word of Yahweh came to me, saying,
 **24** Son of man, they that inhabit those wastes of the land of Israel speak, saying, Abraham was one, and he inherited the land: but we are many; the land is given us for inheritance.
 **25*** Wherefore say to them, Thus says Adonai Yahweh; You eat with the blood, and lift up your eyes toward your idols, and shed blood: and shall you possess the land?
@@ -23833,7 +23833,7 @@
 **7** All the presidents of the kingdom, the governors, and the princes, the counsellors, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of you, O king, he shall be cast into the den of lions.
 **8** Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which alters not.
 **9** Wherefore king Darius signed the writing and the decree.
-**10** Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.
+**10** Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did formerly.
 **11** Then these men assembled, and found Daniel praying and making supplication before his God.
 **12** Then they came near, and spoke before the king concerning the king’s decree; Have you not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of you, O king, shall be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which alters not.
 **13** Then answered they and said before the king, That Daniel, which is of the children of the captivity of Judah, regards not you, O king, nor the decree that you have signed, but makes his petition three times a day.
@@ -23881,7 +23881,7 @@
 **25*** And he shall speak great words against the most High, and shall vex the saints of the most High, and ponder to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 **26** But the judgment shall sit, and they shall take away his dominion, to consume and to destroy it to the end.
 **27** And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
-**28*** Hitherto is the end of the matter. As for me Daniel, my thoughts much troubled me, and my countenance changed in me: but I kept the matter in my heart.
+**28*** Until now is the end of the matter. As for me Daniel, my thoughts much troubled me, and my countenance changed in me: but I kept the matter in my heart.
 ### Chapter 8
 
 **1** In the third year of the reign of king Belshazzar a vision appeared to me, even to me Daniel, after that which appeared to me at the first.
@@ -24502,7 +24502,7 @@
 **7** Are you not as children of the Ethiopians to me, O children of Israel? says Yahweh. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?
 **8** Behold, the eyes of Adonai Yahweh are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, says Yahweh.
 **9*** For, lo, I will command, and I will sift the house of Israel among all nations, like as wheat is sifted in a riddle, yet shall not the least grain fall upon the earth.
-**10** All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor prevent us.
+**10** All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor precede us.
 **11** In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
 **12** That they may possess the remnant of Edom, and of all the heathen, which are called by my name, says Yahweh that does this.
 **13*** Behold, the days come, says Yahweh, that the husbandman shall overtake him that reaps, and he that treads grapes him that sows seed; and the mountains shall drop sweet wine, and all the hills shall melt.
@@ -24832,7 +24832,7 @@
 **3** God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.
 **4** And his brightness was as the light; he had horns coming out of his hand: and there was the hiding of his power.
 **5** Before him went the pestilence, and burning coals went forth at his feet.
-**6** He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
+**6** He stood, and measured the earth: he beheld, and drove apart the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
 **7** I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.
 **8** Was Yahweh displeased against the rivers? was your anger against the rivers? was your wrath against the sea, that you did ride upon your horses and your chariots of salvation?
 **9** Your bow was made quite naked, according to the oaths of the tribes, even your word. Selah. You did cleave the earth with rivers.
@@ -25143,11 +25143,11 @@
 **7*** And I will feed the flock of slaughter, even you, O poor of the flock. And I took to me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.
 **8** Three shepherds also I cut off in one month; and my soul lothed them, and their soul also abhorred me.
 **9*** Then said I, I will not feed you: that that dies, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another.
-**10** And I took my staff, even Beauty, and cut it asunder, that I might break my covenant which I had made with all the people.
+**10** And I took my staff, even Beauty, and cut it apart, that I might break my covenant which I had made with all the people.
 **11** And it was broken in that day: and so the poor of the flock that waited upon me knew that it was the word of Yahweh.
 **12*** And I said to them, If you ponder good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver.
 **13*** And Yahweh said to me, Cast it to the potter: a goodly price that I was valued at of them. And I took the thirty pieces of silver, and cast them to the potter in the house of Yahweh.
-**14*** Then I cut asunder mine other staff, even Bands, that I might break the unity between Judah and Israel.
+**14*** Then I cut apart mine other staff, even Bands, that I might break the unity between Judah and Israel.
 **15** And Yahweh said to me, Take to you yet the instruments of a foolish shepherd.
 **16** For, lo, I will raise up a shepherd in the land, which shall not visit those that be cut off, neither shall seek the young one, nor heal that that is broken, nor feed that that stands still: but he shall eat the flesh of the fat, and tear their claws in pieces.
 **17** Woe to the idol shepherd that leaves the flock! the sword shall be upon his arm, and upon his right eye: his arm shall be clean dried up, and his right eye shall be utterly darkened. 
@@ -25293,8 +25293,8 @@
 **15** And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;
 **16** And Jacob begat Joseph the husband of Mary, of whom was born Yeshua, who is called Christ.
 **17*** So all the generations from Abraham to David are fourteen generations; and from David until the captivity in Babylon are fourteen generations; and from the captivity in Babylon to Christ are fourteen generations.
-**18*** Now the birth of Yeshua Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the spirit of the Lord.
-**19*** Then Joseph her husband, being a just man, and not willing to make her an open example, was minded to put her away privily.
+**18*** Now the birth of Yeshua Christ was on this wise: When as his mother Mary was betrothed to Joseph, before they came together, she was found with child of the spirit of the Lord.
+**19*** Then Joseph her husband, being a just man, and not willing to make her an open example, was minded to put her away secretly.
 **20*** But while he thought on these things, behold, the angel of the Lord appeared to him in a dream, saying, Joseph, you son of David, fear not to take to you Mary your wife: for that which is conceived in her is of the spirit of the Lord.
 **21** And she shall bring forth a son, and you shall call his name YESHUA: for he shall save his people from their sins.
 **22** Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,
@@ -25309,7 +25309,7 @@
 **4*** And when he had gathered all the head priests and scribes of the people together, he demanded of them where Christ should be born.
 **5** And they said to him, In Bethlehem of Judea: for thus it is written by the prophet,
 **6*** And you Bethlehem, in the land of Juda, are the least among the princes of Juda: for out of you shall come a Governor, that shall rule my people Israel.
-**7** Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.
+**7** Then Herod, when he had secretly called the wise men, enquired of them diligently what time the star appeared.
 **8** And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when you have found him, bring me word again, that I may come and worship him also.
 **9** When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.
 **10** When they saw the star, they rejoiced with exceeding great joy.
@@ -25318,7 +25318,7 @@
 **13** And when they were departed, behold, the angel of the Lord appears to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be you there until I bring you word: for Herod will seek the young child to destroy him.
 **14** When he arose, he took the young child and his mother by night, and departed into Egypt:
 **15** And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.
-**16** Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.
+**16** Then Herod, when he saw that he was mocked of the wise men, was exceeding angry, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.
 **17*** Then was fulfilled that which was spoken by Jeremiah the prophet, saying,
 **18*** In Ramah was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
 **19** But when Herod was dead, behold, an angel of the Lord appears in a dream to Joseph in Egypt,
@@ -25386,7 +25386,7 @@
 **10** Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.
 **11*** Blessed are you, when men shall reproach you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
 **12*** Rejoice, and be exceedingly thankful: for great is your reward in heaven: for so persecuted they the prophets which were before you.
-**13** You are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
+**13** You are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thereafter good for nothing, but to be cast out, and to be trodden under foot of men.
 **14*** You are the light of the world. A city that is set on a hill cannot be hid.
 **15** Neither do men light a candle, and put it under a bushel, but on a candlestick; and it gives light to all that are in the house.
 **16*** Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
@@ -25461,7 +25461,7 @@
 ### Chapter 7
 
 **1*** Judge not, lest you be judged.
-**2*** For with what judgment you judge, you shall be judged: and with what measure you mete, it shall be measured to you again.
+**2*** For with what judgment you judge, you shall be judged: and with what measure you measure, it shall be measured to you again.
 **3*** And why behold you the dust that is in your brother’s eye, but consider not the splenter that is in your own eye?
 **4*** Or how will you say to your brother, Let me pull out the dust out of your eye; And, behold, a splenter is in your own eye?
 **5*** You hypocrite, first cast out the splenter out of your own eye; And then shall you see clearly to cast out the dust out of your brother's eye.
@@ -25769,7 +25769,7 @@
 **12** And his disciples came, and took up the body, and buried it, and went and told Yeshua.
 **13** When Yeshua heard of it, he departed thence by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities.
 **14** And Yeshua went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick.
-**15** And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals.
+**15** And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves provisions.
 **16** But Yeshua said to them, They need not depart; give you them to eat.
 **17** And they say to him, We have here but five loaves, and two fishes.
 **18** He said, Bring them here to me.
@@ -25888,7 +25888,7 @@
 **22** And while they abode in Galilee, Yeshua said to them, The Son of man shall be betrayed into the hands of men:
 **23** And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry.
 **24*** And when they were come to Capernaum, they that received tribute money came to Peter, and said, Does not your master pay tribute?
-**25*** He says, Yes. And when he was come into the house, Yeshua prevented him, saying, What ponder you, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
+**25*** He says, Yes. And when he was come into the house, Yeshua preceded him, saying, What ponder you, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
 **26** Peter says to him, Of strangers. Yeshua says to him, Then are the children free.
 **27** Notwithstanding, lest we should offend them, go you to the sea, and cast an hook, and take up the fish that first comes up; and when you have opened his mouth, you shall find a piece of money: that take, and give to them for me and you. 
 ### Chapter 18
@@ -25926,7 +25926,7 @@
 **31** So when his fellowservants saw what was done, they were very sorry, and came and told to their lord all that was done.
 **32*** Then his lord, after that he had called him, said to him, O you wicked servant, I forgave you all that debt, because you have asked me:
 **33** Should not you also have had compassion on your fellowservant, even as I had pity on you?
-**34*** And his lord was wroth, and delivered him to the keepers, till he should pay all that was due to him.
+**34*** And his lord was angry, and delivered him to the keepers, till he should pay all that was due to him.
 **35*** So likewise shall my heavenly Father do also to you, if you from your hearts forgive not every one his brother their trespasses. 
 ### Chapter 19
 
@@ -25935,7 +25935,7 @@
 **3** The Pharisees also came to him, tempting him, and saying to him, Is it lawful for a man to put away his wife for every cause?
 **4** And he answered and said to them, Have you not read, that he which made them at the beginning made them male and female,
 **5** And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they two shall be one flesh?
-**6** Wherefore they are no more two, but one flesh. What therefore God has joined together, let not man put asunder.
+**6** Wherefore they are no more two, but one flesh. What therefore God has joined together, let not man separate.
 **7*** They say to him, Why did Moses then command to give a writing of divorce, and to put her away?
 **8*** He says to them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.
 **9*** And I say to you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, commits adultery: and whoso marries her which is put away does commit adultery.
@@ -26016,7 +26016,7 @@
 **16** And said to him, Hear you what these say? And Yeshua says to them, Yes; have you never read, Out of the mouth of babes and sucklings you have perfected praise?
 **17** And he left them, and went out of the city into Bethany; and he lodged there.
 **18** Now in the morning as he returned into the city, he hungered.
-**19*** And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said to it, Let no fruit grow on you henceforth for ever. And presently the fig tree withered away.
+**19*** And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said to it, Let no fruit grow on you henceforth for ever. And immediately the fig tree withered away.
 **20** And when the disciples saw it, they marvelled, saying, How soon is the fig tree withered away!
 **21*** Yeshua answered and said to them, Truly I say to you, If you have faith, and doubt not, you shall not only do this which is done to the fig tree, but also if you shall say to this mountain, Be you removed, and be you cast into the sea; it shall be done.
 **22** And all things, whatsoever you shall ask in prayer, believing, you shall receive.
@@ -26052,7 +26052,7 @@
 **4** Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come to the marriage.
 **5*** But they made light of it, and went their ways, one to his field, another to his merchandise:
 **6*** And the remnant took his servants, and entreated them despitefully, and slew them.
-**7** But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.
+**7** But when the king heard thereof, he was angry: and he sent forth his armies, and destroyed those murderers, and burned up their city.
 **8** Then says he to his servants, The wedding is ready, but they which were bidden were not worthy.
 **9*** Go you therefore into the highways, and as many as you shall find, bid to the marriage.
 **10** So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests.
@@ -26185,7 +26185,7 @@
 **48** But and if that evil servant shall say in his heart, My lord delays his coming;
 **49** And shall begin to smite his fellowservants, and to eat and drink with the drunken;
 **50** The lord of that servant shall come in a day when he looks not for him, and in an hour that he is not aware of,
-**51** And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth. 
+**51** And shall cut him apart, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth. 
 ### Chapter 25
 
 **1** Then shall the kingdom of heaven be likened to ten virgins, which took their lamps, and went forth to meet the bridegroom.
@@ -26239,7 +26239,7 @@
 **1** And it came to pass, when Yeshua had finished all these sayings, he said to his disciples,
 **2** You know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified.
 **3*** Then assembled together the head priests, and the scribes, and the elders of the people, to the palace of the high priest, who was called Caiaphas,
-**4** And consulted that they might take Yeshua by subtilty, and kill him. 
+**4** And consulted that they might take Yeshua by craftiness, and kill him. 
 **5** But they said, Not on the feast day, lest there be an uproar among the people.
 **6** Now when Yeshua was in Bethany, in the house of Simon the leper,
 **7** There came to him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat at meat. 
@@ -26288,7 +26288,7 @@
 **50** And Yeshua said to him, Friend, wherefore are you come? Then came they, and laid hands on Yeshua, and took him.
 **51** And, behold, one of them which were with Yeshua stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear.
 **52** Then said Yeshua to him, Put up again your sword into his place: for all they that take the sword shall perish with the sword.
-**53*** Ponder you that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?
+**53*** Ponder you that I cannot now pray to my Father, and he shall immediately give me more than twelve legions of angels?
 **54** But how then shall the scriptures be fulfilled, that thus it must be?
 **55*** In that same hour said Yeshua to the multitudes, Are you come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and you laid no hold on me.
 **56** But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled.
@@ -26545,7 +26545,7 @@
 **21** And he said to them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?
 **22*** For there is nothing hid, which shall not be manifested; neither was any thing kept secret, but that it should be made known.
 **23*** If any man has eyes to see and ears to hear.
-**24*** And he said to them, Take heed what you hear: with what measure you mete, it shall be measured to you: and to you that hear shall more be given.
+**24*** And he said to them, Take heed what you hear: with what measure you measure, it shall be measured to you: and to you that hear shall more be given.
 **25** For he that has, to him shall be given: and he that has not, from him shall be taken even that which he has.
 **26** And he said, So is the kingdom of God, as if a man should cast seed into the ground;
 **27** And should sleep, and rise night and day, and the seed should spring and grow up, he knows not how.
@@ -26568,7 +26568,7 @@
 **1** And they came over to the other side of the sea, into the country of the Gadarenes.
 **2** And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,
 **3** Who had his dwelling among the tombs; and no man could bind him, no, not with chains:
-**4*** Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man subdue him.
+**4*** Because that he had been often bound with fetters and chains, and the chains had been plucked apart by him, and the fetters broken in pieces: neither could any man subdue him.
 **5** And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones.
 **6** But when he saw Yeshua afar off, he ran and worshipped him,
 **7** And cried with a loud voice, and said, What have I to do with you, Yeshua, you Son of the most high God? I adjure you by God, that you torment me not.
@@ -26807,7 +26807,7 @@
 **6** But from the beginning of the creation God made them male and female.
 **7** For this cause shall a man leave his father and mother, and cleave to his wife;
 **8** And they two shall be one flesh: so then they are no more two, but one flesh.
-**9** What therefore God has joined together, let not man put asunder.
+**9** What therefore God has joined together, let not man separate.
 **10** And in the house his disciples asked him again of the same matter. 
 **11** And he says to them, Whosoever shall put away his wife, and marry another, commits adultery against her.
 **12** And if a woman shall put away her husband, and be married to another, she commits adultery.
@@ -27100,8 +27100,8 @@
 **2*** And very early in the morning the first day of the week, they came to the grave at the rising of the sun.
 **3*** And they said among themselves, Who shall roll us away the stone from the door of the grave?
 **4** And when they looked, they saw that the stone was rolled away: for it was very great.
-**5*** And entering into the grave, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.
-**6** And he says to them, Be not affrighted: You seek Yeshua of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him.
+**5*** And entering into the grave, they saw a young man sitting on the right side, clothed in a long white garment; and they were frightened.
+**6** And he says to them, Be not frightened: You seek Yeshua of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him.
 **7*** But go your way, tell his disciples and Peter that he goes before you into Galilee: there shall you see him, as he said to you.
 **8*** And they went out quickly, and fled from the grave; for they trembled and were amazed: neither said they any thing to any man; for they were afraid.
 **9** Now when Yeshua was risen early the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.
@@ -27149,7 +27149,7 @@
 **24*** And after those days his wife Elizabeth conceived, and hid herself five months, saying,
 **25** Thus has the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men.
 **26** And in the sixth month the angel Gabriel was sent from God to a city of Galilee, named Nazareth,
-**27** To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary.
+**27** To a virgin betrothed to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary.
 **28** And the angel came in to her, and said, Hail, you that are highly favoured, the Lord is with you: blessed are you among women.
 **29*** And when she saw him, she was troubled at his saying, and cast in her mind what manner of greeting this should be.
 **30** And the angel said to her, Fear not, Mary: for you have found favour with God.
@@ -27209,7 +27209,7 @@
 **2*** And this numbering was first made when Cyrenius was governor of Syria.
 **3** And all went to be taxed, every one into his own city.
 **4*** And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, to the city of David, which is called Bethlehem; because he was of the house and family of David:
-**5** To be taxed with Mary his espoused wife, being great with child.
+**5** To be taxed with Mary his betrothed wife, being great with child.
 **6** And so it was, that, while they were there, the days were accomplished that she should be delivered.
 **7*** And she brought forth her firstborn son, and wrapped him in linen clothes, and laid him in a manger; because there was no room for them in the inn.
 **8** And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.
@@ -27420,10 +27420,10 @@
 **32*** For if you love them which love you, what thank have you? for sinners also love those that love them.
 **33*** And if you do good to them which do good to you, what thank have you? for sinners also do even the same.
 **34** And if you lend to them of whom you hope to receive, what thank have you? for sinners also lend to sinners, to receive as much again.
-**35*** But love you your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and you shall be the children of the Highest: for he is kind to the froward and to the evil.
+**35*** But love you your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and you shall be the children of the Highest: for he is kind to the perverse and to the evil.
 **36*** Be you therefore merciful, as your Father also is merciful.
 **37** Judge not, and you shall not be judged: condemn not, and you shall not be condemned: forgive, and you shall be forgiven:
-**38*** Give, and it shall be given to you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that you mete withal it shall be measured to you again.
+**38*** Give, and it shall be given to you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that you measure withal it shall be measured to you again.
 **39** And he spoke a parable to them, Can the blind lead the blind? shall they not both fall into the ditch?
 **40** The disciple is not above his master: but every one that is perfect shall be as his master.
 **41** And why behold you the mote that is in your brother’s eye, but perceive not the beam that is in your own eye?
@@ -27558,7 +27558,7 @@
 **9** And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him.
 **10*** And the apostles, when they were returned, told him all that they had done. And he took them, and went aside alone into a desert place belonging to the city called Bethsaida.
 **11** And the people, when they knew it, followed him: and he received them, and spoke to them of the kingdom of God, and healed them that had need of healing.
-**12** And when the day began to wear away, then came the twelve, and said to him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place.
+**12** And when the day began to wear away, then came the twelve, and said to him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get provisions: for we are here in a desert place.
 **13** But he said to them, Give you them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people.
 **14** For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company.
 **15** And they did so, and made them all sit down.
@@ -28303,7 +28303,7 @@
 **34** Saying, The Lord is risen indeed, and has appeared to Simon.
 **35** And they told what things were done in the way, and how he was known of them in breaking of bread.
 **36*** And as they thus spoke, Yeshua himself stood in the midst of them, and says to them, Peace be to you.
-**37** But they were terrified and affrighted, and supposed that they had seen a spirit.
+**37** But they were terrified and frightened, and supposed that they had seen a spirit.
 **38*** And he said to them, Why are you troubled? and why do thoughts arise in your hearts?
 **39** Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit has not flesh and bones, as you see me have.
 **40** And when he had thus spoken, he showed them his hands and his feet.
@@ -28517,7 +28517,7 @@
 **14** Afterward Yeshua finds him in the temple, and said to him, Behold, you are made whole: sin no more, lest a worse thing come to you.
 **15** The man departed, and told the Jews that it was Yeshua, which had made him whole.
 **16** And therefore did the Jews persecute Yeshua, and sought to slay him, because he had done these things on the sabbath day.
-**17** But Yeshua answered them, My Father works hitherto, and I work.
+**17** But Yeshua answered them, My Father works until now, and I work.
 **18** Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.
 **19*** Then answered Yeshua and said to them, Truly, truly, I say to you, The Son can do nothing of himself, but what he sees the Father do: for what things soever he does, these also does the Son likewise.
 **20** For the Father loves the Son, and shows him all things that himself does: and he will show him greater works than these, that you may marvel.
@@ -28751,7 +28751,7 @@
 **10** Therefore said they to him, How were your eyes opened?
 **11** He answered and said, A man that is called Yeshua made clay, and anointed mine eyes, and said to me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.
 **12** Then said they to him, Where is he? He said, I know not.
-**13** They brought to the Pharisees him that aforetime was blind.
+**13** They brought to the Pharisees him that formerly was blind.
 **14** And it was the sabbath day when Yeshua made the clay, and opened his eyes.
 **15** Then again the Pharisees also asked him how he had received his sight. He said to them, He put clay upon mine eyes, and I washed, and do see.
 **16** Therefore said some of the Pharisees, This man is not of God, because he keeps not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them.
@@ -29062,7 +29062,7 @@
 **21** A woman when she is in travail has sorrow, because her hour is come: but as soon as she is delivered of the child, she remembers no more the anguish, for joy that a man is born into the world.
 **22*** And you now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man takes from you.
 **23*** And in that day you shall ask me nothing. Truly, truly, I say to you, Whatsoever you shall ask the Father in my name, he will give it you.
-**24*** Hitherto have you asked nothing in my name: ask, and you shall receive, that your joy may be full.
+**24*** Until now have you asked nothing in my name: ask, and you shall receive, that your joy may be full.
 **25*** These things have I spoken to you in proverbs: but the time comes, when I shall no more speak to you in proverbs, but I shall show you plainly of the Father.
 **26*** At that day you shall ask in my name: and I say not to you, that I will pray the Father for you:
 **27*** For the Father himself loves you, because you have loved me, and have believed that I came out from God.
@@ -29155,7 +29155,7 @@
 **9** And went again into the judgment hall, and says to Yeshua, Where are you? But Yeshua gave him no answer.
 **10** Then says Pilate to him, Speak you not to me? know you not that I have power to crucify you, and have power to release you?
 **11** Yeshua answered, You could have no power at all against me, except it were given you from above: therefore he that delivered me to you has the greater sin.
-**12** And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If you let this man go, you are not Cesar’s friend: whosoever makes himself a king speaks against Cesar.
+**12** And from then on Pilate sought to release him: but the Jews cried out, saying, If you let this man go, you are not Cesar’s friend: whosoever makes himself a king speaks against Cesar.
 **13*** When Pilate therefore heard that saying, he brought Yeshua forth, and sat down in the judgment seat in a place that is called the Road, but in the Hebrew, Gabbatha.
 **14*** And it was the preparation of the passover, and about the sixth hour: and he says to the Jews, Behold your King!
 **15*** But they cried out, Away with him, away with him, crucify him. Pilate says to them, Shall I crucify your King? The head priests answered, We have no king but Cesar.
@@ -29270,7 +29270,7 @@
 **15*** And in those days Peter stood up in the midst of the disciples, and said, the number of names together were about an hundred and twenty,
 **16*** Men and brethren, this scripture must needs have been fulfilled, which the spirit of the Lord by the mouth of David spoke before concerning Judas, which was guide to them that took Yeshua.
 **17** For he was numbered with us, and had obtained part of this ministry.
-**18*** Now this man purchased a field with the reward of iniquity; and falling hastily, he burst asunder in the midst, and all his bowels gushed out.
+**18*** Now this man purchased a field with the reward of iniquity; and falling hastily, he burst apart in the midst, and all his bowels gushed out.
 **19** And it was known to all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.
 **20*** For it is written in the book of Psalms, Let his abode be desolate, and let no man dwell therein: and his oversight let another take.
 **21** Wherefore of these men which have companied with us all the time that the Lord Yeshua went in and out among us,
@@ -29476,7 +29476,7 @@
 **16*** And were carried over into Sychem, and laid in the grave that Abraham bought for a sum of money of the sons of Emmor the father of Sychem.
 **17** But when the time of the promise drew near, which God had sworn to Abraham, the people grew and multiplied in Egypt,
 **18** Till another king arose, which knew not Joseph.
-**19** The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.
+**19** The same dealt craftily with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.
 **20** In which time Moses was born, and was exceeding fair, and nourished up in his father’s house three months:
 **21** And when he was cast out, Pharaoh’s daughter took him up, and nourished him for her own son.
 **22** And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.
@@ -29725,7 +29725,7 @@
 **7*** Which was with the ruler of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God.
 **8*** But Elymas the sorcerer for so is his name by interpretation withstood them, seeking to turn away the ruler from the faith.
 **9*** Then Saul, who also is called Paul, filled with the spirit of the Lord, set his eyes on him,
-**10** And said, O full of all subtilty and all mischief, you child of the devil, you enemy of all righteousness, will you not cease to pervert the right ways of the Lord?
+**10** And said, O full of all craftiness and all mischief, you child of the devil, you enemy of all righteousness, will you not cease to pervert the right ways of the Lord?
 **11** And now, behold, the hand of the Lord is upon you, and you shall be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
 **12*** Then the ruler, when he saw what was done, believed, being astonished at the doctrine of the Lord.
 **13** Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.
@@ -29838,7 +29838,7 @@
 **36** And some days after Paul said to Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.
 **37** And Barnabas determined to take with them John, whose surname was Mark.
 **38** But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work.
-**39** And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed to Cyprus;
+**39** And the contention was so sharp between them, that they departed apart one from the other: and so Barnabas took Mark, and sailed to Cyprus;
 **40*** And Paul chose Silas, and departed, being commended by the brethren to the grace of God.
 **41** And he went through Syria and Cilicia, confirming the churches. 
 ### Chapter 16
@@ -29879,7 +29879,7 @@
 **34** And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house.
 **35*** And when it was day, the magistrates sent the officers, saying, Let those men go.
 **36*** And the keeper of the prison told this saying to Paul, The magistrates have sent to let you go: now therefore depart, and go in peace.
-**37*** But Paul said to them, They have beaten us openly, not condemned, being Romans, and have cast us into prison; and now do they thrust us out privily? no truly; but let them come themselves and fetch us out.
+**37*** But Paul said to them, They have beaten us openly, not condemned, being Romans, and have cast us into prison; and now do they thrust us out secretly? no truly; but let them come themselves and fetch us out.
 **38*** And the officers told these words to the magistrates: and they feared, when they heard that they were Romans.
 **39** And they came and besought them, and brought them out, and desired them to depart out of the city.
 **40** And they went out of the prison, and entered into the house of Lydia: and when they had seen the brethren, they comforted them, and departed. 
@@ -30048,7 +30048,7 @@
 **12** And when we heard these things, both we, and they of that place, besought him not to go up to Jerusalem.
 **13** Then Paul answered, What mean you to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Yeshua.
 **14** And when he would not be persuaded, we ceased, saying, The will of the Lord be done.
-**15** And after those days we took up our carriages, and went up to Jerusalem.
+**15** And after those days we took up our baggage, and went up to Jerusalem.
 **16** There went with us also certain of the disciples of Cesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.
 **17** And when we were come to Jerusalem, the brethren received us gladly.
 **18** And the day following Paul went in with us to James; and all the elders were present.
@@ -30322,7 +30322,7 @@
 ### Chapter 1
 
 **1** Paul, a servant of Yeshua Christ, called to be an apostle, separated to the gospel of God,
-**2*** Which he had promised afore by his prophets in the holy scriptures,
+**2*** Which he had promised before by his prophets in the holy scriptures,
 **3** Concerning his Son Yeshua Christ our Lord, which was made of the seed of David according to the flesh;
 **4** And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:
 **5** By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:
@@ -30333,7 +30333,7 @@
 **10*** Making request, if by any means now at length I might have a prosperous journey by the will of God to come to you.
 **11*** For I long to see you, that I may impart to you some spiritual gift, to the end you may be established;
 **12*** That is, that I may be comforted together with you by the common faith both of you and me.
-**13*** Now I would not have you ignorant, brethren, that oftentimes I purposed to come to you, but was let hitherto, that I might have some fruit among you also, even as among other Gentiles.
+**13*** Now I would not have you ignorant, brethren, that oftentimes I purposed to come to you, but was let until now, that I might have some fruit among you also, even as among other Gentiles.
 **14** I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.
 **15*** So, as much as in me is, I am ready to preach the gospel to them that are at Rome also.
 **16** For I am not ashamed of the gospel of Christ: for it is the power of God to salvation to every one that believes; to the Jew first, and also to the Greek.
@@ -30584,7 +30584,7 @@
 **20*** No but, O man, who are you that answer against God? Shall the thing formed say to him that formed it, Why have you made me thus?
 **21** Has not the potter power over the clay, of the same lump to make one vessel to honour, and another to dishonour?
 **22** What if God, willing to show his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
-**23** And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared to glory,
+**23** And that he might make known the riches of his glory on the vessels of mercy, which he had before prepared to glory,
 **24** Even us, whom he has called, not of the Jews only, but also of the Gentiles?
 **25*** As he says also in Hosea, I will call them my people, which were not my people; and her beloved, which was not beloved.
 **26** And it shall come to pass, that in the place where it was said to them, You are not my people; there shall they be called the children of the living God.
@@ -30725,7 +30725,7 @@
 **1** We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.
 **2** Let every one of us please his neighbour for his good to edification.
 **3** For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached you fell on me.
-**4** For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
+**4** For whatsoever things were written formerly were written for our learning, that we through patience and comfort of the scriptures might have hope.
 **5*** Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Yeshua:
 **6** That you may with one mind and one mouth glorify God, even the Father of our Lord Yeshua Christ.
 **7** Wherefore receive you one another, as Christ also received us to the glory of God.
@@ -30843,7 +30843,7 @@
 ### Chapter 3
 
 **1*** And I, brethren, could not speak to you as to spiritual, but as to carnal, even as to babes in Christ.
-**2*** I have fed you with milk, and not with meat: for hitherto you were not able to bear it, neither yet now are you able.
+**2*** I have fed you with milk, and not with meat: for until now you were not able to bear it, neither yet now are you able.
 **3*** For you are yet carnal: for whereas there is among you envying, and strife, and divisions, are you not carnal, and walk as men?
 **4** For while one says, I am of Paul; and another, I am of Apollos; are you not carnal?
 **5** Who then is Paul, and who is Apollos, but ministers by whom you believed, even as the Lord gave to every man?
@@ -31023,7 +31023,7 @@
 **8** Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.
 **9** Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
 **10** Neither murmur you, as some of them also murmured, and were destroyed of the destroyer.
-**11*** Now all these things happened to them for ensamples: and they are written for our reproof, upon whom the ends of the world are come.
+**11*** Now all these things happened to them for examples: and they are written for our reproof, upon whom the ends of the world are come.
 **12*** Wherefore let him that ponders he stands take heed lest he fall.
 **13*** There has no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that you are able; but will with the temptation also make a way to escape, that you may be able to bear it.
 **14** Wherefore, my dearly beloved, flee from idolatry.
@@ -31276,7 +31276,7 @@
 **9** But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raises the dead:
 **10** Who delivered us from so great a death, and does deliver: in whom we trust that he will yet deliver us; 
 **11** You also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.
-**12*** For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.
+**12*** For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conduct in the world, and more abundantly to you-ward.
 **13*** For we write none other things to you, than what you read or acknowledge; and I trust you shall acknowledge even to the end;
 **14*** As also you have acknowledged us in part, that we are your rejoicing, even as you also are ours in the day of the Lord Yeshua.
 **15*** And in this confidence I was minded to come to you before, that you might have a second benefit;
@@ -31475,8 +31475,8 @@
 ### Chapter 11
 
 **1** Would to God you could bear with me a little in my folly: and indeed bear with me.
-**2*** For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ.
-**3*** But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.
+**2*** For I am jealous over you with godly jealousy: for I have betrothed you to one husband, that I may present you as a chaste virgin to Christ.
+**3*** But I fear, lest by any means, as the serpent deceived Eve through his craftiness, so your minds should be corrupted from the simplicity that is in Christ.
 **4*** For if he that comes preaches another Yeshua, whom we have not preached, or if you receive another spirit, which you have not received, or another gospel, which you have not accepted, you might well bear with me.
 **5*** For I suppose I was not a whit behind the very greatest apostles.
 **6*** But though I be unlearned in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.
@@ -31533,7 +31533,7 @@
 ### Chapter 13
 
 **1*** This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.
-**2*** I told you before, and tell you before, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:
+**2*** I told you before, and tell you before, as if I were present, the second time; and being absent now I write to them which previously have sinned, and to all other, that, if I come again, I will not spare:
 **3*** Since you seek a truth of Christ speaking in me, which to you-ward is not weak, but is mighty in you.
 **4*** For though he was crucified through weakness, yet he lives by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
 **5*** Examine yourself, whether you be in the faith; prove your own selves. Know you not your own selves, how that Yeshua Christ is in you, except you be reprobates?
@@ -31565,7 +31565,7 @@
 **10** For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.
 **11*** But I certify you, brethren, that the gospel which was preached of me is not after man.
 **12** For I neither received it of man, neither was I taught it, but by the revelation of Yeshua Christ.
-**13** For you have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:
+**13** For you have heard of my conduct in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:
 **14** And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
 **15** But when it pleased God, who separated me from my mother’s womb, and called me by his grace,
 **16** To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:
@@ -31582,7 +31582,7 @@
 **1** Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
 **2*** And I went up by revelation, and communicated to them that gospel which I preach among the Gentiles, but alone to them which were of reputation, lest by any means I should run, or had run, in vain.
 **3** But neither Titus, who was with me, being a Greek, was compelled to be circumcised:
-**4** And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Yeshua, that they might bring us into bondage:
+**4** And that because of false brethren unawares brought in, who came in secretly to spy out our liberty which we have in Christ Yeshua, that they might bring us into bondage:
 **5*** To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
 **6*** But of these who seemed to be somewhat, whatsoever they were, it makes no matter to me: God accepts no man's person: for they who seemed to be somewhat added nothing to me:
 **7*** But otherwise, when they saw that the gospel of the uncircumcision was committed to me, as the gospel of the circumcision was to Peter;
@@ -31699,7 +31699,7 @@
 **3*** For if a man ponder himself to be something, when he is nothing, he deceives himself.
 **4** But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.
 **5** For every man shall bear his own burden.
-**6** Let him that is taught in the word communicate to him that teaches in all good things.
+**6** Let him that is taught in the word share with him that teaches in all good things.
 **7** Be not deceived; God is not mocked: for whatsoever a man sows, that shall he also reap.
 **8** For he that sows to his flesh shall of the flesh reap corruption; but he that sows to the Spirit shall of the Spirit reap life everlasting.
 **9** And let us not be weary in well doing: for in due season we shall reap, if we faint not.
@@ -31746,7 +31746,7 @@
 
 **1*** And you has he quickened, who were dead in trespasses and sins;
 **2** Wherein in time past you walked according to the course of this world, according to the prince of the power of the air, the spirit that now works in the children of disobedience:
-**3** Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
+**3** Among whom also we all had our conduct in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
 **4** But God, who is rich in mercy, for his great love wherewith he loved us,
 **5*** Even when we were dead in sins, has quickened us together with Christ, by grace you are saved;
 **6** And has raised us up together, and made us sit together in heavenly places in Christ Yeshua:
@@ -31770,7 +31770,7 @@
 
 **1*** For this cause I Paul, the prisoner of Yeshua Christ for you Gentiles,
 **2*** If you have heard of the dispensation of the grace of God which is given me to you-ward:
-**3*** How that by revelation he made known to me the mystery; as I wrote afore in few words,
+**3*** How that by revelation he made known to me the mystery; as I wrote before in few words,
 **4*** Whereby, when you read, you may understand my knowledge in the mystery of Christ
 **5** Which in other ages was not made known to the sons of men, as it is now revealed to his holy apostles and prophets by the Spirit;
 **6*** That the Gentiles should be heirs, and of the same body, and partakers of his promise in Christ by the gospel:
@@ -31812,7 +31812,7 @@
 **19*** Who being past feeling have given themselves over to lasciviousness, to work all uncleanness with covetousness.
 **20** But you have not so learned Christ;
 **21** If so be that you have heard him, and have been taught by him, as the truth is in Yeshua:
-**22** That you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
+**22** That you put off concerning the former conduct the old man, which is corrupt according to the deceitful lusts;
 **23*** And be renewed in the spirit of your mind;
 **24** And that you put on the new man, which after God is created in righteousness and true holiness.
 **25** Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
@@ -31917,7 +31917,7 @@
 **24*** Nevertheless to abide in the flesh is more needed for you.
 **25*** And having this confidence, I know that I shall abide and continue with you all for your profit and joy of faith;
 **26*** That your rejoicing may be more abundant in Yeshua Christ for me by my coming to you again.
-**27*** Only let your conversation be as it becomes the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel;
+**27*** Only let your conduct be as it becomes the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel;
 **28*** And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
 **29*** For to you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
 **30*** Having the same fight which you saw in me, and now hear to be in me.
@@ -31945,7 +31945,7 @@
 **20*** For I have no man likeminded, who will truly care for your state.
 **21** For all seek their own, not the things which are Yeshua Christ’s.
 **22*** But you know the truth of him, that, as a son with the father, he has served with me in the gospel.
-**23** Him therefore I hope to send presently, so soon as I shall see how it will go with me.
+**23** Him therefore I hope to send immediately, so soon as I shall see how it will go with me.
 **24** But I trust in the Lord that I also myself shall come shortly.
 **25*** Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and soldier, but your messenger, and he that ministered to my wants.
 **26*** For he longed after you all, and was full of heaviness, because that you had heard that he had been sick.
@@ -31971,10 +31971,10 @@
 **14*** I press toward the mark for the reward of the high calling of God in Christ Yeshua.
 **15*** Let us therefore, as many as be perfect, be thus minded: and if in any thing you be otherwise minded, God shall reveal even this to you.
 **16*** Nevertheless, whereunto we have already attained, let us walk by the same rule, let us mind the same thing.
-**17** Brethren, be followers together of me, and mark them which walk so as you have us for an ensample.
+**17** Brethren, be followers together of me, and mark them which walk so as you have us for an example.
 **18*** For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
 **19*** Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.
-**20** For our conversation is in heaven; from where also we look for the Saviour, the Lord Yeshua Christ:
+**20** For our conduct is in heaven; from where also we look for the Saviour, the Lord Yeshua Christ:
 **21** Who shall change our vile body, that it may be fashioned like to his glorious body, according to the working whereby he is able even to subdue all things to himself. 
 ### Chapter 4
 
@@ -31991,8 +31991,8 @@
 **11** Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.
 **12** I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.
 **13** I can do all things through Christ which strengthens me.
-**14** Notwithstanding you have well done, that you did communicate with my affliction.
-**15** Now you Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but you only.
+**14** Notwithstanding you have well done, that you did share with my affliction.
+**15** Now you Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church shared with me as concerning giving and receiving, but you only.
 **16** For even in Thessalonica you sent once and again to my necessity.
 **17*** Not because I desire a gift: but I desire fruit that may abound to your account.
 **18*** But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, a savour of a sweet smell, a sacrifice acceptable, pleasing to God.
@@ -32042,7 +32042,7 @@
 **1*** For I would that you knew what great contention I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;
 **2*** That their hearts might be comforted, being knit together in love, and to the riches and most assured understanding; to a knowledge of the mystery of God the Father, and of Christ;
 **3** In whom are hid all the treasures of wisdom and knowledge.
-**4*** And this I say, lest any man should beguile you with enticing words.
+**4*** And this I say, lest any man should deceive you with enticing words.
 **5*** For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
 **6** As you have therefore received Christ Yeshua the Lord, so walk you in him:
 **7** Rooted and built up in him, and stablished in the faith, as you have been taught, abounding therein with thanksgiving.
@@ -32056,7 +32056,7 @@
 **15** And having spoiled principalities and powers, he made a show of them openly, triumphing over them in it.
 **16*** Let no man therefore judge you in meat, or in drink, or in respect of an holy day, or of the new moon, or of the sabbath days:
 **17** Which are a shadow of things to come; but the body is of Christ.
-**18*** Let no man beguile you of your reward in a voluntary humility and worshipping of angels, looking into those things which he has not seen, foolishly puffed up by his fleshly mind,
+**18*** Let no man deceive you of your reward in a voluntary humility and worshipping of angels, looking into those things which he has not seen, foolishly puffed up by his fleshly mind,
 **19*** And not holding the Head, from which all the body by joints and bands having food ministered, and knit together, increases with the increase of God.
 **20*** Wherefore if you be dead with Christ from the elements of the world, why, as though living in the world, are you subject to ordinances,
 **21*** Touch not; taste not; handle not;
@@ -32122,7 +32122,7 @@
 **4*** Knowing, brethren beloved, your election of God.
 **5*** For our gospel came not to you in word only, but also in power, and in the spirit of the Lord, and in much assurance; as you know what manner of men we were among you for your sake.
 **6*** And you became followers of us, and of the Lord, having received the word in much affliction, with joy of the spirit of the Lord:
-**7** So that you were ensamples to all that believe in Macedonia and Achaia.
+**7** So that you were examples to all that believe in Macedonia and Achaia.
 **8*** For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing.
 **9*** For they themselves show of us what manner of entering in we had to you, and how you turned to God from idols to serve the living and true God;
 **10** And to wait for his Son from heaven, whom he raised from the dead, even Yeshua, which delivered us from the wrath to come. 
@@ -32179,7 +32179,7 @@
 **12** That you may walk honestly toward them that are without, and that you may have lack of nothing.
 **13*** But I would not have you to be ignorant, brethren, concerning them which are asleep, that you sorrow not, even as others which have no hope.
 **14** For if we believe that Yeshua died and rose again, even so them also which sleep in Yeshua will God bring with him.
-**15*** For this we say to you by the word of the Lord, that we which are alive and remain to the coming of the Lord shall not prevent them which are asleep.
+**15*** For this we say to you by the word of the Lord, that we which are alive and remain to the coming of the Lord shall not precede them which are asleep.
 **16*** For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trumpet of God: and the dead in Christ shall rise first:
 **17** Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
 **18** Wherefore comfort one another with these words. 
@@ -32261,7 +32261,7 @@
 **6*** Now we command you, brethren, in the name of our Lord Yeshua Christ, that you withdraw yourself from every brother that walks astray, and not after the tradition which he received of us.
 **7*** For yourself know how you ought to follow us: for we behaved not ourselves astray among you;
 **8*** Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
-**9*** Not because we have not power, but to make ourselves an ensample to you to follow us.
+**9*** Not because we have not power, but to make ourselves an example to you to follow us.
 **10*** For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
 **11*** For we hear that there are some which walk among you astray, working not at all, but are curious in other men's matters.
 **12** Now them that are such we command and exhort by our Lord Yeshua Christ, that with quietness they work, and eat their own bread.
@@ -32346,7 +32346,7 @@
 **9*** This is a faithful saying and worthy to be received of all.
 **10** For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.
 **11** These things command and teach.
-**12*** Let no man despise your youth; but be you an example of those with faith, in word, in conversation, in love, in spirit, in faith, in pureness.
+**12*** Let no man despise your youth; but be you an example of those with faith, in word, in conduct, in love, in spirit, in faith, in pureness.
 **13** Till I come, give attendance to reading, to exhortation, to doctrine.
 **14*** Neglect not the gift that is in you, which was given you by prophecy, with the laying on of the hands of the elders.
 **15** Meditate upon these things; give yourself wholly to them; that your profiting may appear to all.
@@ -32397,7 +32397,7 @@
 **15** Which in his times he shall show, who is the blessed and only Potentate, the King of kings, and Lord of lords;
 **16** Who only has immortality, dwelling in the light which no man can approach to; whom no man has seen, nor can see: to whom be honour and power everlasting. Amen.
 **17*** Charge them that are rich in this world, that they be not proud, nor trust in strange riches, but in the living God, who gives us abundantly all things to enjoy;
-**18** That they do good, that they be rich in good works, ready to distribute, willing to communicate;
+**18** That they do good, that they be rich in good works, ready to distribute, willing to share;
 **19** Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
 **20*** O Timothy, keep that which is committed to your trust, avoiding profane and vain babblings, and gainsayings of knowledge falsely so called:
 **21*** Which some professing have erred concerning the faith. Grace be with you. Amen.  The first to Timothy was written from Laodicea, which is the greatest city of Phrygia Pacatiana.
@@ -32457,7 +32457,7 @@
 ### Chapter 3
 
 **1*** This know also, that in the last days grievous times shall come.
-**2*** For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, froward, unholy,
+**2*** For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, perverse, unholy,
 **3*** Without natural affection, faithless, false accusers, violent, fierce, scorners of those that are good,
 **4*** Traitors, fierce, proud, lovers of pleasures more than lovers of God;
 **5** Having a form of godliness, but denying the power thereof: from such turn away.
@@ -32661,7 +32661,7 @@
 **9** There remains therefore a rest to the people of God.
 **10** For he that is entered into his rest, he also has ceased from his own works, as God did from his.
 **11** Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
-**12*** For the word of God is quick, and powerful, and more piercing than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a judge of the thoughts and intents of the heart.
+**12*** For the word of God is quick, and powerful, and more piercing than any twoedged sword, piercing even to the dividing apart of soul and spirit, and of the joints and marrow, and is a judge of the thoughts and intents of the heart.
 **13** Neither is there any creature that is not manifest in his sight: but all things are naked and opened to the eyes of him with whom we have to do.
 **14** Seeing then that we have a great high priest, that is passed into the heavens, Yeshua the Son of God, let us hold fast our profession.
 **15** For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
@@ -32858,7 +32858,7 @@
 **34*** Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of strangers.
 **35*** Women received their dead raised to life again: and others were afflicted, not accepting deliverance; that they might obtain a better resurrection:
 **36*** And others had trial of cruel scoffings and stripes, yes, moreover of bonds and prison:
-**37*** They were stoned, they were hewn asunder, were tempted, were slain with the sword: they wandered about in skins and goatskins; being destitute, afflicted, tormented;
+**37*** They were stoned, they were hewn apart, were tempted, were slain with the sword: they wandered about in skins and goatskins; being destitute, afflicted, tormented;
 **38*** Of whom the world was not worthy: they wandered in deserts, and in mountains, and in dens and caves of the earth.
 **39** And these all, having obtained a good report through faith, received not the promise:
 **40** God having provided some better thing for us, that they without us should not be made perfect. 
@@ -32899,9 +32899,9 @@
 **2*** Forget not to lodge strangers: for thereby some have lodged angels unawares.
 **3*** Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourself also in the body.
 **4** Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.
-**5*** Let your conversation be without covetousness; and be content with such things as you have: for he has said, I will never leave you, nor forsake you.
+**5*** Let your conduct be without covetousness; and be content with such things as you have: for he has said, I will never leave you, nor forsake you.
 **6** So that we may boldly say, The Lord is my helper, and I will not fear what man shall do to me.
-**7*** Remember them which have the rule over you, who have spoken to you the word of God: whose faith follow, considering the end of their conversation.
+**7*** Remember them which have the rule over you, who have spoken to you the word of God: whose faith follow, considering the end of their conduct.
 **8** Yeshua Christ the same yesterday, and to day, and for ever.
 **9*** Be not carried about with diverse and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.
 **10** We have an altar, whereof they have no right to eat which serve the tabernacle.
@@ -32910,7 +32910,7 @@
 **13** Let us go forth therefore to him without the camp, bearing his reproach.
 **14** For here have we no continuing city, but we seek one to come.
 **15** By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.
-**16** But to do good and to communicate forget not: for with such sacrifices God is well pleased.
+**16** But to do good and to share forget not: for with such sacrifices God is well pleased.
 **17*** Obey them that have the rule over you, and submit yourself: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.
 **18** Pray for us: for we trust we have a good conscience, in all things willing to live honestly.
 **19*** But I beseech you the rather to do this, that I may be restored to you more quickly.
@@ -32947,7 +32947,7 @@
 **18*** Of His own will begat He us with the word of truth, that we should be a kind of firstfruits of His creation.
 **19** Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:
 **20** For the wrath of man works not the righteousness of God.
-**21*** Wherefore lay apart all filthiness and abundance of naughtiness, and receive with meekness the planted word, which is able to save your souls.
+**21*** Wherefore lay apart all filthiness and abundance of wickedness, and receive with meekness the planted word, which is able to save your souls.
 **22*** But be you doers of the word, and not hearers only, deceiving your own selves.
 **23*** For if any hear the word, and do it not, he is like to a man beholding his natural face in a glass:
 **24** For he beholds himself, and goes his way, and immediately forgets what manner of man he was.
@@ -32996,7 +32996,7 @@
 **10** Out of the same mouth proceeds blessing and cursing. My brethren, these things ought not so to be.
 **11** Does a fountain send forth at the same place sweet water and bitter?
 **12*** Can the fig tree, my brethren, bear olives? either a vine, figs? so can no fountain both yield salt water and fresh.
-**13*** Who is a wise man and endued with knowledge among you? let him show out of a good conversation his works with meekness of wisdom.
+**13*** Who is a wise man and endued with knowledge among you? let him show out of a good conduct his works with meekness of wisdom.
 **14*** But if you have bitter envying and strife in your hearts, glory not, and lie not against the truth.
 **15*** This wisdom descends not from above, but is earthly, natural, of devils.
 **16** For where envying and strife is, there is confusion and every evil work.
@@ -33064,10 +33064,10 @@
 **12*** To whom it was revealed, that not to themselves, but to us they did minister the things, which are now reported to you by them that have preached the gospel to you with the spirit of the Lord sent down from heaven; which things the angels desire to look into.
 **13*** Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought to you at the revelation of Yeshua Christ;
 **14*** As obedient children, not fashioning yourself according to the former lusts in your ignorance:
-**15*** But as he which has called you is holy, so be you holy in all manner of conversation;
+**15*** But as he which has called you is holy, so be you holy in all manner of conduct;
 **16** Because it is written, Be you holy; for I am holy.
 **17*** And if you call on the Father, who without respect of persons judges according to every man’s work, pass the time of your dwelling here in fear:
-**18*** Since you know that you were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;
+**18*** Since you know that you were not redeemed with corruptible things, as silver and gold, from your vain conduct received by tradition from your fathers;
 **19** But with the precious blood of Christ, as of a lamb without blemish and without spot:
 **20*** Who truly was ordained before the foundation of the world, but was manifest in these last times for you,
 **21*** Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.
@@ -33088,13 +33088,13 @@
 **9*** But you are a chosen generation, a royal priesthood, an holy nation, a treasured people; that you should show forth the praises of him who has called you out of darkness into his marvellous light:
 **10** Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.
 **11*** Dearly beloved, I beseech you as strangers and dwellers, abstain from fleshly lusts, which war against the soul;
-**12*** Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation.
+**12*** Having your conduct honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation.
 **13*** Submit yourself to every ordinance of man for the Lord's sake: whether it be to the king, as the highest;
 **14** Or to governors, as to them that are sent by him for the punishment of evildoers, and for the praise of them that do well.
 **15** For so is the will of God, that with well doing you may put to silence the ignorance of foolish men:
 **16*** As free, and not using your liberty for a cloke of wickedness, but as the servants of God.
 **17*** Honour all men. Love the brethren. Fear God. Honour the king.
-**18*** Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.
+**18*** Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the perverse.
 **19*** For this is grace, if a man for conscience toward God endure grief, suffering wrongfully.
 **20*** For what glory is it, if, when you be stricken for your faults, you shall take it patiently? but if, when you do well, and suffer for it, you take it patiently, this is acceptable with God.
 **21*** For even to this were you called: because Christ also suffered for us, leaving us an example, that you should follow his steps:
@@ -33104,8 +33104,8 @@
 **25*** For you were as sheep going astray; but are now returned to the Shepherd and Bishop of your souls. 
 ### Chapter 3
 
-**1*** Likewise, you wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
-**2*** While they behold your chaste conversation coupled with fear.
+**1*** Likewise, you wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conduct of the wives;
+**2*** While they behold your chaste conduct coupled with fear.
 **3*** Whose adorning let it not be that outward adorning of broidered hair, and of wearing of gold, or of putting on of apparel;
 **4** But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price.
 **5** For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection to their own husbands:
@@ -33119,11 +33119,11 @@
 **13*** And who is he that will harm you, if you be followers of that which is good?
 **14*** But and if you suffer for righteousness’ sake, happy are you: and be not afraid of their fear, neither be troubled;
 **15*** But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asks you a reason of the hope that is in you with meekness and fear:
-**16*** Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.
+**16*** Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conduct in Christ.
 **17** For it is better, if the will of God be so, that you suffer for well doing, than for evil doing.
 **18** For Christ also has once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
 **19** By which also he went and preached to the spirits in prison;
-**20*** Which aforetime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.
+**20*** Which formerly were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.
 **21*** The like figure whereunto even baptism does also now save us not the putting away of the filth of the flesh, but the answer of a good conscience toward God, by the resurrection of Yeshua Christ:
 **22** Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject to him. 
 ### Chapter 4
@@ -33151,7 +33151,7 @@
 
 **1*** The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
 **2*** Feed the flock of God which is among you, taking the oversight thereof, not by necessity, but willingly; not for filthy lucre, but of a ready mind;
-**3** Neither as being lords over God’s heritage, but being ensamples to the flock.
+**3** Neither as being lords over God’s heritage, but being examples to the flock.
 **4*** And when the head Shepherd shall appear, you shall receive a crown of glory that fades not away.
 **5*** Likewise, you younger, submit yourself to the elder. Yes, all of you be subject one to another, and be clothed with humility: for God resists the proud, and gives grace to the humble.
 **6*** Humble yourself therefore under the mighty hand of God, that he may exalt you in due time:
@@ -33185,7 +33185,7 @@
 **13*** Yes, I ponder it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;
 **14** Knowing that shortly I must put off this my tabernacle, even as our Lord Yeshua Christ has showed me.
 **15*** Moreover I will give diligence that you may be able after my death to have these things always in remembrance.
-**16*** For we have not followed subtilly devised fables, when we made known to you the power and coming of our Lord Yeshua Christ, but were witnesses of his majesty.
+**16*** For we have not followed craftily devised fables, when we made known to you the power and coming of our Lord Yeshua Christ, but were witnesses of his majesty.
 **17** For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.
 **18** And this voice which came from heaven we heard, when we were with him in the holy mount.
 **19*** We have also a more sure word of prophecy; whereunto you do well that you take heed, as to a light that shines in a dark place, until the day break, and the day star arise in your hearts:
@@ -33193,13 +33193,13 @@
 **21*** For the prophecy came not in old time by the will of man: but holy men of God spoke as they were moved by the spirit of the Lord. 
 ### Chapter 2
 
-**1*** But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in grievous heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
+**1*** But there were false prophets also among the people, even as there shall be false teachers among you, who secretly shall bring in grievous heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 **2*** And many shall follow their evil ways; by reason of whom the way of truth shall be evil spoken of.
 **3*** And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time now not, and their damnation slumbers not.
 **4** For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved to judgment;
 **5** And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;
-**6*** And turning the cities of Sodom and Gomorrah into ashes condemned them with an overthrow, making them an ensample to those that after should live ungodly;
-**7** And delivered just Lot, vexed with the filthy conversation of the wicked:
+**6*** And turning the cities of Sodom and Gomorrah into ashes condemned them with an overthrow, making them an example to those that after should live ungodly;
+**7** And delivered just Lot, vexed with the filthy conduct of the wicked:
 **8*** For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their forbidden deeds;
 **9** The Lord knows how to deliver the godly out of temptations, and to reserve the unjust to the day of judgment to be punished:
 **10*** But especially them that walk after the flesh in the lust of uncleanness, and despise government. Proud are they, stubborn, they are not afraid to speak evil of dignities.
@@ -33227,7 +33227,7 @@
 **8** But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.
 **9*** The Lord is not slack concerning his promise, as some men count idleness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
 **10** But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
-**11** Seeing then that all these things shall be dissolved, what manner of persons ought you to be in all holy conversation and godliness,
+**11** Seeing then that all these things shall be dissolved, what manner of persons ought you to be in all holy conduct and godliness,
 **12** Looking for and hasting to the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
 **13** Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwells righteousness.
 **14** Wherefore, beloved, seeing that you look for such things, be diligent that you may be found of him in peace, without spot, and blameless.
@@ -33642,7 +33642,7 @@
 **10** And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
 **11** And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
 **12** And they heard a great voice from heaven saying to them, Come up here. And they ascended up to heaven in a cloud; and their enemies beheld them.
-**13** And the same hour was there a great earthquake, and the tenth part of the city fell, and in the earthquake were slain of men seven thousand: and the remnant were affrighted, and gave glory to the God of heaven.
+**13** And the same hour was there a great earthquake, and the tenth part of the city fell, and in the earthquake were slain of men seven thousand: and the remnant were frightened, and gave glory to the God of heaven.
 **14** The second woe is past; and, behold, the third woe comes quickly.
 **15*** And the seventh angel sounded; and there were great voices in heaven, saying, The kingdom of this world is become the kingdom of our Lord, and of his Christ; and He shall reign for ever and ever.
 **16** And the four and twenty elders, which sat before God on their seats, fell upon their faces, and worshipped God,
@@ -33667,7 +33667,7 @@
 **14** And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
 **15** And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
 **16** And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
-**17** And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Yeshua Christ. 
+**17** And the dragon was angry with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Yeshua Christ. 
 ### Chapter 13
 
 **1** And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
@@ -64872,17 +64872,23 @@ The settings this edition was built from.
 - ChangeAppendix: no
 - CustomSettingAppendix: yes
 
-**Global replacements (268)**
+**Global replacements (307)**
 
 | from | to | times applied | source |
 |---|---|---|---|
 | `abideth` | `abides` | 30 | built-in |
+| `affrighted` | `frightened` | 9 | settings |
+| `afore` | `before` | 7 | settings |
+| `aforetime` | `formerly` | 8 | settings |
 | `answerest` | `answer` | 7 | built-in |
 | `answereth` | `answers` | 13 | built-in |
 | `art` | `are` | 494 | built-in |
 | `askest` | `ask` | 3 | built-in |
 | `asketh` | `asks` | 11 | built-in |
+| `asunder` | `apart` | 19 | settings |
 | `beareth` | `bears` | 27 | built-in |
+| `beguile` | `deceive` | 2 | settings |
+| `beguiled` | `deceived` | 5 | settings |
 | `beholdest` | `behold` | 4 | built-in |
 | `beholdeth` | `beholds` | 4 | built-in |
 | `believest` | `believe` | 8 | built-in |
@@ -64900,6 +64906,8 @@ The settings this edition was built from.
 | `calleth` | `calls` | 30 | built-in |
 | `camest` | `came` | 28 | built-in |
 | `canst` | `can` | 51 | built-in |
+| `carriage` | `baggage` | 3 | settings |
+| `carriages` | `baggage` | 3 | settings |
 | `carrieth` | `carries` | 3 | built-in |
 | `castest` | `cast` | 3 | built-in |
 | `casteth` | `casts` | 15 | built-in |
@@ -64910,8 +64918,12 @@ The settings this edition was built from.
 | `comest` | `come` | 29 | built-in |
 | `cometh` | `comes` | 283 | built-in |
 | `commandeth` | `commands` | 13 | built-in |
+| `communicate` | `share` | 3 | settings |
+| `communicate unto him` | `share with him` | 1 | settings |
+| `communicated with me` | `shared with me` | 1 | settings |
 | `confesseth` | `confesses` | 3 | built-in |
 | `considereth` | `considers` | 9 | built-in |
+| `conversation` | `conduct` | 20 | settings |
 | `couldest` | `could` | 5 | built-in |
 | `covereth` | `covers` | 27 | built-in |
 | `createth` | `creates` | 1 | built-in |
@@ -64938,9 +64950,12 @@ The settings this edition was built from.
 | `eatest` | `eat` | 3 | built-in |
 | `eateth` | `eats` | 56 | built-in |
 | `endureth` | `endures` | 60 | built-in |
+| `ensample` | `example` | 3 | settings |
+| `ensamples` | `examples` | 3 | settings |
 | `entereth` | `enters` | 20 | built-in |
 | `ere` | `before` | 10 | built-in |
 | `escheweth` | `shuns` | 0 | built-in |
+| `espoused` | `betrothed` | 5 | settings |
 | `exalteth` | `exalts` | 9 | built-in |
 | `faileth` | `fails` | 19 | built-in |
 | `falleth` | `falls` | 29 | built-in |
@@ -64959,9 +64974,12 @@ The settings this edition was built from.
 | `forgetteth` | `forgets` | 13 | built-in |
 | `forsakest` | `forsake` | 0 | built-in |
 | `forsaketh` | `forsakes` | 6 | built-in |
+| `from thenceforth` | `from then on` | 2 | settings |
+| `froward` | `perverse` | 23 | settings |
 | `gathereth` | `gathers` | 18 | built-in |
 | `gavest` | `gave` | 34 | built-in |
 | `getteth` | `gets` | 12 | built-in |
+| `give subtilty to the simple` | `give prudence to the simple` | 1 | settings |
 | `givest` | `give` | 12 | built-in |
 | `giveth` | `gives` | 129 | built-in |
 | `goest` | `go` | 47 | built-in |
@@ -64980,9 +64998,11 @@ The settings this edition was built from.
 | `heareth` | `hears` | 53 | built-in |
 | `hearken` | `listen` | 153 | built-in |
 | `helpeth` | `helps` | 4 | built-in |
+| `heretofore` | `previously` | 8 | settings |
 | `hidest` | `hide` | 6 | built-in |
 | `hideth` | `hides` | 17 | built-in |
 | `hither` | `here` | 67 | built-in |
+| `hitherto` | `until now` | 19 | settings |
 | `holdest` | `hold` | 6 | built-in |
 | `holdeth` | `holds` | 9 | built-in |
 | `holpen` | `helped` | 0 | built-in |
@@ -65017,8 +65037,13 @@ The settings this edition was built from.
 | `maketh` | `makes` | 130 | built-in |
 | `mayest` | `may` | 114 | built-in |
 | `meeteth` | `meets` | 3 | built-in |
+| `mete` | `measure` | 6 | settings |
+| `meted` | `measured` | 3 | settings |
 | `mightest` | `might` | 19 | built-in |
 | `naught` | `nothing` | 3 | built-in |
+| `naughtiness` | `wickedness` | 3 | settings |
+| `naughty` | `wicked` | 2 | settings |
+| `naughty figs` | `bad figs` | 1 | settings |
 | `nay` | `no` | 55 | built-in |
 | `needeth` | `needs` | 6 | built-in |
 | `nigh` | `near` | 101 | built-in |
@@ -65030,6 +65055,12 @@ The settings this edition was built from.
 | `peradventure` | `perhaps` | 31 | built-in |
 | `perisheth` | `perishes` | 9 | built-in |
 | `prayeth` | `prays` | 7 | built-in |
+| `presently` | `immediately` | 5 | settings |
+| `prevent` | `precede` | 7 | settings |
+| `prevented` | `preceded` | 9 | settings |
+| `preventest` | `precede` | 1 | settings |
+| `privily` | `secretly` | 16 | settings |
+| `put asunder` | `separate` | 2 | settings |
 | `puttest` | `put` | 7 | built-in |
 | `putteth` | `puts` | 31 | built-in |
 | `raiseth` | `raises` | 8 | built-in |
@@ -65080,6 +65111,7 @@ The settings this edition was built from.
 | `sittest` | `sit` | 7 | built-in |
 | `sitteth` | `sits` | 43 | built-in |
 | `sleepeth` | `sleeps` | 7 | built-in |
+| `sodden` | `boiled` | 6 | settings |
 | `spake` | `spoke` | 629 | built-in |
 | `spakest` | `spoke` | 10 | built-in |
 | `speakest` | `speak` | 20 | built-in |
@@ -65090,6 +65122,9 @@ The settings this edition was built from.
 | `standeth` | `stands` | 31 | built-in |
 | `straightway` | `immediately` | 42 | built-in |
 | `striveth` | `strives` | 2 | built-in |
+| `subtil` | `crafty` | 3 | settings |
+| `subtilly` | `craftily` | 4 | settings |
+| `subtilty` | `craftiness` | 5 | settings |
 | `sufferest` | `suffer` | 1 | built-in |
 | `suffereth` | `suffers` | 5 | built-in |
 | `sware` | `swore` | 78 | built-in |
@@ -65101,6 +65136,7 @@ The settings this edition was built from.
 | `telleth` | `tells` | 7 | built-in |
 | `the scapegoat` | `Azazel` | 2 | settings |
 | `thee` | `you` | 6440 | built-in |
+| `thenceforth` | `thereafter` | 2 | settings |
 | `thine` | `your` | 1285 | built-in |
 | `thinkest` | `think` | 0 | built-in |
 | `thinketh` | `thinks` | 0 | built-in |
@@ -65117,8 +65153,10 @@ The settings this edition was built from.
 | `turneth` | `turns` | 41 | built-in |
 | `twain` | `two` | 17 | built-in |
 | `understandeth` | `understands` | 11 | built-in |
-| `unto` | `to` | 9000 | built-in |
+| `unto` | `to` | 8999 | built-in |
 | `verily` | `truly` | 140 | built-in |
+| `victual` | `food` | 5 | settings |
+| `victuals` | `provisions` | 17 | settings |
 | `waiteth` | `waits` | 11 | built-in |
 | `walkest` | `walk` | 7 | built-in |
 | `walketh` | `walks` | 41 | built-in |
@@ -65141,11 +65179,12 @@ The settings this edition was built from.
 | `wouldest` | `would` | 38 | built-in |
 | `writest` | `write` | 2 | built-in |
 | `writeth` | `writes` | 1 | built-in |
+| `wroth` | `angry` | 50 | settings |
 | `ye` | `you` | 3979 | built-in |
 | `yea` | `yes` | 339 | built-in |
 | `yieldeth` | `yields` | 4 | built-in |
 
-**Automatic -eth/-est verb rule**: 1778 further archaic verb forms modernized (any word the table above does not list, when a base form of it is itself a word in the text).
+**Automatic -eth/-est verb rule**: 1777 further archaic verb forms modernized (any word the table above does not list, when a base form of it is itself a word in the text).
 
 ### divine names (Yahweh / Adonai)
 
