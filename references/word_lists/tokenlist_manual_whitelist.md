@@ -53,7 +53,6 @@
 | 1020 | demand | 11 | demand (×4), demanded (×7) |  |
 | 1021 | devout | 11 | devout (×11) |  |
 | 1024 | fearful | 11 | fearful (×11) |  |
-| 1026 | figure | 11 | figure (×8), figures (×3) |  |
 | 1027 | forgave | 11 | forgave (×9), forgavest (×2) |  |
 | 1033 | hardly | 11 | hardly (×11) |  |
 | 1034 | heel | 11 | heel (×6), heels (×5) | 
@@ -68,7 +67,6 @@
 | 1058 | suffice | 11 | suffice (×7), sufficed (×3), sufficeth (×1) |  |
 | 1060 | utmost | 11 | utmost (×11) |  |
 | 1061 | violent | 11 | violent (×11) |  |
-| 1062 | vomit | 11 | vomit (×9), vomited (×1), vomiteth (×1) |  |
 | 1063 | wagon | 11 | wagon (×1), wagons (×10) |  |
 | 1064 | weaned | 11 | weaned (×11) |  |
 | 1065 | whilst | 11 | whilst (×11) |  |
@@ -87,7 +85,6 @@
 | 1085 | diligence | 12 | diligence (×12) |  |
 | 1086 | durst | 12 | durst (×12) |  |
 | 1089 | examine | 12 | examine (×5), examined (×6), examining (×1) |  |
-| 1093 | hem | 12 | hem (×9), hems (×3) |  |
 | 1096 | obedience | 12 | obedience (×12) |  |
 | 1099 | overthrew | 12 | overthrew (×12) |  |
 | 1100 | peaceably | 12 | peaceably (×12) |  |
@@ -154,7 +151,6 @@
 | 1219 | supper | 14 | supper (×14) |  |
 | 1222 | uphold | 14 | uphold (×8), upholdest (×1), upholdeth (×4), upholding (×1) |  |
 | 1223 | wool | 14 | wool (×14) |  |
-| 1225 | arches | 15 | arches (×15) |  |
 | 1228 | bath | 15 | bath (×6), baths (×9) |  |
 | 1230 | bride | 15 | bride (×15) |  |
 | 1231 | brimstone | 15 | brimstone (×15) |  |
@@ -207,12 +203,9 @@
 | 1317 | uncircumcision | 16 | uncircumcision (×16) |  |
 | 1318 | vexation | 16 | vexation (×15), vexations (×1) |  |
 | 1319 | wrapped | 16 | wrapped (×16) |  |
-| 1320 | zeal | 16 | zeal (×16) |  |
 | 1322 | bondmen | 17 | bondmen (×17) |  |
 | 1323 | candle | 17 | candle (×16), candles (×1) |  |
 | 1324 | crieth | 17 | crieth (×17) |  |
-| 1325 | direct | 17 | direct (×11), directed (×3), directeth (×3) |  |
-| 1326 | fatness | 17 | fatness (×17) |  |
 | 1327 | fellowship | 17 | fellowship (×17) |  |
 | 1328 | firmament | 17 | firmament (×17) |  |
 | 1330 | health | 17 | health (×17) |  |
@@ -248,8 +241,6 @@
 | 1375 | hoof | 18 | hoof (×12), hoofs (×6) |  |
 | 1378 | jealous | 18 | jealous (×18) |  |
 | 1379 | kidneys | 18 | kidneys (×18) |  |
-| 1380 | ransom | 18 | ransom (×15), ransomed (×3) |  |
-| 1382 | robber | 18 | robber (×7), robbers (×11) |  |
 | 1383 | ruin | 18 | ruin (×11), ruined (×4), ruins (×3) |  |
 | 1385 | settle | 18 | settle (×10), settled (×7), settlest (×1) |  |
 | 1387 | sorrowful | 18 | sorrowful (×18) |  |
@@ -366,7 +357,6 @@
 | 1588 | close | 26 | close (×11), closed (×12), closer (×2), closest (×1) |  |
 | 1589 | confusion | 26 | confusion (×26) |  |
 | 1590 | device | 26 | device (×10), devices (×16) |  |
-| 1591 | evermore | 26 | evermore (×26) |  |
 | 1592 | forsook | 26 | forsook (×24), forsookest (×2) |  |
 | 1593 | lean | 26 | lean (×15), leaned (×6), leaneth (×2), leaning (×3) |  |
 | 1594 | lose | 26 | lose (×25), loseth (×1) |  |
@@ -377,7 +367,6 @@
 | 1599 | request | 26 | request (×20), requested (×5), requests (×1) |  |
 | 1600 | sharp | 26 | sharp (×25), sharper (×1) |  |
 | 1601 | shoot | 26 | shoot (×21), shooteth (×3), shooting (×2) |  |
-| 1602 | somewhat | 26 | somewhat (×26) |  |
 | 1603 | sort | 26 | sort (×20), sorts (×6) |  |
 | 1604 | store | 26 | store (×26) |  |
 | 1605 | struck | 26 | struck (×26) |  |
@@ -387,17 +376,12 @@
 | 1609 | wickedly | 26 | wickedly (×26) |  |
 | 1610 | bridegroom | 27 | bridegroom (×26), bridegroom's (×1) |  |
 | 1611 | consecrate | 27 | consecrate (×14), consecrated (×13) |  |
-| 1612 | custom | 27 | custom (×20), customs (×7) |  |
 | 1613 | drove | 27 | drove (×26), droves (×1) |  |
 | 1614 | eunuch | 27 | eunuch (×7), eunuchs (×20) |  |
 | 1615 | falsely | 27 | falsely (×27) |  |
 | 1616 | mystery | 27 | mysteries (×5), mystery (×22) |  |
 | 1617 | overflow | 27 | overflow (×13), overflowed (×2), overfloweth (×1), overflowing (×11) |  |
 | 1618 | pledge | 27 | pledge (×22), pledges (×5) |  |
-| 1619 | rage | 27 | rage (×19), raged (×1), rageth (×1), raging (×6) |  |
-| 1620 | sail | 27 | sail (×9), sailed (×15), sailing (×3) |  |
-| 1621 | separation | 27 | separation (×27) |  |
-| 1622 | smell | 27 | smell (×21), smelled (×2), smelleth (×1), smelling (×3) |  |
 | 1623 | stop | 27 | stop (×7), stopped (×16), stoppeth (×4) |  |
 | 1624 | summer | 27 | summer (×27) |  |
 | 1625 | suppose | 27 | suppose (×11), supposed (×9), supposing (×7) |  |
@@ -410,15 +394,12 @@
 | 1632 | willingly | 27 | willingly (×27) |  |
 | 1633 | beneath | 28 | beneath (×28) |  |
 | 1634 | beware | 28 | beware (×28) |  |
-| 1635 | bough | 28 | bough (×7), boughs (×21) |  |
-| 1636 | colour | 28 | colour (×15), coloured (×1), colours (×12) |  |
 | 1637 | commune | 28 | commune (×8), communed (×18), communing (×2) |  |
 | 1638 | contend | 28 | contend (×15), contended (×8), contendest (×1), contendeth (×3), contending (×1) |  |
 | 1639 | cross | 28 | cross (×28) |  |
 | 1640 | doubt | 28 | doubt (×13), doubted (×4), doubteth (×2), doubting (×7), doubts (×2) |  |
 | 1641 | drawn | 28 | drawn (×28) |  |
 | 1642 | dung | 28 | dung (×28) |  |
-| 1643 | excellency | 28 | excellency (×28) |  |
 | 1644 | grew | 28 | grew (×28) |  |
 | 1645 | happy | 28 | happy (×28) |  |
 | 1646 | highway | 28 | highway (×17), highways (×11) |  |
@@ -426,8 +407,6 @@
 | 1648 | justice | 28 | justice (×28) |  |
 | 1649 | lamentation | 28 | lamentation (×25), lamentations (×3) |  |
 | 1650 | merry | 28 | merry (×28) |  |
-| 1651 | oft | 28 | oft (×13), often (×15) |  |
-| 1652 | perpetual | 28 | perpetual (×28) |  |
 | 1653 | thanksgiving | 28 | thanksgiving (×28) |  |
 | 1654 | thief | 28 | thief (×28) |  |
 | 1655 | uttermost | 28 | uttermost (×28) |  |
@@ -437,10 +416,6 @@
 | 1659 | altogether | 29 | altogether (×29) |  |
 | 1660 | apparel | 29 | apparel (×29) |  |
 | 1661 | brasen | 29 | brasen (×29) |  |
-| 1662 | business | 29 | business (×29) |  |
-| 1663 | chapiter | 29 | chapiter (×13), chapiters (×16) |  |
-| 1664 | chaste | 29 | chaste (×3), chasten (×6), chastened (×8), chastenest (×1), chasteneth (×5), chastening (×6) |  |
-| 1665 | fashion | 29 | fashion (×15), fashioned (×8), fashioneth (×3), fashioning (×2), fashions (×1) |  |
 | 1666 | forbear | 29 | forbear (×22), forbeareth (×2), forbearing (×5) |  |
 | 1667 | grief | 29 | grief (×28), griefs (×1) |  |
 | 1668 | hence | 29 | hence (×29) |  |
@@ -448,7 +423,6 @@
 | 1670 | instruct | 29 | instruct (×9), instructed (×19), instructing (×1) |  |
 | 1671 | jewel | 29 | jewel (×3), jewels (×26) |  |
 | 1672 | lame | 29 | lame (×29) |  |
-| 1673 | liberty | 29 | liberty (×29) |  |
 | 1674 | lightning | 29 | lightning (×14), lightnings (×15) |  |
 | 1675 | majesty | 29 | majesty (×29) |  |
 | 1676 | proverb | 29 | proverb (×20), proverbs (×9) |  |
@@ -603,7 +577,6 @@
 | 1887 | heavy | 42 | heavier (×3), heavy (×39) |  |
 | 1888 | herself | 42 | herself (×42) |  |
 | 1889 | inn | 42 | inn (×5), inner (×37) |  |
-| 1890 | straightway | 42 | straightway (×42) |  |
 | 1891 | sure | 42 | sure (×42) |  |
 | 1892 | thresh | 42 | thresh (×4), threshed (×3), thresheth (×1), threshing (×34) |  |
 | 1893 | truly | 42 | truly (×42) |  |
@@ -712,7 +685,6 @@
 | 2012 | candlestick | 53 | candlestick (×41), candlesticks (×12) |  |
 | 2013 | crucify | 53 | crucified (×37), crucify (×16) |  |
 | 2014 | damsel | 53 | damsel (×41), damsel's (×8), damsels (×4) |  |
-| 2015 | duke | 53 | duke (×39), dukes (×14) |  |
 | 2016 | finish | 53 | finish (×11), finished (×42) |  |
 | 2017 | foolish | 53 | foolish (×53) |  |
 | 2018 | handmaid | 53 | handmaid (×45), handmaids (×8) |  |
@@ -755,7 +727,6 @@
 | 2073 | satisfy | 58 | satisfied (×46), satisfy (×10), satisfying (×2) |  |
 | 2074 | stir | 58 | stir (×21), stirred (×26), stirreth (×10), stirs (×1) |  |
 | 2075 | adversary | 59 | adversaries (×36), adversary (×23) |  |
-| 2076 | board | 59 | board (×17), boards (×42) |  |
 | 2077 | food | 59 | food (×59) |  |
 | 2078 | horsemen | 59 | horsemen (×59) |  |
 | 2080 | queen | 59 | queen (×55), queens (×4) |  |
@@ -890,7 +861,6 @@
 | 2242 | early | 86 | early (×86) |  |
 | 2243 | foundation | 86 | foundation (×54), foundations (×32) |  |
 | 2244 | search | 86 | search (×50), searched (×21), searchest (×2), searcheth (×8), searching (×5) |  |
-| 2245 | enquire | 87 | enquire (×52), enquired (×34), enquirest (×1) |  |
 | 2246 | favour | 87 | favour (×71), favoured (×14), favourest (×1), favoureth (×1) |  |
 | 2247 | never | 87 | never (×87) |  |
 | 2248 | provoke | 87 | provoke (×42), provoked (×35), provoketh (×4), provoking (×6) |  |

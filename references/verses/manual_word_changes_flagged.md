@@ -1,10 +1,10 @@
 
 
 perform (×42), 
-performed (×21), - keep?
+performed (×21)
 performeth (×4), 
 performing (×2)
-
+figure -> idol/statue
 review word abroad and have king james agent make suggestions from the white list on each replacement.
 
 review secret
