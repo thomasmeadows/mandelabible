@@ -17,6 +17,14 @@ Sources aggregated (never modified):
 The whitelist (word_whitelist.md) is the companion file: words protected
 from change. This file is the opposite: words removed from the text and why.
 
+Exclusion (owner ruling 2026-07-29): words whitelisted by the manual token-list
+pass — the `tokenlist-manual` entries in rare_word_review_no_safe_swap.md,
+written by scripts/92_whitelist_tokenlist_manual.py — are dropped from this
+file, so no word appears on both lists. 26 words are affected; the verse
+changes an earlier pass applied to them still stand. The exclusion is
+deliberately scoped to that tag: the older whitelist/blacklist overlaps
+(132 words) have not been ruled on and are left alone.
+
 Overwrite guard: refuses to replace an existing file with one listing fewer
 words. Idempotent otherwise.
 """
@@ -306,6 +314,28 @@ def names():
 
 ALLOW_SHRINK = "--allow-shrink" in sys.argv
 
+NSS = ROOT / "references" / "word_lists" / "rare_word_review_no_safe_swap.md"
+TOKENLIST_TAG = "tokenlist-manual"
+
+
+def tokenlist_whitelisted():
+    """Words protected by the manual token-list whitelist pass (owner ruling
+    2026-07-29, scripts/92_whitelist_tokenlist_manual.py): a
+    `## word → NO-SAFE-SWAP — tokenlist-manual` block whose OWNER RULING says
+    DO NOT CHANGE. Those words are excluded from the blacklist entirely."""
+    if not NSS.exists():
+        return set()
+    out, word = set(), None
+    for line in NSS.read_text(encoding="utf-8").splitlines():
+        m = re.match(rf"^## (.+?) → .*? — {TOKENLIST_TAG}\s*$", line)
+        if m:
+            word = m.group(1).strip().lower()
+        elif line.startswith("## "):
+            word = None
+        elif word and "OWNER RULING" in line and "DO NOT CHANGE" in line.upper():
+            out.add(word)
+    return out
+
 
 def main():
     rows = round1() + round2() + round3() + round4() + round5() + round6() \
@@ -314,6 +344,15 @@ def main():
     by_word = defaultdict(list)
     for word, repl, ref, why, decider, source in rows:
         by_word[word.lower()].append((word, repl, ref, why, decider, source))
+
+    protected = tokenlist_whitelisted()
+    dropped = sorted(w for w in by_word if w in protected)
+    for w in dropped:
+        del by_word[w]
+    if dropped:
+        print(f"excluded {len(dropped)} {TOKENLIST_TAG}-whitelisted words: "
+              + ", ".join(dropped))
+
     words = sorted(by_word)
 
     if OUT.exists() and not ALLOW_SHRINK:

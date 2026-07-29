@@ -3,7 +3,8 @@
     "allow": [
       "Bash(python3 -)",
       "Bash(grep -n \"^- owner ruling: *$\" references/rare_word_round6_review.md)",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "Bash(grep -n -v '^[a-zA-Z-]*$' references/word_lists/tokenlist_manual_whitelist.md)"
     ]
   }
 }
