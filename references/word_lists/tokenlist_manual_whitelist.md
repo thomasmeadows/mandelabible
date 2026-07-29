@@ -374,7 +374,6 @@ fearful
 forgave
 forgavest
 hardly
-
 hollow
 idle
 morter
