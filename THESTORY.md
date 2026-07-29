@@ -184,3 +184,19 @@ And I will make man in my own image; giving him dominion over the land:  He shal
 ### Week 3
 
 Round 7 but also I had a bright new idea.  Tokenize everything in a list, and then eyeball review the most used words which are mostly articles and real KJV words.  At about 88 or less occurences of a word I started to notice words that definately didn't belong in the KJV.  I created a white list out of these words.  My idea formed around this concept to use AI to pick words off the white list when suggesting changes to the words not on the white list with < 88 occurences.  This keeps things reading like the KJV and the goofy mandela effect words out.  Rare words aren't the end all be all, but simply a first pass over the memories and their foundations that have been laid.   The primary goal of the week is to expand the white list as large as possible.
+
+My whitelist idea resulted in a doubling of the whitelist.  I now had the AI go over the remaining 1100 ish words and inflections i had issues with.  It failed the first run ruling to keep or whitelist.  The current reality doesn't want it to move on what it belives is true.  I had to give it strict rules that it must suggest alternatives even if the AI wants to whitelist or keep the word.  This is a back and forth battle.  I am not sure if anthropic does this intentionally to keep you on the hook for money, or if their AI weights are so heavy that they are hard to break.  I was given $100 free credit from antrhopic for AI, spending half on having  re-review of the non-whitelisted words.  The AI gods blesseth me.  Money never earned, well spent i guess.  The irony here is that antrhopic keeps giving me free credits during these fabled days.  Pun Intended.  I also feed the bible back into their AI when they ask to review my work.  Maybe I will inadvertily sway their AI toward Jesus.  Then claude will start preaching the word of god.  One can only hope.
+
+I am also pondering the fact that I may have accidently modernized some terms that were in the KJV before the mandela effect.  I kind of see it as no harm no foul, orr fowl as it is called in the KJV.  Pun intended.  If bleedthrough occurs and I change a word you remember, write it down or note it and let me know by opening an issue on github.  I will try to change it and maybe add it to the modernization engine for the modern version and revert the change to the KJV.  I have flagged all the words I remember from the KJV and added them to my white list.  It is now nearing 5,000 words.  Only around 1,000 words that I am wishy washy on remain, so running the AI against them.  After this, it will be read the entire bible and look for fixes and/or rinse and repeat what I have been doing.
+
+#### Straight is the gate, narrow is the way
+
+I keep meditating on this verse.  It feels wrong somehow, but familiar.  I think many are failing to see the prior verse, and their memories are colliding.  I have memories of a winding broad path that my pastor spoke of that lead to destruction.  While they see the mispelling of strait.  They don't realize that gate doesn't belong in either passage either.
+
+Matthew 7:13 - "Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:"
+Matthew 7:14 - "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it"
+
+It seems like maybe there is a comprimise for this. 
+
+Matthew 7:13 - "Enter ye at the straight path: for wide is the path, and broad is the way, that leadeth to destruction, and many there be which go in:"
+Matthew 7:14 - "Because straight is the truth, and narrow is the way; which leadeth unto life, and few find it."

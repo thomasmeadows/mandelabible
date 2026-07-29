@@ -4,7 +4,7 @@
 
 ## Alphabetical list
 
-### Reviewed no-safe-swap words (4462)
+### Reviewed no-safe-swap words (4464)
 
 [a](#a),
 [abide](#abide),
@@ -1088,6 +1088,7 @@
 [doves](#doves),
 [down](#down),
 [downward](#downward),
+[dragon](#dragon),
 [drank](#drank),
 [draw](#draw),
 [draweth](#draweth),
@@ -3361,6 +3362,7 @@
 [separating](#separating),
 [seraphims](#seraphims),
 [serpent](#serpent),
+[serpents](#serpents),
 [servants](#servants),
 [serve](#serve),
 [served](#served),
@@ -12393,6 +12395,10 @@ zuzims
 - tokenlist-manual: Owner selection from the full token list review (references/word_lists/tokenlist_manual_whitelist.md): the owner read the restored text's token list group by group and marked this word to be left alone, so no replacement pass may touch it. (group "downward", 5 uses with inflections.)
   - **OWNER RULING 2026-07-29: DO NOT CHANGE — owner selection from the full token list review.**
 
+### dragon
+- King James whitelist review (animal): a named creature (Hebrew tannin/tannim); KJV's dragon-imagery creature-name, not a verb; protection superseded 2026-07-27 outside Revelation
+  - **OWNER RULING 2026-07-29 (latest, supersedes the above): RE-WHITELISTED — DO NOT CHANGE. The dragon→serpent swap is complete (25 replaced, Revelation's 13 stand), so a whitelist entry no longer blocks anything; it protects the surviving Revelation uses and keeps the word off the token list, which is what put it in front of the King James agent for re-review.**
+
 ### drank
 - tokenlist-manual: Owner selection from the full token list review (references/word_lists/tokenlist_manual_whitelist.md): the owner read the restored text's token list group by group and marked this word to be left alone, so no replacement pass may touch it. (group "drank", 49 uses with inflections.)
   - **OWNER RULING 2026-07-29: DO NOT CHANGE — owner selection from the full token list review.**
@@ -21422,6 +21428,10 @@ zuzims
 - King James whitelist review (animal): a named creature; Geneva 1599 also renders "serpent" for the same referent
   - **OWNER RULING 2026-07-27: DO NOT CHANGE — animal, not a verb; King James agent whitelist review (token group #2197), owner approved all suggestions.**
 
+### serpents
+- owner ruling (animal, plural of a whitelisted word): plural of the whitelisted `serpent` — a named creature, and the
+  - **OWNER RULING 2026-07-29: DO NOT CHANGE — whitelist the plural with the**
+
 ### servants
 - round-6: Round-6 owner ruling — keep + whitelist.
   - **OWNER RULING 2026-07-26: DO NOT CHANGE — round-6 review.**
@@ -25851,6 +25861,5 @@ Names of people and places are transliterations of Hebrew/Greek names, not Engli
 
 ## Excluded from the whitelist (owner ruled a change)
 
-- dragon — OWNER RULING 2026-07-27 (later, supersedes the above): CHANGE to serpent
 - gladness — OWNER RULING 2026-07-27: CHANGE to thankfulness — bible-wide swap
 

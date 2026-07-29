@@ -290,13 +290,42 @@ Every word entry MUST include:
    (`.claude/agents/king-james-middle-english-expert.md`) — the full verse
    rewritten in authentic KJV voice with its suggested replacement, one
    proposal per occurrence verse.
-2. **Alternate word or phrase suggestions** — other period-authentic
-   (EModE + biblical-era) options beyond the primary proposal, so the owner
-   can rule "revise to ___" without another lookup round.
+2. **Replacement suggestions in a fixed order (owner directive 2026-07-29)** —
+   the King James agent gives, clearly labelled and always in this sequence.
+   **Each suggestion may be a single word or a phrase** — replacements are not
+   required to be one-for-one; a phrase in the whitelist slot should itself be
+   built from whitelisted words:
+   1. **a whitelist suggestion** — a word or phrase from
+      `references/word_whitelist.md` (already owner-protected, so a swap onto
+      it re-opens nothing and no later pass will touch it), with a KJV verse
+      showing the sense and its corpus frequency; only if the whitelist holds
+      nothing usable may the entry say so, and it must then name the nearest
+      whitelisted candidate and why it fails;
+   2. **a witness-translation suggestion** — what another translation in
+      `bible_databases/formats/sqlite/` reads at that verse: **first choice** a
+      period-witness reading (Geneva1599, Tyndale, Wycliffe) built from
+      whitelisted archaic words; **fallback** the clearest modern-English
+      rendering from the other translations, labelled as modern so the owner
+      knows the register changes. The translation is named and its verse
+      quoted either way; unanimous agreement with our base text is itself
+      reported;
+   3. **the agent's own choice** — the swap it would make on its own judgement,
+      period-authentic on both axes, with attestation.
+
+   All three slots are mandatory and keep their order even when the agent's own
+   recommendation is the slot-3 word. **A KEEP or WHITELIST verdict does not
+   excuse the suggestions** — if suggestions were asked for, all three slots are
+   filled whatever the verdict. The full statement is in
+   `.claude/agents/king-james-middle-english-expert.md` → Capability 3b.
 3. **WHITELIST advice for proper nouns** — if the word is (or is judged by
    the King James agent to be) a proper noun — a person, place, people,
-   or transliterated name — the entry must carry the advice **WHITELIST**
-   instead of a swap proposal.
+   or transliterated name — the entry must carry the advice **WHITELIST**.
+   **A WHITELIST verdict does NOT replace the suggestions (owner directive
+   2026-07-29)**: every entry still carries the full three-slot set from item
+   2, whatever the verdict. Where the agent believes no alternative should be
+   adopted, it names the best candidates anyway and says why each is worse
+   than the word standing — so an owner ruling the other way costs no second
+   lookup round.
 4. **The verse in both comparison editions**, per occurrence:
    - **Geneva 1599** (`bible_databases/formats/sqlite/Geneva1599.db`;
      rows are duplicated — dedupe on `(book_id, chapter, verse)`; book ids

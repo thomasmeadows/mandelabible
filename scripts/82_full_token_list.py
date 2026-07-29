@@ -19,6 +19,15 @@ The differences:
 
 Output: `references/word_lists/token_list_full.md`. Refuses to overwrite an existing
 report with fewer entries (generated-artifact guard).
+
+Owner directive 2026-07-29 ("these lists are too large… generate the smaller
+list unless asked otherwise"): the default report is the **condensed** shape —
+`# | word | count | forms`, one row per inflection group, with the bulky verse
+**reference column dropped**. Pass `--full` for the wide report that carries
+references for groups of REF_MAX (8) occurrences or fewer. Switching an existing
+wide report to the condensed shape archives it to
+`references/removed_words/pre_triage_backups/` first (generated artifacts are
+permanent).
 """
 import re
 import shutil
@@ -34,6 +43,9 @@ OUT_PATH = ROOT / "references" / "word_lists" / "token_list_full.md"
 
 TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’–-][A-Za-z]+)*")
 REF_MAX = 8          # list verse refs for groups no more common than this
+# Owner directive 2026-07-29: the condensed report (no reference column) is
+# the default; --full restores the wide one.
+WITH_REFS = "--full" in sys.argv
 
 
 def fold(form):
@@ -182,17 +194,25 @@ def main():
         "as a group.",
         "",
         f"**{len(listed):,} groups listed**, sorted fewest occurrences first, "
-        "then alphabetically. Verse references are given for groups occurring "
-        f"{REF_MAX} times or fewer.",
+        "then alphabetically. " + (
+            f"Verse references are given for groups occurring {REF_MAX} times "
+            "or fewer."
+            if WITH_REFS else
+            "Condensed shape (owner directive 2026-07-29): one row per "
+            "inflection group, no verse references — re-run script 82 with "
+            "`--full` for the wide report that carries them."),
         "",
-        "| # | word | count | forms | references |",
-        "|---|---|---|---|---|",
+        "| # | word | count | forms |" + (" references |" if WITH_REFS else ""),
+        "|---|---|---|---|" + ("---|" if WITH_REFS else ""),
     ]
     for i, (total, base, members) in enumerate(listed, 1):
         surface = ", ".join(f"{m} (×{totals[m]})" for m in members)
-        where = ("; ".join(dict.fromkeys(r for m in members for r in refs[m]))
-                 if total <= REF_MAX else "")
-        lines.append(f"| {i} | {base} | {total} | {surface} | {where} |")
+        row = f"| {i} | {base} | {total} | {surface} |"
+        if WITH_REFS:
+            where = ("; ".join(dict.fromkeys(r for m in members for r in refs[m]))
+                     if total <= REF_MAX else "")
+            row += f" {where} |"
+        lines.append(row)
     lines.append("")
 
     # Generated-artifact guard: never replace a report with an emptier one.
@@ -201,8 +221,20 @@ def main():
     # scripts/36 and scripts/49. The prior report is archived first, since
     # generated artifacts are permanent (CLAUDE.md).
     if OUT_PATH.exists():
-        prior = sum(1 for ln in OUT_PATH.read_text(encoding="utf-8").splitlines()
+        prior_text = OUT_PATH.read_text(encoding="utf-8")
+        prior = sum(1 for ln in prior_text.splitlines()
                     if re.match(r"\| \d+ \|", ln))
+        # Dropping the reference column loses content the wide report carried,
+        # so archive it once before the shape changes.
+        if not WITH_REFS and "| references |" in prior_text:
+            keep = (ROOT / "references" / "removed_words" /
+                    "pre_triage_backups" /
+                    f"token_list_full_with_refs_{prior}rows.md")
+            if not keep.exists():
+                keep.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(OUT_PATH, keep)
+                print(f"archived prior wide report ({prior} rows) to "
+                      f"{keep.relative_to(ROOT)}")
         if prior > len(listed):
             if "--allow-shrink" not in sys.argv:
                 raise SystemExit(

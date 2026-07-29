@@ -14212,6 +14212,8 @@
   should have dragons" (scripts/90_dragons_outside_revelation.py). 25
   occurrences replaced; Revelation's 13 stand, so the word is not retired
   from the text, only from the other 65 books.**
+- **OWNER RULING 2026-07-29 (latest, confirms the supersession): NOT WHITELISTED — dragon is excluded from the whitelist; only the book of Revelation keeps its dragons, and serpent stands everywhere else.**
+- **OWNER RULING 2026-07-29 (latest, supersedes the above): RE-WHITELISTED — DO NOT CHANGE. The dragon→serpent swap is complete (25 replaced, Revelation's 13 stand), so a whitelist entry no longer blocks anything; it protects the surviving Revelation uses and keeps the word off the token list, which is what put it in front of the King James agent for re-review.**
 - NEW: serpent (outside Revelation of John)
 
 ## eagle → NO-SAFE-SWAP — King James whitelist review (animal)
@@ -27221,3 +27223,13 @@
 - rationale: Owner selection from the full token list review (references/word_lists/tokenlist_manual_whitelist.md): the owner read the restored text's token list group by group and marked this word to be left alone, so no replacement pass may touch it. (group "wonder", 88 uses with inflections.)
 - **OWNER RULING 2026-07-29: DO NOT CHANGE — owner selection from the full token list review.**
 - NEW: (no change — whitelisted word)
+
+## serpents → NO-SAFE-SWAP — owner ruling (animal, plural of a whitelisted word)
+- verdict: NO-SAFE-SWAP
+- rationale: plural of the whitelisted `serpent` — a named creature, and the
+  form the dragon→serpent pass (scripts/90_dragons_outside_revelation.py)
+  wrote into the text. Protecting the singular alone would leave 30 occurrences
+  of the plural open to a later replacement pass.
+- **OWNER RULING 2026-07-29: DO NOT CHANGE — whitelist the plural with the
+  singular.**
+- NEW: (no change — whitelisted animal)
