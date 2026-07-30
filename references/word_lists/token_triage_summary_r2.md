@@ -16,7 +16,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: endamage** — restore the base text's own verb. The batch's occurrence text for Ezra 4:13 literally reads **"thou shalt damage/hurt the revenue"** — a visible slash between two unresolved word choices left in the running text. This is not a period-spelling variant; it is an unfinished editorial artifact that has displaced the correct, attested period verb "endamage" (from Old French "endamager," meaning "to bring damage upon," current through the 17th century and Geneva's own sense at the same verse).
 - reason: This is the batch's clearest corruption/production-error finding — a literal "word/word" placeholder sitting in running scripture text, not a genuine word-choice question. The noun "damage" itself is sound at Ezra 4:22 and Esther 7:4 (matching or closely paraphrasing Geneva) and needs no change there; only the Ezra 4:13 verb form needs correction, ideally to the base text's own "endamage." Flagging for the owner-reviewed apply-migration workflow rather than ruling further myself, since this touches restored verse text, not just a synonym choice.
 - source: `batch_5_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** 2 Corinthians 7:9 - "damage by us in nothing" to "no loss by us", Acts 27:10 - change to "loss", Daniel 6:2 - change to "loss",  Proverbs 26:6 - change to "iniquity", Esther 7:4 - change to "iniquity", Ezra 4:22 - change to "iniquity"
 
 ### drams — 6 uses
 - whitelist: gold** — I Chronicles 29:7 itself, "of gold five thousand talents and ten thousand drams" (freq. ~2,919) — names the metal, not the unit measured.
@@ -24,7 +24,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: darics** — matching Ezra 2:69 and Ezra 8:27's own established KJV usage of "drams" for the identical Hebrew word in this corpus (worth checking those two verses for the same swap, for internal consistency); the daric was a specific, well-attested Achaemenid Persian gold coin.
 - reason: A likely referent mismatch.** "Dram" in 1611 English is a small apothecary weight (a "dram of poison," Shakespeare), not a coin; Darby and ASV both independently identify the Hebrew as denoting the Persian daric, a named gold coin. This is an Axis-2 concern (a weight-measure standing in for a currency-unit) — worth the owner's review as a probable corruption or long-standing translation imprecision, though not as severe as the "tongs"/"transformed" findings since "drams" has stood in the KJV tradition since 1611 and is not a post-1611 innovation.
 - source: `batch_4_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### tongs — 5 uses
 - whitelist: none of the reviewed whitelist covers "wick-trimmer"; nearest is **gold** (the whitelisted material the implement is made of, Exod 25:38 itself, freq. ~2,919) — names the substance, not the tool.
@@ -32,7 +32,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: snuffers** — this is the source-faithful swap: the Hebrew melqachayim used for the candlestick's wick-trimming implement (Exod 25:38, and by extension Num 4:9, I Kings 7:49 in this same group) is a distinct vessel from the coal-tongs of Isaiah 6:6 (a different Hebrew word, tzevet/melqachayim used differently in context), and every non-Webster witness independently distinguishes them by using "snuffers" here.
 - reason: Flagged as this group's strongest finding.** Five of six witnesses unanimously read "snuffers," not "tongs," for the candlestick implement — a real Axis-2 mismatch (fire-tongs vs. wick-trimmer are different objects with different functions) carried by only the base/Webster textual family. This looks like genuine confusion between two related Temple/Tabernacle implements rather than a translation choice; recommend the owner review it as a corruption candidate, cross-checked against `remembered_verses.md`.
 - source: `batch_4_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** change to snuffers
 
 ### transformed — 5 uses
 - whitelist: none of the reviewed whitelist is a precise synonym for "changed in outward form"; the nearest is **white** (Matt 17:2's own "raiment...white as light," freq. ~525), which names a consequence of the event, not the event itself.
@@ -40,7 +40,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: transfigured** for Matthew 17:2 and Mark 9:2; **transformed** stands correctly at Romans 12:2 — the two Greek verbs are in fact different (metamorphoo appears at all three, but the KJV's own established rendering tradition, matched by every witness, uses "transfigured" specifically for the mountain event and "transformed" for Paul's ethical exhortation).
 - reason: This group's most significant finding.** The occurrence text supplied for this triage batch reads "transformed" at Matthew 17:2 and Mark 9:2 — the Transfiguration itself, one of the gospels' most iconic scenes — where all eight witnesses queried, with no exception, read "transfigured." This is not a minor wording variant; it collapses a famous, name-bearing theological event (the Transfiguration) into a generic verb, and does so at exactly the kind of memorable, high-visibility verse the mission's memory-anchor evidence is built to catch. Strongly recommend cross-checking `references/evidence/remembered_verses.md` for Matthew 17:2 / Mark 9:2 before ruling.
 - source: `batch_4_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  changed except 2 Corinthians 11:14 which should be disguised.
 
 ### silk — 4 uses
 - whitelist: linen** (occurs more than 88 times in the restored text) — e.g. Exodus 26:31: "And thou shalt make a vail of blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubims shall it be made:"
@@ -48,7 +48,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: fine linen** — Axis 1 is attested (silk appears in Geneva/Tyndale-era usage generally) but Axis 2 is a genuine bottles/wineskins-pattern flag: real trade silk from the Far East had not reached the Levant in the era Proverbs and Ezekiel describe, and Geneva 1599 itself does NOT read 'silk' at Prov 31:22 — it reads 'fine linen and purple' for the same Hebrew. That witness divergence is a strong signal the referent is fine woven linen, not true silk; flag for owner review rather than silent swap.
 - reason: REPLACE (flag for owner review): the split between Axis 1 (period-attested) and Axis 2 (source-era referent) matches the bottles/wineskins signature described in the mission's canonical example — see the own-choice note for the specific evidence. This does not settle the reading; it is an advisory flag for the Phase 6 restoration workflow.
 - source: `batch_3_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** Whitelist
 
 ### steel — 4 uses
 - whitelist: brass** (occurs more than 88 times in the restored text) — e.g. Genesis 4:22: "And Zillah, she also bare Tubal–cain, an instructer of every artificer in brass and iron: and the sister of Tubal–cain was Naamah."
@@ -56,7 +56,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: brass** — the textbook bottles/wineskins pattern: Axis 1 is attested EModE vocabulary, but Axis 2 fails outright — Geneva 1599 reads 'bowe of brasse' at this very verse (2 Sam 22:35), and the underlying Hebrew nechushah names bronze/copper alloy, not the carbon-steel sense the word now carries. Strong flag for owner review; 'brass' is both the source-accurate metal and the period witnesses' own word.
 - reason: REPLACE (flag for owner review): the split between Axis 1 (period-attested) and Axis 2 (source-era referent) matches the bottles/wineskins signature described in the mission's canonical example — see the own-choice note for the specific evidence. This does not settle the reading; it is an advisory flag for the Phase 6 restoration workflow.
 - source: `batch_3_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**replace with bronze and whitelist bronze
 
 ### circumsized — 1 uses
 - whitelist: consecrated** is not on the whitelist as such, but "hallowed" is close kin — see witness below for the better-attested candidate. Nearest whitelisted term: **washed** ("wash," "washed" — whitelisted, e.g. Genesis 18:4) fails; it names cleansing, not the dedication of a way. **holy** (whitelisted) fails likewise — too general.
@@ -64,7 +64,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: consecrated** — Webster's exact reading, matching the verse's sense (Christ opening/dedicating the new way through the veil) and period-authentic (Geneva 1599 "consecrate" appears repeatedly in Exodus/Leviticus).
 - reason: REPLACE — this is a corruption, not a stylistic choice. "Circumsized" (a misspelling of "circumcised") makes no sense in context: the verse describes a "new and living way... through the veil, that is, his flesh" being opened/dedicated for believers, not any act of circumcision performed on "us." No witness — Geneva, Tyndale, Wycliffe-adjacent, ASV, YLT, Darby, BSB, DRC, or Webster — supports a circumcision reading here; all read some form of "prepared/dedicated/consecrated." This looks like exactly the garbled-form corruption signature the mission is hunting for. Flagging for the anomaly workflow with high confidence; "consecrated" (Webster) is the strongest period-authentic restoration candidate.
 - source: `batch_1_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  WHITELIST
 
 ## WHITELIST (100)
 
@@ -74,7 +74,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "tow" for the fiber sense; the group also covers the unrelated homograph "tower" (Genesis 11:4-5) and "towers" (fortification), which need no protection at all — ordinary architectural vocabulary.
 - reason: WHITELIST for the "tow" (flax-fiber) sense specifically — a real ancient Near Eastern textile material/product (Judges 16:9, Isaiah 1:31, 43:17) with a close but non-identical relative already whitelisted ("flax"); the homograph "tower/towers" sharing this inflection group is unrelated ordinary vocabulary and does not need the same protection.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  Replace with rope
 
 ### talent — 65 uses
 - whitelist: this word is itself the correct candidate — a fixed weight-measure unit (Hebrew כִּכָּר, kikkar) with no interchangeable synonym; the corpus treats it as a technical term throughout the tabernacle/temple metal-accounting texts.
@@ -82,7 +82,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "talent" — no substitute is appropriate; converting to a modern weight (kilograms) would be anachronistic in the other direction.
 - reason: WHITELIST. A biblical-era unit of weight (~34-75 lbs depending on standard), named identically in Hebrew and every translation checked — the same "measure" case as "ephah," and the textbook Capability 3b automatic-whitelisting category.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  WHITELIST
 
 ### wave — 64 uses
 - whitelist: heave** (203x, whitelisted) is the nearest cognate cultic term, already paired with "wave" throughout the same sacrificial texts ("the wave offering... the heave offering," Exodus 29:27).
@@ -90,7 +90,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "wave" — no substitute preserves the distinction from "heave," a related but technically distinct offering-elevation gesture already present in the same verses.
 - reason: WHITELIST. Precise Levitical sacrificial-gesture vocabulary (the priest's side-to-side waving motion, distinct from the up-down "heave" motion, Exodus 29:24-27, Leviticus 7:30) — protecting both terms together preserves a real ritual distinction the Torah itself makes.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** repalce with present
 
 ### sprinkle — 62 uses
 - whitelist: this word is itself the best candidate — a precise Levitical ritual-application term (Hebrew זרק/נזה) distinct from "pour" or "anoint," naming the specific blood/water application gesture of the sacrificial system.
@@ -98,7 +98,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "sprinkle" — no substitute preserves the specific ritual gesture central to the entire Levitical sacrificial system, carried into the NT's theology of Christ's blood (Hebrews 9:13, 11:28, 12:24).
 - reason: WHITELIST. A precise, load-bearing ritual-application term running from Exodus's sacrificial law through Hebrews' typological theology of "the blood of sprinkling" (Hebrews 12:24) — a cultic-implement-adjacent technical action verb the Capability 3b protocol flags for protection given its doctrinal weight across both Testaments.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace with scatter
 
 ### board — 59 uses
 - whitelist: timber** (182x, whitelisted) is the nearest cognate but names the raw wood-stock, not the finished, tenoned tabernacle-wall panel "board" specifically denotes.
@@ -106,7 +106,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "board" — no substitute preserves the specific finished-panel sense (with tenons and silver sockets, Exodus 26:15-19) as precisely as the word standing.
 - reason: WHITELIST. Precise tabernacle-wall-construction vocabulary (finished acacia panels with tenons, fitted into silver sockets, Exodus 26:15-25) — a unique architectural referent already flanked by two other whitelisted or under-review technical terms in this same batch (bar, curtain, sockets), so consistency favors protecting it alongside them.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### curtain — 57 uses
 - whitelist: hanging** (126x, whitelisted) is the nearest cognate tabernacle term, already used for the screen/veil at the tabernacle door (Exodus 26:36) alongside "curtain" for the main tent-cloths.
@@ -114,7 +114,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "curtain" — no substitute preserves the distinction from "hanging" (the door-screen specifically) already present in the same chapter.
 - reason: WHITELIST. Precise tabernacle-construction vocabulary (the ten linen tent-cloths, Exodus 26:1-6) with a related-but-distinct term ("hanging," the door-screen) already whitelisted in the same chapter — protecting "curtain" alongside it avoids the two collapsing into one and losing the tabernacle's real structural distinctions.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  replace with cloth
 
 ### carcase — 56 uses
 - whitelist: dead** (2548x, whitelisted) is the nearest general adjective but names a state, not the specific noun "dead body of an animal" that "carcase" precisely denotes.
@@ -122,7 +122,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "carcase" — no substitute preserves the specific ritual-purity referent (a dead animal body, source of uncleanness under Levitical law) as precisely.
 - reason: WHITELIST. *Carcase* is precise Levitical ritual-purity vocabulary naming a specific source of uncleanness (dead animal bodies, Leviticus 5/11) distinct from human death — a real, technical referent worth protecting so a later pass does not casually swap it for the more general "dead" or "body."
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  Replace with carcass (modern spelling)
 
 ### sockets — 54 uses
 - whitelist: base** (126x) is the nearest cognate — in fact several witnesses (ASV, Darby, YLT, BSB) render this very Hebrew word "base(s)" rather than "sockets," making the two effectively interchangeable technical terms in the tabernacle-construction vocabulary.
@@ -130,7 +130,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "sockets" — since "base" is a separate group under review in this same batch, protecting both under their current, distinct English words avoids the two collapsing into one term and losing the ability to distinguish contexts where the base-text traditionally uses one or the other.
 - reason: WHITELIST. A specific cast-silver tabernacle-foundation component (Exodus 26:19-25, 36-38) with a near-synonym ("base") also under separate review in this same batch — protecting both words in their current distribution avoids an inconsistent collapse of two related-but-distinguishable structural terms into one.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** revise to bases
 
 ### duke — 53 uses
 - whitelist: this word is itself the correct candidate — KJV's own fixed rendering for the Edomite tribal-chief title (Hebrew אלוף, alluph), consistently used only for Esau's genealogy (Genesis 36) and nowhere else, making it a genuinely unique referent.
@@ -138,7 +138,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: chief** — the majority modern-witness reading (ASV, YLT, Darby, BSB) and a period-authentic alternative in its own right, worth the owner's consideration precisely because it is so well attested outside KJV's own tradition.
 - reason: WHITELIST despite the witness split: *duke* is attested in both Tyndale (1530s) and Wycliffe (1382), so it is genuinely period-authentic on Axis 1, and "chief" is Axis-2 equally valid (an Edomite clan-head is a real ancient Near Eastern office) — but because half the comparison witnesses independently prefer "chief," this specific word is a good candidate for owner review even while it is whitelisted for consistency's sake pending that ruling.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** remove if right before a proper Name, otherwise translate to leader
 
 ### scripture — 53 uses
 - whitelist: writing** (266x, whitelisted) is the nearest general synonym but loses the specifically sacred/canonical sense; **word** (4893x, whitelisted) likewise too broad.
@@ -146,7 +146,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "scripture" — no substitute preserves the specific sense of a canonically authoritative sacred text as opposed to writing in general.
 - reason: WHITELIST. *Scripture* names a unique referent — the category of divinely authoritative sacred writing itself (Daniel 10:21's "scripture of truth," Matthew 21:42/22:29's "the scriptures") — a self-referential term about the Bible's own textual authority that no generic synonym ("writing," "word") can safely substitute without weakening the text's own claims about itself.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** revise to word
 
 ### ephod — 52 uses
 - whitelist: this word is itself the correct candidate — a specific priestly cultic garment (Hebrew אפוד) with no English synonym; already flagged by the project's own canonical bottles/wineskins methodology as the kind of term that must not be generically translated.
@@ -154,7 +154,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "ephod" — no substitute is appropriate; this is a named priestly vestment, not a generic garment.
 - reason: WHITELIST. A named, specific Aaronic priestly vestment (Exodus 25:7, 28:4-6) unique to the Israelite cultus, transliterated rather than translated in every witness checked — the textbook cultic-implement case for automatic whitelisting under Capability 3b.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  revise to "an ephod" to "a cloth" otherwise, cloth.
 
 ### guard — 52 uses
 - whitelist: this word is itself the best candidate for the office sense ("captain of the guard," Genesis 37:36, 39:1) — a specific Egyptian court office (Potiphar's title) with no exact synonym; the verb sense (Genesis 3:24 "to guard the way") is ordinary and unremarkable.
@@ -162,7 +162,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: for the office noun, keep "guard"; Tyndale's own "chief marshal" (1530s) is a genuine alternative naming the same Egyptian office in different period vocabulary.
 - reason: WHITELIST for the office-title sense specifically ("captain of the guard" as Potiphar's rank, an attested ancient Egyptian court position) — protecting it keeps a consistent title across Genesis 37-41; the ordinary verb sense (Genesis 3:24, Exodus 3:24) needs no protection and could be reviewed separately if ever flagged.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### oblation — 40 uses
 - whitelist: this word is itself the correct candidate — a fixed Levitical cultic-offering term (Hebrew קרבן/מנחה) already distinguished in the corpus from "sacrifice," "offering," and "oblation" as technical categories.
@@ -170,7 +170,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "oblation" — no substitute preserves the specific technical register of Levitical grain-offering law.
 - reason: WHITELIST. *Oblation* is precise Levitical cultic vocabulary for the grain/meal offering category specifically (Leviticus 2, 7:38), distinct from animal "sacrifice" and the broader "offering" — a cultic-implement-adjacent technical term the Capability 3b protocol flags for protection so later passes do not flatten the Torah's offering taxonomy.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  revise "an oblation" to "a sacrifice" otherwise "sacrifice"
 
 ### ephah — 39 uses
 - whitelist: this word is itself the correct candidate — a fixed dry-measure unit (Hebrew איפה) with no interchangeable synonym; the corpus already treats it as a technical term, e.g. Exodus 16:36 "an omer is the tenth part of an ephah."
@@ -178,7 +178,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "ephah" — no substitute is appropriate; converting to a modern volume (liters/quarts) would be anachronistic in the other direction.
 - reason: WHITELIST. A biblical-era unit of dry measure (~22 liters), named identically in Hebrew and every translation checked — the textbook "measure" case the Capability 3b protocol flags for automatic whitelisting. Note Genesis 25:4's occurrence is the *proper name* Ephah (a son of Midian), a homograph — the personal name is separately protected as a proper noun regardless of this ruling.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  WHITELIST
 
 ### coat — 38 uses
 - whitelist: this word is itself the best candidate for its own sense; **garment** (602x, whitelisted) is the nearest general synonym, e.g. Genesis 37:23's "coat of many colours" could become "garment of many colours" but loses the specific tunic referent.
@@ -186,7 +186,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: tunic** — the biblical-era referent precisely (Hebrew כתנת, a long shirt-like garment), period-attested from Wycliffe/DRC usage generally, though the specific word "tunic" itself is rarer in EModE Bible translation than "coat."
 - reason: WHITELIST. *Coat* names a specific ancient Near Eastern garment (the kethoneth, priestly and patriarchal tunic) worn identically by Joseph and Aaron's sons — a unique referent across a whole clothing-vocabulary cluster (member, ephod, girdle, breastplate) that this round is reviewing piecemeal; protecting it avoids inconsistent swaps across Genesis 37 and Exodus 28–29.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  revise to garment
 
 ### member — 38 uses
 - whitelist: this word is the best candidate for the anatomical sense (Deuteronomy 23:1's "privy member"); no whitelisted euphemism names it more precisely without becoming either clinical or crude.
@@ -194,7 +194,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "member" for Deuteronomy 23:1; for the I Corinthians 12/Job 17:7/Psalms 139:16 body-of-Christ and body-part senses, no swap is needed — "member" there is entirely ordinary, unremarkable EModE (still current English).
 - reason: WHITELIST for the anatomical-euphemism sense specifically (Deuteronomy 23:1) — this is exactly the kind of word where an incautious later pass might "helpfully" modernize toward "genitals" (BSB's own choice) and thereby lose the KJV's deliberate euphemistic register; the ordinary body/church-body sense elsewhere in the group needs no protection but travels with the same token.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  revise to part
 
 ### base — 36 uses
 - whitelist: this word is itself the nearest candidate — no other whitelisted word covers both the tabernacle-socket sense (Exodus 38:27, I Kings 7:27) and the moral sense ("I will be base in mine own sight," II Samuel 6:22). **vile** (133x, whitelisted) covers only the moral sense.
@@ -202,7 +202,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: for the moral sense only, **vile** is a genuine period-authentic option (already whitelisted); the furniture sense has no substitute — it is architecturally exact vocabulary for a specific cast-metal component.
 - reason: WHITELIST. *Base* names a unique tabernacle/temple cultic implement (I Kings 7:27–37's laver-stands) with no interchangeable synonym across the corpus — swapping risks confusing it with "sockets," a related but distinct term also under review in this batch. Protect the furniture sense; the moral sense ("vile in mine own sight") could in principle take "vile," but splitting one inflection group's protection by sense is not workable, so the whole group should be whitelisted.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  keep
 
 ### chapiter — 29 uses
 - whitelist: "pillar" (the companion architectural noun in the very same verses) — Genesis 19:26 — 245 occurrences; imperfect (pillar = the shaft, chapiter = specifically the ornamental capital atop it).
@@ -210,7 +210,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - own: keep "chapiter" — Geneva agrees verbatim; a precise architectural term for the ornamental capital of the temple pillars (I Kings 7, the bronze pillars Jachin and Boaz), source-era well attested (Solomonic temple architecture).
 - reason: unanimous Geneva agreement and a precise technical referent — protect it as a specialized term the way "knop" and "hin" are protected elsewhere in this batch.
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** revise to pillar top
 
 ### sail — 27 uses
 - whitelist: "ship" (the companion noun throughout the same passages) — Proverbs 30:19 — 483 occurrences; imperfect (ship = the vessel, sail = the specific canvas/the act of sailing).
