@@ -199,4 +199,13 @@ Matthew 7:14 - "Because strait is the gate, and narrow is the way, which leadeth
 It seems like maybe there is a comprimise for this. 
 
 Matthew 7:13 - "Enter ye at the straight path: for wide is the path, and broad is the way, that leadeth to destruction, and many there be which go in:"
-Matthew 7:14 - "Because straight is the truth, and narrow is the way; which leadeth unto life, and few find it."
+Matthew 7:14 - "Because straight is the truth, and narrow is the way; which leadeth unto life, and few there be which find it."
+
+I did some more reasearch and talked to AI a bit.  It suggested that I might look into some bibles that weren't common.
+
+Revised Version Bible 1881 / 1885 / American Standard Version 1901
+Rotherham Emphasized Bible, Ferrar Fenton Bible, Julia Smith Bible, Moffatt Bible, Twentieth Century New Testament, American Bible Union, Weymouth New Testament
+Bible variant reading / Bible misprint / Bible printing error
+Publisher names, which is where the odd stuff hides: Eyre Spottiswoode Bible, Thomas Nelson Bible 18xx, Collins Bible antique, Bagster Bible, Holman family Bible
+
+I found a revised version bible 1881 that appears to be exactly the same as the only residual that I thought was acceptable.  I oredered it, quite expensive at $35 to someone unemployed.  The picture is identical to the picture on ebay.  This unfortunately would give us 0 residual pictures of the bible which is saddening.  Meaning we are purely running on memories and there is no residuals.
