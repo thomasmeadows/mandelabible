@@ -1,6 +1,6 @@
 # Round 7 — Rare Word Review (rarest first)
 
-*The 100 rarest lemmas over the current output (base KJV + all approved restorations through round 6, the chief/head review, and the pronoun/word-swap pass). Inflections collapsed (EModE); whitelisted words, names, places, and always-capitalized proper nouns skipped. For each word: its form counts; every verse it appears in with the current text plus the Geneva 1599 and Standard Oxford Edition (1769 base KJV) readings; the King James agent's proposed replacement verse and alternate word/phrase suggestions (advice **WHITELIST** where the word is a proper noun); then a blank owner ruling. **src** flags whether the lemma is native to the base KJV or was introduced by a restoration. Nothing changed.*
+*The 100 rarest lemmas over the current output (base KJV + all approved restorations through round 6, the chief/head review, and the pronoun/word-swap pass). Inflections collapsed (EModE); whitelisted words, names, places, and always-capitalized proper nouns skipped. For each word: its form counts; every verse it appears in with the current text plus the Geneva 1599 and Standard Oxford Edition (1769 base KJV) readings; the King James agent's proposed replacement verse, alternate word/phrase suggestions, and a whitelist-first fallback verified against `references/word_whitelist.md` (advice **WHITELIST** where the word is a proper noun); then a blank owner ruling. **src** flags whether the lemma is native to the base KJV or was introduced by a restoration. Nothing changed.*
 
 **100 words (rarest first); 3200 eligible lemmas total.**
 
@@ -115,6 +115,7 @@
   - Oxford (KJV 1769): By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;
 - KJ proposal: Hebrews 10:20 — By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;
 - alternates: consecrated, dedicated, prepared, hallowed
+- whitelist suggestion: **consecrated** — whitelisted; 15 uses of the word in KJV.db; e.g. Exodus 29:29 — “And the holy garments of Aaron shall be his sons’ after him, to be anointed therein, and to be consecrated in them.”.
 - advice: swap to "consecrated" — "circumsized" (a mangled spelling of "circumcised") imports the wrong rite entirely into this verse; the Pauline image is of Christ dedicating a "new and living way" through the veil, not a circumcision. Both Geneva ("prepared") and Oxford ("consecrated") agree on the sense of setting-apart/dedication, and Oxford's own word "consecrated" is the safest restoration since it is the base 1769 reading and a well-attested EModE verb (Hebrews 7:28, 10:20 elsewhere in the corpus). This is a meaning-inversion corruption, not a spelling quirk, and should not be treated as a proper noun.
 - owner ruling: WHITELIST
 
@@ -126,6 +127,7 @@
   - Oxford (KJV 1769): For he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God. 
 - KJ proposal: Job 34:37 — (no change — matches Oxford exactly; Geneva attests "clappeth" at this very verse)
 - alternates: smiteth (his hands), striketh
+- whitelist suggestion: **smiteth** — whitelisted; 13 uses of the word in KJV.db; e.g. Exodus 21:12 — “He that smiteth a man, so that he die, shall be surely put to death.”.
 - advice: keep — ordinary, well-attested EModE verb (to clap the hands in scorn/mockery), fits the biblical-era gesture of contempt
 - owner ruling: WHITELIST
 
@@ -137,6 +139,7 @@
   - Oxford (KJV 1769): Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,
 - KJ proposal: Philippians 3:13 — (no change — matches Oxford exactly; Geneva's "I forget" at this verse is the same root, rendered as a finite verb rather than a participle)
 - alternates: leaving behind, putting behind, not looking back to
+- whitelist suggestion: **putting behind** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **behind** has 75 uses; e.g. Genesis 18:10 — “And he said, I will certainly return unto thee according to the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard it in the tent door, which was behind him.”. This keeps the runner's backward/forward image; the owner-entered ‘forgiving’ would instead change the sense to pardon, so that ruling should be confirmed before application.
 - advice: keep — genuine Pauline vocabulary, matches Oxford's own reading of this verse; note that a note in the source file suggests "revise to forgiving," but "forgetting those things which are behind" and "forgiving" are not interchangeable senses — the Greek image (Philippians 3:13) is of a runner not looking back, not of pardon. No corpus evidence supports "forgiving" here; flag this proposed change to the owner-review workflow as a likely meaning-inversion risk rather than adopt it.
 - owner ruling: revise to forgiving
 
@@ -158,6 +161,7 @@
 - KJ proposal: Isaiah 59:5 — (no change — matches Oxford exactly; Geneva attests "cockatrice egges")
 - KJ proposal: Jeremiah 8:17 — (no change — matches Oxford exactly; Geneva attests "cockatrices")
 - alternates: basilisk, adder, viper
+- whitelist suggestion: **viper** — whitelisted; 4 uses of the word in KJV.db; e.g. Job 20:16 — “He shall suck the poison of asps: the viper’s tongue shall slay him.”. This is only a fallback: ‘viper’ narrows the disputed creature and is weaker than keeping and whitelisting ‘cockatrice.’
 - advice: WHITELIST — names a specific legendary/composite serpent (the Hebrew tsepha‘/tsiph‘oni tradition), unanimously attested across Geneva and Oxford at all three verses; no common-noun synonym renders the same creature without narrowing or changing the referent
 - owner ruling: WHITELIST
 
@@ -179,8 +183,9 @@
 - KJ proposal: Ezekiel 2:4 — (no change — matches Oxford exactly)
 - KJ proposal: Ezekiel 3:7 — (no change — matches Oxford exactly)
 - alternates: shameless, brazen, hard-faced
+- whitelist suggestion: **hard** — whitelisted; 46 uses of the word in KJV.db; e.g. Genesis 18:14 — “Is any thing too hard for the Lord? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.”. Use in a recast such as ‘hard of face’; ‘hard’ alone does not carry the full shameless/brazen sense.
 - advice: keep — well-attested EModE adjective, Geneva agrees at all three verses
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to proud
 
 #### <a name="infants"></a>infants — 3 uses  ·  src: base
 - forms: infants (3)
@@ -200,8 +205,9 @@
 - KJ proposal: Hosea 13:16 — (no change — matches Oxford exactly; Geneva verse not preserved in this witness for comparison)
 - KJ proposal: Luke 18:15 — (no change — matches Oxford exactly; Geneva's "babes" at this verse is offered below as an alternate for that occurrence)
 - alternates: babes, young children, little ones
+- whitelist suggestion: **babes** — whitelisted; 9 uses of the word in KJV.db; e.g. Psalms 8:2 — “Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.”.
 - advice: keep — genuine EModE noun, names newborn/very young children, a referent unchanged since the biblical era
-- owner ruling: WHITELIST
+- owner ruling: revise to babes
 
 #### <a name="inkhorn"></a>inkhorn — 3 uses  ·  src: base
 - forms: inkhorn (3)
@@ -221,6 +227,7 @@
 - KJ proposal: Ezekiel 9:3 — (no change — matches Oxford exactly; Geneva attests "ynkhorne")
 - KJ proposal: Ezekiel 9:11 — (no change — matches Oxford exactly; Geneva attests "ynkhorne")
 - alternates: writer's case, scribe's case
+- whitelist suggestion: **scribe's vessel** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **vessel** has 46 uses; e.g. Leviticus 6:28 — “But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both scoured, and rinsed in water.”. This generic phrase loses the specific ink-and-pen implement, so KEEP/WHITELIST remains preferable.
 - advice: keep — names a real Egyptian/Near-Eastern scribal implement (a belt-worn ink-and-pen case, cf. Egyptian scribal kits attested in the period of Ezekiel), correctly rendered; both axes pass
 - owner ruling: WHITELIST
 
@@ -242,8 +249,9 @@
 - KJ proposal: II Samuel 13:23 — (no change — matches Oxford exactly)
 - KJ proposal: Esther 5:12 — (no change — matches Oxford exactly; Geneva's "bidden" at this verse is offered below as an alternate)
 - alternates: bidden, called, summoned
+- whitelist suggestion: **called** — whitelisted; 645 uses of the word in KJV.db; e.g. Genesis 1:5 — “And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.”.
 - advice: keep — attested pre-1611 verb (Geneva itself uses "called"/"bidden" as synonyms, not because "invited" is anachronistic, but as period paraphrase); names an ordinary ancient Near Eastern social custom of formal invitation to a feast
-- owner ruling: _____ (keep / whitelist / revise to ___)
+- owner ruling: revise to called
 
 #### <a name="inwardly"></a>inwardly — 3 uses  ·  src: base
 - forms: inwardly (3)
@@ -263,6 +271,7 @@
 - KJ proposal: Matthew 7:15 — (no change — matches Oxford exactly; Geneva attests "inwardly" at this very verse)
 - KJ proposal: Romans 2:29 — (no change — matches Oxford exactly; Geneva's "within" at this verse is the same root)
 - alternates: within, in the heart, secretly
+- whitelist suggestion: **within** — whitelisted; 194 uses of the word in KJV.db; e.g. Genesis 6:14 — “Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -284,6 +293,7 @@
 - KJ proposal: Judges 15:16 — (no change — matches Oxford exactly, restoring "Samson" spelling as Oxford has it, since the current text's "Sampson" is a separate name-spelling matter outside this word's scope)
 - KJ proposal: Judges 15:17 — (no change — matches Oxford exactly)
 - alternates: jaw, cheekbone
+- whitelist suggestion: **jaw** — whitelisted; 4 uses of the word in KJV.db; e.g. Judges 15:16 — “And Samson said, With the jawbone of an ass, heaps upon heaps, with the jaw of an ass have I slain a thousand men.”.
 - advice: keep — names a real weapon of opportunity (an ass's jawbone), consistent with the Iron Age Levantine setting of Judges
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -305,6 +315,7 @@
 - KJ proposal: Romans 5:16 — (no change — matches Oxford exactly; Geneva attests "iustification")
 - KJ proposal: Romans 5:18 — (no change — matches Oxford exactly; Geneva attests "iustification")
 - alternates: acquittal, being made righteous
+- whitelist suggestion: **righteousness** — whitelisted; 331 uses of the word in KJV.db; e.g. Genesis 15:6 — “And he believed in the Lord; and he counted it to him for righteousness.”. ‘Righteousness’ is related Pauline vocabulary but is not an exact substitute for the forensic act denoted by ‘justification.’
 - advice: keep — core Pauline doctrinal term, well-attested in both witnesses
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -326,6 +337,7 @@
 - KJ proposal: Luke 23:41 — (no change — matches Oxford exactly; Geneva's "righteously" at this verse is offered below as an alternate)
 - KJ proposal: I Thessalonians 2:10 — (no change — matches Oxford exactly)
 - alternates: righteously, rightly, uprightly
+- whitelist suggestion: **righteously** — whitelisted; 8 uses of the word in KJV.db; e.g. Deuteronomy 1:16 — “And I charged your judges at that time, saying, Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -347,6 +359,7 @@
 - KJ proposal: II Samuel 13:8 — (no change — matches Oxford exactly)
 - KJ proposal: Hosea 7:4 — (no change — matches Oxford exactly)
 - alternates: wrought (the dough), worked
+- whitelist suggestion: **wrought** — whitelisted; 101 uses of the word in KJV.db; e.g. Genesis 34:7 — “And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob’s daughter; which thing ought not to be done.”.
 - advice: keep — names an everyday Bronze/Iron Age household bread-making act, unchanged in sense to this day
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -368,6 +381,7 @@
 - KJ proposal: I Kings 12:11 — And now whereas my father did lade you with a heavy yoke, I will add to your yoke: my father hath chastised you with whips, but I will chastise you with scorpions.
 - KJ proposal: Luke 11:46 — And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.
 - alternates: load, burden, charge
+- whitelist suggestion: **lay burdens upon** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **burdens** has 27 uses; e.g. Genesis 49:14 — “Issachar is a strong ass couching down between two burdens:”. No one-for-one protected verb fits all three constructions; this phrase requires an occurrence-specific grammatical recast.
 - advice: keep "lade" itself (genuine attested EModE verb, Geneva agrees at all three verses) — but correct a number-agreement leak in the current text: at all three verses the addressee is plural ("thy brethren," all Israel, "ye lawyers"), yet the current text drops in singular "thine"/"thee," which does not agree with the surrounding "ye"/plural sense. Oxford's own reading confirms "your"/"you" throughout. This looks like an artifact of the recent thee/thou restoration pass overshooting into plural-address verses.
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -389,6 +403,7 @@
 - KJ proposal: Nehemiah 5:13 — (no change — matches Oxford exactly; Geneva attests "lappe")
 - KJ proposal: Proverbs 16:33 — (no change — matches Oxford's near-identical reading, "disposing" vs. current "judgment," a different word outside this entry's scope)
 - alternates: fold of the garment, bosom
+- whitelist suggestion: **bosom** — whitelisted; 41 uses of the word in KJV.db; e.g. Genesis 16:5 — “And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the Lord judge between me and thee.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -410,6 +425,7 @@
 - KJ proposal: Ezekiel 23:44 — (no change — matches Oxford exactly; Geneva's "wicked" at this verse is offered below as an alternate)
 - KJ proposal: Acts 17:5 — (no change — matches Oxford exactly; Geneva's "wicked fellows" at this verse is the same sense)
 - alternates: wicked, base, vile, worthless
+- whitelist suggestion: **wicked** — whitelisted; 372 uses of the word in KJV.db; e.g. Genesis 13:13 — “But the men of Sodom were wicked and sinners before the Lord exceedingly.”.
 - advice: keep — genuine EModE sense (wicked/base), not the narrower modern sexual sense; both axes pass
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -431,6 +447,7 @@
 - KJ proposal: Luke 16:25 — But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.
 - KJ proposal: Hebrews 2:15 — (no change — matches Oxford exactly)
 - alternates: life's space, days, time of life
+- whitelist suggestion: **time of life** — built entirely from whitelisted words; 4 uses of the exact phrase in KJV.db; e.g. Genesis 18:10 — “And he said, I will certainly return unto thee according to the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard it in the tent door, which was behind him.”.
 - advice: keep "lifetime" itself (matches Oxford at two of three verses; the compound is well-attested) — but at Luke 16:25 the current text has slipped in a grammar leak: "and Lazarus didst evil things" wrongly gives Lazarus (third person) the second-person verb ending "didst," which belongs only to "thou." Oxford's own elliptical construction ("likewise Lazarus evil things," the verb "receivedst" carried over by parallelism) avoids this; restoring it removes the leaked inflection without changing the sense.
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -452,6 +469,7 @@
 - KJ proposal: Jeremiah 23:32 — (no change — matches Oxford exactly; Geneva's "flatteries" at this verse is offered below as an alternate)
 - KJ proposal: II Corinthians 1:17 — (no change — matches Oxford exactly; Geneva attests "lightnesse")
 - alternates: flightiness, fickleness, flatteries, wantonness
+- whitelist suggestion: **vanity** — whitelisted; 92 uses of the word in KJV.db; e.g. II Kings 17:15 — “And they rejected his statutes, and his covenant that he made with their fathers, and his testimonies which he testified against them; and they followed vanity, and became vain, and went after the heathen that were round about them, concerning whom the Lord had charged them, that they should not do like them.”. ‘Vanity’ is broad enough for all three contexts but loses the particular shades of wantonness, false levity, and fickleness.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -473,6 +491,7 @@
 - KJ proposal: Philippians 2:2 — (no change — matches Oxford exactly; already correctly plural "ye be likeminded")
 - KJ proposal: Philippians 2:20 — For I have no man likeminded, who will naturally care for your state.
 - alternates: of one mind, of the same mind, agreed
+- whitelist suggestion: **of one mind** — built entirely from whitelisted words; 3 uses of the exact phrase in KJV.db; e.g. II Corinthians 13:11 — “Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.”.
 - advice: keep "likeminded" itself (well-attested compound, matches Oxford) — but correct two number-agreement leaks: Romans 15:5 addresses the whole Roman church ("one toward another"), so "grant thee" should be "grant you" as Oxford reads; Philippians 2:20 likewise speaks of the Philippian congregation's collective "state," so "thine state" should be "your state" per Oxford. Also note Oxford's own word at 2:20 is "naturally," not the current "truly" — a separate word outside this entry, flagged for the owner's notice.
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -494,6 +513,7 @@
 - KJ proposal: I Chronicles 16:3 — (no change — matches Oxford for this word; Oxford's own "flagon of wine" where the current text has "measure of wine" is a different word, outside this entry's scope)
 - KJ proposal: Mark 8:14 — (no change — matches Oxford exactly; Geneva attests "loafe")
 - alternates: cake (of bread), roll
+- whitelist suggestion: **bread** — whitelisted; 369 uses of the word in KJV.db; e.g. Genesis 3:19 — “In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.”. ‘Bread’ preserves the substance but loses the counted unit.
 - advice: keep — ordinary bread-related noun, unchanged referent from the biblical era to 1611
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -515,6 +535,7 @@
 - KJ proposal: Psalms 10:8 — (no change — matches Oxford exactly)
 - KJ proposal: Psalms 17:12 — (no change — matches Oxford exactly)
 - alternates: hiding, secret, ambush
+- whitelist suggestion: **hiding** — whitelisted; 6 uses of the word in KJV.db; e.g. Job 31:33 — “If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:”.
 - advice: keep "lurking" itself (matches Oxford at two of three verses) — but at I Samuel 23:23 the current text has "I will go with thee," addressed to the men of Ziph (plural, "come ye again to me"), which does not agree; Oxford's own reading here is "I will go with you." Restore the plural to match the surrounding "ye."
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -536,6 +557,7 @@
 - KJ proposal: Luke 23:33 — (no change — matches Oxford exactly)
 - KJ proposal: Luke 23:39 — (no change — matches Oxford exactly)
 - alternates: evildoers, wrongdoers, criminals
+- whitelist suggestion: **evil men** — built entirely from whitelisted words; 7 uses of the exact phrase in KJV.db; e.g. Job 35:12 — “There they cry, but none giveth answer, because of the pride of evil men.”. The phrase preserves the moral category but loses the Roman legal status of condemned criminals.
 - advice: keep — a Latinate legal term already current in period English (cf. Tyndale/Geneva's own "evil doers" as a plain-English gloss of the same referent); names ordinary Roman-era condemned criminals, both axes pass
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -557,6 +579,7 @@
 - KJ proposal: Luke 2:12 — (no change — matches Oxford for "manger"; same note on "swaddling"/"linen" applies)
 - KJ proposal: Luke 2:16 — (no change — matches Oxford exactly)
 - alternates: stall, crib, feeding-trough
+- whitelist suggestion: **feeding trough** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **feeding** has 8 uses; e.g. Genesis 37:2 — “These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father’s wives: and Joseph brought unto his father their evil report.”. This is an exact descriptive gloss, though ‘manger’ remains the stronger period term.
 - advice: keep — names a real first-century feeding trough; Geneva's "cratch" (an older English word for the same object) confirms the referent, not a rival correction
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -578,6 +601,7 @@
 - KJ proposal: I Corinthians 12:7 — (no change — matches Oxford exactly; Geneva attests "manifestation")
 - KJ proposal: II Corinthians 4:2 — (no change — matches Oxford for this word; Oxford's own "renounced...dishonesty" where the current text has "forsaken...shame" is a different phrase, outside this entry's scope)
 - alternates: revealing, unveiling, declaration
+- whitelist suggestion: **made known** — built entirely from whitelisted words; 20 uses of the exact phrase in KJV.db; e.g. Psalms 98:2 — “The Lord hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.”. The phrase requires syntactic recasting because the source word is a noun.
 - advice: keep — Pauline theological term, well-attested
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -599,6 +623,7 @@
 - KJ proposal: Luke 15:26 — (no change — matches Oxford exactly)
 - KJ proposal: Luke 18:36 — (no change — matches Oxford exactly)
 - alternates: intended, purposed, signified
+- whitelist suggestion: **purposed** / **made known** (by occurrence) — built entirely from whitelisted words; 19 uses of the word in KJV.db; e.g. II Chronicles 32:2 — “And when Hezekiah saw that Sennacherib was come, and that he was purposed to fight against Jerusalem,”; 20 uses of the exact phrase in KJV.db; e.g. Psalms 98:2 — “The Lord hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.”. Use ‘purposed’ at Genesis 50:20 and a ‘made known’ recast in the two Luke questions; there is no single protected form that fits all three grammatically.
 - advice: keep "meant" itself (matches Oxford at two of three verses) — but at Genesis 50:20 the current text reads "as for thee," which does not agree with the following "ye thought" (Joseph is addressing all his brethren, plural); Oxford's own reading is "as for you." Restore the plural.
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -620,6 +645,7 @@
 - KJ proposal: Lamentations 1:17 — (no change — matches Oxford exactly; Geneva attests "menstruous woman")
 - KJ proposal: Ezekiel 18:6 — (no change — matches Oxford for this word; Geneva's "lyen with" at this verse is a variant of the same act, offered below)
 - alternates: unclean (in her separation), set apart, ceremonially unclean
+- whitelist suggestion: **unclean** — whitelisted; 201 uses of the word in KJV.db; e.g. Leviticus 5:2 — “Or if a soul touch any unclean thing, whether it be a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and if it be hidden from him; he also shall be unclean, and guilty.”.
 - advice: keep — names a real Levitical ritual-purity category (niddah), well-attested in the underlying Hebrew law and unchanged in referent; both axes pass
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -641,6 +667,7 @@
 - KJ proposal: Nehemiah 8:3 — (no change — matches Oxford exactly)
 - KJ proposal: Acts 26:13 — (no change — matches Oxford exactly)
 - alternates: noon, noontide, the sixth hour
+- whitelist suggestion: **noon** — whitelisted; 13 uses of the word in KJV.db; e.g. Genesis 43:16 — “And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -662,6 +689,7 @@
 - KJ proposal: Genesis 38:28 — (no change — matches Oxford exactly)
 - KJ proposal: Exodus 1:16 — (no change — matches Oxford for this word; Oxford's own "upon the stools" where the current text has "upon the seat" is a different word, outside this entry's scope)
 - alternates: birth-helper
+- whitelist suggestion: **woman that helpeth in birth** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **birth** has 15 uses; e.g. Exodus 28:10 — “Six of their names on one stone, and the other six names of the rest on the other stone, according to their birth.”. An accurate protected paraphrase, but much less economical than the established occupational noun.
 - advice: keep — names a real, well-documented ancient Near Eastern profession (attested in Egyptian and Israelite sources alike), unchanged referent; both axes pass
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -683,6 +711,7 @@
 - KJ proposal: I Samuel 6:7 — (no change — matches Oxford exactly; Geneva attests "milch kine")
 - KJ proposal: I Samuel 6:10 — (no change — matches Oxford exactly)
 - alternates: milk-giving, giving milk
+- whitelist suggestion: **that gave milk** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **milk** has 50 uses; e.g. Genesis 18:8 — “And he took butter, and milk, and the calf which he had dressed, and set it before them; and he stood by them under the tree, and they did eat.”. Use by recasting as ‘camels/kine that gave milk’; it cannot simply occupy the adjective's existing position.
 - advice: keep — a genuine EModE adjective (Geneva glosses it plainly as "kine that gave milk"), naming ordinary ancient Near Eastern pastoral livestock; both axes pass
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -704,6 +733,7 @@
 - KJ proposal: Psalms 87:7 — As well the singers as the players on instruments shall be there: all my springs are in thee.
 - KJ proposal: Revelation of John 18:22 — And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft he be, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;
 - alternates: players on instruments, harpers, musicians, pipers
+- whitelist suggestion: **musicians** — whitelisted; 1 use of the word in KJV.db; e.g. Revelation of John 18:22 — “And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft he be, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;”. At Revelation 18:22 the surrounding list must be de-duplicated if ‘musicians’ is adopted; Oxford's unprotected ‘harpers/pipers’ remains more exact there.
 - advice: swap to Oxford's own readings above — "minstrels" is itself a genuine period word (it appears correctly at Matthew 9:23 elsewhere in the corpus), but at these three specific verses it has displaced Oxford's actual base readings ("players on instruments" at both Psalms verses; "harpers, musicians, pipers, trumpeters" at Revelation 18:22). Despite the "src: base" label, none of the three occurrence verses match the Oxford text given — this looks like a substitution introduced elsewhere in the pipeline rather than a native base reading, and is flagged for the anomaly workflow in addition to this word-review.
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -725,6 +755,7 @@
 - KJ proposal: I Samuel 25:15 — (no change — matches Oxford for this word; Oxford's own "conversant with them" where the current text has "went with them" is a different phrase, outside this entry's scope)
 - KJ proposal: I Samuel 25:21 — (no change — matches Oxford exactly)
 - alternates: lacked, wanted, was found wanting
+- whitelist suggestion: **wanted** — whitelisted; 4 uses of the word in KJV.db; e.g. Jeremiah 44:18 — “But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all things, and have been consumed by the sword and by the famine.”. ‘Wanted’ carries a period sense of ‘lacked,’ but it does not fit every occurrence without recasting and may mislead modern readers.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -746,6 +777,7 @@
 - KJ proposal: Acts 13:11 — (no change — matches Oxford exactly)
 - KJ proposal: II Peter 2:17 — (no change — matches Oxford exactly)
 - alternates: vapour, fog, dimness
+- whitelist suggestion: **vapour** — whitelisted; 6 uses of the word in KJV.db; e.g. Job 36:27 — “For he maketh small the drops of water: they pour down rain according to the vapour thereof:”.
 - advice: keep — an ordinary meteorological/visual phenomenon, unchanged in referent since the biblical era
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -767,6 +799,7 @@
 - KJ proposal: John 19:39 — (no change — matches Oxford exactly)
 - KJ proposal: Revelation of John 14:10 — (no change — matches Oxford exactly)
 - alternates: compound, blend
+- whitelist suggestion: **preparation** — whitelisted; 10 uses of the word in KJV.db; e.g. I Chronicles 22:5 — “And David said, Solomon my son is young and tender, and the house that is to be builded for the Lord must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death.”. ‘Preparation’ is broader and should be used only if the mixed nature remains clear from the surrounding words.
 - advice: keep — names a real first-century embalming compound (myrrh and aloes, John 19:39) and an ordinary wine-mixing sense elsewhere; both axes pass
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -783,6 +816,7 @@
 - KJ proposal: Luke 6:41 — (no change — matches Oxford exactly)
 - KJ proposal: Luke 6:42 — (no change — matches Oxford exactly)
 - alternates: speck, splinter, small chip
+- whitelist suggestion: **small thing** — built entirely from whitelisted words; 7 uses of the exact phrase in KJV.db; e.g. Numbers 16:9 — “Seemeth it but a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the Lord, and to stand before the congregation to minister unto them?”. This deliberately generic phrase loses the image of a tiny particle in the eye.
 - advice: keep — genuine EModE word for a tiny particle, matches Oxford and Geneva at both verses
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -804,6 +838,7 @@
 - KJ proposal: Job 34:37 — (no change — matches Oxford exactly; Geneva attests "multiplieth")
 - KJ proposal: Job 35:16 — (no change — matches Oxford exactly; Geneva attests "multiplieth")
 - alternates: increaseth, heapeth up
+- whitelist suggestion: **increaseth** — whitelisted; 18 uses of the word in KJV.db; e.g. Job 10:16 — “For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -825,6 +860,7 @@
 - KJ proposal: Nehemiah 12:36 — (no change — matches Oxford exactly; Geneva attests "musicall")
 - KJ proposal: Ecclesiastes 2:8 — (no change — matches Oxford exactly)
 - alternates: of music, of song
+- whitelist suggestion: **of song** — built entirely from whitelisted words; 1 use of the exact phrase in KJV.db; e.g. I Chronicles 6:31 — “And these are they whom David set over the service of song in the house of the Lord, after that the ark had rest.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -846,6 +882,7 @@
 - KJ proposal: I Corinthians 9:9 — (no change — matches Oxford for this word; same "corn"/"wheat" note applies)
 - KJ proposal: I Timothy 5:18 — (no change — matches Oxford for this word; same "corn"/"wheat" note applies)
 - alternates: muffle, bind the mouth of
+- whitelist suggestion: **bind the mouth of** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **mouth** has 450 uses; e.g. Genesis 4:11 — “And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;”.
 - advice: keep — names an ordinary and well-attested ancient Near Eastern agricultural practice (threshing oxen), both axes pass
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -862,6 +899,7 @@
 - KJ proposal: II Kings 2:19 — (no change — matches Oxford for this word; Oxford's own "the situation of this city" where the current text has "the seat of this city" is a different phrase, outside this entry's scope)
 - KJ proposal: Proverbs 20:14 — (no change — matches Oxford exactly)
 - alternates: bad, worthless, of no worth
+- whitelist suggestion: **of no worth** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **worth** has 10 uses; e.g. Genesis 23:9 — “That he may give me the cave of Machpelah, which he hath, which is in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you.”. This is the safest protected phrase for the older adjective meaning ‘worthless.’
 - advice: keep — genuine EModE sense "worthless/bad," distinct from the modern sense "nothing"; both axes pass
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -883,6 +921,7 @@
 - KJ proposal: Proverbs 11:6 — (no change — matches Oxford exactly)
 - KJ proposal: James 1:21 — Wherefore lay apart all filthiness and abundance of naughtiness, and receive with meekness the planted word, which is able to save your souls.
 - alternates: wickedness, malice, ill will
+- whitelist suggestion: **wickedness** — whitelisted; 132 uses of the word in KJV.db; e.g. Genesis 6:5 — “And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.”.
 - advice: keep "naughtiness" itself (matches Oxford at two of three verses; Oxford's own "superfluity"/"engrafted" at James 1:21 are separate words outside this entry) — but correct a pronoun leak at James 1:21: the epistle addresses "brethren" throughout (plural), so "save thine souls" should read "save your souls" as Oxford has it.
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -904,6 +943,7 @@
 - KJ proposal: Proverbs 17:4 — (no change — matches Oxford exactly)
 - KJ proposal: Jeremiah 24:2 — (no change — matches Oxford exactly)
 - alternates: bad, evil, worthless
+- whitelist suggestion: **evil** — whitelisted; 650 uses of the word in KJV.db; e.g. Genesis 2:9 — “And out of the ground made the Lord God to grow every tree that is pleasant to the sight and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -925,6 +965,7 @@
 - KJ proposal: Joshua 19:38 — (no change — matches Oxford exactly)
 - KJ proposal: II Samuel 2:30 — (no change — matches Oxford exactly)
 - alternates: (none needed — ordinary numeral)
+- whitelist suggestion: **ten and nine** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **nine** has 51 uses; e.g. Genesis 5:5 — “And all the days that Adam lived were nine hundred and thirty years: and he died.”. The protected words can express the number, but the circumlocution is inferior to keeping the ordinary numeral.
 - advice: keep — a plain numeral; no era issue on either axis
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -946,6 +987,7 @@
 - KJ proposal: John 4:46 — (no change — matches Oxford exactly)
 - KJ proposal: John 4:49 — (no change — matches Oxford exactly)
 - alternates: courtier, royal officer, man of rank
+- whitelist suggestion: **great man** — built entirely from whitelisted words; 9 uses of the exact phrase in KJV.db; e.g. Joshua 14:15 — “And the name of Hebron before was Kirjath–arba; which Arba was a great man among the Anakims. And the land had rest from war. ”. ‘Great man’ loses the precise courtly/rank sense.
 - advice: keep — Oxford itself uses "nobleman" at all three verses (Geneva's "ruler" at John 4:46/49 is a plainer paraphrase of the same Greek basilikos, a royal official); names a real first-century Herodian-court rank, both axes pass
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -967,6 +1009,7 @@
 - KJ proposal: Romans 16:7 — (no change — matches Oxford for this word; Oxford's own "fellowprisoners" where the current text has "companions" is a different word, outside this entry's scope)
 - KJ proposal: II Thessalonians 3:14 — (no change — matches Oxford exactly)
 - alternates: mark, record, take heed of
+- whitelist suggestion: **mark** — whitelisted; 38 uses of the word in KJV.db; e.g. Genesis 4:15 — “And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him should kill him.”. ‘Mark’ fits the identifying/observing sense, but noun and verb occurrences must be inflected and recast separately.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -988,6 +1031,7 @@
 - KJ proposal: Isaiah 58:10 — (no change — matches Oxford exactly)
 - KJ proposal: Isaiah 59:9 — (no change — matches Oxford exactly)
 - alternates: darkness, dimness, gloom
+- whitelist suggestion: **darkness** — whitelisted; 173 uses of the word in KJV.db; e.g. Genesis 1:2 — “And the earth was without form and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.”.
 - advice: keep — genuine EModE abstract noun, matches Oxford at all three verses
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1009,6 +1053,7 @@
 - KJ proposal: Mark 9:22 — (no change — matches Oxford exactly)
 - KJ proposal: John 18:2 — (no change — matches Oxford exactly)
 - alternates: often, many times, frequently
+- whitelist suggestion: **many times** — built entirely from whitelisted words; 4 uses of the exact phrase in KJV.db; e.g. I Kings 22:16 — “And the king said unto him, How many times shall I adjure thee that thou tell me nothing but that which is true in the name of the Lord?”.
 - advice: keep — genuine EModE compound adverb, matches Oxford and Geneva (as two words, "oft times") at all three verses
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1030,6 +1075,7 @@
 - KJ proposal: Jeremiah 21:5 — And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath.
 - KJ proposal: Jeremiah 27:5 — (no change — matches Oxford exactly)
 - alternates: stretched out, extended
+- whitelist suggestion: **stretched out** — built entirely from whitelisted words; 46 uses of the exact phrase in KJV.db; e.g. Genesis 48:14 — “And Israel stretched out his right hand, and laid it upon Ephraim’s head, who was the younger, and his left hand upon Manasseh’s head, guiding his hands wittingly; for Manasseh was the firstborn.”.
 - advice: keep "outstretched" itself (matches Oxford at two of three verses; Geneva's "stretched out arm" is the same phrase split into two words) — but at Jeremiah 21:5 the current text reads "fight against thee," while Oxford reads "fight against you" (the oracle is against the city and king together, plural address in context); restore "you" to match Oxford.
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1051,6 +1097,7 @@
 - KJ proposal: Revelation of John 3:21 — (no change — matches Oxford exactly)
 - KJ proposal: Revelation of John 12:11 — (no change — matches Oxford exactly)
 - alternates: prevailed against, vanquished, subdued
+- whitelist suggestion: **prevailed** — whitelisted; 39 uses of the word in KJV.db; e.g. Genesis 7:18 — “And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters.”. Transitive occurrences require ‘prevailed against’; this is not a safe mechanical one-word substitution.
 - advice: keep — genuine EModE strong-verb past tense, matches Oxford and Geneva at all three verses
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1072,6 +1119,7 @@
 - KJ proposal: Job 22:16 — Which were cut down out of time, whose foundation was overflown with a flood:
 - KJ proposal: Daniel 11:22 — And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant.
 - alternates: overflowed, drowned, overwhelmed
+- whitelist suggestion: **overflowed** — whitelisted; 2 uses of the word in KJV.db; e.g. Psalms 78:20 — “Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1093,6 +1141,7 @@
 - KJ proposal: Joel 2:25 — And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.
 - KJ proposal: Amos 4:9 — I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured them: yet have ye not returned unto me, saith the Lord.
 - alternates: canker-worm (as a class term), shearworm
+- whitelist suggestion: **devouring worm** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **worm** has 17 uses; e.g. Exodus 16:24 — “And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein.”. This retains the agricultural threat but loses the disputed locust/caterpillar stage.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1114,6 +1163,7 @@
 - KJ proposal: II Chronicles 9:21 — For the king's ships went to Tarshish with the servants of Huram: every three years once came the ships of Tarshish bringing gold, and silver, ivory, and apes, and peacocks.
 - KJ proposal: Job 39:13 — Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?
 - alternates: peafowl, parrots (disputed alternative for Kings/Chronicles per some lexicons)
+- whitelist suggestion: **winged creature** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **winged** has 2 uses; e.g. Genesis 1:21 — “And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.”. This retains only the broad class and should not replace the species name absent stronger evidence.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1135,6 +1185,7 @@
 - KJ proposal: Deuteronomy 14:17 — And the pelican, and the eagle, and the cormorant,
 - KJ proposal: Psalms 102:6 — I am like a pelican of the wilderness: I am like an owl of the desert.
 - alternates: none needed — well attested
+- whitelist suggestion: **winged creature** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **creature** has 30 uses; e.g. Genesis 1:20 — “And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.”. This broad class phrase keeps the bird referent but loses the species and is inferior to retaining the well-attested name.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1156,6 +1207,7 @@
 - KJ proposal: II Chronicles 7:16 — For now have I chosen and sanctified this house, that my name may be there for ever: and mine eyes and mine heart shall be there perpetually.
 - KJ proposal: Amos 1:11 — Thus saith the Lord; For three transgressions of Edom, and for four, I will not turn away the punishment thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever:
 - alternates: continually, evermore
+- whitelist suggestion: **continually** — whitelisted; 88 uses of the word in KJV.db; e.g. Genesis 6:5 — “And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1177,6 +1229,7 @@
 - KJ proposal: Micah 7:4 — The best of them is as a brier: the most upright is sharper than a thorn hedge: the day of thy watchmen and thy visitation cometh; now shall be their perplexity.
 - KJ proposal: Luke 21:25 — And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;
 - alternates: confusion, distress, dismay
+- whitelist suggestion: **distress** — whitelisted; 35 uses of the word in KJV.db; e.g. Genesis 35:3 — “And let us arise, and go up to Beth–el; and I will make there an altar unto God, who answered me in the day of my distress, and was with me in the way which I went.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1198,6 +1251,7 @@
 - KJ proposal: Proverbs 25:11 — A word fitly spoken is like apples of gold in pictures of silver.
 - KJ proposal: Isaiah 2:16 — And upon all the ships of Tarshish, and upon all pleasant pictures.
 - alternates: images, figures, carved works
+- whitelist suggestion: **images** — whitelisted; 74 uses of the word in KJV.db; e.g. Genesis 31:19 — “And Laban went to shear his sheep: and Rachel had stolen the images that were her father’s.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1214,6 +1268,7 @@
 - KJ proposal: Psalms 103:13 — Like as a father pitieth his children, so the Lord pitieth them that fear him.
 - KJ proposal: Ezekiel 24:21 — Speak unto the house of Israel, Thus saith the Lord God; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.
 - alternates: hath compassion on (matches Geneva's own periphrasis), spareth
+- whitelist suggestion: **hath compassion on** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **compassion** has 42 uses; e.g. Exodus 2:6 — “And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews’ children.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1235,6 +1290,7 @@
 - KJ proposal: Ezekiel 41:25 — And there were made on them, on the doors of the temple, cherubims and palm trees, like as were made upon the walls; and there were thick planks upon the face of the porch without.
 - KJ proposal: Ezekiel 41:26 — And there were narrow windows and palm trees on the one side and on the other side, on the sides of the porch, and upon the side chambers of the house, and thick planks.
 - alternates: boards
+- whitelist suggestion: **pieces of wood** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **wood** has 146 uses; e.g. Genesis 6:14 — “Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.”. This generic phrase preserves the material but loses the shaped-board sense.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1256,6 +1312,7 @@
 - KJ proposal: Psalms 31:23 — O love the Lord, all ye his saints: for the Lord preserveth the faithful, and plentifully rewardeth the proud doer.
 - KJ proposal: Luke 12:16 — And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:
 - alternates: abundantly (Geneva's own choice at Ps 31:23), fully
+- whitelist suggestion: **abundantly** — whitelisted; 33 uses of the word in KJV.db; e.g. Genesis 1:20 — “And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1277,6 +1334,7 @@
 - KJ proposal: Isaiah 28:17 — Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
 - KJ proposal: Zechariah 4:10 — For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel with those seven; they are the eyes of the Lord, which run to and fro through the whole earth.
 - alternates: plumbline weight, stone of tin (Geneva's own periphrasis at Zech 4:10)
+- whitelist suggestion: **weight of tin** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **tin** has 5 uses; e.g. Numbers 31:22 — “Only the gold, and the silver, the brass, the iron, the tin, and the lead,”. Geneva's protected-word periphrasis is strongest at Zechariah 4:10; elsewhere the instrument's function must remain explicit.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1293,6 +1351,7 @@
 - KJ proposal: II Chronicles 4:12 — To wit, the two pillars, and the pommels, and the chapiters which were on the top of the two pillars, and the two wreaths to cover the two pommels of the chapiters which were on the top of the pillars;
 - KJ proposal: II Chronicles 4:13 — And four hundred pomegranates on the two wreaths; two rows of pomegranates on each wreath, to cover the two pommels of the chapiters which were upon the pillars.
 - alternates: bowls (Geneva's own word), globes, knops
+- whitelist suggestion: **bowls** — whitelisted; 24 uses of the word in KJV.db; e.g. Exodus 25:29 — “And thou shalt make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover withal: of pure gold shalt thou make them.”.
 - advice: keep — no safe swap
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1314,6 +1373,7 @@
 - KJ proposal: Proverbs 21:2 — Every way of a man is right in his own eyes: but the Lord pondereth the hearts.
 - KJ proposal: Proverbs 24:12 — If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?
 - alternates: weigheth, considereth
+- whitelist suggestion: **considereth** — whitelisted; 10 uses of the word in KJV.db; e.g. Psalms 33:15 — “He fashioneth their hearts alike; he considereth all their works.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1335,6 +1395,7 @@
 - KJ proposal: Exodus 8:5 — And the Lord spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt.
 - KJ proposal: Isaiah 19:10 — And they shall be broken in the purposes thereof, all that make sluices and ponds for fish.
 - alternates: pools
+- whitelist suggestion: **pools** — whitelisted; 5 uses of the word in KJV.db; e.g. Exodus 7:19 — “And the Lord spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1351,6 +1412,7 @@
 - KJ proposal: Ezekiel 8:10 — So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round about.
 - KJ proposal: Ezekiel 23:14 — And that she increased her whoredoms: for when she saw men pourtrayed upon the wall, the images of the Chaldeans pourtrayed with vermilion,
 - alternates: painted (Geneva's own word), carved, engraved
+- whitelist suggestion: **graven** — whitelisted; 57 uses of the word in KJV.db; e.g. Exodus 20:4 — “Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:”. ‘Graven’ works for the wall images but narrows depiction to carving.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1372,6 +1434,7 @@
 - KJ proposal: II Corinthians 10:10 — For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible.
 - KJ proposal: Hebrews 4:12 — For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 - alternates: mighty (Geneva's own word)
+- whitelist suggestion: **mighty** — whitelisted; 302 uses of the word in KJV.db; e.g. Genesis 6:4 — “There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1393,6 +1456,7 @@
 - KJ proposal: Proverbs 10:10 — He that maketh a sign with the eye causeth sorrow: but a prating fool shall fall.
 - KJ proposal: III John 1:10 — Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.
 - alternates: babbling, tattling
+- whitelist suggestion: **babbling** — whitelisted; 1 use of the word in KJV.db; e.g. Proverbs 23:29 — “Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1414,6 +1478,7 @@
 - KJ proposal: Colossians 1:18 — And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.
 - KJ proposal: III John 1:9 — I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.
 - alternates: excellency (Geneva's own word at Eccl 3:19)
+- whitelist suggestion: **first place** — built entirely from whitelisted words; 1 use of the exact phrase in KJV.db; e.g. Numbers 10:14 — “In the first place went the standard of the camp of the children of Judah according to their armies: and over his host was Nahshon the son of Amminadab.”. This phrase preserves primacy but not every nuance of superiority in Ecclesiastes 3:19.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1435,6 +1500,7 @@
 - KJ proposal: Mark 12:40 — Which devour widows' houses, and for a pretence make long prayers: these shall receive greater damnation.
 - KJ proposal: Philippians 1:18 — What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice.
 - alternates: colour (Geneva's own word), show
+- whitelist suggestion: **outward appearance** — built entirely from whitelisted words; 2 uses of the exact phrase in KJV.db; e.g. I Samuel 16:7 — “But the Lord said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the Lord seeth not as man seeth; for man looketh on the outward appearance, but the Lord looketh on the heart.”. This phrase captures deceptive display, but each sentence needs a noun-phrase recast.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1456,6 +1522,7 @@
 - KJ proposal: I John 2:2 — And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
 - KJ proposal: I John 4:10 — Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.
 - alternates: reconciliation (Geneva's own word), atonement, mercy seat (for the related OT sense)
+- whitelist suggestion: **atonement** — whitelisted; 84 uses of the word in KJV.db; e.g. Exodus 29:33 — “And they shall eat those things wherewith the atonement was made, to consecrate and to sanctify them: but a stranger shall not eat thereof, because they are holy.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1477,6 +1544,7 @@
 - KJ proposal: Job 41:12 — I will not conceal his parts, nor his power, nor his comely proportion.
 - KJ proposal: Romans 12:6 — Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;
 - alternates: portion (Geneva's own word at Romans 12:6), measure
+- whitelist suggestion: **measure** — whitelisted; 72 uses of the word in KJV.db; e.g. Exodus 26:2 — “The length of one curtain shall be eight and twenty cubits, and the breadth of one curtain four cubits: and every one of the curtains shall have one measure.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1498,6 +1566,7 @@
 - KJ proposal: Joel 3:10 — Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong.
 - KJ proposal: Micah 4:3 — And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.
 - alternates: pruning hooks (two words), sithes/scythes (Geneva's own word)
+- whitelist suggestion: **reaping hook** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **hook** has 6 uses; e.g. II Kings 19:28 — “Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.”. The phrase describes the implement using protected words; retain the agricultural purpose in every recast.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1519,6 +1588,7 @@
 - KJ proposal: Daniel 1:12 — Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.
 - KJ proposal: Daniel 1:16 — Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse.
 - alternates: parched corn, legumes
+- whitelist suggestion: **seeds for meat** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **seeds** has 5 uses; e.g. Deuteronomy 22:9 — “Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.”. This describes edible seeds without forcing a modern botanical category, though it is less concise.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1540,6 +1610,7 @@
 - KJ proposal: Isaiah 46:11 — Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken it, I will also bring it to pass; I have purposed it, I will also do it.
 - KJ proposal: Ezekiel 39:4 — Thou shalt fall upon the mountains of Israel, thou, and all thy bands, and the people that is with thee: I will give thee unto the ravenous birds of every sort, and to the beasts of the field to be devoured.
 - alternates: noisome (Geneva's own word at Isaiah 35:9), devouring, greedy
+- whitelist suggestion: **devouring** — whitelisted; 6 uses of the word in KJV.db; e.g. Exodus 24:17 — “And the sight of the glory of the Lord was like devouring fire on the top of the mount in the eyes of the children of Israel.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1561,6 +1632,7 @@
 - KJ proposal: Mark 2:14 — And as he passed by, he saw Levi the son of Alpheus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him.
 - KJ proposal: Luke 5:27 — And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me.
 - alternates: custom-house, toll-booth
+- whitelist suggestion: **place where tax is received** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **received** has 168 uses; e.g. Genesis 26:12 — “Then Isaac sowed in that land, and received in the same year an hundredfold: and the Lord blessed him.”. This is an accurate descriptive phrase for a tax-collection station; it requires recasting the surrounding ‘of custom.’
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1582,6 +1654,7 @@
 - KJ proposal: Nehemiah 7:5 — And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein,
 - KJ proposal: Nehemiah 7:64 — These sought their register among those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood.
 - alternates: book (Geneva's own word), record
+- whitelist suggestion: **book** — whitelisted; 197 uses of the word in KJV.db; e.g. Genesis 5:1 — “This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1598,6 +1671,7 @@
 - KJ proposal: II Chronicles 13:18 — Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the Lord God of their fathers.
 - KJ proposal: II Chronicles 16:7 — And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the Lord thy God, therefore is the host of the king of Syria escaped out of thine hand.
 - alternates: stayed/rested (Geneva's own words), trusted, leaned
+- whitelist suggestion: **trusted** — whitelisted; 30 uses of the word in KJV.db; e.g. Deuteronomy 32:37 — “And he shall say, Where are their gods, their rock in whom they trusted,”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1619,6 +1693,7 @@
 - KJ proposal: Esther 8:5 — And said, If it please the king, and if I have found favour in his sight, and the thing seem right before the king, and I be pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews which are in all the king's provinces:
 - KJ proposal: Esther 8:8 — Write ye also for the Jews, as it liketh you, in the king's name, and seal it with the king's ring: for the writing which is written in the king's name, and sealed with the king's ring, may no man reverse.
 - alternates: alter/revoke (Geneva's own words), annul
+- whitelist suggestion: **alter** — whitelisted; 4 uses of the word in KJV.db; e.g. Leviticus 27:10 — “He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1640,6 +1715,7 @@
 - KJ proposal: Hosea 5:2 — And the revolters are profound to make slaughter, though I have been a rebuker of them all.
 - KJ proposal: Hosea 9:15 — All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters.
 - alternates: rebels (Geneva's own word), traitors (Geneva's own word at Jer 6:28), backsliders
+- whitelist suggestion: **rebels** — whitelisted; 3 uses of the word in KJV.db; e.g. Numbers 17:10 — “And the Lord said unto Moses, Bring Aaron’s rod again before the testimony, to be kept for a token against the rebels; and thou shalt quite take away their murmurings from me, that they die not.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1661,6 +1737,7 @@
 - KJ proposal: Leviticus 15:11 — And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe himself in water, and be unclean until the even.
 - KJ proposal: Leviticus 15:12 — And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water.
 - alternates: washed (Geneva's own word), scoured
+- whitelist suggestion: **washed** — whitelisted; 47 uses of the word in KJV.db; e.g. Genesis 43:24 — “And the man brought the men into Joseph’s house, and gave them water, and they washed their feet; and he gave their asses provender.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1682,6 +1759,7 @@
 - KJ proposal: Hosea 13:16 — Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.
 - KJ proposal: Amos 1:13 — Thus saith the Lord; For three transgressions of the children of Ammon, and for four, I will not turn away the punishment thereof; because they have ripped up the women with child of Gilead, that they might enlarge their border:
 - alternates: none needed — well attested
+- whitelist suggestion: **cut open** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **open** has 129 uses; e.g. Genesis 1:20 — “And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1703,6 +1781,7 @@
 - KJ proposal: Isaiah 17:1 — The burden of Damascus. Behold, Damascus is taken away from being a city, and it shall be a ruinous heap.
 - KJ proposal: Isaiah 37:26 — Hast thou not heard long ago, how I have done it; and of ancient times, that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste defenced cities into ruinous heaps.
 - alternates: none needed — well attested
+- whitelist suggestion: **desolate** — whitelisted; 165 uses of the word in KJV.db; e.g. Genesis 47:19 — “Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, that the land be not desolate.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1724,6 +1803,7 @@
 - KJ proposal: Leviticus 25:50 — And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him.
 - KJ proposal: Deuteronomy 18:8 — They shall have like portions to eat, beside that which cometh of the sale of his patrimony.
 - alternates: none needed — well attested
+- whitelist suggestion: **money received** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **money** has 148 uses; e.g. Genesis 17:12 — “And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which is not of thy seed.”. This gives the proceeds sense in Deuteronomy 18:8 but is weaker for Leviticus's legal transaction/date sense.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1745,6 +1825,7 @@
 - KJ proposal: Psalms 107:9 — For he satisfieth the longing soul, and filleth the hungry soul with goodness.
 - KJ proposal: Isaiah 55:2 — Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness.
 - alternates: none needed — well attested
+- whitelist suggestion: **filleth** — whitelisted; 7 uses of the word in KJV.db; e.g. Job 9:18 — “He will not suffer me to take my breath, but filleth me with bitterness.”. ‘Filleth’ preserves supplying a need but loses the contentment/completeness carried by ‘satisfieth.’
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1766,6 +1847,7 @@
 - KJ proposal: Acts 14:18 — And with these sayings scarce restrained they the people, that they had not done sacrifice unto them.
 - KJ proposal: Acts 27:7 — And when we had sailed slowly many days, and scarce were come over against Cnidus, the wind not suffering us, we sailed under Crete, over against Salmone;
 - alternates: none needed — well attested
+- whitelist suggestion: **hardly** — whitelisted; 8 uses of the word in KJV.db; e.g. Genesis 16:6 — “But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.”. ‘Hardly’ can mean ‘with difficulty,’ but it is ambiguous in Early Modern English and would repeat ‘hardly’ in Acts 27:7; KEEP remains clearer.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1787,6 +1869,7 @@
 - KJ proposal: Jeremiah 48:11 — Moab hath been at ease from his youth, and he hath settled on his lees, and hath not been emptied from vessel to vessel, neither hath he gone into captivity: therefore his taste remained in him, and his scent is not changed.
 - KJ proposal: Hosea 14:7 — They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon.
 - alternates: sent (Geneva's own spelling — same word), smell
+- whitelist suggestion: **savour** — whitelisted; 55 uses of the word in KJV.db; e.g. Genesis 8:21 — “And the Lord smelled a sweet savour; and the Lord said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.”. In Early Modern English ‘savour’ can cover smell and taste, matching these contexts more closely than modern ‘odor.’
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1808,6 +1891,7 @@
 - KJ proposal: Proverbs 29:8 — Scornful men bring a city into a snare: but wise men turn away wrath.
 - KJ proposal: Isaiah 28:14 — Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
 - alternates: none needed — well attested
+- whitelist suggestion: **scorners** — whitelisted; 5 uses of the word in KJV.db; e.g. Proverbs 1:22 — “How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?”. The plural noun fits ‘the scornful’ in Psalm 1:1, but the adjective occurrences require recasting.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1829,6 +1913,7 @@
 - KJ proposal: Ephesians 5:33 — Nevertheless let every one of you severally so love his wife even as himself; and the wife see that she reverence her husband.
 - KJ proposal: Hebrews 9:5 — And over it the cherubims of glory shadowing the mercy seat; of which we cannot now speak severally.
 - alternates: particularly (Geneva's own word / Oxford's own reading), respectively
+- whitelist suggestion: **each one** — built entirely from whitelisted words; 8 uses of the exact phrase in KJV.db; e.g. Numbers 1:44 — “These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1850,6 +1935,7 @@
 - KJ proposal: Judges 5:16 — Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben there were great searchings of heart.
 - KJ proposal: Psalms 78:70 — He chose David also his servant, and took him from the sheepfolds:
 - alternates: sheepfolds (Geneva's own two-word "sheepe foldes") 
+- whitelist suggestion: **places for sheep** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **sheep** has 196 uses; e.g. Genesis 4:2 — “And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.”. An accurate protected paraphrase, but it loses the compact name of the enclosure.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1871,6 +1957,7 @@
 - KJ proposal: Hosea 7:11 — Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.
 - KJ proposal: II Timothy 3:6 — For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
 - alternates: simple (Geneva's own word), idiot/simple one (Geneva's own word at Job 5:2)
+- whitelist suggestion: **foolish** — whitelisted; 52 uses of the word in KJV.db; e.g. Deuteronomy 32:6 — “Do ye thus requite the Lord, O foolish people and unwise? is not he thy father that hath bought thee? hath he not made thee, and established thee?”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1892,6 +1979,7 @@
 - KJ proposal: Judges 9:19 — If ye then have dealt truly and sincerely with Jerubbaal and with his house this day, then rejoice ye in Abimelech, and let him also rejoice in you:
 - KJ proposal: Philippians 1:16 — The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:
 - alternates: uprightly/purely (Geneva's own words)
+- whitelist suggestion: **uprightly** — whitelisted; 13 uses of the word in KJV.db; e.g. Psalms 15:2 — “He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1913,6 +2001,7 @@
 - KJ proposal: Ephesians 6:5 — Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;
 - KJ proposal: Colossians 3:22 — Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:
 - alternates: none needed — well attested
+- whitelist suggestion: **one heart** — built entirely from whitelisted words; 5 uses of the exact phrase in KJV.db; e.g. I Chronicles 12:38 — “All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the rest also of Israel were of one heart to make David king.”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1934,6 +2023,7 @@
 - KJ proposal: Ezekiel 27:3 — And say unto Tyrus, O thou that art situate at the entry of the sea, which art a merchant of the people for many isles, Thus saith the Lord God; O Tyrus, thou hast said, I am of perfect beauty.
 - KJ proposal: Nahum 3:8 — Art thou better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?
 - alternates: situated, seated (both would require adding a -d, i.e. not a true one-word swap; "situate" as a bare past-participle adjective is itself the older/EModE form)
+- whitelist suggestion: **seated** — whitelisted; 1 use of the word in KJV.db; e.g. Deuteronomy 33:21 — “And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the Lord, and his judgments with Israel.”. ‘Seated’ can express fixed placement, but it may suggest a person sitting; the established participial adjective remains more exact.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1955,6 +2045,7 @@
 - KJ proposal: I Chronicles 25:23 — The sixteenth to Hananiah, he, his sons, and his brethren, were twelve:
 - KJ proposal: II Chronicles 29:17 — Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of the Lord: so they sanctified the house of the Lord in eight days; and in the sixteenth day of the first month they made an end.
 - alternates: none needed — well attested
+- whitelist suggestion: **six and tenth** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **tenth** has 84 uses; e.g. Genesis 8:5 — “And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.”. The circumlocution is intelligible but inferior to keeping the ordinary ordinal.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1976,6 +2067,7 @@
 - KJ proposal: Psalms 73:18 — Surely thou didst set them in slippery places: thou castedst them down into destruction.
 - KJ proposal: Jeremiah 23:12 — Wherefore their way shall be unto them as slippery ways in the darkness: they shall be driven on, and fall therein: for I will bring evil upon them, even the year of their visitation, saith the Lord.
 - alternates: none needed — well attested
+- whitelist suggestion: **a place to fall** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **fall** has 262 uses; e.g. Genesis 2:21 — “And the Lord God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;”. This describes the hazard rather than the surface and therefore requires a full occurrence-specific recast.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -1997,6 +2089,7 @@
 - KJ proposal: Ezekiel 45:17 — And it shall be the prince's part to give burnt offerings, and meat offerings, and drink offerings, in the feasts, and in the new moons, and in the sabbaths, in all solemnities of the house of Israel: he shall prepare the sin offering, and the meat offering, and the burnt offering, and the peace offerings, to make reconciliation for the house of Israel.
 - KJ proposal: Ezekiel 46:11 — And in the feasts and in the solemnities the meat offering shall be an ephah to a bullock, and an ephah to a ram, and to the lambs as he is able to give, and an hin of oil to an ephah.
 - alternates: solemn feasts (Geneva's own periphrasis), high feasts (Geneva's own periphrasis at Ezek 45:17)
+- whitelist suggestion: **solemn feasts** — built entirely from whitelisted words; 12 uses of the exact phrase in KJV.db; e.g. Numbers 15:3 — “And will make an offering by fire unto the Lord, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the Lord, of the herd, or of the flock:”.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -2018,6 +2111,7 @@
 - KJ proposal: Luke 1:22 — And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless.
 - KJ proposal: Acts 9:7 — And the men which journeyed with him stood speechless, hearing a voice, but seeing no man.
 - alternates: dumb (Geneva's own word at Luke 1:22), amazed (Geneva's own word at Acts 9:7)
+- whitelist suggestion: **dumb** — whitelisted; 31 uses of the word in KJV.db; e.g. Exodus 4:11 — “And the Lord said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the Lord?”. ‘Dumb’ has the period sense ‘unable to speak’; at Acts 9:7 it may overstate stunned silence as physical muteness.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -2039,6 +2133,7 @@
 - KJ proposal: Mark 2:22 — And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles.
 - KJ proposal: Luke 5:37 — And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.
 - alternates: none needed — well attested
+- whitelist suggestion: **poured** — whitelisted; 90 uses of the word in KJV.db; e.g. Genesis 28:18 — “And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it.”. ‘Poured’ works naturally for wine and, with care, for Genesis 38:9; it is not a universal mechanical substitution.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -2060,6 +2155,7 @@
 - KJ proposal: Matthew 6:28 — And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:
 - KJ proposal: Luke 12:27 — Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.
 - alternates: none needed — well attested
+- whitelist suggestion: **maketh thread** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **thread** has 8 uses; e.g. Genesis 14:23 — “That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is thine, lest thou shouldest say, I have made Abram rich:”. This protected phrase states the result of spinning and requires verb-agreement changes by occurrence.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -2081,6 +2177,7 @@
 - KJ proposal: I Corinthians 2:14 — But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.
 - KJ proposal: Revelation of John 11:8 — And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 - alternates: none needed — well attested
+- whitelist suggestion: **in the spirit** — built entirely from whitelisted words; 32 uses of the exact phrase in KJV.db; e.g. Proverbs 15:4 — “A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit.”. This phrase is not always syntactically interchangeable and must preserve the distinction between spiritual manner and location.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -2102,6 +2199,7 @@
 - KJ proposal: Job 7:19 — How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?
 - KJ proposal: John 9:6 — When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,
 - alternates: spettle (Geneva's own spelling — same word)
+- whitelist suggestion: **water of the mouth** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **mouth** has 450 uses; e.g. Genesis 4:11 — “And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;”. The paraphrase is accurate but euphemistic and markedly weaker than the established concrete noun.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -2123,6 +2221,7 @@
 - KJ proposal: Matthew 7:4 — Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?
 - KJ proposal: Matthew 7:5 — Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
 - alternates: beam (the restoring word — matches Geneva and Oxford exactly), plank (a period synonym for "beam" but weaker fit)
+- whitelist suggestion: **piece of timber** — built entirely from whitelisted words; 0 exact uses as a unit in KJV.db; supporting protected word **timber** has 27 uses; e.g. Exodus 31:5 — “And in cutting of stones, to set them, and in carving of timber, to work in all manner of workmanship.”. This protected phrase restores the beam's material/class but not its great size; Oxford's unprotected ‘beam’ is the exact restoration.
 - advice: swap to "beam"
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
@@ -2144,6 +2243,7 @@
 - KJ proposal: Isaiah 23:9 — The Lord of hosts hath purposed it, to stain the pride of all glory, and to bring into contempt all the honourable of the earth.
 - KJ proposal: Isaiah 63:3 — I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
 - alternates: none needed — well attested
+- whitelist suggestion: **cover** / **bring down** / **mark** (by occurrence) — built entirely from whitelisted words; 73 uses of the word in KJV.db; e.g. Exodus 10:5 — “And they shall cover the face of the earth, that one cannot be able to see the earth: and they shall eat the residue of that which is escaped, which remaineth unto you from the hail, and shall eat every tree which groweth for you out of the field:”; 14 uses of the exact phrase in KJV.db; e.g. Genesis 42:38 — “And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave. ”; 38 uses of the word in KJV.db; e.g. Genesis 4:15 — “And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him should kill him.”. No single protected substitute spans all three senses: use ‘cover’ at Job 3:5, ‘bring down’ at Isaiah 23:9, and ‘mark’ at Isaiah 63:3 only as occurrence-specific fallbacks.
 - advice: keep
 - owner ruling: _____ (keep / whitelist / revise to ___)
 
