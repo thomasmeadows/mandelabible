@@ -11,6 +11,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 ## REPLACE (7)
 
 ### damage — 7 uses
+
 - whitelist: hurt** — extremely common and already whitelisted (freq. ~200), Geneva's own reading at Ezra 4:13 (see witness) — a very safe, close swap that also resolves the artifact described below.
 - witness: Geneva1599 reads "hinder the Kings tribute" at Ezra 4:13, "domage grow to hurt the King" (spelling variant) verbatim-in-sense at Ezra 4:22, and "the Kings losse" at Esther 7:4. The base `KJV.db` itself (queried directly) reads **"endamage"** — not "damage" — at Ezra 4:13: "so thou shalt **endamage** the revenue of the kings."
 - own: endamage** — restore the base text's own verb. The batch's occurrence text for Ezra 4:13 literally reads **"thou shalt damage/hurt the revenue"** — a visible slash between two unresolved word choices left in the running text. This is not a period-spelling variant; it is an unfinished editorial artifact that has displaced the correct, attested period verb "endamage" (from Old French "endamager," meaning "to bring damage upon," current through the 17th century and Geneva's own sense at the same verse).
@@ -20,6 +21,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **OWNER RULING:** 2 Corinthians 7:9 - "damage by us in nothing" to "no loss by us", Acts 27:10 - change to "loss", Daniel 6:2 - change to "loss",  Proverbs 26:6 - change to "iniquity", Esther 7:4 - change to "iniquity", Ezra 4:22 - change to "iniquity"
 
 ### drams — 6 uses
+
 - whitelist: gold** — I Chronicles 29:7 itself, "of gold five thousand talents and ten thousand drams" (freq. ~2,919) — names the metal, not the unit measured.
 - witness: Darby and ASV both render "darics" (the actual named Persian gold coin) rather than "drams" at I Chronicles 29:7 — a direct, source-precise alternative naming the coin the Hebrew adarkonim denotes; Webster and the base text alone keep "drams," an apothecary weight-measure unrelated to coinage.
 - own: darics** — matching Ezra 2:69 and Ezra 8:27's own established KJV usage of "drams" for the identical Hebrew word in this corpus (worth checking those two verses for the same swap, for internal consistency); the daric was a specific, well-attested Achaemenid Persian gold coin.
@@ -29,6 +31,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **OWNER RULING:** WHITELIST
 
 ### tongs — 5 uses
+
 - whitelist: none of the reviewed whitelist covers "wick-trimmer"; nearest is **gold** (the whitelisted material the implement is made of, Exod 25:38 itself, freq. ~2,919) — names the substance, not the tool.
 - witness: Every witness queried reads "snuffers" at Exodus 25:38** — Geneva ("snuffers and snuffedishes"), Darby ("snuffers thereof, and the snuff-trays"), ASV ("the snuffers thereof, and the snuffdishes"), YLT ("its snuffers and its snuff dishes"), DRC ("The snuffers also, and where the snuffings shall be put out") — full, unanimous agreement across five independent translations that this candlestick implement is a wick-trimmer, not fire-tongs; only Webster (the modernized-KJV-family text) reads "tongs," matching the base text.
 - own: snuffers** — this is the source-faithful swap: the Hebrew melqachayim used for the candlestick's wick-trimming implement (Exod 25:38, and by extension Num 4:9, I Kings 7:49 in this same group) is a distinct vessel from the coal-tongs of Isaiah 6:6 (a different Hebrew word, tzevet/melqachayim used differently in context), and every non-Webster witness independently distinguishes them by using "snuffers" here.
@@ -38,6 +41,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **OWNER RULING:** change to snuffers
 
 ### transformed — 5 uses
+
 - whitelist: none of the reviewed whitelist is a precise synonym for "changed in outward form"; the nearest is **white** (Matt 17:2's own "raiment...white as light," freq. ~525), which names a consequence of the event, not the event itself.
 - witness: Every witness without exception reads "transfigured" at Matthew 17:2 and Mark 9:2** — Geneva, Tyndale, Darby, ASV, YLT, DRC, Webster all read "transfigured"/"was turned in to an othir licnesse" (Wycliffe's periphrasis of the same event) — full unanimous agreement across all eight sources queried, with zero support for "transformed" at these two verses. At Romans 12:2, however, Darby, ASV, YLT, DRC, and Webster all read "transformed," matching the base text — unanimous agreement in the other direction.
 - own: transfigured** for Matthew 17:2 and Mark 9:2; **transformed** stands correctly at Romans 12:2 — the two Greek verbs are in fact different (metamorphoo appears at all three, but the KJV's own established rendering tradition, matched by every witness, uses "transfigured" specifically for the mountain event and "transformed" for Paul's ethical exhortation).
@@ -47,6 +51,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **OWNER RULING:**  replace with "changed" except 2 Corinthians 11:14 which should be "disguised".
 
 ### silk — 4 uses
+
 - whitelist: linen** (occurs more than 88 times in the restored text) — e.g. Exodus 26:31: "And thou shalt make a vail of blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubims shall it be made:"
 - witness: Geneva 1599 at Proverbs 31:22: "She maketh her selfe carpets: fine linen and purple is her garment."
 - own: fine linen** — Axis 1 is attested (silk appears in Geneva/Tyndale-era usage generally) but Axis 2 is a genuine bottles/wineskins-pattern flag: real trade silk from the Far East had not reached the Levant in the era Proverbs and Ezekiel describe, and Geneva 1599 itself does NOT read 'silk' at Prov 31:22 — it reads 'fine linen and purple' for the same Hebrew. That witness divergence is a strong signal the referent is fine woven linen, not true silk; flag for owner review rather than silent swap.
@@ -56,6 +61,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **OWNER RULING:** Whitelist
 
 ### steel — 4 uses
+
 - whitelist: brass** (occurs more than 88 times in the restored text) — e.g. Genesis 4:22: "And Zillah, she also bare Tubal–cain, an instructer of every artificer in brass and iron: and the sister of Tubal–cain was Naamah."
 - witness: Geneva 1599 at II Samuel 22:35: "He teacheth mine handes to fight, so that a bowe of brasse is broken with mine armes."
 - own: brass** — the textbook bottles/wineskins pattern: Axis 1 is attested EModE vocabulary, but Axis 2 fails outright — Geneva 1599 reads 'bowe of brasse' at this very verse (2 Sam 22:35), and the underlying Hebrew nechushah names bronze/copper alloy, not the carbon-steel sense the word now carries. Strong flag for owner review; 'brass' is both the source-accurate metal and the period witnesses' own word.
@@ -65,6 +71,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **OWNER RULING:**replace with bronze and whitelist bronze
 
 ### circumsized — 1 uses
+
 - whitelist: consecrated** is not on the whitelist as such, but "hallowed" is close kin — see witness below for the better-attested candidate. Nearest whitelisted term: **washed** ("wash," "washed" — whitelisted, e.g. Genesis 18:4) fails; it names cleansing, not the dedication of a way. **holy** (whitelisted) fails likewise — too general.
 - witness: Every witness disagrees with the restored text's "circumsized." Geneva1599 and Tyndale both read "which hee hath prepared for vs" (a way God prepared); ASV/Darby read "dedicated"; Webster reads "which he hath consecrated for us." None read anything to do with circumcision.
 - own: consecrated** — Webster's exact reading, matching the verse's sense (Christ opening/dedicating the new way through the veil) and period-authentic (Geneva 1599 "consecrate" appears repeatedly in Exodus/Leviticus).
@@ -244,7 +251,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** ship
 - reason: unanimous witness agreement across two distinct but related senses that "ship" alone cannot cover — worth protecting as a technical maritime term.
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** - WHITELIST sail as well as sailed and sailing
 
 ### estimation — 25 uses
 - whitelist: "worth" — Genesis 23:9 — 63 occurrences; imperfect (worth = the value itself, estimation = the priestly act of assessing that value).
@@ -253,7 +260,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** worth
 - reason: a recurring cultic-technical term (the priest's formal valuation for redemption of vows/offerings) unanimous across witnesses — worth protecting so a later pass doesn't flatten it to generic "worth."
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** revise to worth
 
 ### centurion — 24 uses
 - whitelist: none currently fits — "centurion" itself is not yet on the reviewed list, though it is exactly the kind of proper military office/title the whitelist protocol (owner directive 2026-07-22, item 3) exists to protect; nearest whitelisted office-word is "captain" (Genesis 21:22, 952 occurrences), which is far more generic.
@@ -262,7 +269,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** captain
 - reason: this is functionally a transliterated proper title, not a common noun with true synonyms — recommend the owner add it to the whitelist outright per the proper-noun protocol, rather than route it through further swap review.
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### standard — 24 uses
 - whitelist: none fits — neither "ensign" nor "banner" (the two natural companion terms) is on the reviewed list, despite both appearing in the very same verses (Numbers 2:2).
@@ -271,7 +278,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sign
 - reason: unanimous Geneva agreement and no adequate whitelisted substitute exists — recommend adding "standard" itself, or its companion "ensign," to the whitelist rather than routing it through a swap.
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** revisee to sign
 
 ### hin — 22 uses
 - whitelist: none fits — no other unit-of-measure word in the reviewed list names a liquid volume; "shekel" (a weight, not a volume) is the nearest measure-term on the list but names an entirely different kind of quantity.
@@ -280,7 +287,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shekel
 - reason: this is a transliterated technical unit of measure, exactly the kind of word Capability 3b flags for protection rather than swap — changing it to any English word would falsify the measurement itself.
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### oracle — 21 uses
 - whitelist: none fits — the technical architectural sense (the Holy of Holies, "the oracle," I Kings 6) has no whitelisted synonym; nearest whitelisted phrase-components are "holy" (Exodus 3:5, 3,808 occurrences) and "place" (Genesis 1:9, 4,648 occurrences), which together approximate "the holy place" but lose the specific "oracle" naming.
@@ -289,7 +296,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** holy
 - reason: unanimous period agreement, and the word covers two distinct but related biblical-world referents (an architectural space and an act of divine consultation) that a generic phrase like "holy place" would conflate.
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  Replace the plural form oracles with prophets.  The singular form with Holy of Holies except Psalm 28:2 - Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy Holy of Holies.
 
 ### twined — 21 uses
 - whitelist: "linen" (companion noun, "fine twined linen") — Genesis 41:42 — 630 occurrences — carries the fabric but not the twisting/plying process "twined" specifically names.
@@ -298,7 +305,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** linen
 - reason: a unique technical term for tabernacle-textile construction, unanimous with Geneva — protect rather than let a later pass flatten it to plain "linen."
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  delete it.  Its a nonsensicle word
 
 ### censer — 20 uses
 - whitelist: none fits — the reviewed list holds no synonym for this specific fire-pan; nearest is "incense" (the substance burned in it, not the vessel) — check "incense," Exodus 30:1, well attested, but it cannot stand in for the censer itself.
@@ -307,16 +314,16 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** incense
 - reason: a unique cultic implement (Leviticus 10, 16; Numbers 16) with unanimous witness agreement — textbook case for protecting rather than swapping.
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
-### familiar — 20 uses
+###   — 20 uses
 - whitelist: none fits precisely — nearest is "spirit" (the companion noun in "familiar spirit") — Genesis 1:2, 3,192 occurrences — but "spirit" alone drops the specific necromantic-medium sense.
 - witness: Wycliffe paraphrases as "false diviners"/"astronomyers" (modern-tending paraphrase, no cognate); Geneva paraphrases "them that worke with spirits" (also no cognate). Neither witness offers the fixed phrase.
 - own: keep "familiar spirit" — the settled English technical term for the necromancer's attending spirit (cf. the witch of Endor, 1 Samuel 28), unrivalled by any period synonym on record.
 - **CODEX_SUGGESTION:** spirit
 - reason: a fixed occult-technical phrase naming a real (if false) practice of the biblical world; protect it rather than risk losing the term's precision.
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  replace "a familiar" with "an evil", otherwise replace familiar with evil
 
 ### garrison — 20 uses
 - whitelist: "hold" (fortress sense, e.g. "strong hold") — Genesis 19:16 — 1,274 occurrences, though it names the fortified place generically rather than the specific standing military post.
@@ -325,7 +332,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** hold
 - reason: unanimous period agreement with Geneva; protect as a technical term rather than risk drift toward a vaguer word like "hold."
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace garrisons with fortresses otherwise fortress
 
 ### knop — 20 uses
 - whitelist: "flower" (the companion ornament term in the same candlestick verses) — Exodus 25:33 — 119 occurrences — but "flower" names the bloom-shaped ornament, not the bulb/knob shape "knop" names; imperfect substitute.
@@ -334,7 +341,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** flower
 - reason: a rare but precisely attested architectural/liturgical-object term; protecting it preserves detail a paraphrase like "roundel" would blur.
 - source: `batch_9_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### armourbearer — 18 uses
 - whitelist: "bearer" — common as a compound-element (cupbearer, standard-bearer are KJV-style compounds; "bearer" itself is on the whitelist).
@@ -343,7 +350,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** bearer
 - reason: Geneva's "page" and Wycliffe's "squire" both name related-but-distinct offices (a page is a general attendant, a squire a knight's trainee — an anachronistic medieval European institution not proper to the ANE); "armourbearer" is the correct, specific ANE military office and has no true synonym in period English. It qualifies for WHITELIST protection as a unique office-title.
 - source: `batch_8_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace with armour bearer
 
 ### rush — 18 uses
 - whitelist: "reed" — extremely common wetland-plant word, used adjacently in the same verse (Job 8:11, "can the rush grow up without mire? can the reed grow without water?").
@@ -352,7 +359,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** reed
 - reason: Wycliffe attests the direct etymological ancestor; since the KJV's own verse (Job 8:11) already names "rush" and "reed" as two distinct plants in parallel, collapsing one into the other would erase the verse's own botanical pairing. It qualifies for WHITELIST protection as a unique plant-type referent, alongside its already-whitelisted neighbor "reed."
 - source: `batch_8_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### shewbread — 18 uses
 - whitelist: "bread" — extremely common general noun, the root element of the compound itself.
@@ -361,7 +368,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** bread
 - reason: Wycliffe's "loaves of proposicioun" (from the Vulgate's panes propositionis) confirms this is technical cultic vocabulary requiring its own term in every tradition; "bread" alone would lose the entire "set before the Lord continually" referent that makes shewbread a distinct sanctuary furnishing rather than ordinary food. It qualifies for WHITELIST protection as a unique cultic-implement referent.
 - source: `batch_8_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### pound — 17 uses
 - whitelist: "shekel" — extremely common ANE weight/currency unit.
@@ -370,7 +377,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shekel
 - reason: Geneva agrees outright, and Wycliffe's divergence to "talent" actually confirms this is a precise unit of measure where getting the word wrong changes the quantity meant — exactly the kind of unique, irreplaceable measure-term the owner's WHITELIST criteria describe. "Shekel" is a different (smaller, silver) unit and would misstate the amount.
 - source: `batch_8_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### buckler — 16 uses
 - whitelist: "shield" — extremely common near-synonym for defensive armor.
@@ -379,7 +386,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shield
 - reason: Both witnesses independently prefer "shield," worth the owner's notice, but the KJV's own Song of Solomon 4:4 explicitly distinguishes "bucklers" from "shields" as two different items in the same list, so folding one into the other would erase a real equipment distinction the text itself makes. It qualifies for WHITELIST protection as a unique military-implement referent.
 - source: `batch_8_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### sceptre — 16 uses
 - whitelist: "rod" — extremely common, cognate implement-word (a rod of authority/discipline, related but not identical object).

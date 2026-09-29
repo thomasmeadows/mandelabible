@@ -64,11 +64,9 @@ I have thought about starting a project to reconstruct the KJV for a while.  I k
 
 ## Why me not?
 
-Why have I not started on this sooner?   I am no bible scholar.  I failed English in high school, got a GED.  However,   I have been writing software since I was 8 and could barely read.  I seem to have the skills and time to lead such a project.  I have only fully read the bible maybe 2 times before the mandela effect.  I was saved at the age of 21 after a suicide attempt.  I have no kids but a wife.  I have always seen myself as Job with nothing or less than nothing, he is my go to biblical figure.  I have wanted someone else to do this.  I wanted someone else to give me the words of god, but no one came.
+Why have I not started on this sooner?   I have spent my whole life concentrating on Computer Science and Business Management.  Strangely enough, god sent me down a path of clean code in software development which is similar to writing perfect well formed english in software languages.  It seems as if he gave me a sword and a shield to do this work.  Preparing me all along the way, as if it were predestined.  It comes down to having the perfect storm of me having right skills and time.
 
-God sent me down a path of redemption.  Music was the reason I failed high school.  My computer programming class was cancelled and I got stuck in a music class that I didn't want.  I failed English and math and barely passed other classes.  I dropped out and got my GED, highly suicidal and depressed.  My life was changed by one class being cancelled.  Nothing worked out since then.  So he made me a musician, and an author, and fixed my flaws.  I got a degree in Business Management.  I still make money today of music I have produced.  I reintegrated my life into software engineering.  Then after being outsourced and the rise AI came a moment where I believed I could at least start this project even without the help of bible scholars.  Strangely enough, god sent me down a path of clean code in software development which is similar to writing perfect well formed english in software languages.  It seems as if he gave me a sword and a shield to do this work.  Preparing me all along the way, as if it were predestined.
-
-I respect god for the Irony.  For he maketh the imperfect, perfect.  My owneth littleth KJV line.  I am imperfect in all my ways.  I don't have a standard family, and my journey appears to have been crooked.  Not that I wanted to be here.  I was spit out as Jonah out of the fish.  I wanted a regular family, wife, and kids, a mini mansion on the waters, but he had other plans.  I have no reason to live except for those who love me and the path he sent me down.  Neither of which, I understand.
+Someone once said, that the best endings are ones with Irony.  For he maketh the imperfect, perfect.  My owneth littleth KJV line.  I am imperfect in all my ways.  I don't have a standard family, and my journey appears to have been crooked.  Not that I wanted to be here.  I was spit out as Jonah out of the fish.  I wanted a regular family, wife, and kids, a mini mansion on the waters, but he had other plans.  I have no reason to live except for those who love me and the path he sent me down.  Neither of which, I understand.
 
 ## Why Use AI?  Isn't AI Evil?
 
@@ -196,7 +194,7 @@ I keep meditating on this verse.  It feels wrong somehow, but familiar.  I think
 Matthew 7:13 - "Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:"
 Matthew 7:14 - "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it"
 
-It seems like maybe there is a comprimise for this. 
+It seems like maybe there is a comprimise for this.
 
 Matthew 7:13 - "Enter ye at the straight path: for wide is the path, and broad is the way, that leadeth to destruction, and many there be which go in:"
 Matthew 7:14 - "Because straight is the truth, and narrow is the way; which leadeth unto life, and few there be which find it."
