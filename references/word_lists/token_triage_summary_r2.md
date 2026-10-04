@@ -18,6 +18,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** loss
 - reason: This is the batch's clearest corruption/production-error finding — a literal "word/word" placeholder sitting in running scripture text, not a genuine word-choice question. The noun "damage" itself is sound at Ezra 4:22 and Esther 7:4 (matching or closely paraphrasing Geneva) and needs no change there; only the Ezra 4:13 verb form needs correction, ideally to the base text's own "endamage." Flagging for the owner-reviewed apply-migration workflow rather than ruling further myself, since this touches restored verse text, not just a synonym choice.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Damage)
 - **OWNER RULING:** 2 Corinthians 7:9 - "damage by us in nothing" to "no loss by us", Acts 27:10 - change to "loss", Daniel 6:2 - change to "loss",  Proverbs 26:6 - change to "iniquity", Esther 7:4 - change to "iniquity", Ezra 4:22 - change to "iniquity"
 
 ### drams — 6 uses
@@ -28,6 +29,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** gold
 - reason: A likely referent mismatch.** "Dram" in 1611 English is a small apothecary weight (a "dram of poison," Shakespeare), not a coin; Darby and ASV both independently identify the Hebrew as denoting the Persian daric, a named gold coin. This is an Axis-2 concern (a weight-measure standing in for a currency-unit) — worth the owner's review as a probable corruption or long-standing translation imprecision, though not as severe as the "tongs"/"transformed" findings since "drams" has stood in the KJV tradition since 1611 and is not a post-1611 innovation.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Drams)
 - **OWNER RULING:** WHITELIST
 
 ### tongs — 5 uses
@@ -68,6 +70,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** brass
 - reason: REPLACE (flag for owner review): the split between Axis 1 (period-attested) and Axis 2 (source-era referent) matches the bottles/wineskins signature described in the mission's canonical example — see the own-choice note for the specific evidence. This does not settle the reading; it is an advisory flag for the Phase 6 restoration workflow.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Steel)
 - **OWNER RULING:**replace with bronze and whitelist bronze
 
 ### circumsized — 1 uses
@@ -89,6 +92,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** flax
 - reason: WHITELIST for the "tow" (flax-fiber) sense specifically — a real ancient Near Eastern textile material/product (Judges 16:9, Isaiah 1:31, 43:17) with a close but non-identical relative already whitelisted ("flax"); the homograph "tower/towers" sharing this inflection group is unrelated ordinary vocabulary and does not need the same protection.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Tow; Towers)
 - **OWNER RULING:**  Replace with rope
 
 ### talent — 65 uses
@@ -116,6 +120,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** scatter
 - reason: WHITELIST. A precise, load-bearing ritual-application term running from Exodus's sacrificial law through Hebrews' typological theology of "the blood of sprinkling" (Hebrews 12:24) — a cultic-implement-adjacent technical action verb the Capability 3b protocol flags for protection given its doctrinal weight across both Testaments.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Sprinkle / Sprinkled / Sprinkleth / Sprinkling)
 - **OWNER RULING:** replace with scatter
 
 ### board — 59 uses
@@ -143,6 +148,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** dead
 - reason: WHITELIST. *Carcase* is precise Levitical ritual-purity vocabulary naming a specific source of uncleanness (dead animal bodies, Leviticus 5/11) distinct from human death — a real, technical referent worth protecting so a later pass does not casually swap it for the more general "dead" or "body."
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Carcase/s)
 - **OWNER RULING:**  replace carcases with "dead", replace carcase with "dead body".  Do the same with carcass if any changed verse has the modern spelling.
 
 ### sockets — 54 uses
@@ -152,6 +158,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** foundation
 - reason: WHITELIST. A specific cast-silver tabernacle-foundation component (Exodus 26:19-25, 36-38) with a near-synonym ("base") also under separate review in this same batch — protecting both words in their current distribution avoids an inconsistent collapse of two related-but-distinguishable structural terms into one.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Socket/s)
 - **OWNER RULING:** revise to bases
 
 ### duke — 53 uses
@@ -161,6 +168,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** leader
 - reason: WHITELIST despite the witness split: *duke* is attested in both Tyndale (1530s) and Wycliffe (1382), so it is genuinely period-authentic on Axis 1, and "chief" is Axis-2 equally valid (an Edomite clan-head is a real ancient Near Eastern office) — but because half the comparison witnesses independently prefer "chief," this specific word is a good candidate for owner review even while it is whitelisted for consistency's sake pending that ruling.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Duke/s)
 - **OWNER RULING:** remove if right before a proper Name, otherwise translate to leader
 
 ### scripture — 53 uses
@@ -233,6 +241,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** vile
 - reason: WHITELIST. *Base* names a unique tabernacle/temple cultic implement (I Kings 7:27–37's laver-stands) with no interchangeable synonym across the corpus — swapping risks confusing it with "sockets," a related but distinct term also under review in this batch. Protect the furniture sense; the moral sense ("vile in mine own sight") could in principle take "vile," but splitting one inflection group's protection by sense is not workable, so the whole group should be whitelisted.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Base)
 - **OWNER RULING:**  WHITELIST
 
 ### chapiter — 29 uses
@@ -242,6 +251,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** pillar top
 - reason: unanimous Geneva agreement and a precise technical referent — protect it as a specialized term the way "knop" and "hin" are protected elsewhere in this batch.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Chapiter/s)
 - **OWNER RULING:** revise to pillar top
 
 ### sail — 27 uses
@@ -278,6 +288,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sign
 - reason: unanimous Geneva agreement and no adequate whitelisted substitute exists — recommend adding "standard" itself, or its companion "ensign," to the whitelist rather than routing it through a swap.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Standard)
 - **OWNER RULING:** revisee to sign
 
 ### hin — 22 uses
@@ -287,6 +298,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shekel
 - reason: this is a transliterated technical unit of measure, exactly the kind of word Capability 3b flags for protection rather than swap — changing it to any English word would falsify the measurement itself.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Hin)
 - **OWNER RULING:** WHITELIST
 
 ### oracle — 21 uses
@@ -296,6 +308,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** holy
 - reason: unanimous period agreement, and the word covers two distinct but related biblical-world referents (an architectural space and an act of divine consultation) that a generic phrase like "holy place" would conflate.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Oracle)
 - **OWNER RULING:**  Replace the plural form oracles with prophets.  The singular form with Holy of Holies except Psalm 28:2 - Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy Holy of Holies.
 
 ### twined — 21 uses
@@ -314,6 +327,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** incense
 - reason: a unique cultic implement (Leviticus 10, 16; Numbers 16) with unanimous witness agreement — textbook case for protecting rather than swapping.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Censer/s)
 - **OWNER RULING:** WHITELIST
 
 ###   — 20 uses
@@ -332,6 +346,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** hold
 - reason: unanimous period agreement with Geneva; protect as a technical term rather than risk drift toward a vaguer word like "hold."
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Garrison/s)
 - **OWNER RULING:** replace garrisons with fortresses otherwise fortress
 
 ### knop — 20 uses
@@ -341,6 +356,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** flower
 - reason: a rare but precisely attested architectural/liturgical-object term; protecting it preserves detail a paraphrase like "roundel" would blur.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Knop/s)
 - **OWNER RULING:** WHITELIST
 
 ### armourbearer — 18 uses
@@ -350,6 +366,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** bearer
 - reason: Geneva's "page" and Wycliffe's "squire" both name related-but-distinct offices (a page is a general attendant, a squire a knight's trainee — an anachronistic medieval European institution not proper to the ANE); "armourbearer" is the correct, specific ANE military office and has no true synonym in period English. It qualifies for WHITELIST protection as a unique office-title.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Armourbearer)
 - **OWNER RULING:** replace with armour bearer
 
 ### rush — 18 uses
@@ -377,6 +394,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shekel
 - reason: Geneva agrees outright, and Wycliffe's divergence to "talent" actually confirms this is a precise unit of measure where getting the word wrong changes the quantity meant — exactly the kind of unique, irreplaceable measure-term the owner's WHITELIST criteria describe. "Shekel" is a different (smaller, silver) unit and would misstate the amount.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pounds/s)
 - **OWNER RULING:** WHITELIST
 
 ### buckler — 16 uses
@@ -386,6 +404,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shield
 - reason: Both witnesses independently prefer "shield," worth the owner's notice, but the KJV's own Song of Solomon 4:4 explicitly distinguishes "bucklers" from "shields" as two different items in the same list, so folding one into the other would erase a real equipment distinction the text itself makes. It qualifies for WHITELIST protection as a unique military-implement referent.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Buckler)
 - **OWNER RULING:** WHITELIST
 
 ### sceptre — 16 uses
@@ -395,7 +414,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** rod
 - reason: All three witnesses use the identical (cognate) word — this is about as strong an attestation as this project's evidence can offer. "Sceptre" is a specific royal implement with no true synonym ("rod" is a generic staff, used for shepherding or punishment, not specifically royal insignia); it qualifies for WHITELIST protection as a unique instrument-of-office referent.
 - source: `batch_8_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace with rod
 
 ### raven — 15 uses
 - whitelist: "eagle" — extremely common bird-name in the whitelist, though a different species.
@@ -404,7 +423,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** eagle
 - reason: "Raven" is a specific creature-name with no true synonym — "eagle" names a different bird entirely and would misidentify the species in Noah's flood narrative and Elijah's provision narrative alike. It qualifies for WHITELIST protection as a unique animal referent, per the owner's stated criteria.
 - source: `batch_8_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ravening)
+- **OWNER RULING:** WHITELIST
 
 ### palsy — 14 uses
 - whitelist: "disease" — extremely common general medical noun (Matt 4:24 itself, "all sick people that were taken with diverse diseases").
@@ -413,7 +433,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** disease
 - reason: "Palsy" is a specific, irreplaceable medical condition-name (paralysis) rather than a generic word with many synonyms — swapping to "disease" would erase the specific diagnosis the Gospel narratives depend on (e.g. the paralytic let down through the roof, Mark 2). It qualifies for WHITELIST protection as a unique referent even though the general term "disease" is a fine alternate in the abstract.
 - source: `batch_8_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Palsy)
+- **OWNER RULING:**  replace with disease
 
 ### scall — 14 uses
 - whitelist: "leprosy" — the adjacent diagnostic category in the same verses (Lev 13:30, "a dry scall, even a leprosy upon the head"); extremely common.
@@ -422,7 +443,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** leprosy
 - reason: This is a technical priestly-diagnosis term with no true synonym in period English; both witnesses collapse it into the broader "leprosy," which would lose the text's own careful distinction between "leprosy" and "scall" as separate diagnostic categories (Lev 13:30-37 treats them as a distinct case). It qualifies for WHITELIST protection as a unique cultic/medical referent.
 - source: `batch_8_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Scall)
+- **OWNER RULING:** replace with wound
 
 ### mitre — 13 uses
 - whitelist: crown** — whitelisted; e.g. Genesis 49:26 — "The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren." (69 uses in KJV.db).
@@ -431,7 +453,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** crown
 - reason: A specific, unique priestly headdress (Aaron's linen turban bearing the golden plate, Exodus 28:36-38) with no true synonym that preserves the cultic-office sense; both witnesses agree exactly, so it should be protected from any future replacement pass.
 - source: `batch_7_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Mitre)
+- **OWNER RULING:** replace with head garment
 
 ### network — 13 uses
 - whitelist: brass** — whitelisted; e.g. Genesis 4:22 — "And Zillah, she also bare Tubal–cain, an instructer of every artificer in brass and iron: and the sister of Tubal–cain was Naamah." (116 uses in KJV.db).
@@ -440,7 +463,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** brass
 - reason: A specific, unique architectural/metalworking technical term (the open brasen grate of the altar, Exodus 27:4, and the lattice ornament of the temple pillars, I Kings 7:17-42) with no better single-word substitute; Geneva1599 confirms the identical word, so it should be protected from future replacement.
 - source: `batch_7_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace with lattice
 
 ### signet — 12 uses
 - whitelist: seal** — whitelisted; e.g. I Kings 21:8 — "So she wrote letters in Ahab’s name, and sealed them with his seal, and sent the letters unto the elders and to the nobles that were in his city, dwelling with Naboth." (27 uses in KJV.db).
@@ -449,7 +472,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** seal
 - reason: A specific, unique legal/personal implement (an engraved signet-ring used to seal documents and authenticate identity, Genesis 38:18, Exodus 28:11) with no true one-word substitute that preserves both the engraving and the legal-sealing function; should be protected from future replacement.
 - source: `batch_7_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Signet)
+- **OWNER RULING:** WHITELIST
 
 ### stiffnecked — 12 uses
 - whitelist: rebellious** — whitelisted; e.g. Deuteronomy 9:7 — "Remember, and forget not, how thou provokedst the Lord thy God to wrath in the wilderness: from the day that thou didst depart out of the land of Egypt, until ye came unto this place, ye have been rebellious against the Lord." (35 uses in KJV.db).
@@ -458,7 +482,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** rebellious
 - reason: A vivid, unique compound idiom translating the Hebrew qešeh-'oreph literally (a beast refusing the yoke) — Wycliffe's independent "hard nol" confirms the same image, so no plainer synonym improves on it; should be protected from future replacement.
 - source: `batch_7_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace with rebellious
 
 ### hammer — 11 uses
 - whitelist: none fits — nearest candidate **tool** is not on the whitelist (never swept into a reviewed pass), not a failure of sense.
@@ -467,7 +491,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** instrument
 - reason: A specific, unique metalworking/tent-craft implement (Judges 4:21, I Kings 6:7) with a single obvious English name; no synonym improves on it, so it should be protected from any future replacement pass.
 - source: `batch_7_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  WHITELIST
 
 ### cornet — 9 uses
 - whitelist: trumpet** — whitelisted (frequent, related but distinct — the two instruments are named separately in this batch's own I Chron 15:28 "sound of the cornet, and with trumpets," a deliberate distinction between two different horn/wind instruments).
@@ -476,7 +500,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** trumpet
 - reason: WHITELIST as a unique musical-instrument term (one of several horn/wind instruments the text carefully distinguishes — cornet, trumpet, cymbal, timbrel) with direct Geneva attestation preserving the same distinction — the "instrument" category the owner explicitly names for protection.
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Cornet)
+- **OWNER RULING:** WHITELIST
 
 ### cruse — 9 uses
 - whitelist: cup** — whitelisted (related vessel-word) and **vessel** — whitelisted (generic), neither of which names the specific small water-jar "cruse" designates — a distinct object from a drinking-cup.
@@ -485,7 +510,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** cup
 - reason: WHITELIST as a specific pottery-vessel term (I Sam 26's water-cruse at Saul's bolster, matching I Kings 17's widow's oil-cruse elsewhere in the corpus) with a well-evidenced archaeological referent and no adequate one-word substitute — both witnesses fall back to generic "pot"/"cup" rather than offering a more precise alternative, underscoring that "cruse" is doing real work the generic words can't replace.
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Cruse)
+- **OWNER RULING:**  replace with cup
 
 ### ensign — 9 uses
 - whitelist: no synonym is adequate; nearest is **standard** (checked — NOT whitelisted, though it is the immediate context-word in Numbers 2:2 "every man... shall pitch by his own standard, with the ensign of their father's house") — a related but distinct military/tribal marker, already distinguished from "ensign" within the same verse.
@@ -494,7 +520,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sign
 - reason: WHITELIST as a specific military/tribal-emblem term, already distinguished in the base text from the related "standard," with direct Geneva attestation — the wilderness-camp arrangement (tribes grouped under ensigns) is a distinctive enough referent to warrant protection from any generic "banner" swap.
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ensign)
+- **OWNER RULING:** replace with sign
 
 ### fleece — 9 uses
 - whitelist: wool** — whitelisted (related but distinct — "wool" is the processed fiber, "fleece" is the whole sheared coat, a distinction the Gideon narrative specifically depends on, Judges 6:37-38's fleece full of dew as a single test-object).
@@ -503,7 +530,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wool
 - reason: WHITELIST as a distinct object from "wool" with a narrative that specifically depends on it being a single physical fleece (Gideon's test requires one intact fleece, not loose wool) and direct Geneva attestation — a good candidate for protection given how load-bearing the precise referent is to its most famous occurrence.
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### honeycomb — 9 uses
 - whitelist: honey** — whitelisted (related but distinct — the raw comb structure, not the extracted substance; I Sam 14:27's Jonathan dips his rod into the physical comb, not a jar of honey).
@@ -512,7 +539,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** honey
 - reason: WHITELIST as a specific natural object (distinct from processed "honey") with attestation from both available witnesses — a clean case for protection given its concrete, load-bearing role in the Jonathan narrative (I Sam 14).
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### fillets — 8 uses
 - whitelist: no synonym is whitelisted or needed; nearest neighbor is **sockets** (checked — NOT whitelisted) or **pillars** (whitelisted, adjacent architectural term in the same verses) — but "fillets" names a specific decorative band/rod connecting the pillars' capitals, a distinct part with no single-word substitute.
@@ -521,7 +548,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** pillars
 - reason: WHITELIST as a unique architectural-cultic-implement term (tabernacle furnishing) with direct Geneva attestation and no available synonym — exactly the "measure/cultic implement" category the owner's WHITELIST criterion names.
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Fillet/s)
+- **OWNER RULING:** WHITELIST
 
 ### taches — 8 uses
 - whitelist: no synonym is whitelisted or adequate; nearest is **loops** (whitelisted, paired with "taches" in Exodus 26:11's own text: "put the taches into the loops") — a related but distinct fastening part (loops receive the taches, they are not the same object).
@@ -530,7 +558,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** loops
 - reason: WHITELIST as a unique cultic-construction implement term with direct Geneva attestation and no adequate synonym (Wycliffe's "fastenings" is generic, not a technical equivalent) — squarely the "cultic implement" category the owner names for protection.
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Taches)
+- **OWNER RULING:** replace with loops
 
 ### venison — 8 uses
 - whitelist: no synonym is adequate; nearest is **meat** (whitelisted, generic) or **hunting** (checked — NOT whitelisted), neither of which names the specific wild-game-meat referent "venison" carries in Genesis 25/27.
@@ -539,7 +568,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** meat
 - reason: WHITELIST as a specific game-meat term with strong two-witness attestation and a food-category referent well attested in the patriarchal narratives (Esau the hunter, Genesis 25/27) — a good candidate for protection as a unique culinary term, though the owner may wish to weigh whether "venison" (strictly deer) vs. a broader "game" better serves Axis 2 precision for a non-European hunting context.
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace with meat
 
 ### pottage — 7 uses
 - whitelist: no exact synonym is whitelisted — nearest is **broth** (whitelisted, e.g. Judges 6:19 "put the flesh in a basket, and he put the broth in a pot"), but broth names the liquid alone, not Esau's thick lentil stew; it fails because Gen 25:34 explicitly calls it "pottage of lentiles," a solid dish, not a broth.
@@ -548,7 +577,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** broth
 - reason: WHITELIST as a unique, irreplaceable dish-name with unanimous three-witness agreement — lentil pottage is a specific ancient Near Eastern food (Genesis 25) that no synonym captures as precisely, and every period witness independently confirms the word, so it should be protected from any future replacement pass rather than merely kept by default.
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pottage)
+- **OWNER RULING:**  WHITELIST
 
 ### razor — 7 uses
 - whitelist: no closer synonym exists; the word itself should be added — nearest already-whitelisted neighbor is **shave/shaven** (whitelisted, used in the same context, e.g. Judges 16:17 "if I be shaven"), which names the act but not the instrument.
@@ -557,7 +587,9 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shave
 - reason: WHITELIST as a unique implement-name (there is no other period word for this specific tool) with unanimous period-witness spelling agreement and a well-evidenced source-era referent (the Nazirite vow's uncut hair, Numbers 6, Judges 13/16) — a strong candidate for permanent protection rather than a mere KEEP.
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Razor)
+- **OWNER RULING:**  WHITELIST
+
 
 ### tetrarch — 7 uses
 - whitelist: no synonym is needed or whitelisted; **tetrarch** itself should be added — it is a precise Roman administrative title (a ruler of a quarter-province) with no true one-word substitute; the nearest whitelisted neighbor is **ruler** (whitelisted) but that loses the specific rank below "king" that Luke 3:1 deliberately distinguishes (Herod tetrarch vs. Pilate governor vs. Caesar).
@@ -566,7 +598,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** ruler
 - reason: WHITELIST as a technical office-title with unanimous three-witness agreement and an exact, well-documented first-century referent — textbook case for permanent protection per the owner's "unique/irreplaceable referent... office" criterion.
 - source: `batch_6_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace with ruler
 
 ### bishop — 6 uses
 - whitelist: none of the reviewed whitelist covers church office terminology by that exact word; nearest is **elder** (freq. ~140, a distinct but related NT office) — note it names a different (though overlapping) role.
@@ -575,7 +607,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** elder
 - reason: Six centuries of unbroken witness agreement (Wycliffe 1382 through modern translations) on the exact same word for a well-attested first-century church office — belongs in WHITELIST as a settled, unique-office term that should never need revisiting.
 - source: `batch_4_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Bishop/s)
+- **OWNER RULING:** replace with elder
 
 ### breeches — 6 uses
 - whitelist: linen** — Exodus 28:42 itself, "linen breeches" (freq. ~728) — the whitelisted material-word stands directly beside "breeches," naming the fabric, not the garment.
@@ -584,7 +617,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** linen
 - reason: A named priestly vestment with a specific cultic function (covering nakedness at the altar, Exod 20:26 context) — belongs in the WHITELIST's cultic-garment category alongside the ephod, mitre, and other priestly dress terms.
 - source: `batch_4_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Breeches)
+- **OWNER RULING:** replace with garments
 
 ### omer — 6 uses
 - whitelist: none exists yet for this specific unit; nearest reviewed measure-word is **shekel** — Exodus 30:13, freq. ~301 — the same *category* (a fixed ancient unit of measure) but a different commodity (weight of silver, not volume of manna).
@@ -593,7 +627,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shekel
 - reason: A measure-term with a unique, non-substitutable referent — exactly the WHITELIST category (units of measure), per the same reasoning that protected "gerahs" and "shekel" in earlier batches. Should be added to the whitelist and protected from all future swap passes.
 - source: `batch_5_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**  WHITELIST
 
 ### pisseth — 6 uses
 - whitelist: none carries the identical crude register; nearest is **dung** — II Kings 9:37, freq. ~15 — a comparably blunt bodily-function word the KJV does not euphemize, but not a synonym for this specific idiom.
@@ -602,7 +636,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** dung
 - reason: Unanimous three-witness agreement (Geneva verbatim, Wycliffe by cognate) across three centuries. Because this exact word is the single likeliest target for a future "modernize the crude bits" pass, it should be WHITELISTED now to protect the KJV's own deliberate bluntness from later euphemism.
 - source: `batch_5_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace with defiles
 
 ### snuffers — 6 uses
 - whitelist: none exists yet for this cultic implement; nearest is **censers** — II Kings 12:13 itself, freq. ~30 — a paired temple-furnishing term but a different implement (incense pans, not wick-trimmers).
@@ -611,7 +645,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** vessel
 - reason: This is a cultic-implement noun with a unique referent (the candlestick's wick-trimmer) — exactly the WHITELIST category. Geneva's own divergence at two of three verses (to "hooks"/"instruments of musicke") shows real translation instability around this word across witnesses, which argues for protecting the settled KJV reading rather than inviting a fourth variant.
 - source: `batch_5_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Snuffers)
+- **OWNER RULING:** WHITELIST
 
 ### tenons — 6 uses
 - whitelist: none exists yet for this joinery term; nearest is **boards** — extremely common in the same tabernacle passage, freq. ~40 — names the panel, not the projecting tongue that joins it to its neighbor.
@@ -620,7 +655,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** timber
 - reason: A joinery term with a unique, technical referent and no true one-word substitute — exactly the WHITELIST category (cf. earlier batches' "gerahs"/"snuffers"). Geneva's verbatim agreement at every occurrence, with Wycliffe's independent cognate confirming the referent, argues for protecting rather than reopening it.
 - source: `batch_5_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Tenons)
+- **OWNER RULING:** WHITELIST
 
 ### bulwarks — 5 uses
 - whitelist: walls** (occurs more than 88 times in the restored text) — e.g. Leviticus 14:37: "And he shall look on the plague, and, behold, if the plague be in the walls of the house with hollow strakes, greenish or reddish, which in sight are lower than the wall;"
@@ -629,7 +665,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** walls
 - reason: WHITELIST: this is a unique, hard-to-substitute period term for a specific referent of the biblical world (see own-choice note). It should be protected from future replacement passes rather than swapped for any of the alternates above, which all either genericize or only approximate the specific referent named.
 - source: `batch_3_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Bulwarks)
+- **OWNER RULING:** replace with walls
 
 ### fleshhooks — 5 uses
 - whitelist: hook** — e.g. II Kings 19:28: "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest."
@@ -638,7 +675,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** hook
 - reason: WHITELIST: this is a unique, hard-to-substitute period term for a specific referent of the biblical world (see own-choice note). It should be protected from future replacement passes rather than swapped for any of the alternates above, which all either genericize or only approximate the specific referent named.
 - source: `batch_3_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Fleshhook/s)
+- **OWNER RULING:** replace with hooks
 
 ### gerahs — 5 uses
 - whitelist: shekel** — Exodus 30:13 itself, "a shekel is twenty gerahs" (freq. ~301 for "shekel"). Shekel is the paired unit already whitelisted; gerahs is its twentieth part and belongs beside it.
@@ -647,7 +685,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shekel
 - reason: A measure-term with a unique, non-substitutable referent (1/20 shekel) — exactly the WHITELIST category for units of measure. Should be protected from all future swap passes.
 - source: `batch_4_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Gerahs)
+- **OWNER RULING:**  WHITELIST
 
 ### habergeon — 5 uses
 - whitelist: none of the generic armor words (mail, coat) are on the reviewed whitelist by that exact form; nearest available whitelisted term would have to be built from **strong** + a noun phrase (Job 41:26's context, freq. of "strong" ~1,785) — but that loses the specific garment referent entirely.
@@ -656,7 +695,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** strong
 - reason: A unique piece of military equipment with no true one-word modern equivalent (coat of mail is a phrase); belongs in the WHITELIST's "unique referent" category alongside other named implements.
 - source: `batch_4_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Habergeon/s; Habergeon)
+- **OWNER RULING:** replace with armour
 
 ### ledges — 5 uses
 - whitelist: borders** — I Kings 7:28 itself, "they had borders, and the borders were between the ledges" (freq. ~301) — already whitelisted and already paired with "ledges" in the same verse, so it cannot substitute for it without losing the second architectural element the verse names.
@@ -665,7 +705,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** borders
 - reason: A one-off technical architectural term (cultic furniture) where translators across four centuries still disagree on the referent — the WHITELIST's "unique referent" category exists precisely for words like this.
 - source: `batch_4_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace with borders
 
 ### log — 5 uses
 - whitelist: oil** — Leviticus 14:10 itself, "one log of oil" (freq. ~1,414) — oil is the whitelisted substance measured; "log" is the unit that measures it, and cannot be replaced by the substance-word without losing the quantity.
@@ -674,7 +714,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** oil
 - reason: A measure-term, exactly the WHITELIST's protected category (alongside gerahs, shekel, ephah); four-witness unanimity confirms it is the standard rendering, not an idiosyncratic base-text choice.
 - source: `batch_4_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### agate — 4 uses
 - whitelist: nearest existing entry is **stones** (158 uses, generic) — it fails because it collapses the twelve/gem-list distinctions the breastplate and Ezekiel/Isaiah passages depend on.
@@ -683,7 +723,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** stones
 - reason: Proper gem-name in a fixed cultic list — exactly the WHITELIST category (gem). The witness divergence at Ezek 27:16/Isa 54:12 is a genuine finding for the anomaly workflow (Geneva reads "pearl"/"shining stones" where the base text reads "agate"/"agates") but is a translation-choice question for gemstone identification, not evidence the base word is wrong.
 - source: `batch_2_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### carbuncle — 4 uses
 - whitelist: nearest existing entry is **stones** (158 uses, generic) — fails for the same reason as "agate": it collapses a fixed gem-list distinction.
@@ -692,7 +732,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** stones
 - reason: Same WHITELIST category as "agate" — proper gem-name in a fixed cultic/poetic list. The Geneva divergence (ruby vs. carbuncle) is a genuine gemstone-identification question for the anomaly workflow, not grounds to swap the base text's word, since ancient gem-names notoriously do not map 1:1 onto modern mineralogical categories.
 - source: `batch_2_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Carbuncle/s)
+- **OWNER RULING:** WHITELIST
 
 ### diadem — 4 uses
 - whitelist: nearest existing entry is **crown** (66 uses) — it fails to distinguish the diadem (a royal turban/headband, distinct in form from a metal crown) from an ordinary "crown," a distinction the base text itself preserves by pairing them ("a crown of glory, and for a diadem of beauty," Isa 28:5).
@@ -701,7 +742,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** crown
 - reason: Unique, irreplaceable referent (a specific item of royal regalia) with full period-witness agreement — the WHITELIST "office/regalia" category. The base text's own habit of naming crown and diadem together shows the AV translators regarded them as two different objects, not synonyms.
 - source: `batch_2_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** replace with jewel
 
 ### farthing — 4 uses
 - whitelist: nearest existing entry is **money** (123 uses, generic) — it fails to preserve the specific small-coin value the passages (a sparrow's price, a widow's two mites) depend on for their rhetorical point (how little, not just "some money").
@@ -710,7 +751,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** money
 - reason: Unique monetary-measure referent, WHITELIST category by the rubric, but also a genuine Axis-2 split worth reporting: Tyndale/Geneva/AV all use the culturally-nearest English coin-name (a translator's convention, like "bottles" for wineskins) rather than a period-authentic Roman coin name, so the split is the same signature as the project's canonical bottles/wineskins example — flagged for owner review, not silently corrected.
 - source: `batch_2_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Farthing)
+- **OWNER RULING:** replace with shekel
 
 ### firepans — 4 uses
 - whitelist: nearest existing entry is **vessels** (132 uses, generic) — it fails to preserve the specific "receptacle for carrying hot coals/ashes" function that distinguishes a firepan from a basin, shovel, or fleshhook, all named alongside it in the same tabernacle-furniture lists.
@@ -719,7 +761,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** vessels
 - reason: Unique cultic-implement referent — exactly the WHITELIST category. Geneva's own alternation between "ashpans" and "censers" for the same Hebrew word shows this is genuinely a hard-to-translate specific object, supporting protection rather than a swap that might quietly collapse it into the (distinct) censer.
 - source: `batch_2_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:**replace with pans
 
 ### pilots — 4 uses
 - whitelist: none fits cleanly — nearest reviewed candidate considered was **mariners**, but it does not itself appear as a reviewed/whitelisted entry in `word_whitelist.md` (the list covers only words a review pass actually flagged, so ordinary vocabulary like this simply never came up); no whitelisted word carries the needed sense here.
@@ -728,7 +770,8 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** men of ship
 - reason: WHITELIST: this is a unique, hard-to-substitute period term for a specific referent of the biblical world (see own-choice note). It should be protected from future replacement passes rather than swapped for any of the alternates above, which all either genericize or only approximate the specific referent named.
 - source: `batch_3_r2_triage.md`
-- **OWNER RULING:**
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pilots)
+- **OWNER RULING:** replace with shipmen
 
 ### plumbline — 4 uses
 - whitelist: line** (occurs more than 88 times in the restored text) — e.g. Joshua 2:18: "Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee."
@@ -737,7 +780,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** line
 - reason: WHITELIST: this is a unique, hard-to-substitute period term for a specific referent of the biblical world (see own-choice note). It should be protected from future replacement passes rather than swapped for any of the alternates above, which all either genericize or only approximate the specific referent named.
 - source: `batch_3_r2_triage.md`
-- **OWNER RULING:**
+- **OWNER RULING:** WHITELIST
 
 ### ranges — 4 uses
 - whitelist: vessels** (occurs more than 88 times in the restored text) — e.g. Exodus 7:19: "And the Lord spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone."
@@ -746,6 +789,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** vessels
 - reason: WHITELIST: this is a unique, hard-to-substitute period term for a specific referent of the biblical world (see own-choice note). It should be protected from future replacement passes rather than swapped for any of the alternates above, which all either genericize or only approximate the specific referent named.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ranges)
 - **OWNER RULING:**
 
 ### sackbut — 4 uses
@@ -755,6 +799,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** flute
 - reason: WHITELIST: this is a unique, hard-to-substitute period term for a specific referent of the biblical world (see own-choice note). It should be protected from future replacement passes rather than swapped for any of the alternates above, which all either genericize or only approximate the specific referent named.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Sackbut)
 - **OWNER RULING:**
 
 ### sardius — 4 uses
@@ -764,6 +809,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** jewel
 - reason: WHITELIST: this is a unique, hard-to-substitute period term for a specific referent of the biblical world (see own-choice note). It should be protected from future replacement passes rather than swapped for any of the alternates above, which all either genericize or only approximate the specific referent named.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Sardius)
 - **OWNER RULING:**
 
 ### shaft — 4 uses
@@ -773,6 +819,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** stalk
 - reason: WHITELIST: this is a unique, hard-to-substitute period term for a specific referent of the biblical world (see own-choice note). It should be protected from future replacement passes rather than swapped for any of the alternates above, which all either genericize or only approximate the specific referent named.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Shaft)
 - **OWNER RULING:**
 
 ### shipmen — 4 uses
@@ -782,6 +829,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** men of ship
 - reason: WHITELIST: this is a unique, hard-to-substitute period term for a specific referent of the biblical world (see own-choice note). It should be protected from future replacement passes rather than swapped for any of the alternates above, which all either genericize or only approximate the specific referent named.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Shipmen)
 - **OWNER RULING:**
 
 ### undersetters — 4 uses
@@ -809,6 +857,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** scribe
 - reason: WHITELIST. A unique material-culture noun naming a specific ancient scribal implement (the "writer's inkhorn" of Ezekiel 9), well attested across every period witness and with a real archaeological referent — precisely the cultic/professional-implement category the protocol reserves for protection.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Inkhorn)
 - **OWNER RULING:**
 
 ### jawbone — 3 uses
@@ -818,6 +867,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** jaw
 - reason: WHITELIST. This is the object at the center of one of Judges' most famous episodes (Samson slaying a thousand men with it), unanimously attested in every witness translation with no rival rendering — a unique narrative-critical object that should be protected outright rather than left open to a future swap pass.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Jawbone)
 - **OWNER RULING:**
 
 ### lace — 3 uses
@@ -836,6 +886,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** rulers
 - reason: Unique administrative-office referent — the WHITELIST "office" category. Whitelisting protects the AV's attempt (imperfect but deliberate, as Esther's lists of lieutenants/governors/princes/rulers show) to distinguish several named ranks of Persian provincial administration, which a loose modernizing swap to "officials" or "rulers" generically would erase.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Lieutenants)
 - **OWNER RULING:**
 
 ### manger — 3 uses
@@ -863,6 +914,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** milk
 - reason: WHITELIST. Rare six-way verbatim witness agreement spanning Tyndale 1526 to Webster, naming a specific pastoral/animal-husbandry classification still current in dialectal English ("milch cow") — a unique livestock-type term of the sort the protocol protects, and there is effectively no better one-word synonym.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Milch)
 - **OWNER RULING:**
 
 ### minstrels — 3 uses
@@ -899,6 +951,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** bowls
 - reason: WHITELIST. Wycliffe's Middle English "pomels" (1382) is a direct cognate of this exact word, and DRC (a contemporary of the KJV, 1610) independently confirms it — rare and strong period-depth attestation for a unique architectural ornament naming a specific, excavatable feature of Solomon's temple pillars. A cultic-implement noun of the protected type.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pommels)
 - **OWNER RULING:**
 
 ### pruninghooks — 3 uses
@@ -971,6 +1024,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** diligence
 - reason: WHITELIST. This is a unique Pauline coinage found nowhere but these two NT epistles, unanimously attested across every witness translation in the same compound form, and it names a specific first-century master-slave behavior with no adequate synonym. It should be protected from any future swap pass rather than merely kept.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Eyeservice)
 - **OWNER RULING:**
 
 ### harrows — 1 uses
@@ -980,6 +1034,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** axes
 - reason: WHITELIST. "Harrows" (or, per witnesses, mattocks/coulters/forks) names a specific Iron-Age agricultural tool in a list of such tools (I Samuel 13:21); the Hebrew is notoriously obscure here (witnesses disagree on the referent itself), so this is exactly the kind of unique material-culture noun the protocol reserves for protection rather than a swap pass guessing among rival identifications.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Harrows)
 - **OWNER RULING:**
 
 ## KEEP (1053)
@@ -991,6 +1046,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** abundant
 - reason: KEEP, decisively. This is the highest-count group in the entire batch and the plainest possible case for the owner's standing citation that extremely common words are unlikely to be wrong: *full* is ordinary, universal, still-current English, unanimous across every period and modern witness, spanning literal fullness (pits full of pitch), completeness of years/iniquity (Genesis 15:16), and idiom ("full of years," 25:8) — there is no plausible reading under which this word is a corruption candidate.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Fuller)
 - **OWNER RULING:**
 
 ### enquire — 87 uses
@@ -1036,6 +1092,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** in another place
 - reason: KEEP. A wholly ordinary adverb, unanimous across every witness back to 1382, naming the real dispersal of nations after Babel — no plausible case for review.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Abroad)
 - **OWNER RULING:**
 
 ### afterward — 79 uses
@@ -1063,6 +1120,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** ruler
 - reason: KEEP. Attested in Tyndale (1530s) and unanimous among most witnesses; *governor* names a specific, real ancient Egyptian administrative office (Joseph's vizierate) and the Roman-era provincial office (Matthew 28:14, Pontius Pilate's title elsewhere) — "ruler" (whitelisted) is close but more generic, losing the specific administrative-appointment sense.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Governor/s)
 - **OWNER RULING:**
 
 ### secret — 79 uses
@@ -1135,6 +1193,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** torn
 - reason: KEEP. Unanimous across every witness; *rent* (past tense of "rend," which is itself under separate review in this batch) is the KJV's consistent form for garment-tearing grief (Genesis 37:29, 34) — keeping "rent"/"rend" as a pair preserves the verb's full paradigm rather than mixing it with "torn"'s different verb ("tear").
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rentest)
 - **OWNER RULING:**
 
 ### oath — 66 uses
@@ -1216,6 +1275,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** statute
 - reason: KEEP. Unanimous across every witness; *ordinance* and *statute* are near-perfect synonyms already used side-by-side in the KJV's own legal vocabulary (Exodus 18:20 "ordinances and laws," Leviticus 18:4 "judgments... ordinances") — the corpus deliberately varies them for legal-formula rhythm, so collapsing one into the other would flatten that variation.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ordinance/s)
 - **OWNER RULING:**
 
 ### violence — 59 uses
@@ -1333,6 +1393,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** uncleanness
 - reason: KEEP, with a flag: ASV and Darby both independently prefer "profane" over "pollute" at Leviticus 19:29 specifically (the daughter-prostitution law), while YLT retains "pollute." Both are period-authentic and name the same ritual-defilement concept (Hebrew חלל); *pollute* is KJV's own settled choice across all 54 occurrences and should stand, though the verse-level split is worth noting for the owner.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pollute / Polluted / Polllutes)
 - **OWNER RULING:**
 
 ### terrible — 54 uses
@@ -1351,6 +1412,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** pillar
 - reason: KEEP. Unanimous across every witness; *post* precisely names the door-frame member marked with blood at the first Passover (Exodus 12:7,22-23) — genuine, load-bearing ritual vocabulary that "pillar" (a freestanding monument sense elsewhere in KJV, e.g. Jacob's pillar) would blur.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Post)
 - **OWNER RULING:**
 
 ### corrupt — 52 uses
@@ -1369,6 +1431,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** child
 - reason: KEEP. YLT's "youth" is a genuine, period-authentic alternative attested at this exact verse, but *lad* is the KJV's own consistent choice for Ishmael (Genesis 21), Benjamin (Genesis 44), and the lads of Zechariah 8:5 — a warmer, more intimate register than the more formal "youth," which the text's pathos (Hagar's cries, Genesis 21:17) calls for.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Lad; Laded)
 - **OWNER RULING:**
 
 ### afar — 51 uses
@@ -1423,6 +1486,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** goods
 - reason: KEEP. Attested verbatim in Wycliffe across two centuries before the KJV; the group spans two real senses — living creatures (Genesis 7:23) and property/wealth (Genesis 12:5, 13:6) — that "goods" only covers half of, so the broader word should stand.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Substance)
 - **OWNER RULING:**
 
 ### interpretation — 48 uses
@@ -1468,6 +1532,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** vengeance
 - reason: KEEP. Unanimous across every witness (several rendering the identical periphrasis "take vengeance"); *avenge* as a verb is precise and economical against the multi-word "take vengeance," and the two exist side-by-side in the KJV's own idiolect without conflict (avenge = verb, vengeance = noun) — no reason to collapse one into the other.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Avenger)
 - **OWNER RULING:**
 
 ### encamp — 47 uses
@@ -1495,6 +1560,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** now
 - reason: KEEP. Attested verbatim in ASV and by cognate in Wycliffe ("anoon"); *straightway* is the KJV's preferred adverb for "immediately" throughout Samuel, Proverbs, and both Testaments — well within period register, no reason to disturb it.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Straightway)
 - **OWNER RULING:**
 
 ### companion — 41 uses
@@ -1504,6 +1570,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** friend
 - reason: KEEP, with the note that Darby and YLT both independently choose "friend" over "companion" at Exodus 32:27 — a real, mild witness divergence. "Companion" better preserves the distinct three-term structure of the verse ("brother... companion... neighbour"), where "friend" would collide with "neighbour"'s sense.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Companion/s)
 - **OWNER RULING:**
 
 ### finger — 41 uses
@@ -1513,6 +1580,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** thumb
 - reason: KEEP. Unanimous across every witness including Wycliffe (1382); "the finger of God" is a fixed idiom for direct divine action (Exodus 8:19, 31:18, Luke 11:20) with no plausible case for replacement.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Finger/s)
 - **OWNER RULING:**
 
 ### indignation — 41 uses
@@ -1540,6 +1608,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** break
 - reason: KEEP. Unanimous across every witness for both the literal city-wall sense (I Kings 11:27, II Kings 12:5) and the legal lex talionis sense (Leviticus 24:20 "breach for breach"); the word is doing real double duty that no single substitute preserves.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Breach / Breaches)
 - **OWNER RULING:**
 
 ### eastward — 40 uses
@@ -1585,6 +1654,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** authority
 - reason: KEEP, but flag the close call: three of six witnesses checked (ASV, YLT, BSB) render this verse's Hebrew (בטח) as "trust" rather than "confidence." Both are period-authentic; *confidence* is Darby's and KJV's own reading and is not wrong, but "trust" has stronger multi-witness support at this specific verse if the owner wants to weigh a swap.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Confidences)
 - **OWNER RULING:**
 
 ### folly — 39 uses
@@ -1603,6 +1673,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** charge
 - reason: KEEP. *Recompense* covers both the legal-restitution sense (Numbers 5:7-8, attested identically in Darby) and the theological reward/vengeance sense (Ruth 2:12, Deuteronomy 32:35's kin-word) that "restitution" cannot carry — the word's breadth is a feature, not a defect, across its 39 occurrences.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Recompense)
 - **OWNER RULING:**
 
 ### tender — 39 uses
@@ -1621,6 +1692,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** oppress
 - reason: KEEP. Darby attests "vex" verbatim at this exact verse; the word is doing deliberate work alongside its near-synonym "oppress" in the same clause (a Hebrew doublet, ינה / לחץ) — replacing it with its own neighbor would erase that doublet structure.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Vex / Vexed / Vexation / Vexations)
 - **OWNER RULING:**
 
 ### fenced — 38 uses
@@ -1666,6 +1738,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** charge
 - reason: KEEP. *Tribute* is attested in Tyndale at this very verse (1530s) and is KJV's standing word for both forced labor (Genesis 49:15) and formal levy (Numbers 31:28/37) — a real historical Near Eastern institution (vassal tribute) on both axes; ASV's "taskwork" is worth the owner's eye for Genesis 49:15 specifically but should not override the word across all 38 occurrences.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Tribute)
 - **OWNER RULING:**
 
 ### valour — 37 uses
@@ -1684,6 +1757,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** old
 - reason: KEEP. Unanimous across every witness; "elder(s)" is the better whitelisted swap specifically for the personal/office sense (I Samuel 24:13, Psalms 119:100, Isaiah 3:14) but "old" is too flat for the geological/temporal sense (Deuteronomy 33:15, Judges 5:21, II Kings 19:25) — the word already does double duty correctly as KJV uses it.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ancients)
 - **OWNER RULING:**
 
 ### care — 36 uses
@@ -1702,6 +1776,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** bind
 - reason: KEEP. *Couple* as a verb ("couple the curtains") is precise tabernacle-construction vocabulary, unanimous among every witness checked; "join" (Wycliffe's own gloss) is the best fallback should the owner want variation, but the word standing already matches every period text.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Couple; Coupleth; Coupling)
 - **OWNER RULING:**
 
 ### pity — 36 uses
@@ -1720,6 +1795,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** fountain
 - reason: KEEP. Unanimous across every witness for both senses (the treading-vat, Joel/Haggai/Proverbs 3:10, and the crowd, Mark 2:4/Luke 16:16); "winefat" is KJV's own companion term for the receiving vessel specifically, not a replacement for "press" (the treading floor/vat) itself.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Press)
 - **OWNER RULING:**
 
 ### accuse — 35 uses
@@ -1828,6 +1904,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** remnant
 - reason: KEEP. *Residue* is attested in Wycliffe at this very verse and used consistently for "what is left" of things (hail-spared crops, family lines, temple furnishings); *remnant* would work but the corpus already reserves it chiefly for surviving peoples, so swapping risks blurring that distinction.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Residue)
 - **OWNER RULING:**
 
 ### confirm — 33 uses
@@ -1900,6 +1977,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** proclaim
 - reason: unanimous attestation; the sense-shift from modern English is a glossing matter, not corruption.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Publish/Published)
 - **OWNER RULING:**
 
 ### purge — 32 uses
@@ -1909,6 +1987,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** cleanse
 - reason: unanimous attestation; no replacement warranted.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Purge / Purged / Purgeth)
 - **OWNER RULING:**
 
 ### window — 32 uses
@@ -1999,6 +2078,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** may
 - reason: this is core, unmistakably attested EModE vocabulary; no case for replacement was ever in question.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Peradventure)
 - **OWNER RULING:**
 
 ### displease — 30 uses
@@ -2044,6 +2124,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** form
 - reason: strongly attested across all three witnesses; the sense-shift from modern English is a glossing matter, not corruption.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Fashion/s/ Fashioned / Fashioning / Fashioneth)
 - **OWNER RULING:**
 
 ### liberty — 29 uses
@@ -2089,6 +2170,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** many times
 - reason: unanimous witness agreement; no anachronism, no adequate substitute exists that isn't simply the word's own longer form.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Oft)
 - **OWNER RULING:**
 
 ### perpetual — 28 uses
@@ -2098,6 +2180,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** everlasting
 - reason: strongly attested; "everlasting" is close but theologically distinct in KJV usage (covenant-perpetuity across generations vs. eternity proper).
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Perpetual)
 - **OWNER RULING:**
 
 ### custom — 27 uses
@@ -2134,6 +2217,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** savour
 - reason: strongly and unanimously attested; no replacement warranted.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Smell / Smelled / Smelleth; Smelling)
 - **OWNER RULING:**
 
 ### suppose — 27 uses
@@ -2161,6 +2245,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** thing
 - reason: no corruption signature; Wycliffe's "o thing" is a real alternative but "somewhat" is unremarkable period vocabulary.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Somewhat)
 - **OWNER RULING:**
 
 ### contrary — 25 uses
@@ -2278,6 +2363,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** prison
 - reason: strongly attested by both witnesses; "prison" is the companion term in the same clause but is not a true substitute for "ward" (a guarded holding, cf. modern "hospital ward").
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ward/s)
 - **OWNER RULING:**
 
 ### abominable — 23 uses
@@ -2359,6 +2445,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** perverse
 - reason: unanimous attestation; "perverse" is a workable witness-adjacent alternative but "froward" is in no danger of being mistaken for a later coinage.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Froward)
 - **OWNER RULING:**
 
 ### grown — 23 uses
@@ -2386,6 +2473,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** spoil
 - reason: Geneva's own variance shows both words were in period use for related senses; "rob" itself carries no corruption signature.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rob / Robbed)
 - **OWNER RULING:**
 
 ### safely — 23 uses
@@ -2404,6 +2492,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wonder
 - reason: well attested by Geneva in two different renderings of the same underlying idea; no replacement needed.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Astonished / Astonishment)
 - **OWNER RULING:**
 
 ### hadst — 22 uses
@@ -2422,6 +2511,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** touch
 - reason: no anachronism; "touch" is the nearest whitelisted word but loses the skilled-use sense central to Genesis 4:21's "such as handle the harp."
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Handle / Handled)
 - **OWNER RULING:**
 
 ### happen — 22 uses
@@ -2458,6 +2548,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** chosen
 - reason: attested by Geneva; the word covers two related but distinct senses (finest-quality and original-sum) that no single whitelisted synonym spans.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Principal)
 - **OWNER RULING:**
 
 ### recompence — 22 uses
@@ -2494,6 +2585,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** meat
 - reason: unanimous attestation; "meat" is broader in period usage but "victual" specifically names provisions for a journey or campaign, a nuance worth keeping.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Victuals)
 - **OWNER RULING:**
 
 ### wit — 22 uses
@@ -2503,6 +2595,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** that is to say
 - reason: this is an idiomatic tag rather than an ordinary noun/verb with synonyms; both witnesses confirm it as settled period vocabulary.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wit)
 - **OWNER RULING:**
 
 ### chase — 21 uses
@@ -2593,6 +2686,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** move
 - reason: unanimous witness agreement; "move" is far too generic a substitute for the specific gesture of contempt the verse describes.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wag)
 - **OWNER RULING:**
 
 ### wonderful — 21 uses
@@ -2656,6 +2750,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** walk
 - reason: Geneva uses the identical word; the sense-shift from modern English is a glossing matter (Capability 4), not grounds for replacement — swapping to "walk" would erase a genuinely attested period idiom.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Conversation)
 - **OWNER RULING:**
 
 ### courage — 20 uses
@@ -2692,6 +2787,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** spirit
 - reason: the idiom is period-authentic and its referent (death/expiration) is universal to the biblical world; Geneva's variant confirms the sense without requiring a swap.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ghost)
 - **OWNER RULING:**
 
 ### imagination — 20 uses
@@ -2773,6 +2869,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** storehouse
 - reason: though "storehouse" is the closest whitelisted word, it names a different kind of repository; "treasury" itself carries no corruption signature.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Treasury)
 - **OWNER RULING:**
 
 ### troop — 20 uses
@@ -2791,6 +2888,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** assembly
 - reason: Geneva's "assembly" is a legitimate and whitelisted alternative worth the owner's notice, but "convocation" specifically names a formally proclaimed, obligatory sacred gathering (the fixed technical term throughout Leviticus 23's festival calendar), where "assembly" is the broader general-purpose word for any gathering; the narrower legal-liturgical term is preferred for this cultic-calendar context.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Convocation/s)
 - **OWNER RULING:**
 
 ### fortress — 19 uses
@@ -2854,6 +2952,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** lord
 - reason: Two of three witnesses use the identical word; Wycliffe's "Lord" is a legitimate alternative but "lord" in the KJV is reserved for genuine social/political superiors or the divine title, where "sir" is the ordinary polite address to a stranger or social equal-to-superior (Matt 13:27, 21:30, both in this group, servants addressing a householder) — using "lord" throughout would inflate the register.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Sir/s)
 - **OWNER RULING:**
 
 ### skirt — 19 uses
@@ -2863,6 +2962,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** garment
 - reason: Geneva is unanimous with the base word; "garment" is too generic to carry the specific legal-euphemistic idiom ("uncover/spread the skirt") that this whole word-group depends on for its euphemistic and covenantal force (Deut 22:30, 27:20, Ruth 3:9, Jer 2:34, 13:22, all in this group).
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Skirt/s)
 - **OWNER RULING:**
 
 ### spent — 19 uses
@@ -2935,6 +3035,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** devise
 - reason: "Devise" is a close and legitimate synonym, and the KJV's own text uses both words together as a doublet ("the devices that they have imagined," Ps 10:2), so replacing one with the other everywhere would erase that pairing; keeping both preserves the KJV's own stylistic range.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Imagine)
 - **OWNER RULING:**
 
 ### ransom — 18 uses
@@ -2962,6 +3063,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** thief
 - reason: "Thief" implies stealth/theft by stealing, where "robber" (and Wycliffe's "armed man") specifically implies violent, forcible taking — a real distinction preserved in the KJV's own vocabulary (compare "thief" used for Achan's stealth-sin, Josh 7, versus "robber" for violent banditry); the word standing keeps that distinction.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Robber/s)
 - **OWNER RULING:**
 
 ### stablish — 18 uses
@@ -2971,6 +3073,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** establish
 - reason: Geneva is unanimous with the identical word; "stablish" and "establish" are stylistic doublets the KJV itself alternates between (a documented feature of 1611 translation-committee variation), so there is no substantive gain in flattening one into the other.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Stablish / Stablished / Stablisheth)
 - **OWNER RULING:**
 
 ### tempest — 18 uses
@@ -2989,6 +3092,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** breath
 - reason: Geneva is unanimous with the base word; "breath" is the companion noun in the same phrase ("blast of the breath"), so substituting it for "blast" would create a redundant doublet.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Blasting)
 - **OWNER RULING:**
 
 ### direct — 17 uses
@@ -3115,6 +3219,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** blood
 - reason: Geneva is unanimous with the base word; "blood" as a noun cannot substitute for the adjective "bloody" without reworking the clause ("a blood husband" is not idiomatic English), so the word standing is structurally necessary.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Bloody)
 - **OWNER RULING:**
 
 ### entice — 16 uses
@@ -3160,6 +3265,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** instrument
 - reason: "Musick" is simply the period spelling of the ordinary word "music" — there is no vocabulary question here at all, only a spelling one, and the base text's spelling matches standard 1611-era orthographic practice.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Musick)
 - **OWNER RULING:**
 
 ### poverty — 16 uses
@@ -3178,6 +3284,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** close
 - reason: No case to swap where two witnesses already agree on the identical word; "close" (the nearest whitelisted candidate) is an adjective, not an adverb, and would require reworking the clause, so it is a poor direct substitute.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Privily)
 - **OWNER RULING:**
 
 ### retain — 16 uses
@@ -3214,6 +3321,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** whatsoever
 - reason: Geneva is unanimous with the identical grammatical construction; "soever" is a bound grammatical particle rather than a word with independent lexical content, so there is no meaningful swap to make — any replacement would simply be a different indefinite-pronoun construction, not a synonym.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Soever)
 - **OWNER RULING:**
 
 ### surname — 16 uses
@@ -3232,6 +3340,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** affliction
 - reason: Geneva's "trouble" is a real period alternative worth the owner's notice, but "vexation of spirit" (Eccl 1:14) is one of the KJV's most recognizable idioms and swapping the word would disturb that fixed phrase; "affliction" likewise is broader (covers physical suffering) where "vexation" specifically names irritation/harassment — the narrower word is preferred.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Vex / Vexed / Vexation / Vexations)
 - **OWNER RULING:**
 
 ### zeal — 16 uses
@@ -3277,6 +3386,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** between
 - reason: Tyndale attests "betwixt" outright at the very verse in question; there is no reason to flatten the KJV's own stylistic variation between "between" and "betwixt" into a single form.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Betwixt)
 - **OWNER RULING:**
 
 ### controversy — 15 uses
@@ -3295,6 +3405,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** smite
 - reason: Geneva is unanimous with the base word; "smite" is far too general (covers any blow) where "dash (in pieces/against)" names the specific violent act of smashing by impact.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Dash / Dashed)
 - **OWNER RULING:**
 
 ### defend — 15 uses
@@ -3313,6 +3424,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** scorn
 - reason: Since the base text itself uses "scorn" and "derision" together as a doublet (Ps 44:13), replacing one with the other inside this same corpus would erase a deliberate stylistic pairing; the word standing is preferred.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Derision)
 - **OWNER RULING:**
 
 ### difference — 15 uses
@@ -3358,6 +3470,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** reckon
 - reason: Geneva is unanimous with the base word; "reckon" is a legitimate synonym Paul himself uses interchangeably with "impute" for the same Greek verb, but "impute" is the KJV's own settled rendering across this whole doctrinal argument (Romans 4, also Lev 7:18, 17:4 for the cultic sense) — changing it here would break consistency for no gain.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Impute/Imputed/Imputeth)
 - **OWNER RULING:**
 
 ### mirth — 15 uses
@@ -3385,6 +3498,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** lower
 - reason: Geneva is unanimous with the base word; "lower" is available and fully synonymous, but "nether" is the KJV's own consistent choice for this pairing with "upper" (Deut 24:6, Joshua 15:19, all in this group) and changing it would break the deliberate upper/nether contrast pattern.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Nether)
 - **OWNER RULING:**
 
 ### pattern — 15 uses
@@ -3430,6 +3544,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** seat
 - reason: "Saddle" is sound period vocabulary for two of the group's three occurrences; "seat" is too generic to serve as a swap. The Genesis 31:34 instance is flagged above for the owner's separate verse-review attention rather than ruled on here, since it is a translation-choice question (furniture vs. saddle) not a vocabulary-authenticity one.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Saddle / Saddled)
 - **OWNER RULING:**
 
 ### strove — 15 uses
@@ -3538,6 +3653,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** witchcraft
 - reason: Geneva's own reading shows "witchcraft" as a live period alternative, but it is a broader category than the specific verbal/charm-based practice "enchantment" names (see Ecclesiastes 10:11's "serpent will bite without enchantment," clearly charmer's-craft, not witchcraft generally); the word standing keeps the narrower, correct sense.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Enchantment/s)
 - **OWNER RULING:**
 
 ### expectation — 14 uses
@@ -3592,6 +3708,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** abundant
 - reason: Two of three witnesses agree outright with the base word; no case to swap.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Plenteous)
 - **OWNER RULING:**
 
 ### point — 14 uses
@@ -3628,6 +3745,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** grieved
 - reason: Wycliffe's own cognate is the strongest possible attestation continuity; "grieved" is a fine synonym but changes register from the personal, almost colloquial "sorry for me" to the more formal "grieved," softening the plaintive tone of Saul's complaint.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Sorry)
 - **OWNER RULING:**
 
 ### state — 14 uses
@@ -3646,6 +3764,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** bow
 - reason: Geneva settles this directly. The KJV itself distinguishes "bow (down)" (an act of worship or homage) from "stoop" (a physical posture of submission or weariness, as the idols Bel and Nebo literally toppling); collapsing the two loses that distinction.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Stoop / Stooped / Stoopeth / Stooping)
 - **OWNER RULING:**
 
 ### subjection — 14 uses
@@ -3664,6 +3783,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** increase
 - reason: Geneva is unanimous with the base word; "increase" is too generic for the specific bodily swelling this ordeal-ritual depends on as its visible sign of guilt.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Swell / Swellled; Swelling/s)
 - **OWNER RULING:**
 
 ### triumph — 14 uses
@@ -3682,6 +3802,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** chain
 - reason: Neither witness offers a usable alternative; "chain" captures the wreathen-chainwork sense (Exodus 28) but not the cast bronze laver ornament sense (I Kings 7:30, II Chron 4:12) that "wreath" alone covers, so it is only a partial substitute — the word standing is preferred.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wreath; Wreathen)
 - **OWNER RULING:**
 
 ### ambassador — 13 uses
@@ -3700,6 +3821,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** spoil
 - reason: Ordinary word for the loss of children/family, unchanged in sense and still current; no witness offers a rival single word, so it stands unchallenged.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Bereave/d)
 - **OWNER RULING:**
 
 ### consulted — 13 uses
@@ -3871,6 +3993,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** diligently
 - reason: "Straitly" (= strictly, urgently) is sound EModE and the underlying referent (an urgent oath/charge) is source-era. "Diligently" and Geneva's oath-phrase are both worse than the word standing because they lose the specific sense of stern insistence that "straitly" carries in legal/oath contexts. Note for the owner: the Genesis 43:3 occurrence itself reads "did straitly protest," which I recall differs from the standard 1769 text's "did solemnly protest" — a verse-level question, separate from this token's vocabulary ruling.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Straitly)
 - **OWNER RULING:**
 
 ### stroke — 13 uses
@@ -3889,6 +4012,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** goods
 - reason: Two of three witnesses use the identical word; "goods" is a fair synonym but "stuff" is more specific to movable household property/baggage, the exact sense of Genesis 45:20 and Exodus 22:7.
 - source: `batch_8_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Stuff)
 - **OWNER RULING:**
 
 ### tooth — 13 uses
@@ -3943,6 +4067,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** hearing
 - reason: EModE sense is "within the hearing of" (a legal-witness idiom), not the modern "crowd of spectators" sense; both witnesses confirm the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Audience)
 - **OWNER RULING:**
 
 ### borrow — 12 uses
@@ -3961,6 +4086,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** manservant
 - reason: Court office-title, unchanged in sense (the royal wine-steward); all three witnesses agree exactly, so it is exceptionally well attested.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Butler)
 - **OWNER RULING:**
 
 ### chew — 12 uses
@@ -3979,6 +4105,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** turn aside
 - reason: Ordinary word for turning away from a right course (legal/moral) or fading (Psalms 102:11, "a shadow that declineth"), unchanged in sense; Geneva1599 confirms the identical word at Exodus 23:2.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Decline / Declined / Declineth)
 - **OWNER RULING:**
 
 ### durst — 12 uses
@@ -3988,6 +4115,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** daring
 - reason: Archaic past-tense form of "dare," a hallmark EModE modal verb, genuinely period and well attested across the KJV corpus (e.g. Esther 7:5, Matthew 22:46).
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Durst)
 - **OWNER RULING:**
 
 ### easy — 12 uses
@@ -4006,6 +4134,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** righteousness
 - reason: Legal/theological term for even-handed justice, unchanged in sense and still current; Geneva1599 uses the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Equity)
 - **OWNER RULING:**
 
 ### fort — 12 uses
@@ -4024,6 +4153,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** crush
 - reason: Ordinary word for milling grain (Job 31:10, Ecclesiastes 12:4) or, figuratively, forced labor (Judges 16:21) and teeth-gnashing (Psalms 112:10); both witnesses confirm the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Grind; Grinding)
 - **OWNER RULING:**
 
 ### guile — 12 uses
@@ -4069,6 +4199,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** chamber
 - reason: Ordinary household baking implement, unchanged in sense and still current; both witnesses confirm the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Oven/s)
 - **OWNER RULING:**
 
 ### oversight — 12 uses
@@ -4087,6 +4218,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** head
 - reason: Two senses in this group — "head" for census-counting (Numbers 1:2, "by their polls") and "to shave" (Ezekiel 44:20, II Samuel 14:26) — both genuinely period; Wycliffe's *by each head* confirms the census sense without displacing the technical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Poll / Polls / Polled)
 - **OWNER RULING:**
 
 ### requite — 12 uses
@@ -4096,6 +4228,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** pay
 - reason: Ordinary word for returning like for like (good or evil), unchanged in sense; the witnesses vary in verb choice but all confirm the same sense, so *requite* stands as a faithful period rendering.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Requite / Requited; Requiting)
 - **OWNER RULING:**
 
 ### sad — 12 uses
@@ -4114,6 +4247,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** work
 - reason: Fixed cultic/legal phrase ("no servile work") for labor forbidden on holy days, unchanged in sense; both witnesses confirm the identical word, so it is exceptionally well attested.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Servile)
 - **OWNER RULING:**
 
 ### similitude — 12 uses
@@ -4123,6 +4257,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** likeness
 - reason: Theological term of art for a visible manifestation or form, unchanged in sense, distinguishing Moses's direct vision from the "dark speeches" given to other prophets; Geneva1599 confirms the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Similitude)
 - **OWNER RULING:**
 
 ### speed — 12 uses
@@ -4150,6 +4285,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** knowledge
 - reason: Past tense of *wit* (to know), the same archaic verb family as *wot*, genuinely period and well attested; both witnesses confirm the identical archaic word, so it is exceptionally well attested, not a corruption candidate.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wist)
 - **OWNER RULING:**
 
 ### acquaintance — 11 uses
@@ -4159,6 +4295,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** friend
 - reason: Ordinary word, unchanged in sense from 1611 to today; Geneva1599 uses the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Acquaintance)
 - **OWNER RULING:**
 
 ### beforetime — 11 uses
@@ -4195,6 +4332,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** comfort
 - reason: Ordinary word, unchanged in sense (both the verb "cheer up" and the noun "good cheer," Matthew 9:2); Geneva1599's *rejoice* is a fair alternate but shifts from causative to reflexive, a real grammatical change.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Cheer / Cheereth)
 - **OWNER RULING:**
 
 ### compare — 11 uses
@@ -4222,6 +4360,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** demand
 - reason: Ordinary legal/financial term for compelling payment, unchanged in sense; both witnesses paraphrase into a plainer verb, but neither offers a better technical term.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Exact / Exacteth)
 - **OWNER RULING:**
 
 ### excel — 11 uses
@@ -4240,6 +4379,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** chains
 - reason: Ordinary word for iron leg/foot restraints, unchanged in sense; Geneva1599 agrees exactly, and Wycliffe's *chains* is a fair but less specific alternate (fetters are leg-irons specifically, chains more general).
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Fetters)
 - **OWNER RULING:**
 
 ### figure — 11 uses
@@ -4249,6 +4389,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** likeness
 - reason: Ordinary word for a shape or representation, unchanged in sense; the KJV itself pairs *figure* with *likeness*/*image* in this very verse, so all three are equally period-authentic.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Figure/s)
 - **OWNER RULING:**
 
 ### forthwith — 11 uses
@@ -4258,6 +4399,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** now
 - reason: Ordinary adverb for immediacy, unchanged in sense; Geneva1599 uses the identical word, so it is well attested.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Forthwith)
 - **OWNER RULING:**
 
 ### frame — 11 uses
@@ -4276,6 +4418,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** vessel
 - reason: EModE "glass" regularly meant a mirror (a polished metal disc, not a modern glass mirror) — the referent is period-correct for Job 37:18 and I Corinthians 13:12's "through a glass, darkly"; Geneva1599 confirms the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Glasses)
 - **OWNER RULING:**
 
 ### halt — 11 uses
@@ -4285,6 +4428,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** lame
 - reason: Ordinary word covering both physical lameness (Matthew 18:8) and figurative indecision (I Kings 18:21); both witnesses use the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Halt / Halted / Halteth / Halting)
 - **OWNER RULING:**
 
 ### heel — 11 uses
@@ -4303,6 +4447,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** astonished
 - reason: Vivid onomatopoeic word for scornful astonishment, unchanged in sense; both witnesses use the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Hiss/Hissing)
 - **OWNER RULING:**
 
 ### intercession — 11 uses
@@ -4420,6 +4565,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** evil savour
 - reason: Ordinary word for foul odor, unchanged in sense and still current; both witnesses use the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Stink / Stinketh / Stinking)
 - **OWNER RULING:**
 
 ### stubborn — 11 uses
@@ -4483,6 +4629,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** lament
 - reason: Sound period vocabulary for ritual/private mourning, attested identically in both witnesses at every occurrence sampled; *lament* would serve as well but *bewail* is not a defect.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Bewail / Bewailed / Bewaileth)
 - **OWNER RULING:**
 
 ### booth — 10 uses
@@ -4501,6 +4648,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wrought
 - reason: Period spelling of "embroidered," a real Israelite priestly-garment craft technique (cf. Exodus 26:36, 28:39); both witnesses agree, so the word stands.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Broidered / Broided)
 - **OWNER RULING:**
 
 ### burst — 10 uses
@@ -4519,6 +4667,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** meet
 - reason: EModE sense is "fitting, suitable," not the modern "easy for me" sense — Geneva1599 uses the identical word, so it is well attested and unambiguous in context.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Convenient)
 - **OWNER RULING:**
 
 ### copy — 10 uses
@@ -4528,6 +4677,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** book
 - reason: Ordinary word, unchanged in sense from 1611 to today; Geneva1599 uses the identical word, so there is no rival reading to weigh.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Copied; Copy)
 - **OWNER RULING:**
 
 ### danger — 10 uses
@@ -4609,6 +4759,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** before
 - reason: The period conjunction/preposition for "before," attested across the KJV corpus and in Geneva1599 ("yer") at the same verse — a textbook EModE function word, not an anachronism.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ere)
 - **OWNER RULING:**
 
 ### exhortation — 10 uses
@@ -4627,6 +4778,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** renown
 - reason: Ordinary word for public distinction, unchanged in sense; Geneva1599 uses the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Famous)
 - **OWNER RULING:**
 
 ### forefront — 10 uses
@@ -4654,6 +4806,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** covered
 - reason: Archaic spelling of "enclosed"; both witnesses independently prefer the shorter *closed*, which is a fair alternate, but *inclosed* is itself period-attested (KJV's regular in-/en- doublet, cf. "inclose"/"enclose") and not a defect.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Inclose/d)
 - **OWNER RULING:**
 
 ### lick — 10 uses
@@ -4690,6 +4843,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** forgiveness
 - reason: Theological term of art, unchanged in sense from 1611 to today; both witnesses use the identical word.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Remission)
 - **OWNER RULING:**
 
 ### repay — 10 uses
@@ -4771,6 +4925,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** knowledge
 - reason: Classic Middle/Early Modern English survival ("to wit/wot" = to know), genuinely archaic and a hallmark of period register; Tyndale's *wyst* confirms the same verb family, so it is well attested even though Geneva paraphrases it into plain "know."
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wot)
 - **OWNER RULING:**
 
 ### abase — 9 uses
@@ -4780,6 +4935,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** humble
 - reason: KEEP. Though the witness pull for Job 40:11 landed on an off-verse line, the word's NT occurrences are a tight, repeated exalt/abase antonym pair that is clearly deliberate and idiomatic; "humble" is whitelisted and already doing complementary duty as the reflexive counterpart in the same verses, so swapping it in for "abase" would create redundancy rather than improvement.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Abase / Abased / Abasing)
 - **OWNER RULING:**
 
 ### admonish — 9 uses
@@ -4807,6 +4963,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** afraid
 - reason: KEEP. Both witnesses simplify to a plain verb ("fear"/"dread") rather than the intensified participle, but this reflects translation economy, not disagreement with the sense; "afraid" is whitelisted but is the weaker, more generic word and would flatten the stronger "struck with terror" sense "affrighted" carries.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Affright / Affrighted)
 - **OWNER RULING:**
 
 ### apiece — 9 uses
@@ -4852,6 +5009,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** place of rest
 - reason: KEEP. Geneva's own use of "couch" beside "bed" as a deliberate poetic doublet at Job 7:13 is strong direct attestation for the noun sense, and the verb sense (crouching like a lion) is a well-established distinct meaning already flagged as sound in prior guidance; no swap is needed for either sense, though the reviewer should note (per the King James agent's standing brief) that "couch" is polysemous and any future automated swap must not conflate the two senses.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Couch; Couched; Couches)
 - **OWNER RULING:**
 
 ### covert — 9 uses
@@ -4861,6 +5019,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** hidden place
 - reason: KEEP. Both witnesses paraphrase rather than contradict the sense, and "covert" is unremarkable period vocabulary for a sheltered or hidden place; no single-word swap improves on it.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Covert)
 - **OWNER RULING:**
 
 ### dearth — 9 uses
@@ -4870,6 +5029,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** famine
 - reason: KEEP. Tyndale's identical word (spelling variant only) is direct attestation; "famine" is whitelisted, more frequent, and is Geneva's preferred word at this verse, so the owner may consider standardizing, but "dearth" itself carries no defect and is well attested independently.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Dearth)
 - **OWNER RULING:**
 
 ### defraud — 9 uses
@@ -4897,6 +5057,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** smote
 - reason: KEEP. Geneva's identical word is direct attestation; "smote" is whitelisted but is a more generic strike-verb that would lose the specific "thrown into confused rout" sense "discomfited" carries throughout its occurrences.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Discomfited)
 - **OWNER RULING:**
 
 ### disguise — 9 uses
@@ -5014,6 +5175,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wrinkle
 - reason: This is a real corruption-pattern flag: Job 16:8's "furrows" swaps a face-wrinkle image for an agricultural one, changing what the verse describes (Job's own withered body, in a passage about his physical suffering) into a landscape metaphor that doesn't fit the surrounding first-person lament ("my leanness rising up in me beareth witness to my face" — a face, not a field). Recommend REPLACE "furrows" → "wrinkles" at Job 16:8 specifically for owner review; KEEP "furrows" at Job 31:38 and Ps 65:10, where the agricultural sense is correct and unanimous.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Furrow/s)
 - **OWNER RULING:**
 
 ### hardness — 9 uses
@@ -5113,6 +5275,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** filled
 - reason: KEEP. Geneva's identical word is direct attestation, and the word's older "used/employed" sense — now largely faded from everyday modern English — is itself a genuine and valuable period marker; no swap improves on it.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Occupied)
 - **OWNER RULING:**
 
 ### parched — 9 uses
@@ -5158,6 +5321,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** abundant
 - reason: KEEP. Unanimous two-witness attestation confirms the agricultural sense directly; the formation sense is a separate but equally sound homograph, and no swap is needed for either.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rank/s)
 - **OWNER RULING:**
 
 ### resort — 9 uses
@@ -5230,6 +5394,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** ground
 - reason: KEEP. Geneva's identical word is direct attestation; "ground" is whitelisted but is already paired beside "stamped" in the same clause, so swapping one for the other would be redundant rather than an improvement.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Stamp / Stamped)
 - **OWNER RULING:**
 
 ### terrify — 9 uses
@@ -5239,6 +5404,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** afraid
 - reason: KEEP for the causative occurrences (II Chron 32:18 "to terrify them," Job 3:5/9:34); flag Deut 20:3 as a possible mismatch, since that verse is about the Israelites' own emotional state ("be not terrified") rather than an outside party actively terrifying them, and both witnesses read a simple passive ("be afraid/dread") there — a minor grammatical-fit question worth the owner's attention, though not a period-authenticity defect.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Terrified; Terrify)
 - **OWNER RULING:**
 
 ### thin — 9 uses
@@ -5293,6 +5459,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** desire
 - reason: KEEP. Geneva's identical word is direct attestation; "desire" is whitelisted and viable but is a stronger word than the text's more modest "wish" in most of these occurrences, so the standing word better preserves the original register.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wish / Wishing / Wished)
 - **OWNER RULING:**
 
 ### woof — 9 uses
@@ -5302,6 +5469,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** thread
 - reason: KEEP. Geneva's identical word plus Wycliffe's attested spelling-variant "oof" together confirm the word-family directly; "warp" and "woof" stand or fall together as a fixed technical pair, and both are sound.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Woof)
 - **OWNER RULING:**
 
 ### byword — 8 uses
@@ -5311,6 +5479,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** proverb
 - reason: KEEP. "Byword" is a stable, transparent EModE compound with no anachronism, and "proverb" is already whitelisted and already sitting beside it in every occurrence — collapsing the doublet by replacing one half would flatten a deliberate rhetorical pairing (astonishment, proverb, byword) rather than fix any defect.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Byword)
 - **OWNER RULING:**
 
 ### case — 8 uses
@@ -5338,6 +5507,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wife
 - reason: KEEP. Both witnesses independently confirm the word or its direct cognate, and "wife" — though whitelisted — would flatten Song of Solomon's deliberately elevated bridal-address register into a flat marital-status noun.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Spouse)
 - **OWNER RULING:**
 
 ### straitened — 8 uses
@@ -5347,6 +5517,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** in distress
 - reason: KEEP. Wycliffe's cognate "streit" traces the word-family back through Middle English, strong Axis 1 evidence, and the constriction-image is timeless; Geneva's "restrained" is a fair alternate but is not itself whitelisted, so no clean improvement is available.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Straiten / Straitened / Straiteneth)
 - **OWNER RULING:**
 
 ### sunder — 8 uses
@@ -5374,6 +5545,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** trodden
 - reason: KEEP. Geneva's near-identical spelling and Wycliffe's cognate both confirm the word-family; "trodden" is whitelisted but is the wrong grammatical form (past participle vs. simple past) to substitute cleanly.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Trode)
 - **OWNER RULING:**
 
 ### unlearned — 8 uses
@@ -5419,6 +5591,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** used
 - reason: KEEP. Geneva's identical word is direct attestation, and the "habitually goring ox" legal category is remarkably well-attested across ancient Near Eastern law codes, making this one of the more securely source-era-grounded words in the batch.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wont)
 - **OWNER RULING:**
 
 ### zealous — 8 uses
@@ -5437,6 +5610,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** brought low
 - reason: Verbatim two-witness agreement (Geneva and Tyndale) at Genesis 8:3; both independently vary at 8:5/8:8, a translation-choice pattern, not disagreement. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Abated)
 - **OWNER RULING:**
 
 ### ability — 7 uses
@@ -5473,6 +5647,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** before
 - reason: Verbatim Geneva agreement at every occurrence. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Afore)
 - **OWNER RULING:**
 
 ### aileth — 7 uses
@@ -5500,6 +5675,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** astonished
 - reason: Verbatim Geneva agreement at every occurrence — this is the older sister-spelling of a still-whitelisted word, not a foreign intrusion. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Astonied)
 - **OWNER RULING:**
 
 ### attentive — 7 uses
@@ -5518,6 +5694,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** coast
 - reason: Three-way translation variance (KJV "bay," Geneva "point," Wycliffe "arm") for the identical landform shows this was a genuinely difficult geographic term for every period translator — not evidence any one choice is wrong. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Bay)
 - **OWNER RULING:**
 
 ### beforehand — 7 uses
@@ -5536,6 +5713,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** deceive
 - reason: Verbatim Geneva agreement at all five occurrences is a strong signal, even where Tyndale/Wycliffe independently prefer the plainer "deceive/disseyued." KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Beguile / Beguiled / Beguiling)
 - **OWNER RULING:**
 
 ### beheaded — 7 uses
@@ -5554,6 +5732,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** mourn
 - reason: Geneva's own five different paraphrases show no fixed period equivalent existed either — "bemoan" is a legitimate, well-attested EModE word for this sense, not a corruption. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Bemoan)
 - **OWNER RULING:**
 
 ### benefit — 7 uses
@@ -5626,6 +5805,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** word
 - reason: Verbatim agreement from both surviving witnesses at multiple occurrences (Geneva at three of five, Tyndale independently at Luke 24:17). KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Communications)
 - **OWNER RULING:**
 
 ### complain — 7 uses
@@ -5662,6 +5842,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** pleasant
 - reason: Verbatim agreement from both surviving witnesses at multiple occurrences (Geneva at three of six, Tyndale independently at Revelation 18:14). KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Dainty / dainties)
 - **OWNER RULING:**
 
 ### daubed — 7 uses
@@ -5671,6 +5852,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** clay
 - reason: Verbatim Geneva agreement at every occurrence. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Daub / Daubed)
 - **OWNER RULING:**
 
 ### decked — 7 uses
@@ -5680,6 +5862,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** adorned
 - reason: Verbatim Geneva agreement (spelling aside) at every occurrence. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Deck / Decked / Deckedst)
 - **OWNER RULING:**
 
 ### disputing — 7 uses
@@ -5797,6 +5980,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** bright
 - reason: Verbatim Geneva agreement at two of three occurrences, with Wycliffe's independent simile confirming the same flashing-light referent at the third. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Glitter/Glittering)
 - **OWNER RULING:**
 
 ### haughtiness — 7 uses
@@ -5860,6 +6044,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** born
 - reason: Verbatim Geneva agreement (spelling aside) at every occurrence. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Nativity)
 - **OWNER RULING:**
 
 ### oftentimes — 7 uses
@@ -5878,6 +6063,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** tabernacle
 - reason: Verbatim Geneva agreement at three of six occurrences, with the others showing close synonyms ("tabernacle," "tents") for the same class of structure. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pavilion)
 - **OWNER RULING:**
 
 ### pen — 7 uses
@@ -5887,6 +6073,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** write
 - reason: Verbatim Geneva agreement at Job 19:24, the clearest occurrence (a literal iron engraving tool, not a reed pen). KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pen)
 - **OWNER RULING:**
 
 ### pence — 7 uses
@@ -5896,6 +6083,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shekel
 - reason: Unanimous agreement from both surviving witnesses at every occurrence. KEEP — flag for Capability-4/Axis-2 note: "pence" is an English-currency loan-rendering of the Roman denarius, sound as period translation convention (every witness including modern versions does the same), not a source-era anachronism in itself since it names no physical object, only a value-equivalent.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pence)
 - **OWNER RULING:**
 
 ### perfectly — 7 uses
@@ -5914,6 +6102,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** rest
 - reason: KEEP. "Pillow" is Geneva's own word at I Sam 19:13, so it is doubly attested for the household-bedding sense; Genesis 28:11/18's stone "pillows" (a headrest, not stuffed bedding) is a distinct sense already well covered by KJV usage elsewhere. Wycliffe's total absence of "pillow" is a translation choice (goatskin, not a substitute noun) rather than evidence against the word.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pillow/s)
 - **OWNER RULING:**
 
 ### pomp — 7 uses
@@ -5923,6 +6112,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** glory
 - reason: KEEP. Geneva's identical spelling at the same verse is about as strong an attestation as Axis 1 evidence gets, and "pomp" names something entirely at home in the source era (royal and priestly display); "glory" already occupies the parallel slot in Isa 5:14 so swapping to it would flatten a deliberate doublet.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pomp)
 - **OWNER RULING:**
 
 ### pricks — 7 uses
@@ -5932,6 +6122,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** goads
 - reason: KEEP. "Pricks" is Geneva's own word at Num 33:55 and the correct rendering of the fixed Greek proverb at Acts 9:5 (κέντρα); "goads" would serve Ecclesiastes and Acts well but would sit oddly for the "thorns in your sides" image at Numbers, where sharp points generally (not specifically ox-goads) is the sense — the word standing covers all three better than any single swap.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pricks / Pricked / Pricking)
 - **OWNER RULING:**
 
 ### purse — 7 uses
@@ -5941,6 +6132,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** scrip
 - reason: KEEP. Both witnesses agree verbatim on "purse," and "scrip" — already whitelisted and already doing separate duty in the same verses for the travelling-bag — would collapse a meaningful distinction the text itself preserves if swapped in for "purse."
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Purse)
 - **OWNER RULING:**
 
 ### quite — 7 uses
@@ -5959,6 +6151,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** evil speaking
 - reason: This group hides a genuine two-sense split flagged by Capability 2's polysemy rule — Deut 22:8's "railing" (a roof-parapet, Hebrew מַעֲקֶה ma'aqeh, a low wall) is Axis 2 suspect as "railing" (which suggests a wooden rail, a later building technology) but Axis 2 sound as "battlement," while I Peter 3:9/II Peter 2:11/I Timothy 6:4's "railing" (verbal abuse) is sound as it stands. Recommend REPLACE for the Deuteronomy occurrence only, KEEP for the three epistle occurrences — flagging for owner review since this is a mixed verdict within one inflection group.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rail / Railed / Railer / Railing/s)
 - **OWNER RULING:**
 
 ### ravished — 7 uses
@@ -6013,6 +6206,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** drunkard
 - reason: KEEP. Geneva's "riotour" is direct period attestation of the same word-family, and "drunkard" — already whitelisted and already paired alongside "riotous" in the same verses — would collapse a meaningful distinction (general dissolute excess vs. specifically drink) that the text deliberately keeps separate by naming both vices.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Riot / Rioting / Riotous)
 - **OWNER RULING:**
 
 ### robbery — 7 uses
@@ -6022,6 +6216,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wrong
 - reason: KEEP. Geneva's identical word is direct attestation and the concept (unjust seizure of goods) is as old as law itself; no whitelisted synonym improves on it without losing precision.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Robbery)
 - **OWNER RULING:**
 
 ### secure — 7 uses
@@ -6103,6 +6298,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** number
 - reason: KEEP, noting the polysemy: "tale" = count (Exodus, I Samuel) and "tale" = story/rumor (Ezekiel, Luke) are historically the same root splitting into two senses, both fully period-attested; Geneva's "nomber" at Exodus 5:8 is a legitimate alternative for the counting sense specifically, but the word standing is correct for both senses as written and no single swap would serve both.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Tale)
 - **OWNER RULING:**
 
 ### unprofitable — 7 uses
@@ -6121,6 +6317,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** pool
 - reason: KEEP. Geneva's identical word is direct attestation, and the mourning-in-ashes gesture is a well-documented ancient Near Eastern custom, so both axes are sound.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wallow)
 - **OWNER RULING:**
 
 ### wedding — 7 uses
@@ -6202,6 +6399,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** prove
 - reason: Darby's "essayed" is the identical word in its other period spelling, and ASV/Webster confirm "assay" directly — thoroughly attested; the word's modern narrowing to metals is the Capability-4 gloss case, not a corruption.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Assayed / Assaying)
 - **OWNER RULING:**
 
 ### assurance — 6 uses
@@ -6229,6 +6427,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** hair
 - reason: Webster's exact match anchors the base text; "pillow" (ASV) is a plainer, equally valid period-adjacent alternative but not a needed correction — no anachronism either way.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Bolster)
 - **OWNER RULING:**
 
 ### bountifully — 6 uses
@@ -6256,6 +6455,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** quiet
 - reason: Webster's exact match anchors the base text; the ASV/YLT/Darby paraphrases confirm the same underlying sense (untroubled security) without contradicting it. Flag for glossary given how completely the modern reader would misread "careless" as blameworthy negligence rather than untroubled peace.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Careless)
 - **OWNER RULING:**
 
 ### carriage — 6 uses
@@ -6265,6 +6465,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** goods
 - reason: The Capability-4 semantic-shift case (the word survives but its dominant modern sense — a wheeled vehicle or bodily posture — has completely replaced the 1611 "baggage" sense); Webster's own internal variance ("furniture" at Jdg 18:21 vs. "carriages" at Isa 46:1) shows even period lexicographers found the word's range broad, not that it is wrong.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Carriage)
 - **OWNER RULING:**
 
 ### chastisement — 6 uses
@@ -6292,6 +6493,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** impart
 - reason: Wycliffe's 1382 cognate plus three exact modern matches span the whole Middle-to-Early-Modern period; flag for glossary given the total modern sense-shift from "share" to "converse," but the word itself is soundly attested.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Communicate)
 - **OWNER RULING:**
 
 ### conceit — 6 uses
@@ -6310,6 +6512,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** counsel
 - reason: Four-witness near-unanimity (Darby, ASV, DRC, and the base text) — one of the more solidly attested words in this batch.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Conferred)
 - **OWNER RULING:**
 
 ### constrained — 6 uses
@@ -6319,6 +6522,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** forced
 - reason: Three-witness exact agreement — solidly attested, no anachronism on either axis.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Constrain / Constrained / Constraineth)
 - **OWNER RULING:**
 
 ### continuance — 6 uses
@@ -6328,6 +6532,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** long
 - reason: Two exact matches (ASV, Webster) on a fixed covenant-curse idiom; solidly attested.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Continuance)
 - **OWNER RULING:**
 
 ### dare — 6 uses
@@ -6346,6 +6551,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** plead
 - reason: Broad multi-witness agreement including Darby's exact match; the word's modern narrowing to formal discussion (rather than any dispute/plea) is a gloss-worthy shift, not a corruption.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Debate/s)
 - **OWNER RULING:**
 
 ### delicate — 6 uses
@@ -6355,6 +6561,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** weak
 - reason: Three-witness exact agreement plus a Wycliffe cognate ("delicat") reaching to 1382 — thoroughly attested.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Delicate)
 - **OWNER RULING:**
 
 ### desirous — 6 uses
@@ -6364,6 +6571,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** covet
 - reason: Multiple witnesses (Darby, ASV, Webster) agree on the exact word; unremarkable, safe formation.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Desirous)
 - **OWNER RULING:**
 
 ### dignity — 6 uses
@@ -6373,6 +6581,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** honour
 - reason: Three-witness exact agreement — solidly attested, unremarkable vocabulary.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Dignities)
 - **OWNER RULING:**
 
 ### discouraged — 6 uses
@@ -6436,6 +6645,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sign
 - reason: Though the witnesses queried mostly paraphrase, "ensample" is independently well documented as a period word-form (Chaucer, Tyndale's NT use it), and the base text's spelling is the historically correct archaic doublet, not a corruption of "example."
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ensample/s)
 - **OWNER RULING:**
 
 ### expert — 6 uses
@@ -6454,6 +6664,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** declared
 - reason: The paraphrasing witnesses (ASV "declared," Darby "explained") name the same act of interpretation as "expounded," just with a plainer synonym; not a contradiction, and Luke 24:27's use is a well-known post-resurrection scene worth preserving unchanged.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Expound / Expounded)
 - **OWNER RULING:**
 
 ### expressed — 6 uses
@@ -6499,6 +6710,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** made bright
 - reason: Attested in Geneva at every occurrence bar the earthen-pot verse (where Geneva itself swaps to "scoured," its own synonym); genuine EModE metalworking term. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Furbished)
 - **OWNER RULING:**
 
 ### furious — 6 uses
@@ -6526,6 +6738,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** ruler of the house
 - reason: Tyndale's identical two-word form at both Gospel occurrences, and Geneva's own use of it at Matthew 24:43, confirm this is squarely period vocabulary, not a corruption. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Goodman)
 - **OWNER RULING:**
 
 ### grate — 6 uses
@@ -6571,6 +6784,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** by chance
 - reason: A genuine period adverb even where Geneva chooses to omit it rather than translate it differently — omission is not counter-attestation. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Haply)
 - **OWNER RULING:**
 
 ### horrible — 6 uses
@@ -6580,6 +6794,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** fearful
 - reason: Verbatim Geneva agreement at two of three verses, with the third showing Geneva's own synonym substitution rather than any sign the word is wrong. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Horrible)
 - **OWNER RULING:**
 
 ### informed — 6 uses
@@ -6598,6 +6813,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** in perils of waters
 - reason: Two independent witnesses (Geneva verbatim, Wycliffe by synonym) confirm both the word and the sense are sound EModE. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Jeopardy)
 - **OWNER RULING:**
 
 ### lady — 6 uses
@@ -6607,6 +6823,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** queen
 - reason: Verbatim Geneva agreement at four of five verses, with the fifth showing only a synonym choice, not disagreement. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ladies; Lady)
 - **OWNER RULING:**
 
 ### liberal — 6 uses
@@ -6616,6 +6833,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** noble
 - reason: Verbatim Geneva agreement (spelling aside) at every occurrence, including the repeated internal wordplay at Isaiah 32:8. KEEP — though flag for Capability-4 glossing, since "liberal" is the batch's clearest modern-meaning-drift risk.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Liberal)
 - **OWNER RULING:**
 
 ### lucre — 6 uses
@@ -6625,6 +6843,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** gain
 - reason: Verbatim Geneva agreement at all four occurrences, including the idiom's exact wording. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Lucre)
 - **OWNER RULING:**
 
 ### mankind — 6 uses
@@ -6670,6 +6889,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** measure
 - reason: Geneva consistently prefers its own cognate "measure" at every occurrence, which is worth flagging to the owner as a real alternate, but "mete" is the older/terser form of the very same Germanic root, not a foreign intrusion — Wycliffe's "metiden" at Exodus 16:18 confirms the same root reaching back to Middle English. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Mete / Meted)
 - **OWNER RULING:**
 
 ### navy — 6 uses
@@ -6679,6 +6899,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** ships
 - reason: Verbatim Geneva agreement at every occurrence; Wycliffe's singular is a translation variant, not counter-evidence against the word. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Navy)
 - **OWNER RULING:**
 
 ### neglect — 6 uses
@@ -6697,6 +6918,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** chamber
 - reason: Wycliffe-to-Geneva-to-KJV continuity across three centuries is about as strong a period signal as exists in this batch. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Parlour/s)
 - **OWNER RULING:**
 
 ### practise — 6 uses
@@ -6724,6 +6946,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** toward
 - reason: Verbatim Geneva agreement at every occurrence. KEEP — though flag for Capability-4 glossing, since "prospect" has shifted furthest in ordinary modern use toward "future expectation."
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Prospect)
 - **OWNER RULING:**
 
 ### quit — 6 uses
@@ -6760,6 +6983,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** host
 - reason: A genuine, unambiguous EModE military compound; Geneva's periphrastic agreement confirms the sense even where it avoids the single compound word. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rereward)
 - **OWNER RULING:**
 
 ### restitution — 6 uses
@@ -6859,6 +7083,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** turn
 - reason: Continuous Wycliffe-to-Geneva-to-KJV attestation of the identical participle at every occurrence. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Sodden)
 - **OWNER RULING:**
 
 ### specially — 6 uses
@@ -6895,6 +7120,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** writing
 - reason: This is a real Capability-4 semantic-split case (architectural "storey" vs. narrative "story," now spelled differently in modern English but identical in 1611); both period witnesses independently prefer synonyms at every verse, which is useful context for the owner but does not make the base word wrong. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Stories)
 - **OWNER RULING:**
 
 ### subtilty — 6 uses
@@ -6904,6 +7130,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** craft
 - reason: Verbatim two-witness agreement (Geneva and Tyndale, spelling aside) at Genesis 27:35, plus Geneva's verbatim use at II Kings 10:19. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Subtil / Subtilly / Subtilty)
 - **OWNER RULING:**
 
 ### target — 6 uses
@@ -6913,6 +7140,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shield
 - reason: Geneva's own verbatim use of "targets" at three of six occurrences (the Solomon/Asa verses) confirms the word soundly, even though Geneva prefers "shield" at the Goliath verse — a translation choice for the same class of object. KEEP — flag for Capability-4 glossing, since the modern sense ("object aimed at") is a false-friend risk.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Target/s)
 - **OWNER RULING:**
 
 ### temper — 6 uses
@@ -6922,6 +7150,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** anoint
 - reason: Geneva's independent synonym at the two dough-verses (worth noting as a Capability-4 observation — "temper" the verb and "knead" nearly overlap but are not identical) is balanced by Geneva's own verbatim use of "tempered" at all three anointing-oil verses. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Temper / Tempered / Temperance / Temperate)
 - **OWNER RULING:**
 
 ### tolerable — 6 uses
@@ -6967,6 +7196,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** merchandise
 - reason: Geneva's verbatim agreement (spelling aside) at two of three verses, with the third showing only a synonym choice. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ware/s)
 - **OWNER RULING:**
 
 ### wellbeloved — 6 uses
@@ -6985,6 +7215,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wast
 - reason: This is precisely the thou-grammar the base text must preserve; Geneva's and Tyndale's divergence to indicative forms at two of three verses reflects looser period grammar in those translations, not evidence against KJV's more careful subjunctive. KEEP — this word should not be touched by any generic "wert → wast" pass, since the mood is load-bearing.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wert)
 - **OWNER RULING:**
 
 ### wet — 6 uses
@@ -7003,6 +7234,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** change
 - reason: Continuous Wycliffe-to-Geneva-to-KJV attestation at Deuteronomy 32:41 (spelling aside); Geneva's own synonym at I Samuel 13 is a translation choice for the identical referent. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Whet)
 - **OWNER RULING:**
 
 ### woollen — 6 uses
@@ -7021,6 +7253,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** thither
 - reason: Verbatim two-witness agreement (Geneva and Tyndale) at Genesis 22:5, the passage's best-known occurrence (the binding of Isaac). KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Yonder)
 - **OWNER RULING:**
 
 ### adoption — 5 uses
@@ -7048,6 +7281,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** pass
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Alloweth)
 - **OWNER RULING:**
 
 ### aright — 5 uses
@@ -7075,6 +7309,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** thirsty
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Athirst)
 - **OWNER RULING:**
 
 ### attire — 5 uses
@@ -7138,6 +7373,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** early
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Betimes)
 - **OWNER RULING:**
 
 ### bit — 5 uses
@@ -7201,6 +7437,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** strive
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Chide)
 - **OWNER RULING:**
 
 ### circuit — 5 uses
@@ -7237,6 +7474,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** beauty
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Comeliness)
 - **OWNER RULING:**
 
 ### comfortably — 5 uses
@@ -7354,6 +7592,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** with evil
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Despite / Despiteful / Despitefully)
 - **OWNER RULING:**
 
 ### disallowed — 5 uses
@@ -7363,6 +7602,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** refused
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Disallowed)
 - **OWNER RULING:**
 
 ### displeasure — 5 uses
@@ -7372,6 +7612,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wrath
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Displeasure)
 - **OWNER RULING:**
 
 ### disputed — 5 uses
@@ -7399,6 +7640,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** place
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Draught)
 - **OWNER RULING:**
 
 ### endued — 5 uses
@@ -7408,6 +7650,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** given
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Endued)
 - **OWNER RULING:**
 
 ### espoused — 5 uses
@@ -7417,6 +7660,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** betrothed
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Espoused)
 - **OWNER RULING:**
 
 ### estranged — 5 uses
@@ -7435,6 +7679,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** day
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Eventide)
 - **OWNER RULING:**
 
 ### evident — 5 uses
@@ -7480,6 +7725,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** people
 - reason: Genuine period collective noun, still in living (if literary) use; "people" is the only real whitelisted alternative and it loses the familiar, kin-like register Esau's line needs. KEEP.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Folk/s)
 - **OWNER RULING:**
 
 ### fuel — 5 uses
@@ -7489,6 +7735,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wood
 - reason: Near-unanimous witness agreement is itself the finding — this is solid EModE vocabulary naming an ordinary, source-era-plausible referent.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Fuel)
 - **OWNER RULING:**
 
 ### furniture — 5 uses
@@ -7498,6 +7745,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** vessels
 - reason: ASV and Webster's independent agreement shows "furniture" was still the natural period word for tabernacle equipage; only the modern reader's ear, not the 1611 referent, has shifted.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Furniture)
 - **OWNER RULING:**
 
 ### gin — 5 uses
@@ -7507,6 +7755,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** snare
 - reason: Strong witness agreement, genuine period word, and the trap referent is source-era sound. The only risk is a present-day reader's false association with the drink, which is a reading hazard, not a textual defect.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Gin/s)
 - **OWNER RULING:**
 
 ### gloriously — 5 uses
@@ -7534,6 +7783,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** olive
 - reason: Geneva and Wycliffe's independent agreement on the exact spelling "graffed"/"graffid" is strong period attestation; there is no whitelisted verb that carries the specific horticultural sense.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Graff / Graffed)
 - **OWNER RULING:**
 
 ### gross — 5 uses
@@ -7543,6 +7793,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** fat
 - reason: Split evidence: "gross darkness" is solid; "gross...as fat" is a minority reading against the witness field. KEEP overall, but the Psalms occurrence deserves a second look outside this pass.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Gross)
 - **OWNER RULING:**
 
 ### gushed — 5 uses
@@ -7633,6 +7884,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sharp
 - reason: Every witness agrees on the noun; several add the flint detail the base text omits. Not a corruption — flint knives and "sharp knives" name the same object — but worth noting if the project ever wants added precision.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Knives)
 - **OWNER RULING:**
 
 ### landmark — 5 uses
@@ -7660,6 +7912,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** strong
 - reason: Four of five witnesses agree exactly; "strong" is a fine period alternative Darby himself used, but it is a minority reading.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Lively)
 - **OWNER RULING:**
 
 ### lovely — 5 uses
@@ -7750,6 +8003,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** cast
 - reason: This is the Capability-4 semantic-shift case (like "let," "prevent") rather than a corruption — the word is period-sound and the referent unchanged; only the modern English cognate has drifted to mean vehicle-riders. KEEP, but flag for a glossary note given how completely opaque the modern sense-collision is.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Passengers)
 - **OWNER RULING:**
 
 ### peeled — 5 uses
@@ -7759,6 +8013,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** olive
 - reason: Complete cross-witness cognate agreement (peeled/pilled are the same word, spelling variants); no corruption signature.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Peeled)
 - **OWNER RULING:**
 
 ### potsherd — 5 uses
@@ -7768,6 +8023,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** clay
 - reason: Four-witness unanimity on an ordinary, well-attested compound word naming an unambiguous, common ancient artifact — no cause for concern on either axis.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Potsherd)
 - **OWNER RULING:**
 
 ### preferred — 5 uses
@@ -7786,6 +8042,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** time
 - reason: No witness contradicts the sense, only the exact word choice; "presently" is period-sound vocabulary whose meaning has since inverted in ordinary modern usage — a glossary note, not a corruption.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Presently)
 - **OWNER RULING:**
 
 ### presidents — 5 uses
@@ -7795,6 +8052,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** elder
 - reason: The word only reads oddly to a modern American ear; period usage and the Achaemenid administrative referent are both sound. No corruption signature.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Presidents)
 - **OWNER RULING:**
 
 ### print — 5 uses
@@ -7804,6 +8062,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sign
 - reason: The Capability-4 semantic-narrowing case (the word survives but its dominant modern sense has narrowed to typography); the 1611 sense is broader and correct here.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Printed)
 - **OWNER RULING:**
 
 ### process — 5 uses
@@ -7813,6 +8072,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** time
 - reason: Four-witness unanimity on a fixed idiomatic phrase; textbook example of genuine period vocabulary that has since acquired an unrelated dominant modern sense.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Process)
 - **OWNER RULING:**
 
 ### pureness — 5 uses
@@ -7831,6 +8091,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** present
 - reason: Webster's exact agreement with the base text plus the word's transparent Latinate etymology argue for keeping it; the other witnesses paraphrase the same sense without contradicting it.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rate)
 - **OWNER RULING:**
 
 ### remedy — 5 uses
@@ -7858,6 +8119,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** fornication
 - reason: Two-witness confirmation plus the word's well-known KJV usage elsewhere (Luke 15:13) make this safe; flag for glossary given how completely the modern sense has replaced the older one.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Riot / Rioting / Riotous)
 - **OWNER RULING:**
 
 ### rot — 5 uses
@@ -7948,6 +8210,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** cast
 - reason: Geneva's exact match confirms the spelling was live in 1599; the modern-spelling witnesses (Darby/ASV/YLT/DRC) agree on the same underlying verb, just orthographically modernized — no real disagreement, only spelling.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Spue / Spued)
 - **OWNER RULING:**
 
 ### steep — 5 uses
@@ -7966,6 +8229,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** distress
 - reason: Darby's exact match confirms the word is period-sound; "distress" is a fine, already-whitelisted alternative if the owner prefers broader legibility, but not required by any corruption signal.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Straitness)
 - **OWNER RULING:**
 
 ### succour — 5 uses
@@ -7975,6 +8239,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** help
 - reason: DRC's independent Latin-tradition translation agreeing with Webster is solid cross-tradition support; "help" is a fine plain alternative but not a needed correction.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Succour / Succoured / Succourer)
 - **OWNER RULING:**
 
 ### sweetness — 5 uses
@@ -8074,6 +8339,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wholly
 - reason: Three-witness agreement on the exact idiom, and Darby's own period-attested "wholly" confirms the sense without requiring a swap — the idiom is textbook KJV cadence worth preserving as-is.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Whit)
 - **OWNER RULING:**
 
 ### wonderfully — 5 uses
@@ -8092,6 +8358,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** plead
 - reason: Two-witness agreement plus a strong, transparent Old English root; the paraphrasing witnesses agree on the same underlying sense (perverting justice), not a different one.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wrest)
 - **OWNER RULING:**
 
 ### wrung — 5 uses
@@ -8119,6 +8386,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** evil
 - reason: Confirmed at the most load-bearing occurrence (the penitent thief), and "evil" would flatten the idiom's specific sense of "wrongly/improperly" rather than "wickedly" in the absolute.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Amiss)
 - **OWNER RULING:**
 
 ### apostleship — 4 uses
@@ -8200,6 +8468,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** vessel
 - reason: Following the project's own bottles/wineskins precedent, I flag this pair for the anomaly workflow: EModE "barrel" could mean any cask-shaped container including a large earthen jar (the word's semantic range was broader in 1611 than today), so the split may be milder than bottles/wineskins, but it is the same signature and belongs in front of the owner rather than silently kept.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Barrel/s)
 - **OWNER RULING:**
 
 ### beautify — 4 uses
@@ -8245,6 +8514,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** spoil
 - reason: Majority Geneva attestation, with the base text's own habit of pairing "booty" and "spoil" (Jer 49:32, Zeph 1:13) showing the translators used them as a stock word-pair rather than needing correction.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Booty / Booties)
 - **OWNER RULING:**
 
 ### bribes — 4 uses
@@ -8272,6 +8542,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** trembling
 - reason: Majority Geneva/Tyndale attestation; note for future glossing passes that "carefulness" in 1611 English means "anxiety/full of care," not modern "carefulness" (caution) — a meaning-shift worth flagging in any future modern-gloss pass, though it is not evidence of corruption here.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Carefulness)
 - **OWNER RULING:**
 
 ### carnally — 4 uses
@@ -8299,6 +8570,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** covered
 - reason: Full attestation across all three verses (Geneva's "sieled"/"feeling" are simply period spelling variants of the same headword); the base text's spelling "cieled" is the modernized-1769-style form of this same word, per the project's documented spelling convention.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Cieled)
 - **OWNER RULING:**
 
 ### communion — 4 uses
@@ -8326,6 +8598,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shut
 - reason: Confirmed at Acts 21:25 in Tyndale; the theological uses in Romans/Galatians are Pauline argument-vocabulary that "shut up" (the phrase several witnesses use) renders more literally but "conclude" renders more idiomatically for an English reader — a matter of register, not corruption.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Concluded)
 - **OWNER RULING:**
 
 ### conduit — 4 uses
@@ -8344,6 +8617,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** despised
 - reason: Majority Geneva attestation, and Geneva's own choice of "despised" at Ps 107:11 shows the two words were already treated as interchangeable synonyms in period English — a finding, not a problem, since both are equally period-sound.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Contemn / Contemned / Contemneth)
 - **OWNER RULING:**
 
 ### contemptible — 4 uses
@@ -8353,6 +8627,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** vile
 - reason: Geneva's consistent paraphrase ("not to be regarded," "despised and vile") across all three occurrences is worth noting for the anomaly workflow, but since Malachi's Hebrew concept (bāzâh, "to despise/hold in contempt") is stably rendered by either "contemptible" or "vile," this reads as ordinary translator variation, not corruption.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Contemptible)
 - **OWNER RULING:**
 
 ### convinced — 4 uses
@@ -8407,6 +8682,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** softly
 - reason: Majority Geneva attestation, with "pleasantly" at 1 Sam 15:32 showing a live period alternative for the same underlying Hebrew idea (walking daintily/cheerfully); both are equally period-sound, so no swap is indicated.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Delicately)
 - **OWNER RULING:**
 
 ### denieth — 4 uses
@@ -8488,6 +8764,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** earthly
 - reason: Full Tyndale attestation across all three occurrences; note Geneva's own spelling drifts toward "earthly," making this pair a genuine period near-synonym pair worth flagging — but the base text's "earthy" preserves Tyndale's more precise "made of earth/dust" sense that Paul's argument (v. 47, "of the earth, earthy") specifically needs.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Earthy)
 - **OWNER RULING:**
 
 ### edification — 4 uses
@@ -8506,6 +8783,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** high
 - reason: Geneva's consistent divergence is worth noting, but it appears to be a stylistic choice to avoid the base text's own internal repetition ("built... an eminent place, and hast made thee an high place") rather than evidence the word is wrong; both terms describe the same class of object.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Eminent)
 - **OWNER RULING:**
 
 ### entangled — 4 uses
@@ -8542,6 +8820,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** trial
 - reason: Direct Wycliffe attestation (a Middle-English-to-EModE unbroken lineage) plus Geneva agreement at Romans 5:4; the word's sense (knowledge gained through undergoing something) is stable from Wycliffe through the AV to today, an unusually clean case.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Experience)
 - **OWNER RULING:**
 
 ### extol — 4 uses
@@ -8560,6 +8839,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** peace
 - reason: Full Tyndale attestation across all three occurrences (Tyndale's "fare well" as two words is exactly the base text's "farewell" fused); this is about as clean an attestation chain as the batch offers.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Farewell)
 - **OWNER RULING:**
 
 ### favourable — 4 uses
@@ -8596,6 +8876,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** strip
 - reason: Full unanimous Geneva attestation across all four occurrences; "strip" is the nearest whitelisted near-synonym and is close, but "flay" specifically names removing skin (not just garments), which is precisely the literal Levitical procedure and the graphic point of Micah's metaphor.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Flay / Flayed)
 - **OWNER RULING:**
 
 ### fleshly — 4 uses
@@ -8641,6 +8922,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** chambers
 - reason: Song of Solomon 7:5's "galleries" is flagged here as the harder case — Geneva's "tyed in the rafters" and modern translations ("tresses," "ringlets") diverge wildly, suggesting the underlying Hebrew word's sense is genuinely uncertain rather than that the AV's "galleries" is a corruption; this is a case for the anomaly workflow's lexicon-dating check, not a swap.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Gallery / Galleries)
 - **OWNER RULING:**
 
 ### girt — 4 uses
@@ -8650,6 +8932,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** clothed
 - reason: Full unanimous Geneva attestation across all three occurrences, plus direct Wycliffe cognate; "girt" is simply the older strong-verb past-participle form of "gird/girded," both period-sound, so no swap is indicated — only a spelling/inflection matter, not a different word.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Girt)
 - **OWNER RULING:**
 
 ### graciously — 4 uses
@@ -8677,6 +8960,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** spotted
 - reason: Though Tyndale uses different color-vocabulary at these particular verses, "grisled"/"grizzled" is an authentic period English word (attested in Zechariah 6:3 within this very group, describing horses) and the referent (patterned livestock coloring, deliberately bred) is a specific, textually important detail in the Jacob-Laban narrative; ASV's "grizzled" confirms the word's continued currency.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Grisled)
 - **OWNER RULING:**
 
 ### grudge — 4 uses
@@ -8704,6 +8988,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** old
 - reason: Full unanimous Geneva attestation across all three occurrences, plus direct Wycliffe cognates going back to Middle English; an unusually well-attested word on both period axes.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Hoar/Hoary)
 - **OWNER RULING:**
 
 ### hoary — 4 uses
@@ -8713,6 +8998,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** old
 - reason: Direct Geneva attestation at the clearest occurrence (Lev 19:32's command to honor the aged); the Job occurrences are more poetically difficult but describe the same visual quality (whiteness suggesting age/frost), a stable EModE sense.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Hoar/Hoary)
 - **OWNER RULING:**
 
 ### honestly — 4 uses
@@ -8731,6 +9017,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** trembling
 - reason: Geneva's variation across all three verses shows "horror" and its synonyms were freely interchanged in period English for intense dread; the base text's choice of the stronger noun "horror" (rather than plain "fear") is a defensible intensifying choice, not an error.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Horror)
 - **OWNER RULING:**
 
 ### hospitality — 4 uses
@@ -8758,6 +9045,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sick
 - reason: Direct Geneva agreement at Acts 4:9; note "impotent" is another genuine false-friend case (1611: powerless/disabled generally; today: narrowed to sexual dysfunction) worth flagging for the glossing capability, though the base text's use is period-correct and precise, not an error.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Impotent)
 - **OWNER RULING:**
 
 ### inferior — 4 uses
@@ -8785,6 +9073,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** writing
 - reason: Full unanimous Geneva attestation across all three occurrences and an unusually clean Axis-2 case (ink is attested ANE writing technology from at least the second millennium BC onward); this is a model KEEP with no whitelisted alternative because the word names a specific substance no whitelisted synonym covers.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ink)
 - **OWNER RULING:**
 
 ### inquisition — 4 uses
@@ -8794,6 +9083,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** search
 - reason: Full unanimous Geneva attestation across all three occurrences; worth flagging for the glossing capability that "inquisition" in 1611 carries no connotation of the later religious-persecution institution — a meaning the word acquired only after the AV was made, making this another genuine false-friend case for modern readers, though period-correct as it stands.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Inquisition)
 - **OWNER RULING:**
 
 ### inventions — 4 uses
@@ -8803,6 +9093,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** devices
 - reason: Full unanimous Geneva attestation across all three occurrences; "devices" is the nearest whitelisted synonym and is very close, but "inventions" is Geneva's own settled choice and its 1611 sense (schemes/contrivances, not gadgets) is worth flagging for the glossing capability as another word whose meaning has narrowed since 1611.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Inventions)
 - **OWNER RULING:**
 
 ### kick — 4 uses
@@ -8821,6 +9112,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** finish
 - reason: Full Geneva attestation across all four occurrences confirms the word family was settled by 1599; the polysemy (competitive victory vs. physical overpowering) is a genuine single-headword-multiple-sense case, not evidence of corruption, and both senses are independently source-era sound.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Mastery / Masteries)
 - **OWNER RULING:**
 
 ### miserable — 4 uses
@@ -8839,6 +9131,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** work
 - reason: Majority Geneva attestation, with Isaiah 5:12's own internal pairing of "work" and "operation" for the same underlying Hebrew showing the AV translators regarded them as natural synonyms, not needing correction.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Operation/s)
 - **OWNER RULING:**
 
 ### opinion — 4 uses
@@ -8866,6 +9159,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** breasts
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Paps)
 - **OWNER RULING:**
 
 ### penny — 4 uses
@@ -8875,6 +9169,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** money
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Penny)
 - **OWNER RULING:**
 
 ### perhaps — 4 uses
@@ -8911,6 +9206,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** merciful
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pitiful)
 - **OWNER RULING:**
 
 ### plentiful — 4 uses
@@ -8929,6 +9225,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** hidden
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Privy)
 - **OWNER RULING:**
 
 ### profession — 4 uses
@@ -8947,6 +9244,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** own
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Proper)
 - **OWNER RULING:**
 
 ### race — 4 uses
@@ -8974,6 +9272,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** declared
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rehearse/d)
 - **OWNER RULING:**
 
 ### ruddy — 4 uses
@@ -9037,6 +9336,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** fall
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Slide)
 - **OWNER RULING:**
 
 ### sometime — 4 uses
@@ -9055,6 +9355,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** bread
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Sop)
 - **OWNER RULING:**
 
 ### soundness — 4 uses
@@ -9073,6 +9374,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** coals
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Spark / Sparks / Sparkled)
 - **OWNER RULING:**
 
 ### stank — 4 uses
@@ -9145,6 +9447,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** apparel
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Suits)
 - **OWNER RULING:**
 
 ### sup — 4 uses
@@ -9163,6 +9466,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** writing
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Superscription)
 - **OWNER RULING:**
 
 ### tempestuous — 4 uses
@@ -9226,6 +9530,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** merchandise
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Traffick / Traffickers)
 - **OWNER RULING:**
 
 ### train — 4 uses
@@ -9244,6 +9549,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** servants
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Tributaries / Tributary)
 - **OWNER RULING:**
 
 ### trumpeters — 4 uses
@@ -9343,6 +9649,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** take
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Wring / Wringed / Wringing)
 - **OWNER RULING:**
 
 ### edifieth — 3 uses
@@ -9361,6 +9668,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wicked
 - reason: KEEP. Geneva1599, ASV, Darby, and Webster all agree verbatim; the word is period-authentic and names a behavioral trait with a clear underlying Hebrew idiom ("hardened face"), not a material object, so no source-era anachronism is possible.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Impudent)
 - **OWNER RULING:**
 
 ### infants — 3 uses
@@ -9370,6 +9678,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** babe
 - reason: KEEP. Unanimous agreement across all nine witnesses including Geneva1599; "infant(s)" is common KJV-adjacent vocabulary (compare "infants" at Luke 18:15 in the same batch) naming an ordinary human referent present in every era.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Infant/s)
 - **OWNER RULING:**
 
 ### invited — 3 uses
@@ -9397,6 +9706,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** burden
 - reason: KEEP. Deep attestation (Tyndale 1526, Geneva 1599, both verbatim) and an unremarkable, universal source-era referent (loading beasts of burden). No case for change; "burden"/"burdens," already whitelisted, share the same root if the owner ever wants the noun form instead.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Lade)
 - **OWNER RULING:**
 
 ### latchet — 3 uses
@@ -9424,6 +9734,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** bottom
 - reason: Full unanimous Geneva attestation across all three occurrences, and a specific, technically accurate viticultural referent (wine left on its lees develops complexity, exactly why Isaiah's banquet-oracle prizes it) — the figurative uses in Jeremiah/Zephaniah depend on the reader understanding this literal winemaking detail, so the word is load-bearing.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Lees)
 - **OWNER RULING:**
 
 ### lewd — 3 uses
@@ -9478,6 +9789,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wicked
 - reason: KEEP. Though the earliest witnesses (Tyndale, Geneva) use the plainer "evil-doers," the Latinate "malefactors" is independently attested by ASV, Darby, and Webster, and names a specific Roman legal category (capital offenders) appropriate to the crucifixion narrative's actual first-century Roman-administered justice system.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Malefactors)
 - **OWNER RULING:**
 
 ### manifestation — 3 uses
@@ -9559,6 +9871,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sharp
 - reason: KEEP. Deepest possible attestation (Tyndale 1526, Geneva 1599, and every witness after) for a word whose entire rhetorical function is its contrast with "beam" — a contrast this batch's Luke 6:41 correctly preserves (unlike the Matthew 7 "splenter" corruption previously flagged in agent memory). No defect here.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Mote)
 - **OWNER RULING:**
 
 ### multiplieth — 3 uses
@@ -9595,6 +9908,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wickedness
 - reason: KEEP. ASV, Darby, and Webster all independently retain "naughtiness" rather than modernizing it, which is telling: even translators working centuries after 1611 judged it the right word here, not archaic noise. No case for change.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Naughtiness)
 - **OWNER RULING:**
 
 ### naughty — 3 uses
@@ -9604,6 +9918,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wicked
 - reason: KEEP, flagged for a possible partial swap. This word's two occurrences behave differently: "naughty figs" (spoiled produce) has no rival term and should stand; "naughty person" (Proverbs 6:12) is where Geneva1599, Darby, and BSB all independently prefer the whitelisted "wicked" instead — worth the owner's attention as a verse-specific swap, not a wholesale word change.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Naughty)
 - **OWNER RULING:**
 
 ### navel — 3 uses
@@ -9622,6 +9937,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** grievous
 - reason: The word's referent (epidemic disease, dangerous wild animals) is thoroughly source-era sound on Axis 2; the Axis-1 register is correct EModE, though the *meaning* ("harmful," not "noisy") is exactly the kind of silent semantic drift the glossing capability exists to catch for future readers, even though it is not evidence of corruption here.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Noisome)
 - **OWNER RULING:**
 
 ### notable — 3 uses
@@ -9694,6 +10010,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** images
 - reason: KEEP. Geneva1599 alone among the checked witnesses retains "pictures" verbatim (matching the base text); every other witness reaches for a paraphrase describing the same carved/graven referent, suggesting later translators judged "pictures" liable to modern misreading rather than factually wrong — worth a note to the owner, but not by itself grounds for REPLACE since Axis 1 and Axis 2 both hold.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pictures)
 - **OWNER RULING:**
 
 ### pitieth — 3 uses
@@ -9721,6 +10038,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** woven
 - reason: KEEP. Tyndale's own 1526 English already reads "platted" — among the deepest attestations in this batch — for a narratively central detail of the crucifixion mockery. No case for change.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Platted)
 - **OWNER RULING:**
 
 ### platter — 3 uses
@@ -9757,6 +10075,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** graven
 - reason: KEEP. This is purely an "-our-"/"-or-" spelling variant of the identical word every witness (ASV, Darby, Webster) agrees on; the underlying practice (carved or painted wall imagery of animals and idols) is a well-documented ancient Near Eastern temple/tomb-art convention, matching Ezekiel's specific vision of Israelite apostasy.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pourtray / Pourtrayed)
 - **OWNER RULING:**
 
 ### prating — 3 uses
@@ -9766,6 +10085,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** speaking
 - reason: KEEP. ASV and Darby both independently retain "prating"; it is a common EModE word for idle talk with no better period synonym readily available, and the underlying vice (foolish garrulousness, Proverbs' own repeated theme) needs no source-era check.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Prating)
 - **OWNER RULING:**
 
 ### preeminence — 3 uses
@@ -9820,6 +10140,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** spake evil
 - reason: KEEP. Geneva1599, ASV, and Webster all agree; this verb's cognate noun "railer" is separately reviewed in this same batch and kept for the same reasons (common EModE vocabulary for verbal abuse, a timeless moral category).
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rail / Railed / Railer / Railing/s)
 - **OWNER RULING:**
 
 ### ravenous — 3 uses
@@ -9838,6 +10159,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** genealogy
 - reason: KEEP. ASV independently retains "register," and it is already paired in its own verse with the whitelisted "genealogy" and "book"; the underlying institution (written genealogical records controlling priestly eligibility) is a real, historically-documented feature of post-exilic Judean administration.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Register)
 - **OWNER RULING:**
 
 ### relied — 3 uses
@@ -9946,6 +10268,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** each
 - reason: KEEP. ASV independently retains "severally"; it is standard EModE legal/administrative vocabulary (still used today in "joint and severally" contracts) with no source-era conflict since it names a grammatical/logical relation, not an object.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Severally)
 - **OWNER RULING:**
 
 ### sharpeneth — 3 uses
@@ -9964,6 +10287,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** foolish
 - reason: KEEP, with a glossing note. ASV independently retains "silly"; this is a case of semantic drift (EModE "silly" = innocent/simple/defenseless, not "ridiculous" as in modern English) rather than a textual defect — worth flagging for the reader-facing glossary, but the word itself is period-authentic and passes both axes (II Timothy 3:6's "silly women" names real vulnerability to false teachers, a timeless social dynamic).
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Silly)
 - **OWNER RULING:**
 
 ### sincerely — 3 uses
@@ -10036,6 +10360,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** spit
 - reason: KEEP. Wycliffe's Middle English "spotelis" (1382) is a direct cognate, giving this word unusually deep attestation; already paired with the whitelisted verb "spit." No case for change.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Spittle)
 - **OWNER RULING:**
 
 ### stuck — 3 uses
@@ -10063,6 +10388,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** serpent
 - reason: KEEP. Webster matches the exact spelling; Tyndale (1526) and Geneva (1599) both attest cognate spellings of the identical word for one of the most famous single words in all of scripture (describing the Edenic serpent) — an emphatically settled case, no grounds for touching it.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Subtil / Subtilly / Subtilty)
 - **OWNER RULING:**
 
 ### succeeded — 3 uses
@@ -10108,6 +10434,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** fear
 - reason: KEEP. Strong consensus across every checked witness for a word describing God's awe-inspiring acts at the Exodus (a foundational, oft-repeated theological claim throughout the Torah); a doctrinal-rhetorical abstraction, not subject to source-era material concerns.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Terribleness)
 - **OWNER RULING:**
 
 ### terribly — 3 uses
@@ -10126,6 +10453,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** toward
 - reason: KEEP. Every witness checked uses the identical "-ward" compound construction (differing only in the pronoun, "you" vs. "thee," reflecting each translation's own number/register conventions); this is a productive, well-attested EModE word-formation pattern, not an isolated coinage. No case for change.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Thee-ward)
 - **OWNER RULING:**
 
 ### therefrom — 3 uses
@@ -10144,6 +10472,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** thither
 - reason: KEEP. Geneva1599 agrees verbatim; part of the KJV's consistent "-ward" directional-compound family (see "thee-ward," this same batch), a genuine EModE grammatical pattern, not an isolated oddity. No case for change.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Thitherward)
 - **OWNER RULING:**
 
 ### tillage — 3 uses
@@ -10153,6 +10482,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** field
 - reason: KEEP. Strong majority agreement across every checked witness for a plain agricultural noun describing real, universal farming labor. No case for change.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Tillage)
 - **OWNER RULING:**
 
 ### tingle — 3 uses
@@ -10171,6 +10501,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sound
 - reason: KEEP. Geneva1599 agrees (spelling variant only); the underlying referent (ornamental ankle-jewelry making a tinkling sound as its wearer walks) is a genuine, well-documented ancient adornment practice — both the Isaiah 3 fashion-critique passage and I Corinthians 13's "tinkling cymbal" simile are sound.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Tinkling)
 - **OWNER RULING:**
 
 ### toll — 3 uses
@@ -10198,6 +10529,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** carried
 - reason: KEEP. Strong four-witness agreement for a precise theological term (used of both believers' transfer into Christ's kingdom, Colossians 1:13, and Enoch's unique bodily translation, Hebrews 11:5) — the specific doctrinal weight of the word argues against flattening it into the more generic whitelisted synonyms.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Translate / Translated)
 - **OWNER RULING:**
 
 ### travelling — 3 uses
@@ -10207,6 +10539,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** journey
 - reason: KEEP. Though the Isaiah 21:13 occurrence shows some witness divergence (Arabian caravan culture is real and well documented either way — Dedanite trade caravans are a known ancient Near Eastern institution), the Matthew 25:14 occurrence (a man going on a journey) is entirely uncontroversial across every witness; the word overall is sound EModE vocabulary needing no swap.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Travel / Travellers /Travelleth / Travelled / Travelling)
 - **OWNER RULING:**
 
 ### triest — 3 uses
@@ -10279,6 +10612,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** toward us
 - reason: A genuine AV idiom (the -ward suffix is productive in Early Modern English — compare "homeward," "heavenward"); Geneva's plainer "toward us" shows the sense was already current, so nothing is lost by keeping the more distinctive form.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Us-ward)
 - **OWNER RULING:**
 
 ### vehement — 3 uses
@@ -10288,6 +10622,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** fervent
 - reason: Geneva's own alternation between "vehement" and "feruent" for the same underlying sense shows both words were live period synonyms; no reason to disturb the base text's choice.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Vehement / Vehemently)
 - **OWNER RULING:**
 
 ### verified — 3 uses
@@ -10315,6 +10650,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** face
 - reason: Unanimous Geneva attestation; "face" is the nearest whitelisted plain-sense word but flattens the register — "visage" specifically evokes the outward appearance/expression rather than the body part.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Visage)
 - **OWNER RULING:**
 
 ### wanton — 3 uses
@@ -10387,6 +10723,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** harlot
 - reason: Full unanimous Geneva attestation across all three occurrences and a rock-solid Axis 2 referent (idolatry-as-harlotry is one of the most attested prophetic metaphors); "harlot" is the nearest whitelisted noun but the verse needs the adjective form the noun does not itself supply.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Whorish)
 - **OWNER RULING:**
 
 ### won — 3 uses
@@ -10405,6 +10742,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** last
 - reason: Solidly attested across Tyndale, Geneva, and Wycliffe's Middle English ancestor "yistirdai"; no whitelisted phrase reproduces the precision of "the preceding night" as compactly.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Yesternight)
 - **OWNER RULING:**
 
 ### railer — 2 uses
@@ -10414,6 +10752,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** mockers
 - reason: KEEP. "Railer" is the direct agent-noun of "rail," an extremely common KJV verb (Webster, Geneva, and ASV/Darby all use "railer" or a close cognate at I Timothy 3:3), and the vice of reviling speech is not era-bound. No replacement needed.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rail / Railed / Railer / Railing/s)
 - **OWNER RULING:**
 
 ### boasters — 1 uses

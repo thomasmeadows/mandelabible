@@ -100,6 +100,17 @@ unrequested housekeeping or documentation-only work to the roadmap.
     comparison, and the blog-search sweeps.
   - `source_texts/` — period reference texts (Middle English works, King
     James's own writing sample, Septuagint interlinear PDF, Matthew's Bible).
+  - `eya-new-words-list/` — the EYA Censored *KJV Bible Word Index*
+    (eyacensored-oss.github.io/KJV-Word-Index), imported by
+    `scripts/97_import_kjv_word_index.py`: cached `source.html` (permanent),
+    `kjv_word_index.tsv` (one row per example verse) and `kjv_word_index.md`
+    (grouped by word); plus `not_on_blacklist.md`
+    (`scripts/98_kjv_word_index_not_blacklisted.py`) — the index entries
+    whose forms are not on `word_blacklist.md` — and `on_whitelist.md`
+    (`scripts/99_kjv_word_index_on_whitelist.py`) — the entries whose forms
+    are on `word_whitelist.md` — and `on_neither_list.md`
+    (`scripts/100_kjv_word_index_on_neither_list.py`) — the entries on
+    neither list. Advisory corroboration only.
   - `removed_words/` — triage artifacts (unchanged; permanent per the
     Generated Artifacts rule).
 - `.claude/agents/king-james-middle-english-expert.md` — the "King James"
