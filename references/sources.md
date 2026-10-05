@@ -10,6 +10,7 @@ leads — it does not endorse a source's theology or conclusions.
 ## I. Primary data (in-repo, read-only sub-repos)
 
 - **scrollmapper `bible_databases`** — https://github.com/scrollmapper/bible_databases — 140 SQLite translations. Base text `KJV.db`; witnesses in use: Geneva1599, Tyndale, Wycliffe, KJVPCE, AKJV, Webster, RNKJV, UKJV, YLT, DRC; original languages TR (Greek NT), WLC (Hebrew OT); cross-reference extras.
+- **KJV 1611, original spelling (lb42/KJV_1611)** — https://github.com/lb42/KJV_1611, archived at https://zenodo.org/records/1285692 — added 2026-10-04: Lou Burnard's 2017 TEI XML conversion of the kingjamesbibleonline.org transcription of the 1611 first printing (first "He" issue), with marginal notes, chapter summaries, and Apocrypha. Imported by `scripts/102_import_kjv1611.py` as the advisory witness `KJV1611` (31,102 verses, all aligned with the KJV; 10,192 marginal notes in `kjv1611_notes`); archive cached at `references/source_texts/KJV_1611_lb42-1.0.zip`. No licence declared on the transcription; the 1611 text is out of copyright. A transcription, not a facsimile — confirm single readings against the page images it links.
 - **BibleForge `BibleForgeDB`** — https://github.com/bibleforge/BibleForgeDB — word-level KJV (`divine`/`red`/`implied` markers, original-word linkage), Strong's-tagged Hebrew/Greek, Greek & Hebrew lexicons.
 
 ## II. Period-language reference texts (in `references/`)
@@ -78,6 +79,7 @@ leads — it does not endorse a source's theology or conclusions.
 - EYA matrix news: https://www.youtube.com/@eya-matrix-news
 - JFCG: https://www.youtube.com/@JFCG
 - Lion & lamb evidence video: https://www.youtube.com/watch?v=NxjjGVKNXE0
+- HISTORY — *Secrets of the Bible | The UnXplained (S2, E7)* (posted 2026-10-03; Dead Sea Scrolls, and the Bibles of other churches — Catholic, Ethiopian Orthodox): https://www.youtube.com/watch?v=zz6NVtRfmJo — added 2026-10-04; summaries in `references/language/bible_versions_and_history.md` §6 (Dead Sea Scrolls) and §7 (canons)
 
 ## IX. General references & tooling
 

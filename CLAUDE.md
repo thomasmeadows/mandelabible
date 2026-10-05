@@ -55,6 +55,7 @@ choice that would materially alter content or evidence policy.
 | Database structure | `db/MandelaProject_schema.md`; `db/MandelaKJV_schema.md` |
 | Rare-word work | Relevant `references/rounds/roundN/` files, `references/word_lists/`, and the Rare-Word Review List Protocol below |
 | Verse-level rulings | `references/verses/` |
+| Bible versions in the DB, their history, 1611 vs 1769 KJV | `references/language/bible_versions_and_history.md` |
 | Language, names, and residue research | The matching folder under `references/language/`, `references/names/`, or `references/residue/` |
 | Published/custom editions | Root `README.md`, `custom/*.json`, and the publishing sections below |
 
@@ -99,7 +100,10 @@ unrequested housekeeping or documentation-only work to the roadmap.
     corroboration report, the Truth Farmer PDF, the kjvrestore page cache and
     comparison, and the blog-search sweeps.
   - `source_texts/` — period reference texts (Middle English works, King
-    James's own writing sample, Septuagint interlinear PDF, Matthew's Bible).
+    James's own writing sample, Septuagint interlinear PDF, Matthew's Bible,
+    and `KJV_1611_lb42-1.0.zip` — the cached 1611 original-spelling KJV that
+    `scripts/102_import_kjv1611.py` loads as the witness `KJV1611`, with its
+    marginal notes in `kjv1611_notes`).
   - `eya-new-words-list/` — the EYA Censored *KJV Bible Word Index*
     (eyacensored-oss.github.io/KJV-Word-Index), imported by
     `scripts/97_import_kjv_word_index.py`: cached `source.html` (permanent),
