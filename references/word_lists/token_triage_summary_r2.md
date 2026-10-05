@@ -30,7 +30,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - reason: A likely referent mismatch.** "Dram" in 1611 English is a small apothecary weight (a "dram of poison," Shakespeare), not a coin; Darby and ASV both independently identify the Hebrew as denoting the Persian daric, a named gold coin. This is an Axis-2 concern (a weight-measure standing in for a currency-unit) — worth the owner's review as a probable corruption or long-standing translation imprecision, though not as severe as the "tongs"/"transformed" findings since "drams" has stood in the KJV tradition since 1611 and is not a post-1611 innovation.
 - source: `batch_4_r2_triage.md`
 - **EYA_SUGGESTION:** Kat does not remember this (EYA index: Drams)
-- **OWNER RULING:** WHITELIST
+- **OWNER RULING:** replace with drams
 
 ### tongs — 5 uses
 
@@ -71,7 +71,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - reason: REPLACE (flag for owner review): the split between Axis 1 (period-attested) and Axis 2 (source-era referent) matches the bottles/wineskins signature described in the mission's canonical example — see the own-choice note for the specific evidence. This does not settle the reading; it is an advisory flag for the Phase 6 restoration workflow.
 - source: `batch_3_r2_triage.md`
 - **EYA_SUGGESTION:** Kat does not remember this (EYA index: Steel)
-- **OWNER RULING:**replace with bronze and whitelist bronze
+- **OWNER RULING:** replace with bronze and whitelist bronze
 
 ### circumsized — 1 uses
 
@@ -111,7 +111,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** present
 - reason: WHITELIST. Precise Levitical sacrificial-gesture vocabulary (the priest's side-to-side waving motion, distinct from the up-down "heave" motion, Exodus 29:24-27, Leviticus 7:30) — protecting both terms together preserves a real ritual distinction the Torah itself makes.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:** repalce with present
+- **OWNER RULING:** replace with present
 
 ### sprinkle — 62 uses
 - whitelist: this word is itself the best candidate — a precise Levitical ritual-application term (Hebrew זרק/נזה) distinct from "pour" or "anoint," naming the specific blood/water application gesture of the sacrificial system.
@@ -178,7 +178,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** word
 - reason: WHITELIST. *Scripture* names a unique referent — the category of divinely authoritative sacred writing itself (Daniel 10:21's "scripture of truth," Matthew 21:42/22:29's "the scriptures") — a self-referential term about the Bible's own textual authority that no generic synonym ("writing," "word") can safely substitute without weakening the text's own claims about itself.
 - source: `batch_10_r2_triage.md`
-- **OWNER RULING:** revise to word
+- **OWNER RULING:** WHITELIST
 
 ### ephod — 52 uses
 - whitelist: this word is itself the correct candidate — a specific priestly cultic garment (Hebrew אפוד) with no English synonym; already flagged by the project's own canonical bottles/wineskins methodology as the kind of term that must not be generically translated.
@@ -330,7 +330,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **EYA_SUGGESTION:** Kat does not remember this (EYA index: Censer/s)
 - **OWNER RULING:** WHITELIST
 
-###   — 20 uses
+### familiar — 20 uses
 - whitelist: none fits precisely — nearest is "spirit" (the companion noun in "familiar spirit") — Genesis 1:2, 3,192 occurrences — but "spirit" alone drops the specific necromantic-medium sense.
 - witness: Wycliffe paraphrases as "false diviners"/"astronomyers" (modern-tending paraphrase, no cognate); Geneva paraphrases "them that worke with spirits" (also no cognate). Neither witness offers the fixed phrase.
 - own: keep "familiar spirit" — the settled English technical term for the necromancer's attending spirit (cf. the witch of Endor, 1 Samuel 28), unrivalled by any period synonym on record.
