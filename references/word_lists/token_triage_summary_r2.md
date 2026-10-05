@@ -168,7 +168,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** leader
 - reason: WHITELIST despite the witness split: *duke* is attested in both Tyndale (1530s) and Wycliffe (1382), so it is genuinely period-authentic on Axis 1, and "chief" is Axis-2 equally valid (an Edomite clan-head is a real ancient Near Eastern office) — but because half the comparison witnesses independently prefer "chief," this specific word is a good candidate for owner review even while it is whitelisted for consistency's sake pending that ruling.
 - source: `batch_10_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Duke/s)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Duke/s) (EYA videos — not remembered: "duke" (study-Bible appendix) — suggested replacement: chief; "duke/dukes" at Genesis 36 (no earlier reading given))
 - **OWNER RULING:** remove if right before a proper Name, otherwise translate to leader
 
 ### scripture — 53 uses
@@ -251,7 +251,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** pillar top
 - reason: unanimous Geneva agreement and a precise technical referent — protect it as a specialized term the way "knop" and "hin" are protected elsewhere in this batch.
 - source: `batch_9_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Chapiter/s)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Chapiter/s) (EYA videos — not remembered: "chapiter" (study-Bible appendix) — suggested replacement: capital)
 - **OWNER RULING:** revise to pillar top
 
 ### sail — 27 uses
@@ -308,7 +308,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** holy
 - reason: unanimous period agreement, and the word covers two distinct but related biblical-world referents (an architectural space and an act of divine consultation) that a generic phrase like "holy place" would conflate.
 - source: `batch_9_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Oracle)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Oracle) (EYA videos — not remembered: "oracle" at 1 Kings 6:19, 31 (no earlier reading given))
 - **OWNER RULING:**  Replace the plural form oracles with prophets.  The singular form with Holy of Holies except Psalm 28:2 - Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy Holy of Holies.
 
 ### twined — 21 uses
@@ -394,7 +394,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shekel
 - reason: Geneva agrees outright, and Wycliffe's divergence to "talent" actually confirms this is a precise unit of measure where getting the word wrong changes the quantity meant — exactly the kind of unique, irreplaceable measure-term the owner's WHITELIST criteria describe. "Shekel" is a different (smaller, silver) unit and would misstate the amount.
 - source: `batch_8_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pounds/s)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pounds/s) (EYA videos — not remembered: "pounds" at Luke 19:13–25 — suggested replacement: talents ("the parable of the talents"))
 - **OWNER RULING:** WHITELIST
 
 ### buckler — 16 uses
@@ -433,7 +433,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** disease
 - reason: "Palsy" is a specific, irreplaceable medical condition-name (paralysis) rather than a generic word with many synonyms — swapping to "disease" would erase the specific diagnosis the Gospel narratives depend on (e.g. the paralytic let down through the roof, Mark 2). It qualifies for WHITELIST protection as a unique referent even though the general term "disease" is a fine alternate in the abstract.
 - source: `batch_8_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Palsy)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Palsy) (EYA videos — not remembered: "palsy" (no earlier reading given))
 - **OWNER RULING:**  replace with disease
 
 ### scall — 14 uses
@@ -463,6 +463,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** brass
 - reason: A specific, unique architectural/metalworking technical term (the open brasen grate of the altar, Exodus 27:4, and the lattice ornament of the temple pillars, I Kings 7:17-42) with no better single-word substitute; Geneva1599 confirms the identical word, so it should be protected from future replacement.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "network" (no earlier reading given))
 - **OWNER RULING:** replace with lattice
 
 ### signet — 12 uses
@@ -770,7 +771,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** men of ship
 - reason: WHITELIST: this is a unique, hard-to-substitute period term for a specific referent of the biblical world (see own-choice note). It should be protected from future replacement passes rather than swapped for any of the alternates above, which all either genericize or only approximate the specific referent named.
 - source: `batch_3_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pilots)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pilots) (EYA videos — not remembered: "pilots" (no earlier reading given))
 - **OWNER RULING:** replace with shipmen
 
 ### plumbline — 4 uses
@@ -924,6 +925,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** instrument
 - reason: WHITELIST. "Minstrels" is attested by ASV independently of the base text, names a real office (professional musicians in temple and royal processional contexts — attested throughout Chronicles' temple-musician genealogies), and has no adequate one-word substitute that doesn't either narrow ("harpers") or broaden ("musicians," which duplicates a different whitelisted word) the sense.
 - source: `batch_1_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "minstrels" (study-Bible appendix) — suggested replacement: flute players)
 - **OWNER RULING:**
 
 ### muzzle — 3 uses
@@ -1034,7 +1036,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** axes
 - reason: WHITELIST. "Harrows" (or, per witnesses, mattocks/coulters/forks) names a specific Iron-Age agricultural tool in a list of such tools (I Samuel 13:21); the Hebrew is notoriously obscure here (witnesses disagree on the referent itself), so this is exactly the kind of unique material-culture noun the protocol reserves for protection rather than a swap pass guessing among rival identifications.
 - source: `batch_1_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Harrows)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Harrows) (EYA videos — not remembered: "harrows" at 1 Chronicles 20:3 (no earlier reading given))
 - **OWNER RULING:**
 
 ## KEEP (1053)
@@ -1130,6 +1132,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** hidden thing
 - reason: KEEP, with a flag: ASV, YLT, and Darby all independently render Genesis 49:6's Hebrew (סוד) as "council" (a gathering/assembly) rather than "secret" — a real, consistent divergence for this specific verse. *Secret* remains correct for the more common "hidden things" sense elsewhere (Deuteronomy 29:29, Psalms 44:21) and should stand across the group, though Genesis 49:6 itself may merit a closer look given the near-unanimous witness split.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "secret" (study-Bible appendix) — suggested replacement: counsel)
 - **OWNER RULING:**
 
 ### length — 78 uses
@@ -1393,7 +1396,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** uncleanness
 - reason: KEEP, with a flag: ASV and Darby both independently prefer "profane" over "pollute" at Leviticus 19:29 specifically (the daughter-prostitution law), while YLT retains "pollute." Both are period-authentic and name the same ritual-defilement concept (Hebrew חלל); *pollute* is KJV's own settled choice across all 54 occurrences and should stand, though the verse-level split is worth noting for the owner.
 - source: `batch_10_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pollute / Polluted / Polllutes)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pollute / Polluted / Polllutes) (EYA videos — not remembered: "pollute/pollution" (no earlier reading given))
 - **OWNER RULING:**
 
 ### terrible — 54 uses
@@ -1403,6 +1406,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** fearful
 - reason: KEEP. *Terrible* in its EModE sense means "awe/dread-inspiring" (not the modern pejorative "very bad"), attested unanimously among period-register witnesses and correctly describing acts of divine power (Deuteronomy 7:21, 1:19) — this is a documented archaic-sense case, like "fenced," not a modern intrusion.
 - source: `batch_10_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "terrible" at Job 37:22 — suggested replacement: awesome ("terrible majesty"))
 - **OWNER RULING:**
 
 ### post — 53 uses
@@ -1431,7 +1435,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** child
 - reason: KEEP. YLT's "youth" is a genuine, period-authentic alternative attested at this exact verse, but *lad* is the KJV's own consistent choice for Ishmael (Genesis 21), Benjamin (Genesis 44), and the lads of Zechariah 8:5 — a warmer, more intimate register than the more formal "youth," which the text's pathos (Hagar's cries, Genesis 21:17) calls for.
 - source: `batch_10_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Lad; Laded)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Lad; Laded) (EYA videos — not remembered: "lad" at Genesis 21:19; 1 Samuel 20:41 (no earlier reading given))
 - **OWNER RULING:**
 
 ### afar — 51 uses
@@ -1560,7 +1564,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** now
 - reason: KEEP. Attested verbatim in ASV and by cognate in Wycliffe ("anoon"); *straightway* is the KJV's preferred adverb for "immediately" throughout Samuel, Proverbs, and both Testaments — well within period register, no reason to disturb it.
 - source: `batch_10_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Straightway)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Straightway) (EYA videos — not remembered: "straightway" at Matthew 14:22 (no earlier reading given))
 - **OWNER RULING:**
 
 ### companion — 41 uses
@@ -1580,7 +1584,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** thumb
 - reason: KEEP. Unanimous across every witness including Wycliffe (1382); "the finger of God" is a fixed idiom for direct divine action (Exodus 8:19, 31:18, Luke 11:20) with no plausible case for replacement.
 - source: `batch_10_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Finger/s)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Finger/s) (EYA videos — not remembered: "fingers" at throughout (said to be multiplied) (no earlier reading given))
 - **OWNER RULING:**
 
 ### indignation — 41 uses
@@ -1757,7 +1761,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** old
 - reason: KEEP. Unanimous across every witness; "elder(s)" is the better whitelisted swap specifically for the personal/office sense (I Samuel 24:13, Psalms 119:100, Isaiah 3:14) but "old" is too flat for the geological/temporal sense (Deuteronomy 33:15, Judges 5:21, II Kings 19:25) — the word already does double duty correctly as KJV uses it.
 - source: `batch_10_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ancients)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ancients) (EYA videos — not remembered: "ancient/ancients" (study-Bible appendix) — suggested replacement: elder / elders)
 - **OWNER RULING:**
 
 ### care — 36 uses
@@ -1977,7 +1981,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** proclaim
 - reason: unanimous attestation; the sense-shift from modern English is a glossing matter, not corruption.
 - source: `batch_9_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Publish/Published)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Publish/Published) (EYA videos — not remembered: "publish" (no earlier reading given))
 - **OWNER RULING:**
 
 ### purge — 32 uses
@@ -2217,7 +2221,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** savour
 - reason: strongly and unanimously attested; no replacement warranted.
 - source: `batch_9_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Smell / Smelled / Smelleth; Smelling)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Smell / Smelled / Smelleth; Smelling) (EYA videos — not remembered: "smell" (study-Bible appendix) — suggested replacement: take delight in; "smelling" at 1 Corinthians 12:17 (no earlier reading given))
 - **OWNER RULING:**
 
 ### suppose — 27 uses
@@ -2363,7 +2367,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** prison
 - reason: strongly attested by both witnesses; "prison" is the companion term in the same clause but is not a true substitute for "ward" (a guarded holding, cf. modern "hospital ward").
 - source: `batch_9_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ward/s)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Ward/s) (EYA videos — not remembered: "ward" (no earlier reading given))
 - **OWNER RULING:**
 
 ### abominable — 23 uses
@@ -2445,7 +2449,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** perverse
 - reason: unanimous attestation; "perverse" is a workable witness-adjacent alternative but "froward" is in no danger of being mistaken for a later coinage.
 - source: `batch_9_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Froward)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Froward) (EYA videos — not remembered: "froward" (study-Bible appendix) — suggested replacement: perverse / crooked)
 - **OWNER RULING:**
 
 ### grown — 23 uses
@@ -2632,6 +2636,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** filthiness
 - reason: unanimous witness agreement rules out replacement; the whitelist's "filthiness" only covers one of the word's two senses in this group.
 - source: `batch_9_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "corruption" (no earlier reading given))
 - **OWNER RULING:**
 
 ### earnestly — 21 uses
@@ -3265,7 +3270,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** instrument
 - reason: "Musick" is simply the period spelling of the ordinary word "music" — there is no vocabulary question here at all, only a spelling one, and the base text's spelling matches standard 1611-era orthographic practice.
 - source: `batch_8_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Musick)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Musick) (EYA videos — not remembered: "musick" at 1 Chronicles 15:16 and throughout — suggested replacement: music)
 - **OWNER RULING:**
 
 ### poverty — 16 uses
@@ -3284,7 +3289,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** close
 - reason: No case to swap where two witnesses already agree on the identical word; "close" (the nearest whitelisted candidate) is an adjective, not an adverb, and would require reworking the clause, so it is a poor direct substitute.
 - source: `batch_8_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Privily)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Privily) (EYA videos — not remembered: "privily" (study-Bible appendix) — suggested replacement: secretly)
 - **OWNER RULING:**
 
 ### retain — 16 uses
@@ -3386,7 +3391,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** between
 - reason: Tyndale attests "betwixt" outright at the very verse in question; there is no reason to flatten the KJV's own stylistic variation between "between" and "betwixt" into a single form.
 - source: `batch_8_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Betwixt)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Betwixt) (EYA videos — not remembered: "betwixt" at Philippians 1:23 (no earlier reading given))
 - **OWNER RULING:**
 
 ### controversy — 15 uses
@@ -4012,7 +4017,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** goods
 - reason: Two of three witnesses use the identical word; "goods" is a fair synonym but "stuff" is more specific to movable household property/baggage, the exact sense of Genesis 45:20 and Exodus 22:7.
 - source: `batch_8_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Stuff)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Stuff) (EYA videos — not remembered: "stuff" at Exodus 36:7 — suggested replacement: possessions / belongings / provision; "stuff" (study-Bible appendix) — suggested replacement: baggage)
 - **OWNER RULING:**
 
 ### tooth — 13 uses
@@ -4086,7 +4091,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** manservant
 - reason: Court office-title, unchanged in sense (the royal wine-steward); all three witnesses agree exactly, so it is exceptionally well attested.
 - source: `batch_7_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Butler)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Butler) (EYA videos — not remembered: "bakers/butlers" (no earlier reading given))
 - **OWNER RULING:**
 
 ### chew — 12 uses
@@ -4153,7 +4158,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** crush
 - reason: Ordinary word for milling grain (Job 31:10, Ecclesiastes 12:4) or, figuratively, forced labor (Judges 16:21) and teeth-gnashing (Psalms 112:10); both witnesses confirm the identical word.
 - source: `batch_7_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Grind; Grinding)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Grind; Grinding) (EYA videos — not remembered: "grind" at Judges 16:21; Job 31:10 (no earlier reading given); "grinding" at Matthew 24:41; Luke 17:35 — suggested replacement: "two in the field: one taken, the other left")
 - **OWNER RULING:**
 
 ### guile — 12 uses
@@ -4409,6 +4414,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** form
 - reason: Ordinary word covering several senses (shape, construct, devise, a bodily "frame"); both witnesses paraphrase the Judges 12:6 idiom rather than offering a rival noun, so *frame* stands unchallenged.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "framed" at Hebrews 11:3 — suggested replacement: created)
 - **OWNER RULING:**
 
 ### glass — 11 uses
@@ -4428,7 +4434,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** lame
 - reason: Ordinary word covering both physical lameness (Matthew 18:8) and figurative indecision (I Kings 18:21); both witnesses use the identical word.
 - source: `batch_7_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Halt / Halted / Halteth / Halting)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Halt / Halted / Halteth / Halting) (EYA videos — not remembered: "halt" (study-Bible appendix) — suggested replacement: limped)
 - **OWNER RULING:**
 
 ### heel — 11 uses
@@ -4447,7 +4453,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** astonished
 - reason: Vivid onomatopoeic word for scornful astonishment, unchanged in sense; both witnesses use the identical word.
 - source: `batch_7_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Hiss/Hissing)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Hiss/Hissing) (EYA videos — not remembered: "hiss" at Isaiah 7:18 (no earlier reading given))
 - **OWNER RULING:**
 
 ### intercession — 11 uses
@@ -4629,7 +4635,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** lament
 - reason: Sound period vocabulary for ritual/private mourning, attested identically in both witnesses at every occurrence sampled; *lament* would serve as well but *bewail* is not a defect.
 - source: `batch_7_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Bewail / Bewailed / Bewaileth)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Bewail / Bewailed / Bewaileth) (EYA videos — not remembered: "bewail/bewailed" at Judges 11:37–38 (no earlier reading given))
 - **OWNER RULING:**
 
 ### booth — 10 uses
@@ -4705,6 +4711,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sum
 - reason: Ordinary word, unchanged in sense; both witnesses use the identical word under period spelling, so there is no rival reading.
 - source: `batch_7_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "debts" at Matthew 6:12 — suggested replacement: trespasses (speaker's memory of the KJV))
 - **OWNER RULING:**
 
 ### debtor — 10 uses
@@ -5303,6 +5310,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** testify
 - reason: KEEP, but flag that "protest" carries a real risk of modern misreading (readers today default to "object to" rather than the correct older "solemnly affirm/warn" sense) — Tyndale's "testify" and the whitelisted "declare" both avoid this ambiguity and might serve the owner's clarity goals better, even though "protest" itself is not incorrect for 1611 English.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "protested/protesting" at Jeremiah 11:7 (no earlier reading given))
 - **OWNER RULING:**
 
 ### purification — 9 uses
@@ -5385,6 +5393,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** rejoice
 - reason: KEEP. Geneva's "pastime"/"laughing stock" and Wycliffe's "play" all confirm the same underlying sense (forced entertainment/mockery) without offering a cleaner whitelisted single-word substitute; the standing word remains sound.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "sport/sporting" (no earlier reading given))
 - **OWNER RULING:**
 
 ### stamped — 9 uses
@@ -5657,6 +5666,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** what troubles thee
 - reason: Verbatim two-witness agreement (Geneva and Tyndale, spelling aside) at Genesis 21:17, plus Geneva's own verbatim use at both Judges verses. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "aileth" at 2 Kings 6:28 (no earlier reading given))
 - **OWNER RULING:**
 
 ### alienated — 7 uses
@@ -5760,6 +5770,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** book
 - reason: Verbatim Geneva agreement at two of three verses; Wycliffe's periphrasis at the third independently confirms the "small legal document" referent. KEEP.
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "bill" (no earlier reading given))
 - **OWNER RULING:**
 
 ### careful — 7 uses
@@ -5769,6 +5780,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** fearful
 - reason: Verbatim Geneva agreement (spelling aside) at Daniel 3:16. KEEP — flag for Capability-4 glossing, since "careful" has drifted furthest of any word in this stretch toward its opposite modern sense ("cautious" rather than "anxious").
 - source: `batch_5_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "careful" (study-Bible appendix) — suggested replacement: anxious (Philippians 4:6))
 - **OWNER RULING:**
 
 ### certify — 7 uses
@@ -5805,7 +5817,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** word
 - reason: Verbatim agreement from both surviving witnesses at multiple occurrences (Geneva at three of five, Tyndale independently at Luke 24:17). KEEP.
 - source: `batch_5_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Communications)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Communications) (EYA videos — not remembered: "communication" (study-Bible appendix) — suggested replacement: fellowship / companionship)
 - **OWNER RULING:**
 
 ### complain — 7 uses
@@ -6073,7 +6085,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** write
 - reason: Verbatim Geneva agreement at Job 19:24, the clearest occurrence (a literal iron engraving tool, not a reed pen). KEEP.
 - source: `batch_5_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pen)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pen) (EYA videos — not remembered: "pen/paper" (no earlier reading given))
 - **OWNER RULING:**
 
 ### pence — 7 uses
@@ -6102,7 +6114,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** rest
 - reason: KEEP. "Pillow" is Geneva's own word at I Sam 19:13, so it is doubly attested for the household-bedding sense; Genesis 28:11/18's stone "pillows" (a headrest, not stuffed bedding) is a distinct sense already well covered by KJV usage elsewhere. Wycliffe's total absence of "pillow" is a translation choice (goatskin, not a substitute noun) rather than evidence against the word.
 - source: `batch_6_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pillow/s)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Pillow/s) (EYA videos — not remembered: "pillow" at Mark 4:38 (no earlier reading given))
 - **OWNER RULING:**
 
 ### pomp — 7 uses
@@ -6151,7 +6163,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** evil speaking
 - reason: This group hides a genuine two-sense split flagged by Capability 2's polysemy rule — Deut 22:8's "railing" (a roof-parapet, Hebrew מַעֲקֶה ma'aqeh, a low wall) is Axis 2 suspect as "railing" (which suggests a wooden rail, a later building technology) but Axis 2 sound as "battlement," while I Peter 3:9/II Peter 2:11/I Timothy 6:4's "railing" (verbal abuse) is sound as it stands. Recommend REPLACE for the Deuteronomy occurrence only, KEEP for the three epistle occurrences — flagging for owner review since this is a mixed verdict within one inflection group.
 - source: `batch_6_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rail / Railed / Railer / Railing/s)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Rail / Railed / Railer / Railing/s) (EYA videos — not remembered: "rails/railing" (no earlier reading given))
 - **OWNER RULING:**
 
 ### ravished — 7 uses
@@ -6179,6 +6191,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** kingdom
 - reason: KEEP. Wycliffe's direct cognate "rewme" is strong Axis 1 evidence going back to Middle English, and the referent (a Persian-administered territory, or Jehoshaphat's kingdom viewed as a realm at peace) is Axis 2 sound; Geneva's preference for "kingdom" at II Chron 20:30 doesn't outweigh the deliberate register distinction the restored text draws between "realm" (foreign/administrative) and "kingdom" (covenantal) elsewhere.
 - source: `batch_6_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "realm" at 2 Chronicles 20:30 (no earlier reading given))
 - **OWNER RULING:**
 
 ### remainder — 7 uses
@@ -6465,7 +6478,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** goods
 - reason: The Capability-4 semantic-shift case (the word survives but its dominant modern sense — a wheeled vehicle or bodily posture — has completely replaced the 1611 "baggage" sense); Webster's own internal variance ("furniture" at Jdg 18:21 vs. "carriages" at Isa 46:1) shows even period lexicographers found the word's range broad, not that it is wrong.
 - source: `batch_4_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Carriage)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Carriage) (EYA videos — not remembered: "carriage" at 1 Samuel 17:22 (no earlier reading given))
 - **OWNER RULING:**
 
 ### chastisement — 6 uses
@@ -6484,6 +6497,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** pillar
 - reason: Three-witness agreement (all naming the identical cloud-pillar, whether as "cloudy pillar" or "pillar of cloud") plus this phrase's centrality to the Exodus memory-tradition argue strongly for leaving it untouched.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "cloudy" (no earlier reading given))
 - **OWNER RULING:**
 
 ### communicate — 6 uses
@@ -6522,7 +6536,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** forced
 - reason: Three-witness exact agreement — solidly attested, no anachronism on either axis.
 - source: `batch_4_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Constrain / Constrained / Constraineth)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Constrain / Constrained / Constraineth) (EYA videos — not remembered: "constrained" at Matthew 14:22 (no earlier reading given))
 - **OWNER RULING:**
 
 ### continuance — 6 uses
@@ -6581,7 +6595,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** honour
 - reason: Three-witness exact agreement — solidly attested, unremarkable vocabulary.
 - source: `batch_4_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Dignities)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Dignities) (EYA videos — not remembered: "dignities" at 2 Peter 2:10 (no earlier reading given))
 - **OWNER RULING:**
 
 ### discouraged — 6 uses
@@ -6683,6 +6697,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** oppressor
 - reason: Two-witness exact agreement (ASV, Webster) plus Darby's closely-related "usurer" — all four witnesses name the same underlying financial-predator concept, solidly attested.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "extortioner" at 1 Corinthians 5:11 (no earlier reading given))
 - **OWNER RULING:**
 
 ### flint — 6 uses
@@ -6833,7 +6848,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** noble
 - reason: Verbatim Geneva agreement (spelling aside) at every occurrence, including the repeated internal wordplay at Isaiah 32:8. KEEP — though flag for Capability-4 glossing, since "liberal" is the batch's clearest modern-meaning-drift risk.
 - source: `batch_5_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Liberal)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Liberal) (EYA videos — not remembered: "liberal" at 2 Corinthians 9:13 (no earlier reading given))
 - **OWNER RULING:**
 
 ### lucre — 6 uses
@@ -6899,7 +6914,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** ships
 - reason: Verbatim Geneva agreement at every occurrence; Wycliffe's singular is a translation variant, not counter-evidence against the word. KEEP.
 - source: `batch_5_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Navy)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Navy) (EYA videos — not remembered: "navy" at 1 Kings 9:26; 10:11, 22 (no earlier reading given))
 - **OWNER RULING:**
 
 ### neglect — 6 uses
@@ -6918,7 +6933,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** chamber
 - reason: Wycliffe-to-Geneva-to-KJV continuity across three centuries is about as strong a period signal as exists in this batch. KEEP.
 - source: `batch_5_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Parlour/s)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Parlour/s) (EYA videos — not remembered: "parlour" (no earlier reading given))
 - **OWNER RULING:**
 
 ### practise — 6 uses
@@ -7373,7 +7388,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** early
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Betimes)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Betimes) (EYA videos — not remembered: "betimes" (study-Bible appendix) — suggested replacement: early)
 - **OWNER RULING:**
 
 ### bit — 5 uses
@@ -7502,6 +7517,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wasting
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "consumption" (study-Bible appendix) — suggested replacement: destruction)
 - **OWNER RULING:**
 
 ### contrite — 5 uses
@@ -7725,7 +7741,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** people
 - reason: Genuine period collective noun, still in living (if literary) use; "people" is the only real whitelisted alternative and it loses the familiar, kin-like register Esau's line needs. KEEP.
 - source: `batch_4_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Folk/s)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Folk/s) (EYA videos — not remembered: "folk" (study-Bible appendix) — suggested replacement: nation)
 - **OWNER RULING:**
 
 ### fuel — 5 uses
@@ -7745,7 +7761,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** vessels
 - reason: ASV and Webster's independent agreement shows "furniture" was still the natural period word for tabernacle equipage; only the modern reader's ear, not the 1611 referent, has shifted.
 - source: `batch_4_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Furniture)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Furniture) (EYA videos — not remembered: "furniture" (study-Bible appendix) — suggested replacement: saddle; "furniture" at Genesis 31:34 (no earlier reading given))
 - **OWNER RULING:**
 
 ### gin — 5 uses
@@ -7774,6 +7790,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** dominion
 - reason: Five of seven witnesses read the identical word — this is about as settled as a rare word gets in this project's evidence.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "government" at 2 Peter 2:10 (no earlier reading given))
 - **OWNER RULING:**
 
 ### graffed — 5 uses
@@ -7793,7 +7810,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** fat
 - reason: Split evidence: "gross darkness" is solid; "gross...as fat" is a minority reading against the witness field. KEEP overall, but the Psalms occurrence deserves a second look outside this pass.
 - source: `batch_4_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Gross)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Gross) (EYA videos — not remembered: "gross" (no earlier reading given))
 - **OWNER RULING:**
 
 ### gushed — 5 uses
@@ -8003,7 +8020,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** cast
 - reason: This is the Capability-4 semantic-shift case (like "let," "prevent") rather than a corruption — the word is period-sound and the referent unchanged; only the modern English cognate has drifted to mean vehicle-riders. KEEP, but flag for a glossary note given how completely opaque the modern sense-collision is.
 - source: `batch_4_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Passengers)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Passengers) (EYA videos — not remembered: "passengers" (no earlier reading given))
 - **OWNER RULING:**
 
 ### peeled — 5 uses
@@ -8033,6 +8050,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** exalted
 - reason: This is the Capability-4 semantic-shift case — genuinely period, and Esther 2:9's own witness split (preferred/removed) is a different textual question than the word's authenticity. KEEP, though John 1:15's crux-verse status (a famous verse routinely misread by modern congregations) makes it worth a glossary flag.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "preferred" at Daniel 6:3 (no earlier reading given))
 - **OWNER RULING:**
 
 ### presently — 5 uses
@@ -8052,7 +8070,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** elder
 - reason: The word only reads oddly to a modern American ear; period usage and the Achaemenid administrative referent are both sound. No corruption signature.
 - source: `batch_4_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Presidents)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Presidents) (EYA videos — not remembered: "presidents" at Daniel 6:2–3 (no earlier reading given))
 - **OWNER RULING:**
 
 ### print — 5 uses
@@ -8062,7 +8080,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** sign
 - reason: The Capability-4 semantic-narrowing case (the word survives but its dominant modern sense has narrowed to typography); the 1611 sense is broader and correct here.
 - source: `batch_4_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Printed)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Printed) (EYA videos — not remembered: "printed" (study-Bible appendix) — suggested replacement: inscribed)
 - **OWNER RULING:**
 
 ### process — 5 uses
@@ -8330,6 +8348,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** war
 - reason: Darby's exact match plus transparent compound morphology argue for keeping it; the word does double duty (literal war, and metaphorical "hard service" at Isa 40:2), both attested senses in period use.
 - source: `batch_4_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "warfare" at 1 Corinthians 9:7 (no earlier reading given))
 - **OWNER RULING:**
 
 ### whit — 5 uses
@@ -8598,7 +8617,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** shut
 - reason: Confirmed at Acts 21:25 in Tyndale; the theological uses in Romans/Galatians are Pauline argument-vocabulary that "shut up" (the phrase several witnesses use) renders more literally but "conclude" renders more idiomatically for an English reader — a matter of register, not corruption.
 - source: `batch_2_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Concluded)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Concluded) (EYA videos — not remembered: "concluded" (study-Bible appendix) — suggested replacement: shut up)
 - **OWNER RULING:**
 
 ### conduit — 4 uses
@@ -8664,6 +8683,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** cunning
 - reason: Full unanimous Geneva attestation; "cunning" is the nearest whitelisted synonym but risks the modern positive drift ("cunningly devised" still reads negatively in KJV, but plain "cunning" alone now often reads as admiring skill) — "crafty" keeps the pejorative sense unambiguous.
 - source: `batch_2_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "crafty" (no earlier reading given))
 - **OWNER RULING:**
 
 ### declaration — 4 uses
@@ -8764,7 +8784,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** earthly
 - reason: Full Tyndale attestation across all three occurrences; note Geneva's own spelling drifts toward "earthly," making this pair a genuine period near-synonym pair worth flagging — but the base text's "earthy" preserves Tyndale's more precise "made of earth/dust" sense that Paul's argument (v. 47, "of the earth, earthy") specifically needs.
 - source: `batch_2_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Earthy)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Earthy) (EYA videos — not remembered: "earthy" at 1 Corinthians 15:49 (no earlier reading given))
 - **OWNER RULING:**
 
 ### edification — 4 uses
@@ -9093,7 +9113,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** devices
 - reason: Full unanimous Geneva attestation across all three occurrences; "devices" is the nearest whitelisted synonym and is very close, but "inventions" is Geneva's own settled choice and its 1611 sense (schemes/contrivances, not gadgets) is worth flagging for the glossing capability as another word whose meaning has narrowed since 1611.
 - source: `batch_2_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Inventions)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Inventions) (EYA videos — not remembered: "inventions" (study-Bible appendix) — suggested replacement: doings)
 - **OWNER RULING:**
 
 ### kick — 4 uses
@@ -9159,7 +9179,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** breasts
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Paps)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Paps) (EYA videos — not remembered: "paps" at Revelation 1:13 (no earlier reading given))
 - **OWNER RULING:**
 
 ### penny — 4 uses
@@ -9169,7 +9189,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** money
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Penny)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Penny) (EYA videos — not remembered: "penny" (no earlier reading given))
 - **OWNER RULING:**
 
 ### perhaps — 4 uses
@@ -9494,6 +9514,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** thereby
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "thereat" at Matthew 7:13 (no earlier reading given))
 - **OWNER RULING:**
 
 ### thickets — 4 uses
@@ -9530,7 +9551,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** merchandise
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Traffick / Traffickers)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Traffick / Traffickers) (EYA videos — not remembered: "traffick" at 1 Kings 10:15 (no earlier reading given))
 - **OWNER RULING:**
 
 ### train — 4 uses
@@ -9613,6 +9634,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** one without a home
 - reason: KEEP: the word standing is sound period English on Axis 1 and names a source-era-accurate referent on Axis 2 (see attestation above). The whitelist and witness alternates above are workable paraphrases but strictly worse than the word standing: they either dilute a precise period sense (as noted) or simply substitute a synonym for a word already correct, trading fidelity for no gain.
 - source: `batch_3_r2_triage.md`
+- **EYA_SUGGESTION:** Kat does not remember this (EYA videos — not remembered: "vagabond" (study-Bible appendix) — suggested replacement: wanderer)
 - **OWNER RULING:**
 
 ### voluntary — 4 uses
@@ -9678,7 +9700,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** babe
 - reason: KEEP. Unanimous agreement across all nine witnesses including Geneva1599; "infant(s)" is common KJV-adjacent vocabulary (compare "infants" at Luke 18:15 in the same batch) naming an ordinary human referent present in every era.
 - source: `batch_1_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Infant/s)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Infant/s) (EYA videos — not remembered: "infants" at Luke 18:15 — suggested replacement: children ("Jesus blessed the children"))
 - **OWNER RULING:**
 
 ### invited — 3 uses
@@ -9908,7 +9930,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** wickedness
 - reason: KEEP. ASV, Darby, and Webster all independently retain "naughtiness" rather than modernizing it, which is telling: even translators working centuries after 1611 judged it the right word here, not archaic noise. No case for change.
 - source: `batch_1_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Naughtiness)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Naughtiness) (EYA videos — not remembered: "naughtiness" (study-Bible appendix) — suggested replacement: wickedness (James 1:21))
 - **OWNER RULING:**
 
 ### naughty — 3 uses
@@ -10723,7 +10745,7 @@ Suggestions follow the fixed order of the Rare-Word Review List Protocol: `[whit
 - **CODEX_SUGGESTION:** harlot
 - reason: Full unanimous Geneva attestation across all three occurrences and a rock-solid Axis 2 referent (idolatry-as-harlotry is one of the most attested prophetic metaphors); "harlot" is the nearest whitelisted noun but the verse needs the adjective form the noun does not itself supply.
 - source: `batch_2_r2_triage.md`
-- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Whorish)
+- **EYA_SUGGESTION:** Kat does not remember this (EYA index: Whorish) (EYA videos — not remembered: "whorish/whoring" (no earlier reading given))
 - **OWNER RULING:**
 
 ### won — 3 uses

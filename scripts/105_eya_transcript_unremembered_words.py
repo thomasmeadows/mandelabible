@@ -18,23 +18,27 @@ ROOT = Path(__file__).resolve().parent.parent
 TDIR = ROOT / "references" / "eya-video-transcripts"
 OUT = TDIR / "unremembered_words.md"
 
-DIRS = {p.name.split("_", 1)[1]: p.name for p in TDIR.iterdir() if p.is_dir()}
-
-verses = [t.lower() for (t,) in sqlite3.connect(
-    ROOT / "bible_databases/formats/sqlite/KJV.db").execute(
-    "SELECT MIN(text) FROM KJV_verses GROUP BY book_id, chapter, verse")]  # KJV.db stores each verse 7x
-corpus = "\n".join(verses)
-
-index_words = set()
-for line in (ROOT / "references/eya-new-words-list/kjv_word_index.tsv").read_text().splitlines()[1:]:
-    for w in line.split("\t")[0].split("/"):
-        index_words.add(w.strip().lower())
-
-
 from collections import Counter
 from functools import lru_cache
 
-TOKENS = Counter(re.findall(r"[a-z]+", corpus))
+DIRS, corpus, TOKENS, index_words = {}, "", Counter(), set()
+
+
+def load():
+    """Read the transcript folders, KJV.db and the EYA index (rendering only)."""
+    global DIRS, corpus, TOKENS, index_words
+    DIRS = {p.name.split("_", 1)[1]: p.name for p in TDIR.iterdir() if p.is_dir()}
+
+    verses = [t.lower() for (t,) in sqlite3.connect(
+        ROOT / "bible_databases/formats/sqlite/KJV.db").execute(
+        "SELECT MIN(text) FROM KJV_verses GROUP BY book_id, chapter, verse")]  # KJV.db stores each verse 7x
+    corpus = "\n".join(verses)
+
+    index_words = set()
+    for line in (ROOT / "references/eya-new-words-list/kjv_word_index.tsv").read_text().splitlines()[1:]:
+        for w in line.split("\t")[0].split("/"):
+            index_words.add(w.strip().lower())
+    TOKENS = Counter(re.findall(r"[a-z]+", corpus))
 
 
 @lru_cache(maxsize=None)
@@ -480,80 +484,87 @@ def table(head, rows):
     return out
 
 
-lines = [
-    "# Words People Do Not Remember — from the EYA Censored Video Transcripts",
-    "",
-    "Extracted by reading all 64 transcripts in this folder (Videos tab of",
-    "<https://www.youtube.com/@eyacensored-biblechanges>; 2021-09 → 2026-05).",
-    "Each entry is a word or phrase that a speaker says they do not remember in",
-    "the Bible. Where the speaker said what the verse *used to* read, that",
-    "remembered reading is given as the replacement suggestion.",
-    "",
-    "**How to read this list**",
-    "",
-    "- **Source** links open the video at the moment the word is discussed.",
-    "- **KJV** is how often the word appears in the base text",
-    "  (`bible_databases/formats/sqlite/KJV.db`, case-insensitive whole words;",
-    "  each verse counted once; `/` variants summed). **0** means the claimed word is not in our base",
-    "  text at all — usually a modern-Bible reading or a speech-recognition",
-    "  mishearing.",
-    "- **EYA index** ✓ = the word is also in the EYA KJV Word Index already",
-    "  imported at `references/eya-new-words-list/`.",
-    "- The transcripts are YouTube auto-captions, so some spellings were",
-    "  reconstructed from the verse cited; the timestamp lets you check.",
-    "- Advisory corroboration only (Premise Revision): these are testimony",
-    "  leads for review, not approved restorations.",
-    "",
-]
 
-lines += ["## 1. Words with a remembered earlier reading", "",
-          "The speaker named what the verse used to say.", ""]
-lines += table(["Word now in the KJV", "Verse(s)", "Remembered reading → suggested replacement", "KJV", "EYA index", "Note", "Source"],
-               [[f"**{w}**", v, p, cnt(w), idx(w), n, src(s)] for w, v, p, s, n in WITH_PRIOR])
-lines.append("")
+def main():
+    load()
+    lines = [
+        "# Words People Do Not Remember — from the EYA Censored Video Transcripts",
+        "",
+        "Extracted by reading all 64 transcripts in this folder (Videos tab of",
+        "<https://www.youtube.com/@eyacensored-biblechanges>; 2021-09 → 2026-05).",
+        "Each entry is a word or phrase that a speaker says they do not remember in",
+        "the Bible. Where the speaker said what the verse *used to* read, that",
+        "remembered reading is given as the replacement suggestion.",
+        "",
+        "**How to read this list**",
+        "",
+        "- **Source** links open the video at the moment the word is discussed.",
+        "- **KJV** is how often the word appears in the base text",
+        "  (`bible_databases/formats/sqlite/KJV.db`, case-insensitive whole words;",
+        "  each verse counted once; `/` variants summed). **0** means the claimed word is not in our base",
+        "  text at all — usually a modern-Bible reading or a speech-recognition",
+        "  mishearing.",
+        "- **EYA index** ✓ = the word is also in the EYA KJV Word Index already",
+        "  imported at `references/eya-new-words-list/`.",
+        "- The transcripts are YouTube auto-captions, so some spellings were",
+        "  reconstructed from the verse cited; the timestamp lets you check.",
+        "- Advisory corroboration only (Premise Revision): these are testimony",
+        "  leads for review, not approved restorations.",
+        "",
+    ]
 
-lines += ["## 2. The study-Bible word list (Explore Issue rerun, 2016 → 2023)", "",
-          "In [this video](https://www.youtube.com/watch?v=OYWrL4UgDuQ) the",
-          "presenter reads the \"over 500 archaic and obsolete words\" appendix",
-          "from a *Holy Bible, Study Edition (KJV)* and treats each **bold** KJV",
-          "word as new and its listed modern equivalent as the reading that used",
-          "to be there. The pairs below are the ones the auto-captions let us",
-          "reconstruct; several more were too garbled to recover.", ""]
-lines += table(["Word now in the KJV", "Appendix's modern equivalent → suggested replacement", "KJV", "EYA index"],
-               [[f"**{w}**", p, cnt(w), idx(w)] for w, p in APPENDIX])
-lines += ["", f"Source for every row: [{DIRS[OY][:10]}, 05:40–25:54](https://www.youtube.com/watch?v={OY}&t=340s).", ""]
-
-lines += ["## 3. Words people do not remember — no earlier reading given", ""]
-themes = []
-for t, *_ in NO_PRIOR:
-    if t not in themes:
-        themes.append(t)
-for t in themes:
-    lines += [f"### {t}", ""]
-    lines += table(["Word", "Verse(s) cited", "KJV", "EYA index", "Source"],
-                   [[f"**{w}**", v, cnt(w), idx(w), src(s)] for th, w, v, s in NO_PRIOR if th == t])
+    lines += ["## 1. Words with a remembered earlier reading", "",
+              "The speaker named what the verse used to say.", ""]
+    lines += table(["Word now in the KJV", "Verse(s)", "Remembered reading → suggested replacement", "KJV", "EYA index", "Note", "Source"],
+                   [[f"**{w}**", v, p, cnt(w), idx(w), n, src(s)] for w, v, p, s, n in WITH_PRIOR])
     lines.append("")
 
-lines += ["## 4. Names and book titles", ""]
-lines += table(["Name now in the KJV", "Verse(s)", "Remembered name → suggested replacement", "KJV", "Source"],
-               [[f"**{w}**", v, p, cnt(w.split(" (")[0]), src(s)] for w, v, p, s in NAMES])
-lines += ["", "**Book titles**", ""]
-lines += table(["Title now printed", "Remembered title", "Source"],
-               [[f"**{w}**", p, src(s)] for w, p, s in TITLES])
-lines.append("")
+    lines += ["## 2. The study-Bible word list (Explore Issue rerun, 2016 → 2023)", "",
+              "In [this video](https://www.youtube.com/watch?v=OYWrL4UgDuQ) the",
+              "presenter reads the \"over 500 archaic and obsolete words\" appendix",
+              "from a *Holy Bible, Study Edition (KJV)* and treats each **bold** KJV",
+              "word as new and its listed modern equivalent as the reading that used",
+              "to be there. The pairs below are the ones the auto-captions let us",
+              "reconstruct; several more were too garbled to recover.", ""]
+    lines += table(["Word now in the KJV", "Appendix's modern equivalent → suggested replacement", "KJV", "EYA index"],
+                   [[f"**{w}**", p, cnt(w), idx(w)] for w, p in APPENDIX])
+    lines += ["", f"Source for every row: [{DIRS[OY][:10]}, 05:40–25:54](https://www.youtube.com/watch?v={OY}&t=340s).", ""]
 
-lines += ["## 5. Remembered words said to be missing now", "",
-          "The reverse case: words the speakers remember *in* the Bible that",
-          "they can no longer find. These are the earlier readings themselves.", ""]
-lines += table(["Remembered word", "Note", "KJV", "Source"],
-               [[f"**{w}**", n, cnt(w), src(s)] for w, n, s in MISSING])
-lines += ["", "---", "",
-          f"Totals: {len(WITH_PRIOR)} words with a remembered reading, "
-          f"{len(APPENDIX)} study-Bible appendix pairs, {len(NO_PRIOR)} words without one, "
-          f"{len(NAMES)} names, {len(TITLES)} book titles, {len(MISSING)} missing words.",
-          ""]
-OUT.write_text("\n".join(lines), encoding="utf-8")
-print(OUT, len(lines), "lines")
-for name, rows, col in (("WITH_PRIOR", WITH_PRIOR, 0), ("NO_PRIOR", NO_PRIOR, 1), ("APPENDIX", APPENDIX, 0)):
-    zero = [r[col] for r in rows if kjv_count(r[col]) == 0]
-    print(name, "zero-count:", zero)
+    lines += ["## 3. Words people do not remember — no earlier reading given", ""]
+    themes = []
+    for t, *_ in NO_PRIOR:
+        if t not in themes:
+            themes.append(t)
+    for t in themes:
+        lines += [f"### {t}", ""]
+        lines += table(["Word", "Verse(s) cited", "KJV", "EYA index", "Source"],
+                       [[f"**{w}**", v, cnt(w), idx(w), src(s)] for th, w, v, s in NO_PRIOR if th == t])
+        lines.append("")
+
+    lines += ["## 4. Names and book titles", ""]
+    lines += table(["Name now in the KJV", "Verse(s)", "Remembered name → suggested replacement", "KJV", "Source"],
+                   [[f"**{w}**", v, p, cnt(w.split(" (")[0]), src(s)] for w, v, p, s in NAMES])
+    lines += ["", "**Book titles**", ""]
+    lines += table(["Title now printed", "Remembered title", "Source"],
+                   [[f"**{w}**", p, src(s)] for w, p, s in TITLES])
+    lines.append("")
+
+    lines += ["## 5. Remembered words said to be missing now", "",
+              "The reverse case: words the speakers remember *in* the Bible that",
+              "they can no longer find. These are the earlier readings themselves.", ""]
+    lines += table(["Remembered word", "Note", "KJV", "Source"],
+                   [[f"**{w}**", n, cnt(w), src(s)] for w, n, s in MISSING])
+    lines += ["", "---", "",
+              f"Totals: {len(WITH_PRIOR)} words with a remembered reading, "
+              f"{len(APPENDIX)} study-Bible appendix pairs, {len(NO_PRIOR)} words without one, "
+              f"{len(NAMES)} names, {len(TITLES)} book titles, {len(MISSING)} missing words.",
+              ""]
+    OUT.write_text("\n".join(lines), encoding="utf-8")
+    print(OUT, len(lines), "lines")
+    for name, rows, col in (("WITH_PRIOR", WITH_PRIOR, 0), ("NO_PRIOR", NO_PRIOR, 1), ("APPENDIX", APPENDIX, 0)):
+        zero = [r[col] for r in rows if kjv_count(r[col]) == 0]
+        print(name, "zero-count:", zero)
+
+
+if __name__ == "__main__":
+    main()

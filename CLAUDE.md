@@ -133,7 +133,13 @@ unrequested housekeeping or documentation-only work to the roadmap.
     transcript, with the remembered earlier reading as the replacement
     suggestion where one was stated, KJV frequency, and timestamped links.
     Note: `KJV.db` stores every verse 7 times — dedupe on
-    `(book_id, chapter, verse)` before counting. Advisory corroboration only.
+    `(book_id, chapter, verse)` before counting.
+    `scripts/106_eya_video_lines_in_token_triage.py` carries those words
+    into `references/word_lists/token_triage_summary_r2.md`: each matching
+    group's `EYA_SUGGESTION` line (added by script 101, or inserted if
+    absent) gains an `(EYA videos — not remembered: …)` note with the
+    suggested replacement where one was remembered. Append-only and
+    idempotent. Advisory corroboration only.
   - `removed_words/` — triage artifacts (unchanged; permanent per the
     Generated Artifacts rule).
 - `.claude/agents/king-james-middle-english-expert.md` — the "King James"
