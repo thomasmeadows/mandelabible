@@ -72,3 +72,6 @@ exports/custom/
 # Python
 __pycache__/
 *.pyc
+
+# yt-dlp tool venv for scripts/104 (Decision Log #25) — fetch tool, not a project dependency
+.venv-tools/

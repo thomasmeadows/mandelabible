@@ -119,6 +119,15 @@ unrequested housekeeping or documentation-only work to the roadmap.
     are on `word_whitelist.md` — and `on_neither_list.md`
     (`scripts/100_kjv_word_index_on_neither_list.py`) — the entries on
     neither list. Advisory corroboration only.
+  - `eya-video-transcripts/` — caption transcripts of the Videos tab of the
+    EYA Censored YouTube channel (youtube.com/@eyacensored-biblechanges),
+    imported by `scripts/104_import_eya_video_transcripts.py`: one directory
+    per video (`<upload date>_<video id>/` holding `transcript.md`,
+    `metadata.json`, and the raw `captions.*.vtt`) plus `index.md`. Creator
+    captions are used where they exist, otherwise YouTube's auto-generated
+    speech recognition (labelled per transcript). The script fetches with
+    yt-dlp from the gitignored `.venv-tools/` (Decision Log #25); re-runs
+    only fetch new videos. Advisory corroboration only.
   - `removed_words/` — triage artifacts (unchanged; permanent per the
     Generated Artifacts rule).
 - `.claude/agents/king-james-middle-english-expert.md` — the "King James"
