@@ -127,7 +127,13 @@ unrequested housekeeping or documentation-only work to the roadmap.
     captions are used where they exist, otherwise YouTube's auto-generated
     speech recognition (labelled per transcript). The script fetches with
     yt-dlp from the gitignored `.venv-tools/` (Decision Log #25); re-runs
-    only fetch new videos. Advisory corroboration only.
+    only fetch new videos. Also `unremembered_words.md`
+    (`scripts/105_eya_transcript_unremembered_words.py`): the Bible words
+    the speakers say they do not remember, curated by reading every
+    transcript, with the remembered earlier reading as the replacement
+    suggestion where one was stated, KJV frequency, and timestamped links.
+    Note: `KJV.db` stores every verse 7 times — dedupe on
+    `(book_id, chapter, verse)` before counting. Advisory corroboration only.
   - `removed_words/` — triage artifacts (unchanged; permanent per the
     Generated Artifacts rule).
 - `.claude/agents/king-james-middle-english-expert.md` — the "King James"
