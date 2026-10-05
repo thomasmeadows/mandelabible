@@ -90,7 +90,10 @@ unrequested housekeeping or documentation-only work to the roadmap.
   - `word_reviews/` — per-word review passes and their TSV batches
     (chief/head, global swaps, hail, mixed inflections, anachronisms, rescan).
   - `verses/` — verse-level work (`verses_famous.md`, the wheat pass, manual
-    verse corrections, flagged word changes, parenthesis review).
+    verse corrections, flagged word changes, parenthesis review, and
+    `parenthesis_1611_vs_1769.md` — every verse with parentheses in the 1611
+    or 1769 KJV, both readings side by side, from
+    `scripts/103_parentheses_1611_vs_1769.py`).
   - `names/`, `language/` — name normalization/variants; era-language notes
     (inflection reference, ME→EModE, punctuation).
   - `residue/` — TSBC residue text, placements, OCR, proposals, and the
