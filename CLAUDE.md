@@ -91,8 +91,9 @@ unrequested housekeeping or documentation-only work to the roadmap.
     (chief/head, global swaps, hail, mixed inflections, anachronisms, rescan).
   - `verses/` — verse-level work (`verses_famous.md`, the wheat pass, manual
     verse corrections, flagged word changes, parenthesis review, and
-    `parenthesis_1611_vs_1769.md` — every verse with parentheses in the 1611
-    or 1769 KJV, both readings side by side, from
+    `parentheses_1611_vs_1769.md` — a read-only study of how the 1769
+    Oxford edition changed the 1611 parentheses: every verse with both
+    readings, a per-passage "Oxford change" line, and summary patterns, from
     `scripts/103_parentheses_1611_vs_1769.py`).
   - `names/`, `language/` — name normalization/variants; era-language notes
     (inflection reference, ME→EModE, punctuation).
